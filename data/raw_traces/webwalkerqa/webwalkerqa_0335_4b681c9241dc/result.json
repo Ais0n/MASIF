@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0335_4b681c9241dc",
+  "source_index": 335,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What type of content should applicants include in their portfolio to showcase VFX skills for the 2023 Riot Games US Summer Internship?",
+  "prompt": "What type of content should applicants include in their portfolio to showcase VFX skills for the 2023 Riot Games US Summer Internship?",
+  "expected_answer": "A portfolio should be under one minute, showcase your best work, and demonstrate an understanding of color, form, composition, and timing.",
+  "root_url": "https://www.riotgames.com/zh-cn",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/zh-cn/news/art-portfolio-tips-internships-study-guide-riot-vol-3"
+    ],
+    "golden_path": [
+      "root->与我们共事subMenuRight->Learn More->Portfolio Tips & Advice - Riot Games Internship Study Guide Vol. 3"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 16,
+  "tool_calls": 7,
+  "duration_seconds": 25.779,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0335_4b681c9241dc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0335_4b681c9241dc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

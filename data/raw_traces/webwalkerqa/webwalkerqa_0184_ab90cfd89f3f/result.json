@@ -1,0 +1,47 @@
+{
+  "task_id": "webwalkerqa_0184_ab90cfd89f3f",
+  "source_index": 184,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In what year did the MRS plan to hold its first spring meeting in Hawaii, and in what city was this meeting set to be held?",
+  "prompt": "In what year did the MRS plan to hold its first spring meeting in Hawaii, and in what city was this meeting set to be held?",
+  "expected_answer": "The MRS plans to hold its first spring meeting in Hawaii in 2026, in Honolulu.",
+  "root_url": "https://www.mrs.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-spring-meeting-exhibit"
+    ],
+    "golden_path": [
+      "root->2026 MRS Spring Meeting & Exhibit"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The MRS planned to hold its first spring meeting in Hawaii in 2026, and the meeting was set to be held in Honolulu.",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\n  \"verdict\": \"match\",\n  \"reason\": \"The predicted answer provides the exact same factual information (2026 and Honolulu",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 28.949,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0184_ab90cfd89f3f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0184_ab90cfd89f3f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "{\n  \"verdict\": \"match\",\n  \"reason\": \"The predicted answer provides the exact same factual information (2026 and Honolulu",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

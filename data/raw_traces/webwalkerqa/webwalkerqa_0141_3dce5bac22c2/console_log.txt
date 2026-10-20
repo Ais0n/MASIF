@@ -1,0 +1,530 @@
+----- user -----
+query:
+山东财经大学计算机与人工智能学院在2024年11月9日召开的人工智能2402班班会上，谁主持了活动，并强调了禁毒工作的重要性？
+official website:
+https://cs.sdufe.edu.cn/
+Observation:website information:
+
+          
+]( "计算机新")
+                                                                                                            
+]( "计算机新")
+                                                                                                            
+NEWS...
+学院要闻
+ 查看更多 ](
+ 2026年04月23日 青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采 为丰富校园文化生活，展现青年学子昂扬向上的精神风貌，营造朝气蓬勃的校园氛围，4月23日，我校第十一届校园啦啦操比赛在章丘校区举办。 ]( "青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采")
+ 2026年04月22日 我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕 4月22日晚，我院“智汇国安 思辨未来——AI时代守正创新”主题辩论赛决赛在章丘校区圆满举行，院团委书记李晨露，辅导员潘云默、郑雅馨，300余名同学参加活动。 ]( "我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕")
+ 2026年04月30日 追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩 山东财经大学2026年春季运动会于4月29日至30日在章丘校区隆重举行。学院运动员以昂扬姿态亮相赛场，尽显青春风采与团队力量。 ]( "追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩")
+ 2026年04月23日 青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采 为丰富校园文化生活，展现青年学子昂扬向上的精神风貌，营造朝气蓬勃的校园氛围，4月23日，我校第十一届校园啦啦操比赛在章丘校区举办。 ]( "青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采")
+ 2026年04月22日 我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕 4月22日晚，我院“智汇国安 思辨未来——AI时代守正创新”主题辩论赛决赛在章丘校区圆满举行，院团委书记李晨露，辅导员潘云默、郑雅馨，300余名同学参加活动。 ]( "我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕")
+ 2026年04月30日 追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩 山东财经大学2026年春季运动会于4月29日至30日在章丘校区隆重举行。学院运动员以昂扬姿态亮相赛场，尽显青春风采与团队力量。 ]( "追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩")
+ 2026年04月23日 青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采 为丰富校园文化生活，展现青年学子昂扬向上的精神风貌，营造朝气蓬勃的校园氛围，4月23日，我校第十一届校园啦啦操比赛在章丘校区举办。 ]( "青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采")
+!!
+! 
+### 
+! 
+### 
+### 
+### 
+### 
+### 
+NOTICE...
+通知公告
+ 查看更多 ](
+!
+!
+!
+!
+!
+!
+!
+    
+!
+!
+!
+2023年10月11日
+带有晶格拓扑的超像素快速生成算法 
+带有晶格拓扑的超像素快速生成算法----潘晓，周元峰，张云峰，张彩明
+ACADEMIC...
+学术动态
+ 查看更多 ](
+ 基于锚点图的自加权不完整多视图聚类法 基于锚点图的自加权不完整多视图聚类法——于晓，刘慧，林毓秀，吴彦，张彩明 ]( "基于锚点图的自加权不完整多视图聚类法")  基于本质自表示的多视角子空间聚类 基于本质自表示的多视角子空间聚类——于晓，刘慧，吴彦，张彩明 ]( "基于本质自表示的多视角子空间聚类")  山东财经大学区块链疫情采集监测系统 “区块链疫情采集监测系统”由山东财经大学计算机科学与技术学院、山东省区块链金融重点实验室、阿里云、山东省立医院等技术力量协同研发部署。 ]( "山东财经大学区块链疫情采集监测系统")
+NEWS...
+新IT大讲堂
+ 查看更多 ](
+  梁吉业 ! 2025年5月10日（周六）14:30 ! 燕山校区3号楼3306 ]( "\[No.89\]CCF-AI走进高校活动")
+  陈恩红 ! 2025年4月25日（周五）14:30 ! 燕山校区3号楼3306 ]( "\[No.88\]大模型理解与应用研讨会")
+  杜岚 ! 2024年10月20日（周日）14:30 ! 燕山校区1406会议室 ]( "\[No.87\]Diversity Enhanced Active Learning with Strictly Proper Scoring Rules")
+  ! 2024年6月5-8日(周三-周六) ! 中国青岛 ]( "\[No.86\]International Conference on Geometric Modeling and Processing \(GMP 2024\)")
+  ! 2024年7月26日-28日 ! 中国西安 ]( "\[No.85\]第五届人工智能与机器人关键技术大会征稿通知")
+  徐常胜 ! 2026年3月7日（周六）14:00 ! 燕山校区1号楼1406 ]( "\[No.94\]开放世界的多模态大模型研究与应用")
+  张盛平 ! 2025年12月16日（周二）10:30 ! 燕山校区1号教学楼1406会议室 ]( "\[No.93\]2026年度国家自然科学基金申报辅导系列报告会（二）")
+  孟庆刚 ! 2025年8月19日（周二）14:00 ! 燕山校区1406会议室 ]( "\[No.92\]Harnessing AI and Embedded Intelligence to Tackle Real-World Challenges")
+  沈琳琳 ! 2025年7月19日（周六）10:00 ! 燕山校区1号楼1406 ]( "\[No.91\]从通用/垂域大模型到智能体")
+  马占宇 ! 2025年5月27日（周二）14:30 ! 燕山校区3号楼3306 ]( "\[No.90\]图像内容理解与生成")
+  梁吉业 ! 2025年5月10日（周六）14:30 ! 燕山校区3号楼3306 ]( "\[No.89\]CCF-AI走进高校活动")
+  陈恩红 ! 2025年4月25日（周五）14:30 ! 燕山校区3号楼3306 ]( "\[No.88\]大模型理解与应用研讨会")
+  杜岚 ! 2024年10月20日（周日）14:30 ! 燕山校区1406会议室 ]( "\[No.87\]Diversity Enhanced Active Learning with Strictly Proper Scoring Rules")
+  ! 2024年6月5-8日(周三-周六) ! 中国青岛 ]( "\[No.86\]International Conference on Geometric Modeling and Processing \(GMP 2024\)")
+  ! 2024年7月26日-28日 ! 中国西安 ]( "\[No.85\]第五届人工智能与机器人关键技术大会征稿通知")
+  徐常胜 ! 2026年3月7日（周六）14:00 ! 燕山校区1号楼1406 ]( "\[No.94\]开放世界的多模态大模型研究与应用")
+  张盛平 ! 2025年12月16日（周二）10:30 ! 燕山校区1号教学楼1406会议室 ]( "\[No.93\]2026年度国家自然科学基金申报辅导系列报告会（二）")
+  孟庆刚 ! 2025年8月19日（周二）14:00 ! 燕山校区1406会议室 ]( "\[No.92\]Harnessing AI and Embedded Intelligence to Tackle Real-World Challenges")
+  沈琳琳 ! 2025年7月19日（周六）10:00 ! 燕山校区1号楼1406 ]( "\[No.91\]从通用/垂域大模型到智能体")
+  马占宇 ! 2025年5月27日（周二）14:30 ! 燕山校区3号楼3306 ]( "\[No.90\]图像内容理解与生成")
+!!
+!
+AI...
+AI时代
+ 查看更多 ](
+!
+!
+!
+地址：济南市二环东路7366号
+电话（传真）：0531-88596228
+邮箱：2518190445@qq.com
+!
+欢迎关注微信公众号
+山东财经大学计算机与人工智能学院 版权所有 COPYRIGHT@2025
+    
+](
+                                                                                                            
+;)
+1 : 00 AM
+  
+Hour
+Minutes
+;) ;)   
+;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;)   
+;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;)   
+;)   
+
+
+clickable button:
+
+<button>官方微信<button>
+<button>首页<button>
+<button>学院要闻<button>
+<button>通知公告<button>
+<button>学术动态<button>
+<button>新IT卓越大讲堂<button>
+<button>AI时代<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>师资队伍<button>
+<button>教师名录<button>
+<button>知名专家<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>党群工作<button>
+<button>党群动态<button>
+<button>组织建设<button>
+<button>制度建设<button>
+<button>学生工作<button>
+<button>学工队伍<button>
+<button>学团活动<button>
+<button>学团风采<button>
+<button>合作交流<button>
+<button>社会服务<button>
+<button>国际合作<button>
+<button>校友之家<button>
+<button>查看更多<button>
+<button>2026年04月23日青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采为丰富校园文化生活，展现青年学子昂扬向上的精神风貌，营造朝气蓬勃的校园氛围，4月23日，我校第十一届校园啦啦操比赛在章丘校区举办。<button>
+<button>2026年04月22日我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕4月22日晚，我院“智汇国安 思辨未来——AI时代守正创新”主题辩论赛决赛在章丘校区圆满举行，院团委书记李晨露，辅导员潘云默、郑雅馨，300余名同学参加活动。<button>
+<button>2026年04月30日追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩山东财经大学2026年春季运动会于4月29日至30日在章丘校区隆重举行。学院运动员以昂扬姿态亮相赛场，尽显青春风采与团队力量。<button>
+<button>我院举办2026年“三千计划”社会实...<button>
+<button>计算机与人工智能学院组织教师到冠...<button>
+<button>“铸魂育人”国防教育辅导员工作...<button>
+<button>智启青春 体健未来——我院吉尼斯...<button>
+<button>计算机与人工智能学院到三涧溪开...<button>
+<button>字节跳动TRAE走进山东财经大学：A...<button>
+<button>查看更多<button>
+<button>2026年04月13日关于公布2025级校园心理剧大赛获奖人员的通知<button>
+<button>2026年04月03日计算机与人工智能学院党建IP形象设计征集活动通知<button>
+<button>2026年04月02日关于举办“财智校园，AI同行”编程黑客松 活动的通知<button>
+<button>2026年04月01日计算机与人工智能学院“春日光影·逐梦运动”创作征集大赛通知<button>
+<button>2026年04月01日关于开展全民国家安全教育日主题团日活动的通知<button>
+<button>查看更多<button>
+<button>基于锚点图的自加权不完整多视图聚类法基于锚点图的自加权不完整多视图聚类法——于晓，刘慧，林毓秀，吴彦，张彩明<button>
+<button>基于本质自表示的多视角子空间聚类基于本质自表示的多视角子空间聚类——于晓，刘慧，吴彦，张彩明<button>
+<button>山东财经大学区块链疫情采集监测系统“区块链疫情采集监测系统”由山东财经大学计算机科学与技术学院、山东省区块链金融重点实验室、阿里云、山东省立医院等技术力量协同研发部署。<button>
+<button>查看更多<button>
+<button>[No.89][No.89]CCF-AI走进高校活动梁吉业2025年5月10日（周六）14:30燕山校区3号楼3306<button>
+<button>[No.88][No.88]大模型理解与应用研讨会陈恩红2025年4月25日（周五）14:30燕山校区3号楼3306<button>
+<button>[No.87][No.87]Diversity Enhanced Active Lear...杜岚2024年10月20日（周日）14:30燕山校区1406会议室<button>
+<button>[No.86][No.86]International Conference on Ge...2024年6月5-8日(周三-周六)中国青岛<button>
+<button>[No.85][No.85]第五届人工智能与机器人关键技术...2024年7月26日-28日中国西安<button>
+<button>[No.94][No.94]开放世界的多模态大模型研究与应...徐常胜2026年3月7日（周六）14:00燕山校区1号楼1406<button>
+<button>[No.93][No.93]2026年度国家自然科学基金申报辅...张盛平2025年12月16日（周二）10:30燕山校区1号教学楼1406会议室<button>
+<button>[No.92][No.92]Harnessing AI and Embedded Int...孟庆刚2025年8月19日（周二）14:00燕山校区1406会议室<button>
+<button>[No.91][No.91]从通用/垂域大模型到智能体沈琳琳2025年7月19日（周六）10:00燕山校区1号楼1406<button>
+<button>[No.90][No.90]图像内容理解与生成马占宇2025年5月27日（周二）14:30燕山校区3号楼3306<button>
+<button>查看更多<button>
+<button>2025年06月25日OpenAI与甲骨文强强联手，打造星际之门数据中心计划OpenAI 与甲骨文近日宣布深化合作，共同推进 “星际之门” 计划，旨在通过扩建数据中心集...<button>
+<button>2025年06月14日Claude Code再升级！Hooks功能解锁AI编程新境界，自动化更智能。Anthropic 推出的 Claude Code 凭借强大的代码理解与自动化能力，已成为众多开发者的得力...<button>
+<button>2025年06月07日Shortcut横空出世！AI Excel助手10倍速碾压人类冠军，自动化任务效率飙升。Shortcut 是一款引发热议的 AI Excel 助手，依托自然语言处理技术，让用户无需编写复杂公...<button>
+<button>2025年05月28日国内有哪些ai大模型？一文看懂中国核心AI大模型全景。OpenAI 于 26 日宣布，将在首尔设立办公室并正式进入韩国市场，旨在加强与韩国人工智能（...<button>
+<button>中华人民共和国教育部<button>
+<button>山东省教育厅（省委教育工委）<button>
+<button>中国计算机学会<button>
+<button>山东省计算机学会<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find information about the 2024年11月9日 meeting of the AI2402 class in the School of Computer Science and Artificial Intelligence at Shandong University of Finance and Economics. Since the official website does not directly provide this information, I will explore the website by clicking on relevant buttons to search for related news or events.
+
+Action: visit_page
+Action Input: {"button": "学院要闻"}
+
+----- VisitPage -----
+The web information is:
+
+          
+]( "计算机新")
+                                                                                                            
+]( "计算机新")
+                                                                                                            
+学院要闻
+ 
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *  
+|   
+ | 共843条 1/85   |  首页上页 页  |  
+| --- | --- |  
+ |  
+  * ]( "学院要闻")
+  * ]( "通知公告")
+  * ]( "学术动态")
+  * ]( "新IT卓越大讲堂")
+  * ]( "AI时代")
+!
+!
+!
+地址：济南市二环东路7366号
+电话（传真）：0531-88596228
+邮箱：2518190445@qq.com
+!
+欢迎关注微信公众号
+山东财经大学计算机与人工智能学院 版权所有 COPYRIGHT@2025
+    
+](
+                                                                                                            
+;)
+1 : 00 AM
+  
+Hour
+Minutes
+;) ;)   
+;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;)   
+;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;)   
+;)   
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学校首页<button>
+<button>人才招聘<button>
+<button>服务门户<button>
+<button>官方微信<button>
+<button>English<button>
+<button>首页<button>
+<button>学院要闻<button>
+<button>通知公告<button>
+<button>学术动态<button>
+<button>新IT卓越大讲堂<button>
+<button>AI时代<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>师资队伍<button>
+<button>教师名录<button>
+<button>知名专家<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>党群工作<button>
+<button>党群动态<button>
+<button>组织建设<button>
+<button>制度建设<button>
+<button>学生工作<button>
+<button>学工队伍<button>
+<button>学团活动<button>
+<button>学团风采<button>
+<button>合作交流<button>
+<button>社会服务<button>
+<button>国际合作<button>
+<button>校友之家<button>
+<button>2026年04月30日追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩<button>
+<button>2026年04月23日青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采<button>
+<button>2026年04月22日我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕<button>
+<button>2026年04月19日我院举办2026年“三千计划”社会实践 启动仪式暨立项说明会<button>
+<button>2026年04月18日计算机与人工智能学院组织教师到冠珍轩考察学习<button>
+<button>2026年04月16日“铸魂育人”国防教育辅导员工作室召开国防教育学生组织工作座谈会<button>
+<button>2026年04月16日智启青春 体健未来——我院吉尼斯运动挑战赛燃动校园<button>
+<button>2026年04月13日计算机与人工智能学院到三涧溪开展专题学习活动<button>
+<button>2026年04月13日字节跳动TRAE走进山东财经大学：AI编程黑客松 火热启幕<button>
+<button>2026年04月13日心向暖阳，逐光而行 ——我院校园心理剧大赛圆满落幕<button>
+<button>下页<button>
+<button>尾页<button>
+<button>中华人民共和国教育部<button>
+<button>山东省教育厅（省委教育工委）<button>
+<button>中国计算机学会<button>
+<button>山东省计算机学会<button>
+
+----- WebWalker -----
+Thought: The "学院要闻" section does not contain information about the AI2402 class meeting on November 9, 2024. I will now check the "通知公告" section to see if there is any relevant information.
+
+Action: visit_page
+Action Input: {"button": "通知公告"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+The "通知公告" section does not contain information about the AI2402 class meeting on November 9, 2024. I will now check the "学术动态" section to see if there is any relevant information.
+
+Action: visit_page
+Action Input: {"button": "学术动态"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+The "学术动态" section does not contain information about the AI2402 class meeting on November 9, 2024. I will now check the "新IT卓越大讲堂" section to see if there is any relevant information.
+
+Action: visit_page
+Action Input: {"button": "新IT卓越大讲堂"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+The "新IT卓越大讲堂" section does not contain information about the AI2402 class meeting on November 9, 2024. I will now check the "AI时代" section to see if there is any relevant information.
+
+Action: visit_page
+Action Input: {"button": "AI时代"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+The "AI时代" section does not contain information about the AI2402 class meeting on November 9, 2024. I will now check the "学院概况" section to see if there is any relevant information.
+
+Action: visit_page
+Action Input: {"button": "学院概况"}
+
+----- VisitPage -----
+The web information is:
+
+          
+]( "计算机新")
+                                                                                                            
+]( "计算机新")
+                                                                                                            
+学院概况
+  
+1982年，山东经济学院计算机教研室在财经教育领域应势而生，40多年来，该学科根植经济和管理优势学科的沃土，不断发展壮大，交叉融合，至今已羽翼丰满，成为独具“财经智能”特色的国际化、开放型工科学院——山东财经大学计算机与人工智能学院。
+学院现有数据科学与财经人工智能、数据挖掘与可视化2个交叉学科博士点；计算机科学与技术、电子信息2个硕士点；计算机科学与技术、数字媒体技术、人工智能三个本科专业，形成了“本硕博”贯通的人才培养体系。计算机科学与技术和数字媒体技术本科专业为国家首批一流本科专业建设点。在校友会2024中国大学专业排行榜中，数字媒体技术专业排名（研究型）以（5★，A+）位列全国第4、山东第1；计算机科学与技术专业（研究型）以（4★，B++）, 位列全国第60、山东第2；人工智能专业排名（研究型）以（3★，A）位列全国第15、山东第2。计算机应用技术、计算机软件与理论为山东省重点学科，“工程学”和“计算机科学”分别进入ESI全球排名前1%，计算机科学与工程学科进入“软科世界一流学科排名”榜单，为全国财经类高校三甲之一。
+**一、普通本科专业**
+1.计算机科学与技术（080901）
+2000年设立，教育品牌：国家级一流本科专业；山东省高水平应用型重点立项建设专业--核心专业；山东省教育服务新旧动能转换专业对接产业项目专业等。培养特色：面向互联网4.0(价值网络)和智慧城市，金融区块链、数据挖掘、智能技术等。
+2.数字媒体技术（080906）
+2005年设立，教育品牌：国家级一流本科专业；山东省高水平应用型重点立项建设专业；山东省品牌特色专业等。培养特色：面向互联网4.0(价值网络)和智慧城市，价值媒体、智能媒体、数据可视化技术等。
+3.人工智能(080717T)
+2019年设立，2020年开始招生。教育品牌：经教育部批准新设专业。培养特色：面向互联网4.0(价值网络)和智慧城市，金融智能、会计智能、审计智能等智能软件技术。
+**二、校企合作本科专业**
+1.计算机科学与技术（金融信息化）（080901），2015年与浪潮集团合作。
+2.计算机科学与技术（金融大数据）（080901），2016年与慧科集团合作（2021年停止招生）。
+**三、研究生学科点**  
+1.学术硕士点：计算机科学与技术一级学科硕士点（0812）
+本学科计算机应用技术二级硕士点始建于2005年，2009年设立计算机科学与技术一级学科硕士点，现有计算机应用技术、计算机软件与理论、数字媒体技术、金融信息工程、人工智能五个二级学科方向。其中，计算机应用技术、计算机软件与理论为省级重点学科。根据教育部关于印发《高等学校人工智能创新行动计划》的通知，2019年申请设立“人工智能”方向。培育学科方向：区块链金融、计算社会科学。
+2.学术博士点：数据科学与财经人工智能（99J9）、数据挖掘与可视化二级博士点（0714）
+2024年，学院新增数据科学与财经人工智能交叉学科博士点。2018年，我校统计学科进入新增博士学位授权一级学科名单。一级博士点有四个学科方向：金融统计与风险管理、社会经济统计学、数理统计学、数据挖掘与可视化。其中数据挖掘与可视化二级博士点设在计算机科学与技术学院建设。
+**四、省级研究平台**
+1.数字科技与数字经济融合创新山东省高校实验室
+2.山东省数字经济轻量智算与可视化重点实验室
+3.山东省中美数字媒体国际合作研究中心
+4.山东省金融信息工程技术研究中心  
+5.山东省信息可视化与计算经济工程技术研究中心
+6.山东省社会治理智能化技术创新中心
+**五、省级以上教学平台**
+1.山东省数字媒体内容实验教学示范中心
+2.经济与管理国家级实验教学示范中心
+**六、省级人才团队**
+1.山东省泰山学者特聘专家团队（医学影像分析与辅助诊断）
+2.山东省泰山学者青年专家团队（计算机视觉与智能信息处理）
+3.山东省泰山学者青年专家团队（智能数据分析与处理）
+4.山东省优势学科人才培育团队（机器学习与大数据分析）
+5.山东省高校优秀科研创新团队（数字媒体与文化创意）
+6.山东省高等学校青创人才引育计划团队（数据挖掘与可视化）
+7.山东省高校青创科技计划团队（可视媒体智能计算）
+8.山东省高校青创科技计划团队（大数据建模与智能分析）
+9.山东省高校青创科技计划团队（可视数据建模与智能信息处理）
+10.山东省高校青创科技计划团队（计算机视觉与数据智能分析）
+**七、教学机构**
+1.计算机科学与技术系：计算机科学与技术专业
+2.计算金融系：金融大数据、金融信息化校企合作计算机科学与技术专业
+3.数字媒体系：数字媒体技术专业
+4.人工智能系：人工智能专业
+5.实验实践教学中心(山东省数字媒体内容实验教学示范中心)
+—计算机科学与技术教学实验室（省部共建）：计算机公共实验室、计算机硬件实验室、计算机软件实验室、网络与信息安全实验室、数据库-移动开发实验室、区块链实验室。
+—数字媒体教学实验室（省部共建）：数据挖掘与可视化实验室、可视媒体实验室、音频实验室、人机交互实验室、VR/AR实验室、游戏开发实验室、智能媒体实验室。
+—人工智能教学实验室（省部共建）：大数据公共实验室、人工智能公共实验室、财经智能实验室、人工智能产品开发实验室。
+—实践教学基地（校企共建）：计算机科学与技术实践教育基地（共建单位：浪潮集团有限公司）、金融智能软件实践教育基地（共建单位：中创软件工程股份有限公司）、智能新媒体实践教育基地（共建单位：山东广电--山东海看网络科技有限公司）。
+**八、深度合作企业**
+与浪潮集团有限公司、中创软件工程股份有限公司、山东海看网络科技有限公司、科大讯飞股份有限公司、阿里云计算有限公司等20余家计算机、人工智能、金融软件、智能媒体、区块链、智能交通、智慧城市、可视化等相关领域的高新技术企业深度合作。
+计算机与人工智能学院始终坚持“高起点、高标准、高质量、有特色”的办学宗旨，大力实施“新IT卓越人才培养计划”，加强与国内外企业及高校交流与合作，注重科技成果转化。“立足济南，服务山东，面向全国，融入一带一路”，积极服务社会。近年来学院发展迅速，现有教职员工95人，专任教师79人，其中教授18人，副教授34人；其中，泰山学者特聘专家1名，泰山学者青年专家2名，突出贡献中青年专家1名，全球前2%顶尖科学家1名，山东省优秀青年科学基金获得者2人，山东省“三八红旗手”1人，博士生导师9人，硕士生导师36人。建设有山东省泰山学者特聘专家团队、山东省优势学科人才培育团队、山东省高校优秀科研创新团队等10支省级人才团队。已形成一支以知名教授为指导，以本院教授学术带头，青年博士为骨干的特色教师队伍。
+近年来，学院承担国家自然基金重大国际交流与合作项目1项，国家重点研发项目1项，承担国家级项目30余项，教育部重点课题1项，省部级项目100余项，在国内外重要学术刊物及会议发表论文800余篇，其中被SCI/EI检索650余篇，出版专业教材10余部。获教育部科技进步一等奖1项，二等奖1项，山东省科技进步一等奖1项，二等奖5项及三等奖多项，山东省政府文化创新奖1项，其他省部级等各奖项20余项，发明专利70余项。获省级教学成果二等奖以上奖励15项。近三年学生参加竞赛获省级奖500余项，国家级奖项100余项。
+面向数字中国国家战略对复合型、数字化人才需求，学院大力推进产教融合，与济南市高新区管委会、浪潮软件股份有限公司联合设立“人工智能与数字财经现代产业学院“。发挥财经特色优势，以产业项目驱动培养具有创新能力的“一专多能”型开发应用人才。  
+学院砥砺前行四十余载，为国家培养了万余名踏实敬业、会学善用、社会责任感强的高级专门人才，谱写出生生不息的文化育人弦歌。计算机学科点成立以来，研究生连年保持100%高质量就业。本科生保持高就业率和高质量就业，连续三年获得山东财经大学就业工作先进单位。毕业生主要就业去向：约 25%进入国内知名 IT 企业，约 25%进入金融领域单位，约30%考研升学至国内外知名高校，约 20% 考入政府、事业单位和大型国有企业，约1%自主创业成为财富精英等，大批学生已成为行业翘楚和技术骨干。学院内部有学业上升通道，优秀学生可直接保送硕士研究生或硕博连读。学院成立了集本科生+硕士生+博士生的综合型创新团队63支，新生入校既有导师带领和指导，开展有组织的学习和研发，促进团队学习和传帮带文化传承。
+迎千佛山、佛慧山之风，承趵突泉、大明湖之水，钟灵毓秀，人杰地灵的山东财经大学必将成就你精彩人生。
+学计算机，走复兴路，“千淘万漉虽辛苦，吹尽狂沙始到金”。怀四方志，来山财大，“大鹏一日同风起，扶摇直上九万里”。山东财经大学计算机与人工智能学院欢迎您！
+  
+  
+  * ]( "学院简介")
+  * ]( "学院领导")
+  * ]( "机构设置")
+!
+!
+!
+地址：济南市二环东路7366号
+电话（传真）：0531-88596228
+邮箱：2518190445@qq.com
+!
+欢迎关注微信公众号
+山东财经大学计算机与人工智能学院 版权所有 COPYRIGHT@2025
+    
+](
+                                                                                                            
+;)
+1 : 00 AM
+  
+Hour
+Minutes
+;) ;)   
+;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;)   
+;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;)   
+;)   
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学校首页<button>
+<button>人才招聘<button>
+<button>服务门户<button>
+<button>官方微信<button>
+<button>English<button>
+<button>首页<button>
+<button>学院要闻<button>
+<button>通知公告<button>
+<button>学术动态<button>
+<button>新IT卓越大讲堂<button>
+<button>AI时代<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>师资队伍<button>
+<button>教师名录<button>
+<button>知名专家<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>党群工作<button>
+<button>党群动态<button>
+<button>组织建设<button>
+<button>制度建设<button>
+<button>学生工作<button>
+<button>学工队伍<button>
+<button>学团活动<button>
+<button>学团风采<button>
+<button>合作交流<button>
+<button>社会服务<button>
+<button>国际合作<button>
+<button>校友之家<button>
+<button>中华人民共和国教育部<button>
+<button>山东省教育厅（省委教育工委）<button>
+<button>中国计算机学会<button>
+<button>山东省计算机学会<button>
+
+----- WebWalker -----
+Thought: The "学院概况" section does not contain information about the AI2402 class meeting on November 9, 2024. I will now check the "学院简介" section to see if there is any relevant information.
+
+Action: visit_page
+Action Input: {"button": "学院简介"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: The "学院简介" section does not contain information about the AI2402 class meeting on November 9, 2024. I will now check the "学院领导" section to see if there is any relevant information.
+
+Action: visit_page
+Action Input: {"button": "学院领导"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag

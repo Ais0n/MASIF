@@ -1,0 +1,297 @@
+----- user -----
+query:
+在DCMI 2023年大会（由Kyungpook National University主办）期间，11月8日是会议的第几天？
+official website:
+https://dublincore.org/
+Observation:website information:
+
+ ](
+Open menu
+Events
+  
+Community
+   
+Resources
+     
+About DCMI
+   
+### Organisation
+     
+    
+!
+Close menu
+     
+     
+    
+#  2026 August 3rd to 7th
+DCMI 2026
+Seoul, Korea
+DCMI 2026, the twenty-fourth International Conference on Dublin Core and Metadata Applications, will be hosted at the National Library of Korea, Seoul, from Monday, August 3 to Friday, August 7. The conference theme is "Meaning-Driven AI: Using Metadata to Align Systems with Human Values". 
+ ](
+## DCMI Initiatives
+ ](  ](  ](  ](
+ ](
+ Webinars 
+ ](
+ Webinars 
+ ](
+ Webinars 
+##  Themes 
+The activities of DCMI, its members and its communities are broadly characterised under four themes.  
+     DCMI develops and curates open-standard metadata vocabularies such as the Dublin Core; hosts the Learning Resource Metadata Initiative (LRMI); and provides good-neighbor support for other related metadata activities.  
+     DCMI's international community of metadata practitioners and experts meet in working groups and at an annual conference to share implementation experience and reports on research and new developments.  
+     Teachers and experts of metadata technologies from around the world hold tutorials, online meetings, and webinars to discuss and disseminate innovative metadata solutions.  
+     Since pioneering the Application Profile in the 1990s, DCMI continues to develop profiles and related vocabularies spanning practical techniques such as spreadsheets and modern technologies such as data shapes. 
+###  Regional Members 
+ The National Library Board of Singapore  ](  The National Library of Finland  ](  The National Library of Korea  ](
+###  Institutional Members 
+ Brandeis University  ](  Stanford University Libraries  ](  University of Porto  ](  hbz  ](  National Library of Sweden  ](  CEDIA  ](  Göttingen State and University Library  ](  Shanghai Library  ](  Simmons University  ](  The National Library of Portugal  ](  UNESP  ](  University of Edinburgh  ](  ZBW  ](
+## Footer
+!
+DCMI is an organization supporting innovation in metadata design and best practices across the metadata ecology. 
+    
+ ](
+### Specifications
+          
+### Outreach
+          
+### Organisation
+            
+### Website
+        
+Unless indicated otherwise, DCMI documents are licensed under a  . Please see the  for further instructions. 
+ © 1995-2026   . DCMI  ,  ,  apply. Your interactions with this site are in accordance with our  statements. 
+The Dublin Core Metadata Initiative (DCMI) is a project of ASIS&T—a U.S. 501(c)(3) nonprofit under the U.S. Internal Revenue Code. Contributions to DCMI through ASIS&T are tax-deductible to the full extent of the law in the United States. 
+Deployed with   on  05 May 26 12:18 UTC 
+  *[
+            
+          ]: Dublin Core Metadata Initiative
+
+
+clickable button:
+
+<button>Dublin Core<button>
+<button>Specifications<button>
+<button>Annual ConferencesContinuing an unbroken sequence of more than twenty years of DCMI Annual Conferences.<button>
+<button>Workshops (1995–2000)The foundational Dublin Core workshops that established the metadata standard.<button>
+<button>Webinars & TutorialsOccasional webinars and online tutorials orgainized by the DCMI.<button>
+<button>DCMI 2026 Conference<button>
+<button>DCMI CommunityDCMI is defined by its community which is responsible for the innovative developments and evolving good practices.<button>
+<button>LRMI Working GroupThe LRMI™ Working Group is charged with defining and executing DCMI work on the LRMI family of metadata specifications.<button>
+<button>Application Profiles Working GroupWorking Group for a revised framework to support application profiles, a revised abstract model, and core vocabulary of components and constraints.<button>
+<button>News<button>
+<button>DCMI BlogOccasional blog posts report on developments in metadata innovation and practice.<button>
+<button>Metadata BasicsThe DCMI approach to metadata aims at achieving pragmatic interoperability among traditional and newer technologies on the basis of knowledge graph design principles.<button>
+<button>Dublin Core™ User GuideA basic guide in the use of Dublin Core and other DCMI vocabularies.<button>
+<button>GlossaryA guide to terminology used in the DCMI community, past and present, with reflections on how our language for talking about metadata has evolved.<button>
+<button>LRMI ResourcesArchived LRMI resources including presentations, reports, and implementations.<button>
+<button>About DCMI<button>
+<button>DCMI Themes<button>
+<button>DCMI History<button>
+<button>About LRMI<button>
+<button>Members<button>
+<button>Governance<button>
+<button>By-laws<button>
+<button>Directorate<button>
+<button>Usage Board<button>
+<button>Collaborations<button>
+<button>Contact<button>
+<button>Conferences<button>
+<button>Workshops<button>
+<button>Webinars<button>
+<button>Community<button>
+<button>Learning Resources<button>
+<button>Themes<button>
+<button>Governing Board<button>
+<button>Conference Home<button>
+<button>Call for Participation<button>
+<button>View conference details<button>
+<button>Stewardship<button>
+<button>Learning<button>
+<button>Development<button>
+<button>DCMI Metadata Terms<button>
+<button>DCMI Specifications<button>
+<button>Dublin Core Schemas<button>
+<button>LRMI<button>
+<button>BIBO<button>
+<button>DCMI Blog<button>
+<button>Resources<button>
+<button>DCMI Community<button>
+<button>Privacy<button>
+<button>Legal<button>
+<button>DCMI Document Notice<button>
+<button>Copyright<button>
+<button>DCMI<button>
+<button>liability<button>
+<button>trademark/service mark<button>
+<button>document use rules<button>
+<button>privacy<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about DCMI 2023 and determine what day November 8th was during the conference. Since the official website does not directly provide this information, I will explore the website further by clicking on relevant buttons.
+
+Action: visit_page
+Action Input: {"button": "Conferences"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+Open menu
+Events
+  
+Community
+   
+Resources
+     
+About DCMI
+   
+### Organisation
+     
+    
+!
+Close menu
+     
+     
+    
+Go to...  Home 
+  1. 
+  2. DCMI Annual Conferences
+# DCMI Annual Conferences
+ ](   
+DCMI 2026 Seoul will be hosted by National Library of Korea and is scheduled to run from August 3, 2026 to August 7, 2026 
+ ](   
+DCMI 2025 Barcelona was hosted by University of Barcelona and ran from October 19, 2025 to October 25, 2025 
+ ](   
+DCMI 2024 Toronto was hosted by University of Toronto and ran from October 20, 2024 to October 23, 2024 
+ ](   
+DCMI 2023 Daegu was hosted by Kyungpook National University and ran from November 6, 2023 to November 11, 2023 
+ ](   
+DCMI 2022 was hosted by DCMI and ran from October 3, 2022 to October 7, 2022 
+ ](   
+DCMI Virtual 2021 was hosted by DCMI and ran from October 4, 2021 to October 15, 2021 
+ ](   
+DCMI Virtual 2020 was hosted by DCMI and ran from September 14, 2020 to September 25, 2020 
+ ](   
+DCMI 2019 Seoul was hosted by National Library of Korea and ran from September 23, 2019 to September 26, 2019 
+ ](   
+DC-2018: Porto was hosted by Faculty of Engineering of the University of Porto (FEUP) and ran from September 10, 2018 to September 13, 2018 
+ ](   
+DC-2017: Washington DC ran from October 26, 2017 to October 29, 2017 
+ ](   
+DC-2016: Copenhagen ran from October 13, 2016 to October 16, 2016 
+ ](   
+DC-2015: São Paolo was hosted by UNESP and ran from September 1, 2015 to September 4, 2015 
+ ](   
+DC-2014: Austin, Texas ran from October 8, 2014 to October 11, 2014 
+ ](   
+DC-2013: Lisbon was hosted by Engineering School of the Lisbon Technical University and ran from September 2, 2013 to September 6, 2013 
+ ](   
+DC-2012: Kuching ran from September 3, 2012 to September 7, 2012 
+ ](   
+DC-2011: The Hague was hosted by National Library of the Netherlands and ran from September 21, 2011 to September 23, 2011 
+ ](   
+DC-2010: Pittsburgh ran from September 20, 2010 to September 22, 2010 
+ ](   
+DC-2009: Seoul was hosted by National Library of Korea; Korean Library Association (KLA); National Digital Library and ran from October 12, 2009 to October 16, 2009 
+ ](   
+DC-2008: Berlin was hosted by Competence Centre Interoperable Metadata (KIM); Max Planck Digital Library; Göttingen State and University Library; The German National Library; Humboldt-Universität zu Berlin and ran from September 22, 2008 to September 26, 2008 
+ ](   
+DC-2007: Singapore was hosted by National Library Board Singapore; Wee Kim Wee School of Communication and Information of Nanyang Technological University and ran from August 27, 2007 to August 31, 2007 
+ ](   
+DC-2006: Manzanillo ran from August 3, 2006 to August 6, 2006 
+ ](   
+DC-2005: Madrid was hosted by Universidad Carlos III de Madrid and ran from September 12, 2005 to September 15, 2005 
+ ](   
+DC-2004: Shanghai was hosted by Shanghai Library; Library of the Chinese Academy of Sciences; National Science and Technology Library of China and ran from October 10, 2004 to October 14, 2004 
+ ](   
+DC-2003: Seattle was hosted by Information School of the University of Washington; University of Washington Libraries; Information Institute of Syracuse; Syracuse University and ran from September 28, 2003 to October 2, 2003 
+ ](   
+DC-2002: Florence was hosted by Associazione Italiana Biblioteche; Biblioteca Nazionale Centrale Firenze; Istituto e Museo di Storia della Scienza; Istituto Universitario Europeo; Regione Toscana; Università di Firenze and ran from October 14, 2002 to October 17, 2002 
+ ](   
+DC-2001: Tokyo was hosted by National Institute of Informatics (NII); Japan Science and Technology Corporation (JST) and ran from October 22, 2001 to October 26, 2001 
+## Footer
+!
+DCMI is an organization supporting innovation in metadata design and best practices across the metadata ecology. 
+    
+ ](
+### Specifications
+          
+### Outreach
+          
+### Organisation
+            
+### Website
+        
+Unless indicated otherwise, DCMI documents are licensed under a  . Please see the  for further instructions. 
+ © 1995-2026   . DCMI  ,  ,  apply. Your interactions with this site are in accordance with our  statements. 
+The Dublin Core Metadata Initiative (DCMI) is a project of ASIS&T—a U.S. 501(c)(3) nonprofit under the U.S. Internal Revenue Code. Contributions to DCMI through ASIS&T are tax-deductible to the full extent of the law in the United States. 
+Deployed with   on  05 May 26 12:18 UTC 
+  *[
+            
+          ]: Dublin Core Metadata Initiative
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Dublin Core<button>
+<button>Specifications<button>
+<button>Annual ConferencesContinuing an unbroken sequence of more than twenty years of DCMI Annual Conferences.<button>
+<button>Workshops (1995–2000)The foundational Dublin Core workshops that established the metadata standard.<button>
+<button>Webinars & TutorialsOccasional webinars and online tutorials orgainized by the DCMI.<button>
+<button>DCMI 2026 Conference<button>
+<button>DCMI CommunityDCMI is defined by its community which is responsible for the innovative developments and evolving good practices.<button>
+<button>LRMI Working GroupThe LRMI™ Working Group is charged with defining and executing DCMI work on the LRMI family of metadata specifications.<button>
+<button>Application Profiles Working GroupWorking Group for a revised framework to support application profiles, a revised abstract model, and core vocabulary of components and constraints.<button>
+<button>News<button>
+<button>DCMI BlogOccasional blog posts report on developments in metadata innovation and practice.<button>
+<button>Metadata BasicsThe DCMI approach to metadata aims at achieving pragmatic interoperability among traditional and newer technologies on the basis of knowledge graph design principles.<button>
+<button>Dublin Core™ User GuideA basic guide in the use of Dublin Core and other DCMI vocabularies.<button>
+<button>GlossaryA guide to terminology used in the DCMI community, past and present, with reflections on how our language for talking about metadata has evolved.<button>
+<button>LRMI ResourcesArchived LRMI resources including presentations, reports, and implementations.<button>
+<button>About DCMI<button>
+<button>DCMI Themes<button>
+<button>DCMI History<button>
+<button>About LRMI<button>
+<button>Members<button>
+<button>Governance<button>
+<button>By-laws<button>
+<button>Directorate<button>
+<button>Usage Board<button>
+<button>Collaborations<button>
+<button>Contact<button>
+<button>Conferences<button>
+<button>Workshops<button>
+<button>Webinars<button>
+<button>Community<button>
+<button>Learning Resources<button>
+<button>Themes<button>
+<button>Governing Board<button>
+<button>Home<button>
+<button>DCMI Metadata Terms<button>
+<button>DCMI Specifications<button>
+<button>Dublin Core Schemas<button>
+<button>LRMI<button>
+<button>BIBO<button>
+<button>DCMI Blog<button>
+<button>Resources<button>
+<button>DCMI Community<button>
+<button>Privacy<button>
+<button>Legal<button>
+<button>DCMI Document Notice<button>
+<button>Copyright<button>
+<button>DCMI<button>
+<button>liability<button>
+<button>trademark/service mark<button>
+<button>document use rules<button>
+<button>privacy<button>
+
+----- WebWalker -----
+Memory:
+-DCMI 2023 Daegu was hosted by Kyungpook National University and ran from November 6, 2023 to November 11, 2023. Therefore, November 8, 2023 was the 3rd day of the conference.
+"}
+
+----- WebWalker -----
+Final Answer: 11月8日是会议的第3天。

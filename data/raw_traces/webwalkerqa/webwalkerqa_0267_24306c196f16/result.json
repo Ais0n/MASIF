@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0267_24306c196f16",
+  "source_index": 267,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In the October 24, 2024 update for Age of Empires III: Definitive Edition, by what percentage does the 'Lipizzaner Cavalry' increase the attack and hitpoints of Uhlans?",
+  "prompt": "In the October 24, 2024 update for Age of Empires III: Definitive Edition, by what percentage does the 'Lipizzaner Cavalry' increase the attack and hitpoints of Uhlans?",
+  "expected_answer": "20%",
+  "root_url": "https://www.ageofempires.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ageofempires.com/news/age-of-empires-iii-definitive-edition-data-patch-for-build-15-59076/"
+    ],
+    "golden_path": [
+      "root->Game Info->Patches, Updates & Content ReleasesAge of Empires III: Definitive Edition – Data Patch for Build 15.59076"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 16,
+  "tool_calls": 7,
+  "duration_seconds": 50.011,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0267_24306c196f16/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0267_24306c196f16/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

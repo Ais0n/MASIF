@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0561_dd61aed2aa10",
+  "source_index": 561,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "长安大学信息工程学院的孙士杰和徐志刚团队在各自领域顶级期刊发表重要论文的年份分别是什么？",
+  "prompt": "长安大学信息工程学院的孙士杰和徐志刚团队在各自领域顶级期刊发表重要论文的年份分别是什么？",
+  "expected_answer": "2022年和2021年",
+  "root_url": "https://it.chd.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.chd.edu.cn/2022/0708/c7371a221199/page.htm",
+      "https://it.chd.edu.cn/2022/1226/c7371a226353/page.htm"
+    ],
+    "golden_path": [
+      "root->学术交流->尾页->我院教师孙士杰在人工智能国际顶级期刊IEEE TPAMI上发表论文",
+      "root->学术交流-><<上一页->我院徐志刚教授团队在交通运输学科Top期刊TR- C上发表高水平论文"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "长安大学信息工程学院的孙士杰团队在2025年发表重要论文，徐志刚团队在2026年发表重要论文。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 4,
+  "duration_seconds": 33.79,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0561_dd61aed2aa10/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0561_dd61aed2aa10/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

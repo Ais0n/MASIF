@@ -1,0 +1,219 @@
+----- user -----
+query:
+During The Web Conference 2024, which keynote speaker is addressing the challenges posed by AI deepfakes, and on what thematic special day of the conference does the discussion on Large Language Models (LLMs) take place?
+official website:
+https://www2024.thewebconf.org/
+Observation:website information:
+
+](
+                                                                                                                                                                                                                                                                        
+# THE WEB  
+CONFERENCE 2024   
+IN SINGAPORE
+## MAY 13 - 17, 2024 
+Since the invention of the World Wide Web in 1989, The Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) is a yearly international academic conference on the topic of the future direction of the World Wide Web. This conference has been the premier venue to present and discuss progress in research, development, standards, and applications of the topics related to the Web. Over the past three decades, The Web Conference has been the forum where some of the most fundamental Web technologies have been introduced, such as the Anatomy of a Large Scale Web Search Engine in 1998 prefiguring Google, the EigenTrust algorithm in 2003 and the YAGO knowledge base in 2007 (see also the Test of Time Award past recipients). The conference assembles scholars, researchers, policymakers, practitioners, and end-users with one unifying goal: to envision and create the future of the Web. 
+The 2024 ACM Web Conference will offer a high quality program made of research sessions, posters and demonstrations, a PhD symposium for the junior scholars, workshops, tutorials, a resource track for the practitioners as well as thought provoking keynote speakers, panels, special tracks, and colocated special days. 
+The 2024 ACM Web Conference is an in-person conference with rich virtual components including live streaming of keynotes, oral presentations, workshops and tutorials, as well as access to pre-recorded videos of talks, and the Whova platform for interaction with all conference attendees. 
+We thank you for your participation and look forward to seeing you in Singapore!
+|  |  |  | 
+The Web Conference 2024 is organized by the School of Computing and Information Systems at Singapore Management University. 
+**_Server maintenance is scheduled, from 30-May-2023, Tuesday, 09:00 AM to 06:00 PM, GMT+8. Connections to this website will be intermittent._**
+
+
+clickable button:
+
+<button>About<button>
+<button>The Web Conference<button>
+<button>Logo<button>
+<button>Code of Conduct<button>
+<button>Newsletters<button>
+<button>Calls<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Emerging World Symposium<button>
+<button>Seoul Test of Time Award<button>
+<button>Artifact Badging<button>
+<button>Accepted<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Program<button>
+<button>Overview<button>
+<button>Full Schedule<button>
+<button>Keynotes<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Awards<button>
+<button>Special Days<button>
+<button>Social Events<button>
+<button>Attending<button>
+<button>Registration<button>
+<button>Venue<button>
+<button>Accommodation<button>
+<button>Checking In<button>
+<button>Participation<button>
+<button>Presentation<button>
+<button>Visa Information<button>
+<button>NSF Student Travel Awards<button>
+<button>Organization<button>
+<button>Organizing Committee<button>
+<button>Senior Area Chairs<button>
+<button>Area Chairs<button>
+<button>Reviewers of Research Tracks<button>
+<button>Reviewers of Various Tracks<button>
+<button>Sponsors<button>
+<button>Become a Sponsor<button>
+<button>Sponsors and Supporters<button>
+<button>Media<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the keynote speaker addressing AI deepfakes and determine the thematic special day for discussions on Large Language Models (LLMs). I will start by visiting the "Keynotes" page to gather information about the keynote speakers.
+
+Action: visit_page
+Action Input: {"button": "Keynotes"}
+
+----- VisitPage -----
+The web information is:
+
+](
+                                                                                                                                                                                                                                                                        
+# Keynotes
+!
+##### Bo Zhang
+Tsinghua University
+!
+##### Jie Tang
+Tsinghua University
+Date: Wednesday, May 15, 2024, 9am to 10am SGT 
+Title: Challenges toward AGI and its impact to the Web
+Abstract:
+Large language models have substantially advanced the state of the art in various AI tasks, such as natural language understanding and text generation, and image processing, and multimodal modeling. In this talk, we will first introduce the development of AI in the past decades, in particular from the angle of China. We will also talk about the opportunities, challenges, and risks of AGI in the future, and its impact on the Web. In the second part of the talk, we will use ChatGLM, an alternative but open sourced model to ChatGPT, as an example to explain our understandings and insights derived during the implementation of the model.
+Bio:
+Bo Zhang is a professor of the Department of Computer Science and Technology of Tsinghua University, and the fellow of Chinese Academy of Sciences. He is engaged in the research on artificial intelligence, artificial neural networks, genetic algorithms, intelligent robotics, pattern recognition and intelligent control. In these fields, he has published over 150 papers and 4 monographs, where 2 are English versions. He is one of the most influential researchers in AI in China.
+Jie Tang is a WeBank Chair Professor of Computer Science at Tsinghua University. He is a Fellow of the ACM, a Fellow of AAAI, and a Fellow of IEEE. His research interest is in artificial general intelligence (AGI). His research has received the SIGKDD Test-of-Time Award (10-year Best Paper). He also received the SIGKDD Service Award. Recently, he puts all his efforts into Large Language Models (LLMs).
+* * *
+!
+##### Jon Kleinberg
+Cornell University
+Date: Thursday, May 16, 2024, 9am to 10am SGT 
+Title: Revisiting the Behavioral Foundations of User Modeling Algorithms
+Abstract:
+One of the fundamental problems that platform algorithms face is the process of inferring user preferences from observed behavior; the vast amounts of data a platform collects become much less useful if they cannot effectively inform this type of inference. Traditional approaches to this problem rely on an often unstated revealed-preference assumption: that choice reveals preference. Yet a long line of work in psychology and behavioral economics reveals the gaps that can open up between choice and preference, and experience with platform dynamics makes clear how it can arise in some of the most basic online settings; for example, we might choose content to consume in the present and then later regret the time we spent on it. More generally, behavioral biases and inconsistent preferences make it highly challenging to appropriately interpret the user data that we observe. We discuss a set of models and algorithms that address this challenge through a process of "inversion", in which an algorithm must try inferring mental states that are not directly measured in the data.
+The talk is based on joint work with Jens Ludwig, Sendhil Mullainathan, and Manish Raghavan.
+Bio:
+Jon Kleinberg is the Tisch University Professor in the Departments of Computer Science and Information Science at Cornell University. His research focuses on the interaction of algorithms and networks, the roles they play in large-scale social and information systems, and their broader societal implications. He is a member of the US National Academy of Sciences and National Academy of Engineering, and serves on the US National AI Advisory Committee. He has received MacArthur, Packard, Simons, Sloan, and Vannevar Bush research fellowships, as well as awards including the Nevanlinna Prize, the ACM-AAAI Allen Newell Award, and the ACM Prize in Computing.
+* * *
+!
+##### Bin Liu
+National University of Singapore
+Date: Thursday, May 16, 2024, 1.30pm to 2.30pm SGT
+Title: AI for Materials Innovation: Self-Improving Photosensitizer Discovery System via Bayesian Search with First-Principles Simulation
+Abstract:
+Artificial intelligence (AI) based self-learning or self-improving material discovery systems will enable next-generation material discovery. Herein, we demonstrate how to combine accurate prediction of material performance via first-principles calculation and Bayesian optimization-based active learning to realize a self-improving discovery system for high-performance photosensitizers (PSs). Through self-improving cycles, such a system can improve the model prediction accuracy (best mean absolute error of 0.090 eV for singlet--triplet spitting) and high-performance PS search ability, realizing efficient discovery of PSs. From a molecular space with more than 7 million molecules, 5357 potential high-performance PSs were discovered. Four PSs were further synthesized to show performance comparable with or superior to commercial ones. This work highlights the potential of active learning in first principle-based materials design, and the discovered structures could boost the development of photosensitization-related applications, which is one of the typical examples of how AI can be used to accelerate materials innovation and facilitate science development in general.
+Bio:
+Professor Bin Liu is Tan Chin Tuan Centennial Professor at the National University of Singapore (NUS). Bin graduated with a bachelor's degree from Nanjing University and a Ph.D. in Chemistry from NUS. She had postdoctoral training at the University of California, Santa Barbara before joining NUS as an Assistant Professor in 2005 and was promoted to full Professorship in 2016.
+Bin is a leader in the field of organic functional materials, who has been well-recognized for her contributions to polymer chemistry and organic nanomaterials for energy and biomedical applications. Bin serves on the editorial advisory boards of more than a dozen top peer-reviewed chemistry and materials journals. Since 2019, she has served as the Deputy Editor to launch and develop ACS Materials Letters, a flagship materials journal of the American Chemical Society.
+* * *
+!
+##### Jeannie Marie Paterson
+Centre for AI and Digital Ethics, The University of Melbourne
+Date: Friday, May 17, 2024, 9am to 10am SGT
+Title: AI deepfakes on the Web: the 'wicked' challenges for AI ethics, law and technology.
+Abstract:
+Developments in generative AI offer opportunities to ordinary individuals and people providing professional services to improve their writing, traverse a range of literary styles and create convincing or amusing images. The darker side of this same technology on the Web is the problematic case of deepfakes created by AI and used to manipulate, trick, or defraud ordinary individuals in their private or commercial online dealings.
+Transparency, fairness, and beneficence are vital values of responsible AI. But what do they require in this context? Harmful deepfakes are usually the work of fraudsters and criminals with little regard for ethics and beyond the reach of the law. Should responsibility for harmful deepfakes lie with those who develop the technology or the gatekeepers to the internet, such as digital platforms? Can technical solutions such as AI monitoring, watermarking or finetuning be utilised? Or does the answer lie in community education? The answers to these questions are complex.
+Even beginning to respond to deepfakes on the Web requires us to assess and weigh incommensurable considerations, including retaining trust on the Web, keeping vulnerable groups safe, preserving free speech and creativity, and not stifling the development of potentially beneficial technology.
+This presentation addresses these difficult assessments in responding to the wicked challenge of AI deepfakes on the Web.
+Bio:
+Jeannie Marie Paterson is a Professor of Law and the director of the Centre for AI and Digital Ethics at the University of Melbourne. Jeannie's teaching and research focuses on the ethics, law and regulation of emerging digital technologies. Jeannie has written extensively on issues of fairness, bias, privacy and existential risk in the emergence of AI, as well as concerns about data protection and cyber security law. She regularly speaks to industry, government and media about these issues.
+Jeannie is an affiliate researcher with the Melbourne Social Equity Institute and the Centre of Excellence for Automated Decision Making and Society. Jeannie is a Fellow of the Australian Academy of Law
+|  |  |  | 
+The Web Conference 2024 is organized by the School of Computing and Information Systems at Singapore Management University. 
+**_Server maintenance is scheduled, from 30-May-2023, Tuesday, 09:00 AM to 06:00 PM, GMT+8. Connections to this website will be intermittent._**
+
+
+Clickable buttons are wrapped in <button> tag
+<button>About<button>
+<button>The Web Conference<button>
+<button>Logo<button>
+<button>Code of Conduct<button>
+<button>Newsletters<button>
+<button>Calls<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Emerging World Symposium<button>
+<button>Seoul Test of Time Award<button>
+<button>Artifact Badging<button>
+<button>Accepted<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Program<button>
+<button>Overview<button>
+<button>Full Schedule<button>
+<button>Keynotes<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Awards<button>
+<button>Special Days<button>
+<button>Social Events<button>
+<button>Attending<button>
+<button>Registration<button>
+<button>Venue<button>
+<button>Accommodation<button>
+<button>Checking In<button>
+<button>Participation<button>
+<button>Presentation<button>
+<button>Visa Information<button>
+<button>NSF Student Travel Awards<button>
+<button>Organization<button>
+<button>Organizing Committee<button>
+<button>Senior Area Chairs<button>
+<button>Area Chairs<button>
+<button>Reviewers of Research Tracks<button>
+<button>Reviewers of Various Tracks<button>
+<button>Sponsors<button>
+<button>Become a Sponsor<button>
+<button>Sponsors and Supporters<button>
+<button>Media<button>
+
+----- WebWalker -----
+Memory:
+-The keynote speaker addressing the challenges posed by AI deepfakes is Jeannie Marie Paterson, and the discussion on Large Language Models (LLMs) takes place on Thursday, May 16, 2024, during the conference.
+"}
+
+----- WebWalker -----
+Final Answer: During The Web Conference 2024, the keynote speaker addressing the challenges posed by AI deepfakes is Jeannie Marie Paterson. The discussion on Large Language Models (LLMs) takes place on Thursday, May 16, 2024.

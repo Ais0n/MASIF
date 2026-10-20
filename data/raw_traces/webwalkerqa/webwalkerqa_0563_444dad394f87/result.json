@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0563_444dad394f87",
+  "source_index": 563,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who received the Superior Achievement Award in 2000 for navigating rescue supplies in an Antarctic emergency mission, and whose navigation techniques and operational strategies are similar to those of Captain Jonathan D. Hantsbarger in 2012 for securing special forces through aerial support?",
+  "prompt": "Who received the Superior Achievement Award in 2000 for navigating rescue supplies in an Antarctic emergency mission, and whose navigation techniques and operational strategies are similar to those of Captain Jonathan D. Hantsbarger in 2012 for securing special forces through aerial support?",
+  "expected_answer": "Major Geoffrey A. Laing and Captain Jonathan D. Hantsbarger",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/awards/2000-Superior-Achievement-Laing.cfm",
+      "https://www.ion.org/awards/2012-Superior-Achievement-Hantsbarger.cfm"
+    ],
+    "golden_path": [
+      "root->Awards and ION Fellows->Superior Achievement->Major Geoffrey A. Laing",
+      "root->Awards and ION Fellows->Superior Achievement->Captain Jonathan D. Hantsbarger"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "Captain Robert P. McCrady, USAF, received the Superior Achievement Award in 2000 for navigating rescue supplies in an Antarctic emergency mission. His navigation techniques and operational strategies are similar to those of Captain Jonathan D. Hantsbarger in 2012 for securing special forces through aerial support.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 36.622,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0563_444dad394f87/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0563_444dad394f87/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer identifies Captain Robert P. McCrady instead of the expected Major Geoffrey A. Laing.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

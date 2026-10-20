@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0131_60b9dfc77a49",
+  "source_index": 131,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年10月26日华南理工大学第十三届计算机科学与工程学院学生代表大会的选举中，当选为学生会主席团成员的学生有哪些人？",
+  "prompt": "在2024年10月26日华南理工大学第十三届计算机科学与工程学院学生代表大会的选举中，当选为学生会主席团成员的学生有哪些人？",
+  "expected_answer": "刘青昊、龚子悦",
+  "root_url": "http://www2.scut.edu.cn/cs/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www2.scut.edu.cn/cs/2024/1030/c22279a566100/page.htm"
+    ],
+    "golden_path": [
+      "root->凝心聚力，共绘新章——华南理工大学第十三届计算机科学与工程学院学生代表大会顺利召开"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 58.668,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0131_60b9dfc77a49/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0131_60b9dfc77a49/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

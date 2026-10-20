@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0387_867c9a992023",
+  "source_index": 387,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年6月中旬长沙工业学院筹建事务中心与南华大学计算机学院调研交流会上，哪些南华大学计算机学院的领导出席了会议？",
+  "prompt": "在2024年6月中旬长沙工业学院筹建事务中心与南华大学计算机学院调研交流会上，哪些南华大学计算机学院的领导出席了会议？",
+  "expected_answer": "万亚平、何战胜、何啸峰、欧阳纯萍",
+  "root_url": "https://jsjxy.usc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.usc.edu.cn/info/1993/11269.htm"
+    ],
+    "golden_path": [
+      "root->更多+->下页->长沙工业学院筹建事务中心与南华大学计算机学院举办调研交流会"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "在2024年6月中旬长沙工业学院筹建事务中心与南华大学计算机学院调研交流会上，出席的南华大学计算机学院领导包括：刘志明（院党委书记）、万亚平（党委副书记、院长）、李国华（院党委副书记）、刘杰（党委保密委员、副院长）、欧阳纯萍（党委纪检委员、副院长）、陈灵娜（党委组织委员、党委统战委员、副院长）、田纹龙（党委青年委员、副院长）、李春权（副院长）。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 19.254,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0387_867c9a992023/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0387_867c9a992023/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0076_689dc0b3f3e0",
+  "source_index": 76,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2017年哈尔滨工程大学计算机科学与技术学院的智慧城市创意设计大赛中，名单中的哪位学生也列在入党发展对象公示中，并取得了特别的成绩？",
+  "prompt": "在2017年哈尔滨工程大学计算机科学与技术学院的智慧城市创意设计大赛中，名单中的哪位学生也列在入党发展对象公示中，并取得了特别的成绩？",
+  "expected_answer": "高应波",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2017/0508/c6989a264196/page.htm",
+      "http://cstc.hrbeu.edu.cn/2017/0515/c6988a264195/page.htm"
+    ],
+    "golden_path": [
+      "root->学工动态->尾页->2017年上半年发展对象最终推荐人选公示2017-05-08",
+      "root->学生工作->尾页->关于举办哈尔滨工程大学2017年研究生智慧城市创意设计大赛的通知2017-05-15"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 73.45,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0076_689dc0b3f3e0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0076_689dc0b3f3e0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

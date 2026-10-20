@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0085_327d115695ce",
+  "source_index": 85,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在西南科技大学2022年4月13日的学术报告中，由蔺佳哲博士介绍的模型中，哪个模型在气动特性快速预测中具有高于1%的预测精度？",
+  "prompt": "在西南科技大学2022年4月13日的学术报告中，由蔺佳哲博士介绍的模型中，哪个模型在气动特性快速预测中具有高于1%的预测精度？",
+  "expected_answer": "PIMTLNN模型",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0722/c10923a203513/page.htm"
+    ],
+    "golden_path": [
+      "root->学术动态->4->【学术报告】飞行器气动特性预测以及流场智能预测【报告时间】：2022-04-13上午9：00【报告地点】：东九A256【报告内容简介】：报告1：基于机器学习的某型飞行器气动特性快速预测研究报告人：蔺佳哲博士简介：随着机器学习技术的兴起，...[2022-04-11]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 54.024,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0085_327d115695ce/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0085_327d115695ce/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

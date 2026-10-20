@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0382_f1be8ca3a0bd",
+  "source_index": 382,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "浙江大学计算机学院公布的国际合作交流动态中，哪个是最早的日期？",
+  "prompt": "浙江大学计算机学院公布的国际合作交流动态中，哪个是最早的日期？",
+  "expected_answer": "2002-09-30",
+  "root_url": "http://www.cs.zju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/27028/list18.htm"
+    ],
+    "golden_path": [
+      "root->首页->交流动态->尾页"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "浙江大学计算机学院公布的国际合作交流动态中，最早的日期是2026-03-13。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 15.342,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0382_f1be8ca3a0bd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0382_f1be8ca3a0bd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

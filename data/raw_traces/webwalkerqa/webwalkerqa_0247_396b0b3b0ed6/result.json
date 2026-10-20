@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0247_396b0b3b0ed6",
+  "source_index": 247,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年9月23日常州大学计算机与人工智能学院的主题沙龙活动中，哪位博士参与了活动并分享了科研经验，同时该活动由哪位学院党委书记主持？",
+  "prompt": "在2024年9月23日常州大学计算机与人工智能学院的主题沙龙活动中，哪位博士参与了活动并分享了科研经验，同时该活动由哪位学院党委书记主持？",
+  "expected_answer": "熊荣川博士，王峰",
+  "root_url": "https://bigdata.cczu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://bigdata.cczu.edu.cn/2024/0923/c13837a371017/page.htm"
+    ],
+    "golden_path": [
+      "root->党建动态->学院组织开展“科研之光催奋进，师德之美正师风”主题沙龙活动"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 24.066,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0247_396b0b3b0ed6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0247_396b0b3b0ed6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

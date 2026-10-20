@@ -1,0 +1,47 @@
+{
+  "task_id": "webwalkerqa_0168_ba9adf870b37",
+  "source_index": 168,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "伊利集团在加入可持续棕榈油圆桌倡议的第七年的可持续棕榈油采购目标中，每年计划增加多少吨可追溯到种植园的IP级认证棕榈油？",
+  "prompt": "伊利集团在加入可持续棕榈油圆桌倡议的第七年的可持续棕榈油采购目标中，每年计划增加多少吨可追溯到种植园的IP级认证棕榈油？",
+  "expected_answer": "50吨",
+  "root_url": "https://www.yili.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.yili.com/sustainability/responsible-sourcing"
+    ],
+    "golden_path": [
+      "root->责任采购"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "伊利集团在加入可持续棕榈油圆桌倡议的第七年，每年计划增加采购50吨可追溯到种植园的IP级认证棕榈油。",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\n  \"verdict\": \"match\",\n  \"reason",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 31.87,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0168_ba9adf870b37/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0168_ba9adf870b37/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "{\n  \"verdict\": \"match\",\n  \"reason",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

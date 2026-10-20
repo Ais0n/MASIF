@@ -1,0 +1,43 @@
+{
+  "task_id": "webwalkerqa_0592_d4a91047eba5",
+  "source_index": 592,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "王松老师在全国3D大赛16周年精英联赛和厦门市大数据创新应用大赛中分别指导的队伍取得了哪些具体奖项？",
+  "prompt": "王松老师在全国3D大赛16周年精英联赛和厦门市大数据创新应用大赛中分别指导的队伍取得了哪些具体奖项？",
+  "expected_answer": "全国3D大赛获得二等奖和三等奖，厦门市大数据创新应用大赛获得创意分析赛道二等奖。",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/1202/c10922a209361/page.htm,https://cs.swust.edu.cn/2024/1202/c10922a209352/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->3->我院学子在全国3D大赛16周年精英联赛(2023-2024)中再创佳绩！近日，由国家科技部、工信部、教育部、中国科协等部门指导，国家制造业信息化培训中心、全国三维数字化技术推广与教育培训联盟（3D动力）、光华设计发展基金会等部门联合主办的全国三维数字化创新设计大...[2024-09-04]",
+      "root->学院动态->2->我院学子在厦门市大数据创新应用大赛中首创佳绩！近日，由厦门市数据管理局、厦门市公安局、厦门市生态环境局联合主办，厦门市信息中心承办的2024年厦门市大数据创新应用大赛圆满收官。自7月26日启动以来，大赛赢得了广泛的关注与热烈的支持，共吸...[2024-09-30]"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.234,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0592_d4a91047eba5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0592_d4a91047eba5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

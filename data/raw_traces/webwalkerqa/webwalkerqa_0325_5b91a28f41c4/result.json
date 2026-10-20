@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0325_5b91a28f41c4",
+  "source_index": 325,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "On which top journal was the paper 'A comprehensive review on knowledge graphs for complex diseases' by Associate Professor Yang Yang from the School of Computer Science and Technology at Soochow University published in 2022, and what is its impact factor?",
+  "prompt": "On which top journal was the paper 'A comprehensive review on knowledge graphs for complex diseases' by Associate Professor Yang Yang from the School of Computer Science and Technology at Soochow University published in 2022, and what is its impact factor?",
+  "expected_answer": "The paper was published in the journal 'Briefings in Bioinformatics' in 2022, with an impact factor of 13.9.",
+  "root_url": "https://scst.suda.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scst.suda.edu.cn/10/ee/c30768a528622/page.htm"
+    ],
+    "golden_path": [
+      "root->导师简介->副教授->杨洋副教授"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 79.319,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0325_5b91a28f41c4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0325_5b91a28f41c4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

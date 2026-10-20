@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "index": 1,
+      "role": "user",
+      "content": "query:\nFind the first IGG recruitment contact email in Asia in alphabetical order.\nofficial website:\nhttps://www.igg.com/\nObservation:website information:\n\n\n | \n | \n  * |\n  * | \n          * | \n  * | \n  * | \n  * |\n  * |\nIGG's hottest MMO War Strategy RPG!\n! \n!\nBecome the strongest Commander, lead the survivors, and rebuild civilization!\n! \n!\nRace against other players to explore, build, and conquer Midgard!\n! \n!\nBeyond Just Surviving the Cold\n! \n!\nRealistic 3D dress-up game! Dress up and choose your destiny!\n! \n!\nNow with even more exciting features and gameplay!\n! \n!\nAn all new casual Idle RPG game!\n! \n      \nprev next\nMORE GAMES\n  * **56**\nReal-Time Strategy & RPG in One!\nLords Mobile combines the best parts of RPG and strategy games into an all-new experience! Build an empire, train an army, recruit powerful Heroes, and become a legend! \n  \n  * **110**\nREAL-TIME STRATEGY & RPG\nEvery crumb and bullet counts! Fight for resources and build the last safe haven for survivors!\n  \n  * **117**\nREAL-TIME STRATEGY & RPG\nRace against other players to explore, build, and conquer Midgard!\n  \n  * **123**\nSLG\nIn an uncharted mythical world, calamities and monsters ravage the land. Survivors flee to Sanctuary, desperate to awaken the gods that vanished during Rangarok and reclaim their power. Lead your Tribe in a vast world with dynamic seasons. Survive using your wit and uncover the secrets of a lost god.\n  \n  * **89**\nDress-up & AVG\n3D dress-up game with multiple story endings! Enter the world of storybooks. Meet the person of your dreams. Collect special clothes. Your choices decide your fate. Craft your very own destiny!\n   \n  * **112**\nIdle RPG\nDark forces threaten the fate of the world, but you are not alone! Summon an army of unique Gods and Heroes from distinct cultures to create your own elite team. You can then enhance their abilities with powerful new skills, unlock their iconic weapons, and strengthen them for epic battles. Your game will even collect rewards while you are AFK to help you save the realm!\n  \n  * **28**\nFantasy Defense Adventures\nBrawl and rumble your way across the world in Castle Clash – the most addictive combat strategy game ever! Hire legions of powerful Heroes in your quest to become the world's greatest Warlord.\n   \n  * **120**\nSLG\n\"Game of Sky is a brand-new strategy game with a sky island theme. In this enchanting sky world, you can dispatch a fleet of airships to navigate the skies, travel between floating islands, gather resources, oversee the labor of residents, and construct your very own city in the sky. You can also capture and tame colossal flying dragon beasts that soar through the sky, joining forces with your sky army to conquer the battlefield and make your name resound throughout the heavens.\"\n \nOUR STORY\nIGG Inc is a renowned mobile game developer and publisher dedicated to bringing amazing games to gamers all over the world. Since opening our doors in 2006, we have created over 20 original games for mobile, web, and PC, and are proudly serving players in over 200 countries. For more information, go to About Us to learn more!\n  * !\nI Need help!\n            \n  * !\nContact Us\n            \n  * !\nCompany\n            \n  * !\nInvestor Relations\n        \n  * !\nFollow Us\n    \n ](\n© 2026 IGG All Rights Reserved.\n |  | \n\n\nclickable button:\n\n<button>HOME<button>\n<button>GAMES<button>\n<button>Mobile Games<button>\n<button>PC Games<button>\n<button>SUPPORT<button>\n<button>CHARITY<button>\n<button>Contact Us<button>\n<button>Press Assets<button>\n\n\nEach button is wrapped in a <button> tag\n\n",
+      "root_url": "https://www.igg.com/"
+    },
+    {
+      "index": 2,
+      "role": "WebWalker",
+      "content": "Thought: I need to find the first IGG recruitment contact email in Asia in alphabetical order. The official website is provided, and I should start by visiting the \"Contact Us\" page to gather contact information.\n\nAction: visit_page\nAction Input: {\"button\": \"Contact Us\"}"
+    },
+    {
+      "index": 3,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n | \n | \n  * |\n  * | \n          * | \n  * | \n  * | \n  * |\n  * |\n!\n### Contact Us\n  \nPhilippines\n    ph.jobs@igg.com\n  \nFor business development, please contact\n    cooperation@igg.com\n  \nFor Public Relations, please contact\n    pr@igg.com\n  \nFOR CHARITY, PLEASE CONTACT\n    charity@igg.com\n  \nFor service issues, please visit\n      or  or \nFor business development, please contact\n    cooperation@igg.com \nFor Public Relations, please contact\n    pr@igg.com \nFOR CHARITY, PLEASE CONTACT\n    charity@igg.com \nFor service issues, please visit\n     \n!\n     _Singapore_ jobs.sg@igg.com \n!\n     _Canada_ jobs.ca@igg.com \n!\n     _the United States_ jobs.us@igg.com \n!\n     _Brazil_ jobs.br@igg.com \n!\n     _China_ jobs.cn@igg.com \n!\n     _Japan_ jobs.jp@igg.com \n!\n     _South Korea_ jobs.kr@igg.com \n!\n     _Thailand_ jobs.th@igg.com \n!\n     _Indonesia_ jobs.id@igg.com \n!\n     _the Philippines_ jobs.ph@igg.com \n!\n     _Italy_ jobs.it@igg.com \n!\n     _Spain_ jobs.es@igg.com \n!\n     _Belarus_ jobs.by@igg.com \n!\n     _Turkey_ jobs.tr@igg.com \n!\n     _the United Arab Emirates_ jobs.ae@igg.com\n  * !\nI Need help!\n            \n  * !\nContact Us\n            \n  * !\nCompany\n            \n  * !\nInvestor Relations\n        \n  * !\nFollow Us\n    \n ](\n© 2026 IGG All Rights Reserved.\n |  | \n\n\nClickable buttons are wrapped in <button> tag\n<button>HOME<button>\n<button>GAMES<button>\n<button>Mobile Games<button>\n<button>PC Games<button>\n<button>SUPPORT<button>\n<button>CHARITY<button>\n<button>Contact Us<button>\n<button>Press Assets<button>\n",
+      "button": "Contact Us",
+      "url": "https://www.igg.com/contact/",
+      "markdown_chars": 1275,
+      "discovered_buttons": 8
+    },
+    {
+      "index": 4,
+      "role": "WebWalker",
+      "content": "Memory:\n-The first IGG recruitment contact email in Asia, in alphabetical order, is jobs.id@igg.com for Indonesia.\n\"}"
+    },
+    {
+      "index": 5,
+      "role": "WebWalker",
+      "content": "Final Answer: The first IGG recruitment contact email in Asia, in alphabetical order, is jobs.id@igg.com for Indonesia."
+    }
+  ]
+}

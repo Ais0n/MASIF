@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0284_f8fb470d798a",
+  "source_index": 284,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the timings for the Pacific PNT Luau Luncheon on April 17, 2024?",
+  "prompt": "What are the timings for the Pacific PNT Luau Luncheon on April 17, 2024?",
+  "expected_answer": "12:00 p.m. to 2:00 p.m.",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/pnt/program.cfm"
+    ],
+    "golden_path": [
+      "root->Pacific PNT->Technical Program"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 99.021,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0284_f8fb470d798a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0284_f8fb470d798a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

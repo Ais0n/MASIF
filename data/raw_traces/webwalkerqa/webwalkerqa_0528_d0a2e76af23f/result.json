@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0528_d0a2e76af23f",
+  "source_index": 528,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "哈尔滨工程大学计算机科学与技术学院在2023年进行西安调研时的参与领导和在2022年与翼辉信息技术有限公司交流会中的学院代表人物分别是谁？",
+  "prompt": "哈尔滨工程大学计算机科学与技术学院在2023年进行西安调研时的参与领导和在2022年与翼辉信息技术有限公司交流会中的学院代表人物分别是谁？",
+  "expected_answer": "蔡成涛和冯光升",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2022/0414/c12613a304702/page.htm",
+      "http://cstc.hrbeu.edu.cn/2023/0311/c12613a304695/page.htm"
+    ],
+    "golden_path": [
+      "root->教学研讨->哈尔滨工程大学—翼辉信息技术有限公司—特软建设交流会2022-04-14",
+      "root->教学研讨->计算机学院赴西安多所高校调研2023-03-11"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 46.713,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0528_d0a2e76af23f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0528_d0a2e76af23f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

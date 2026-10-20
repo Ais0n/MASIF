@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0337_4d4c74dd9abd",
+  "source_index": 337,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2023-2024年全国3D大赛中，西南科技大学计算机科学与技术学院哪个老师指导的团队获得了四川省省赛特等奖，并晋级全国总决赛获得二等奖和三等奖，两支队伍在何时获得这些荣誉？",
+  "prompt": "在2023-2024年全国3D大赛中，西南科技大学计算机科学与技术学院哪个老师指导的团队获得了四川省省赛特等奖，并晋级全国总决赛获得二等奖和三等奖，两支队伍在何时获得这些荣誉？",
+  "expected_answer": "王松老师，2024年9月4日",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cslab.swust.edu.cn/2024/1026/c11243a207228/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->3->我院学子在全国3D大赛16周年精英联赛(2023-2024)中再创佳绩！近日，由国家科技部、工信部、教育部、中国科协等部门指导，国家制造业信息化培训中心、全国三维数字化技术推广与教育培训联盟（3D动力）、光华设计发展基金会等部门联合主办的全国三维数字化创新设计大...[2024-09-04]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.894,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0337_4d4c74dd9abd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0337_4d4c74dd9abd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

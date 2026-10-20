@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0299_8d13680db020",
+  "source_index": 299,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In Age of Empires IV, after Jeanne d’Arc reaches level 4, besides summoning additional units with her Rally Call ability, how are her companion units upgraded?",
+  "prompt": "In Age of Empires IV, after Jeanne d’Arc reaches level 4, besides summoning additional units with her Rally Call ability, how are her companion units upgraded?",
+  "expected_answer": "Jeanne d’Arc's Rally Call ability upgrades her companion units to Elite.",
+  "root_url": "https://www.ageofempires.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ageofempires.com/games/age-of-empires-iv/civilizations/jeanne-darc/"
+    ],
+    "golden_path": [
+      "root->Civilizations->Jeanne d'Arc"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 16.276,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0299_8d13680db020/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0299_8d13680db020/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

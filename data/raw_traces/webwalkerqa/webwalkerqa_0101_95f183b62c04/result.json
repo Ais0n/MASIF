@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0101_95f183b62c04",
+  "source_index": 101,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "谁负责主持国机工程集团-中国一拖喀麦隆业务代理揭牌仪式，另一位负责调研秘鲁利马三大区水务项目？",
+  "prompt": "谁负责主持国机工程集团-中国一拖喀麦隆业务代理揭牌仪式，另一位负责调研秘鲁利马三大区水务项目？",
+  "expected_answer": "罗乾宜, 张晓仑",
+  "root_url": "https://www.sinomach.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.sinomach.com.cn/xwzx/jtdt/2024_jtyw/202411/t20241111_441940.html",
+      "https://www.sinomach.com.cn/xwzx/jtdt/2024_jtyw/202411/t20241118_443004.html"
+    ],
+    "golden_path": [
+      "root->root->罗乾宜赴非洲三国考察调研",
+      "root->张晓仑出席APEC工商领导人峰会并调研集团..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 40.249,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0101_95f183b62c04/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0101_95f183b62c04/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

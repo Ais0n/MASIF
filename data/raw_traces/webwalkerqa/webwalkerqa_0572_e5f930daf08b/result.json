@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0572_e5f930daf08b",
+  "source_index": 572,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "罗宇矗在2018年通过哪个创新项目或活动同时获得省级立项和银奖？",
+  "prompt": "罗宇矗在2018年通过哪个创新项目或活动同时获得省级立项和银奖？",
+  "expected_answer": "2018年浙江省大学生科技创新活动计划暨新苗人才计划和浙江省“互联网+”大学生创新创业大赛。",
+  "root_url": "https://computer.hdu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hdu.edu.cn/2018/1206/c6760a140510/page.htm",
+      "https://computer.hdu.edu.cn/2018/1210/c6760a140511/page.htm"
+    ],
+    "golden_path": [
+      "root->学生成果->尾页->计算机学院2018年度科技立项汇编",
+      "root->学生成果->尾页->计算机学院2018年度“互联网+”创新创业大赛获奖汇总"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 1,
+  "duration_seconds": 7.819,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0572_e5f930daf08b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0572_e5f930daf08b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0057_a0792641b1b1",
+  "source_index": 57,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In which city and at which venue did the Joint Navigation Conference take place in 2025, and what were the scheduled dismantling hours for exhibitors at the ION GNSS+ 2024 event?",
+  "prompt": "In which city and at which venue did the Joint Navigation Conference take place in 2025, and what were the scheduled dismantling hours for exhibitors at the ION GNSS+ 2024 event?",
+  "expected_answer": "The Joint Navigation Conference in 2025 took place in the Greater Cincinnati Area at the Northern Kentucky Convention Center. The scheduled dismantling hours for exhibitors at the ION GNSS+ 2024 event were Thursday, 4:00 p.m. to 10:00 p.m.",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/jnc/past-meetings.cfm",
+      "https://www.ion.org/gnss/exhibitor-resource-center.cfm"
+    ],
+    "golden_path": [
+      "root->Joint Navigation Conference->Past Meetings",
+      "root->ION GNSS+->Exhibitor Resource Center"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 112.283,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0057_a0792641b1b1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0057_a0792641b1b1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

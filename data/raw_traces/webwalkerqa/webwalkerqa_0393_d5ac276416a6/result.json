@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0393_d5ac276416a6",
+  "source_index": 393,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "覃锡忠在2015年和2016年主持的项目总经费是多少？并指出这些项目中哪些是在2015年进行的。",
+  "prompt": "覃锡忠在2015年和2016年主持的项目总经费是多少？并指出这些项目中哪些是在2015年进行的。",
+  "expected_answer": "项目总经费为60万元。2015年进行的项目有两个：“GIS平台功能优化服务子项目基站状态监控和接口开发”和“可视化网络状态监控和接口开发”。",
+  "root_url": "https://it.xju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.xju.edu.cn/info/1150/2395.htm"
+    ],
+    "golden_path": [
+      "root->师资队伍->教师名录->覃锡忠"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.319,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0393_d5ac276416a6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0393_d5ac276416a6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

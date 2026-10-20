@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0193_738115d4d1a4",
+  "source_index": 193,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "谁是在复旦大学江湾校区二号交叉学科楼 A2023 室，有联系电话为86-21-51355385的副教授，并且拥有清华大学博士学位？",
+  "prompt": "谁是在复旦大学江湾校区二号交叉学科楼 A2023 室，有联系电话为86-21-51355385的副教授，并且拥有清华大学博士学位？",
+  "expected_answer": "李银胜",
+  "root_url": "https://cs.fudan.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.fudan.edu.cn/3e/ab/c25926a278187/page.htm"
+    ],
+    "golden_path": [
+      "root->按职称->李银胜"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 34.266,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0193_738115d4d1a4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0193_738115d4d1a4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

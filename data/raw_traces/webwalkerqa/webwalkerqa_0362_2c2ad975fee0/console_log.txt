@@ -1,0 +1,889 @@
+----- user -----
+query:
+In October 2021, which Employee Resource Group (ERG) did Riot Unidos collaborate with to host a special Food Lab event, and what cultural dishes were shared?
+official website:
+https://www.riotgames.com/zh-cn
+Observation:website information:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+登录
+登录
+!
+!
+# 
+2026 赛季//第三幕现已开启
+塑水宗卷土重来、斗牛：晋升赛开启、地图池迎来更新 更多精彩内容，尽在第三幕！
+## 最新动态
+ 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告 新闻 ](
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+## 我们的游戏
+ ! windowsapple ]( "Drag to explore") ! windowsmobileplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windows ]( "Drag to explore") ! 敬请期待 ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsmobileplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windows ]( "Drag to explore") ! 敬请期待 ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsmobileplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windows ]( "Drag to explore") ! 敬请期待 ]( "Drag to explore")
+## 电子竞技&娱乐
+! ]( ]( ]( ]( ](
+## 加入我们！
+加入拳头，开启全新征程，铸造难以忘怀的玩家经历
+!
+      
+              
+Cookie Preferences
+
+
+clickable button:
+
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>展开全部<button>
+<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告新闻<button>
+<button>VCT 2027：每一战，皆决战新闻<button>
+<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片新闻<button>
+<button>【无畏契约】并肩而战//迷核英雄预告新闻<button>
+<button>花开如约 | 2026新春庆典踏雪寻梅遇故知新闻<button>
+<button>181招聘职位<button>
+<button>24地点<button>
+<button>查看所有空缺职位<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find information about the Employee Resource Group (ERG) that Riot Unidos collaborated with in October 2021 for a special Food Lab event and the cultural dishes shared. Since the official website is provided, I will start by visiting the relevant sections of the website.
+
+Action: visit_page
+Action Input: {"button": "我们是谁"}
+
+----- VisitPage -----
+The web information is:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+登录
+登录
+!
+我们的价值观
+# 坚持玩家至上
+一切以服务玩家为核心，持续专注，激发深远且历久弥新的游戏体验。
+01.玩家至上
+02.严肃对待游戏
+03.矢志梦想
+04.长期深耕
+05.拳合力聚
+## 极致聚焦核心群体
+聚焦最关注我们的核心玩家群体，深知其对社区拓展的重要性。伴随他们成长时，不断深化对玩家需求的洞察，竭力超出他们的预期，提供卓越的服务与体验。
+## 融入玩家社区
+贴近社区，与玩家共情。视每一次互动为增添价值、巩固关系的契机，让玩家在挚爱的游戏中找到归属感。
+## 打造繁荣生态 
+为玩家的每一份热爱，去打造公平、安全、包容的游戏环境。并为此在产品与生态的设计和培育上不懈努力。 
+## 玩家无处不在
+我们的投入与追求，我们应对的挑战，旨在克服地域与文化的界限，惠及世界上的每一位玩家。
+!
+## 我们是Riot
+拳头游戏成立于2006年，致力于创造让玩家世界更美好的游戏和体验。如今，我们已发展成为拥有超过4,500名拳头员工的国际化团队，遍布世界20多个办公室，以全球视野塑造游戏及其中角色。从皮尔特沃夫的街头到阿尔法地球的源晶物质实验室，我们致力于游戏创作，服务于热爱它们的每一个人。
+Close
+!
+# 英雄联盟
+!
+!
+# 英雄联盟
+!
+这是一切的起点，我们的旗舰之作。《英雄联盟》现已步入第二个十年，由160余位英雄构筑的符文之地世界依旧魅力不减，激发全球玩家的热情与共鸣。 
+More Information
+!
+# 无畏契约
+!
+!
+# 无畏契约
+!
+我们的首款第一人称射击游戏，也是第二个重要电竞项目。《无畏契约》的故事跳脱了符文之地宇宙，在贴近现实世界的阿尔法地球展开，引领玩家探索未知战场。 
+More Information
+!
+# 英雄联盟：云顶之弈
+!
+!
+# 英雄联盟：云顶之弈
+!
+全球最受欢迎的PC策略游戏。《英雄联盟：云顶之弈》汇聚战术大师，围绕符文之地的英雄构建阵容，每一局都是智谋与运气的终极碰撞。
+More Information
+!
+# 英雄联盟手游
+!
+!
+# 英雄联盟手游
+!
+专为移动平台打造，拥有独特的风格和玩法，让《英雄联盟》的激情随时随地触手可及。
+More Information
+!
+# Legends of Runeterra
+!
+!
+# Legends of Runeterra
+!
+我们倾心打造的卡牌对战游戏，并衍生出PvE玩法英雄之路，玩家可以即兴构筑卡组，并体验符文之地的故事。
+More Information
+!
+# 2XKO
+!
+!
+# 2XKO
+!
+2XKO 是一款由《英雄联盟》和《英雄联盟：双城之战》中经典角色联袂出场的2v2格斗游戏。
+More Information
+!
+# 符文战场
+!
+!
+# 符文战场
+!
+我们的集换式卡牌游戏《符文战场》脱胎于数字世界。收集卡片、构筑牌组、与好友结伴，在牌桌上进行1v1或4人乱斗。
+## 我们的承诺
+](
+### 社会影响力
+](
+### 可持续发展
+](
+### 多元与包容
+## 全球布局
+虽然总部位于阳光明媚的洛杉矶，但我们通过世界各地的办公室为玩家提供服务。扎根当地的拳头员工们为玩家量身塑造最佳的游戏体验。我们寻找既是游戏爱好者，亦是行业精英的人才，携手为全世界的玩家创造价值。
+诚邀英才
+## 181 招聘职位
+欢迎加入我们全球各地的办公室，铸就你的职业生涯，为玩家共创难忘的游戏体验。
+ 拳头生活]( 走进拳头](
+      
+              
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>了解更多<button>
+<button>了解更多<button>
+<button>了解更多<button>
+<button>探索我们的办公室<button>
+<button>探索工作机会<button>
+<button>拳头生活<button>
+<button>走进拳头<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>
+
+----- WebWalker -----
+The "我们是谁" section does not provide specific information about the Employee Resource Group (ERG) collaboration or the Food Lab event. I will now explore other sections of the website to find relevant information.
+
+Action: visit_page
+Action Input: {"button": "新闻"}
+
+----- VisitPage -----
+The web information is:
+
+
+登录
+登录
+显示 所有 
+关闭筛选
+筛选 
+  * 所有
+  * 办公室
+  * 部门
+  * 新闻
+  * Riot內部
+  * One-Shot
+  * Tech Blog
+!
+新闻
+2026/04/14
+### 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告
+Pabro和Meddler带你了解第2主题季、即将发布的皮肤以及玩法改动。Riot Cadmus和Riot RogueFool揭晓本主题季竞技场的部分更新。还有DashiJador和Riot CallMeKT介绍WASD控制模式登陆排位赛的安排。
+2026/04/14
+!
+新闻
+2026/04/08
+### VCT 2027：每一战，皆决战
+从公开入围赛到杯赛，再到大师赛和全球冠军赛的顶尖赛事舞台，就这么简单。
+2026/04/08
+!
+新闻
+2026/03/27
+### 【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片
+走进星神的圣域！上前来，向神致意，你将获得宇宙之力的恩赐。
+2026/03/27
+!
+新闻
+2026/03/15
+### 【无畏契约】并肩而战//迷核英雄预告
+即将于 2026 赛季//第二幕登场。
+2026/03/15
+!
+新闻
+2026/02/04
+### 花开如约 | 2026新春庆典踏雪寻梅遇故知
+踏雪寻梅遇故知。如期如约，唤醒沉睡在时光中的快乐与友谊 🌸 新春庆典将于26.03版本开启。
+2026/02/04
+!
+新闻
+2026/02/04
+### 幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片
+美食、欢笑和友谊，真是太棒了！天马行空 小马率领小小英雄们展开疯狂的城市飞车，在云顶之弈中迎接至臻 玉剑传说 武剑仙 小小锐雯的到来，并在神话级棋盘 马到成功热闹落地。抓稳扶好，这就出发！去迎接你的开年大胜！
+2026/02/04
+!
+新闻
+2026/02/04
+### 心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片
+家是心之所向。你在之处，便是归宿。
+2026/02/04
+!
+新闻
+2025/12/19
+### 暂离工位 2025年寒假到来
+请放心，反作弊、安全和线上运营团队已经排好值班，确保一切平稳运行。 
+2025/12/19
+!
+新闻
+2025/11/06
+### 寻找你附近的2025全球总决赛观赛派对
+正在寻找英雄联盟全球总决赛的观赛活动？你来对地方了。
+2025/11/06
+      
+              
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告<button>
+<button>VCT 2027：每一战，皆决战<button>
+<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片<button>
+<button>【无畏契约】并肩而战//迷核英雄预告<button>
+<button>花开如约 | 2026新春庆典踏雪寻梅遇故知<button>
+<button>幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片<button>
+<button>心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片<button>
+<button>暂离工位 2025年寒假到来<button>
+<button>寻找你附近的2025全球总决赛观赛派对<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>
+
+----- WebWalker -----
+The "新闻" section does not contain information about the Employee Resource Group (ERG) collaboration or the Food Lab event in October 2021. I will now explore other sections of the website to find relevant information.
+
+Action: visit_page
+Action Input: {"button": "与我们共事"}
+
+----- VisitPage -----
+The web information is:
+
+
+登录
+登录
+# Unleash Play
+## We turn passion into play. We’re looking for S-tier pros to join us in shaping unforgettable experiences for players. 
+### Life at Riot
+### Interviewing at Riot
+!
+### Our In-Office Approach
+Learn more
+!
+### Offices
+Learn more
+!
+### Emerging Talent Programs
+Learn more
+!
+### Game Dev Resources
+Learn more
+## Work with us
+招聘职位: **181**
+  * 选择一个领域选择一个领域 Accounting Admin Art Art - CG Audio Brand Management Business Development Comms Compliance Consumer Products Corporate Corporate Dev Creative Creative Direction Creative Direction & Management Creative Marketing Data Data Privacy Design Entertainment Esports Finance Game Product Leadership Game Production Leadership Global Channel Marketing Information Security Group Information Technology Infrastructure Insights Internships Legal Live Services Localization Narrative People Player Community Player Support Group Product Management Group Production Group Program Management Group Publishing QA Group Real Estate and Construction Revenue Strategy Group Software Engineering Group Strategic Advisory Group Strategic Finance Group Tech General Video Workplace Experience Writing and Editing选择一个产品团队选择一个产品团队 2XKO Arcane Consumer Products Creative & IP Development Entertainment Esports GMC Shanghai League of Legends League of Legends: Wild Rift Legends of Runeterra MMO Riftbound Riot Discovery Riot Game Operations Riot Operations & Support Teamfight Tactics VALORANT选择一个办公地点选择一个办公地点 Bangkok, Thailand Barcelona, Spain Bellevue, USA Berlin, Germany Des Moines, USA Dubai, UAE Dublin, Ireland Guangzhou, China Jakarta, Indonesia London, UK Los Angeles, USA Manila, Philippines Mercer Island, USA Mexico City, Mexico Mumbai, India Paris, France SF Bay Area, USA Sao Paulo, Brazil Seoul, Korea Shanghai, China Singapore St. Louis, USA Sydney, Australia Tokyo, Japan
+                                                                                                                                                                                                                                                                                                                                                                          
+      
+              
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>See Open Roles<button>
+<button>Life at Riot<button>
+<button>Learn more<button>
+<button>Interviewing at Riot<button>
+<button>Learn more<button>
+<button>Our In-Office Approach<button>
+<button>Offices<button>
+<button>Emerging Talent Programs<button>
+<button>Manager, Software Engineering - League Studios (Services)Software Engineering GroupLeague of LegendsLos Angeles, USA<button>
+<button>Staff Software Engineer, Riot Client - Publishing PlatformSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>3D Animation Artist - Unpublished R&D Product (Contract)ArtRiot DiscoveryGuangzhou, China<button>
+<button>APAC Music Artist Partnerships Manager IIIEntertainmentEntertainmentSingapore<button>
+<button>APAC Publishing Manager, WR (Contract)PublishingLeague of Legends: Wild RiftManila, Philippines<button>
+<button>Art Project Manager - FFGS (Contract)ArtTeamfight TacticsShanghai, China<button>
+<button>Brand Manager Eastern Europe, VALORANTBrand ManagementVALORANTBerlin, Germany<button>
+<button>Community Manager II, Indonesia and Malaysia - VALORANTCommsVALORANTJakarta, Indonesia<button>
+<button>Consumer Products Retail Business Development Manager - Consumer Products & Experiences (CPX)EntertainmentRiot Operations & SupportShanghai, China<button>
+<button>Consumer Products and Experience Operations Manager - KoreaEntertainmentRiot Operations & SupportSeoul, Korea<button>
+<button>Content Producer - LoL EsportsProduction GroupEsportsSeoul, Korea<button>
+<button>Content Producer - Wild Rift (Contract)PublishingLeague of Legends: Wild RiftShanghai, China<button>
+<button>Director, Data Engineering - League StudiosDataLeague of LegendsLos Angeles, USA<button>
+<button>Director, Game Product Management - Cross-VALORANT Experience (XVX)Product Management GroupVALORANTLos Angeles, USA<button>
+<button>Director, Insights - VALORANT GameplayInsightsVALORANTLos Angeles, USA<button>
+<button>Director, Insights - WILD RIFTInsightsLeague of Legends: Wild RiftLos Angeles, USA<button>
+<button>Director, Research Science - Tech ResearchDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Esports Event ProducerEsportsEsportsLos Angeles, USA<button>
+<button>Esports Events Coordinator, APAC Emerging Markets - Content Services (Contract)EsportsEsportsSingapore<button>
+<button>External Affairs ManagerCorporateRiot Operations & SupportShanghai, China<button>
+<button>Game Designer III (Card Rules) - RiftboundDesignRiot DiscoveryLos Angeles, USA<button>
+<button>Game Product Manager, Gameplay - FFGS/金铲铲之战Product Management GroupTeamfight TacticsShanghai, China<button>
+<button>Game Production Intern - League of Legends (Contract)Production GroupLeague of LegendsSingapore<button>
+<button>Global & Americas Manager, Partnership Management - Riot Commercial PartnershipsBusiness DevelopmentRiot Operations & SupportLos Angeles, USA<button>
+<button>HR Business PartnerPeopleRiot Operations & SupportLos Angeles, USA<button>
+<button>Interactive Music Design ManagerAudioDevelopment StudiosSingapore<button>
+<button>Internal AuditorAccountingRiot Operations & SupportLos Angeles, USA<button>
+<button>Legal Counsel - APAC (Contract)LegalRiot Operations & SupportSingapore<button>
+<button>Level Design Lead - VALORANTDesignVALORANTLos Angeles, USA<button>
+<button>Localization Operations ManagerProduction GroupRiot Operations & SupportShanghai, China<button>
+<button>Localization Producer IIProduction GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Manager, 3D Character Art - Teamfight TacticsArtTeamfight TacticsSingapore<button>
+<button>Manager, Game Production - Distributed DevelopmentProduction GroupDevelopment StudiosSydney, Australia<button>
+<button>Manager, Globalization ProductionProduction GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Manager, Software Engineering (Optimize) - InfrastructureSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Manager, Software Engineering (Tools & Frameworks) - Developer ConnectionsSoftware Engineering GroupRiot Operations & SupportSF Bay Area, USA<button>
+<button>Manager, Software Engineering - Content Access PlatformSoftware Engineering GroupRiot Operations & SupportMercer Island, USA<button>
+<button>Manager, Software Engineering - Developer Connections, Client BuildSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Manager, Software Engineering - Developer Connections, ReleaseSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Manager, Software Engineering – Automation & Build Systems, Unpublished R&D ProductSoftware Engineering GroupMMOSydney, Australia<button>
+<button>Manager, Software Engineering, Publishing Engagement - Publishing PlatformSoftware Engineering GroupRiot Operations & SupportSeoul, Korea<button>
+<button>Manager, Software Engineering, Services & China Partnership - VALORANTSoftware Engineering GroupVALORANTSydney, Australia<button>
+<button>Manager, Sound Design - League of LegendsAudioLeague of LegendsSingapore<button>
+<button>Manager, Technical Art - Rendering, Unpublished R&D ProductArtMMOSydney, Australia<button>
+<button>Manager, Technical Art - Unpublished R&D ProductArtDevelopment StudiosSingapore<button>
+<button>Manager, TreasuryFinanceRiot Operations & SupportSingapore<button>
+<button>Manager, VFX Art - Teamfight TacticsArtTeamfight TacticsSingapore<button>
+<button>Manager, VFX Art - Unpublished R&D ProductArtDevelopment StudiosSingapore<button>
+<button>Manager, Workplace ExperienceWorkplace ExperienceRiot Operations & SupportShanghai, China<button>
+<button>Marketing Creative Director - VALORANT (Contract)PublishingVALORANTShanghai, China<button>
+<button>Organized Play Manager, IBIT (9-Month Contract)Program Management GroupEsportsBarcelona, Spain<button>
+<button>Organized Play Market Specialist - APAC (12 Month Contract)PublishingRiot Operations & SupportSingapore<button>
+<button>Principal Animation Artist - Unpublished R&D ProductArtRiot Game OperationsShanghai, China<button>
+<button>Principal Concept Artist (Character) - VALORANTArtVALORANTLos Angeles, USA<button>
+<button>Principal Data Engineer, Personalization - Publishing PlatformDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Game Designer, Meta Systems and Progression - League of LegendsDesignLeague of LegendsLos Angeles, USA<button>
+<button>Principal Insights Analyst - Ecosystem InsightsInsightsRiot Game OperationsLos Angeles, USA<button>
+<button>Principal Insights Analyst, AXE - Teamfight TacticsInsightsTeamfight TacticsLos Angeles, USA<button>
+<button>Principal Insights Analyst, PubSports - League of LegendsInsightsLeague of LegendsLos Angeles, USA<button>
+<button>Principal Lighting Artist - League of LegendsArtLeague of LegendsLos Angeles, USA<button>
+<button>Principal Machine Learning Engineer (Personalization, Matchmaking, & Player Experience AI) - Publishing PlatformDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Research Scientist, Gameplay AI - Tech ResearchDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Researcher - League of LegendsInsightsLeague of LegendsLos Angeles, USA<button>
+<button>Principal Researcher - League of Legends PubSportsInsightsRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Software Engineer (Tech Lead) - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Principal Software Engineer - Content Access PlatformSoftware Engineering GroupRiot Operations & SupportMercer Island, USA<button>
+<button>Principal Software Engineer, Rendering - Game Tech Group, Unreal EcosystemSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Software Engineer, Services - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Principal Software Engineer, Test Automation - League of LegendsSoftware Engineering GroupLeague of LegendsLos Angeles, USA<button>
+<button>Principal Software Engineer, VALORANT - Foundations Developer Experience & WorkflowsSoftware Engineering GroupVALORANTLos Angeles, USA<button>
+<button>Principal Technical Product Manager - VALORANT, AI/MLProduct Management GroupVALORANTLos Angeles, USA<button>
+<button>Principal Technical Product Manager, AI - Central ProductProduct Management GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Tools & Pipeline Technical Artist - Unpublished R&D ProductArtRiot DiscoveryLos Angeles, USA<button>
+<button>Principal Visual Design Artist - RiftboundArtRiot Operations & SupportShanghai, China<button>
+<button>Production Accountant - Esports Events (6 Month Contract)FinanceEsportsDublin, Ireland<button>
+<button>Project Coordinator, Creative - APAC Shared Services (8 Month Contract)Creative Direction & ManagementRiot Operations & SupportSingapore<button>
+<button>Public Relations Strategist (Contract)CommsRiot Operations & SupportShanghai, China<button>
+<button>Publishing Operations Lead, Riot Ecosystem ProductPublishingRiot Operations & SupportLos Angeles, USA<button>
+<button>Publishing Product Manager, Event - VALORANT (Contract)PublishingVALORANTShanghai, China<button>
+<button>Publishing Product Manager, Korea & Japan - Unpublished R&D ProductProduct Management GroupRiot Operations & SupportSeoul, Korea<button>
+<button>QA Engineer - Unpublished R&D Product (Contract)QA GroupRiot DiscoveryShanghai, China<button>
+<button>QA Engineer - Wild Rift (Contract)QA GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>QA Engineer II - Teamfight Tactics (Contract)QA GroupTeamfight TacticsSingapore<button>
+<button>Senior Brand ManagerBrand ManagementTeamfight TacticsLos Angeles, USA<button>
+<button>Senior Brand Manager - TFTBrand ManagementTeamfight TacticsShanghai, China<button>
+<button>Senior Data Engineer (12 month contract) - WildRift DataDataLeague of Legends: Wild RiftSydney, Australia<button>
+<button>Senior Data Scientist - Singapore Efficiency TeamDataDevelopment StudiosSingapore<button>
+<button>Senior Events ProducerEsportsRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Financial AccountantAccountingRiot Operations & SupportSingapore<button>
+<button>Senior Game Designer, Combat - Unpublished R&D ProductDesignRiot Operations & SupportShanghai, China<button>
+<button>Senior Game Designer, Competitive Systems - VALORANTDesignVALORANTLos Angeles, USA<button>
+<button>Senior Game Producer 高级游戏项目管理经理 - Unpublished R&D ProductProduction GroupRiot Game OperationsGuangzhou, China<button>
+<button>Senior Game Product Manager, Events - Wild RiftProduct Management GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Game Product Manager, Monetization and Growth - FFGS/金铲铲之战Product Management GroupTeamfight TacticsShanghai, China<button>
+<button>Senior HR Business Partner (Games Division)PeopleRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior HR Business Partner (Corporate)PeopleRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Illustration Artist - League of Legends, Splash TeamArtLeague of LegendsLos Angeles, USA<button>
+<button>Senior Insights Manager - Ecosystem InsightsInsightsRiot Game OperationsLos Angeles, USA<button>
+<button>Senior Interactive Music Designer - League Studios, Creative eXpressionsAudioLeague of LegendsLos Angeles, USA<button>
+<button>Senior Manager, Art Direction – Unpublished R&D ProductArtDevelopment StudiosSingapore<button>
+<button>Senior Manager, Art Direction, Skins – League of LegendsArtDevelopment StudiosSingapore<button>
+<button>Senior Manager, Audio Direction - Unpublished R&D ProductAudioRiot DiscoveryLos Angeles, USA<button>
+<button>Senior Manager, Brand Management – League of Legends: Wild RiftBrand ManagementLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Manager, Creative Direction - Wild RiftArtLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Manager, Data Engineering - ValorantDataVALORANTLos Angeles, USA<button>
+<button>Senior Manager, Equity AdministrationAccountingRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Manager, Game Product Management - Wild RiftProduct Management GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Manager, Game Production - League of Legends, Champions & CosmeticsProduct Management GroupLeague of LegendsLos Angeles, USA<button>
+<button>Senior Manager, Game Production - Unpublished R&D ProductProduction GroupDevelopment StudiosSingapore<button>
+<button>Senior Manager, Internal Communications Lead – ProductCommsRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Manager, Publishing Product Management - Wild RiftProduct Management GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Manager, Software Engineering (Graphics)- League of LegendsSoftware Engineering GroupLeague of LegendsLos Angeles, USA<button>
+<button>Senior Manager, Software Engineering - League of Legends, Developer ExperienceSoftware Engineering GroupLeague of LegendsMercer Island, USA<button>
+<button>Senior Manager, Software Engineering, Build Services - VALORANTSoftware Engineering GroupVALORANTLos Angeles, USA<button>
+<button>Senior Manager, Technical Art Direction - League of LegendsArtLeague of LegendsSingapore<button>
+<button>Senior Manager, User Experience Design - Teamfight TacticsDesignTeamfight TacticsLos Angeles, USA<button>
+<button>Senior Marketing Creative DirectorCreative Direction & ManagementRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Principal Insights Analyst, Growth Marketing/UA - MobileInsightsRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior QA Engineer - Unpublished R&D ProductQA GroupRiot DiscoverySydney, Australia<button>
+<button>Senior QA Engineer, Compliance & Release - Wild RiftQA GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Researcher - Unpublished R&D ProductInsightsRiot DiscoveryLos Angeles, USA<button>
+<button>Senior Researcher - Wild RiftInsightsLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Software Engineer - Hextech, GameplaySoftware Engineering GroupLeague of LegendsSydney, Australia<button>
+<button>Senior Software Engineer, Gameplay Systems & AI - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Senior Software Engineer, Gameplay Systems & Animation - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Senior Software Engineer, Player Dynamics - VALORANTSoftware Engineering GroupVALORANTSydney, Australia<button>
+<button>Senior Software Engineer, Support (12 month contract) - Unreal EcosystemSoftware Engineering GroupRiot Operations & SupportSydney, Australia<button>
+<button>Senior Software Engineer, UI & Services - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Senior Software Engineer, Unpublished R&D ProductSoftware Engineering GroupDevelopment StudiosSydney, Australia<button>
+<button>Senior Software Engineer, VALORANT - Release EngineeringSoftware Engineering GroupVALORANTSydney, Australia<button>
+<button>Senior Systems EngineerInfrastructureEsportsBerlin, Germany<button>
+<button>Senior Technical Artist, Animation - Unpublished R&D ProductArtMMOLos Angeles, USA<button>
+<button>Senior Technical Producer - QA PlatformProduction GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Technical Producer, Esports Platforms - Publishing PlatformProduction GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Technical Producer, Services - Unpublished R&D ProductProduction GroupRiot DiscoveryMercer Island, USA<button>
+<button>Senior User Experience Designer, Esports - Publishing PlatformDesignRiot Game OperationsLos Angeles, USA<button>
+<button>Senior Visual Designer, Unpublished R&D TitleArtRiot Operations & SupportMercer Island, USA<button>
+<button>Softlines Product Category ManagerEntertainmentConsumer ProductsLos Angeles, USA<button>
+<button>Software Engineer II, Community Tech - Publishing PlatformSoftware Engineering GroupRiot Game OperationsLos Angeles, USA<button>
+<button>Software Engineer Trainee - League of Legends (Contract)Software Engineering GroupLeague of LegendsSingapore<button>
+<button>Software Engineer, Gameplay - Unpublished R&D Product (Contract)Riot DiscoveryShanghai, China<button>
+<button>Software Engineer, Gameplay - Unpublished R&D Product (Contract)Software Engineering GroupRiot DiscoveryGuangzhou, China<button>
+<button>Software Engineer, Riot Client - Publishing PlatformSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Software Engineer, Services - Unpublished R&D Product (Contract)Software Engineering GroupRiot DiscoveryGuangzhou, China<button>
+<button>Software Engineer, Services - Unpublished R&D Product (Contract)QA GroupRiot DiscoveryShanghai, China<button>
+<button>Software Engineering Manager, AI/ML - VALORANTSoftware Engineering GroupVALORANTLos Angeles, USA<button>
+<button>Sourcing & Analytics ManagerFinanceRiot Operations & SupportLos Angeles, USA<button>
+<button>Sr. Manager, Data Engineering - PubSports InsightsDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Sr. Manager, Game Design 主策 - Unpublished R&D ProductDesignRiot Game OperationsGuangzhou, China<button>
+<button>Sr. Manager, Insights, Competitive - VALORANTInsightsVALORANTLos Angeles, USA<button>
+<button>Sr. Manager, Machine Learning Engineering - Game Tech Group, AI FoundationsDataRiot Game OperationsLos Angeles, USA<button>
+<button>Sr. Manager, Machine Learning Engineering - Game Tech Group, Anti-CheatDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Sr. Manager, Software Engineering (Services Lead) - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Staff Software Engineer - Data FoundationsSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Staff ML Engineer, ML Platform - Game Tech GroupDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Staff Research Scientist, Foundation Models - Tech ResearchDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Staff Software Engineer - Game Tech Group, Unreal EcosystemSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Staff Software Engineer - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoverySydney, Australia<button>
+<button>Staff Software Engineer, Console - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Staff Software Engineer, Core Services - VALORANTSoftware Engineering GroupVALORANTSydney, Australia<button>
+<button>Staff Software Engineer, Gameplay Meta - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryMercer Island, USA<button>
+<button>Staff Software Engineer, Platform Services (Anti-Cheat) - Game Tech GroupSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Staff Software Engineer, Rendering 渲染工程师Software Engineering GroupDevelopment StudiosShanghai, China<button>
+<button>Staff Software Engineer, Services - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryShanghai, China<button>
+<button>Staff Software Engineer, Tools - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Staff Software Engineer- League of Legends, Around Game FoundationsSoftware Engineering GroupLeague of LegendsLos Angeles, USA<button>
+<button>Strategic Finance AnalystFinanceRiot Operations & SupportDublin, Ireland<button>
+<button>Strategic Finance ProfessionalFinanceRiot Operations & SupportLos Angeles, USA<button>
+<button>Talent Management & Leadership Development PartnerPeopleRiot Operations & SupportLos Angeles, USA<button>
+<button>Technical Art Director - Unpublished R&D ProductArtRiot DiscoveryLos Angeles, USA<button>
+<button>Technical Producer - Unpublished R&D ProductProduction GroupMMOSydney, Australia<button>
+<button>Technical Producer - Wild Rift (Contract)Production GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>Technical Producer II - League Studio, Machine LearningProduction GroupLeague of LegendsLos Angeles, USA<button>
+<button>Technical Producer II - VALORANT, AIProduction GroupVALORANTLos Angeles, USA<button>
+<button>Technical Product Manager II - Game FoundationsProduct Management GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Technical Program Manager III - Publishing PlatformProgram Management GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>User Experience Designer III - Unpublished R&D ProductDesignRiot DiscoveryLos Angeles, USA<button>
+<button>动画师 - Unpublished R&D Product (Contract)ArtRiot DiscoveryShanghai, China<button>
+<button>商务合作经理 (Contract)Business DevelopmentRiot Operations & SupportShanghai, China<button>
+<button>技术美术，渲染 - Unpublished R&D Product (Contract)ArtRiot DiscoveryShanghai, China<button>
+<button>资深技术美术 - Unpublished R&D ProductArtRiot DiscoveryGuangzhou, China<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>
+
+----- WebWalker -----
+The "与我们共事" section does not provide specific information about the Employee Resource Group (ERG) collaboration or the Food Lab event in October 2021. I will now explore other sections of the website to find relevant information.
+
+Action: visit_page
+Action Input: {"button": "媒体"}
+
+----- VisitPage -----
+The web information is:
+
+
+登录
+登录
+# 媒体
+!
+需要媒体素材吗？希望申请采访吗？如有与媒体相关的垂询，请联系我们的公关团队。所有非媒体相关的询问都将不会获得回复。
+所有其它方面的问题，请访问。
+      
+              
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>
+
+----- WebWalker -----
+The "媒体" section does not provide specific information about the Employee Resource Group (ERG) collaboration or the Food Lab event in October 2021. I will now explore other sections of the website to find relevant information.
+
+Action: visit_page
+Action Input: {"button": "安全"}
+
+----- VisitPage -----
+The web information is:
+
+
+登录
+登录
+# Security
+!
+  
+You put a lot of trust in us when you give us your info, and we don’t take that for granted. Keeping data safe is our number one priority -- we have teams across security, engineering, and communications that work to protect you. 
+We strive to be as transparent as possible when it comes to our security efforts so you can stay informed and take action when needed. We’ll continue to update this page to include all relevant security-related info, past and present.
+  *  related to your game account with Riot Support
+  * Learn how to tell the difference between legit emails from Riot versus 
+  * Get protips about  against hackers and fraudsters
+  * If you’re a security researcher looking to submit a report about an interesting security issue, check out the details on 
+  * Learn more about 
+**Riot Security Notices**
+  *  (2011)
+  * (2012)
+      
+              
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>Reporting A Security Vulnerability<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>
+
+----- WebWalker -----
+The "安全" section does not provide specific information about the Employee Resource Group (ERG) collaboration or the Food Lab event in October 2021. I will now explore other sections of the website to find relevant information.
+
+Action: visit_page
+Action Input: {"button": "玩家支持"}
+
+----- VisitPage -----
+The web information is:
+
+#  ;)
+;) ;)
+**英雄联盟** 客服专区 
+亲爱的玩家，您可以 ;) 并绑定角色，以获取更加贴心的服务
+当前角色： ;)
+## 为您推荐
+## 热门问题
+  * 英雄联盟点券充错大区
+  * 英雄联盟如何查询游戏违规行为举报结果
+  * 幻灵秘宝活动常见问题
+  * 英雄联盟登录、网络卡顿、加载问题
+## 自助工具
+  * !
+  * 热门问题
+  * 登录问题
+  * 账号问题
+  * 举报问题
+  * 充值问题
+  * 活动问题
+选择区服
+大区 -- 请选择您的大区 --
+-- 请选择您的角色 --
+角色
+-- 请选择您的角色 --
+-- 请选择您的角色 --
+;)
+;)
+   
+Copyright © 1998 - 2026 Tencent. All Rights Reserved. 腾讯公司 版权所有 粤网文[2011]0483-070号
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+The "玩家支持" section does not provide specific information about the Employee Resource Group (ERG) collaboration or the Food Lab event in October 2021. I will now explore other sections of the website to find relevant information.
+
+Action: visit_page
+Action Input: {"button": "年度报告"}
+
+----- VisitPage -----
+The web information is:
+
+
+登录
+登录
+拳头游戏
+# 年度报告
+我们的年度报告展现了拳头为了让全世界玩家获得更好的游戏和体验，所做的努力。包括支持处于人生各个阶中的拳头员工，坚守我们对于可持续发展的承诺，将游戏内的善款投入到游戏外的各种事业，并让游戏能够充分代表其玩家。这些报告分享了我们的工作、进展和未来的努力方向。
+ 社会影响力年度报告 查看报告](
+ 可持续发展报告 查看报告](
+ 社会影响力年度报告 查看报告](
+## 2022
+## 2021
+## 2020
+## 2019
+  
+注：2022年，我们第一次合并发布一份年度影响力报告。此前，我们分开发布两份报告，一份是在多元与包容、员工招募等领域的发展报告，另一份是通过社会影响力回馈全球社区的报告。 
+      
+              
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>
+
+----- WebWalker -----
+The "年度报告" section does not provide specific information about the Employee Resource Group (ERG) collaboration or the Food Lab event in October 2021. I will now explore other sections of the website to find relevant information.
+
+Action: visit_page
+Action Input: {"button": "社区公约"}
+
+----- VisitPage -----
+The web information is:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+登录
+登录
+!
+# 社区公约
+!
+            
+内容概要：本社区公约适用于拳头旗下所有游戏（《英雄联盟》《无畏契约》《云顶之弈》《英雄联盟手游》《金铲铲之战》《2XKO》和《Legends of Runeterra》）
+_了解我们游戏的朋友都知道，玩家在对局中投入了巨大的热情。我们的游戏并不简单，因此才格外有意义。凭着这股热情，我们不断打磨技术、研究玩法、并肩作战，但有时对局却毁于他人的干扰行为。_
+_每款多人游戏中，难免都会有一小部分热衷于干扰对局的玩家。为了尽快清理这些玩家，并避免他们换个小号再次回归，我们始终致力于探测系统的提升。然而很多时候我们所遇到的干扰行为，其实也来自普通玩家，他们或许是这局手风不顺，或许是把今天的不开心带到了游戏中。虽然有技术工具帮助我们减少这种情况，但作用毕竟有限。说到底，真正的改变还需要我们自己下定决心，拿出求胜的竞技精神、公平游戏、尊重他人的态度，并能在必要时意识到，今天最好就玩到这里吧。_
+_想必大家之前都见过各种用户协议，在进游戏前也勾选了复选框。但重要的是我们要对彼此负责，遵守这篇社区公约的人越多，对局就会变得越好。_
+_社区公约可以视为我们《使用条款》中“用户守则”部分的延伸，它强调的是条款的精神内核，但对所有在拳头的游戏中排队开始对局的玩家，仍然具有约束力。_
+  * Riot Games
+  * Riot Games
+  * Riot Games
+  * Riot Games
+  * Riot Games
+  * Riot Games
+  * Riot Games
+  * Riot Games
+  * Riot Games
+  * Riot Games
+  * Riot Games
+  * Riot Games
+## 为胜利而战
+在一场有意义的对局中，所有玩家都全力以赴，哪怕局势对自己不利。无论领先还是落后，每场战斗我都会积极参与。
+不为胜利而战的行为包括但不限于：
+      * 放弃对局（包括故意掉线、挂机、、等）
+## 常见问题
+  * ### 如果我是新人，或是正在尝试、练习新的角色，拳头如何区分经验不足和故意搞破坏的行为？
+我们也是玩家，在探测系统的搭建和测试中，我们采纳了不同技术水平的拳头员工在对局中的表现情况。因此，我们所开发的探测系统能够很好地判断（虽然不是百发百中）谁是新手，谁在干扰别人。无论如何，如果你只是有几次失误，或是在尝试新的英雄或学习我们的游戏，不用担心受到任何处罚。
+  * ### 如果我只想玩得放松一些，或是要帮朋友练习，或是跟朋友们在自定义游戏中闹着玩呢？能不能不完全为胜利而战？
+没有伤害，就没有问题。也就是说，当对局中的所有玩家都有理由认为这是一场休闲局，也没有人举报你的时候，不会产生任何处罚。（没错，你可以放心去组“全约德尔人”5v5自定义对局！）
+但在大部分游戏模式中，默认的期望十分简单：每个人都要为胜利而战。大家对排位赛的重视程度有所不同，有人是为了爬天梯升段位，有人则只想好好打场游戏。但只要进入队列，就意味着你和队友之间有一个全力以赴的约定。
+## 公平游戏
+真正的胜利，要求所有人都遵守同样的规则。我会遵守规则，在对局中做到公平游戏。
+不公平游戏的行为包括但不限于：
+  * 作弊——包括和
+  * 使用模组、破解程序、作弊程序或其它能带来不正当优势的程序
+  * ——包括、、和
+    
+## 常见问题
+  * ### 如果是小号呢？我想开一个新号，用来练习新英雄或角色，这样可以吗？
+拥有多个账号本身并没有问题。但不得使用小号获取竞技优势、为他人提供竞技优势、逃避处罚或干扰他人体验。 
+任何排位作弊行为都是不公平的，一经发现，都会受到处罚。其中包括代练、组队带练和炸鱼，定义见下文。请注意，购买、出售或出让账号，都是违反的行为。 
+## 相互尊重
+在一个繁荣生长的社区中，玩家们都愿意开始下一次游戏。我不会故意针对或伤害一起游戏的玩家，哪怕对局不尽人意，或是其他人情绪激动。
+不相互尊重的行为包括但不限于：
+  * 使用侮辱性、贬低性、攻击性言论或骚扰性语言，或针对他人身份特征进行攻击
+  * 威胁他人、恶意诅咒、故意针对或传播暴力内容
+  * 在聊天频道中刷屏、制造干扰或发表无关内容
+  * 怂恿或唆使自杀或自残
+  * 性骚扰、非自愿性挑逗或传播色情淫秽内容
+  * 公开或威胁公开他人隐私信息或私密内容
+  * 冒名顶替或其他欺骗性行为
+  * 鼓吹或参与恐怖主义或极端主义行为
+  * 无论以何种形式，对未成年人进行任何性相关的利用或伤害行为
+更多信息请参见我们的。
+  * ### 垃圾话什么时候会被视为越界？
+我们能理解。每个人对垃圾话的容忍程度不同，有时边界并不清晰。总的说来，需要针对游戏，而不是个人。评论游戏操作或嘲讽对手并不算破坏公约，但攻击他人的身份特征、威胁伤害他人或辱骂刷屏，就是越界行为了。偶尔骂几句或是开个小玩笑可能不算什么，我们的游戏毕竟都有年龄限制。但当这些都是针对某个人、被滥用或没完没了时，就会被视为越界。同时，我们的游戏不容忍任何仇恨言论。
+我们知道，玩家们来自不同的文化背景和语言环境，对待同一个玩笑或评论的态度也不一样。但如果不止一个玩家多次举报你的沟通方式，可能就需要考虑约束自己，把注意力放在游戏上了。
+## 否则就不要玩。
+遵守社区公约，能为所有玩家创造更好的体验。对于破坏该公约的玩家，拳头或许会限制他们使用部分功能，甚至是整个游戏。
+  * ### 拳头为什么要处罚玩家？
+处罚是为了保护游戏和尊重游戏的玩家们。干扰行为会剥夺大家喜爱的游戏乐趣，而我们需要保护游戏体验。处罚能将玩家的注意力集中在游戏上，而不是搞破坏。 
+  * ### 如何采取处罚？
+处罚的轻重，取决于违规行为的严重程度和违规者的过往行为。小错误的处罚开始都很轻，如果屡错不改，就会逐渐加重。较为严重或反复违规的行为，有可能直接导致长期封号、在拳头所有游戏中被封禁，甚至永久封禁。
+没有“事不过三”的规则。如果违规行为足够恶劣，即使是初犯，也有可能被永久封号。 
+处罚可能包括：
+    * **警告** ——没有制裁措施的警示信息。
+    * **延迟** ——在一段时间内延长匹配时间。
+    * **限制** ——暂时限制或禁止访问特定功能，例如游戏内聊天或其它通讯功能。
+    * **暂时停权** ——在一段时间内禁止进行游戏。
+    * **** ——永久禁止进行游戏（单个账号）。
+    * **** ——永久禁止进行游戏（物理设备层面）。
+  * ### 如果拳头搞错了呢？
+产生错误是难免的，一旦出现，我们会重视玩家的反馈。没有完美的系统，有时可能会有错判或漏判。如果你认为处罚出现了错误，可以联系。我们会对该情况进行人工处理，如果确认错误，会进行纠正。
+  * ### 我想知道举报玩家后，拳头是否采取了措施和其具体的时间。是否有相应方法？
+你的举报很重要，能够帮我们维护公约的力量。当你举报的玩家受到处罚时，你可能会收到反馈，确认已采取措施。但为了保护玩家隐私，我们可能不会分享具体细节。我们将在后台查看举报，如果发现违规，会进行处罚。我们正在努力完善这个流程的闭环，更方便大家查看自己的举报是否奏效。
+有时在你举报一名玩家后，可能会再次遇到该玩家。这并不代表你的举报被忽视了——例如，有些处罚起初只是禁用通讯，主要是限制玩家实施破坏性行为的能力，但并未禁止其进行游戏。情节严重或屡次违规的行为会导致封禁，行为越具有破坏性或重复性，处罚力度就会越严厉。
+  * ### 我的小号会不会因为主账号的行为受到处罚？
+会的！处罚的目的是让玩家——而不是账号——为自己的行为负责。因此，处罚对象可能包括你的主账号和所有与你相关的其他账号。如果系统发现你的账号被限制或封禁期间，你登录了小号，那么该账号也可能受到处罚。此外，如果你用新账号继续干扰他人，那么考虑处罚力度时，很可能会将多个账号的行为纳入考量，包括你的主账号和小号，从而导致处罚加重。 
+## 术语表
+  * **挂机（AFK）：**在应当游戏时离开。  
+  * **脚本：**使用第三方软件或硬件来升级账号、解锁内容，或以其他方式人为制造账号价值或获取优势——也就是伪造进度而非通过正常游戏获得。  
+  * **禁用通讯：**暂时禁止使用游戏内通讯工具，通常包括文字和语音聊天。  
+  * **自降段位：**为了降低段位，故意输掉对局。  
+  * **消极游戏：** 故意破坏他人游戏体验——包括恶意捣乱、伤害队友或纯粹制造混乱。  
+  * **仇恨言论：**针对个人身份特征的攻击或贬低言论，包括针对种族、性别、国籍或其他受保护特征。  
+  * **硬件封禁：**封禁实际设备而不仅是账号，即使新建账号也无法通过该硬件登录。  
+  * **“坐车”（即组队带练）：**低水平玩家为了快速上分、超越自身实力，与通常不会匹配到同一对局的的高水平玩家（甚至作弊者）组队。  
+  * **故意送人头：**一种搞破坏的方式。故意阵亡，以增强敌方实力（也就是给敌方“送钱”）。  
+  * **选英雄时威胁队友：**如果其他玩家不让该玩家选择自己想要的角色/位置，就以退出游戏或故意捣乱作为威胁。  
+  * **假赛：**玩家假赛或故意放水，通常是为了赢得赌局或个人利益。该行为无视对局公平性，会造成严重后果。通常牵涉多名共谋玩家，但也有例外。  
+  * **永久封禁：**完全禁止游戏的限制手段，可能针对单个账号，或是某个设备，没有封禁结束时间。  
+  * **组队带练：** 参见“坐车”  
+  * **秒退：**玩家以任何理由在英雄或角色选择阶段离开队伍。  
+  * **排位作弊：**任何搞破坏游戏排位系统（匹配评分或段位机制）的行为，包括但不限于带练（俗称“坐车”）、故意掉分以及互刷胜场等。  
+  * **搞破坏：**玩家故意拖累己方队伍表现，通常以输掉比赛为目的。   
+  * **外挂：**玩家使用第三方软件（或硬件）自动执行游戏操作（如自动瞄准、自动闪避）或代替其响应游戏事件。  
+  * **炸鱼：**通过高段位玩家蓄意操作（通常包括购买账号、故意掉分或共享账号等手段）来规避匹配机制，从而匹配低水平对手，赢得对局。  
+  * **单排代练：**高段位玩家通过代打他人账号来获取非真实水平的段位提升，也就是段位作弊。  
+  * **不友善：** 一个非常宽泛的说法，通常指“对他人有害或造成负面体验”。这种表述因过于笼统且缺乏实际帮助，我们一般避免使用。  
+  * **互刷胜场：**对手之间串通作弊（通常涉及使用小号），即多名玩家合谋故意输掉比赛，以帮助特定玩家提升胜率或段位。
+## 相关社区文章
+!
+Community Pact
+#### The Grand Opening of the SoLa Technology and Entrepreneurship Center
+Funded in part by a $2.25M donation from Riot, the new center aims to inspire and develop the next generation of Black and Brown game developers, esports players, and tech professionals. 
+2022/08/12
+!
+Community Pact
+#### Free Mental Health Resources for Content Creators
+We partnered with The Public Good Projects to create a free mental health advocacy guide for streamers, content creators, and moderators.
+2021/05/28
+!
+Community Pact
+#### Dawnbringer Karma Wins Golden Halo Award
+League of Legends players win the 2021 Golden Halo Award for their generosity with the Dawnbringer Karma Fundraiser.
+2021/05/27
+      
+              
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>为胜利而战<button>
+<button>公平游戏<button>
+<button>相互尊重<button>
+<button>否则就不要玩。<button>
+<button>术语表<button>
+<button>相关社区文章<button>
+<button>故意送人头<button>
+<button>搞破坏<button>
+<button>AFK<button>
+<button>秒退<button>
+<button>选英雄时威胁队友<button>
+<button>使用外挂<button>
+<button>脚本<button>
+<button>排位作弊<button>
+<button>单排代练<button>
+<button>“坐车”/组队带练<button>
+<button>故意自降段位<button>
+<button>炸鱼<button>
+<button>互刷胜场<button>
+<button>假赛<button>
+<button>永久封禁<button>
+<button>硬件封禁<button>
+<button>The Grand Opening of the SoLa Technology and Entrepreneurship Center<button>
+<button>Free Mental Health Resources for Content Creators<button>
+<button>Dawnbringer Karma Wins Golden Halo Award<button>
+<button>加载更多<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>

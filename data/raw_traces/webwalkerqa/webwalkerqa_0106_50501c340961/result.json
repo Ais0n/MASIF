@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0106_50501c340961",
+  "source_index": 106,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In the 2024 plan to promote international academic influence of Peking University's School of Computer Science, which activities involve collaboration with top institutions in Southeast Asia and globally, and which international advisors are participating?",
+  "prompt": "In the 2024 plan to promote international academic influence of Peking University's School of Computer Science, which activities involve collaboration with top institutions in Southeast Asia and globally, and which international advisors are participating?",
+  "expected_answer": "The activities involve visits to nine institutions in Singapore, Malaysia, Thailand, and Vietnam. The participating international advisors include John Edward Hopcroft, Andrew Yao, and Michael I. Jordan.",
+  "root_url": "https://cs.pku.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.pku.edu.cn/info/1174/3249.htm",
+      "https://cs.pku.edu.cn/info/1174/3413.htm"
+    ],
+    "golden_path": [
+      "root->English->302024-08Peking University's School of Computer Science Visit Nine...Peking University's School of Computer Science Visit Nine Institutions in Four \"Belt and Road\" Co...",
+      "root->English->2024.11.08Successfully Hosted the First International Advisory Comm...Successfully Hosted the First International Advisory Committee Meeting On October 27, 2024, the S..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 52.449,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0106_50501c340961/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0106_50501c340961/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

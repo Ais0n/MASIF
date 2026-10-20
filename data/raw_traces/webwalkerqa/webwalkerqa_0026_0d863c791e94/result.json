@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0026_0d863c791e94",
+  "source_index": 26,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who were the recipients of the POMS Fellows Award in 2011 and 2022, respectively?",
+  "prompt": "Who were the recipients of the POMS Fellows Award in 2011 and 2022, respectively?",
+  "expected_answer": "The 2011 recipient of the POMS Fellows Award was Chris Tang, and the 2022 recipient was Zuo-Jun \"Max\" Shen.",
+  "root_url": "https://www.poms.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.poms.org/node/974",
+      "https://www.poms.org/node/403"
+    ],
+    "golden_path": [
+      "root->POMS Fellows Award->view",
+      "root->POMS Fellows Award->view"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The recipients of the POMS Fellows Award in 2011 were William Lovejoy and Chris Tang, and in 2022, it was Zuo-Jun \"Max\" Shen.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 22.828,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0026_0d863c791e94/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0026_0d863c791e94/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

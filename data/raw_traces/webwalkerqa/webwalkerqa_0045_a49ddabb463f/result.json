@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0045_a49ddabb463f",
+  "source_index": 45,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which doctor presented the randomized study results on kinase inhibitors for acute myeloid leukemia treatment at the EHA conference in June 2015?",
+  "prompt": "Which doctor presented the randomized study results on kinase inhibitors for acute myeloid leukemia treatment at the EHA conference in June 2015?",
+  "expected_answer": "Dr Ehninger",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/organization/newsroom/news-and-updates/category/press-releases?start=45"
+    ],
+    "golden_path": [
+      "root->News & views->Press releases->4"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 103.655,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0045_a49ddabb463f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0045_a49ddabb463f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

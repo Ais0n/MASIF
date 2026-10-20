@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0474_93ebc6d00c53",
+  "source_index": 474,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年，北京工业大学计算机学院在哪两个国际会议上发表学术论文，并在同年内参与了哪项国内知名大学生比赛活动？",
+  "prompt": "2024年，北京工业大学计算机学院在哪两个国际会议上发表学术论文，并在同年内参与了哪项国内知名大学生比赛活动？",
+  "expected_answer": "CVPR 2024, ICRA 2024; 华为ICT大赛北京站",
+  "root_url": "https://cs.bjut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.bjut.edu.cn/info/1333/2209.htm",
+      "https://cs.bjut.edu.cn/info/1461/2721.htm"
+    ],
+    "golden_path": [
+      "root->【科学研究】计算机科学与技术系在国际顶级会...",
+      "root->【计算机|科技】赛促卓越 科创育人—..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "2024年，北京工业大学计算机学院在国际顶级会议ICM和国际顶级会议ICRA上发表学术论文，并在同年内参与了第十五届‘中国软件杯’大学生软件设计大赛。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 98.865,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0474_93ebc6d00c53/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0474_93ebc6d00c53/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

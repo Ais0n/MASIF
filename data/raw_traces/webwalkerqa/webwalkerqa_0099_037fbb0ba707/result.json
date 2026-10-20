@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0099_037fbb0ba707",
+  "source_index": 99,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "During Myth of Empires Season 3, when does the 60% discount period for the Base game extend, and what key gameplay adjustment will enhance the speed of resource gathering?",
+  "prompt": "During Myth of Empires Season 3, when does the 60% discount period for the Base game extend, and what key gameplay adjustment will enhance the speed of resource gathering?",
+  "expected_answer": "The 60% discount period for the Base game extends from November 8 to November 22, and the key gameplay adjustment is the increase in the resource gathering multiplier.",
+  "root_url": "https://www.mythofempires.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.mythofempires.com/newsall/2024/1105/638.html",
+      "https://www.mythofempires.com/newsall/2024/1031/636.html"
+    ],
+    "golden_path": [
+      "root->11/05/24NEWSMyth of Empires S3 Season settings explained, Base Game at 60% Off Historical Low Price",
+      "root->10/31/24NEWSMyth of Empires Season 3 Starts November 8!"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 99.23,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0099_037fbb0ba707/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0099_037fbb0ba707/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

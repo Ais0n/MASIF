@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0480_47e2ffddd4ef",
+  "source_index": 480,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "湖南工业大学计算机学院在2024年中分别于第17届中国大学生计算机设计大赛（软件应用与开发）和第49届ICPC亚洲区域赛中取得了怎样的成绩?",
+  "prompt": "湖南工业大学计算机学院在2024年中分别于第17届中国大学生计算机设计大赛（软件应用与开发）和第49届ICPC亚洲区域赛中取得了怎样的成绩?",
+  "expected_answer": "中国大学生计算机设计大赛国赛一等奖和ICPC亚洲区域赛铜奖",
+  "root_url": "https://computer.hut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hut.edu.cn/info/1128/11079.htm",
+      "https://computer.hut.edu.cn/info/1128/12929.htm"
+    ],
+    "golden_path": [
+      "root->我院学子获2024年（第17届）中国大学生计算机设...",
+      "root->祝贺！我院学子在第49届ACM ICPC国际大学生程序..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 6,
+  "duration_seconds": 46.263,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0480_47e2ffddd4ef/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0480_47e2ffddd4ef/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

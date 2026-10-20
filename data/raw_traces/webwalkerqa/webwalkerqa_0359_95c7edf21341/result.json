@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0359_95c7edf21341",
+  "source_index": 359,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "During the 7th China International Import Expo (CIIE) in 2024, when will the National Exhibition and Convention Center (Shanghai) be closed for security measures, and who is permitted to access the venue during this period?",
+  "prompt": "During the 7th China International Import Expo (CIIE) in 2024, when will the National Exhibition and Convention Center (Shanghai) be closed for security measures, and who is permitted to access the venue during this period?",
+  "expected_answer": "The National Exhibition and Convention Center (Shanghai) will be closed for security from October 25 to November 12, 2024. During this time, only individuals and vehicles with valid pre-registered badges can enter or exit the premises.",
+  "root_url": "https://www.ciie.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ciie.org/zbh/en/news/notice/20240923/45866.html"
+    ],
+    "golden_path": [
+      "root->Home->Notice->Badge Registration Guidelines for the 7th CIIE"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 85.675,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0359_95c7edf21341/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0359_95c7edf21341/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

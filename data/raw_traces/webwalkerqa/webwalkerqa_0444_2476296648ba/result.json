@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0444_2476296648ba",
+  "source_index": 444,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Mobile Legends: Bang Bang在2024年获得全球最佳移动电竞游戏奖项的同一天，还与沙特电竞协会签署了什么协议？",
+  "prompt": "Mobile Legends: Bang Bang在2024年获得全球最佳移动电竞游戏奖项的同一天，还与沙特电竞协会签署了什么协议？",
+  "expected_answer": "战略合作协议",
+  "root_url": "https://cn.moonton.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://cn.moonton.com/news/36.html",
+      "https://cn.moonton.com/news/34.html"
+    ],
+    "golden_path": [
+      "root->扎根中东，沐瞳与沙特电竞协会签署合作协议More",
+      "root->MLBB荣获2024“全球最佳移动电竞游戏”奖项More"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 60.15,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0444_2476296648ba/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0444_2476296648ba/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

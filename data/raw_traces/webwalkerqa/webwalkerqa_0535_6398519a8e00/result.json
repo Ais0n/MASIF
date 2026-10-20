@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0535_6398519a8e00",
+  "source_index": 535,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which two scientists who have conducted GNSS-related research at Stanford University received the ION Early Career Achievement Award in 2023 and 2004?",
+  "prompt": "Which two scientists who have conducted GNSS-related research at Stanford University received the ION Early Career Achievement Award in 2023 and 2004?",
+  "expected_answer": "Dr. Tyler Gerald René Reid and Dr. Sherman Lo.",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/awards/2023-Early-Achievement.cfm",
+      "https://www.ion.org/awards/2004-Early-Achievement.cfm"
+    ],
+    "golden_path": [
+      "root->Awards and ION Fellows->Per Enge Early Achievement->View full award information",
+      "root->Awards and ION Fellows->Per Enge Early Achievement->Dr. Sherman Lo"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 90.93,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0535_6398519a8e00/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0535_6398519a8e00/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

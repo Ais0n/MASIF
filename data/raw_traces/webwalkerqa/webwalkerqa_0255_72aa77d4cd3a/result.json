@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0255_72aa77d4cd3a",
+  "source_index": 255,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What was the main theme of the 2022 Kyoto Symposium and which two CIGRE Study Committees led the organization?",
+  "prompt": "What was the main theme of the 2022 Kyoto Symposium and which two CIGRE Study Committees led the organization?",
+  "expected_answer": "The main theme of the 2022 Kyoto Symposium was 'Power System Transformation including Active Distribution,' led by SC C6 (Active Distribution Systems and Distributed Energy Resources) and SC D2 (Information Systems and Telecommunication).",
+  "root_url": "https://www.cigre.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.cigre.org/article/GB/events/cigre-symposia/kyoto-symposium-2022"
+    ],
+    "golden_path": [
+      "root->CIGRE Symposia->View More"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 67.584,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0255_72aa77d4cd3a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0255_72aa77d4cd3a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

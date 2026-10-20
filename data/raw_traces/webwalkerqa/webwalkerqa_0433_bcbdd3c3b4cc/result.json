@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0433_bcbdd3c3b4cc",
+  "source_index": 433,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who is the Head of Brand Operations at Rovio responsible for overseeing the Angry Birds brand's activities during its 15th anniversary?",
+  "prompt": "Who is the Head of Brand Operations at Rovio responsible for overseeing the Angry Birds brand's activities during its 15th anniversary?",
+  "expected_answer": "Eeva Aaltonen",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/angry-birds-celebrates-15th-anniversary-with-special-in-game-events-and-more/",
+      "https://www.rovio.com/articles/eeva-aaltonen/"
+    ],
+    "golden_path": [
+      "root->Angry Birds Celebrates 15th Anniversary with Special In-Game Events and More",
+      "root->Meet the RoviansEeva AaltonenHead of Brand Operations"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 50.332,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0433_bcbdd3c3b4cc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0433_bcbdd3c3b4cc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

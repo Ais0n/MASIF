@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0532_eecf76d28f33",
+  "source_index": 532,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在“挑战杯”广东省赛中荣获金奖的《绿色智算》参赛团队的指导教授中，谁同时也入选了2024年的全球前2%顶尖科学家年度榜单？",
+  "prompt": "在“挑战杯”广东省赛中荣获金奖的《绿色智算》参赛团队的指导教授中，谁同时也入选了2024年的全球前2%顶尖科学家年度榜单？",
+  "expected_answer": "林伟伟",
+  "root_url": "http://www2.scut.edu.cn/cs/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www2.scut.edu.cn/cs/2024/0520/c22279a553743/page.htm",
+      "http://www2.scut.edu.cn/cs/2024/0920/c22279a562701/page.htm"
+    ],
+    "golden_path": [
+      "root->学院新闻->下一页->喜报！我院《绿色智算》团队获“挑战杯”广东省赛金奖！",
+      "root->学院新闻->下一页->喜讯！计算机学院陈俊龙等16人入选2024年全球前2%顶尖科学家榜单"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "在‘挑战杯’广东省赛中荣获金奖的《绿色智算》参赛团队的指导教授中，陈敏教授同时也入选了2024年的全球前2%顶尖科学家年度榜单。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 37.024,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0532_eecf76d28f33/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0532_eecf76d28f33/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer identifies a different professor",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

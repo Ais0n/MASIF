@@ -1,0 +1,50 @@
+{
+  "task_id": "webwalkerqa_0476_90c0ca80c7d4",
+  "source_index": 476,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "At ACL 2023, which dates are the workshops scheduled for and what is the deadline for applying for travel and accommodation subsidies?",
+  "prompt": "At ACL 2023, which dates are the workshops scheduled for and what is the deadline for applying for travel and accommodation subsidies?",
+  "expected_answer": "Workshops at ACL 2023 are scheduled for July 13-14, 2023. The deadline to apply for travel and accommodation subsidies is May 31, 2023.",
+  "root_url": "https://2023.aclweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://2023.aclweb.org/calls/workshops/",
+      "https://2023.aclweb.org/calls/subsidies/"
+    ],
+    "golden_path": [
+      "root->Call for Workshop Proposals",
+      "root->Call for Diversity and Inclusion Subsidies"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The workshops at ACL 2023 are scheduled for July 13-14 (Thursday-Friday), July 13 (Thursday), and July 14 (Friday). The deadline for applying for travel and accommodation subsidies is May 31, 2023.",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer provides the correct workshop dates and subsidy deadline, with some extra but accurate wording.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer provides the correct workshop dates and subsidy deadline, with some extra but accurate wording.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 33.091,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0476_90c0ca80c7d4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0476_90c0ca80c7d4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

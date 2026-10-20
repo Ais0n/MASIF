@@ -1,0 +1,43 @@
+{
+  "task_id": "webwalkerqa_0463_af5e47e3b186",
+  "source_index": 463,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who is the scholar awarded the Johannes Kepler Award at the ION GNSS+ 2024 conference and what is their contribution to satellite navigation technology?",
+  "prompt": "Who is the scholar awarded the Johannes Kepler Award at the ION GNSS+ 2024 conference and what is their contribution to satellite navigation technology?",
+  "expected_answer": "The awardee is Dr. John Raquet, recognized for his sustained and significant contributions to the development of satellite navigation technology.",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/news/index.cfm；https://www.ion.org/awards/2024-Kepler.cfm"
+    ],
+    "golden_path": [
+      "root->News and Announcements",
+      "root->Awards and ION Fellows"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 187.655,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0463_af5e47e3b186/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0463_af5e47e3b186/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0080_813ee0ea773f",
+  "source_index": 80,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2018年5月13日，湖南大学党日活动中，党员们参观的第一站是哪里？",
+  "prompt": "2018年5月13日，湖南大学党日活动中，党员们参观的第一站是哪里？",
+  "expected_answer": "汉回村村部",
+  "root_url": "https://csee.hnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://csee.hnu.edu.cn/info/1554/6793.htm"
+    ],
+    "golden_path": [
+      "root->计算机科学系->计算机科学系教工党支部“不忘初心，牢记使命”主题党日活动"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 52.492,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0080_813ee0ea773f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0080_813ee0ea773f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

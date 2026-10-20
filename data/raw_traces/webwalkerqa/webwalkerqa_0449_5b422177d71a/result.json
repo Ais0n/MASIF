@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0449_5b422177d71a",
+  "source_index": 449,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "新疆大学在2018年和2022年分别举办的生物特征识别大会和过程控制会议中，各有哪些国际知名学者参与并发表了特邀报告？",
+  "prompt": "新疆大学在2018年和2022年分别举办的生物特征识别大会和过程控制会议中，各有哪些国际知名学者参与并发表了特邀报告？",
+  "expected_answer": "2018年，中国生物特征识别大会有Anil K. Jain教授参与并发表特邀报告；2022年，中国过程控制会议有蒋昌俊院士和高福荣教授参与并发表特邀报告。",
+  "root_url": "https://it.xju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.xju.edu.cn/info/1074/1743.htm",
+      "https://it.xju.edu.cn/info/1112/2508.htm"
+    ],
+    "golden_path": [
+      "root->第十三届中国生物特征识别大会（CCBR201...",
+      "root->第三十三届中国过程控制会议成功举办"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 91.525,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0449_5b422177d71a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0449_5b422177d71a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

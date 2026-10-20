@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0621_9625f1089764",
+  "source_index": 621,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What new games were released by Ironhide Game Studio on April 10, 2023, and November 20, 2014?",
+  "prompt": "What new games were released by Ironhide Game Studio on April 10, 2023, and November 20, 2014?",
+  "expected_answer": "IRON MARINES and Kingdom Rush Origins",
+  "root_url": "https://www.ironhidegames.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ironhidegames.com/News/Details/295",
+      "https://www.ironhidegames.com/News/Details/98"
+    ],
+    "golden_path": [
+      "root->Iron Marines->Iron Marines->IRON MARINES GOES FREE ON GOOGLE PLAY!",
+      "root->News->2014->Kingdom Rush Origins coming out November 20!"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "On November 20, 2014, Ironhide Game Studio released 'Kingdom Rush' and 'Kingdom Rush Origins'. There is no information about any new games released by Ironhide Game Studio on April 10, 2023.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 39.126,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0621_9625f1089764/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0621_9625f1089764/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "partial",
+      "reason": "{\n  \"verdict\": \"partial\",\n  \"reason\": \"The predicted answer correctly identifies 'Kingdom",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

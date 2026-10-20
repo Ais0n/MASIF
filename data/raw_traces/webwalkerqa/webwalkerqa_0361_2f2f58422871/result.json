@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0361_2f2f58422871",
+  "source_index": 361,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "苏州大学计算机科学与技术学院龚晨博士在2022年发表的论文中，涉及的信息抽取研究是哪篇，以及在哪些顶级会议或期刊发表的？",
+  "prompt": "苏州大学计算机科学与技术学院龚晨博士在2022年发表的论文中，涉及的信息抽取研究是哪篇，以及在哪些顶级会议或期刊发表的？",
+  "expected_answer": "龚晨博士在2022年发表的涉及信息抽取研究的论文是 'Neural Coupled Sequence Labeling for Heterogeneous Annotation Conversion'，发表在 IEEE/ACM Transactions on Audio, Speech and Language Processing 上。",
+  "root_url": "https://scst.suda.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scst.suda.edu.cn/4c/9c/c30769a543900/page.htm"
+    ],
+    "golden_path": [
+      "root->导师简介->讲师->龚晨讲师"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "龚晨博士在2022年发表的论文是《MuCPAD: A Multi-Domain Chinese Predicate-Argument Dataset》，该论文发表于NAACL 2022会议，属于CCF C类会议。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 26.257,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0361_2f2f58422871/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0361_2f2f58422871/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer provides",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

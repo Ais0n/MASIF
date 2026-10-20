@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0120_8f1d0c140066",
+  "source_index": 120,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "哪个与ION合作的组织致力于通过研究、教学和技术发展来推进地球和行星的形状、旋转和重力场及其时间变化的一致表示？",
+  "prompt": "哪个与ION合作的组织致力于通过研究、教学和技术发展来推进地球和行星的形状、旋转和重力场及其时间变化的一致表示？",
+  "expected_answer": "International Association of Geodesy (IAG)",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/about/affiliate-partners.cfm"
+    ],
+    "golden_path": [
+      "root->Affiliate Partners"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "与ION合作的组织是国际大地测量协会（IAG），它致力于通过研究、教学和技术发展来推进地球和行星的形状、旋转和重力场及其时间变化的一致表示。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer correctly identifies the International Association of Geodesy (IAG) in Chinese and includes the acronym, matching the expected answer despite extra wording.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer correctly identifies the International Association of Geodesy (IAG) in Chinese and includes the acronym, matching the expected answer despite extra wording.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 48.27,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0120_8f1d0c140066/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0120_8f1d0c140066/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

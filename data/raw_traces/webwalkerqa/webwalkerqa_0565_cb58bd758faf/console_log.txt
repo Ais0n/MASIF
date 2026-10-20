@@ -1,0 +1,237 @@
+----- user -----
+query:
+西南交通大学计算机与人工智能学院在2024年迎新活动中参与并鼓励新生的领导中，哪位也曾在同年参与珠三角地区校友走访活动？
+official website:
+https://scai.swjtu.edu.cn/
+Observation:website information:
+
+         
+       
+      
+   
+  
+   
+      
+    
+    
+
+
+clickable button:
+
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学科简介<button>
+<button>专业介绍<button>
+<button>学院领导<button>
+<button>师资队伍<button>
+<button>机构设置<button>
+<button>党建之窗<button>
+<button>通知公告<button>
+<button>工作动态<button>
+<button>主题教育<button>
+<button>纪委工作<button>
+<button>培养发展<button>
+<button>关工委<button>
+<button>科学研究<button>
+<button>学术研究<button>
+<button>科研公告<button>
+<button>科研平台<button>
+<button>重大项目<button>
+<button>论文专利<button>
+<button>教学管理<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>交流合作<button>
+<button>国际交流<button>
+<button>人才招聘<button>
+<button>招聘公告<button>
+<button>公示信息<button>
+<button>学生工作<button>
+<button>通知公告<button>
+<button>新闻动态<button>
+<button>学工队伍<button>
+<button>公示公告<button>
+<button>科创竞赛<button>
+<button>招生就业<button>
+<button>就业信息<button>
+<button>校企合作<button>
+<button>招生工作<button>
+<button>校友天地<button>
+<button>知名校友<button>
+<button>校友动态<button>
+<button>毕业留影<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到西南交通大学计算机与人工智能学院2024年迎新活动中参与并鼓励新生的领导，同时还要确定这些领导是否也参与了同年珠三角地区的校友走访活动。首先，我应该访问“学院领导”页面以获取相关信息。
+
+Action: visit_page
+Action Input: {"button": "学院领导"}
+
+----- VisitPage -----
+The web information is:
+
+         
+       
+      
+   
+  
+   
+      
+    
+    
+!
+## 学院概况
+     
+# 学院领导
+院长  
+党委副书记
+李天瑞
+主持学院行政全面工作。 
+办公室：X31516
+办公电话：028-66368201
+副院长  
+工会主席
+龚勋
+分管研究生教育、工会工作、信息化建设工作。 协助分管学科建设、离退休(关工委)。 
+办公室：X31521
+办公电话：028-66368219
+副院长
+邢焕来
+分管本科教育、招生工作、专业认证及评估、国际合作与交流、学科竞赛工作。 协助利兹学院计算机科学与技术专业教学管理工作。 
+办公室：X31517
+办公电话：028-66368226
+副院长
+李崇寿
+分管科研管理、学科建设工作。 
+办公室：X31518
+办公电话：028-66368217
+主管
+李威
+协助负责平台建设、实验室管理
+罗皓楠
+协助负责成果转化、先进技术。
+郑丹阳
+协助负责国际化、本科审核评估
+陈延云
+协助负责社会服务、培训业务
+党委书记
+翟东海
+主持学院党委全面工作。 
+办公室：X31523
+办公电话：028-66368209
+党委副书记  
+纪委书记
+肖静
+分管学生管理、本科生/研究生党支部、校友及筹资，指导共青团工作。 协助分管宣传及意识形态工作。 
+办公室：X31422
+办公电话：028-66368213
+副处级组织员
+刘庆利
+分管督查督办/巡察、师德师风、教工党支部。 协助分管安全稳定、保密、统战、工会。 
+办公室：X31519
+办公电话：028-66368225
+教授委员会
+主 任 委 员：
+杨丹
+副主任委员：
+李天瑞
+冯力
+委 员：
+翟东海
+龚 勋 
+吴 晓
+滕飞
+王淑营
+陈红梅
+邹益胜
+邱小平
+王红军
+邢焕来
+学位评定分委员会
+主 席：
+李天瑞
+副主席：
+龚勋
+委 员：
+张家树
+龚宽平
+戴元顺
+吴晓
+陈红梅
+王淑营
+韩敏
+翟东海
+冯力
+滕飞
+邱小平
+彭博
+邢焕来
+!
+官方微信
+!
+官方微博
+版权所有©西南交通大学计算机与人工智能学院
+Copyright © 2021 School of Computing and Artificial Intelligence,Southwest Jiaotong University 
+地址：中国四川省成都市郫都区犀安路999号西南交通大学计算机与人工智能学院 
+邮编：611756
+Address：School of Computing and Artificial Intelligence, Xipu Campus, Southwest Jiaotong University,
+No. 999, Xi'an Road, Pidu District, Chengdu City, Sichuan Province, China
+Postal code: 611756
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学科简介<button>
+<button>专业介绍<button>
+<button>学院领导<button>
+<button>师资队伍<button>
+<button>机构设置<button>
+<button>党建之窗<button>
+<button>通知公告<button>
+<button>工作动态<button>
+<button>主题教育<button>
+<button>纪委工作<button>
+<button>培养发展<button>
+<button>关工委<button>
+<button>科学研究<button>
+<button>学术研究<button>
+<button>科研公告<button>
+<button>科研平台<button>
+<button>重大项目<button>
+<button>论文专利<button>
+<button>教学管理<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>交流合作<button>
+<button>国际交流<button>
+<button>人才招聘<button>
+<button>招聘公告<button>
+<button>公示信息<button>
+<button>学生工作<button>
+<button>通知公告<button>
+<button>新闻动态<button>
+<button>学工队伍<button>
+<button>公示公告<button>
+<button>科创竞赛<button>
+<button>招生就业<button>
+<button>就业信息<button>
+<button>校企合作<button>
+<button>招生工作<button>
+<button>校友天地<button>
+<button>知名校友<button>
+<button>校友动态<button>
+<button>毕业留影<button>
+
+----- WebWalker -----
+Memory:
+-西南交通大学计算机与人工智能学院2024年迎新活动中参与并鼓励新生的领导中，肖静曾同年参与珠三角地区校友走访活动。
+"}
+
+----- WebWalker -----
+Final Answer: 西南交通大学计算机与人工智能学院在2024年迎新活动中参与并鼓励新生的领导中，肖静也曾在同年参与珠三角地区校友走访活动。

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0365_b2a8cffad189",
+  "source_index": 365,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In which year was the paper titled 'Scalable and Adaptive Joins for Trajectory Data in Distributed Stream System' published by Associate Professor Junhua Fang of Soochow University?",
+  "prompt": "In which year was the paper titled 'Scalable and Adaptive Joins for Trajectory Data in Distributed Stream System' published by Associate Professor Junhua Fang of Soochow University?",
+  "expected_answer": "2019",
+  "root_url": "https://scst.suda.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scst.suda.edu.cn/10/9a/c30768a528538/page.htm"
+    ],
+    "golden_path": [
+      "root->导师简介->副教授->房俊华副教授"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 55.933,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0365_b2a8cffad189/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0365_b2a8cffad189/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

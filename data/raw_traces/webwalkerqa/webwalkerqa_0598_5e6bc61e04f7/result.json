@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0598_5e6bc61e04f7",
+  "source_index": 598,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在中国地质大学（武汉）计算机学院，2024年研究生国家奖学金申请材料的截止提交时间及本科生重新选择专业公示截止日期分别是什么？",
+  "prompt": "在中国地质大学（武汉）计算机学院，2024年研究生国家奖学金申请材料的截止提交时间及本科生重新选择专业公示截止日期分别是什么？",
+  "expected_answer": "9月29日中午12:00；4月23日",
+  "root_url": "https://cs.cug.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.cug.edu.cn/info/1020/6679.htm",
+      "https://cs.cug.edu.cn/info/1020/6382.htm"
+    ],
+    "golden_path": [
+      "root->学院会议室预约->学生工作->计算机学院关于2024年研究生国家奖学金评审工作的通知",
+      "root->学院会议室预约->学生工作->2024年计算机学院拟接收本科生转专业名单公示（第二版）"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 74.207,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0598_5e6bc61e04f7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0598_5e6bc61e04f7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

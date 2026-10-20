@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0322_fe68d43439b6",
+  "source_index": 322,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What specific activities did Riot Noir organize on March 7, 2022, to celebrate Black History Month, and who were the special guests?",
+  "prompt": "What specific activities did Riot Noir organize on March 7, 2022, to celebrate Black History Month, and who were the special guests?",
+  "expected_answer": "On March 7, 2022, Riot Noir at Riot Games organized events for Black History Month including lectures, panel discussions, and food celebrations. The special guests included Alton Glass, Jasmine “CutiePieSensei” James, and Manuel Godoy.",
+  "root_url": "https://www.riotgames.com/zh-cn",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/zh-cn/news/black-history-month-recap"
+    ],
+    "golden_path": [
+      "root->多元与包容->社区->Black History Month Recap"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 59.066,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0322_fe68d43439b6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0322_fe68d43439b6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

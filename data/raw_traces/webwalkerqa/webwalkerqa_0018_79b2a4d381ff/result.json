@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0018_79b2a4d381ff",
+  "source_index": 18,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the two major themes supported by IGG's charitable activities as demonstrated in their 2020 and 2023 initiatives?",
+  "prompt": "What are the two major themes supported by IGG's charitable activities as demonstrated in their 2020 and 2023 initiatives?",
+  "expected_answer": "Children's wishes and ocean conservation",
+  "root_url": "https://www.igg.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.igg.com/charity/?pageno=3",
+      "https://www.igg.com/charity/?pageno=1"
+    ],
+    "golden_path": [
+      "root->CHARITY->Next->Prev",
+      "root->CHARITY->Next->First"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The two major themes supported by IGG's charitable activities are animal rescue and ocean conservation. The animal rescue theme is demonstrated through their partnership with Kurtaran Ev in Turkey for World Stray Animals Day 2026, while the ocean conservation theme is highlighted through initiatives like the 'Protecting the Azure Ocean' public welfare project in Qingdao and donations to FUNDACIÓN ECOMAR.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 21.211,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0018_79b2a4d381ff/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0018_79b2a4d381ff/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "partial",
+      "reason": "{\n  \"verdict\": \"partial\",",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

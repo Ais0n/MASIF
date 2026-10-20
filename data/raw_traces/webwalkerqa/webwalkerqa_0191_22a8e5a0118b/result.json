@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0191_22a8e5a0118b",
+  "source_index": 191,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the three streaming options for presentation-based tracks in the 'Designing Hybrid Conference Experiences' guide, and how does Option #2 enhance remote presentation quality?",
+  "prompt": "What are the three streaming options for presentation-based tracks in the 'Designing Hybrid Conference Experiences' guide, and how does Option #2 enhance remote presentation quality?",
+  "expected_answer": "The three streaming options are: 1) using a single camera pointed at the stage, 2) using a single conference laptop, and 3) all presenters logging into the online meeting session. Option #2 enhances quality by allowing both videos and slides to be shared in good quality using the online meeting system, without needing an additional camera, but requires all presentations to be preloaded on the laptop.",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/resources/guides-for-organizers/hybrid/"
+    ],
+    "golden_path": [
+      "root->Guides for Organizers->Designing Hybrid Conference Experiences"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The three streaming options for presentation-based tracks in the 'Designing Hybrid Conference Experiences' guide are: Option #1, where a single camera is pointed at the stage, onsite presenter, and slides; Option #2, which relies on a single conference laptop used by all onsite presenters; and Option #3, where all presenters log into the online meeting session and share their presentation via screen sharing. Option #2 enhances remote presentation quality by allowing both videos and slides to be shared within the online meeting system in good quality, and it enables remote presentations.",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\"verdict\":\"match\",\"reason\":\"",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\""
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 5,
+  "duration_seconds": 46.99,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0191_22a8e5a0118b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0191_22a8e5a0118b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict\":",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

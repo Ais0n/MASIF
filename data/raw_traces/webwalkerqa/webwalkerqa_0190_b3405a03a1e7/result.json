@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0190_b3405a03a1e7",
+  "source_index": 190,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "伊利集团在新西兰威士兰乳业的“Goldrush”项目具体于何时启动，并且该项目在伊利并购威士兰乳业多少周年的时候实现了新产线投产？",
+  "prompt": "伊利集团在新西兰威士兰乳业的“Goldrush”项目具体于何时启动，并且该项目在伊利并购威士兰乳业多少周年的时候实现了新产线投产？",
+  "expected_answer": "启动于2021年3月24日，三周年时实现投产。",
+  "root_url": "https://www.yili.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.yili.com/global/oceania/1166"
+    ],
+    "golden_path": [
+      "root->伊利在大洋洲伊利新西兰黄油新产线投产 为中国乳企海外最大黄油工厂"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "伊利集团在新西兰威士兰乳业的‘Goldrush’项目于2023年5月23日启动，并且该项目在伊利并购威士兰乳业4周年的时候实现了新产线投产。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 16.571,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0190_b3405a03a1e7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0190_b3405a03a1e7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: ",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

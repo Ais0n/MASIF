@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0483_0efb3a056faa",
+  "source_index": 483,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In 2024, how much ILV reward can creators participating in the Creator Program and players engaging in the Play-2-Airdrop during Private Beta 4 on the Illuvium platform earn?",
+  "prompt": "In 2024, how much ILV reward can creators participating in the Creator Program and players engaging in the Play-2-Airdrop during Private Beta 4 on the Illuvium platform earn?",
+  "expected_answer": "Creators can earn 100 ILV weekly in the Creator Reward Program, and 200,000 ILV will be distributed over six months for players in the Play-2-Airdrop during Private Beta 4.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-creator-program-is-getting-an-upgrade",
+      "https://illuvium.io/news/register-now-for-private-beta-4"
+    ],
+    "golden_path": [
+      "root->News->Illuvium Creator Program Is Getting An Upgrade!",
+      "root->News->Register Now for Private Beta 4!"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 17.074,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0483_0efb3a056faa/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0483_0efb3a056faa/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

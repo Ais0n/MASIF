@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0351_24bc43f5031e",
+  "source_index": 351,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which aspect of smart cities did Dr. Haiyan (Helen) Lu focus on in her lecture at the Harbin Engineering University on July 19, 2018, and what were the three major research opportunities she mentioned in this field?",
+  "prompt": "Which aspect of smart cities did Dr. Haiyan (Helen) Lu focus on in her lecture at the Harbin Engineering University on July 19, 2018, and what were the three major research opportunities she mentioned in this field?",
+  "expected_answer": "Smart grid; (i) Big Data-Driven Economic Dispatch, (ii) Big Data-Driven Power System Surveillance, (iii) Big Data-Driven Power Market Coordination.",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2018/0718/c6989a264192/page.htm"
+    ],
+    "golden_path": [
+      "root->学工动态->尾页->“学萃讲坛”第818期—When Computational Intelligence Meets Smart City: Challenges and Oppor...2018-07-18"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 73.089,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0351_24bc43f5031e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0351_24bc43f5031e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

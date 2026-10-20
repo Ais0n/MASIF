@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0197_bfaf5d921633",
+  "source_index": 197,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "谁在2022年8月9日发布了关于东南大学未来技术班、拔尖班和双学士学位班选拔资格的公告？",
+  "prompt": "谁在2022年8月9日发布了关于东南大学未来技术班、拔尖班和双学士学位班选拔资格的公告？",
+  "expected_answer": "吕美香",
+  "root_url": "https://cse.seu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.seu.edu.cn/2022/0809/c49479a483892/page.htm"
+    ],
+    "golden_path": [
+      "root->招生选拔->东南大学2022级未来技术班、拔尖班和双学士学位班选拔资格的公告"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 45.351,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0197_bfaf5d921633/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0197_bfaf5d921633/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

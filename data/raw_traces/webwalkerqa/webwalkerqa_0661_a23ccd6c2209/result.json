@@ -1,0 +1,50 @@
+{
+  "task_id": "webwalkerqa_0661_a23ccd6c2209",
+  "source_index": 661,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年华中师范大学计算机学院社团联席会议和新党员入党宣誓仪式中，共同参与的计算机学院团委书记是谁？",
+  "prompt": "在2024年华中师范大学计算机学院社团联席会议和新党员入党宣誓仪式中，共同参与的计算机学院团委书记是谁？",
+  "expected_answer": "肖克",
+  "root_url": "https://cs.ccnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.ccnu.edu.cn/info/1033/4486.htm",
+      "https://cs.ccnu.edu.cn/info/1031/4362.htm"
+    ],
+    "golden_path": [
+      "root->学生工作->162024-09继往开来 共谋发展:计算机学院召开2024-2025学年社团联席会议计算机学院记者团讯（通讯员 方梓力 编辑 黄丝语 ​梁智浩）为保障学院社团在新学期能够规范、科学地运行，并有序地开展各项工作。9月13日下午，计算机学院于南湖综合楼7119教室召开2024-2025秋季学期社团联席会议。计算机学院团委书记肖克及各社团负责人参加本次会议。会议由学术与科技创新中心负责人陈宜萱主持。会议上，程序设计协会、无人机协会、CS辩论队、信息安全协会、机器人协会、物联网协会的负责人依次上台，对近期...",
+      "root->党建工作->032024-07计算机学院党委举行2024年新发展党员集体入党宣誓仪式为庆祝中国共产党成立103周年，进一步加强党员党性教育，切实增强新发展党员的身份认同感和责任感，7月1日中午，计算机学院党委于南湖综合楼7119报告厅举行2024年新发展党员集体入党宣誓仪式。院党委书记王坤、副书记庄甲鹏，研究生辅导员朱珠、孙煜林，本科生辅导员宗佳敏、肖克、赵丹，研究生专硕第一党支部书记陈欣紫出席本次仪式。仪式由计算机学院党务干事、本科生辅导员董明月主持。伴随着庄严的《国际歌》，入党宣誓仪式..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在2024年华中师范大学计算机学院社团联席会议和新党员入党宣誓仪式中，共同参与的计算机学院团委书记是肖克。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer correctly identifies '肖克' as the Youth League Committee Secretary, matching the expected answer while including extra context.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer correctly identifies '肖克' as the Youth League Committee Secretary, matching the expected answer while including extra context.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 17.062,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0661_a23ccd6c2209/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0661_a23ccd6c2209/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

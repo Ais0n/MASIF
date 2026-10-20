@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0455_b05a3387e0e2",
+  "source_index": 455,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who is the 2024 recipient of the Martin K. Starr Excellence Award, and what special responsibility does Professor Martin K. Starr currently hold in the POM Journal?",
+  "prompt": "Who is the 2024 recipient of the Martin K. Starr Excellence Award, and what special responsibility does Professor Martin K. Starr currently hold in the POM Journal?",
+  "expected_answer": "The 2024 Martin K. Starr Excellence Award winner is Brad Sorenson. Professor Martin K. Starr is responsible for special responsibilities at POM Journal.",
+  "root_url": "https://www.poms.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.poms.org/pomsocietyawards/martinkstarraward",
+      "https://www.poms.org/pomjournal"
+    ],
+    "golden_path": [
+      "root->Martin K Starr Award in Excellence",
+      "root->POM Journal"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The 2024 recipient of the Martin K. Starr Excellence Award is Brad Sorenson. Professor Martin K. Starr currently holds the position of Executive Director, POMS, at the Fox School of Business.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 29.164,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0455_b05a3387e0e2/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0455_b05a3387e0e2/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

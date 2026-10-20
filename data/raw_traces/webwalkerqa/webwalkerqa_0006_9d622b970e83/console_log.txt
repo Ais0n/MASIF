@@ -1,0 +1,569 @@
+----- user -----
+query:
+Which tutorial at ICSE 2002 focused on the challenges of building web application systems, and what was the primary submission category emphasized by the ICSE for software engineering practitioners?
+official website:
+http://www.icse-conferences.org/
+Observation:website information:
+
+|  !  |   |  **  
+# ICSE
+**  |   |   
+ | !  |  
+| --- |  
+| !  |  
+|   
+ | !  |  
+| --- |  
+| !  |  
+|   |  
+| 
+## International Conference  
+on Software Engineering®
+ |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+|   
+ |   |  
+| --- |  
+|   |  
+|   |  
+|    |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|    
+  
+ |  
+|  [ Last updated  
+Jan 2026](#maintainer)  |  
+| !  |    
+  
+  
+ |  WELCOME ICSE, the International Conference on Software Engineering,® is the premier software engineering conference, providing a forum for researchers, practitioners and educators to present and discuss the most recent innovations, trends, experiences and concerns in the field of software engineering. Note that ICSE: International Conference on Software Engineering® is a registered trademark. On this web site you can find information about the ICSE conference series as well as useful information for organizing a future ICSE conference.  
+CURRENT CONFERENCE : Apr 2026  
+Rio de Janeiro, Brazil  
+  
+FUTURE CONFERENCES ICSE 2027: Apr 2027  
+Dublin, Ireland  
+ICSE 2028: Apr 2028  
+Hawaii, USA  
+ICSE 2029: Apr 2029  
+Tokyo, Japan  
+  
+PAST CONFERENCES : April 26 - May 4 2025  
+Ottawa, Canada : Apr 12-21, 2024  
+Lisbon, Portugal : May 14-20, 2023  
+Melbourne, Australia : May 8-27, 2022  
+Pittsburgh, USA : May 20-30, 2021  
+Madrid, Spain : July 6-11 2020  
+Seoul, Korea : May 25 - June 1, 2019  
+Montréal, Canada : May 27 - June 3, 2018  
+Gothenburg, Sweden : May 20-28, 2017  
+Buenos Aires, Argentina : May 14-22, 2016  
+Austin, Texas, USA : May 16-24, 2015  
+Firenze, Italy : May 31 - June 7, 2014  
+Hyderabad, India  : May 18-26, 2013  
+San Francisco, USA  : June 2-9, 2012  
+Zürich, Switzerland : May 21-28, 2011  
+Honolulu, Hawaii, USA : May 2-8, 2010  
+Cape Town, South Africa : May 16-24, 2009  
+Vancouver, British Columbia, Canada : May 10-18, 2008  
+Leipzig, Germany : May 20-26, 2007  
+Minneapolis, Minnesota, USA : May 20-28, 2006  
+Shanghai, China : May 15-21, 2005  
+St. Louis, Missouri, USA : May 23-28, 2004  
+Edinburgh, Scotland, United Kingdom : May 3-10, 2003  
+Portland, Oregon, USA : May 19-25, 2002  
+Orlando, Florida, USA : May 12-19, 2001  
+Toronto, Ontario, Canada : June 4-11, 2000  
+Limerick, Ireland ICSE 1999: May 16-22, 1999  
+Los Angeles, California, USA ICSE 1998: April 19-25, 1998  
+Kyoto, Japan : May 17-23, 1997  
+Boston, MA, USA ICSE 1996: March 25-30, 1996  
+Berlin, Germany : April 23-30, 1995  
+Seattle, Washington, USA ICSE 1994: May 16-21, 1994  
+Sorrento, Italy ICSE 1993: May 17-21, 1993  
+Baltimore, Maryland, USA ICSE 1992: May 11-15, 1992  
+Melbourne, Australia ICSE 1991: May 13-17, 1991  
+Austin, Texas, USA ICSE 1990: March 26-30, 1990  
+Nice, France ICSE 1989: May 15-18, 1989  
+Pittsburgh, Pennsylvania, USA ICSE 1988: April 11-15, 1988  
+Raffles City, Singapore ICSE 1987: March 30 - April 2, 1987  
+Monterey, California, USA ICSE 1985: August 28-30, 1985  
+London, United Kingdom ICSE 1984: March 26-29, 1984  
+Orlando, Florida, USA ICSE 1982: September 13-16, 1982  
+Tokyo, Japan ICSE 1981: March 9-12, 1981  
+San Diego, California, USA ICSE 1979: September 17-19, 1979  
+Munich, Germany ICSE 1978: May 10-12, 1978  
+Atlanta, Georgia, USA ICSE 1976: October 13-15, 1976  
+San Francisco, California, USA ICSE 1975: September 11-12, 1975  
+Washington DC, USA  |  
+| --- |  
+  
+  
+|   |   
+ |  ](  
+ |  
+| --- |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](~icse2000/)  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|   |  
+!
+
+
+clickable button:
+
+<button>HOME<button>
+<button>News from the SC<button>
+<button>EDI STATEMENT<button>
+<button>CONDUCT & SAFETY<button>
+<button>HISTORY<button>
+<button>PROCEEDINGS<button>
+<button>INFLUENTIAL PAPERS<button>
+<button>ORGANIZING ICSE<button>
+<button>STEERING COMMITTEE<button>
+<button>ICSE SC Documents<button>
+<button>SPONSORS<button>
+<button>CONTACTS<button>
+<button>Last updatedJan 2026<button>
+<button>ICSE 2005<button>
+<button>ICSE 2004<button>
+<button>ICSE 2003<button>
+<button>ICSE 2002<button>
+<button>ICSE 2001<button>
+<button>ICSE 1997<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the tutorial from ICSE 2002 that focused on the challenges of building web application systems and determine the primary submission category emphasized by ICSE for software engineering practitioners. The official website has clickable buttons, so I will start by clicking on the "ICSE 2002" button to access the relevant information.
+
+Action: visit_page
+Action Input: {"button": "ICSE 2002"}
+
+----- VisitPage -----
+The web information is:
+
+|   
+ | !  |   
+ | !  | 
+## International Conference on Software Engineering  
+Orlando, Florida, USA  
+May 19-25, 2002
+ |  
+| --- | --- |  
+| !  |  
+ |  
+| **Home**  
+Conference Updates  
+  
+**Advance Program**  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+**Call For Participation**  
+  
+  
+  
+**Conference Calendar**  
+  
+  
+  
+**Conference Information**  
+  
+  
+  
+  
+  
+**Registration**  
+  
+  
+**Travel Information and Events**  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+**Related Conferences**  
+  | 
+# Welcome!
+ICSE 2002 is now over! Thanks to all who attended, it was an excellent conference! If you missed the conference, you can get a feel for what it was like by reading issues of the ! Enjoy!
+* * *
+Read a  from Will Tracz, the General Chair of ICSE 2002.    Information is now available!
+* * *
+# Site Updates
+> # May 13, 2002
+>> **Registration:** Pre-Conference Registration is now closed. On-site registration will be available starting at 5:00 PM, Saturday May 18th.
+> # May 13, 2002
+>> **Lunch:** Due to budgetary restrictions, there will only be one lunch (on Wednesday, 22 May 02) provided to conference attendees. If there are any special dietary restrictions we should know about, please let us know in advance so we can plan the right number of vegetarian, etc. meals. We are reviewing registration data and anticipated expenses to see if it is feasible to add another lunch on Thursday. Send your requests to Will Tracz. **Keynotes:** 2) In a break from tradition, keynote speakers will not answer questions from the floor after delivering their addresses. Instead, written questions will be collected during and after the presentation and delivered to the session chair, who will then consolidate, summarize, and paraphrase them for the keynote speaker to answer. Students will be periodically walking up and down the aisles with a small sign indicating they are collecting questions starting approximately 1/2 hour after the beginning of the keynote speaker's address. They will have note cards to write the questions on, or you may submit the question on any note paper.
+> # May 10, 2002
+>> **Please Note:** are still available but order forms can no longer be processed and tickets sent to you by postal mail. Instead, order forms can be sent in and tickets can be picked up at the hotel business center, which is located next to the conference registration area. Tickets can also be purchased directly at the business center.
+> # May 01, 2002
+>> **Music and Free Tango Lessons** Conference attendees may want to adjust their evening social calendar to enjoy the special entertainment that is scheduled for the conference receptions. Wednesday night will feature some light jazz and funk by Columbia Record and Blue Note recording artists Tom Dietz on tenor, Don Scaletta on Keys and Tony Ventuenia on bass. In addition, rumor has it that there will be some special guest celebrity performance around 7:10. On Wednesday night you can enjoy the rhythm of a hot salsa band as well as be entertained by two performances of some very famous . In addition they will be offering a free Tango lesson - at 9:00 after the Reception in the Royal Ballroom!
+> ## April 25, 2002
+>> **Hotel Room Block Reservation Cut-off Date Approaching.** ICSE attendees should be aware that the cut-off date for reserving conference hotel rooms is Friday, 3 May 2002. After this date, the group room rate may not be available. In addition, using the on-line room reservation system is not recommended due to the current "sold-out" status of some days. In order to secure a room (and be automatically placed in the overflow hotel, if necessary) please call the reservation line directly at +1 407 239 4200 (or in the US and Canada 1 800 621 0638).
+> ## April 15, 2002
+>> A registration form for the  at ICSE 2002 is now available! Registrations for this program must be made by May 13, 2002. **Note:** early registration is now closed.
+> ## April 12, 2002
+>> Discount Theme Park Tickets are now !
+> ## April 8, 2002
+>> **Registration News** : The early registration date (April 12th) is rapidly approaching! Also, note, that on-site registration will accept credit cards and cash only.
+> ## April 5, 2002
+>> Program At-A-Glance information is now  for workshops, tutorials, and co-located events.
+> ## April 3, 2002
+>> Please read this  on how to make reservations at the ICSE conference hotel.
+> ## March 28, 2002
+>> ICSE 2002 is pleased to announce a  for the shuttle that runs between the Orlando International Airport and the conference hotel.
+> ## March 20, 2002
+>> Make your hotel reservations soon! See this  for more details!
+> ## March 19, 2002
+>> Rational Software has become a  of ICSE 2002!
+> ## March 13, 2002
+>> Information on  is now available. Information on the  is now available. Registration information for the Spouse program will be posted soon. Information on the  is now available.
+> ## March 7, 2002
+>> **Please Make your Hotel Reservations Early!** The hotel is forecasting to 'sell out' on the 20th, 24th & 25th. If you are using the Marriott online reservation system, you may run into a "rooms unavailable" situation. This is because our room blocks are filling up fast. In order to accommodate the increased number of reservations, we are daily increasing the room block. We ask your patience in this matter. If you have questions, please contact Will Tracz (Will.Tracz@acm.org) and he will be happy to assist you in resolving the matter with the hotel.
+> ## February 20, 2002
+>> ICSE 2002 is now open for business!  is now available.
+> ## February 16, 2002
+>>  for becoming an ICSE 2002 Exhibitor is now available.
+> ## February 12, 2002
+>> Newcomer to ICSE? David Notkin  he gives to his graduate students who are attending ICSE for the first time. The  for the conference has been posted.
+> ## February 9, 2002
+>> Information on discounted air fares to ICSE 2002 is available at the  page.
+> ## February 8, 2002
+>> The posters and demos section has been updated with a list of titles and authors. Information on the second state-of-the-art talk is now available. Abstract and Presenter information for tutorial 13 is now available. Pictures of tutorial presenters are starting to appear.
+> ## February 5, 2002
+>> The travel overview section has been updated with new information on making hotel reservations. In particular, it is now possible to register for hotel rooms on-line.
+> ## February 4, 2002
+>> Major site update in response to moving ICSE 2002 from Buenos Aires, Argentina to Orlando, Florida. The travel section has been updated with new information. Registration information will be available soon! ICSE 2002  to Orlando, Florida, USA.
+> ## January 3, 2002
+>> Happy New Year! Tutorial and Workshop abstracts are now available.
+> ## December 22, 2001
+>> Additional information on industry presentations is now available.
+> ## December 18, 2001
+>> VA Software has become a  of ICSE 2002! Preliminary Information on technical papers is now available.
+> ## December 17, 2001
+>> Preliminary Information on panels is now available. Preliminary Information on industry, state-of-the-art, and IMPACT presentations is now available. Information on three events co-located with ICSE 2002 is now available. Preliminary Tutorial Information is now available. Abstract Information will be available soon. Preliminary Workshop Information is now available. Abstract and Submission Information will be available soon. Advance Program information is now coming on-line. Call for participation information is being moved for archival purposes (e.g. some URLs have changed), since most submission deadlines have passed (except for the Doctoral Consortium). The navigation bar on the left has also changed slightly.
+> ## December 2, 2001
+>> We now have abstracts for all three ICSE 2002 keynote talks. Take a look on our  page. Microsoft Research has become a  of ICSE 2002!
+> ## October 16, 2001
+>> Information on the  is now available.
+ |  
+* * *  
+| !  |  
+| --- |  
+|  ! ! ! !  |  
+| © ACM SIGSOFT, 2000-2002. Website Maintainer: . Last Updated: 06/19/2002; 1:49:35 PM  |
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Overview<button>
+<button>Technical Papers<button>
+<button>Conference Keynotes<button>
+<button>Tutorials<button>
+<button>Workshops<button>
+<button>Industry Presentations<button>
+<button>State-of-the-Art Presentations<button>
+<button>Doctoral Symposium<button>
+<button>IMPACT Presentations<button>
+<button>Panels<button>
+<button>Co-Located Events<button>
+<button>Posters and Demos<button>
+<button>Exhibitors<button>
+<button>Types of Submissions<button>
+<button>Student Volunteers<button>
+<button>Program At-A-Glance!<button>
+<button>Conference Meetings<button>
+<button>Conference Committee<button>
+<button>Program Committee<button>
+<button>Sponsors and Supporters<button>
+<button>Advice for Newcomers<button>
+<button>Overview<button>
+<button>Overview<button>
+<button>Discount Airfares<button>
+<button>Discount Airport Shuttle<button>
+<button>Discount Theme Park Tickets<button>
+<button>Securing a Visa<button>
+<button>Spouse Program<button>
+<button>ICSE 5K Run<button>
+<button>Other ICSE Conferences<button>
+<button>ICSE WOW - ICSE's Window on the World<button>
+<button>message<button>
+<button>Register for ICSE 2002!(Note: early registration is now closed.)<button>
+<button>Program At-A-Glance<button>
+<button>Discount theme park tickets<button>
+<button>spouse program<button>
+<button>available<button>
+<button>available<button>
+<button>update<button>
+<button>discount fare<button>
+<button>announcement<button>
+<button>sponsor<button>
+<button>securing a visa to attend ICSE<button>
+<button>ICSE 2002 Spouse program<button>
+<button>ICSE 2002 5K Fun Run<button>
+<button>Registration information<button>
+<button>Information<button>
+<button>shares the advice<button>
+<button>schedule of events<button>
+<button>Conference Airline<button>
+<button>has moved<button>
+<button>keynotes<button>
+<button>Program Committee meeting<button>
+
+----- WebWalker -----
+I need to find the tutorial from ICSE 2002 that focused on the challenges of building web application systems. The "Tutorials" button is available, so I will click on it to access the relevant information.
+
+Action: visit_page
+Action Input: {"button": "Tutorials"}
+
+----- VisitPage -----
+The web information is:
+
+|   
+ | !  |   
+ | !  | 
+## International Conference on Software Engineering  
+Orlando, Florida, USA  
+May 19-25, 2002
+ |  
+| --- | --- |  
+| !  |  
+ |  
+| **Home**  
+  
+  
+**Advance Program**  
+  
+  
+  
+Tutorials  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+**Call For Participation**  
+  
+  
+  
+**Conference Calendar**  
+  
+  
+  
+**Conference Information**  
+  
+  
+  
+  
+  
+**Registration**  
+  
+  
+**Travel Information and Events**  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+**Related Conferences**  
+  | 
+# ICSE 2002 Tutorials
+## Tutorial 1
+! **Building Systems from Commercial Components**  
+ _Scott Hissam, Software Engineering Institute  
+Robert Seacord, Software Engineering Institute  
+Grace A. Lewis, Software Engineering Institute_ There is a growing gap between the theory and practice of component-based software design. The theory largely assumes that the design task is to develop specifications for software component; in reality, however, most component-based design relies on preexisting components, which have preexisting specifications. With more and more software systems being developed from commercially available components, it is increasingly critical to recognize the novel challenges and unfamiliar constraints inherent in such design. This tutorial describes a number of proven techniques and much needed guidance on how to build component-based systems in a real working environment. This tutorial is intended for audiences who practice, or wish to practice, component-based software system design and development. System architects, chief engineers, project managers, and front-line software engineers will each find immediate value in this tutorial. This is a full-day tutorial held on Monday May 20th.
+## Tutorial 2
+**Architecture-Centric Software Engineering**  
+ _Jan Bosch, University of Groningen_ Many software organizations are in the process of moving from project-centric to architecture-centric engineering of software. The two typical reasons for this move are (1) the architecture allows for a clear break-down in parts whereas a project-centric approach easily leads to a monolithic system and (2) the organization is interested in exploiting the commonalities between its products or systems. This tutorial addresses this development by providing an overview and in depth treatment of the issues around architecture-centric engineering of software. Topics include software architecture design in the presence of existing components and infrastructure (top-down versus bottom-up), architecture evaluation and assessment, software artefact variability management, software product lines and the role of the software architect. These topics are, in addition to the technical perspective, discussed from process and organizational viewpoints. The topics are extensively illustrated by examples and experiences from many industrial cases. This is a full-day tutorial held on Monday May 20th.
+## Tutorial 3
+**Software Engineering Economics: Background, Current Practices, and Future Directions**  
+ _Hakan Erdogmus, National Research Council of Canada  
+Barry W. Boehm, USC  
+Warren Harrison, Portland State University  
+Donald J. Reifer, Reifer Consultants, Inc.  
+Kevin Sullivan, University of Virginia_ The field of software economics seeks to develop technical theories, guidelines, and practices of software development based on sound, established, and emerging models of value and value-creation, adapted to the domain of software development as necessary. The premise of the field is that software development is an ongoing investment activity in which developers and managers continually make investment decisions requiring the expenditure of valuable resources, such as time, talent, and money, and the overriding aim of which is to maximize added value for each participant. The goal of the tutorial is to expose the audience to this line of thinking and introduce the tools pertinent to its pursuit. The morning session will focus on fundamental valuation concepts as well as economics of flexibility in technical and process-related choices. The afternoon session will focus on business case development and case studies. The tutorial is designed to be self-contained. It will cover concepts from introductory to advanced. Practitioners and researchers with an interest in the impact of value considerations in software decision-making will benefit from attending it. This is a full-day tutorial held on Monday May 20th. This tutorial is offered in conjunction with workshop 7. The tutorial is meant in part to enable those who would like to participate in the workshop, but who might not possess the requisite background, to come up to speed.
+## Tutorial 4
+! **Dependability of Embedded Systems**  
+ _John Knight, University of Virginia_ Software plays a role in the design, manufacture, and operation of virtually all engineered artifacts from bridges and buildings to automobiles and aircraft, all of which have to be dependable. This is a tutorial at the introductory level that aims to familiarize researchers, software engineers and managers with the basic elements of the theory and practice of dependability as it applies to embedded systems. Topics covered will include system hazard and fault-tree analysis, software specification and verification, and dealing with real-time and distributed targets. Attendees will acquire a familiarity with the field so that they will be able to make appropriate choices in selecting techniques to apply within their own work and in their own future study. Attendees will be assumed to have a working knowledge of basic computer organization, programming in a high-level language, and the software development lifecycle. This is a full-day tutorial held on Monday May 20th.
+## Tutorial 5
+**Meeting the Challenges of Web Application Development: The Web Engineering Approach**  
+ _San Murugesan, University of Western Sydney  
+Yogesh Deshpande, University of Western Sydney_ Web application development is more complex and challenging than most of us think. But most Web-based systems are still poorly developed and in an ad hoc manner, resulting in poor quality and maintainability and contributing to failures. This tutorial will discuss various issues, challenges and considerations in development of large Web applications compared to traditional software development and provide an overview on Web Engineering—a proactive and holistic approach to successful Web development. The tutorial will also address the issues of scalability, maintainability, usability, testing, quality assurance, Web project management and other non-technical aspects specific to Web development and offer specific recommendations that Web developers could follow. This tutorial is targeted for software developers for Internet applications, E-commerce system implementers, project managers, researchers and students. It will provide them with valuable information and insights on successful Web development. **Desired prerequisite:** General understanding of Web page and site development and software engineering. This is a full-day tutorial held on Monday May 20th.
+## Tutorial 6
+! **Refactoring**  
+ _Martin Fowler, ThoughtWorks_ Almost every expert in Object-Oriented Development stresses the importance of iterative development. As you proceed with the iterative development, you need to add function to the existing code base. If you are really lucky that code base is structured just right to support the new function while still preserving its design integrity. Of course most of the time we are not lucky, the code does not quite fit what we want to do. You could just add the function on top of the code base. But soon this leads to applying patch upon patch making your system more complex than it needs to be. This complexity leads to bugs, and cripples your productivity. Refactoring is all about how you can avoid these problems by modifying your code in a controlled manner. Done well you can make far-reaching changes to an existing system quickly, and without introducing new bugs. You can even take a procedural body of code and refactor it into an effective object-oriented design. With refactoring as part of your development process you can keep your design clean, make it hard for bugs to breed and keeping your productivity high. In this tutorial we'll show you an example of how a lump of poorly designed code can be put into good shape. In the process we'll see how refactoring works, demonstrate a handful of example refactoring, and discuss the key things you need to do to succeed. This is a half-day tutorial held on the morning of Monday May 20th.
+## Tutorial 7
+! **Introduction to the Rational Unified Process**  
+ _Philippe Kruchten, Rational Software_ The Rational Unified Process (RUP) is a software engineering process framework. It captures many of the best practices in modern software development in a form that is suitable for a wide range of projects and organizations. It embeds object-oriented techniques and uses the UML as the principal notation for the several models that are built during the development. The RUP is also an open process framework that allows software organizations to tailor the process to their specific need, and to capture their own specific process know-how in the form of process components. Many process components are now developed by various organizations to cover different domains, technologies, tools, or type of development, and these components can be assembled to rapidly compose a suitable process. This tutorial will introduce the basic concepts and principles, which lie underthe RUP framework, and show concrete examples of its usage. This is a half-day tutorial held on the morning of Monday May 20th.
+## Tutorial 8
+**Hyper/J®: Multi-Dimensional Separation of Concerns for Java®**  
+ _Peri Tarr, IBM T.J. Watson Research Center  
+Harold Ossher, IBM T.J. Watson Research Center  
+Stanley Sutton, IBM T. J. Watson Research Center_ Hyper/J(tm) supports a new approach to constructing, integrating and evolving software, called Multi-Dimensional Separation of Concerns (MDSOC). Developers can decompose and organize code and other artifacts according to multiple, arbitrary criteria (concerns) simultaneously, to some extent even after the software has been implemented, and synthesize or integrate the pieces into larger-scale components and systems. This tutorial describes how to accomplish MDSOC with Hyper/J(tm), a tool available for free download, in the context of standard Java(tm) development. The focus is on addressing some real, pervasive problems, especially in the areas of evolution, integration, reuse, and (re)use of design patterns, and showing how to encapsulate concerns like features, variants, roles and business rules. The tutorial is at an intermediate-level and combines presentation with interactive exploration of examples. Participants have the opportunity to select examples from a prepared set, and to contribute their own. Attendees must have experience with object-oriented software engineering, and some familiarity with Java(tm). This is a half-day tutorial held on the afternoon of Monday May 20th.
+## Tutorial 9
+**Network and Java Security Concepts**  
+ _Raghavan Srinivas, Sun Microsystems_ Java with it's Write Once Run Anywhere philosophy is fast becoming a de facto platform of choice for development and deployment of enterprise solutions. With Java being available from Smart Card to Super Computers, it lends itself for implementing portable security solutions. Security, which is a critical need in today's networked economy has been one of the overriding requirements in the design of the language. This session will discuss the basics of network security, the variety of infrastructural support and the choice of ready solutions in Java towards building secure products. The mission of this session is to drive home the point that developers need to understand security, and surprisingly, the concepts are quite simple. This is a half-day tutorial held on the afternoon of Monday May 20th.
+## Tutorial 10
+! **Mastering Design Patterns**  
+ _Craig Larman, Valtech_ This tutorial will provide designers with the skills to create high-quality object-oriented designs that support reduced modification costs and increased comprehensibility. Design patterns are about the reuse of excellent, established design ideas—best-practice formulas from experienced object-oriented developers. There is an established set of popular and useful patterns, such as the "gang-of-four" (GoF) design patterns described in the hugely popular and influential book Design Patterns, the annual PLOP workshop patterns, and other sources, such as the Pattern-Oriented Software Architecture series. In this information-intensive tutorial, participants will learn how to apply the majority of high-frequency GoF design patterns. This is a full-day tutorial held on Tuesday May 21st.
+## Tutorial 11
+! **Component Technologies: JavaBeans, COM, CORBA, RMI, EJB and the CORBA Component Model**  
+ _Wolfgang Emmerich, University College London and Zuhlke Engineering (UK) Ltd.  
+Nima Kaveh, University College London_ This one-day tutorial is aimed at software engineering practitioners and researchers, who are familiar with object-oriented analysis, design and programming and want to obtain an overview of the technologies that are enabling component-based development. We introduce the idea of component-based development by defining the concept and providing its economic rationale. We describe how object-oriented programming evolved into local component models, such as Java Beans and distributed object technologies, such as the Common Object Request Broker Architecture (CORBA), Java Remote Method Invocation (RMI) and the Component Object Model (COM). We then address how these technologies matured into distributed component models, in particular Enterprise Java Beans (EJB) and the CORBA Component Model (CCM). During the tutorial we provide demonstrations of examples that have been built using these technologies. We conclude by assessing the maturity of each of these technologies and sketch how they are used to build distributed architectures. This is a full-day tutorial held on Tuesday May 21st.
+## Tutorial 12
+! **Describing Software Architecture with the UML**  
+ _Philippe Kruchten, Rational Software  
+Bran Selic, Rational Software  
+Wojtek Kozaczynski, Rational Software_ The presence of a solid architectural vision is a key discriminator in the success or failure of a software project. This tutorial examines what software architecture is and what it is not. It discusses and illustrates how to describe architecture through a set of design viewpoints and views and how to express these views in the UML, in the spirit of the new IEEE Standard 1471:2000: Recommended practice for architectural description. The tutorial shows of how architectures drive the development process and how to capture architectural decisions and architectural design patterns using the UML. It is illustrated by several widely applicable architectural patterns in different domains: embedded and real-time systems, and enterprise systems. This is a full-day tutorial held on Tuesday May 21st.
+## Tutorial 13
+**Introduction to Agile Processes and Extreme Programming**  
+ _Jim Newkirk, ThoughtWorks_ Extreme Programming is one of the most discussed subjects in the software development community. But what makes XP extreme? And how does it fit into the New World of agile methodologies? This tutorial will establish the underpinnings of agile methodology and explain why you might want to try one. Then we will see how XP uses a set of practices to build an effective software development team that produces quality software in a predictable and repeatable manner. This is a half-day tutorial held on the morning of Tuesday May 21st.
+## Tutorial 14
+**Advanced Visual Modeling: Beyond UML**  
+ _Joseph Gil, Technion -Israel Institute of Technology  
+John Howse, University of Brighton  
+Stuart Kent, The University, Canterbury_ With the adoption of UML by the OMG and industry as the linguae-francae of visual systems modeling, one begins to ponder what will come next in this field? This tutorial brings a vision for visual modeling beyond UML. We present and consolidate radical new notations, proposed in a series of research papers and with quickly increasing adoption by industry, for the specification of complex systems in an intuitive visual, yet precise manner. The recurring theme of these notations is the upgrading of familiar diagrams into a powerful visual language. Spider diagrams considerably extend Venn-diagrams to the specification of OO-systems. Most familiar OO-concepts are translated to set theoretical terms: class into set of objects, inheritance corresponding to subset, and even Harel's statecharts interpreted as the set of objects in that state. Constraint diagrams enhance the arrow notation to describe static system invariants that cannot be described by UML class-object diagrams. Reasoning rules are developed for the notation and strong completeness results are given. Finally, 3D-diagrams show how the third dimension and VRML modeling can be used for a conceptual modeling of dynamic system behavior. Much of the tutorial will be based on a case study developed in industry, illustrating how the new notations are combined with those of UML, including OCL. This is a half-day tutorial held on the morning of Tuesday May 21st.
+## Tutorial 15
+! **Information Systems Architecture**  
+ _Martin Fowler, ThoughtWorks_ The last decade or so has been one of technology churn. We've seen client/server, CORBA, J2EE, COM, .NET and a host of other enterprise platforms appear or fade from view, or both. Keeping up with resulting alphabet soup is a full time job, even without applications to ship. But amongst all of this churn, some techniques stay relatively constant. So we've been trying to identify these common patterns and taking note of how we use the ideas from one technology and use similar, but not the same designs in others. (You can find these at martinfowler.com/isa) In this talk we'll explore a number of these patterns. We'll touch on various topics including layering, business logic organization, database mapping, webserver design, and session state management. The talk is based on the material at << This is a half-day tutorial held on the afternoon of Tuesday May 21st.
+## Tutorial 16
+! **Non-Functional Requirements: From Elicitation to Modelling Languages**  
+ _Juiz Marcio Cysneiros, University of Toronto  
+Julio Sampaio do Prado Leite, Pontificia Universidade Catolica do Rio de Janeiro_ Complex information systems need models that handle with functional as well as non-functional aspects. This tutorial intends to show to the attendees not only how to elicit non-functional requirements, but also a method to integrate them into functional oriented specification. It will be demonstrated that this integration will lead to a better understanding of the impacts that will arise when one decides to satisfy non-functional requirements. As specification models, this tutorial will cover: Use Cases Diagrams, Scenarios, Class, Sequence and Collaboration Diagrams. We will show that the use of this method can lead to lower costs on software development and to fewer changes in the software during its evolution. Considering non-functional requirements since the requirements elicitation phase leads to a final product that better matches the client's expectation. This is a half-day tutorial held on the afternoon of Tuesday May 21st.  |  
+* * *  
+| !  |  
+| --- |  
+|  ! ! ! !  |  
+| © ACM SIGSOFT, 2000-2002. Website Maintainer: . Last Updated: 05/10/2002; 8:58:54 AM  |
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Conference Updates<button>
+<button>Overview<button>
+<button>Technical Papers<button>
+<button>Conference Keynotes<button>
+<button>Workshops<button>
+<button>Industry Presentations<button>
+<button>State-of-the-Art Presentations<button>
+<button>Doctoral Symposium<button>
+<button>IMPACT Presentations<button>
+<button>Panels<button>
+<button>Co-Located Events<button>
+<button>Posters and Demos<button>
+<button>Exhibitors<button>
+<button>Types of Submissions<button>
+<button>Student Volunteers<button>
+<button>Program At-A-Glance!<button>
+<button>Conference Meetings<button>
+<button>Conference Committee<button>
+<button>Program Committee<button>
+<button>Sponsors and Supporters<button>
+<button>Advice for Newcomers<button>
+<button>Overview<button>
+<button>Overview<button>
+<button>Discount Airfares<button>
+<button>Discount Airport Shuttle<button>
+<button>Discount Theme Park Tickets<button>
+<button>Securing a Visa<button>
+<button>Spouse Program<button>
+<button>ICSE 5K Run<button>
+<button>Other ICSE Conferences<button>
+
+----- WebWalker -----
+Memory:
+-The tutorial at ICSE 2002 that focused on the challenges of building web application systems is 'Meeting the Challenges of Web Application Development: The Web Engineering Approach' by San Murugesan and Yogesh Deshpande. The primary submission category emphasized by the ICSE for software engineering practitioners was component-based development, as indicated by the tutorial on 'Component Technologies: JavaBeans, COM, CORBA, RMI, EJB and the CORBA Component Model'.
+"}
+
+----- WebWalker -----
+Final Answer: The tutorial at ICSE 2002 that focused on the challenges of building web application systems is 'Meeting the Challenges of Web Application Development: The Web Engineering Approach' by San Murugesan and Yogesh Deshpande. The primary submission category emphasized by the ICSE for software engineering practitioners was component-based development.

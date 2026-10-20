@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0054_dc1a8b04c5a7",
+  "source_index": 54,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the two main strategies employed by Yili Group for the 'Yili Nutrition 2030' project to support its sustainability commitment?",
+  "prompt": "What are the two main strategies employed by Yili Group for the 'Yili Nutrition 2030' project to support its sustainability commitment?",
+  "expected_answer": "Yili Group supports its sustainability commitment through two major strategies: 'Rural Revitalization' and 'Healthy China'.",
+  "root_url": "https://www.yili.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.yili.com/en/sustainability",
+      "https://www.yili.com/en/sustainability/corporate-citizenship"
+    ],
+    "golden_path": [
+      "root->English->Sustainability at Yili",
+      "root->English->Corporate Citizenship"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The two main strategies employed by Yili Group for the 'Yili Nutrition 2030' project to support its sustainability commitment are: (1) supporting nutrition initiatives through funding and programs targeting children's health, such as the 'Yili Nutrition 2030' initiative, which has benefited nearly 820,000 children; and (2) promoting sustainable practices aligned with the United Nations SDGs, including clean energy use, waste management, and partnerships for climate action.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 24.513,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0054_dc1a8b04c5a7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0054_dc1a8b04c5a7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer provides different strategies (nutrition initiatives and sustainable practices) instead of the expected 'Rural Revitalization' and 'Healthy China'.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

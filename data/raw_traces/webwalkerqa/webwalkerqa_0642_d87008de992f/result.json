@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0642_d87008de992f",
+  "source_index": 642,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2017年5月22日和2018年6月19日浙江大学活动中，分别由哪些国际知名教授来访并进行学术演讲？",
+  "prompt": "在2017年5月22日和2018年6月19日浙江大学活动中，分别由哪些国际知名教授来访并进行学术演讲？",
+  "expected_answer": "Yale Patt教授和Roger Zimmermann教授",
+  "root_url": "http://www.cs.zju.edu.cn/csen/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2017/0515/c27029a1296303/page.htm",
+      "http://www.cs.zju.edu.cn/csen/2018/0621/c27029a1296313/page.htm"
+    ],
+    "golden_path": [
+      "root->学术讲座->【研究生读书报告】学术大师大讲堂之美国工程院院士Yale Patt教授报告",
+      "root->学术讲座->新加坡国立大学计算机系Roger Zimmermann教授应邀来院作报告"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 52.018,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0642_d87008de992f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0642_d87008de992f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

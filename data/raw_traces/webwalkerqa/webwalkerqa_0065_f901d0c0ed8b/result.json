@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0065_f901d0c0ed8b",
+  "source_index": 65,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京理工大学计算机学院在2024年夏季和2021年春季组织的党史学习活动，分别在什么地点进行，参与者为谁？",
+  "prompt": "南京理工大学计算机学院在2024年夏季和2021年春季组织的党史学习活动，分别在什么地点进行，参与者为谁？",
+  "expected_answer": "2024年在雨花台区烈士陵园，由计算机学院“青春筑梦党史行”实践小队参与；2021年在南京抗日航空烈士纪念馆，由计算机学院本科生党支部部分学生党员参与。",
+  "root_url": "https://cs.njust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njust.edu.cn/2f/c7/c11675a339911/page.htm",
+      "https://cs.njust.edu.cn/05/84/c12495a263556/page.htm"
+    ],
+    "golden_path": [
+      "root->学生风采->学院“青春筑梦党史行”实践小队开展暑期实践活动2024-10-11",
+      "root->思政教育->计算机学院本科生党支部赴南京抗日航空烈士纪念馆开展党史学习教...2021-05-26"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 33.449,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0065_f901d0c0ed8b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0065_f901d0c0ed8b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

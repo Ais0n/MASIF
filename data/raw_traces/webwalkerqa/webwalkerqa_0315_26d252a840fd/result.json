@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0315_26d252a840fd",
+  "source_index": 315,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年8月至9月的两个月内，华南理工大学计算机科学与工程学院有多少条本科生通知记录发布？",
+  "prompt": "在2024年8月至9月的两个月内，华南理工大学计算机科学与工程学院有多少条本科生通知记录发布？",
+  "expected_answer": "16",
+  "root_url": "http://www2.scut.edu.cn/cs/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www2.scut.edu.cn/cs/22291/list3.htm"
+    ],
+    "golden_path": [
+      "root->本科生通知->下一页->下一页"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 41.283,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0315_26d252a840fd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0315_26d252a840fd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

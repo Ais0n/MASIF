@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0177_6de48feebf9c",
+  "source_index": 177,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "申请北京大学计算机学院2024年招聘职位的候选人在补充材料提交截止日期之后论坛邀请日期是什么时间？",
+  "prompt": "申请北京大学计算机学院2024年招聘职位的候选人在补充材料提交截止日期之后论坛邀请日期是什么时间？",
+  "expected_answer": "2024年11月29日",
+  "root_url": "https://cs.pku.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.pku.edu.cn/info/1263/3306.htm"
+    ],
+    "golden_path": [
+      "root->2024年北京大学计算机学院招聘启事 Faculty Positions at Sch...2024.09.18"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 51.161,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0177_6de48feebf9c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0177_6de48feebf9c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

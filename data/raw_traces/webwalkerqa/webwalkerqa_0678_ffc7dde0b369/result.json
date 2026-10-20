@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0678_ffc7dde0b369",
+  "source_index": 678,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在腾讯推出的数字藏经洞与数字长城项目中，哪种数字技术被共同采用来实现文物的高度还原？",
+  "prompt": "在腾讯推出的数字藏经洞与数字长城项目中，哪种数字技术被共同采用来实现文物的高度还原？",
+  "expected_answer": "云游戏和全局动态光照技术",
+  "root_url": "https://www.tencentgames.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.tencentgames.com/technology-2.html",
+      "https://www.tencentgames.com/technology-1.html"
+    ],
+    "golden_path": [
+      "root->游戏技术及应用->了解更多",
+      "root->游戏技术及应用->了解更多"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 21.838,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0678_ffc7dde0b369/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0678_ffc7dde0b369/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

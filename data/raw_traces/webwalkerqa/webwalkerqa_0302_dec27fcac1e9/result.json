@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0302_dec27fcac1e9",
+  "source_index": 302,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the name of the ACM conference held in Brisbane in 2025 and when will it take place?",
+  "prompt": "What is the name of the ACM conference held in Brisbane in 2025 and when will it take place?",
+  "expected_answer": "The ACM conference in Brisbane in 2025 is called ACM AutomotiveUI 2025, held from September 20 to September 24.",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/events/automotiveui-2025/"
+    ],
+    "golden_path": [
+      "root->Upcoming Conferences->AutomotiveUI 2025Queensland University of Technology - Gardens Point Campus, Brisbane, QLD, Australia·Sep 20, 2025-Sep 24, 2025ACM AutomotiveUI is the premier forum for user interface research in the automotive domain. The conference annually brings together over 200 researchers and practitioners interested in both the technical and the human aspects of in-vehicle user interfaces and applications, to provide a forum for the exchange of technical information concerning research (and practice) and educational activities for motor vehicle user interface development. We have multiple meeting categories in which researchers, practitioners, and other interested parties can take part in our conference and community."
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 22,
+  "tool_calls": 8,
+  "duration_seconds": 67.574,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0302_dec27fcac1e9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0302_dec27fcac1e9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

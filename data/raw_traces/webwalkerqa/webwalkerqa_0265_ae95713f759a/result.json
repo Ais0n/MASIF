@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0265_ae95713f759a",
+  "source_index": 265,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Where and when was the ICSE 2003 Program Committee Meeting held?",
+  "prompt": "Where and when was the ICSE 2003 Program Committee Meeting held?",
+  "expected_answer": "The ICSE 2003 Program Committee Meeting was held in Room Crystal A-C from 17:30 to 18:30.",
+  "root_url": "http://www.icse-conferences.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "http://www.icse-conferences.org/2002/cal/meetings.html"
+    ],
+    "golden_path": [
+      "root->Orlando, Florida, USA->Conference Meetings"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The ICSE 2003 Program Committee Meeting was held from May 3 to May 10, 2003.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 16.917,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0265_ae95713f759a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0265_ae95713f759a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer provides the dates of the conference instead of the specific room and time of the Program Committee Meeting.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

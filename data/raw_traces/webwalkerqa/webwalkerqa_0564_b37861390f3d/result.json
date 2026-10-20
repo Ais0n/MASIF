@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0564_b37861390f3d",
+  "source_index": 564,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2019年，南京航空航天大学计算机科学与技术学院为本科生转专业成立的工作组组长是谁？同期，该学院正与哪个国家举办中意创新合作周活动？",
+  "prompt": "在2019年，南京航空航天大学计算机科学与技术学院为本科生转专业成立的工作组组长是谁？同期，该学院正与哪个国家举办中意创新合作周活动？",
+  "expected_answer": "孙涵；意大利",
+  "root_url": "http://cs.nuaa.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.nuaa.edu.cn/2019/0426/c1977a155755/page.htm",
+      "http://cs.nuaa.edu.cn/2019/0521/c1975a157470/page.htm"
+    ],
+    "golden_path": [
+      "root->教学动态->下一页>>->关于2019年本科生转专业工作的通知",
+      "root->科学研究->下一页>>->【申报通知】关于征集2019年第十届中意创新合作周展览展示内容和校内老师与“一带一路”国家开展科技合作情..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 5,
+  "duration_seconds": 28.431,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0564_b37861390f3d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0564_b37861390f3d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

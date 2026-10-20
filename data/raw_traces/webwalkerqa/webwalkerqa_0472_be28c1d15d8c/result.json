@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0472_be28c1d15d8c",
+  "source_index": 472,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the dates for the first Saturday after the start of the 'Spirits, Tricks, and More in Days of Mischief 2024' event and two days before the start of the 'Season of Moomin' event?",
+  "prompt": "What are the dates for the first Saturday after the start of the 'Spirits, Tricks, and More in Days of Mischief 2024' event and two days before the start of the 'Season of Moomin' event?",
+  "expected_answer": "October 26, 2024 and October 12, 2024",
+  "root_url": "https://www.thatskygame.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.thatskygame.com/news/spirits-tricks-and-more-in-days-of-mischief-2024",
+      "https://www.thatskygame.com/news/season-of-moomin-a-classic-tale-of-healing-and-acceptance"
+    ],
+    "golden_path": [
+      "root->Spirits, Tricks, and More in Days of Mischief 2024October 11 2024",
+      "root->Season of Moomin: A Classic Tale of Healing and AcceptanceOctober 8 2024"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The first Saturday after the start of the 'Spirits, Tricks, and More in Days of Mischief 2024' event is August 24th, and two days before the start of the 'Season of Moomin' event is also August 24th.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 6,
+  "duration_seconds": 99.297,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0472_be28c1d15d8c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0472_be28c1d15d8c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted dates (August 24th) are completely different from the expected dates",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

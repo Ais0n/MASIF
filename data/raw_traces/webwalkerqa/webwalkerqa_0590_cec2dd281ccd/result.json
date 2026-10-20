@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0590_cec2dd281ccd",
+  "source_index": 590,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年，西南科技大学计算机科学与技术学院分别与哪两个重要实体进行了合作，以提升智能技术和军事技能？",
+  "prompt": "在2024年，西南科技大学计算机科学与技术学院分别与哪两个重要实体进行了合作，以提升智能技术和军事技能？",
+  "expected_answer": "认知智能全国重点实验室和青软集团",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/newsdetail/news-8951",
+      "https://cs.swust.edu.cn/newsdetail/news-9141"
+    ],
+    "golden_path": [
+      "root->学院动态->6->认知智能全国重点实验室副主任陈恩红教授来院作学术报告2024年4月9日，受西南科技大学计算机科学与技术学院邀请，认知智能全国重点实验室副主任陈恩红教授来院进行学术交流，并作题为“生成式AI赋能自适应学习关键技术研究与应用探索”的学术报告。报告...[2024-04-12]",
+      "root->学院动态->3->学院携手青软举办鸿蒙训练营面对鸿蒙生态的快速发展和市场对鸿蒙技术人才的迫切需求，西南科技大学计算机科学与技术学院在暑期与青软集团携手举办鸿蒙训练营活动，2022级计算机科学与技术专业的50名学生参加了奔了此次训练营。...[2024-07-19]"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "在2024年，西南科技大学计算机科学与技术学院分别与中国工程物理研究院和中国空气动力研究发展中心进行了合作，以提升智能技术和军事技能。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 25.414,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0590_cec2dd281ccd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0590_cec2dd281ccd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer lists completely different collaborating entities than the expected answer.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

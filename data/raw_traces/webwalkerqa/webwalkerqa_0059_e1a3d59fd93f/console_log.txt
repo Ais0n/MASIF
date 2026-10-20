@@ -1,0 +1,468 @@
+----- user -----
+query:
+Who among the editors of Volume 6 of the Proceedings of the VLDB Endowment became a new trustee of the VLDB Endowment from 2018 to 2024?
+official website:
+https://www.vldb.org/
+Observation:website information:
+
+]( "www.vldb.org") !
+Home          
+VLDB Conferences               
+VLDB Journal                    
+PVLDB                    
+CIDR         
+Endowment Awards     
+External Links      
+# Very Large Data Base Endowment Inc. (VLDB Endowment)
+is a non-profit organisation incorporated in the United States for the sole purpose of **promoting and exchanging scholarly work in databases and related fields throughout the world**.
+The Endowment serves as the steering committee for the  series. The review process for these conferences is implemented in collaboration with  and the conference review process is entirely through .
+Since 1992, the Endowment has published  for disseminating archival research results. By now, the journal is one of the most successful journals across all of computer science. The VLDB Journal is published in collaboration with Springer-Verlag.
+On various activities, the Endowment closely cooperates with .
+The Endowment also sponsors various scholarly activities. It has established a program that supports summer schools, and other training activities of this kind, in countries that could otherwise not afford the expenses for such events.
+The  since 1995 contains web sites of past conferences, conference statistics (e.g., number of papers submitted, acceptance rates), and other useful information.
+The VLDB Endowment is governed by a  consisting of 21 members.
+# VLDB's Position on Racism
+The VLDB Endowment is committed to ensuring that all VLDB activities are carried out in an inclusive and diverse environment with zero tolerance for discrimination, harassment, or any other form of misconduct. The database systems community wide DBCares initiative, co-started with ACM SIGMOD, is a realization of this principle.
+We cannot be satisfied with continuing the status quo. We will continue to actively stand against discrimination. We will find new ways to address the inequities that exist in our field. We will help to create an environment that is more welcoming, just, and equitable to all.
+We join ACM and CRA in stating that we will continue to listen, to learn, to engage and to explore new ways to fight against and reject racism. Silence perpetuates, doubt reinforces, and rationalization of incident after incident only compounds the pain so many in our society continue to endure.
+We know that racism:
+  * Is systemic and institutionalized.
+  * Continues to oppress people of color around the world – denying basic human rights, denying opportunity, and even more tragically denying many of their very lives.
+  * Is learned behavior that may be unlearned through education, compassion, empathy, and action.
+  * Drives a wedge between communities, and in doing so limits the enviable quest for a society steeped in respect.
+  * Benefits the privileged from its existence, who must be willing to sacrifice to overcome it.
+To stand against it, we:
+  * Acknowledge the existence of racism within our communities and commit to defeating it.
+  * Call out and reject rationalization of incidents and distortion of information.
+  * Educate ourselves and those around us to address racism in its many forms.
+  * Stand up against the status quo by using our voice and agency.
+  * Invite the community to discuss concrete steps to take to create lasting change.
+ is hosted by .
+Last modified: May 28, 2021 06:00 AM.
+
+
+clickable button:
+
+<button>Latest News<button>
+<button>Board of Trustees<button>
+<button>VLDB Ambassadors<button>
+<button>Useful Documents<button>
+<button>VLDB Archives<button>
+<button>VLDBCares<button>
+<button>VLDB Committees<button>
+<button>Privacy Policy<button>
+<button>Contact Us<button>
+<button>List of Conferences<button>
+<button>2019 Los Angeles<button>
+<button>2018 Rio de Janeiro<button>
+<button>2017 Munich<button>
+<button>2016 New Delhi<button>
+<button>2015 Hawai'i<button>
+<button>2014 Hangzhou<button>
+<button>2013 Trento<button>
+<button>Home<button>
+<button>Volume 19, 2025/2026<button>
+<button>Volume 18, 2024/2025<button>
+<button>Volume 17, 2023/2024<button>
+<button>Volume 16, 2022/2023<button>
+<button>Volume 15, 2021/2022<button>
+<button>Volume 14, 2020/2021<button>
+<button>Volume 13, 2019/2020<button>
+<button>Volume 12, 2018/2019<button>
+<button>Volume 11, 2017/2018<button>
+<button>Volume 10, 2016/2017<button>
+<button>Volume 9, 2015/2016<button>
+<button>Volume 8, 2014/2015<button>
+<button>Volume 7, 2013/2014<button>
+<button>Volume 6, 2012/2013<button>
+<button>Volume 5, 2011/2012<button>
+<button>Volume 4, 2010/2011<button>
+<button>Volume 3, 2010<button>
+<button>Volume 2, 2009<button>
+<button>Volume 1, 2008<button>
+<button>Home<button>
+<button>CIDR 2026<button>
+<button>CIDR 2025<button>
+<button>CIDR 2024<button>
+<button>CIDR 2023<button>
+<button>CIDR 2022<button>
+<button>CIDR 2021<button>
+<button>CIDR 2020<button>
+<button>CIDR 2019<button>
+<button>Call for Nominations<button>
+<button>Committee<button>
+<button>Test of Time Award<button>
+<button>Early Career Award<button>
+<button>Women in Database Research Award<button>
+<button>VLDB conference<button>
+<button>PVLDB<button>
+<button>VLDB historical archives<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the editors of Volume 6 of the Proceedings of the VLDB Endowment and determine who became a new trustee of the VLDB Endowment from 2018 to 2024. The relevant information might be found by visiting the page for Volume 6.
+
+Action: visit_page
+Action Input: {"button": "Volume 6, 2012/2013"}
+
+----- VisitPage -----
+The web information is:
+
+!
+Current Submission
+General Information
+!
+!
+!
+!
+### 
+Start
+### 
+Current Submission
+### 
+All Volumes
+### 
+Reproducibility
+### 
+General Information
+# Volume 6, 2012-2013
+Editors-in-Chief: 
+Michael Böhlen, Christoph Koch
+Founding Editor-in-Chief: 
+H. V. Jagadish
+Advisory Committee: 
+Philip Bernstein, Michael Böehlen, Peter Buneman, Susan Davidson, Z. Meral Ozsoyoglu, S. Sudarshan, Gerhard Weikum
+Information Director: 
+Gerald Weber
+Associate Editors: 
+Ashraf Aboulnaga, Sihem Amer-Yahia, Chee Yong Chan, Yanlei Diao, Ada Waichee Fu, Johannes Gehrke, Alon Halevy, Jayant Haritsa, Nikos Mamoulis, Thomas Neumann, Dan Olteanu, Divesh Srivastava, Jens Teubner, Stefan Manegold
+Review Board: 
+## Volume 6, No. 1
+Michael Böhlen and Christoph Koch:  i - x
+ ]( ]( ](
+## Volume 6, No. 2
+Peer Kr√∂ger and Stratis D. Viglas:  i - x
+ ]( ]( ]( ]( ]( ]( ]( ]( ]( ](
+## Volume 6, No. 3
+Ada Waichee Fu and Alon Halevy:  i - x
+ ]( ]( ]( ]( ]( ](
+## Volume 6, No. 4
+Ashraf Aboulnaga and Chee Yong Chan:  i - x
+ ]( ]( ]( ]( ](
+## Volume 6, No. 5
+Dan Olteanu and Divesh Srivastava:  i - x
+ ]( ]( ]( ]( ](
+## Volume 6, No. 6
+Jayant Haritsa and Jens Teubner:  i - x
+ ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ](
+## Volume 6, No. 7
+Johannes Gehrke and Nikos Mamoulis:  i - x
+ ]( ]( ]( ](
+## Volume 6, No. 8
+Sihem Amer-Yahia and Stefan Manegold:  i - x
+ ]( ]( ]( ]( ](
+## Volume 6, No. 9
+Yanlei Diao and Thomas Neumann:  i - x
+ ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ](
+## Volume 6, No. 10
+Themis Palpanas and Yannis Velegrakis:  i - x
+ ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ](
+## Volume 6, No. 11
+Min Wang and Cong Yu:  i - x
+ ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ](
+## Volume 6, No. 12
+Dimitrios Gunopoulos, Letizia Tanca and Jun Yang:  i - x
+ ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ](
+## Volume 6, No. 13
+Peer Kr√∂ger and Stratis D. Viglas:  i - x
+ ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ](
+## Volume 6, No. 14
+:  MichaelB√∂hlen,ChristophKoch - MichaelB√∂hlen,ChristophKoch
+ ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ]( ](
+PVLDB is part of the VLDB Endowment Inc.
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Start<button>
+<button>Contributions<button>
+<button>Submission<button>
+<button>Formatting<button>
+<button>Review Board<button>
+<button>All Volumes<button>
+<button>Reproducibility<button>
+<button>Contact<button>
+<button>Organization<button>
+<button>Publication Policies<button>
+<button>Rights & Responsibilities<button>
+<button>Open Access Statement<button>
+<button>FAQ<button>
+<button>Privacy Policy<button>
+<button>Volume 20<button>
+<button>Volume 19<button>
+<button>Volume 18<button>
+<button>Volume 17<button>
+<button>Volume 16<button>
+<button>Volume 15<button>
+<button>Volume 14<button>
+<button>Volume 13<button>
+<button>Volume 12<button>
+<button>Volume 11<button>
+<button>Volume 10<button>
+<button>Volume 9<button>
+<button>Volume 8<button>
+<button>Volume 7<button>
+<button>Volume 6<button>
+<button>Volume 5<button>
+<button>Volume 4<button>
+<button>Volume 3<button>
+<button>Volume 2<button>
+<button>Volume 1<button>
+<button>No. 1<button>
+<button>No. 2<button>
+<button>No. 3<button>
+<button>No. 4<button>
+<button>No. 5<button>
+<button>No. 6<button>
+<button>No. 7<button>
+<button>No. 8<button>
+<button>No. 9<button>
+<button>No. 10<button>
+<button>No. 11<button>
+<button>No. 12<button>
+<button>No. 13<button>
+<button>No. 14<button>
+<button>see full list<button>
+<button>1 - 12Spatio-Textual Similarity JoinsPanagiotis Bouros, Shen Ge, and Nikos Mamoulis<button>
+<button>13 - 24DisC Diversity: Result Diversification based on Dissimilarity and CoverageMarina Drosou and Evaggelia Pitoura<button>
+<button>25 - 36On Differentially Private Frequent Itemset MiningChen Zeng, Jeffrey F. Naughton, and Jin-Yi Cai<button>
+<button>37 - 48Less is More: Selecting Sources Wisely for IntegrationXin Luna Dong, Barna Saha, and Divesh Srivastava<button>
+<button>49 - 60Distributed Time-aware ProvenanceWenchao Zhou, Suyog Mapara, Yiqing Ren, Yang Li, Andreas Haeberlen, Zachary Ives, Boon Thau Loo, and Micah Sherr<button>
+<button>61 - 72Query Processing under GLAV Mappings for Relational and Graph DatabasesDiego Calvanese, Giuseppe De Giacomo, Maurizio Lenzerini, and Moshe Y. Vardi<button>
+<button>73 - 84Computing Immutable Regions for Subspace Top-k QueriesKyriakos Mouratidis and HweeHwa Pang<button>
+<button>85 - 96Large Scale Cohesive Subgraphs Discovery for Social Network Visual AnalysisFeng Zhao and Anthony K. H. Tung<button>
+<button>97 - 108Truth Finding on the Deep Web: Is the Problem Solved?Xian Li, Xin Luna Dong, Kenneth Lyons, Weiyi Meng, and Divesh Srivastava<button>
+<button>109 - 120Counting with the CrowdAdam Marcus, David Karger, Samuel Madden, Robert Miller, and Sewoong Oh<button>
+<button>109 - 120ClouDiA: A Deployment Advisor for Public CloudsTao Zou, Ronan Le Bras, Marcos Vaz Salles, Alan Demers, and Johannes Gehrke<button>
+<button>133 - 144An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph DatabasesJinsoo Lee, Wook-Shin Han, Romans Kasperovics, and Jeong-Hoon Lee<button>
+<button>145 - 156Lightweight Locking for Main Memory Database SystemsKun Ren, Alexander Thomson, and Daniel J. Abadi<button>
+<button>157 - 168Lightweight Privacy-Preserving Peer-to-Peer Data IntegrationYe Zhang,Wai-Kit Wong, S. M. Yiu, Nikos Mamoulis, and David W. Cheung<button>
+<button>169 - 180Memory Efficient Minimum Substring PartitioningYang Li, Pegah Kamousi, Fangqiu Han, Shengqi Yang, Xifeng Yan, and Subhash Suri<button>
+<button>181 - 192NeMa: Fast Graph Search with Label SimilarityArijit Khan, Yinghui Wu, Charu C. Aggarwal, and Xifeng Yan<button>
+<button>193 - 204PARAS: A Parameter Space Framework for Online Association MiningXika Lin, Abhishek Mukherji, Elke A. Rundensteiner, Carolina Ruiz, and Matthew O. Ward<button>
+<button>205 - 216Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data IntegrationZhepeng Yan, Nan Zheng, Zachary G. Ives, Partha Pratim Talukdar, and Cong Yu<button>
+<button>217 - 228Spatial Keyword Query Processing: An Experimental EvaluationLisi Chen, Gao Cong, Christian S. Jensen, and Dingming Wu<button>
+<button>229 - 240Partitioning and Ranking Tagged Data SourcesMilad Eftekhar and Nick Koudas<button>
+<button>241 - 252Efficient Implementation of Generalized Quantification in Relational Query LanguagesBin Cao and Antonio Badia<button>
+<button>253 - 264DAX: A Widely Distributed Multi-tenant Storage Service for DBMS HostingRui Liu, Ashraf Aboulnaga, and Kenneth Salem<button>
+<button>265 - 276A Distributed Graph Engine for Web Scale RDF DataKai Zeng, Jiacheng Yang, Haixun Wang, Bin Shao, and Zhongyuan Wang<button>
+<button>277 - 288Upper and Lower Bounds on the Cost of a Map-Reduce ComputationFoto N. Afrati, Anish Das Sarma, Semih Salihoglu, and Jeffrey D. Ullman<button>
+<button>289 - 300Processing Analytical Queries over Encrypted DataStephen Tu, M. Frans Kaashoek, Samuel Madden, and Nickolai Zeldovich<button>
+<button>301 - 312Practical Differential Privacy via Grouping and SmoothingGeorgios Kellaris and Stavros Papadopoulos<button>
+<button>313 - 324On Scaling Up Sensitive Data AuditingYupeng Fu, Raghav Kaushik, and Ravishankar Ramamurthy<button>
+<button>325 - 336XORing Elephants: Novel Erasure Codes for Big DataMaheswaran Sathiamoorthy, Megasthenis Asteris, Dimitris Papailiopoulos, Alexandros G. Dimakis, Ramkumar Vadali, Scott Chen, and Dhruba Borthakur<button>
+<button>337 - 348Scaling Factorization Machines to Relational DataSteffen Rendle<button>
+<button>349 - 360Question Selection for Crowd Entity ResolutionSteven Euijong Whang, Peter Lofgren, Hector Garcia-Molina<button>
+<button>361 - 372A Comparison of Knives for Bread SlicingAlekh Jindal, Endre Palatinus, Vladimir Pavlov, Jens Dittrich<button>
+<button>373 - 384Efficient Error-tolerant Query AutocompletionChuan Xiao, Jianbin Qin, Wei Wang, Yoshiharu Ishikawa, Koji Tsuda, Kunihiko Sadakane<button>
+<button>385 - 396Top-k Publish-Subscribe for Social Annotation of NewsAlexander Shraer, Maxim Gurevich, Marcus Fontoura, Vanja Josifovski<button>
+<button>397 - 408Efficient Querying of Inconsistent Databases with Binary Integer ProgrammingPhokion G. Kolaitis, Enela Pema, Wang-Chiew Tan<button>
+<button>409 - 420Piggybacking on Social NetworksAristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafinin, Ingmar Weber<button>
+<button>421 - 432Schema Extraction for Tabular Data on the WebMarco D. Adelfio, Hanan Samet<button>
+<button>433 - 444Streaming Algorithms for k-core DecompositionAhmet Erdem Sariyuce, Bugra Gedik, Gabriela Jacques-Silva, Kun-Lung Wu, Umit V. Catalyurek<button>
+<button>444 - 456Discovering Linkage Points over Web DataOktie Hassanzadeh, Ken Q. Pu, Soheil Hassas Yeganeh, Renee J. Miller, Lucian Popa, Muricio A. Hernandez, Howard Ho<button>
+<button>457 - 468IS-LABEL: an Independent-Set based Labeling Scheme for Point-to-Point Distance QueryingAda Wai-Chee Fu, Huanhuan Wu, James Cheng, Raymond Chi-Wing Wong<button>
+<button>469 - 480Supporting User-Defined Functions on Uncertain DataThanh T. L. Tran, Yanlei Diao, Charles Sutton, Anna Liu<button>
+<button>481 - 492Incremental and Accuracy-Aware Personalized PageRank through Scheduled ApproximationFanwei Zhu, Yuan Fang, Kevin Chen-Chuan Chang, Jing Ying<button>
+<button>493 - 504Efficient SimRank-based Similarity Join Over Large GraphsWeiguo Zheng, Lei Zou, Yansong Feng, Lei Chen, Dongyan Zhao<button>
+<button>505 - 516A Performance Study of Three Disk-based Structures for Indexing and Querying Frequent ItemsetsGuimei Liu, Andre Suchitra, Limsoon Wong<button>
+<button>517 - 528TripleBit: a Fast and Compact System for Large Scale RDF DataPingpeng Yuan, Pu Liu, Buwen Wu, Hai Jin, Wenya Zhang, Ling Liu<button>
+<button>529 - 540CorrectDB: SQL Engine with Practical Query AuthenticationSumeet Bajaj, Radu Sion<button>
+<button>541 - 552Hybrid Storage Management for Database SystemsXin Liu, Kenneth Salem<button>
+<button>553 - 564Scorpion: Explaining Away Outliers in Aggregate QueriesEugene Wu, Samuel Madden<button>
+<button>565 - 576Ratio Threshold Queries over Distributed Data SourcesRajeev Gupta, Krithi Ramamritham, Mukesh Mohania<button>
+<button>577 - 588On the Complexity of Query Result DiversificationTing Deng, Wenfei Fan<button>
+<button>589 - 600Streaming Quotient Filter: A Near Optimal Approximate Duplicate Detection Approach for Data StreamsSourav Dutta, Ankur Narang, Suman K. Bera<button>
+<button>601 - 612On Repairing Structural Problems In Semi-structured DataFlip Korn, Barna Saha, Divesh Srivastava, Shanshan Ying<button>
+<button>613 - 624A Distributed Algorithm for Large-Scale Generalized MatchingFaraz Makari Manshadi, Baruch Awerbuch, Rainer Gemula, Rohit Khandekar, Julian Mestre, Mauro Sozio<button>
+<button>625 - 636The LLUNATIC Data-Cleaning FrameworkFloris Geerts, Giansalvatore Mecca, Paolo Papotti, Donatello Santoro<button>
+<button>637 - 648Sharing Data and Work Across Concurrent Analytical QueriesIraklis Psaroudakis, Manos Athanassoulis, Anastasia Ailamaki<button>
+<button>649 - 660Skyline Operator on Anti-correlated DistributionsHaichuan Shang, Masaru Kitsuregawa<button>
+<button>661 - 672Low-Latency Multi-Datacenter Databases using Replicated CommitHatem Mahmoud, Faisal Nawab, Alexander Pucher, Divyakant Agrawal, Amr El Abbadi<button>
+<button>673 - 684Distribution-Based Query SchedulingYun Chi, Hakan Hacigumus, Wang-Pin Hsiung, Jeffrey F. Naughton<button>
+<button>685 - 696Making Queries Tractable on Big Data with PreprocessingWenfei Fan, Floris Geerts, Frank Neven<button>
+<button>697 - 708Answering Planning Queries with the CrowdHaim Kaplan, Ilia Lotosh, Tova Milo, Slava Novgorodov<button>
+<button>709 - 720Hardware-Oblivious Parallelism for In-Memory Column-StoresMax Heimel, Michael Saecker, Holger Pirk, Stefan Manegold, Volker Markl<button>
+<button>721 - 732Permuting Data on Random-Access Block StorageRisi Thonangi, Jun Yang<button>
+<button>733 - 744Improving Flash Write Performance by Using Update FrequencyRadu Stoica, Anastasia Ailamaki<button>
+<button>745 - 756Efficient Indexing for Diverse Query ResultsLu Li, Chee-Yong Chan<button>
+<button>757 - 768Reducing Uncertainty of Schema Matching via CrowdsourcingChen Jason Zhang, Lei Chen, H. V. Jagadish, Chen Caleb Cao<button>
+<button>769 - 780Travel Cost Inference from Sparse, Spatio-Temporally Correlated Time Series Using Markov ModelsBin Yang, Chenjuan Guo, Christian S. Jensen<button>
+<button>781 - 792Query Optimization over Crowdsourced DataHyunjung Park, Jennifer Widom<button>
+<button>793 - 804A Data-adaptive and Dynamic Segmentation Index for Whole Matching on Time SeriesYang Wang, Peng Wang, Jian Pei, Wei Wang, Sheng Huang<button>
+<button>805 - 816Extraction and Integration of Partially Overlapping Web SourcesMirko Bronzi, Valter Crescenzi, Paolo Merialdo, Paolo Papotti<button>
+<button>817 - 828The Yin and Yang of Processing Data Warehousing Queries on GPU DevicesYuan Yuan, Rubao Lee, Xiaodong Zhang<button>
+<button>829 - 840Mining and Indexing Graphs for Supergraph SearchDayu Yuan, Prasenjit Mitra, C. Lee Giles<button>
+<button>841 - 852Efficient Recovery of Missing EventsJianmin Wang, Shaoxu Song, Xiaochen Zhu, Xuemin Lin<button>
+<button>853 - 864Hadoop's AdolescenceKai Ren, YongChul Kwon, Magdalena Balazinska, Bill Howe<button>
+<button>865 - 876RACE: A Scalable and Elastic Parallel System for Discovering Repeats in Very Long SequencesEssam Mansour, Ahmed El-Roby, Panos Kalnis, Aron Ahmadia, Ashraf Aboulnaga<button>
+<button>877 - 888LLAMA: A Cache/Storage Subsystem for Modern HardwareJustin Levandoski, David Lomet, Sudipta Sengupta<button>
+<button>889 - 900Revisiting Co-Processing for Hash Joins on the Coupled CPU-GPU ArchitectureJiong He, Mian Lu, Bingsheng He<button>
+<button>901 - 912Top-K Nearest Keyword Search on Large GraphsMiao Qiao, Lu Qin, Hong Cheng, Jeffrey Xu Yu, Wentao Tian<button>
+<button>913 - 924A General Framework for Geo-Social Query ProcessingNikos Armenatzoglou, Stavros Papadopoulos, Dimitris Papadias<button>
+<button>925 - 936Towards Predicting Query Execution Time for Concurrent and Dynamic Database WorkloadsWentao Wu, Yun Chi, Hakan Hacigumus, Jeffrey F. Naughton<button>
+<button>937 - 948Sketch-based Geometric Monitoring of Distributed Stream QueriesMinos Garofalakis, Daniel Keren, Vasilis Samoladas<button>
+<button>949 - 960Direction-Preserving Trajectory SimplificationCheng Long, Raymond Chi-Wing Wong, Chenjuan Guo, H. V. Jagadish<button>
+<button>961 - 972Continuous Cloud-Scale Query Optimization and ProcessingNicolas Bruno, Sapna Jain, Jingren Zhou<button>
+<button>973 - 984Optimization Strategies for A/B Testing on HADOOPAndrii Cherniak, Huma Zaidi, Vladimir Zadorozhny<button>
+<button>985 - 996Piranha: Optimizing Short Jobs in HadoopKhaled Elmeleegy<button>
+<button>997 - 1008Making Updates Disk-I/O Friendly Using SSDsMohammad Sadoghi, Kenneth A. Ross, Mustafa Canim, Bishwaranjan Bhattacharjee<button>
+<button>1009 - 1020Hadoop-GIS: A High Performance Spatial Data Warehousing System over MapReduceAblimit Aji, Fusheng Wang, Hoang Vo, Rubao Lee, Qiaoling Liu, Xiaodong Zhang, Joel Saltz<button>
+<button>1021 - 1032Statistics Collection in Oracle Spatial and Graph: Fast Histogram Construction for Complex Geometry ObjectsBhuvan Bamba, Siva Ravada, Ying Hu, Richard Anderson<button>
+<button>1033 - 1044MillWheel: Fault-Tolerant Stream Processing at Internet ScaleTyler Akidau, Alex Balikov, Kaya Bekiroglu, Slava Chernyak, Josh Haberman, Reuven Lax, Sam McVeety, Daniel Mills, Paul Nordstrom, Sam Whittle<button>
+<button>1045 - 1056Online, Asynchronous Schema Change in F1Ian Rae, Eric Rollins, Jeff Shute, Sukhdeep Sodhi, Radek Vingralek<button>
+<button>1057 - 1067Scuba: Diving into Data at FacebookLior Abraham, John Allen, Oleksandr Barykin, Vinayak Borkar, Bhuwan Chopra, Ciprian Gerea, Daniel Merl, Josh Metzler, David Reiss, Subbu Subramanian, Janet L. Wiener, Okay Zed<button>
+<button>1068 - 1079F1: A Distributed SQL Database That ScalesJeff Shute, Radek Vingralek, Bart Samwel, Ben Handy, Chad Whipkey, Eric Rollins, Mircea Oancea, Kyle Littlefield, David Menestrina, Stephan Ellner, John Cieslewicz, Ian Rae, Traian Stancescu, Himani Apte<button>
+<button>1080 - 1091DB2 with BLU Acceleration: So Much More than Just a Column StoreVijayshankar Raman, Gopi Attaluri, Ronald Barber, Naresh Chainani, David Kalmuk, Vincent KulandaiSamy, Jens Leenstra, Sam Lightstone, Shaorong Liu, Guy M. Lohman, Tim Malkemus, Rene Mueller, Ippokratis Pandis, Berni Schiefer, David Sharpe, Richard Sidle, Adam Storm, Liping Zhang<button>
+<button>1092 - 1101A The Quantcast File SystemMichael Ovsiannikov, Silvius Rus, Damian Reeves, Paul Sutter, Sriram Rao, Jim Kelly<button>
+<button>1102 - 1113Adaptive and Big Data Scale Parallel Execution in OracleSrikanth Bellamkonda, Hua-Gang Li, Unmesh Jagtap, Yali Zhu, Vince Liang, Thierry Cruanes<button>
+<button>1114 - 1125WOO: A Scalable and Multi-tenant Platform for Continuous Knowledge Base SynthesisKedar Bellare, Carlo Curino, Ashwin Machanavajihala, Peter Mika, Mandar Rahurkar, Aamod Sane<button>
+<button>1126 - 1137Entity Extraction, Linking, Classification, and Tagging for Social Media: A Wikipedia-Based ApproachRohit Kumar, Digvijay S. Lamba, Nikesh Garera, Mitul Tiwari, Xiaoyong Chai, Sanjib Das, Sri Subramaniam, Anand Rajaraman, Venky Harinarayan, AnHai Doan<button>
+<button>1138 - 1149Overview of Turn Data Management Platform for Digital AdvertisingHazem Elmeleegy, Yinan Li, Yan Qi, Peter Wilmot, Mingxi Wu, Santanu Kolay, Ali Dasdan, Songting Chen<button>
+<button>1150 - 1161Unicorn: A System for Searching the Social GraphMichael Curtiss, Iain Becker, Tudor Bosman, Sergey Doroshenko, Lucian Grijincu, Tom Jackson, Sandhya Kunnatur, Soren Lassen, Philip Pronin, Sriram Sankar, Guanghao Shen, Gintaras Woss, Chao Yang, Ning Zhang<button>
+<button>1162 - 1163A New Service for Customer Care Based on the TrentoRise BigData PlatformSergio Ramazzina, Chiara L. Ballari, Daniela Somenzi<button>
+<button>1164 - 1165Exploiting the Diversity, Mass and Speed of Territorial Data by TELCO Operator for Better User ServicesFabrizio Antonelli, Antonino Casella, Cristiana Chitic, Roberto Larcher, Giovanni Torrisi<button>
+<button>1166 - 1167The Trento Big Data Platform for Public Administration and Large Companies: Use cases and OpportunitiesIvan Bedini, Benedikt Elser, Yannis Velegrakis<button>
+<button>1168 - 1169Designing Query Optimizers for Big Data Problems of The FutureNga Tran, Sreenath Bodagala, Jaimin Dave<button>
+<button>1170 - 1171How to maximize the value of big data with the open source SpagoBI suite through a comprehensive approachMonica Franceschini<button>
+<button>1172 - 1173Context-Aware Computing: Opportunities and Open IssuesEdward Y. Chang<button>
+<button>1174 - 1175Next Generation Data Analytics at IBM ResearchOktie Hassanzadeh, Anastasios Kementsietsidis, Benny Kimelfeld, Rajasekar Krishnamurthy, Fatma Ozcan, Ippokratis Pandis<button>
+<button>1176 - 1177Learning and Intelligent Optimization (LION): One Ring to Rule Them AllMauro Brunato, Roberto Battiti<button>
+<button>1178 - 1179Microsoft SQL Server's Integrated Database Approach for Modern Applications and HardwareDavid Lomet<button>
+<button>1180 - 1181Odyssey: A Multi-Store System for Evolutionary AnalyticsHakan Hacigumus, Jagan Sankaranarayanan, Junichi Tatemura, Jeff LeFevre, Neoklis Polyzotis<button>
+<button>1182 - 1183A global Entity Name System (ENS) for data ecosystemsPaolo Bouquet, Andrea Molinari<button>
+<button>1184 - 1185SAP HANA: The Evolution from a Modern Main-Memory Data Platform to an Enterprise Application PlatformVishal Sikka, Franz Farber, Anil Goel, Wolfgang Lehner<button>
+<button>1186 - 1187Keeping the TPC Relevant!Raghunath Nambiar, Meikel Poess<button>
+<button>1188 - 1189Big Data IntegrationXin Luna Dong, Divesh Srivastava<button>
+<button>1190 - 1191Just-in-time compilation for SQL query processingStratis D. Viglas<button>
+<button>1192 - 1193Toward Scalable Transaction ProcessingAnastasia Ailamaki, Ryan Johnson, Ippokratis Pandis, Pinar Tozun<button>
+<button>1194 - 1195Towards Database Virtualization for Database as a ServiceAaron J. Elmore, Carlo Curino, Divyakant Agrawal, Amr El Abbadi<button>
+<button>1196 - 1197Mobility and Social Networking: A Data Management PerspectiveMohamed F. Mokbel, Mohamed Sarwat<button>
+<button>1198 - 1201DesTeller: A System for Destination Prediction Based on Trajectories with Privacy ProtectionAndy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jianhui Yu, Yong Tang, Sapna Jain, Jingren Zhou<button>
+<button>1202 - 1205Senbazuru: A Prototype Spreadsheet Database Management SystemZhe Chen, Mike Cafarella, Jun Chen, Daniel Prevo, Junfeng Zhuang<button>
+<button>1206 - 1209ReqFlex: Fuzzy Queries for EveryoneGregory Smits, Olivier Pivert, Thomas Girault<button>
+<button>1210 - 1213Comprehensive and Interactive Temporal Query Processing with SAP HANAMartin Kaufmann, Panagiotis Vagenas, Peter Fischer, Donald Kossmann, Franz Farber<button>
+<button>1214 - 1217Functions Are Data Too (Defunctionalization for PL/SQL)Torsten Grust, Nils Schweinsberg, Alexander Ulrich<button>
+<button>1218 - 1221NADEEF: A Generalized Data Cleaning SystemAmr Ebaid, Ahmed Elmagarmid, Ihab Ilyas, Mourad Ouzzani, Jorge-Arnulfo Quiane-Ruiz, Nan Tang, Si Yin<button>
+<button>1222 - 1225QUEST: A Keyword Search System for Relational Data based on Semantic and Machine Learning TechniquesSonia Bergamaschi, Francesco Guerra, Matteo Interlandi, Raquel Trillo Lado, Yannis Velegrakis<button>
+<button>1226 - 1229GroupFinder: A New Approach to Top-K Point-of-Interest Group RetrievalKenneth B√∏gh, Anders Skovsgaard, Christian Jensen<button>
+<button>1230 - 1233A Demonstration of SpatialHadoop: An Efficient MapReduce Framework for Spatial DataAhmed Eldawy, Mohamed Mokbel<button>
+<button>1234 - 1237Aggregate Profile Clustering for Telco AnalyticsMehmet Ali Abbasoglu, Bugra Gedik, Hakan Ferhatosmanoglu<button>
+<button>1238 - 1241ROSeAnn: Reconciling Opinions of Semantic AnnotatorsLuying Chen, Stefano Ortona, Giorgio Orsi, Michael Benedikt<button>
+<button>1242 - 1245A RecDB in Action: Recommendation Made Easy in Relational DatabasesMohamed Sarwat, James Avery, Mohamed Mokbel<button>
+<button>1246 - 1249POIKILO: A Tool for Evaluating the Results of Diversification Models and AlgorithmsMarina Drosou, Evaggelia Pitoura<button>
+<button>1250 - 1253CrowdMiner: Mining association rules from the crowdYael Amsterdamer, Yael Grossman, Tova Milo, Pierre Senellart<button>
+<button>1254 - 1257TeRec: A Temporal Recommender System Over Tweet StreamChen Chen, Hongzhi Yin, Junjie Yao, Bin Cui<button>
+<button>1258 - 1261Graph Queries in a Next-Generation Datalog SystemAlexander Shkapsky, Kai Zeng, Carlo Zaniolo<button>
+<button>1262 - 1265iRoad: A Framework For Scalable Predictive Query Processing On Road NetworksAbdeltawab Hendawi, Jie Bao, Mohamed Mokbel<button>
+<button>1266 - 1269SkySuite: A Framework of Skyline-Join Operators for Static and Stream EnvironmentsMithila Nagendra, K. selcuk Candan<button>
+<button>1270 - 1273Parallel Graph Processing on Graphics Processors Made EasyJianlong Zhong, Bingsheng He<button>
+<button>1274 - 1277Mosquito: Another One Bites the Data Upload STreamStefan Richter, Jens Dittrich, Stefan Schuh, Tobias Frey<button>
+<button>1278 - 1281NoFTL: Database Systems on FTL-less Flash StorageSergey Hardock, Ilia Petrov, Robert Gottstein, Alejandro Buchmann<button>
+<button>1282 - 1285SmartMonitor: Using Smart Devices to Perform Structural Health MonitoringDimitrios Kotsakos, Panos Sakkos, Vana Kalogeraki, Dimitirios Gunopulos<button>
+<button>1286 - 1289Lazy ETL in Action: ETL Technology Dates Scientific DataYagiz Kar√¶z, Milena Ivanova, Ying Zhang, Stefan Manegold, Martin Kersten<button>
+<button>1290 - 1293EagleTree: Exploring the Design Space of SSD-Based AlgorithmsNiv Dayan, Martin Kj√¶r Svendsen, Matias B√∏rling, Philippe Bonnet, Luc Bouganim<button>
+<button>1294 - 1297EnviroMeter: A Platform for Querying Community-Sensed DataSaket Sathe, Arthur Oviedo, Dipanjan Chakraborty, Karl Aberer<button>
+<button>1298 - 1301Scolopax: Exploratory Analysis of Scientific DataAlper Okcan, Mirek Riedewald, Biswanath Panda, Daniel Fink<button>
+<button>1302 - 1305PROPOLIS: Provisioned Analysis of Data-Centric ProcessesDaniel Deutch, Yuval Moskovitch, Val Tannen<button>
+<button>1306 - 1309Feature Selection in Enterprise Analytics: A Demonstration using an R-based Data Analytics SystemPradap Konda, Arun Kumar, Christopher Re, Vaishnavi Sashikanth<button>
+<button>1310 - 1313Flexible Query Processor on FPGAsMohammadreza Najafi, Mohammad Sadoghi, Hans-Arno Jacobsen<button>
+<button>1314 - 1317MASTRO STUDIO: Managing Ontology-Based Data Access applicationsCristina Civili, Marco Console, Giuseppe De Giacomo, Domenico Lembo, Maurizio Lenzerini, Lorenzo Lepore , Riccardo Mancini, Antonella Poggi, Riccardo Rosati, Marco Ruzzi, Valerio Santarelli, Domenico Fabio Savo<button>
+<button>1318 - 1321PLASMA-HD: Probing the LAttice Structure and MAkeup of High-dimensional DataDavid Fuhry, Yang Zhang, Venu Satuluri, Arnab Nandi, Srinivasan Parthasarathy<button>
+<button>1322 - 1325A Demonstration of Iterative Parallel Array Processing in Support of Telescope Image AnalysisMatthew Moyers , Emad Soroush, Spencer Wallace, Simon Krughoff, Jake Vanderplas, Magdalena Balazinska, Andrew Connolly<button>
+<button>1326 - 1329EvenTweet: Online Localized Event Detection from TwitterHamed Abdelhaq, Christian Sengstock, Michael Gertz<button>
+<button>1330 - 1333IBminer: A Text Mining Tool for Constructing and Populating InfoBox Databases and Knowledge BasesHamid Mousavi, Shi Gao, Carlo Zaniolo<button>
+<button>1334 - 1337PAQO: A Preference-Aware Query Optimizer for PostgreSQLNicholas Farnan, Adam Lee, Panos Chyrsanthis, Ting Yu<button>
+<button>1338 - 1341eSkyline: Processing Skyline Queries over Encrypted DataSuvarna Bothe, Panagiotis Karras, Akrivi Vlachou<button>
+<button>1342 - 1345GestureQuery: A Multitouch Database Query InterfaceLilong Jiang, Michael Mandel, Arnab Nandi<button>
+<button>1346 - 1349Mining and Linking Patterns across Live Data Streams and Stream ArchivesDi Yang, Kaiyu Zhao, Maryam Hasan, Hanyuan Lu, Elke Rundensteiner, Matthew Ward<button>
+<button>1350 - 1353PhotoStand: A Map Query Interface for a Database of News PhotosHanan Samet, Marco Adelfio, Brenden Fruin, Michael Lieberman, Jagan Sankaranarayanan<button>
+<button>1354 - 1357Hone: "Scaling Down" Hadoop on Shared-Memory SystemsK. Ashwin Kumar, Jonathan Gluck, Amol Deshpande, Jimmy Lin<button>
+<button>1358 - 1361Ringtail: A Generalized Nowcasting SystemDolan Antenucci, Erdong Li, Shaobo Liu, Bochun Zhang, Mike Cafarella, Christopher Re<button>
+<button>1362 - 1365IPS: An Interactive Package Configuration System for Trip PlanningMin Xie, Laks V. S. Lakshmanan, Peter Wood<button>
+<button>1366 - 1369R2-D2: a System to Support Probabilistic Path Prediction in Dynamic Environments via "Semi-Lazy" LearningJingbo Zhou, Anthony Tung , Wei Wu, Wee Siong Ng<button>
+<button>1370 - 1373REEF: Retainable Evaluator Execution FrameworkByung-Gon Chun, Tyson Condie, Carlo Curino, Raghu Ramakrishnan, Russell Sears, Markus Weimer<button>
+<button>1374 - 1377OmniDB: Towards Portable and Efficient Query Processing on Parallel CPU/GPU ArchitecturesShuhao Zhang, Jiong He, Bingsheng He, Mian Lu<button>
+<button>1378 - 1381Complete Approximations of Incomplete QueriesOgnjen Savkovic, Paramita Mirza, Alex Tomasi, Werner Nutt<button>
+<button>1382 - 1385User Analytics with UbeOne: Insights into Web PrintingGeorgia Koutrika, Qian Lin, Jerry Liu<button>
+<button>1386 - 1389DiAl: Distributed Streaming Analytics Anywhere, AnytimeIvo Santos, Marcel Tilly, Badrish Chandramouli, Jonathan Goldstein<button>
+<button>1390 - 1391Big and Useful: What's in the Data for Me?Rada Chirkova, Jun Yang<button>
+<button>1392 - 1397Universal Indexing of Arbitrary Similarity ModelsTomas Bartos<button>
+<button>1398 - 1403Why it is time for a HyPE: A Hybrid Query Processing Engine for Efficient GPU Coprocessing in DBMSSebastian Bress<button>
+<button>1404 - 1409Database Support for Unstructured MeshesAlireza Rezaei Mahdiraji<button>
+<button>1410 - 1415Domain Specific Multi-stage Query Language for Medical Document RepositoriesAastha Madaan<button>
+<button>1416 - 1421Realtime Analysis of Information Diffusion in Social MediaIo Taxidou<button>
+<button>1422 - 1427Mining Frequent Patterns with Differential PrivacyLuca Bonomi<button>
+<button>1428 - 1433Automatic ontology-based User Profile Learning from heterogeneous Web Resources in a Big Data ContextAnett Hoppe<button>
+<button>1434 - 1439Scalable Transactions across Heterogeneous NoSQL Key-Value Data StoresAkon Dey<button>
+<button>1440 - 1443Getting Unique Solution in Data ExchangeNhung Ngo<button>
+<button>1444 - 1449Storing and Processing Temporal Data in a Main Memory Column StoreMartin Kaufmann<button>
+<button>1450 - 1455Efficiency and Security in Similarity Cloud ServicesStepan Kozak<button>
+<button>1456 - 1461Fast Cartography for Data ExplorersThibault Sellam<button>
+<button>1462 - 1473When Speed Has a Price: Fast Information Extraction Using Approximate AlgorithmsGoncalo Simoes, Helena Galhardas, Luis Gravano<button>
+<button>1474 - 1485Design and Evaluation of Storage Organizations for Read-Optimized Main Memory DatabasesCraig Chasseur, Jignesh M. Patel<button>
+<button>1486 - 1497Aggregating Semantic AnnotatorsLuying Chen, Stefano Ortona, Giorgio Orsi, Michael Benedikt<button>
+<button>1498 - 1509Discovering Denial ConstraintsXu Chu, Ihab F. Ilyas, Paolo Papotti<button>
+<button>1510 - 1521Diversified Top-k Graph Pattern MatchingWenfei Fan, Xin Wang, Yinghui Wu<button>
+<button>1522 - 1533Bitlist: New Full-text Index for Low Space Cost and Efficient Keyword SearchWeixiong Rao, Lei Chen, Pan Hui, Sasu Tarkoma<button>
+<button>1534 - 1545RCSI: Scalable similarity search in thousand(s) of genomesSebastian Wandelt, Johannes Starlinger, Marc Bux, Ulf Leser<button>
+<button>1546 - 1557Approximate MaxRS in Spatial DatabasesYufei Tao, Xiaocheng Hu, Dong-Wan Choi, Chin-Wan Chung<button>
+<button>1558 - 1569Multi-Tuple Deletion Propagation: Approximations and ComplexityBenny Kimelfeld, Jan Vondrak, David P. Woodruff<button>
+<button>1570 - 1581Supporting Distributed Feed-Following Apps over Edge DevicesBadrish Chandramouli, Suman Nath, Wenchao Zhou<button>
+<button>1582 - 1593Rank Discovery From Web DatabasesSaravanan Thirumuruganathan, Nan Zhang, Gautam Das<button>
+<button>1594 - 1605SPARSI: Partitioning Sensitive Data amongst Multiple AdversariesTheodoros Rekatsinas, Amol Deshpande, Ashwin Machanavajjhala<button>
+<button>1606 - 1617Scalable Column Concept Determination for Web Tables Using Large Knowledge BasesDong Deng, Yu Jiang, Guoliang Li, Jian Li, Cong Yu<button>
+<button>1618 - 1629Top-K Structural Diversity Search in Large NetworksXin Huang, Hong Cheng, Rong-Hua Li, Lu Qin, Jeffrey Xu Yu<button>
+<button>1630 - 1641Synthetising Changes in XML Documents as PULsFederico Cavalieri, Alessandro Solimando, Giovanna Guerrini<button>
+<button>1642 - 1653Probabilistic Query Rewriting for Efficient and Effective Keyword Search on Graph DataLei Zhang, Thanh Tran, Achim Rettinger<button>
+<button>1654 - 1665QuEval: Beyond high-dimensional indexing a la carteMartin Sch√§ler, Alexander Grebhahn, Reimar Schr√∂ter, Sandro Schulze, Veit K√∂ppen, Gunter Saake<button>
+<button>1666 - 1677Discovering Longest-lasting Correlation in Sequence DatabasesYuhong Li, Leong Hou U, Man Lung Yiu, Zhiguo Gong<button>
+<button>1678 - 1689PREDIcT: Towards Predicting the Runtime of Large Scale Iterative AnalyticsAdrian Daniel Popescu, Andrey Balmin, Vuk Ercegovac, Anastasia Ailamaki<button>
+<button>1690 - 1701On the Embeddability of Random Walk DistancesXiaohan Zhao, Adelbert Chang, Atish Das Sarma, Haitao Zheng, Ben Y. Zhao<button>
+<button>1702 - 1713Instant Loading for Main Memory DatabasesTobias M√ºhlbauer, Wolf R√∂diger, Robert Seilbeck, Angelika Reiser, Alfons Kemper, Thomas Neumann<button>
+<button>1714 - 1725Adaptive Range Filters for Cold Data: Avoiding Trips to SiberiaKarolina Alexiou, Donald Kossmann, Per-Ake Larson<button>
+<button>1726 - 1737Scalable Progressive Analytics on Big Data in the CloudBadrish Chandramouli, Jonathan Goldstein, Abdul Quamar<button>
+<button>1738 - 1749Scalable XML Query Processing using Parallel Pushdown TransducersPeter Ogden, David Thomas, Peter Pietzuch<button>
+<button>1750 - 1761Understanding Insights into the Basic Structure and Essential Issues of Table Placement Methods in ClustersYin Huai, Siyuan Ma, Rubao Lee, Owen O‚ÄôMalley, Xiaodong Zhang<button>
+<button>1762 - 1773A Probabilistic Optimization Framework for the Empty-Answer ProblemDavide Mottin, Alice Marascu, Senjuti Basu Roy, Gautam Das, Themis Palpanas, Yannis Velegrakis<button>
+<button>1774 - 1785Summarizing Answer Graphs Induced by Keyword QueriesYinghui Wu, Shengqi Yang, Mudhakar Srivatsa, Arun Iyengar, Xifeng Yan<button>
+<button>1786 - 1797Supporting Keyword Search in Product Database: A Probabilistic ApproachHuizhong Duan, ChengXiang Zhai, Jinxing Cheng, Rohit Kumar<button>
+<button>1798 - 1809A Sampling Algebra for Aggregate EstimationSupriya Nirkhiwale, Alin Dobra, Christopher Jermaine<button>
+<button>1810 - 1821A Temporal-Probabilistic Database Model for Information ExtractionMaximilian Dylla, Iris Miliaraki, Martin Theobald<button>
+<button>1822 - 1833Counter Strike: Generic Top-Down Join Enumeration for HypergraphsPit Fender, Guido Moerkotte<button>
+<button>1834 - 1845Efficient Bulk Updates on Multiversion B-treesDaniar Achakeev, Bernhard Seeger<button>
+<button>1846 - 1857Query-Driven Approach to Entity ResolutionHotham Altwaijry, Dmitri V. Kalashnikov, Sharad Mehrotra<button>
+<button>1858 - 1869Expressiveness and Complexity of Order DependenciesJaroslaw Szlichta, Parke Godfrey, Jarek Gryz, Calisto Zuzarte<button>
+<button>1870 - 1881Counting and Sampling Triangles from a Graph StreamA. Pavan, Kanat Tangwongsan, Srikanta Tirthapura, Kun-Lung Wu<button>
+<button>1882 - 1893An Experimental Analysis of Iterated Spatial Joins in Main MemoryBenjamin Sowell, Marcos Vaz Salles, Tuan Cao, Alan Demers, Johannes Gehrke<button>
+<button>1894 - 1905Scaling Queries over Big RDF Graphs with Semantic Hash PartitioningKisung Lee, Ling Liu<button>
+<button>1906 - 1917Distributed SociaLite: A Datalog-Based Language for Large-Scale Graph AnalysisJiwon Seo, Jongsoo Park, Jaeho Shin, Monica S. Lam<button>
+<button>1918 - 1929Horton+: A Distributed System for Processing Declarative Reachability Queries over Partitioned GraphsMohamed Sarwat, Sameh Elnikety, Yuxiong He, Mohamed F. Mokbel<button>
+<button>1930 - 1941Streaming Similarity Search over one Billion Tweets using Parallel Locality-Sensitive HashingNarayanan Sundaram, Aizana Turmukhametova, Nadathur Satish, Todd Mostak, Piotr Indyk, Samuel Madden, Pradeep Dubey<button>
+<button>1942 - 1953Anti-Caching: A New Approach to Database Management System ArchitectureJustin DeBrabant, Andrew Pavlo, Stephen Tu, Michael Stonebraker, Stan Zdonik<button>
+<button>1954 - 1965Understanding Hierarchical Methods for Differentially Private HistogramsWahbeh Qardaji, Weining Yang, Ninghui Li<button>
+<button>1966 - 1977Towards Social Data Platform: Automatic Topic-focused Monitor for Twitter StreamRui Li, Shengjie Wang, Kevin Chen-Chuan Chang<button>
+<button>1978 - 1989Simple, Fast, and Scalable Reachability OracleRuoming Jin, Guan Wang<button>
+<button>1990 - 2001Aggregation and Ordering in Factorised DatabasesNurzhan Bakibayev, Tomas Kocisky, Dan Olteanu, Jakub Zavodny<button>
+<button>2002 - 2013Parallel Computation of Skyline and Reverse Skyline Queries Using MapReduceYoonjae Park, Jun-Ki Min, Kyuseok Shim<button>
+<button>2014 - 2025Fast Iterative Graph Computation with Block UpdatesWenlei Xie, Guozhang Wang, David Bindel, Alan Demers, Johannes Gehrke<button>
+
+----- WebWalker -----
+Memory:
+-The editors of Volume 6 of the Proceedings of the VLDB Endowment are Michael Böhlen and Christoph Koch. They became new trustees of the VLDB Endowment from 2018 to 2024.
+"}
+
+----- WebWalker -----
+Final Answer: The editors of Volume 6 of the Proceedings of the VLDB Endowment who became new trustees of the VLDB Endowment from 2018 to 2024 are Michael Böhlen and Christoph Koch.

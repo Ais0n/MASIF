@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0555_9afb162dfdf0",
+  "source_index": 555,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which country did Yili take students to in 2019 to cultivate the future of China's ice and snow sports, and what award did they win at the IDF Dairy Innovation Awards 2024?",
+  "prompt": "Which country did Yili take students to in 2019 to cultivate the future of China's ice and snow sports, and what award did they win at the IDF Dairy Innovation Awards 2024?",
+  "expected_answer": "Switzerland, Innovation Award in New Product Development – Human Nutrition",
+  "root_url": "https://www.yili.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.yili.com/en/sustainable/t98/1930",
+      "https://www.yili.com/en/news/company/5081"
+    ],
+    "golden_path": [
+      "root->English->View more->Olympic Academy",
+      "root->English->Previous：Yili Attends the IDF World Dairy Summit 2024, Winning IDF Dairy Innovation Awards"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 75.232,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0555_9afb162dfdf0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0555_9afb162dfdf0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

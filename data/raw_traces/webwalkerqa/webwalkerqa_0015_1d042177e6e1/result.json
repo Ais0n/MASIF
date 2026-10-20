@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0015_1d042177e6e1",
+  "source_index": 15,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which game by Duoyi Network won the 'Outstanding Mobile Game' award at the 2024 Golden Finger Awards, and when did the test for 'Wan Xian Zhu Lu' start?",
+  "prompt": "Which game by Duoyi Network won the 'Outstanding Mobile Game' award at the 2024 Golden Finger Awards, and when did the test for 'Wan Xian Zhu Lu' start?",
+  "expected_answer": "The game \"Dream World 3\" won the \"Outstanding Mobile Game\" award at the 2024 Golden Finger Awards. The test for \"Myth of Wanxian\" began on June 2, 2024, at 12:00.",
+  "root_url": "https://www.duoyi.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.duoyi.com/news/news_30902.shtm",
+      "https://www.duoyi.com/news/news_27230.shtm#sub-content"
+    ],
+    "golden_path": [
+      "root->更多->多益网络旗下产品荣获2024金手指奖两大奖项",
+      "root->多益网络旗下产品荣获2024金手指奖两大奖项->东方神话战略手游《万仙逐鹿》测试火热开启"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 364.767,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0015_1d042177e6e1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0015_1d042177e6e1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

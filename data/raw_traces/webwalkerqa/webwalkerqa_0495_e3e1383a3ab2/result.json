@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0495_e3e1383a3ab2",
+  "source_index": 495,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在《英雄联盟》中，派克和伊莉丝这两个英雄分别在什么地方施展他们的致命能力？",
+  "prompt": "在《英雄联盟》中，派克和伊莉丝这两个英雄分别在什么地方施展他们的致命能力？",
+  "expected_answer": "比尔吉沃特和诺克萨斯",
+  "root_url": "https://www.leagueoflegends.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.leagueoflegends.com/zh-tw/champions/pyke/",
+      "https://www.leagueoflegends.com/zh-tw/champions/elise/"
+    ],
+    "golden_path": [
+      "root->發掘更多英雄->派克",
+      "root->發掘更多英雄->伊莉絲"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在《英雄联盟》中，派克通常在丛林中活动，利用其伪装能力进行伏击；而伊莉丝则在诺克萨斯古都的地下邸宅中施展她的致命能力，通过蜘蛛形态和毒牙等技能对敌人造成伤害。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 4,
+  "duration_seconds": 62.45,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0495_e3e1383a3ab2/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0495_e3e1383a3ab2/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: ",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

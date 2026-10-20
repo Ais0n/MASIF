@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0014_c51884b50fea",
+  "source_index": 14,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "During the 2023 League of Legends World Championship, which charitable cause did Riot Games and AWS's 'Take the Drake for Water's Sake' campaign support, and what was the total amount of the Riot Games Social Impact Fund at that time?",
+  "prompt": "During the 2023 League of Legends World Championship, which charitable cause did Riot Games and AWS's 'Take the Drake for Water's Sake' campaign support, and what was the total amount of the Riot Games Social Impact Fund at that time?",
+  "expected_answer": "The funds raised supported providing 70,000 people with access to safe water or sanitation, and the Riot Games Social Impact Fund reached a total of $50 million.",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/news/worlds-2023-sustainability-aws",
+      "https://www.riotgames.com/en/news/50M-raised-riot-games-social-impact"
+    ],
+    "golden_path": [
+      "root->Social Impact->Planting Trees and Taking Drakes at Worlds 2023",
+      "root->Social Impact->Riot Games Social Impact Fund Crosses $50M Raised"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 71.353,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0014_c51884b50fea/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0014_c51884b50fea/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

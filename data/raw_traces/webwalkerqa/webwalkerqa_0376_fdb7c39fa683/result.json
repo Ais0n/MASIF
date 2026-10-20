@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0376_fdb7c39fa683",
+  "source_index": 376,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When will the 'The Performance Paradox' talk take place on December 7, 2024, and who is the speaker?",
+  "prompt": "When will the 'The Performance Paradox' talk take place on December 7, 2024, and who is the speaker?",
+  "expected_answer": "The talk 'The Performance Paradox' will be held from 3:35 p.m. to 3:45 p.m. on December 7, 2024. The speaker is Kara Hardin.",
+  "root_url": "https://www.hematology.org/meetings/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.hematology.org/meetings/annual-meeting/schedule-and-program/programs/ash-wellness-studio"
+    ],
+    "golden_path": [
+      "root->Schedule and Program->Programs->View ASH Wellness Studio Activities"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 6,
+  "duration_seconds": 89.757,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0376_fdb7c39fa683/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0376_fdb7c39fa683/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,872 @@
+----- user -----
+query:
+新疆大学范永开在2024年发表了几篇论文？
+official website:
+https://it.xju.edu.cn/
+Observation:website information:
+
+]( "计算机科学与技术学院")
+!
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+!
+!
+!
+!
+搜索
+学院要闻
+ ](
+ ](
+ ](
+ ](
+ ](
+学院要闻
+  * 2025.11.24
+  * 2025.11.17
+  * 2025.08.18
+  * 2025.05.28
+  * 2025.05.28
+通知公告
+            
+党建工作
+!
+2025-07-03
+!
+2025-06-16
+人才培养
+# 信息科学与工程学院本科专业人才培养目标达成评价实施办法
+信息科学与工程学院本科专业人才培养目标达成评价实施办法第一章 总则第一条 根据《教育部关于深化本科教育教学改革全面提高人才培养质量的意见》，为了深化信息科学与工程学院本科教育教学改革，推动高水平人才培养体系，推进学院各专业培养目标达成评价工作规范有序开展，提高人才培养质量，特制定本办法。第二章 责任机构与责任人第二条 学院成立培养目标达成评价工作组（以下简称工作组），负责组织培养目标达成评价工作的...
+ 2022.11.21
+# 通信工程2021版培养方案
+电子信息类（通信工程专业）人才培养方案学科门类：工学（08）专业类：电子信息类（0807） 通信工程专业（0807）一、培养目标本专业以马列主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观和习近平新时代中国特色社会主义思想为指导，坚持立德树人根本任务，培养适应国家发展战略、区域经济社会发展需求，德、智、体、美、劳全面发展，掌握现代通信系统、通信网络、信息传输系统等基本理论和系统实践等基础...
+ 2021.10.08
+# 电子信息工程2021版培养方案
+电子信息类（电子信息工程专业）人才培养方案学科门类：工学（08）专业类：电子信息类（0807） 电子信息工程专业（0807）一、培养目标本专业以马列主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观和习近平新时代中国特色社会主义思想为指导，坚持立德树人根本任务，培养适应国家发展战略、区域经济社会发展需求，德、智、体、美、劳全面发展，掌握信号的获取与处理、电子系统设计、计算机综合应用等基本...
+ 2021.10.08
+# 计算机学院-信息安全专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-网络空间安全专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-通信工程专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-计算机科学与技术专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-电子信息工程专业-2024版培养方案
+ 2025.02.19
+# 信息科学与工程学院本科专业人才培养目标合理性评价实施办法
+信息科学与工程学院本科专业人才培养目标合理性评价实施办法第一章 总则第一条 根据《教育部关于深化本科教育教学改革全面提高人才培养质量的意见》，为了深化信息科学与工程学院本科教育教学改革，推动高水平人才培养体系，推进学院各本科专业培养目标合理性评价工作规范有序开展，为专业培养目标修订提供依据，特制定本办法。第二章 责任机构与责任人第二条 学院成立培养目标合理性评价工作组（以下简称工作组），负责组织培...
+ 2022.11.28
+# 信息科学与工程学院本科专业人才培养目标达成评价实施办法
+信息科学与工程学院本科专业人才培养目标达成评价实施办法第一章 总则第一条 根据《教育部关于深化本科教育教学改革全面提高人才培养质量的意见》，为了深化信息科学与工程学院本科教育教学改革，推动高水平人才培养体系，推进学院各专业培养目标达成评价工作规范有序开展，提高人才培养质量，特制定本办法。第二章 责任机构与责任人第二条 学院成立培养目标达成评价工作组（以下简称工作组），负责组织培养目标达成评价工作的...
+ 2022.11.21
+# 通信工程2021版培养方案
+电子信息类（通信工程专业）人才培养方案学科门类：工学（08）专业类：电子信息类（0807） 通信工程专业（0807）一、培养目标本专业以马列主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观和习近平新时代中国特色社会主义思想为指导，坚持立德树人根本任务，培养适应国家发展战略、区域经济社会发展需求，德、智、体、美、劳全面发展，掌握现代通信系统、通信网络、信息传输系统等基本理论和系统实践等基础...
+ 2021.10.08
+# 电子信息工程2021版培养方案
+电子信息类（电子信息工程专业）人才培养方案学科门类：工学（08）专业类：电子信息类（0807） 电子信息工程专业（0807）一、培养目标本专业以马列主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观和习近平新时代中国特色社会主义思想为指导，坚持立德树人根本任务，培养适应国家发展战略、区域经济社会发展需求，德、智、体、美、劳全面发展，掌握信号的获取与处理、电子系统设计、计算机综合应用等基本...
+ 2021.10.08
+# 计算机学院-信息安全专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-网络空间安全专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-通信工程专业-2024版培养方案
+ 2025.02.19
+123
+科学研究
+  
+学生活动
+实践教学
+01 / 00
+招聘就业
+!
+  * # 23
+2026.03
+  * # 05
+2024.09
+  * # 10
+2023.07
+合作交流
+招纳人才
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+!
+新大官网
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+clickable button:
+
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+<button>教育部丝路多语言认知计算国际合作联合实验室揭牌仪式成功举办<button>
+<button>第七届中国模式识别与计算机视觉大会（PRCV 2024）在乌鲁木齐成功举办<button>
+<button>喜报！计算机科学与技术学院钱育蓉教授团队荣获2024年度新疆维吾尔自治区数字化科学技术进步奖一等奖<button>
+<button>更多<button>
+<button>新疆大学电子信息工程专业喜迎工程教育认证进校考查<button>
+<button>以认证促发展 以培训强准备 —新疆大学电子信息工程专业工程教育认证入校检查筹备工作暨专业教师培训<button>
+<button>“2025年全国《通信原理》教学及通信新技术研讨会”在新疆大学召开<button>
+<button>新疆大学计算机科学与技术学院2024-2025年度科研实践总结暨2025-2026年度科研实践启动会<button>
+<button>新疆大学计算机学子喜获华为ICT大赛2024-2025全球总决赛三等奖两项！<button>
+<button>更多<button>
+<button>212026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生考试复试成绩及拟录取名单递补公示（一志愿考生）<button>
+<button>152026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生考试复试成绩及拟录取名单递补公示（调剂二批考生）（二）<button>
+<button>152026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生考试复试成绩及拟录取名单递补公示（调剂二批考生）<button>
+<button>152026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生考试复试成绩及拟录取名单公示（调剂二批考生）<button>
+<button>142026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生考试进入复试考生名单（调剂2批考生）<button>
+<button>132026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生调剂公告（二）<button>
+<button>更多<button>
+<button>“党旗映天山”主题党日活动2——“党建红”邂逅“生态绿”<button>
+<button>计算机科学与技术学院党委开展 “党旗映天山”主题党日活动<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>更多<button>
+<button>182025.09丝路多语言认知计算国际合作联合实验室协同创新种子基金(开放课题)申请<button>
+<button>更多<button>
+<button>新疆大学计算机科学与技术学院（网络空间安全学院） 2026年科研助理岗位招聘公告<button>
+<button>2024年新疆维吾尔自治区重大科技专项科研助理招聘<button>
+<button>【科研助理招聘】新疆维吾尔自治区重点研发任务专项科研助理招聘（2）<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到范永开教授在2024年发表的论文数量。首先，我应该访问“科学研究”页面，然后查看是否有相关的论文列表或研究人员信息。
+
+Action: visit_page
+Action Input: {"button": "科学研究"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术学院")
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+科学研究
+                
+科学研究
+当前位置:  >> 
+  首页上页1下页尾页
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+<button>丝路多语言认知计算国际合作联合实验室协同创新种子基金(开放课题)申请丝路多语言认知计算国际合作联合实验室协同创新种子基金(开放课题)申请Application for Collaborative Innovation Seed Fund (Open Project) of Joint International Research Laboratory of Silk Road Multilingual Cognitive Computing丝路多语言认知计算国际合作联合实验室（以下简称为实验室）致力于重点解决“信息丝绸之路”及“网络空间安全”建设所需的关键技术。实验室建设为促进与“丝绸之路经济带”沿线国家的语言相...2025-09-18<button>
+
+----- WebWalker -----
+Thought: 在“科学研究”页面上没有直接找到范永开教授的论文信息。我需要访问“师资队伍”页面，以查找范永开教授的相关信息。
+
+Action: visit_page
+Action Input: {"button": "师资队伍"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术学院")
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+师资队伍
+            
+师资概况
+当前位置:  >>  >> 
+师资概况
+学院现有全国黄大年式教师团队1个，自治区教学团队1个、自治区创新团队3个。现有教职员工137人，教授22人，副教授41人。其中，中国工程院院士1人，国家杰出青年科学基金获得者1人，长江学者讲座教授1人，国家百千万人才1人，教育部新世纪优秀人才计划2人，自治区天池特聘教授4人、天山英才科技创新领军人才3人、天池英才创新领军人才1人，天池英才青年博士4人，自治区教学名师3人、教学能手6人。
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+
+----- WebWalker -----
+Thought: 在“师资概况”页面上没有直接找到范永开教授的详细信息。我需要访问“教师名录”页面，以查找范永开教授的相关信息。
+
+Action: visit_page
+Action Input: {"button": "教师名录"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 页面未找到，我需要返回上一页并尝试其他方法。可能“教师名录”页面不存在或无法访问，我将回到“师资队伍”页面，并尝试查找范永开教授的其他信息。
+
+Action: visit_page
+Action Input: {"button": "师资队伍"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 页面未找到，可能“师资队伍”页面存在访问问题。我需要尝试其他方法，比如直接搜索范永开教授的姓名，或者查看是否有其他相关页面包含他的信息。
+
+Action: visit_page
+Action Input: {"button": "科学研究"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术学院")
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+科学研究
+                
+科学研究
+当前位置:  >> 
+  首页上页1下页尾页
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+<button>丝路多语言认知计算国际合作联合实验室协同创新种子基金(开放课题)申请丝路多语言认知计算国际合作联合实验室协同创新种子基金(开放课题)申请Application for Collaborative Innovation Seed Fund (Open Project) of Joint International Research Laboratory of Silk Road Multilingual Cognitive Computing丝路多语言认知计算国际合作联合实验室（以下简称为实验室）致力于重点解决“信息丝绸之路”及“网络空间安全”建设所需的关键技术。实验室建设为促进与“丝绸之路经济带”沿线国家的语言相...2025-09-18<button>
+
+----- WebWalker -----
+Thought: 在“科学研究”页面上没有找到范永开教授的论文信息。我需要尝试访问“科研团队”页面，以查找是否有相关团队成员的信息。
+
+Action: visit_page
+Action Input: {"button": "科研团队"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术学院")
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+科学研究
+                
+科研团队
+当前位置:  >>  >> 
+新疆大学计算机科学与技术学院研究中心
+计算机科学与技术学院共有研究团队7个，包括（排名不分先后）：
+（一）丝路语言智能与先进计算创新中心
+（二）多模态信息感知与智能处理研究中心
+（三）信号检测与分析技术研究中心
+（四）空天地大数据智能分析与应用技术研究中心
+（五）认知计算与智能系统研究中心
+（六）场景认知计算和智能系统研究中心
+（七）天山数垒网络空间安全研究中心
+（一）丝路语言智能与先进计算创新中心
+主任：吾守尔·斯拉木 教授/博导
+副主任：黄浩 教授/博导
+核心成员：  
+| **姓名**  | **职称/****职务**  | **研究方向**  |  
+| --- | --- | --- |  
+| 吐尔地·托合提  | 教授  | 多模态自然语言处理及大模型  |  
+| 廖媛媛  | 教授/副系主任  | 自然语言处理及情感计算  |  
+| 胡英  | 副教授/副系主任  | 语音与音频信号处理  |  
+| 黄志华  | 副教授  | 语音与音频信号处理  |  
+| 努尔麦麦提·尤鲁瓦斯  | 副教授  | 自然语言与语音处理技术  |  
+| 木合亚提·尼亚孜别克  | 副教授  | 自然语言处理技术  |  
+| 于清  | 副教授  | 自然语言与语音处理技术  |  
+| 李延冰  | 讲师  | 自然语言与语音处理技术  |  
+| 王凯  | 引进博士  | 多模态大数据智能分析  |  
+中心简介
+丝路语言智能与先进计算创新中心依托新疆大学计算机一流学科优势，以及丝路多语言认知计算国际联合实验室、新疆多语种信息技术实验室，聚焦跨语言跨媒体机器翻译、语音识别/合成/翻译、多语言知识库构建与迁移技术研究，研发多语言互译平台、知识图谱服务系统、智能人机交互系统等，支撑互联网搜索等智能应用。组建了由4名教授、5名副教授及多名引进博士为核心的跨学科团队。发表高水平论文300多篇，获得国家科技进步奖二等奖2项、三等奖1项，自治区科技进步奖、中国人工智能学会一等奖等省部级科研奖励十余项，制定国际标准5项，国家标准二十余项。未来将继续研发多语言智能技术，为“一带一路”语言互通与智能服务提供关键技术支撑。
+!
+  
+（二）多模态信息感知与智能处理研究中心
+主任：汪烈军 教授/副校长
+副主任：程述立 副教授/信安系副主任
+核心成员：  
+| **姓名**  | **职称/****职务**  | **研究方向**  |  
+| --- | --- | --- |  
+| 陶晓明  | 教授/院长  | 语义编码、多媒体通信、计算通信  |  
+| 苏雷  | 副教授  | 智能感知与决策  |  
+| 颜丰  | 副教授  | 能源时序智能分析与多模态协同预测  |  
+| 袁二东  | 副教授  | 智能优化调度与医学图像处理  |  
+| 丁东风  | 讲师  | 医学图像分割  |  
+| 杜安钰  | 讲师  | 多媒体信息处理  |  
+| 王浩  | 讲师  | 多模态信息处理  |  
+| 祁雷  | 实验师  | AI应用技术，高性能计算技术，物联网技术  |  
+| 衣克买提  | 引进博士  | 自然语言处理、大模型应用和时空数据挖掘  |  
+| 谷博文  | 引进博士  | 新一代无线通信技术  |  
+| 谷体泉  | 引进博士  | 自然语言处理  |  
+中心简介
+多模态信息感知与智能处理研究中心依托新疆大学计算机一流学科优势，聚焦多媒体分析应用、跨模态数据理解等领域开展创新研究。中心以推动产业智能化升级，促进信息技术与社会经济的深度融合为使命，组建了由2名教授、4名副教授及多名引进博士组成的跨学科精英团队。近年来，中心在智能体感知决策、跨模态智能检索、低功耗智能通信与感知等方面取得突破性进展，发表高水平论文200余篇，获批专利20余项。中心与中国电信、中国移动等国内通信企业建立了紧密的产学研合作关系，共同探索了多模态信息产业应用路径。未来将重点开展实体人工智能系统、人机协同与群体智能等研究，致力于推动AI技术创新与产业升级，赋能新疆多模态信息产业发展。
+!
+  
+（三）信号检测与分析技术研究中心
+主任：贾振红 教授/校务委员会副主任
+副主任：吕小毅 教授/科技处处长
+核心成员：  
+| **姓名**  | **职称/****职务**  | **研究方向**  |  
+| --- | --- | --- |  
+| 莫家庆  | 教授  | 传感器信号检测  |  
+| 王佳佳  | 副教授/副系主任  | 传感器信号检测、视觉信息感知  |  
+| 周刚  | 副教授  | 视觉信息感知与处理  |  
+| 石飞  | 副教授  | 传感器信号检测、视觉信息感知  |  
+| 玛依热·依布拉音  | 副教授  | 模式识别、图像处理  |  
+| 李秀红  | 副教授  | 视觉信息感知与处理  |  
+| 宋森森  | 副教授  | 视觉信息感知与处理  |  
+| 黄晓辉  | 副教授  | 传感器信号检测  |  
+| 秦艳君  | 副教授  | 人因采集与多模态信号处理  |  
+| 李敏  | 引进博士  | 视觉信息感知与处理  |  
+中心简介
+信号检测与分析技术研究中心依托计算机科学与技术学院计算机科学与技术、信息与通信工程学科优势，聚焦传感器信号检测、视觉信息感知与处理等领域开展创新研究。中心以推动社会稳定与治理智能化升级为使命，组建了由3名教授、8名副教授及引进博士组成的跨学科团队。近年来，中心在基于视觉信息感知的传感器信号检测等方面取得突破性进展，发表高水平论文120篇，获授权国家发明专利40余项，与新疆移动公司、新疆质检院等单位建立了产学研深度合作。未来将重点开展面向基于信息技术的社会安全研究，为新疆的社会发展和稳定做出贡献。
+!
+  
+（四）空天地大数据智能分析与应用技术研究中心
+主任：钱育蓉 教授/院党委书记
+副主任：石刚 教授/系主任
+核心成员：  
+| **姓名**  | **职称/****职务**  | **研究方向**  |  
+| --- | --- | --- |  
+| 赵楷  | 副教授  | 大数据分析与治理  |  
+| 杨焱青  | 副教授  | 大数据分析与信息安全  |  
+| 张先武  | 副教授  | 遥感大数据分析与治理  |  
+| 王佳  | 副教授  | 多模态大数据智能分析  |  
+| 胡萍  | 引进博士  | 多模态大数据智能分析  |  
+| 王涛  | 引进博士  | 多模态大数据智能分析  |  
+| 吴俊杭  | 引进博士  | 多模态大数据智能分析  |  
+中心简介
+空天地大数据智能分析与应用技术研究中心依托新疆大学计算机一流学科优势，聚焦大数据智能分析、空天地一体化感知领域创新研究。通过数据治理与智能分析技术构建行业数字基座，助力新疆矿产、油气、农业等产业智能化升级。团队由2名教授、4名副教授及3名引进博士组成跨学科核心梯队。在人工智能、多模态数据融合领域发表论文170篇，含ESI高被引论文1篇；获发明专利4项、软著60余项；与新疆水科院等机构开展产学研合作。未来将重点开展多模态数据对齐融合、遥感图像智能处理、知识图谱构建、视觉语言大模型以及数据加密技术研究，致力于构建智慧农业决策系统以提升干旱区资源利用效率，为乡村振兴与全球可持续发展提供关键技术支撑。
+!
+  
+（五）认知计算与智能系统研究中心
+主任：艾山·吾买尔 教授/副院长
+副主任：秦继伟 教授/双一流办主任
+核心成员：  
+| **姓名**  | **职称/****职务**  | **研究方向**  |  
+| --- | --- | --- |  
+| 瓦依提·阿不力孜  | 副教授  | 自然语言处理  |  
+| 张金明  | 副教授  | 计算机3D视觉  |  
+| 郑炅  | 副教授  | 软件工程  |  
+| 郑盼盼  | 副教授  | 异常检测  |  
+| 余银峰  | 副教授  | 视听导航、声音处理、强化学习  |  
+| 买合木提·买买提  | 高级实验师  | 自然语言处理  |  
+| 早克热·卡德尔  | 高级实验师  | 自然语言处理  |  
+| 蒋天夫  | 讲师  | 计算机视觉  |  
+| 常忠雪  | 讲师  | 自然语言处理  |  
+中心简介
+认知计算与智能系统研究中心依托于教育部丝路多语言认知计算国际合作联合实验室、鹏城实验室新疆网点、新疆多模态智能处理与信息安全工程技术研究中心等科研平台，以数字化、智能化服务铸牢中华民族共同体意识、中华优秀传统文化传播为宗旨，聚焦基于大语言模型的人机交互、语言能力评测等方面开展研究。该中心组建了由2名教授、5名副教授、2名高级实验师等组成的研究队伍。近年来，该研究中心发表了30多篇高水平论文，获得3项国家自然基金项目、550万元的横向科研项目，研发的“石榴普通话”、“石榴国通语智能学习系统”、“国家通用语言应用能力评估系统”得到推广应用，正在进行面向中亚国家的中文学习平台的研发工作。
+!
+  
+（六）场景认知计算和智能系统研究中心
+主任：库尔班·吾布力 教授
+副主任：阿力木江·艾沙 教授/教师工作部副部长
+核心成员：  
+| **姓名**  | **职称/****职务**  | **研究方向**  |  
+| --- | --- | --- |  
+| 刘磊  | 副教授  | 模式识别、图像处理  |  
+| 哈妮克孜·伊拉洪  | 副教授  | 视觉信息处理、文本信息处理  |  
+| 王羡慧  | 副教授  | 人工智能、信息检索  |  
+| 刘海英  | 引进博士  | 生物特征识别  |  
+中心简介
+场景认知计算与智能系统研究中心依托新疆大学计算机一流学科优势，聚焦场景建模与数字文化领域创新研究，通过环境感知、三维重建等技术构建数字基座，支撑新疆文旅、矿产、物流等产业智能化升级。中心由2名教授、3名副教授及多名引进博士组成跨学科核心梯队。在人工智能、多文种文档处理领域发表论文210余篇（SCI/EI 145篇，总IF 360+），含ESI高被引论文1篇；获发明专利6项、软著90余项；与联想（上海）等企业建立产学研合作。未来将重点开展生物特征识别、场景建模与理解、2D/3D目标跟踪与识别、多文种文档图像处理、文化遗产数字化、视觉语言大模型的研究，致力于构建数字文化系统以提升我区文旅产业的效率，为文化润疆和乡村振兴提供关键技术支撑。
+!
+  
+（七）天山数垒网络空间安全研究中心
+主任：汪烈军 教授/副校长
+副主任：郭治卿 副教授/学术副院长
+核心成员：  
+| **姓名**  | **职称/****职务**  | **研究方向**  |  
+| --- | --- | --- |  
+| 杨文忠  | 教授/副院长  | 信息内容安全  |  
+| 刘淑娴  | 教授/信安系主任  | 舆情分析、区块链  |  
+| 黄浩翔  | 副教授/信安系副主任  | 系统安全、可信计算  |  
+| 冯龛  | 讲师  | 系统开发  |  
+| 姜少臣  | 讲师  | 系统开发  |  
+| 田娇  | 引进博士  | 数据安全、联邦学习  |  
+| 殷亚博  | 引进博士  | 边缘计算、卫星网络安全  |  
+中心简介
+天山数垒网络空间安全研究中心依托新疆大学计算机一流学科优势，聚焦人工智能安全、数据安全与隐私保护、智能网络攻防等领域开展创新研究。中心以“构建数字时代安全堡垒”为使命，组建了由3名教授、2名副教授及多名青年博士和系统开发专家构成的安全研究团队。中心在舆情分析、数字媒体取证、可信计算、区块链数据存证、物联网轻量加密算法等领域取得突破，发表CCF-A类论文在内的高水平论文30余篇，获批专利12项，联合华为等机构建立产学研基地，成果应用于金融、医疗等行业安全防护。未来将重点研发AI驱动安全监测技术，深化“云-边-端”协同防护体系，培养实战型网络安全人才，为数字经济高质量发展提供技术保障，助力构建可信网络空间。
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+
+----- WebWalker -----
+Thought: 在“科研团队”页面上没有找到范永开教授的信息。我需要尝试访问“科学研究成果”页面，以查找是否有相关论文信息。
+
+Action: visit_page
+Action Input: {"button": "科学研究成果"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 页面未找到，我需要返回上一页并尝试其他方法。可能“科学研究成果”页面不存在或无法访问，我将回到“科学研究”页面，并尝试查找范永开教授的其他信息。
+
+Action: visit_page
+Action Input: {"button": "科学研究"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术学院")
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+科学研究
+                
+科学研究
+当前位置:  >> 
+  首页上页1下页尾页
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+<button>丝路多语言认知计算国际合作联合实验室协同创新种子基金(开放课题)申请丝路多语言认知计算国际合作联合实验室协同创新种子基金(开放课题)申请Application for Collaborative Innovation Seed Fund (Open Project) of Joint International Research Laboratory of Silk Road Multilingual Cognitive Computing丝路多语言认知计算国际合作联合实验室（以下简称为实验室）致力于重点解决“信息丝绸之路”及“网络空间安全”建设所需的关键技术。实验室建设为促进与“丝绸之路经济带”沿线国家的语言相...2025-09-18<button>

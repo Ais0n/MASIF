@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0094_80154cd16ef8",
+  "source_index": 94,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the dates for the IETF 122 meeting in Bangkok, and what technology will be mandatory for remote participants to use during these sessions?",
+  "prompt": "What are the dates for the IETF 122 meeting in Bangkok, and what technology will be mandatory for remote participants to use during these sessions?",
+  "expected_answer": "15-21 March 2025, Meetecho",
+  "root_url": "https://www.ietf.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ietf.org/blog/ietf122-registration-open/",
+      "https://www.ietf.org/meeting/technology/"
+    ],
+    "golden_path": [
+      "root->WIMSE Working Group: Serious business for cloud computing->NextIETF 122 Bangkok registration open",
+      "root->Meeting network and technology"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The IETF 122 meeting took place from March 15 to 21, 2025, in Bangkok, Thailand. However, the specific technology that will be mandatory for remote participants to use during these sessions is not provided in the accumulated information.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 20.536,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0094_80154cd16ef8/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0094_80154cd16ef8/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict\":",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

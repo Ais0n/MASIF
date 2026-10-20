@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0153_370c47ece7db",
+  "source_index": 153,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年11月7日至2024年11月10日期间索尼在进博会上发布了哪个可持续发展相关的报告？",
+  "prompt": "在2024年11月7日至2024年11月10日期间索尼在进博会上发布了哪个可持续发展相关的报告？",
+  "expected_answer": "《2024索尼中国可持续发展报告》",
+  "root_url": "https://www.sony.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/corporate/2024/241107-1.html.html"
+    ],
+    "golden_path": [
+      "root->科技赋能创意和可持续 索尼携多元创新成果亮相2024中国国际进口博览…"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "在2024年11月7日至2024年11月10日期间，索尼在进博会上发布了《索尼中国可持续发展报告2024》。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer contains the same factual report name as the expected answer, with the year placed at the end instead of the beginning, along with extra context.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer contains the same factual report name as the expected answer, with the year placed at the end instead of the beginning, along with extra context.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 30.28,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0153_370c47ece7db/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0153_370c47ece7db/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

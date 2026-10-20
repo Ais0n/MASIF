@@ -1,0 +1,606 @@
+----- user -----
+query:
+谁是在复旦大学江湾校区二号交叉学科楼 A2023 室，有联系电话为86-21-51355385的副教授，并且拥有清华大学博士学位？
+official website:
+https://cs.fudan.edu.cn/
+Observation:website information:
+
+]( "返回复旦大学计算与智能创新学院首页")
+      
+### 导航
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+  * ](
+  * ](
+  * ](
+  * ](
+  * ](
+###  新闻速递
+  13
+2026.03
+  12
+2026.03
+  11
+2026.03
+  10
+2026.03
+  09
+2026.03
+  12
+2026.03
+###  重要通知
+  * 18
+2026.04
+  * 15
+2026.04
+  * 27
+2026.03
+###  讲座信息
+  时间：2026年1月22日上午9:30
+地点：江湾校区二号交叉学科楼E1023
+主讲人：Dr. Qian Zhang
+  时间：2025年12月9日14:00-16:00
+地点：复旦大学邯郸校区逸夫楼108室
+主讲人：“开源智算”兴趣小组
+  时间：6 月 13 日14:00-16:00
+地点：交叉二号楼 E1006
+主讲人：张晓东
+  时间：2024年11月19日14:00-5:00
+地点：复旦大学江湾校区叉二楼A1003室
+主讲人：李宗鹏 清华大学长聘教授
+###  招聘信息
+  * 012025.12
+  11.28
+###  采购公告
+  * ](
+  * ](
+  * ](
+  * ](
+地址：上海市淞沪路2005号
+Tell：+86-21-31242259
+Email：cs_school@fudan.edu.cn
+!
+  * !
+版权所有 © 复旦大学计算与智能创新学院
+!
+
+
+clickable button:
+
+<button>学生内部网<button>
+<button>教师内部网<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院环境<button>
+<button>组织架构<button>
+<button>学院党政领导<button>
+<button>党委分工<button>
+<button>行政分工<button>
+<button>学术委员会<button>
+<button>学位评定分委员会<button>
+<button>教学指导委员会<button>
+<button>课程思政与教材建设领导小组<button>
+<button>高级职务评审委员会<button>
+<button>人才工作小组<button>
+<button>人事工作小组<button>
+<button>岗位设置与聘用、聘任工作小组<button>
+<button>学科建设领导小组<button>
+<button>博士后流动站专家组<button>
+<button>计算机科学与技术流动站<button>
+<button>网络空间安全流动站<button>
+<button>教工之家<button>
+<button>职能部门<button>
+<button>历史沿革<button>
+<button>教职工名录（按职称）<button>
+<button>教职工名录（按拼音）<button>
+<button>退休教师名录<button>
+<button>人才培养<button>
+<button>本科生教学<button>
+<button>教学动态<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>研究生教学<button>
+<button>教学动态<button>
+<button>招生信息<button>
+<button>培养方案<button>
+<button>课程建设<button>
+<button>学位申请<button>
+<button>非全专硕<button>
+<button>教学成果<button>
+<button>精品课程<button>
+<button>一流课程<button>
+<button>教学成果奖<button>
+<button>课程思政<button>
+<button>建设成果<button>
+<button>相关文档<button>
+<button>科学研究<button>
+<button>科研快讯<button>
+<button>科研机构<button>
+<button>省部级科研平台<button>
+<button>学科方向<button>
+<button>科研成果<button>
+<button>国家级奖项<button>
+<button>省部级奖项<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>通知公告<button>
+<button>党建思政<button>
+<button>二十大专栏<button>
+<button>理论学习<button>
+<button>不忘初心 牢记使命<button>
+<button>经典文献<button>
+<button>政策法规<button>
+<button>党建动态<button>
+<button>工青妇建<button>
+<button>工会活动<button>
+<button>青年联谊<button>
+<button>妇女风采<button>
+<button>退休园地<button>
+<button>退休动态<button>
+<button>退休党建<button>
+<button>退休风采<button>
+<button>对外交流<button>
+<button>交流动态<button>
+<button>海外交流<button>
+<button>合作高校<button>
+<button>学生交流<button>
+<button>教师交流<button>
+<button>章程<button>
+<button>理事会<button>
+<button>校友组织<button>
+<button>校友服务<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>校友名录<button>
+<button>专科<button>
+<button>本科<button>
+<button>全日制硕士研究生<button>
+<button>非全日制硕士研究生<button>
+<button>博士研究生<button>
+<button>博士后<button>
+<button>发展与捐赠<button>
+<button>新闻动态<button>
+<button>基金项目<button>
+<button>MORE+<button>
+<button>计算与智能创新学院工会、妇委会成功举办“三八”妇女节之“古法香牌”手工制作活动<button>
+<button>为庆祝“三八”国际妇女节，丰富女教职工精神文化生活，在学院党政领导的大力支持下，计算与智能创新学院工会、妇委会于3月10日下午在江湾校区举办了“古法香牌”手工制作活动，20余名女教职工欢聚一堂、共同参与。活动以古法香牌制作为主题，大家在老师的指导下，沉浸式体验和香、揉泥、塑形、压纹、晾晒等传统制香工艺，亲手打造专属香牌。现场氛围轻松温馨、其乐融融，大家相互交流、切磋技艺，在悠悠香气中感受中华传统香文化的独特魅力，增进彼此情谊。一件件造型雅致、香气怡人的古法香牌相继完成，充分展现了我院女教职工心灵手巧、温婉雅致的巧思与风采。计算与智能创新学院女教职员工占全院在职教职工总人数的1/4，她们在学院教学科研、人才培养、行政管理等工作岗位上履职尽责、担当作为，发挥着不可或缺的重要作用。学院工会、妇委会始终坚持以人为本、注重人文关怀，常态化开展形式多样、健康向上的活动，为广大教职工搭建放松身心、交流互动的平台，着力培育积极健康、乐观向上的校园氛围，营造团结友爱、和谐融洽的工作环境，努力将学院建设成为全体女教职工信赖、依靠、热爱的温馨家园。<button>
+<button>复旦大学计算与智能创新学院启明星辰奖学金颁奖仪式成功举行<button>
+<button>复旦大学计算与智能创新学院启明星辰奖学金颁奖仪式于2026年3月10日在复旦大学江湾校区二号交叉学科楼E1019会议室成功举行。上海启明星辰总经理于万淼、总监何计波，学院党委书记王新、高级工程师曹袖，院长助理、青年研究员黄橙，校友工作负责人单晓玥出席颁奖仪式。学院专职辅导员靳煜主持仪式。王新老师热情地欢迎启明星辰代表到访学院，他代表学院对启明星辰集团及基金会表示诚挚感谢，并向两位校友企业代表致以敬意。他回顾了过去一年学院在AI、智算平台、挑战杯等方面的突出成果，强调启明星辰与学院的合作不仅体现在奖学金捐赠上，更是对人才培养使命的坚守。他勉励获奖同学：一要心怀国之大者，将个人发展融入国家战略；二要保持敢为人先的创新锐气；三要常怀感恩之心，以真才实学回馈社会。于万淼分享了他连续两年参与颁奖的感受，称赞这一仪式“神圣而富有意义”。他介绍了启明星辰在AI安全、数据要素安全、工业互联网安全等领域的战略布局，尤其是在车联网安全、低空经济等前沿方向的探索。他表示，启明星辰愿做同学们职业生涯的“第一颗引路星”，并寄语同学们：保持好奇心、践行责任感、拥抱协作精神。随后，于万淼和王新为获奖学生颁奖。陈晋松<button>
+<button>计算与智能创新学院党委启动部署树立和践行正确政绩观学习教育<button>
+<button>3月10日上午，计算与智能创新学院党委召开树立和践行正确政绩观学习教育启动部署会议。学院党委书记王新主持会议，传达中央、教育部党组和学校党委有关部署要求，并结合学院实际对学习教育作启动部署；学院党委副书记邹宏领学习近平总书记关于正确政绩观的重要论述和有关学习材料。学院党政领导班子成员、教工党支部书记参加会议。会议聚焦深入学习领会习近平总书记关于树立和践行正确政绩观的重要讲话和重要指示精神，围绕学院事业发展实际，进一步统一思想、明确要求、压实责任，推动学习教育有序启动、扎实开展。会议强调，树立和践行正确政绩观，要坚定不移把习近平总书记重要贺信精神落到实处，把是否真正服务国家战略、服务立德树人根本任务、服务学校改革发展大局，作为衡量工作成效的重要标准。要坚持“四个一切”的工作作风，把开展学习教育同学习贯彻党的二十届四中全会精神结合起来，同学院“十五五”规划编制实施结合起来，同创新学院建设的重点任务结合起来，切实把正确政绩观贯穿到办学治院全过程各方面。会议结合学习内容，围绕习近平总书记在地方工作期间坚持正确政绩观的生动实践开展专题学习，并结合典型案例深化认识，引导党员干部深刻把握正确政绩观的<button>
+<button>复旦大学计算与智能创新学院鸭嘴兽奖学金颁奖仪式在鸭嘴兽公司成功举行<button>
+<button>复旦大学计算与智能创新学院鸭嘴兽奖学金颁奖仪式于2026年3月7日在宝杨宝龙广场16楼鸭嘴兽公司珠穆朗玛会议室成功举行。鸭嘴兽创始人唐红斌、首席AI官周明、副总裁谢闽峰、财务负责人林梧桐、HRBP汪倩，计算与智能创新学院党委书记王新，复旦大学党委学工部副部长王茂异，学院党委副书记顾宁，复旦大学团委副书记、学院院长助理、副教授周喆，专职辅导员靳煜出席。颁奖仪式由汪倩主持。唐红斌热情欢迎复旦大学师生的到访，他鼓励学生在AI时代自信的选择属于自己的领域并持之以恒。鸭嘴兽目前正积极推进AI能力在公司落地应用，公司欢迎复旦学子加入公司实习与实践，共同探索AI赋能产业的无限可能。王新代表学院感谢鸭嘴兽对学院发展和学生成长的关心支持。他表示，唐红斌校友结合自身经历所作的分享，是最生动的“思政课”，对青年学子具有重要的教育意义。王新指出，在人工智能快速发展的时代，学生既要掌握核心技术，也要关注行业趋势，深耕某一领域，成为既懂技术又懂业务的复合型人才。他强调，技术大模型与领域知识的结合最具生命力，而接近用户、贴近需求的岗位最难被替代。他勉励同学们坚定信心，充分利用复旦综合学科优势，成长为具有家国情怀与全<button>
+<button>喜报丨我院教师荣获“复旦大学三八红旗手/集体”称号<button>
+<button>近日，复旦大学举行了2025年度妇女先进集体和先进个人表彰大会。其中，我院学生工作办公室获“复旦大学三八红旗集体”荣誉称号，张谧荣获“复旦大学三八红旗手”称号，张军平、谢静芳获“复旦大学比翼双飞模范佳侣”称号。复旦大学三八红旗集体计算与智能创新学院学生工作办公室现有教职工9人，其中女性6人。作为全日制在校学生人数最多的学院，学工团队始终以立德树人为根本任务，用“她细腻”识别学生需求，用“她专业”化解学生困难，用“她关怀”温暖学生成长，用心用情服务好学院1300余名本科生和2400余名研究生。获“全国五四红旗团委”等荣誉。深耕AI沃土，引导学生发挥专业力量服务社会。成立“云翼”讲师团，开发20门AI科普课程，授课80余场，服务近4000人次。立足专业特色，打造“码上修好”电脑义诊服务品牌，服务师生超2000人次。塑造AI氛围，打造全方位有活力的创新生态。系统推进科创培养计划，举办科创宣讲，聘请学术、产业科创导师，打造“计话AI+”等交流平台，激发学生创新动能。获“挑战杯”全国特等奖等荣誉。聚焦AI人才培养，立足学校教育教学改革3.0大局，全力支撑全校AI大课，招募100余名学生助教，推出<button>
+<button>喜报 | 邱锡鹏教授团队获得2025年度吴文俊人工智能科学技术奖自然科学一等奖<button>
+<button>近日，中国人工智能学会正式颁发了2025年度吴文俊人工智能科学技术奖。计算与智能创新学院邱锡鹏教授牵头的项目“多任务驱动的语言模型预训练方法与应用”荣获2025年度吴文俊人工智能科学技术奖自然科学奖一等奖。自然语言处理是人工智能从感知智能迈向认知智能、实现通用人工智能的关键。如何构建准确率高、泛化性好的自然语言表示，是该领域的核心基础科学问题。传统方法在捕捉语言深层语义、处理多任务差异以及适配下游应用时面临巨大挑战，亟需理论和方法上的原始创新。邱锡鹏教授、黄萱菁教授带领项目团队，对“如何构建更好的语言表示”这一核心问题执着攻关，在国家自然科学基金委、企业合作等项目支撑下，围绕多任务驱动的语言模型预训练方法展开长期系统研究。该项目主要取得了三项具有国际影响力的创新性科学发现：1）提出“通用-私有”多任务共享模式，突破了数据瓶颈，大幅提升下游任务性能。该代表性论文（IJCAI 2016）在其会议所有录用论文中引用数排名第一，成为语言模型预训练的先锋工作。2）引入对抗学习机制，有效提高共享表示和私有表示的区分度，大幅降低了私有表示对共享表示的干扰，并实现跨标准语料复用。该成果荣获自然语言处理<button>
+<button>MORE+<button>
+<button>复旦大学信息与计算科学强基计划培养方案（2026级）<button>
+<button>复旦大学信息与计算科学是一门多学科交叉的宽口径专业，结合了信息学、计算机科学、数...<button>
+<button>复旦大学计算与智能创新学院2025-2026学年第一学期本科生优秀学生奖学金（毕业生奖学金）评定方案<button>
+<button>为做好复旦大学计算与智能创新学院2025-2026学年第一学期本科生优秀学生奖学金（毕业...<button>
+<button>复旦大学计算与智能创新学院2026年非全日制硕士研究生招生考试进入复试考生名单<button>
+<button>MORE+<button>
+<button>2026.1.22 | Edge Intelligence: Multi-Modality Sensing to Revolutionize Chronic D...<button>
+<button>12.19 | 开放原子开源社团“开源启航”系列学习会第1期：“Ascend C算子开发（入门）...<button>
+<button>06.13 | 张晓东 : 大语言模型的第一性原理<button>
+<button>11.19 | AI Networking for Remote CV: A Use Case in Subway E-Ticketing<button>
+<button>MORE+<button>
+<button>复旦大学计算与智能创新学院招聘公告<button>
+<button>一、学院概况复旦大学计算与智能创新学院（College of Computer Science and Artificial Intelligence, Fud...<button>
+<button>关于计算机国家级实验教学示范中心主任公开招聘和聘任工作的通知<button>
+<button>MORE+<button>
+<button>先进计算系统研究院<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到复旦大学江湾校区二号交叉学科楼 A2023 室的副教授，其联系电话为86-21-51355385，并且拥有清华大学博士学位。首先，我应该访问学院官网并查找相关的教职工信息。
+
+Action: visit_page
+Action Input: {"button": "教职工名录（按职称）"}
+
+----- VisitPage -----
+The web information is:
+
+]( "返回复旦大学计算与智能创新学院首页")
+      
+### 导航
+                                                                                                                                          
+### 登录
+      
+### 导航
+                                                                                                                                          
+!
+###  师资队伍
+      
+  * 当前位置：>>
+  * ## 教职工名录（按职称）
+  * 全部
+  * 院士
+  * 正高
+  * 副高
+  * 初中级
+!
+院士
+正高
+副高
+初中级
+地址：上海市淞沪路2005号
+Tell：+86-21-31242259
+Email：cs_school@fudan.edu.cn
+!
+  * !
+版权所有 © 复旦大学计算与智能创新学院
+top
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学生内部网<button>
+<button>教师内部网<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>组织架构<button>
+<button>教工之家<button>
+<button>职能部门<button>
+<button>历史沿革<button>
+<button>教职工名录（按职称）<button>
+<button>教职工名录（按拼音）<button>
+<button>退休教师名录<button>
+<button>人才培养<button>
+<button>本科生教学<button>
+<button>研究生教学<button>
+<button>教学成果<button>
+<button>课程思政<button>
+<button>科学研究<button>
+<button>科研快讯<button>
+<button>科研机构<button>
+<button>学科方向<button>
+<button>科研成果<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>通知公告<button>
+<button>党建思政<button>
+<button>二十大专栏<button>
+<button>理论学习<button>
+<button>党建动态<button>
+<button>工青妇建<button>
+<button>退休园地<button>
+<button>对外交流<button>
+<button>交流动态<button>
+<button>海外交流<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>校友名录<button>
+<button>发展与捐赠<button>
+<button>首页<button>
+
+----- WebWalker -----
+我需要进一步访问“副高”职称的教职工名录，以查找符合要求的副教授信息。
+
+Action: visit_page
+Action Input: {"button": "副高"}
+
+----- VisitPage -----
+Button not found: 副高
+
+----- WebWalker -----
+看起来“副高”按钮无法直接点击，我需要尝试其他方式访问副高职称的教职工信息。可能需要通过其他页面或链接来获取相关信息。
+
+Action: visit_page
+Action Input: {"button": "教职工名录（按职称）"}
+
+----- VisitPage -----
+The web information is:
+
+]( "返回复旦大学计算与智能创新学院首页")
+      
+### 导航
+                                                                                                                                          
+### 登录
+      
+### 导航
+                                                                                                                                          
+!
+###  师资队伍
+      
+  * 当前位置：>>
+  * ## 教职工名录（按职称）
+  * 全部
+  * 院士
+  * 正高
+  * 副高
+  * 初中级
+!
+院士
+正高
+副高
+初中级
+地址：上海市淞沪路2005号
+Tell：+86-21-31242259
+Email：cs_school@fudan.edu.cn
+!
+  * !
+版权所有 © 复旦大学计算与智能创新学院
+top
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学生内部网<button>
+<button>教师内部网<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>组织架构<button>
+<button>教工之家<button>
+<button>职能部门<button>
+<button>历史沿革<button>
+<button>教职工名录（按职称）<button>
+<button>教职工名录（按拼音）<button>
+<button>退休教师名录<button>
+<button>人才培养<button>
+<button>本科生教学<button>
+<button>研究生教学<button>
+<button>教学成果<button>
+<button>课程思政<button>
+<button>科学研究<button>
+<button>科研快讯<button>
+<button>科研机构<button>
+<button>学科方向<button>
+<button>科研成果<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>通知公告<button>
+<button>党建思政<button>
+<button>二十大专栏<button>
+<button>理论学习<button>
+<button>党建动态<button>
+<button>工青妇建<button>
+<button>退休园地<button>
+<button>对外交流<button>
+<button>交流动态<button>
+<button>海外交流<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>校友名录<button>
+<button>发展与捐赠<button>
+<button>首页<button>
+
+----- WebWalker -----
+Thought: 由于“副高”按钮无法直接点击，我需要尝试其他方式访问副高职称的教职工信息。可能需要通过“教职工名录（按拼音）”或其他相关页面来查找。
+
+Action: visit_page
+Action Input: {"button": "教职工名录（按拼音）"}
+
+----- VisitPage -----
+The web information is:
+
+]( "返回复旦大学计算与智能创新学院首页")
+      
+### 导航
+                                                                                                                                          
+### 登录
+      
+### 导航
+                                                                                                                                          
+!
+###  师资队伍
+      
+  * 当前位置：>>
+  * ## 教职工名录（按拼音） 
+  * 全部
+  * A
+  * B
+  * C
+  * D
+  * E
+  * F
+  * G
+  * H
+  * I
+  * J
+  * K
+  * L
+  * M
+  * N
+  * O
+  * P
+  * Q
+  * R
+  * S
+  * T
+  * U
+  * V
+  * W
+  * X
+  * Y
+  * Z
+!
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+地址：上海市淞沪路2005号
+Tell：+86-21-31242259
+Email：cs_school@fudan.edu.cn
+!
+  * !
+版权所有 © 复旦大学计算与智能创新学院
+top
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学生内部网<button>
+<button>教师内部网<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>组织架构<button>
+<button>教工之家<button>
+<button>职能部门<button>
+<button>历史沿革<button>
+<button>教职工名录（按职称）<button>
+<button>教职工名录（按拼音）<button>
+<button>退休教师名录<button>
+<button>人才培养<button>
+<button>本科生教学<button>
+<button>研究生教学<button>
+<button>教学成果<button>
+<button>课程思政<button>
+<button>科学研究<button>
+<button>科研快讯<button>
+<button>科研机构<button>
+<button>学科方向<button>
+<button>科研成果<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>通知公告<button>
+<button>党建思政<button>
+<button>二十大专栏<button>
+<button>理论学习<button>
+<button>党建动态<button>
+<button>工青妇建<button>
+<button>退休园地<button>
+<button>对外交流<button>
+<button>交流动态<button>
+<button>海外交流<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>校友名录<button>
+<button>发展与捐赠<button>
+<button>首页<button>
+
+----- WebWalker -----
+Thought: 我需要通过“教职工名录（按拼音）”中的字母范围来查找可能的副教授信息。由于无法直接访问“副高”页面，我将尝试通过字母顺序查找相关教师。
+
+Action: visit_page
+Action Input: {"button": "Q"}
+
+----- VisitPage -----
+Button not found: Q
+
+----- WebWalker -----
+Thought: 
+由于“Q”按钮无法直接点击，我需要尝试其他字母范围或页面来查找可能的副教授信息。考虑到目标教师拥有清华大学博士学位，且联系电话为86-21-51355385，我将继续探索相关页面以获取更多信息。
+
+Action: visit_page
+Action Input: {"button": "S"}
+
+----- VisitPage -----
+Button not found: S
+
+----- WebWalker -----
+Thought: 
+由于“S”按钮也无法直接点击，我需要尝试其他方式访问教职工信息。考虑到目标教师的联系电话为86-21-51355385，我可能需要通过其他途径查找该号码对应的教师信息。
+
+Action: visit_page
+Action Input: {"button": "联系我们"}
+
+----- VisitPage -----
+Button not found: 联系我们
+
+----- WebWalker -----
+Thought: 
+由于“联系我们”按钮也无法直接点击，我需要重新审视当前页面的结构和可用选项。考虑到目标教师的信息可能包含在“教职工名录（按职称）”或“教职工名录（按拼音）”中，我将尝试再次访问这些页面并寻找更详细的教师信息。
+
+Action: visit_page
+Action Input: {"button": "教职工名录（按职称）"}
+
+----- VisitPage -----
+The web information is:
+
+]( "返回复旦大学计算与智能创新学院首页")
+      
+### 导航
+                                                                                                                                          
+### 登录
+      
+### 导航
+                                                                                                                                          
+!
+###  师资队伍
+      
+  * 当前位置：>>
+  * ## 教职工名录（按职称）
+  * 全部
+  * 院士
+  * 正高
+  * 副高
+  * 初中级
+!
+院士
+正高
+副高
+初中级
+地址：上海市淞沪路2005号
+Tell：+86-21-31242259
+Email：cs_school@fudan.edu.cn
+!
+  * !
+版权所有 © 复旦大学计算与智能创新学院
+top
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学生内部网<button>
+<button>教师内部网<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>组织架构<button>
+<button>教工之家<button>
+<button>职能部门<button>
+<button>历史沿革<button>
+<button>教职工名录（按职称）<button>
+<button>教职工名录（按拼音）<button>
+<button>退休教师名录<button>
+<button>人才培养<button>
+<button>本科生教学<button>
+<button>研究生教学<button>
+<button>教学成果<button>
+<button>课程思政<button>
+<button>科学研究<button>
+<button>科研快讯<button>
+<button>科研机构<button>
+<button>学科方向<button>
+<button>科研成果<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>通知公告<button>
+<button>党建思政<button>
+<button>二十大专栏<button>
+<button>理论学习<button>
+<button>党建动态<button>
+<button>工青妇建<button>
+<button>退休园地<button>
+<button>对外交流<button>
+<button>交流动态<button>
+<button>海外交流<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>校友名录<button>
+<button>发展与捐赠<button>
+<button>首页<button>

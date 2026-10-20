@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0220_1128b81a4107",
+  "source_index": 220,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What additional content was included during the author response period at ACL 2023 to complement the new policy?",
+  "prompt": "What additional content was included during the author response period at ACL 2023 to complement the new policy?",
+  "expected_answer": "After the start of ACL 2023 author response, two additional sections were included for completeness and in response to community feedback.",
+  "root_url": "https://2023.aclweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://2023.aclweb.org/blog/review-acl23/"
+    ],
+    "golden_path": [
+      "root->Blog->ACL’23 Peer Review Policies"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "During the author response period at ACL 2023, additional content included the hybrid submission format with ARR (Author Response Review), where authors could provide responses but not revise their paper (except for adding the required 'Limitations' section if missing). The author response period was followed by a discussion period from March 25-April 7, 2023.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 31.441,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0220_1128b81a4107/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0220_1128b81a4107/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict\":",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

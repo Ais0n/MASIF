@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0144_82418a4302ee",
+  "source_index": 144,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "中国人民大学信息学院的何昆在武汉大学期间对哪门课程产生了极大兴趣，并最终在哪个领域取得了显著成就？",
+  "prompt": "中国人民大学信息学院的何昆在武汉大学期间对哪门课程产生了极大兴趣，并最终在哪个领域取得了显著成就？",
+  "expected_answer": "对数据结构课程产生了极大兴趣，并在理论计算机领域取得了显著成就",
+  "root_url": "http://info.ruc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://info.ruc.edu.cn/xwgg/xwrw/1c2a62be356b41268d3fbb73b02e2c24.htm"
+    ],
+    "golden_path": [
+      "root->何昆副教授我的理论计算机之路——何昆"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "何昆在武汉大学期间对理论计算机产生了极大兴趣，并最终在理论计算机领域取得了显著成就。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 16.095,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0144_82418a4302ee/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0144_82418a4302ee/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

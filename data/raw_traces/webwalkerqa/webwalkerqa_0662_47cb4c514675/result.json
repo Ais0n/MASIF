@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0662_47cb4c514675",
+  "source_index": 662,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年6月进行的新疆大学计算机科学与技术学院研究生学术交流活动月中，以人工智能应用为主题的学术报告分别由哪位博士和哪位特邀报告专家作出？",
+  "prompt": "在2024年6月进行的新疆大学计算机科学与技术学院研究生学术交流活动月中，以人工智能应用为主题的学术报告分别由哪位博士和哪位特邀报告专家作出？",
+  "expected_answer": "伊克萨尼?普尔凯提博士和汪烈军教授",
+  "root_url": "https://it.xju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.xju.edu.cn/info/1100/3170.htm",
+      "https://it.xju.edu.cn/info/1100/3169.htm"
+    ],
+    "golden_path": [
+      "root->更多...>->计算机科学与技术学院开展优秀博士学位毕业论文学术报告专场",
+      "root->更多...>->计算机科学与技术学院顺利开展2024年研究生学术交流活动月活动开幕式暨首场特邀报告"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 45.111,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0662_47cb4c514675/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0662_47cb4c514675/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,1202 @@
+----- user -----
+query:
+Which bank did Patrick Ryan work for 12 years before joining Riot, and what financial services inclusion network did he help create and lead?
+official website:
+https://www.riotgames.com/en
+Observation:website information:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+SIGN IN
+SIGN IN
+!
+!
+# 
+Patch 7.5: Zoe
+Want to see something neat? Zoe joins the Path of Champions, plus the Spirit Blossom Event Adventure returns!
+!
+!
+# 
+SEASON 26 ACT III STARTS NOW 
+Kick off ACT III with the return of Kuronami, Skirmish: Ascension, a fresh Map rotation, and more. 
+## What's happening?
+ League, VALORANT, and TFT Partner Programs Open Applications Coming... News ](
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+## Games
+ ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore")
+## Esports & Entertainment
+! ]( ]( ]( ]( ](
+## We’re hiring!
+Team up with Riot to forge your path and craft unforgettable experiences for players
+!
+      
+                          
+Cookie Preferences
+
+
+clickable button:
+
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21mainMenuDownNonHover<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>See more<button>
+<button>League, VALORANT, and TFT Partner Programs Open Applications Coming...News<button>
+<button>You Are the Race | Wild Rift x PorscheNews<button>
+<button>Know Before You Go: 2XKO @ Evo Japan 2026News<button>
+<button>2XKO @ Evo Japan 2026 TrailerNews<button>
+<button>TFT Space Gods Set TrailerNews<button>
+<button>181Open positions<button>
+<button>24Offices<button>
+<button>Explore Careers<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find information about Patrick Ryan's previous employment and the financial services inclusion network he helped create. The best approach is to navigate through the Riot Games website to find relevant sections such as "Who We Are" or "Leadership" that might contain this information.
+
+Action: visit_page
+Action Input: {"button": "Who We Are"}
+
+----- VisitPage -----
+The web information is:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+SIGN IN
+SIGN IN
+!
+Our Values
+# We Are Player First
+Everything we do is in service of players. This continuous focus inspires the most meaningful and lasting game experiences.
+01.Player First
+02.Serious About Games
+03.Dream and Deliver
+04.In for the long term
+05.One Riot
+## Hyper-serve the core
+We zero in on distinct groups of players who care the most, knowing they’ll bring others into the fold. As they evolve, so do we - learning what it takes to meet their needs and surpass their expectations. 
+## Be part of the community
+We meet players where they are and with empathy. Every interaction is an opportunity to add value, strengthen our relationship, and give them a sense of ownership in the games they love.
+## Foster a thriving ecosystem
+Our games should be fair, safe, and welcoming for anyone who wants to love them. We push ourselves to design products and create environments that make it possible.
+## Support players everywhere
+The investments we make, endeavors we pursue, and issues we address should benefit players around the world - no matter who they are, or the country or culture they live in. 
+!
+Watch Video
+### We Are Riot
+Riot Games was founded in 2006 to develop, publish, and support the most player-focused games in the world. As we went from one game to many, we have expanded to over 4,500 Rioters across more than 20 offices around the world bringing a global perspective to the games we create and the characters in them. From the streets of Piltover to the Radianite labs of Alpha Earth, we are all about making games and serving the people who love them.
+Close
+!
+# League Of Legends
+!
+!
+# League Of Legends
+!
+The game that started it all. With over 160 champions creating the basis for the world of Runeterra, League is going strong in its second decade with players around the world. 
+More Information
+!
+# VALORANT
+!
+!
+# VALORANT
+!
+Our first FPS title and second major esport, VALORANT leaves the Runeterra universe for Alpha Earth where the agents of the VALORANT protocol reflect the world around us. 
+More Information
+!
+# Teamfight Tactics
+!
+!
+# Teamfight Tactics
+!
+The most-played PC strategy game in the world sees tacticians vie for the perfect Runeterran champions to round out their comp. 
+More Information
+!
+# League of Legends: Wild Rift
+!
+!
+# League of Legends: Wild Rift
+!
+League, but on mobile. With its own unique identity and playstyle, Wild Rift brings League to players on the go. 
+More Information
+!
+# Legends of Runeterra
+!
+!
+# Legends of Runeterra
+!
+The home of Path of Champions, a PvE experience where players build decks on the fly and play through stories in the world of Runeterra.
+More Information
+!
+# 2XKO
+!
+!
+# 2XKO
+!
+2XKO is a 2v2 fighting game featuring the iconic characters from _Arcane_ and _League of Legends_.
+More Information
+!
+# Riftbound
+!
+!
+# Riftbound
+!
+We left the digital world for Riftbound, our trading card game. Collect the cards, build your deck, get together with your friends, and hit the battlefield for 1v1 or 4-player free-for-alls.
+## Our Commitments
+](
+### Social Impact
+](
+### Sustainability
+](
+### Diversity and Inclusion
+## WE ARE GLOBAL
+Riot Games’ HQ is located in sunny Los Angeles, but we have many more offices around the globe. We’re looking for passionate gamers who are also leaders in their field to help us deliver value to players — no matter where they play.
+We're Hiring for
+## 181 Open Positions
+Work with us in one of our global offices to forge your path and craft unforgettable experiences for players.
+ Life At Riot]( Compensation and Benefits](
+      
+                          
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21mainMenuDownNonHover<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>Learn More<button>
+<button>Learn More<button>
+<button>Learn More<button>
+<button>Explore our offices<button>
+<button>Explore Careers<button>
+<button>Life At Riot<button>
+<button>Compensation and Benefits<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+----- WebWalker -----
+The "Who We Are" section does not provide specific information about Patrick Ryan or his previous employment. I should explore the "Leadership" section, as it might contain details about key personnel and their backgrounds.
+
+Action: visit_page
+Action Input: {"button": "Leadership"}
+
+----- VisitPage -----
+The web information is:
+
+
+SIGN IN
+SIGN IN
+# Riot's Leadership
+## Company Leadership
+!
+Chief Executive Officer
+### A. Dylan Jadeja
+Chief Executive Officer
+!
+Co-Founder, Co-Chairman, & Chief Product Officer
+### Marc Merrill
+Co-Founder, Co-Chairman, & Chief Product Officer
+!
+Co-Founder & Co-Chairman
+### Brandon Beck
+Co-Founder & Co-Chairman
+!
+President
+### Hoby Darling
+President
+!
+President, Publishing & Esports
+### John Needham
+President, Publishing & Esports
+!
+Chief People Officer
+### Emily Winkle
+Chief People Officer
+!
+Chief Financial Officer
+### Mark Sottosanti
+Chief Financial Officer
+!
+General Counsel
+### Dan Chang
+General Counsel
+!
+Chief Strategy Officer
+### Abhi Ramprasad
+Chief Strategy Officer
+## Studio Leadership
+!
+Chief Design Officer of R&D
+### Tom Cadwell
+Chief Design Officer of R&D
+!
+Head of China Studio
+### Leo Lin
+Head of China Studio
+!
+Studio Head, League of Legends
+### Andrei van Roon
+Studio Head, League of Legends
+!
+Studio Head, VALORANT
+### Anna Donlon
+Studio Head, VALORANT
+!
+Head of Animation Studio
+### Christian Linke
+Head of Animation Studio
+!
+EP, League of Legends
+### Paul Bellezza
+EP, League of Legends
+!
+EP, Legends of Runeterra
+### Eric Shen
+EP, Legends of Runeterra
+!
+EP, Teamfight Tactics
+### Geoffrey Virtue
+EP, Teamfight Tactics
+!
+EP, League of Legends: Wild Rift
+### David Xu
+EP, League of Legends: Wild Rift
+!
+EP, VALORANT
+### Andy Ho
+EP, VALORANT
+!
+EP, 2XKO
+### Tom Cannon
+EP, 2XKO
+!
+EP, Riftbound
+### Chengran Chai
+EP, Riftbound
+## Publishing & Esports Leadership
+!
+Head of Global Publishing
+### Sarah Schutz
+Head of Global Publishing
+!
+Global Head of Music
+### Maria Egan
+Global Head of Music
+!
+Head of International Publishing & Esports
+### Whalen Rozelle
+Head of International Publishing & Esports
+!
+Global Head of LoL Esports
+### Chris Greeley
+Global Head of LoL Esports
+!
+Global Head of VALORANT Esports
+### Leo Faria
+Global Head of VALORANT Esports
+!
+Global Head of Teamfight Tactics (TFT) & Emerging Esports
+### Michael Sherman
+Global Head of Teamfight Tactics (TFT) & Emerging Esports
+      
+                          
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>A. Dylan Jadeja<button>
+<button>Read more<button>
+<button>Marc Merrill<button>
+<button>Read more<button>
+<button>Brandon Beck<button>
+<button>Read more<button>
+<button>Hoby Darling<button>
+<button>Read more<button>
+<button>John Needham<button>
+<button>Read more<button>
+<button>Emily Winkle<button>
+<button>Read more<button>
+<button>Mark Sottosanti<button>
+<button>Read more<button>
+<button>Dan Chang<button>
+<button>Read more<button>
+<button>Abhi Ramprasad<button>
+<button>Read more<button>
+<button>Tom Cadwell<button>
+<button>Read more<button>
+<button>Leo Lin<button>
+<button>Read more<button>
+<button>Andrei van Roon<button>
+<button>Read more<button>
+<button>Anna Donlon<button>
+<button>Read more<button>
+<button>Christian Linke<button>
+<button>Read more<button>
+<button>Paul Bellezza<button>
+<button>Read more<button>
+<button>Eric Shen<button>
+<button>Read more<button>
+<button>Geoffrey Virtue<button>
+<button>Read more<button>
+<button>David Xu<button>
+<button>Read more<button>
+<button>Andy Ho<button>
+<button>Read more<button>
+<button>Tom Cannon<button>
+<button>Read more<button>
+<button>Chengran Chai<button>
+<button>Read more<button>
+<button>Sarah Schutz<button>
+<button>Read more<button>
+<button>Maria Egan<button>
+<button>Read more<button>
+<button>Whalen Rozelle<button>
+<button>Read more<button>
+<button>Chris Greeley<button>
+<button>Read more<button>
+<button>Leo Faria<button>
+<button>Read more<button>
+<button>Michael Sherman<button>
+<button>Read more<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+----- WebWalker -----
+The "Leadership" section does not mention Patrick Ryan. I should explore the "Work with us" section, as it might contain information about employees or their backgrounds.
+
+Action: visit_page
+Action Input: {"button": "Work with us"}
+
+----- VisitPage -----
+The web information is:
+
+
+SIGN IN
+SIGN IN
+# Unleash Play
+## We turn passion into play. We’re looking for S-tier pros to join us in shaping unforgettable experiences for players. 
+### Life at Riot
+### Interviewing at Riot
+!
+### Our In-Office Approach
+Learn more
+!
+### Offices
+Learn more
+!
+### Emerging Talent Programs
+Learn more
+!
+### Game Dev Resources
+Learn more
+## Work with us
+Open Positions: **181**
+  * Select a CraftSelect a Craft Accounting Admin Art Art - CG Audio Brand Management Business Development Comms Compliance Consumer Products Corporate Corporate Dev Creative Creative Direction Creative Direction & Management Creative Marketing Data Data Privacy Design Entertainment Esports Finance Game Product Leadership Game Production Leadership Global Channel Marketing Information Security Group Information Technology Infrastructure Insights Internships Legal Live Services Localization Narrative People Player Community Player Support Group Product Management Group Production Group Program Management Group Publishing QA Group Real Estate and Construction Revenue Strategy Group Software Engineering Group Strategic Advisory Group Strategic Finance Group Tech General Video Workplace Experience Writing and EditingSelect a Product TeamSelect a Product Team 2XKO Arcane Consumer Products Creative & IP Development Entertainment Esports GMC Shanghai League of Legends League of Legends: Wild Rift Legends of Runeterra MMO Riftbound Riot Discovery Riot Game Operations Riot Operations & Support Teamfight Tactics VALORANTSelect an OfficeSelect an Office Bangkok, Thailand Barcelona, Spain Bellevue, USA Berlin, Germany Des Moines, USA Dubai, UAE Dublin, Ireland Guangzhou, China Jakarta, Indonesia London, UK Los Angeles, USA Manila, Philippines Mercer Island, USA Mexico City, Mexico Mumbai, India Paris, France SF Bay Area, USA Sao Paulo, Brazil Seoul, Korea Shanghai, China Singapore St. Louis, USA Sydney, Australia Tokyo, Japan
+                                                                                                                                                                                                                                                                                                                                                                          
+      
+                          
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>See Open Roles<button>
+<button>Life at Riot<button>
+<button>Learn more<button>
+<button>Interviewing at Riot<button>
+<button>Learn more<button>
+<button>Our In-Office Approach<button>
+<button>Offices<button>
+<button>Emerging Talent Programs<button>
+<button>Game Dev Resources<button>
+<button>Manager, Software Engineering - League Studios (Services)Software Engineering GroupLeague of LegendsLos Angeles, USA<button>
+<button>Staff Software Engineer, Riot Client - Publishing PlatformSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>3D Animation Artist - Unpublished R&D Product (Contract)ArtRiot DiscoveryGuangzhou, China<button>
+<button>APAC Music Artist Partnerships Manager IIIEntertainmentEntertainmentSingapore<button>
+<button>APAC Publishing Manager, WR (Contract)PublishingLeague of Legends: Wild RiftManila, Philippines<button>
+<button>Art Project Manager - FFGS (Contract)ArtTeamfight TacticsShanghai, China<button>
+<button>Brand Manager Eastern Europe, VALORANTBrand ManagementVALORANTBerlin, Germany<button>
+<button>Community Manager II, Indonesia and Malaysia - VALORANTCommsVALORANTJakarta, Indonesia<button>
+<button>Consumer Products Retail Business Development Manager - Consumer Products & Experiences (CPX)EntertainmentRiot Operations & SupportShanghai, China<button>
+<button>Consumer Products and Experience Operations Manager - KoreaEntertainmentRiot Operations & SupportSeoul, Korea<button>
+<button>Content Producer - LoL EsportsProduction GroupEsportsSeoul, Korea<button>
+<button>Content Producer - Wild Rift (Contract)PublishingLeague of Legends: Wild RiftShanghai, China<button>
+<button>Director, Data Engineering - League StudiosDataLeague of LegendsLos Angeles, USA<button>
+<button>Director, Game Product Management - Cross-VALORANT Experience (XVX)Product Management GroupVALORANTLos Angeles, USA<button>
+<button>Director, Insights - VALORANT GameplayInsightsVALORANTLos Angeles, USA<button>
+<button>Director, Insights - WILD RIFTInsightsLeague of Legends: Wild RiftLos Angeles, USA<button>
+<button>Director, Research Science - Tech ResearchDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Esports Event ProducerEsportsEsportsLos Angeles, USA<button>
+<button>Esports Events Coordinator, APAC Emerging Markets - Content Services (Contract)EsportsEsportsSingapore<button>
+<button>External Affairs ManagerCorporateRiot Operations & SupportShanghai, China<button>
+<button>Game Designer III (Card Rules) - RiftboundDesignRiot DiscoveryLos Angeles, USA<button>
+<button>Game Product Manager, Gameplay - FFGS/金铲铲之战Product Management GroupTeamfight TacticsShanghai, China<button>
+<button>Game Production Intern - League of Legends (Contract)Production GroupLeague of LegendsSingapore<button>
+<button>Global & Americas Manager, Partnership Management - Riot Commercial PartnershipsBusiness DevelopmentRiot Operations & SupportLos Angeles, USA<button>
+<button>HR Business PartnerPeopleRiot Operations & SupportLos Angeles, USA<button>
+<button>Interactive Music Design ManagerAudioDevelopment StudiosSingapore<button>
+<button>Internal AuditorAccountingRiot Operations & SupportLos Angeles, USA<button>
+<button>Legal Counsel - APAC (Contract)LegalRiot Operations & SupportSingapore<button>
+<button>Level Design Lead - VALORANTDesignVALORANTLos Angeles, USA<button>
+<button>Localization Operations ManagerProduction GroupRiot Operations & SupportShanghai, China<button>
+<button>Localization Producer IIProduction GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Manager, 3D Character Art - Teamfight TacticsArtTeamfight TacticsSingapore<button>
+<button>Manager, Game Production - Distributed DevelopmentProduction GroupDevelopment StudiosSydney, Australia<button>
+<button>Manager, Globalization ProductionProduction GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Manager, Software Engineering (Optimize) - InfrastructureSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Manager, Software Engineering (Tools & Frameworks) - Developer ConnectionsSoftware Engineering GroupRiot Operations & SupportSF Bay Area, USA<button>
+<button>Manager, Software Engineering - Content Access PlatformSoftware Engineering GroupRiot Operations & SupportMercer Island, USA<button>
+<button>Manager, Software Engineering - Developer Connections, Client BuildSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Manager, Software Engineering - Developer Connections, ReleaseSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Manager, Software Engineering – Automation & Build Systems, Unpublished R&D ProductSoftware Engineering GroupMMOSydney, Australia<button>
+<button>Manager, Software Engineering, Publishing Engagement - Publishing PlatformSoftware Engineering GroupRiot Operations & SupportSeoul, Korea<button>
+<button>Manager, Software Engineering, Services & China Partnership - VALORANTSoftware Engineering GroupVALORANTSydney, Australia<button>
+<button>Manager, Sound Design - League of LegendsAudioLeague of LegendsSingapore<button>
+<button>Manager, Technical Art - Rendering, Unpublished R&D ProductArtMMOSydney, Australia<button>
+<button>Manager, Technical Art - Unpublished R&D ProductArtDevelopment StudiosSingapore<button>
+<button>Manager, TreasuryFinanceRiot Operations & SupportSingapore<button>
+<button>Manager, VFX Art - Teamfight TacticsArtTeamfight TacticsSingapore<button>
+<button>Manager, VFX Art - Unpublished R&D ProductArtDevelopment StudiosSingapore<button>
+<button>Manager, Workplace ExperienceWorkplace ExperienceRiot Operations & SupportShanghai, China<button>
+<button>Marketing Creative Director - VALORANT (Contract)PublishingVALORANTShanghai, China<button>
+<button>Organized Play Manager, IBIT (9-Month Contract)Program Management GroupEsportsBarcelona, Spain<button>
+<button>Organized Play Market Specialist - APAC (12 Month Contract)PublishingRiot Operations & SupportSingapore<button>
+<button>Principal Animation Artist - Unpublished R&D ProductArtRiot Game OperationsShanghai, China<button>
+<button>Principal Concept Artist (Character) - VALORANTArtVALORANTLos Angeles, USA<button>
+<button>Principal Data Engineer, Personalization - Publishing PlatformDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Game Designer, Meta Systems and Progression - League of LegendsDesignLeague of LegendsLos Angeles, USA<button>
+<button>Principal Insights Analyst - Ecosystem InsightsInsightsRiot Game OperationsLos Angeles, USA<button>
+<button>Principal Insights Analyst, AXE - Teamfight TacticsInsightsTeamfight TacticsLos Angeles, USA<button>
+<button>Principal Insights Analyst, PubSports - League of LegendsInsightsLeague of LegendsLos Angeles, USA<button>
+<button>Principal Lighting Artist - League of LegendsArtLeague of LegendsLos Angeles, USA<button>
+<button>Principal Machine Learning Engineer (Personalization, Matchmaking, & Player Experience AI) - Publishing PlatformDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Research Scientist, Gameplay AI - Tech ResearchDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Researcher - League of LegendsInsightsLeague of LegendsLos Angeles, USA<button>
+<button>Principal Researcher - League of Legends PubSportsInsightsRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Software Engineer (Tech Lead) - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Principal Software Engineer - Content Access PlatformSoftware Engineering GroupRiot Operations & SupportMercer Island, USA<button>
+<button>Principal Software Engineer, Rendering - Game Tech Group, Unreal EcosystemSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Software Engineer, Services - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Principal Software Engineer, Test Automation - League of LegendsSoftware Engineering GroupLeague of LegendsLos Angeles, USA<button>
+<button>Principal Software Engineer, VALORANT - Foundations Developer Experience & WorkflowsSoftware Engineering GroupVALORANTLos Angeles, USA<button>
+<button>Principal Technical Product Manager - VALORANT, AI/MLProduct Management GroupVALORANTLos Angeles, USA<button>
+<button>Principal Technical Product Manager, AI - Central ProductProduct Management GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Principal Tools & Pipeline Technical Artist - Unpublished R&D ProductArtRiot DiscoveryLos Angeles, USA<button>
+<button>Principal Visual Design Artist - RiftboundArtRiot Operations & SupportShanghai, China<button>
+<button>Production Accountant - Esports Events (6 Month Contract)FinanceEsportsDublin, Ireland<button>
+<button>Project Coordinator, Creative - APAC Shared Services (8 Month Contract)Creative Direction & ManagementRiot Operations & SupportSingapore<button>
+<button>Public Relations Strategist (Contract)CommsRiot Operations & SupportShanghai, China<button>
+<button>Publishing Operations Lead, Riot Ecosystem ProductPublishingRiot Operations & SupportLos Angeles, USA<button>
+<button>Publishing Product Manager, Event - VALORANT (Contract)PublishingVALORANTShanghai, China<button>
+<button>Publishing Product Manager, Korea & Japan - Unpublished R&D ProductProduct Management GroupRiot Operations & SupportSeoul, Korea<button>
+<button>QA Engineer - Unpublished R&D Product (Contract)QA GroupRiot DiscoveryShanghai, China<button>
+<button>QA Engineer - Wild Rift (Contract)QA GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>QA Engineer II - Teamfight Tactics (Contract)QA GroupTeamfight TacticsSingapore<button>
+<button>Senior Brand ManagerBrand ManagementTeamfight TacticsLos Angeles, USA<button>
+<button>Senior Brand Manager - TFTBrand ManagementTeamfight TacticsShanghai, China<button>
+<button>Senior Data Engineer (12 month contract) - WildRift DataDataLeague of Legends: Wild RiftSydney, Australia<button>
+<button>Senior Data Scientist - Singapore Efficiency TeamDataDevelopment StudiosSingapore<button>
+<button>Senior Events ProducerEsportsRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Financial AccountantAccountingRiot Operations & SupportSingapore<button>
+<button>Senior Game Designer, Combat - Unpublished R&D ProductDesignRiot Operations & SupportShanghai, China<button>
+<button>Senior Game Designer, Competitive Systems - VALORANTDesignVALORANTLos Angeles, USA<button>
+<button>Senior Game Producer 高级游戏项目管理经理 - Unpublished R&D ProductProduction GroupRiot Game OperationsGuangzhou, China<button>
+<button>Senior Game Product Manager, Events - Wild RiftProduct Management GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Game Product Manager, Monetization and Growth - FFGS/金铲铲之战Product Management GroupTeamfight TacticsShanghai, China<button>
+<button>Senior HR Business Partner (Games Division)PeopleRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior HR Business Partner (Corporate)PeopleRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Illustration Artist - League of Legends, Splash TeamArtLeague of LegendsLos Angeles, USA<button>
+<button>Senior Insights Manager - Ecosystem InsightsInsightsRiot Game OperationsLos Angeles, USA<button>
+<button>Senior Interactive Music Designer - League Studios, Creative eXpressionsAudioLeague of LegendsLos Angeles, USA<button>
+<button>Senior Manager, Art Direction – Unpublished R&D ProductArtDevelopment StudiosSingapore<button>
+<button>Senior Manager, Art Direction, Skins – League of LegendsArtDevelopment StudiosSingapore<button>
+<button>Senior Manager, Audio Direction - Unpublished R&D ProductAudioRiot DiscoveryLos Angeles, USA<button>
+<button>Senior Manager, Brand Management – League of Legends: Wild RiftBrand ManagementLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Manager, Creative Direction - Wild RiftArtLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Manager, Data Engineering - ValorantDataVALORANTLos Angeles, USA<button>
+<button>Senior Manager, Equity AdministrationAccountingRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Manager, Game Product Management - Wild RiftProduct Management GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Manager, Game Production - League of Legends, Champions & CosmeticsProduct Management GroupLeague of LegendsLos Angeles, USA<button>
+<button>Senior Manager, Game Production - Unpublished R&D ProductProduction GroupDevelopment StudiosSingapore<button>
+<button>Senior Manager, Internal Communications Lead – ProductCommsRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Manager, Publishing Product Management - Wild RiftProduct Management GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Manager, Software Engineering (Graphics)- League of LegendsSoftware Engineering GroupLeague of LegendsLos Angeles, USA<button>
+<button>Senior Manager, Software Engineering - League of Legends, Developer ExperienceSoftware Engineering GroupLeague of LegendsMercer Island, USA<button>
+<button>Senior Manager, Software Engineering, Build Services - VALORANTSoftware Engineering GroupVALORANTLos Angeles, USA<button>
+<button>Senior Manager, Technical Art Direction - League of LegendsArtLeague of LegendsSingapore<button>
+<button>Senior Manager, User Experience Design - Teamfight TacticsDesignTeamfight TacticsLos Angeles, USA<button>
+<button>Senior Marketing Creative DirectorCreative Direction & ManagementRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Principal Insights Analyst, Growth Marketing/UA - MobileInsightsRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior QA Engineer - Unpublished R&D ProductQA GroupRiot DiscoverySydney, Australia<button>
+<button>Senior QA Engineer, Compliance & Release - Wild RiftQA GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Researcher - Unpublished R&D ProductInsightsRiot DiscoveryLos Angeles, USA<button>
+<button>Senior Researcher - Wild RiftInsightsLeague of Legends: Wild RiftShanghai, China<button>
+<button>Senior Software Engineer - Hextech, GameplaySoftware Engineering GroupLeague of LegendsSydney, Australia<button>
+<button>Senior Software Engineer, Gameplay Systems & AI - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Senior Software Engineer, Gameplay Systems & Animation - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Senior Software Engineer, Player Dynamics - VALORANTSoftware Engineering GroupVALORANTSydney, Australia<button>
+<button>Senior Software Engineer, Support (12 month contract) - Unreal EcosystemSoftware Engineering GroupRiot Operations & SupportSydney, Australia<button>
+<button>Senior Software Engineer, UI & Services - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Senior Software Engineer, Unpublished R&D ProductSoftware Engineering GroupDevelopment StudiosSydney, Australia<button>
+<button>Senior Software Engineer, VALORANT - Release EngineeringSoftware Engineering GroupVALORANTSydney, Australia<button>
+<button>Senior Systems EngineerInfrastructureEsportsBerlin, Germany<button>
+<button>Senior Technical Artist, Animation - Unpublished R&D ProductArtMMOLos Angeles, USA<button>
+<button>Senior Technical Producer - QA PlatformProduction GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Technical Producer, Esports Platforms - Publishing PlatformProduction GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Senior Technical Producer, Services - Unpublished R&D ProductProduction GroupRiot DiscoveryMercer Island, USA<button>
+<button>Senior User Experience Designer, Esports - Publishing PlatformDesignRiot Game OperationsLos Angeles, USA<button>
+<button>Senior Visual Designer, Unpublished R&D TitleArtRiot Operations & SupportMercer Island, USA<button>
+<button>Softlines Product Category ManagerEntertainmentConsumer ProductsLos Angeles, USA<button>
+<button>Software Engineer II, Community Tech - Publishing PlatformSoftware Engineering GroupRiot Game OperationsLos Angeles, USA<button>
+<button>Software Engineer Trainee - League of Legends (Contract)Software Engineering GroupLeague of LegendsSingapore<button>
+<button>Software Engineer, Gameplay - Unpublished R&D Product (Contract)Riot DiscoveryShanghai, China<button>
+<button>Software Engineer, Gameplay - Unpublished R&D Product (Contract)Software Engineering GroupRiot DiscoveryGuangzhou, China<button>
+<button>Software Engineer, Riot Client - Publishing PlatformSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Software Engineer, Services - Unpublished R&D Product (Contract)Software Engineering GroupRiot DiscoveryGuangzhou, China<button>
+<button>Software Engineer, Services - Unpublished R&D Product (Contract)QA GroupRiot DiscoveryShanghai, China<button>
+<button>Software Engineering Manager, AI/ML - VALORANTSoftware Engineering GroupVALORANTLos Angeles, USA<button>
+<button>Sourcing & Analytics ManagerFinanceRiot Operations & SupportLos Angeles, USA<button>
+<button>Sr. Manager, Data Engineering - PubSports InsightsDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Sr. Manager, Game Design 主策 - Unpublished R&D ProductDesignRiot Game OperationsGuangzhou, China<button>
+<button>Sr. Manager, Insights, Competitive - VALORANTInsightsVALORANTLos Angeles, USA<button>
+<button>Sr. Manager, Machine Learning Engineering - Game Tech Group, AI FoundationsDataRiot Game OperationsLos Angeles, USA<button>
+<button>Sr. Manager, Machine Learning Engineering - Game Tech Group, Anti-CheatDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Sr. Manager, Software Engineering (Services Lead) - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Staff Software Engineer - Data FoundationsSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Staff ML Engineer, ML Platform - Game Tech GroupDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Staff Research Scientist, Foundation Models - Tech ResearchDataRiot Operations & SupportLos Angeles, USA<button>
+<button>Staff Software Engineer - Game Tech Group, Unreal EcosystemSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Staff Software Engineer - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoverySydney, Australia<button>
+<button>Staff Software Engineer, Console - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Staff Software Engineer, Core Services - VALORANTSoftware Engineering GroupVALORANTSydney, Australia<button>
+<button>Staff Software Engineer, Gameplay Meta - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryMercer Island, USA<button>
+<button>Staff Software Engineer, Platform Services (Anti-Cheat) - Game Tech GroupSoftware Engineering GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Staff Software Engineer, Rendering 渲染工程师Software Engineering GroupDevelopment StudiosShanghai, China<button>
+<button>Staff Software Engineer, Services - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryShanghai, China<button>
+<button>Staff Software Engineer, Tools - Unpublished R&D ProductSoftware Engineering GroupRiot DiscoveryLos Angeles, USA<button>
+<button>Staff Software Engineer- League of Legends, Around Game FoundationsSoftware Engineering GroupLeague of LegendsLos Angeles, USA<button>
+<button>Strategic Finance AnalystFinanceRiot Operations & SupportDublin, Ireland<button>
+<button>Strategic Finance ProfessionalFinanceRiot Operations & SupportLos Angeles, USA<button>
+<button>Talent Management & Leadership Development PartnerPeopleRiot Operations & SupportLos Angeles, USA<button>
+<button>Technical Art Director - Unpublished R&D ProductArtRiot DiscoveryLos Angeles, USA<button>
+<button>Technical Producer - Unpublished R&D ProductProduction GroupMMOSydney, Australia<button>
+<button>Technical Producer - Wild Rift (Contract)Production GroupLeague of Legends: Wild RiftShanghai, China<button>
+<button>Technical Producer II - League Studio, Machine LearningProduction GroupLeague of LegendsLos Angeles, USA<button>
+<button>Technical Producer II - VALORANT, AIProduction GroupVALORANTLos Angeles, USA<button>
+<button>Technical Product Manager II - Game FoundationsProduct Management GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>Technical Program Manager III - Publishing PlatformProgram Management GroupRiot Operations & SupportLos Angeles, USA<button>
+<button>User Experience Designer III - Unpublished R&D ProductDesignRiot DiscoveryLos Angeles, USA<button>
+<button>动画师 - Unpublished R&D Product (Contract)ArtRiot DiscoveryShanghai, China<button>
+<button>商务合作经理 (Contract)Business DevelopmentRiot Operations & SupportShanghai, China<button>
+<button>技术美术，渲染 - Unpublished R&D Product (Contract)ArtRiot DiscoveryShanghai, China<button>
+<button>资深技术美术 - Unpublished R&D ProductArtRiot DiscoveryGuangzhou, China<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+----- WebWalker -----
+The "Work with us" section lists various job positions but does not mention Patrick Ryan. I should explore the "News" section, as it might contain information about company events or personnel changes.
+
+Action: visit_page
+Action Input: {"button": "News"}
+
+----- VisitPage -----
+The web information is:
+
+
+SIGN IN
+SIGN IN
+Show Me Everything 
+Close filters
+Filter by 
+  * Everything
+  * Offices
+  * Disciplines
+  * News
+  * Inside Riot
+  * One-Shot
+  * Tech Blog
+!
+News
+Apr 30, 2026
+### You Are the Race | Wild Rift x Porsche
+Not your opponents. Not the clock. You set your limits–and your speed. Prestige Select Neon Daredevil Kai’Sa and her custom Porsche hit the Rift April 30th UTC.
+Apr 30, 2026
+!
+News
+May 1, 2026
+### League, VALORANT, and TFT Partner Programs Open Applications Coming...
+Creators in these three games will be able to apply starting in August.
+May 1, 2026
+!
+News
+Apr 28, 2026
+### Know Before You Go: 2XKO @ Evo Japan 2026
+Evo Japan 2026 starts May 1. Here’s everything to know about 2XKO at the event.
+Apr 28, 2026
+!
+News
+Apr 28, 2026
+### 2XKO @ Evo Japan 2026 Trailer
+2WINz, ikoan, and poka defend their home turf at Evo Japan. Watch 2XKO’s next Major starting May 1.
+Apr 28, 2026
+!
+News
+Apr 15, 2026
+### TFT Space Gods Set Trailer
+Ready for some divine intervention? The very power of the cosmos can be yours – worship wisely. TFT’s latest set, Space Gods, has arrived. Play now!
+Apr 15, 2026
+!
+News
+Apr 14, 2026
+### Dev Update: Arena Updates & More
+Pabro and Meddler talk about Season Two Pandemonium, gameplay changes, Arena updates, and more.
+Apr 14, 2026
+!
+News
+Apr 8, 2026
+### The VCT in 2027 where EVERYTHING IS A TOURNAMENT?! 
+Open Qualifiers, Cups, and Masters + Champions. It’s simple, right?
+Apr 8, 2026
+!
+News
+Apr 2, 2026
+### Riot Named to Fortune’s 100 Best Companies to Work For list
+This recognition reflects our focus on ensuring Riot the best place to make games and is thanks to the passion, creativity, and dedication Rioters bring to serve players every day. 
+Apr 2, 2026
+!
+News
+Mar 27, 2026
+### Have a Nice Deity! | SPACE GODS Set Cinematic – Teamfight Tactics
+Enter the celestial realm of the SPACE GODS! Come forth, pay homage, and be blessed with cosmic power.
+Mar 27, 2026
+      
+                          
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>You Are the Race | Wild Rift x Porsche<button>
+<button>League, VALORANT, and TFT Partner Programs Open Applications Coming...<button>
+<button>Know Before You Go: 2XKO @ Evo Japan 2026<button>
+<button>2XKO @ Evo Japan 2026 Trailer<button>
+<button>TFT Space Gods Set Trailer<button>
+<button>Dev Update: Arena Updates & More<button>
+<button>The VCT in 2027 where EVERYTHING IS A TOURNAMENT?!<button>
+<button>Riot Named to Fortune’s 100 Best Companies to Work For list<button>
+<button>Have a Nice Deity! | SPACE GODS Set Cinematic – Teamfight Tactics<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+----- WebWalker -----
+The "News" section does not mention Patrick Ryan. I should explore the "Press" section, as it might contain information about company press releases or personnel changes.
+
+Action: visit_page
+Action Input: {"button": "Press"}
+
+----- VisitPage -----
+The web information is:
+
+
+SIGN IN
+SIGN IN
+# Press
+## Logos
+Jump To: 
+          
+!
+### Riot Logos for Print
+.ZIP 2.66MB
+!
+### Riot Logos for Web
+.ZIP 437.57kB
+!
+### League of Legends Logo
+PNG 5.88MB
+Close
+League of Legends Logo
+!
+### League of Legends: Wild Rift Logos
+.ZIP 85.37kB
+!
+### Legends of Runeterra Logos
+PNG 1.87MB
+Close
+Legends of Runeterra Logos
+!
+### Teamfight Tactics Logos
+.ZIP 512.33kB
+!
+### VALORANT Logos
+.ZIP 271.17kB
+## Media Contacts
+### Media Inquiries
+  * media@riotgames.com
+### Twitter
+            
+### Facebook
+            
+### Instagram
+            
+### Linkedin
+  
+### YouTube
+          
+      
+                          
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>Logos<button>
+<button>Riot HQ Photos<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+----- WebWalker -----
+The "Press" section does not provide information about Patrick Ryan. I should explore the "Logos" section, as it might contain information about company branding or personnel changes.
+
+Action: visit_page
+Action Input: {"button": "Logos"}
+
+----- VisitPage -----
+The web information is:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+SIGN IN
+SIGN IN
+!
+!
+# 
+Patch 7.5: Zoe
+Want to see something neat? Zoe joins the Path of Champions, plus the Spirit Blossom Event Adventure returns!
+!
+!
+# 
+SEASON 26 ACT III STARTS NOW 
+Kick off ACT III with the return of Kuronami, Skirmish: Ascension, a fresh Map rotation, and more. 
+## What's happening?
+ League, VALORANT, and TFT Partner Programs Open Applications Coming... News ](
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+## Games
+ ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore")
+## Esports & Entertainment
+! ]( ]( ]( ]( ](
+## We’re hiring!
+Team up with Riot to forge your path and craft unforgettable experiences for players
+!
+      
+                          
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21mainMenuDownNonHover<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>See more<button>
+<button>League, VALORANT, and TFT Partner Programs Open Applications Coming...News<button>
+<button>You Are the Race | Wild Rift x PorscheNews<button>
+<button>Know Before You Go: 2XKO @ Evo Japan 2026News<button>
+<button>2XKO @ Evo Japan 2026 TrailerNews<button>
+<button>TFT Space Gods Set TrailerNews<button>
+<button>181Open positions<button>
+<button>24Offices<button>
+<button>Explore Careers<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+----- WebWalker -----
+The "Logos" section does not provide information about Patrick Ryan. I should return to the previous page and explore other sections or pages recursively until I find the necessary information. 
+
+Action: visit_page
+Action Input: {"button": "To the Surface"}
+
+----- VisitPage -----
+The web information is:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+SIGN IN
+SIGN IN
+!
+!
+# 
+Patch 7.5: Zoe
+Want to see something neat? Zoe joins the Path of Champions, plus the Spirit Blossom Event Adventure returns!
+!
+!
+# 
+SEASON 26 ACT III STARTS NOW 
+Kick off ACT III with the return of Kuronami, Skirmish: Ascension, a fresh Map rotation, and more. 
+## What's happening?
+ League, VALORANT, and TFT Partner Programs Open Applications Coming... News ](
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+## Games
+ ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore")
+## Esports & Entertainment
+! ]( ]( ]( ]( ](
+## We’re hiring!
+Team up with Riot to forge your path and craft unforgettable experiences for players
+!
+      
+                          
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21mainMenuDownNonHover<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>See more<button>
+<button>League, VALORANT, and TFT Partner Programs Open Applications Coming...News<button>
+<button>You Are the Race | Wild Rift x PorscheNews<button>
+<button>Know Before You Go: 2XKO @ Evo Japan 2026News<button>
+<button>2XKO @ Evo Japan 2026 TrailerNews<button>
+<button>TFT Space Gods Set TrailerNews<button>
+<button>181Open positions<button>
+<button>24Offices<button>
+<button>Explore Careers<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+----- WebWalker -----
+I need to continue exploring the Riot Games website to find information about Patrick Ryan's previous employment and the financial services inclusion network he helped create. I will recursively visit pages until I find the necessary information.
+
+Action: visit_page
+Action Input: {"button": "Leadership"}
+
+----- VisitPage -----
+The web information is:
+
+
+SIGN IN
+SIGN IN
+# Riot's Leadership
+## Company Leadership
+!
+Chief Executive Officer
+### A. Dylan Jadeja
+Chief Executive Officer
+!
+Co-Founder, Co-Chairman, & Chief Product Officer
+### Marc Merrill
+Co-Founder, Co-Chairman, & Chief Product Officer
+!
+Co-Founder & Co-Chairman
+### Brandon Beck
+Co-Founder & Co-Chairman
+!
+President
+### Hoby Darling
+President
+!
+President, Publishing & Esports
+### John Needham
+President, Publishing & Esports
+!
+Chief People Officer
+### Emily Winkle
+Chief People Officer
+!
+Chief Financial Officer
+### Mark Sottosanti
+Chief Financial Officer
+!
+General Counsel
+### Dan Chang
+General Counsel
+!
+Chief Strategy Officer
+### Abhi Ramprasad
+Chief Strategy Officer
+## Studio Leadership
+!
+Chief Design Officer of R&D
+### Tom Cadwell
+Chief Design Officer of R&D
+!
+Head of China Studio
+### Leo Lin
+Head of China Studio
+!
+Studio Head, League of Legends
+### Andrei van Roon
+Studio Head, League of Legends
+!
+Studio Head, VALORANT
+### Anna Donlon
+Studio Head, VALORANT
+!
+Head of Animation Studio
+### Christian Linke
+Head of Animation Studio
+!
+EP, League of Legends
+### Paul Bellezza
+EP, League of Legends
+!
+EP, Legends of Runeterra
+### Eric Shen
+EP, Legends of Runeterra
+!
+EP, Teamfight Tactics
+### Geoffrey Virtue
+EP, Teamfight Tactics
+!
+EP, League of Legends: Wild Rift
+### David Xu
+EP, League of Legends: Wild Rift
+!
+EP, VALORANT
+### Andy Ho
+EP, VALORANT
+!
+EP, 2XKO
+### Tom Cannon
+EP, 2XKO
+!
+EP, Riftbound
+### Chengran Chai
+EP, Riftbound
+## Publishing & Esports Leadership
+!
+Head of Global Publishing
+### Sarah Schutz
+Head of Global Publishing
+!
+Global Head of Music
+### Maria Egan
+Global Head of Music
+!
+Head of International Publishing & Esports
+### Whalen Rozelle
+Head of International Publishing & Esports
+!
+Global Head of LoL Esports
+### Chris Greeley
+Global Head of LoL Esports
+!
+Global Head of VALORANT Esports
+### Leo Faria
+Global Head of VALORANT Esports
+!
+Global Head of Teamfight Tactics (TFT) & Emerging Esports
+### Michael Sherman
+Global Head of Teamfight Tactics (TFT) & Emerging Esports
+      
+                          
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>A. Dylan Jadeja<button>
+<button>Read more<button>
+<button>Marc Merrill<button>
+<button>Read more<button>
+<button>Brandon Beck<button>
+<button>Read more<button>
+<button>Hoby Darling<button>
+<button>Read more<button>
+<button>John Needham<button>
+<button>Read more<button>
+<button>Emily Winkle<button>
+<button>Read more<button>
+<button>Mark Sottosanti<button>
+<button>Read more<button>
+<button>Dan Chang<button>
+<button>Read more<button>
+<button>Abhi Ramprasad<button>
+<button>Read more<button>
+<button>Tom Cadwell<button>
+<button>Read more<button>
+<button>Leo Lin<button>
+<button>Read more<button>
+<button>Andrei van Roon<button>
+<button>Read more<button>
+<button>Anna Donlon<button>
+<button>Read more<button>
+<button>Christian Linke<button>
+<button>Read more<button>
+<button>Paul Bellezza<button>
+<button>Read more<button>
+<button>Eric Shen<button>
+<button>Read more<button>
+<button>Geoffrey Virtue<button>
+<button>Read more<button>
+<button>David Xu<button>
+<button>Read more<button>
+<button>Andy Ho<button>
+<button>Read more<button>
+<button>Tom Cannon<button>
+<button>Read more<button>
+<button>Chengran Chai<button>
+<button>Read more<button>
+<button>Sarah Schutz<button>
+<button>Read more<button>
+<button>Maria Egan<button>
+<button>Read more<button>
+<button>Whalen Rozelle<button>
+<button>Read more<button>
+<button>Chris Greeley<button>
+<button>Read more<button>
+<button>Leo Faria<button>
+<button>Read more<button>
+<button>Michael Sherman<button>
+<button>Read more<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0016_993fdec0e11b",
+  "source_index": 16,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which event has a higher total reward pool, the SHIBUYA Y3K event on October 2, 2024, or the upcoming The Smurfs: Gargamel's Castle experience?",
+  "prompt": "Which event has a higher total reward pool, the SHIBUYA Y3K event on October 2, 2024, or the upcoming The Smurfs: Gargamel's Castle experience?",
+  "expected_answer": "SHIBUYA Y3K event has a higher total prize pool of 65,000 SAND compared to The Smurfs: Gargamel's Castle's 1,009 SAND.",
+  "root_url": "https://www.sandbox.game/en/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.sandbox.game/en/blog/futuristic-fashion-has-arrived-the-shibuya-y3k-fashion-collection-is-here/3420",
+      "https://www.sandbox.game/en/experiences/The%20Smurfs:%20Gargamel's%20Castle/1bb49753-34fd-452c-8f59-719ae040a92a/page"
+    ],
+    "golden_path": [
+      "root->News->PartnershipsFuturistic Fashion Has Arrived: The SHIBUYA Y3K Fashion Collection is Here!Sep 18, 2024 -  min read",
+      "root->Experiences->4.6The Smurfs: Gargamel's Castle37K1Single Player"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 12.771,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0016_993fdec0e11b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0016_993fdec0e11b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0465_a277ff867895",
+  "source_index": 465,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "For ACL 2024, what is the deadline for students requiring financial assistance to apply for discounted virtual registration, and by what date will they be notified about the selection for D&I subsidies?",
+  "prompt": "For ACL 2024, what is the deadline for students requiring financial assistance to apply for discounted virtual registration, and by what date will they be notified about the selection for D&I subsidies?",
+  "expected_answer": "The deadline for students to apply for discounted virtual registration is July 26, 2024. They will be notified about selection for D&I subsidies by July 9, 2024.",
+  "root_url": "https://2024.aclweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://2024.aclweb.org/calls/subsidies",
+      "https://2024.aclweb.org/registration#discounted-virtual-registration"
+    ],
+    "golden_path": [
+      "root->Call for Diversity and Inclusion Subsidies",
+      "root->Discounted Virtual Registration"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "For ACL 2024, the deadline for students requiring financial assistance to apply for discounted virtual registration is July 26 (AoE), and they will be notified about the selection for D&I subsidies by August 2.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 17.649,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0465_a277ff867895/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0465_a277ff867895/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

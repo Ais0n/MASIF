@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0011_aee9cab2a53c",
+  "source_index": 11,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What was the specific schedule for the social event held on the evening after the ACL 2023 best paper awards ceremony?",
+  "prompt": "What was the specific schedule for the social event held on the evening after the ACL 2023 best paper awards ceremony?",
+  "expected_answer": "The social event was scheduled from 7:00 PM to 10:30 PM on July 11th.",
+  "root_url": "https://2023.aclweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://2023.aclweb.org/program/best_papers/",
+      "https://2023.aclweb.org/program/social/"
+    ],
+    "golden_path": [
+      "root->Program->Best Papers",
+      "root->Program->Social Programs"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The social event was held on Tuesday, July 11th, from 18:30 to 22:00.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 38.962,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0011_aee9cab2a53c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0011_aee9cab2a53c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

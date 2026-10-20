@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0649_24b0fdcb1a82",
+  "source_index": 649,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2019年和2020年，北京邮电大学计算机学院获得了几个首批国家级一流本科专业建设点？这些专业的主干学科分别是什么？",
+  "prompt": "在2019年和2020年，北京邮电大学计算机学院获得了几个首批国家级一流本科专业建设点？这些专业的主干学科分别是什么？",
+  "expected_answer": "两个专业获得了首批国家级一流本科专业建设点：计算机科学与技术专业和软件工程专业。计算机科学与技术专业的主干学科是计算机科学与技术、信息与通信工程，软件工程专业的主干学科是软件工程。",
+  "root_url": "https://scs.bupt.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scs.bupt.edu.cn/info/1011/1731.htm"
+    ],
+    "golden_path": [
+      "root->本科生培养->专业介绍2019-01-21"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在2019年和2020年，北京邮电大学计算机学院获得了两个首批国家级一流本科专业建设点，分别是计算机科学与技术专业和软件工程专业。其中，计算机科学与技术专业的主干学科为计算机科学与技术、信息与通信工程；软件工程专业的主干学科为软件工程。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer provides the exact same factual information as the expected answer, including the two majors and their respective main disciplines, just with slightly different phrasing.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer provides the exact same factual information as the expected answer, including the two majors and their respective main disciplines, just with slightly different phrasing.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 24.043,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0649_24b0fdcb1a82/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0649_24b0fdcb1a82/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

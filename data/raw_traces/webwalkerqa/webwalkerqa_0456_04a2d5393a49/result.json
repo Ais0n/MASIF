@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0456_04a2d5393a49",
+  "source_index": 456,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the theme of RovioCon Google 2024 and the name of the Angry Birds animated series released during the 15th anniversary?",
+  "prompt": "What is the theme of RovioCon Google 2024 and the name of the Angry Birds animated series released during the 15th anniversary?",
+  "expected_answer": "The theme of RovioCon Google 2024 is 'Slingshot to Stardom' and the animated series released during the Angry Birds 15th anniversary is 'Angry Birds Mystery Island: A Hatchlings Adventure.'",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/roviocon-google-a-celebration-of-games-growth-and-the-future-of-mobile/",
+      "https://www.rovio.com/articles/angry-birds-celebrates-15th-anniversary-with-special-in-game-events-and-more/"
+    ],
+    "golden_path": [
+      "root->RovioCon Google: A Celebration of Games, Growth, and the Future of Mobile",
+      "root->Angry Birds Celebrates 15th Anniversary with Special In-Game Events and More"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 51.888,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0456_04a2d5393a49/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0456_04a2d5393a49/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

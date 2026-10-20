@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0119_862ffc7c46d7",
+  "source_index": 119,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "谁是Institute of Navigation的执行董事（Executive Director）？",
+  "prompt": "谁是Institute of Navigation的执行董事（Executive Director）？",
+  "expected_answer": "Lisa Beaty",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/about/contact.cfm"
+    ],
+    "golden_path": [
+      "root->Contact ION"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "Dr. Gary McGraw是Institute of Navigation的执行董事（Executive Director）。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 5,
+  "duration_seconds": 66.756,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0119_862ffc7c46d7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0119_862ffc7c46d7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer names Dr. Gary McGraw, which is a completely different person from the expected answer Lisa Beaty.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

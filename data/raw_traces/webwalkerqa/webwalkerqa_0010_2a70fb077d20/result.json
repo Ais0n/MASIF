@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0010_2a70fb077d20",
+  "source_index": 10,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which scholars presented the IMPACT project on safety-critical systems and software inspections, reviews, and walkthroughs at the ICSE 2002 conference?",
+  "prompt": "Which scholars presented the IMPACT project on safety-critical systems and software inspections, reviews, and walkthroughs at the ICSE 2002 conference?",
+  "expected_answer": "The IMPACT presentations at ICSE 2002 were headed by John Knight on safety-critical systems and Oliver Laitenberger on software inspections, reviews, and walkthroughs.",
+  "root_url": "http://www.icse-conferences.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "http://www.icse-conferences.org/2002/info/soa.html",
+      "http://www.icse-conferences.org/2002/info/impact.html"
+    ],
+    "golden_path": [
+      "root->Orlando, Florida, USA->State-of-the-Art Presentations",
+      "root->Orlando, Florida, USA->IMPACT Presentations"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The scholars who presented the IMPACT project on safety-critical systems and software inspections, reviews, and walkthroughs at the ICSE 2002 conference are Marcus Ciolkowski, Oliver Laitenberger, Dieter Rombach, and Forrest Shull.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 36.173,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0010_2a70fb077d20/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0010_2a70fb077d20/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict\":",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

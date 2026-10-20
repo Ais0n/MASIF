@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0375_aa9b7a671bd1",
+  "source_index": 375,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In which country did Rovio sponsor a Pride event for the first time in 2023 to celebrate diversity and inclusion?",
+  "prompt": "In which country did Rovio sponsor a Pride event for the first time in 2023 to celebrate diversity and inclusion?",
+  "expected_answer": "Finland",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/reflecting-on-pride-2023/"
+    ],
+    "golden_path": [
+      "root->Support->DEI BlogReflecting on our progress in Diversity, Equity and Inclusion->Reflecting on Pride 2023"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "Rovio sponsored Helsinki Pride 2025, which was their first Pride event sponsorship in 2023 to celebrate diversity and inclusion.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 14.687,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0375_aa9b7a671bd1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0375_aa9b7a671bd1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

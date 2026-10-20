@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0319_ba8aea1585c3",
+  "source_index": 319,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2023年湖南省普通高等学校课程思政高质量建设研讨会上，南华大学计算机学院的哪位老师进行了经验分享？",
+  "prompt": "在2023年湖南省普通高等学校课程思政高质量建设研讨会上，南华大学计算机学院的哪位老师进行了经验分享？",
+  "expected_answer": "李晓昀",
+  "root_url": "https://jsjxy.usc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.usc.edu.cn/info/1993/11058.htm"
+    ],
+    "golden_path": [
+      "root->更多+->4->我校李晓昀老师在2023年湖南省普通高校课程思政高质量建设研讨会上进行经验分享"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "在2023年湖南省普通高等学校课程思政高质量建设研讨会上，南华大学计算机学院的刘新旺教授进行了经验分享。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 21.886,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0319_ba8aea1585c3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0319_ba8aea1585c3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer identifies a completely different person (刘新旺) than the expected answer (李晓昀).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0032_c383f92922bb",
+  "source_index": 32,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In 2024, how did Rovio express a commitment to its community through its actions in reviving classic games and supporting the Brazil Nut Corridor conservation?",
+  "prompt": "In 2024, how did Rovio express a commitment to its community through its actions in reviving classic games and supporting the Brazil Nut Corridor conservation?",
+  "expected_answer": "Rovio announced plans to bring back classic Angry Birds games due to fan demand and supported the Brazil Nut Corridor conservation through the Wild Green Future's Annual Charity Battle.",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/a-letter-to-our-fans/",
+      "https://www.rovio.com/articles/angry-birds-contributes-to-wild-green-futures-annual-charity-battle/"
+    ],
+    "golden_path": [
+      "root->Angry Birds->A letter to our fans",
+      "root->Support->Angry Birds contributes to Wild Green Future’s Annual Charity Battle"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "In 2024, Rovio expressed a commitment to its community through its actions in reviving classic games and supporting the Brazil Nut Corridor conservation by focusing on sustainability initiatives. The company's sustainability strategy includes three areas: Positive Play, Empowered People, and Protecting our Planet. Specifically, Rovio has been an active member of the Playing for the Planet Alliance since 2019, which drives better climate and environmental management within the gaming industry. Additionally, Rovio has partnered with organizations like FIBS and Better Games Together to promote sustainable business practices and inclusivity in the gaming industry.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 21.204,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0032_c383f92922bb/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0032_c383f92922bb/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0390_ab067e03afa1",
+  "source_index": 390,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When and what was the result of the lawsuit against Riot Games and former CEO Nicolo Laurent?",
+  "prompt": "When and what was the result of the lawsuit against Riot Games and former CEO Nicolo Laurent?",
+  "expected_answer": "2024年5月7日，仲裁员宣布对Riot Games和前CEO Nicolo Laurent的所有指控均为无依据。",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/news/update-on-2021-lawsuit"
+    ],
+    "golden_path": [
+      "root->Diversity & Inclusion->From VALORANT to LGBTQIA+ Game Shows, Euphoria Ng Builds Community...->Update on 2021 Lawsuit Against Riot & Former CEO"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 4,
+  "duration_seconds": 33.803,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0390_ab067e03afa1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0390_ab067e03afa1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

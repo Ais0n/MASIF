@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0389_2f6e3a591669",
+  "source_index": 389,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "陆院长在南京理工大学计算机科学与工程学院开展2016级本科生毕业生学业指导大会，给考研学生提出哪些建议？",
+  "prompt": "陆院长在南京理工大学计算机科学与工程学院开展2016级本科生毕业生学业指导大会，给考研学生提出哪些建议？",
+  "expected_answer": "进行多种准备、全方面考虑，注意比较报考院校往年录取人数、招生名额等，并不要盲目从众，选择适合自己的方向。",
+  "root_url": "https://cs.njust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njust.edu.cn/72/2a/c12496a225834/page.htm"
+    ],
+    "golden_path": [
+      "root->学风建设->尾页->计算机科学与工程学院开展2016级本科生毕业生学业指导大会2019-10-28"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 51.054,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0389_2f6e3a591669/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0389_2f6e3a591669/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

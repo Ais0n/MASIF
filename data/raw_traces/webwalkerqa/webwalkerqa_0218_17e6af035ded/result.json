@@ -1,0 +1,47 @@
+{
+  "task_id": "webwalkerqa_0218_17e6af035ded",
+  "source_index": 218,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who was the General Chair of the ICSE conference in 2002?",
+  "prompt": "Who was the General Chair of the ICSE conference in 2002?",
+  "expected_answer": "Will Tracz",
+  "root_url": "http://www.icse-conferences.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "http://www.icse-conferences.org/2002/"
+    ],
+    "golden_path": [
+      "root->Toronto, Ontario, Canada->ICSE 2002"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "Will Tracz was the General Chair of the ICSE conference in 2002.",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer provides the correct factual answer in a full sentence rather than just the name.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 17.391,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0218_17e6af035ded/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0218_17e6af035ded/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "The predicted answer provides the correct factual answer in a full sentence rather than just the name.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

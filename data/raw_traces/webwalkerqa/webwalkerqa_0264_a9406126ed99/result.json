@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0264_a9406126ed99",
+  "source_index": 264,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年1月谁成为西北工业大学计算机学院副院长，并负责科研、保密、产学研合作、安全生产与国有资产管理工作？",
+  "prompt": "2024年1月谁成为西北工业大学计算机学院副院长，并负责科研、保密、产学研合作、安全生产与国有资产管理工作？",
+  "expected_answer": "史豪斌",
+  "root_url": "https://jsj.nwpu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsj.nwpu.edu.cn/info/1508/6990.htm"
+    ],
+    "golden_path": [
+      "root->现任领导->个人简介>>"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "2024年1月，郭斌成为西北工业大学计算机学院副院长，并负责科研、保密、产学研合作、安全生产与国有资产管理工作。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 17.361,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0264_a9406126ed99/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0264_a9406126ed99/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer names Guo Bin (郭斌)",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,325 @@
+----- user -----
+query:
+What international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024 and academic activities on October 31st are scheduled?
+official website:
+https://cs.sdufe.edu.cn/
+Observation:website information:
+
+          
+]( "计算机新")
+                                                                                                            
+]( "计算机新")
+                                                                                                            
+NEWS...
+学院要闻
+ 查看更多 ](
+ 2026年04月23日 青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采 为丰富校园文化生活，展现青年学子昂扬向上的精神风貌，营造朝气蓬勃的校园氛围，4月23日，我校第十一届校园啦啦操比赛在章丘校区举办。 ]( "青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采")
+ 2026年04月22日 我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕 4月22日晚，我院“智汇国安 思辨未来——AI时代守正创新”主题辩论赛决赛在章丘校区圆满举行，院团委书记李晨露，辅导员潘云默、郑雅馨，300余名同学参加活动。 ]( "我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕")
+ 2026年04月30日 追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩 山东财经大学2026年春季运动会于4月29日至30日在章丘校区隆重举行。学院运动员以昂扬姿态亮相赛场，尽显青春风采与团队力量。 ]( "追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩")
+ 2026年04月23日 青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采 为丰富校园文化生活，展现青年学子昂扬向上的精神风貌，营造朝气蓬勃的校园氛围，4月23日，我校第十一届校园啦啦操比赛在章丘校区举办。 ]( "青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采")
+ 2026年04月22日 我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕 4月22日晚，我院“智汇国安 思辨未来——AI时代守正创新”主题辩论赛决赛在章丘校区圆满举行，院团委书记李晨露，辅导员潘云默、郑雅馨，300余名同学参加活动。 ]( "我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕")
+ 2026年04月30日 追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩 山东财经大学2026年春季运动会于4月29日至30日在章丘校区隆重举行。学院运动员以昂扬姿态亮相赛场，尽显青春风采与团队力量。 ]( "追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩")
+ 2026年04月23日 青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采 为丰富校园文化生活，展现青年学子昂扬向上的精神风貌，营造朝气蓬勃的校园氛围，4月23日，我校第十一届校园啦啦操比赛在章丘校区举办。 ]( "青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采")
+!!
+! 
+### 
+! 
+### 
+### 
+### 
+### 
+### 
+NOTICE...
+通知公告
+ 查看更多 ](
+!
+!
+!
+!
+!
+!
+!
+    
+!
+!
+!
+2023年10月11日
+带有晶格拓扑的超像素快速生成算法 
+带有晶格拓扑的超像素快速生成算法----潘晓，周元峰，张云峰，张彩明
+ACADEMIC...
+学术动态
+ 查看更多 ](
+ 基于锚点图的自加权不完整多视图聚类法 基于锚点图的自加权不完整多视图聚类法——于晓，刘慧，林毓秀，吴彦，张彩明 ]( "基于锚点图的自加权不完整多视图聚类法")  基于本质自表示的多视角子空间聚类 基于本质自表示的多视角子空间聚类——于晓，刘慧，吴彦，张彩明 ]( "基于本质自表示的多视角子空间聚类")  山东财经大学区块链疫情采集监测系统 “区块链疫情采集监测系统”由山东财经大学计算机科学与技术学院、山东省区块链金融重点实验室、阿里云、山东省立医院等技术力量协同研发部署。 ]( "山东财经大学区块链疫情采集监测系统")
+NEWS...
+新IT大讲堂
+ 查看更多 ](
+  梁吉业 ! 2025年5月10日（周六）14:30 ! 燕山校区3号楼3306 ]( "\[No.89\]CCF-AI走进高校活动")
+  陈恩红 ! 2025年4月25日（周五）14:30 ! 燕山校区3号楼3306 ]( "\[No.88\]大模型理解与应用研讨会")
+  杜岚 ! 2024年10月20日（周日）14:30 ! 燕山校区1406会议室 ]( "\[No.87\]Diversity Enhanced Active Learning with Strictly Proper Scoring Rules")
+  ! 2024年6月5-8日(周三-周六) ! 中国青岛 ]( "\[No.86\]International Conference on Geometric Modeling and Processing \(GMP 2024\)")
+  ! 2024年7月26日-28日 ! 中国西安 ]( "\[No.85\]第五届人工智能与机器人关键技术大会征稿通知")
+  徐常胜 ! 2026年3月7日（周六）14:00 ! 燕山校区1号楼1406 ]( "\[No.94\]开放世界的多模态大模型研究与应用")
+  张盛平 ! 2025年12月16日（周二）10:30 ! 燕山校区1号教学楼1406会议室 ]( "\[No.93\]2026年度国家自然科学基金申报辅导系列报告会（二）")
+  孟庆刚 ! 2025年8月19日（周二）14:00 ! 燕山校区1406会议室 ]( "\[No.92\]Harnessing AI and Embedded Intelligence to Tackle Real-World Challenges")
+  沈琳琳 ! 2025年7月19日（周六）10:00 ! 燕山校区1号楼1406 ]( "\[No.91\]从通用/垂域大模型到智能体")
+  马占宇 ! 2025年5月27日（周二）14:30 ! 燕山校区3号楼3306 ]( "\[No.90\]图像内容理解与生成")
+  梁吉业 ! 2025年5月10日（周六）14:30 ! 燕山校区3号楼3306 ]( "\[No.89\]CCF-AI走进高校活动")
+  陈恩红 ! 2025年4月25日（周五）14:30 ! 燕山校区3号楼3306 ]( "\[No.88\]大模型理解与应用研讨会")
+  杜岚 ! 2024年10月20日（周日）14:30 ! 燕山校区1406会议室 ]( "\[No.87\]Diversity Enhanced Active Learning with Strictly Proper Scoring Rules")
+  ! 2024年6月5-8日(周三-周六) ! 中国青岛 ]( "\[No.86\]International Conference on Geometric Modeling and Processing \(GMP 2024\)")
+  ! 2024年7月26日-28日 ! 中国西安 ]( "\[No.85\]第五届人工智能与机器人关键技术大会征稿通知")
+  徐常胜 ! 2026年3月7日（周六）14:00 ! 燕山校区1号楼1406 ]( "\[No.94\]开放世界的多模态大模型研究与应用")
+  张盛平 ! 2025年12月16日（周二）10:30 ! 燕山校区1号教学楼1406会议室 ]( "\[No.93\]2026年度国家自然科学基金申报辅导系列报告会（二）")
+  孟庆刚 ! 2025年8月19日（周二）14:00 ! 燕山校区1406会议室 ]( "\[No.92\]Harnessing AI and Embedded Intelligence to Tackle Real-World Challenges")
+  沈琳琳 ! 2025年7月19日（周六）10:00 ! 燕山校区1号楼1406 ]( "\[No.91\]从通用/垂域大模型到智能体")
+  马占宇 ! 2025年5月27日（周二）14:30 ! 燕山校区3号楼3306 ]( "\[No.90\]图像内容理解与生成")
+!!
+!
+AI...
+AI时代
+ 查看更多 ](
+!
+!
+!
+地址：济南市二环东路7366号
+电话（传真）：0531-88596228
+邮箱：2518190445@qq.com
+!
+欢迎关注微信公众号
+山东财经大学计算机与人工智能学院 版权所有 COPYRIGHT@2025
+    
+](
+                                                                                                            
+;)
+1 : 00 AM
+  
+Hour
+Minutes
+;) ;)   
+;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;)   
+;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;)   
+;)   
+
+
+clickable button:
+
+<button>官方微信<button>
+<button>首页<button>
+<button>学院要闻<button>
+<button>通知公告<button>
+<button>学术动态<button>
+<button>新IT卓越大讲堂<button>
+<button>AI时代<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>师资队伍<button>
+<button>教师名录<button>
+<button>知名专家<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>党群工作<button>
+<button>党群动态<button>
+<button>组织建设<button>
+<button>制度建设<button>
+<button>学生工作<button>
+<button>学工队伍<button>
+<button>学团活动<button>
+<button>学团风采<button>
+<button>合作交流<button>
+<button>社会服务<button>
+<button>国际合作<button>
+<button>校友之家<button>
+<button>查看更多<button>
+<button>2026年04月23日青春逐梦，律动赛场 ——我院学子在校园啦啦操比赛中尽显风采为丰富校园文化生活，展现青年学子昂扬向上的精神风貌，营造朝气蓬勃的校园氛围，4月23日，我校第十一届校园啦啦操比赛在章丘校区举办。<button>
+<button>2026年04月22日我院“智汇国安 思辨未来——AI时代的守正与创新”辩论赛圆满落幕4月22日晚，我院“智汇国安 思辨未来——AI时代守正创新”主题辩论赛决赛在章丘校区圆满举行，院团委书记李晨露，辅导员潘云默、郑雅馨，300余名同学参加活动。<button>
+<button>2026年04月30日追光逐梦正青春——计算机与人工智能学院在我校2026年春季运动会中再创佳绩山东财经大学2026年春季运动会于4月29日至30日在章丘校区隆重举行。学院运动员以昂扬姿态亮相赛场，尽显青春风采与团队力量。<button>
+<button>我院举办2026年“三千计划”社会实...<button>
+<button>计算机与人工智能学院组织教师到冠...<button>
+<button>“铸魂育人”国防教育辅导员工作...<button>
+<button>智启青春 体健未来——我院吉尼斯...<button>
+<button>计算机与人工智能学院到三涧溪开...<button>
+<button>字节跳动TRAE走进山东财经大学：A...<button>
+<button>查看更多<button>
+<button>2026年04月13日关于公布2025级校园心理剧大赛获奖人员的通知<button>
+<button>2026年04月03日计算机与人工智能学院党建IP形象设计征集活动通知<button>
+<button>2026年04月02日关于举办“财智校园，AI同行”编程黑客松 活动的通知<button>
+<button>2026年04月01日计算机与人工智能学院“春日光影·逐梦运动”创作征集大赛通知<button>
+<button>2026年04月01日关于开展全民国家安全教育日主题团日活动的通知<button>
+<button>查看更多<button>
+<button>基于锚点图的自加权不完整多视图聚类法基于锚点图的自加权不完整多视图聚类法——于晓，刘慧，林毓秀，吴彦，张彩明<button>
+<button>基于本质自表示的多视角子空间聚类基于本质自表示的多视角子空间聚类——于晓，刘慧，吴彦，张彩明<button>
+<button>山东财经大学区块链疫情采集监测系统“区块链疫情采集监测系统”由山东财经大学计算机科学与技术学院、山东省区块链金融重点实验室、阿里云、山东省立医院等技术力量协同研发部署。<button>
+<button>查看更多<button>
+<button>[No.89][No.89]CCF-AI走进高校活动梁吉业2025年5月10日（周六）14:30燕山校区3号楼3306<button>
+<button>[No.88][No.88]大模型理解与应用研讨会陈恩红2025年4月25日（周五）14:30燕山校区3号楼3306<button>
+<button>[No.87][No.87]Diversity Enhanced Active Lear...杜岚2024年10月20日（周日）14:30燕山校区1406会议室<button>
+<button>[No.86][No.86]International Conference on Ge...2024年6月5-8日(周三-周六)中国青岛<button>
+<button>[No.85][No.85]第五届人工智能与机器人关键技术...2024年7月26日-28日中国西安<button>
+<button>[No.94][No.94]开放世界的多模态大模型研究与应...徐常胜2026年3月7日（周六）14:00燕山校区1号楼1406<button>
+<button>[No.93][No.93]2026年度国家自然科学基金申报辅...张盛平2025年12月16日（周二）10:30燕山校区1号教学楼1406会议室<button>
+<button>[No.92][No.92]Harnessing AI and Embedded Int...孟庆刚2025年8月19日（周二）14:00燕山校区1406会议室<button>
+<button>[No.91][No.91]从通用/垂域大模型到智能体沈琳琳2025年7月19日（周六）10:00燕山校区1号楼1406<button>
+<button>[No.90][No.90]图像内容理解与生成马占宇2025年5月27日（周二）14:30燕山校区3号楼3306<button>
+<button>查看更多<button>
+<button>2025年06月25日OpenAI与甲骨文强强联手，打造星际之门数据中心计划OpenAI 与甲骨文近日宣布深化合作，共同推进 “星际之门” 计划，旨在通过扩建数据中心集...<button>
+<button>2025年06月14日Claude Code再升级！Hooks功能解锁AI编程新境界，自动化更智能。Anthropic 推出的 Claude Code 凭借强大的代码理解与自动化能力，已成为众多开发者的得力...<button>
+<button>2025年06月07日Shortcut横空出世！AI Excel助手10倍速碾压人类冠军，自动化任务效率飙升。Shortcut 是一款引发热议的 AI Excel 助手，依托自然语言处理技术，让用户无需编写复杂公...<button>
+<button>2025年05月28日国内有哪些ai大模型？一文看懂中国核心AI大模型全景。OpenAI 于 26 日宣布，将在首尔设立办公室并正式进入韩国市场，旨在加强与韩国人工智能（...<button>
+<button>中华人民共和国教育部<button>
+<button>山东省教育厅（省委教育工委）<button>
+<button>中国计算机学会<button>
+<button>山东省计算机学会<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024 and academic activities on October 31st. The "Academic Dynamic" section might have relevant information, so I will visit that page.
+
+Action: visit_page
+Action Input: {"button": "学术动态"}
+
+----- VisitPage -----
+The web information is:
+
+          
+]( "计算机新")
+                                                                                                            
+]( "计算机新")
+                                                                                                            
+学术动态
+ 
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *  
+|   
+ | 共18条 1/2   |  首页上页 页  |  
+| --- | --- |  
+ |  
+  * ]( "学院要闻")
+  * ]( "通知公告")
+  * ]( "学术动态")
+  * ]( "新IT卓越大讲堂")
+  * ]( "AI时代")
+!
+!
+!
+地址：济南市二环东路7366号
+电话（传真）：0531-88596228
+邮箱：2518190445@qq.com
+!
+欢迎关注微信公众号
+山东财经大学计算机与人工智能学院 版权所有 COPYRIGHT@2025
+    
+](
+                                                                                                            
+;)
+1 : 00 AM
+  
+Hour
+Minutes
+;) ;)   
+;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;)   
+;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;) ;)   
+;)   
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学校首页<button>
+<button>人才招聘<button>
+<button>服务门户<button>
+<button>官方微信<button>
+<button>English<button>
+<button>首页<button>
+<button>学院要闻<button>
+<button>通知公告<button>
+<button>学术动态<button>
+<button>新IT卓越大讲堂<button>
+<button>AI时代<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>师资队伍<button>
+<button>教师名录<button>
+<button>知名专家<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>党群工作<button>
+<button>党群动态<button>
+<button>组织建设<button>
+<button>制度建设<button>
+<button>学生工作<button>
+<button>学工队伍<button>
+<button>学团活动<button>
+<button>学团风采<button>
+<button>合作交流<button>
+<button>社会服务<button>
+<button>国际合作<button>
+<button>校友之家<button>
+<button>2023年10月23日基于区块链技术构建数字信用通证“信用池”平台<button>
+<button>2023年10月11日带有晶格拓扑的超像素快速生成算法<button>
+<button>2023年09月25日基于锚点图的自加权不完整多视图聚类法<button>
+<button>2023年06月13日基于本质自表示的多视角子空间聚类<button>
+<button>2022年10月17日山东财经大学区块链疫情采集监测系统<button>
+<button>2022年06月10日山东财经大学发展党员工作区块链推荐投票系统<button>
+<button>2021年09月09日一种基于渐进式迭代逼近的单图像超分辨率分析方法<button>
+<button>2021年06月16日通过三维重建与评价学习中国传统书法艺术<button>
+<button>2020年06月29日基于数据挖掘的虚拟人体造型技术及其在医学图像处理系统中的应用<button>
+<button>2020年06月29日模糊聚类及表示学习在肺部肿瘤辅助诊断中的研究与应用<button>
+<button>下页<button>
+<button>尾页<button>
+<button>中华人民共和国教育部<button>
+<button>山东省教育厅（省委教育工委）<button>
+<button>中国计算机学会<button>
+<button>山东省计算机学会<button>
+
+----- WebWalker -----
+Thought: The "Academic Dynamic" section has a list of academic activities. I need to check if there are any international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024 and academic activities on October 31st. I will look through the clickable buttons for relevant information.
+
+Action: visit_page
+Action Input: {"button": "[No.86]International Conference on Geometric Modeling and Processing (GMP 2024)"}
+
+----- VisitPage -----
+Button not found: [No.86]International Conference on Geometric Modeling and Processing (GMP 2024)
+
+----- WebWalker -----
+The button "[No.86]International Conference on Geometric Modeling and Processing (GMP 2024)" cannot be clicked, so I will try another relevant button to find the information about international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024.
+
+Action: visit_page
+Action Input: {"button": "[No.85]第五届人工智能与机器人关键技术大会征稿通知"}
+
+----- VisitPage -----
+Button not found: [No.85]第五届人工智能与机器人关键技术大会征稿通知
+
+----- WebWalker -----
+The button "[No.85]第五届人工智能与机器人关键技术大会征稿通知" cannot be clicked, so I will try another relevant button to find the information about international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024.
+
+----- WebWalker -----
+The button "[No.85]第五届人工智能与机器人关键技术大会征稿通知" cannot be clicked, so I will try another relevant button to find the information about international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024.
+
+----- WebWalker -----
+The button "[No.85]第五届人工智能与机器人关键技术大会征稿通知" cannot be clicked, so I will try another relevant button to find the information about international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024.
+
+----- WebWalker -----
+The button "[No.85]第五届人工智能与机器人关键技术大会征稿通知" cannot be clicked, so I will try another relevant button to find the information about international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024.
+
+----- WebWalker -----
+The button "[No.85]第五届人工智能与机器人关键技术大会征稿通知" cannot be clicked, so I will try another relevant button to find the information about international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024.

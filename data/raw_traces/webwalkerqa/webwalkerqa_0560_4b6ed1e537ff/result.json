@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0560_4b6ed1e537ff",
+  "source_index": 560,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西安电子科技大学计算机科学与技术学院在2024年哪些奖学金评审结果间隔了14天进行公示？",
+  "prompt": "西安电子科技大学计算机科学与技术学院在2024年哪些奖学金评审结果间隔了14天进行公示？",
+  "expected_answer": "本科生奖学金评审结果和研究生国家奖学金评审结果",
+  "root_url": "https://cs.xidian.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xidian.edu.cn/info/1003/17304.htm",
+      "https://cs.xidian.edu.cn/info/1003/17354.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->通知公告->计算机科学与技术学院2023~2024学年本科生奖学金评审结果公示",
+      "root->党建工作->通知公告->计算机科学与技术学院2024年研究生国家奖学金评审结果公示"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 6,
+  "tool_calls": 2,
+  "duration_seconds": 15.91,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0560_4b6ed1e537ff/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0560_4b6ed1e537ff/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

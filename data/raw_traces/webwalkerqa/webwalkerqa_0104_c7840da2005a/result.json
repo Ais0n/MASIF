@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0104_c7840da2005a",
+  "source_index": 104,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在浙江农林大学数学与计算机科学学院，物联网工程专业的最低毕业学分是多少，负责2022级学生的辅导员的姓名是什么？",
+  "prompt": "在浙江农林大学数学与计算机科学学院，物联网工程专业的最低毕业学分是多少，负责2022级学生的辅导员的姓名是什么？",
+  "expected_answer": "171学分，邸雷",
+  "root_url": "https://ie.zafu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://ie.zafu.edu.cn/info/1034/1115.htm",
+      "https://ie.zafu.edu.cn/info/1104/3972.htm"
+    ],
+    "golden_path": [
+      "root->本科生人才培养->06-242020物联网工程一、培养目标本专业培养能够系统地掌握物联网的相关理论、方法和技能，熟悉农林行业背景，具备通信技术、网络技术和传感技术等专业知识，具有较强的专业适应能力和广泛的工作适应性，能在各领域特别是农林物联网信息产业领域从事研究、设计、开发...",
+      "root->行政管理->07-152016学生办公室序号姓名职务/岗位分管学生（横向）模块工作（纵向）联系部门分管支部办公地址办公电话1袁晓燕辅导员学生办主任2022级研究生学生工作统筹、学工队伍建设学工部、研工部、就业办、其他相关部门研究生第一党支部学11-30763730989（9293989）2楼绘琪..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 2,
+  "duration_seconds": 17.126,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0104_c7840da2005a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0104_c7840da2005a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

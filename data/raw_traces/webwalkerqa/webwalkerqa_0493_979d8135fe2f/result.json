@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0493_979d8135fe2f",
+  "source_index": 493,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年5月13日在南京邮电大学进行学术报告的主讲人是谁？同时出席了2023年青颖飞帆奖学金颁奖暨捐赠续约仪式的校友姓名是什么？",
+  "prompt": "2024年5月13日在南京邮电大学进行学术报告的主讲人是谁？同时出席了2023年青颖飞帆奖学金颁奖暨捐赠续约仪式的校友姓名是什么？",
+  "expected_answer": "Jiangzhou Wang 和 宋凡",
+  "root_url": "https://cs.njupt.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njupt.edu.cn/2024/0509/c9224a262178/page.htm",
+      "https://cs.njupt.edu.cn/2023/1215/c16079a252744/page.htm"
+    ],
+    "golden_path": [
+      "root->学术组织与交流->2024年5月13日学术报告——Jiangzhou Wang",
+      "root->校友会->12月12日下午，我校杰出校友宋凡先生携苏州青颖飞帆软件科技股份有限公司代表来到南京邮电大学计算机学院、软件学院、网络空间安全学院参加2023年度的“青颖飞帆奖学金”颁奖暨捐赠续约仪式。此次颁奖典礼在计算机学科楼338会议室举行。苏州青颖飞帆软件科技股份有限公司总裁宋凡、人事总经理张丹、招聘经理朱任，计算机学..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 54.294,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0493_979d8135fe2f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0493_979d8135fe2f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

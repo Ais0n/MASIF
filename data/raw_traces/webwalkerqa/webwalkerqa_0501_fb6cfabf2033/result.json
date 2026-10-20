@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0501_fb6cfabf2033",
+  "source_index": 501,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which champion inspired by West African culture was highlighted by Riot Games for promoting diversity at AfroTech 2022, and what initiative did Riot undertake to support humanitarian efforts in Ukraine in 2022?",
+  "prompt": "Which champion inspired by West African culture was highlighted by Riot Games for promoting diversity at AfroTech 2022, and what initiative did Riot undertake to support humanitarian efforts in Ukraine in 2022?",
+  "expected_answer": "The champion K'Sante; donating proceeds from battle pass sales to support humanitarian relief in Ukraine.",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/news/afrotech-riot-games-black-leaders-tech",
+      "https://www.riotgames.com/en/news/riot-is-donating-battle-pass-sales-to-humanitarian-relief-in-eastern-europe"
+    ],
+    "golden_path": [
+      "root->Diversity & Inclusion->Black Leaders Take Central Stage at AfroTech 2022",
+      "root->Social Impact->Riot is Donating Battle Pass Sales to Humanitarian Relief..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 148.058,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0501_fb6cfabf2033/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0501_fb6cfabf2033/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

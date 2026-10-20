@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0243_76bc4d829fe9",
+  "source_index": 243,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who won the MIDORI Prize for Biodiversity in 2024 and what were their achievements?",
+  "prompt": "Who won the MIDORI Prize for Biodiversity in 2024 and what were their achievements?",
+  "expected_answer": "Vera Voronova from Kazakhstan and Ysabel Agustina Calderón Carlos from Peru won the MIDORI Prize for Biodiversity in 2024.",
+  "root_url": "https://www.cbd.int/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.cbd.int/cooperation/midori/"
+    ],
+    "golden_path": [
+      "root->Initiatives->Past Winners"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 16,
+  "tool_calls": 7,
+  "duration_seconds": 422.811,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0243_76bc4d829fe9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0243_76bc4d829fe9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

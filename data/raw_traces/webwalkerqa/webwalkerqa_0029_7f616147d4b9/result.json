@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0029_7f616147d4b9",
+  "source_index": 29,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the specific embargo lift timings for abstracts and patient perspectives at ACR Convergence 2024?",
+  "prompt": "What are the specific embargo lift timings for abstracts and patient perspectives at ACR Convergence 2024?",
+  "expected_answer": "November 14, 2024, 10:00 AM ET for both abstracts and patient perspectives.",
+  "root_url": "https://rheumatology.org/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://rheumatology.org/annual-meeting-abstract-embargo-policies",
+      "https://rheumatology.org/annual-meeting-patient-perspectives"
+    ],
+    "golden_path": [
+      "root->Abstracts->Abstract Embargo Policies",
+      "root->Program->Patient Perspectives"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The embargo for abstracts at ACR Convergence 2024 is lifted at 10:00 AM ET on November 7. Patient perspectives are not specifically mentioned in the accumulated information, but the embargo for editorial news coverage of abstracts is lifted on the same date.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 24.557,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0029_7f616147d4b9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0029_7f616147d4b9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

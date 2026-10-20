@@ -1,0 +1,678 @@
+----- user -----
+query:
+在《多多自走棋》中，2022年2月14日和2022年10月27日更新公告中，各新增的棋盘和角色分别是什么？
+official website:
+http://ac.dragonest.com/
+Observation:website information:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+# !
+游戏下载
+!
+2022-08-31
+拍卖行新手指南
+!
+2025-05-27
+5月29日停服更新公告
+](
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+clickable button:
+
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>查看更多<button>
+<button>查看详情<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到2022年2月14日和2022年10月27日的更新公告，以获取新增的棋盘和角色信息。首先，我应该点击“公告”按钮来查看相关公告。
+Action: visit_page
+Action Input: {"button": "公告"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+更新公告
+ANNOUNCEMENT
+ 5月29日停服更新公告 多多自走棋 2025-05-28 ]( 5月8日在线更新公告 多多自走棋 2025-05-08 ]( 4月24日在线更新公告 多多自走棋 2025-04-23 ](
+ 4月17日在线更新公告 多多自走棋 2025-04-16 ]( 4月10日在线更新公告 多多自走棋 2025-04-09 ]( 3月27日停服更新公告 多多自走棋 2025-04-01 ](
+ 11月28日停服更新公告 多多自走棋 2025-04-01 ]( 1月23日停服更新公告 多多自走棋 2025-04-01 ]( 2月13日停服更新公告 多多自走棋 2025-04-01 ](
+点击加载更多 
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>5月29日停服更新公告多多自走棋2025-05-28<button>
+<button>5月8日在线更新公告多多自走棋2025-05-08<button>
+<button>4月24日在线更新公告多多自走棋2025-04-23<button>
+<button>4月17日在线更新公告多多自走棋2025-04-16<button>
+<button>4月10日在线更新公告多多自走棋2025-04-09<button>
+<button>3月27日停服更新公告多多自走棋2025-04-01<button>
+<button>11月28日停服更新公告多多自走棋2025-04-01<button>
+<button>1月23日停服更新公告多多自走棋2025-04-01<button>
+<button>2月13日停服更新公告多多自走棋2025-04-01<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+我需要找到2022年2月14日和2022年10月27日的更新公告，以获取新增的棋盘和角色信息。首先，我应该点击“2月13日停服更新公告多多自走棋2025-04-01”按钮来查看相关公告。
+Action: visit_page
+Action Input: {"button": "2月13日停服更新公告多多自走棋2025-04-01"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+### 2月13日停服更新公告
+多多自走棋 2025-04-01
+亲爱的各位棋友：
+  
+《多多自走棋》正式服将于2月13日 09:00（UTC+8）关闭匹配，10:00（UTC+8）开始进行停服更新维护，预计维护时间1个小时，维护期间暂时无法登录游戏，开服时间会因实际维护情况提前或推迟，请提前安排好您的游戏时间。以下是本次的更新内容：
+  
+  
+【棋子调整】
+1.宝石魔匠
+[魔法石波动]：
+技能伤害：200 / 300 / 400 → 150 / 250 / 350
+  
+2.慧语先知
+[自然之力]：
+冷却时间：7 / 7 / 7 → 7 / 10 /10
+  
+3.火器大师
+[火炮艺术]：
+优化技能和刷新球的交互，避免技能持续期间被覆盖。
+  
+4.乾坤行者
+[棒打乾坤]：
+技能伤害：175% / 225% / 350% → 150% / 200% / 300%
+  
+5.狂战士
+[风之狂斧]：
+近战伤害范围：160 → 234
+  
+6.海妖
+增加攻击恢复的魔法值。
+  
+  
+【羁绊调整】
+1.神族
+神族[6]：技能当前剩余冷却时间减少20% → 30%
+  
+2.巫师
+增加不再对德鲁伊羁绊生效的描述。
+  
+  
+【装备调整】
+1.新增装备-古龙号角
+品质：稀有
+战斗开始时获得100点魔法值。
+  
+2.新增装备-魔法披风
+品质：罕见
+魔法抗性+50%
+  
+3.古朴的长剑
+攻击力+500 → 400
+不再是1%概率特殊掉落的装备。
+  
+4.蛮荒战甲
+新增属性：攻击速度+20%
+  
+5.亡者之书
+[招魂术]：
+技能冷却时间：60s → 45s
+降低通过[招魂术]召唤的不眠射手及不眠剑士的基础属性。
+  
+6.刷新球
+[刷新]：
+触发时不再获得100点魔法值；
+缩短与部分棋子技能交互时间（如：风暴萨满、魅影女王、逐日祭司、海盗船长）。
+  
+7.隐身斗篷
+魔法抗性+25% → 30%
+  
+8.断剑、连发步枪、魔晶斧
+攻击百分比加成调整为攻击力+25。
+  
+9.晨星锤
+攻击百分比加成调整为攻击力+50。
+  
+10.狂战斧
+攻击百分比加成调整为攻击力+50。
+[横扫]：
+溅射伤害30% → 50%
+  
+11.狂劫
+攻击百分比加成调整为攻击力+75。
+  
+  
+【装备轮换】
+暂时移除装备：魔冰甲。
+  
+  
+【战斗调整】
+1.15回合怪物掉落调整为罕见品质装备宝箱和随机普通品质装备。
+2.20回合怪物掉落移除随机普通装备。
+  
+  
+【修复】
+修复皮肤“晨曦猫女”对局模型异常的问题。
+  
+  
+【其他】
+1.商城界面优化。
+2.完善历战规则说明。
+  
+  
+以上便是我们此次更新的主要内容。如有问题，请联系客服，感谢您的支持。
+  
+《多多自走棋》运营团队
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+我需要查看2022年2月14日的更新公告，但当前页面显示的是2025年的更新内容。这表明可能没有直接的2022年2月14日的更新公告。因此，我应该回到之前的页面，尝试查找其他日期的公告。
+
+Action: visit_page
+Action Input: {"button": "公告"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+更新公告
+ANNOUNCEMENT
+ 5月29日停服更新公告 多多自走棋 2025-05-28 ]( 5月8日在线更新公告 多多自走棋 2025-05-08 ]( 4月24日在线更新公告 多多自走棋 2025-04-23 ](
+ 4月17日在线更新公告 多多自走棋 2025-04-16 ]( 4月10日在线更新公告 多多自走棋 2025-04-09 ]( 3月27日停服更新公告 多多自走棋 2025-04-01 ](
+ 11月28日停服更新公告 多多自走棋 2025-04-01 ]( 1月23日停服更新公告 多多自走棋 2025-04-01 ]( 2月13日停服更新公告 多多自走棋 2025-04-01 ](
+点击加载更多 
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>5月29日停服更新公告多多自走棋2025-05-28<button>
+<button>5月8日在线更新公告多多自走棋2025-05-08<button>
+<button>4月24日在线更新公告多多自走棋2025-04-23<button>
+<button>4月17日在线更新公告多多自走棋2025-04-16<button>
+<button>4月10日在线更新公告多多自走棋2025-04-09<button>
+<button>3月27日停服更新公告多多自走棋2025-04-01<button>
+<button>11月28日停服更新公告多多自走棋2025-04-01<button>
+<button>1月23日停服更新公告多多自走棋2025-04-01<button>
+<button>2月13日停服更新公告多多自走棋2025-04-01<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+我需要确认是否有2022年2月14日的更新公告，但当前页面显示的是2025年的内容。这表明可能没有直接的2022年2月14日的更新公告。因此，我应该回到之前的页面，尝试查找其他日期的公告。
+
+Action: visit_page
+Action Input: {"button": "公告"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+更新公告
+ANNOUNCEMENT
+ 5月29日停服更新公告 多多自走棋 2025-05-28 ]( 5月8日在线更新公告 多多自走棋 2025-05-08 ]( 4月24日在线更新公告 多多自走棋 2025-04-23 ](
+ 4月17日在线更新公告 多多自走棋 2025-04-16 ]( 4月10日在线更新公告 多多自走棋 2025-04-09 ]( 3月27日停服更新公告 多多自走棋 2025-04-01 ](
+ 11月28日停服更新公告 多多自走棋 2025-04-01 ]( 1月23日停服更新公告 多多自走棋 2025-04-01 ]( 2月13日停服更新公告 多多自走棋 2025-04-01 ](
+点击加载更多 
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>5月29日停服更新公告多多自走棋2025-05-28<button>
+<button>5月8日在线更新公告多多自走棋2025-05-08<button>
+<button>4月24日在线更新公告多多自走棋2025-04-23<button>
+<button>4月17日在线更新公告多多自走棋2025-04-16<button>
+<button>4月10日在线更新公告多多自走棋2025-04-09<button>
+<button>3月27日停服更新公告多多自走棋2025-04-01<button>
+<button>11月28日停服更新公告多多自走棋2025-04-01<button>
+<button>1月23日停服更新公告多多自走棋2025-04-01<button>
+<button>2月13日停服更新公告多多自走棋2025-04-01<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+Thought: 似乎没有直接的2022年2月14日的更新公告。我需要尝试查找其他日期的公告，比如2022年10月27日的更新公告。
+
+Action: visit_page
+Action Input: {"button": "10月27日停服更新公告多多自走棋2022-10-27"}
+
+----- VisitPage -----
+Button not found: 10月27日停服更新公告多多自走棋2022-10-27
+
+----- WebWalker -----
+The button "10月27日停服更新公告多多自走棋2022-10-27" does not exist on the current page. I need to check other buttons for relevant updates.
+
+Action: visit_page
+Action Input: {"button": "公告"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+更新公告
+ANNOUNCEMENT
+ 5月29日停服更新公告 多多自走棋 2025-05-28 ]( 5月8日在线更新公告 多多自走棋 2025-05-08 ]( 4月24日在线更新公告 多多自走棋 2025-04-23 ](
+ 4月17日在线更新公告 多多自走棋 2025-04-16 ]( 4月10日在线更新公告 多多自走棋 2025-04-09 ]( 3月27日停服更新公告 多多自走棋 2025-04-01 ](
+ 11月28日停服更新公告 多多自走棋 2025-04-01 ]( 1月23日停服更新公告 多多自走棋 2025-04-01 ]( 2月13日停服更新公告 多多自走棋 2025-04-01 ](
+点击加载更多 
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>5月29日停服更新公告多多自走棋2025-05-28<button>
+<button>5月8日在线更新公告多多自走棋2025-05-08<button>
+<button>4月24日在线更新公告多多自走棋2025-04-23<button>
+<button>4月17日在线更新公告多多自走棋2025-04-16<button>
+<button>4月10日在线更新公告多多自走棋2025-04-09<button>
+<button>3月27日停服更新公告多多自走棋2025-04-01<button>
+<button>11月28日停服更新公告多多自走棋2025-04-01<button>
+<button>1月23日停服更新公告多多自走棋2025-04-01<button>
+<button>2月13日停服更新公告多多自走棋2025-04-01<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+Thought: 似乎没有直接的2022年10月27日的更新公告。我需要尝试查找其他日期的公告，或者可能需要访问其他页面来获取相关信息。
+
+Action: visit_page
+Action Input: {"button": "新闻"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+新闻
+NEWS
+ 「风羽武者」身份档案 多多自走棋 2023-03-08 ]( 新年邀请赛|败者组第二轮 多多自走棋 2023-01-13 ]( 1月12日开服公告 多多自走棋 2023-01-12 ](
+ 1月12日停服更新公告 多多自走棋 2023-01-11 ]( 新版本优化一览图 多多自走棋 2023-01-11 ]( 新年邀请赛|胜者组第二轮 多多自走棋 2023-01-11 ](
+ 兔年兔吉祥，新春表情到 多多自走棋 2023-01-11 ]( 2023鸿运秘宝|新春典藏皮肤舞狮少女限时UP 多多自走棋 2023-01-10 ]( 掌上龙渊春节特别活动 多多自走棋 2023-01-09 ](
+点击加载更多 
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>「风羽武者」身份档案多多自走棋2023-03-08<button>
+<button>新年邀请赛|败者组第二轮多多自走棋2023-01-13<button>
+<button>1月12日开服公告多多自走棋2023-01-12<button>
+<button>1月12日停服更新公告多多自走棋2023-01-11<button>
+<button>新版本优化一览图多多自走棋2023-01-11<button>
+<button>新年邀请赛|胜者组第二轮多多自走棋2023-01-11<button>
+<button>兔年兔吉祥，新春表情到多多自走棋2023-01-11<button>
+<button>2023鸿运秘宝|新春典藏皮肤舞狮少女限时UP多多自走棋2023-01-10<button>
+<button>掌上龙渊春节特别活动多多自走棋2023-01-09<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+Thought: 我需要查找2022年10月27日的更新公告，但当前页面显示的是2023年的内容。这表明可能没有直接的2022年10月27日的更新公告。因此，我应该回到之前的页面，尝试查找其他日期的公告。
+
+Action: visit_page
+Action Input: {"button": "公告"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+更新公告
+ANNOUNCEMENT
+ 5月29日停服更新公告 多多自走棋 2025-05-28 ]( 5月8日在线更新公告 多多自走棋 2025-05-08 ]( 4月24日在线更新公告 多多自走棋 2025-04-23 ](
+ 4月17日在线更新公告 多多自走棋 2025-04-16 ]( 4月10日在线更新公告 多多自走棋 2025-04-09 ]( 3月27日停服更新公告 多多自走棋 2025-04-01 ](
+ 11月28日停服更新公告 多多自走棋 2025-04-01 ]( 1月23日停服更新公告 多多自走棋 2025-04-01 ]( 2月13日停服更新公告 多多自走棋 2025-04-01 ](
+点击加载更多 
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>5月29日停服更新公告多多自走棋2025-05-28<button>
+<button>5月8日在线更新公告多多自走棋2025-05-08<button>
+<button>4月24日在线更新公告多多自走棋2025-04-23<button>
+<button>4月17日在线更新公告多多自走棋2025-04-16<button>
+<button>4月10日在线更新公告多多自走棋2025-04-09<button>
+<button>3月27日停服更新公告多多自走棋2025-04-01<button>
+<button>11月28日停服更新公告多多自走棋2025-04-01<button>
+<button>1月23日停服更新公告多多自走棋2025-04-01<button>
+<button>2月13日停服更新公告多多自走棋2025-04-01<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0540_4e56ae176357",
+  "source_index": 540,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京航空航天大学计算机科学与技术学院在2015年5月5日举办的研讨会上讨论了哪些研究主题？同时需要在2019年5月29日前提交申报材料的江苏省科技项目是什么？",
+  "prompt": "南京航空航天大学计算机科学与技术学院在2015年5月5日举办的研讨会上讨论了哪些研究主题？同时需要在2019年5月29日前提交申报材料的江苏省科技项目是什么？",
+  "expected_answer": "机器学习/大数据/智能系统；江苏省前沿引领技术基础研究专项项目",
+  "root_url": "http://cs.nuaa.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.nuaa.edu.cn/2015/0430/c1975a120672/page.htm",
+      "http://cs.nuaa.edu.cn/2019/0430/c1975a155981/page.htm"
+    ],
+    "golden_path": [
+      "root->科学研究->尾页->Program of NUAA-MMU Professorial Workshop (5th-7th May 2015)",
+      "root->科学研究->下一页>>->【申报通知】江苏省科技厅2019年度省前沿引领技术基础研究专项项目指南及组织推荐领衔科学家的通知"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 5,
+  "duration_seconds": 45.158,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0540_4e56ae176357/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0540_4e56ae176357/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

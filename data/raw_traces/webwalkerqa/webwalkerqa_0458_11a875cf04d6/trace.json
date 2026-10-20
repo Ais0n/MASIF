@@ -1,0 +1,82 @@
+{
+  "events": [
+    {
+      "index": 1,
+      "role": "user",
+      "content": "query:\nWhat is the deadline to submit a request for hosting an ancillary meeting at the 66th ASH Annual Meeting, and on which day is the first on-site registration open for participants?\nofficial website:\nhttps://www.hematology.org/meetings/annual-meeting\nObservation:website information:\n\n\n      * ; \"Cookie Settings\")\n  * Log in or create an account\n  \n                \n                  \n ! ]( Helping hematologists conquer blood diseases worldwide\n                \n# ASH Annual Meeting and Exposition\nClaim CME and MOC Credit \nComplete the annual meeting evaluation survey, claim CME/ABIM MOC, and print/save your CME certificate.\n### The Premier Event in Classical and Malignant Hematology\nThe 2025 ASH Annual Meeting has concluded. Please see the links below to purchase webcast content from the meeting and claim CME and MOC.\nSave the date for the 68th ASH Annual Meeting and Exposition, taking place December 12–15, 2026, in New Orleans, Louisiana, and online!\n          \n!\n## Let's Run the Numbers\nSee why the ASH Annual Meeting and Exposition is the premier event in classical and malignant hematology. \nAttendees\nNovel Abstracts\nExhibitors\n* * *\nAnnual Meeting Updates\n!\n###  Friday Satellite Symposia Guidelines and Application \nThe Friday Satellite Symposia (FSS) are industry-supported, CME-accredited symposia that are offered the day preceding the American Society of Hematology (ASH) annual meeting. These sessions are not part of the official ASH annual meeting program and are planned solely by the organizing company.\n!\n###  Scientific Workshop Guidelines and Application \nThe Scientific Workshops are interactive discussions of the latest scientific developments in a particular field of hematology. Each workshop includes brief presentations of primary basic/translational data followed by an interactive discussion, distinct from the clinical sessions offered at the .\n!\n###  Become an Exhibitor at the 2026 ASH Annual Meeting \nJoin over 275 pharmaceutical companies, medical suppliers, clinical diagnostic and research-based companies, publishers, and non-profit organizations by exhibiting at the 68th ASH Annual Meeting and Exposition on December 12-15, 2026, in New Orleans, Louisiana.\n###  Key Dates for the 68th ASH Annual Meeting and Exposition  \n|  May 11, 2026, at 11:59 p.m. Pacific time  |  Scientific Workshops Application Deadline  |  \n| --- | --- |  \n|  May 27, 2026, at 11:59 p.m. Pacific time  |  Friday Satellite Symposia Application Deadline  |  \n|  June 2, 2026  |  Abstract Submissions Open  |  \n|  July 22, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for ASH Members**  |  \n|  August 4, 2026, at 11:59 p.m. Pacific time  |  Abstract Submission Deadline  |  \n|  August 12, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for Non-Members, Exhibitors, Groups, and Media**  |  \n|  November 4, 2026, at 9:00 a.m. Eastern time  |  Abstracts Available Online  |  \n|  December 12-15, 2026  |  **68th ASH Annual Meeting and Exposition**  |  \n## Past Annual Meetings\n!\n###  67th ASH Annual Meeting and Exposition\nDecember 6-9, 2025  \nOrlando, FL\n          \n!\nAmerican Society of Hematology\n2021 L Street NW, Suite 900,  \nWashington, DC 20036 \nContact\nPhone 202-776-0544  \nToll Free 866-828-1231  \nFax 202-776-0545 \nSocial\nCopyright © 2026 by American Society of Hematology\n; \"Manage My Cookies\") |   |   |   |  \n\n\nclickable button:\n\n<button>Jump to Main Content<button>\n<button>Key Dates<button>\n<button>Information for Corporate Supporters<button>\n<button>Webcasts<button>\n<button>Latest Updates<button>\n<button>View Symposia Guidelines and Application<button>\n<button>Friday Satellite Symposia<button>\n<button>Apply for a Workshop<button>\n<button>Access Past Annual Meeting Content Since 2014<button>\n\n\nEach button is wrapped in a <button> tag\n\n",
+      "root_url": "https://www.hematology.org/meetings/annual-meeting"
+    },
+    {
+      "index": 2,
+      "role": "WebWalker",
+      "content": "Thought: I need to find the deadline for submitting a request for hosting an ancillary meeting and the first on-site registration open date for participants at the 66th ASH Annual Meeting. Since the current page is about the 68th ASH Annual Meeting, I should visit the page for the 66th Annual Meeting.\n\nAction: visit_page\nAction Input: {\"button\": \"View Past Annual Meeting Content Since 2014\"}"
+    },
+    {
+      "index": 3,
+      "role": "VisitPage",
+      "content": "Button not found: View Past Annual Meeting Content Since 2014",
+      "button": "View Past Annual Meeting Content Since 2014",
+      "raw_params": "{\"button\": \"View Past Annual Meeting Content Since 2014\"}"
+    },
+    {
+      "index": 4,
+      "role": "WebWalker",
+      "content": "The button \"View Past Annual Meeting Content Since 2014\" is not clickable. I need to find another way to access the 66th ASH Annual Meeting information. Let me try clicking on the \"Past Annual Meetings\" button.\n\nAction: visit_page\nAction Input: {\"button\": \"Past Annual Meetings\"}"
+    },
+    {
+      "index": 5,
+      "role": "VisitPage",
+      "content": "Button not found: Past Annual Meetings",
+      "button": "Past Annual Meetings",
+      "raw_params": "{\"button\": \"Past Annual Meetings\"}"
+    },
+    {
+      "index": 6,
+      "role": "WebWalker",
+      "content": "The button \"Past Annual Meetings\" is not clickable. I need to find another way to access the 66th ASH Annual Meeting information. Let me try clicking on the \"67th ASH Annual Meeting and Exposition\" link."
+    },
+    {
+      "index": 7,
+      "role": "WebWalker",
+      "content": "The button \"Past Annual Meetings\" is not clickable. I need to find another way to access the 66th ASH Annual Meeting information. Let me try clicking on the \"67th ASH Annual Meeting and Exposition\" link."
+    },
+    {
+      "index": 8,
+      "role": "WebWalker",
+      "content": "The button \"Past Annual Meetings\" is not clickable. I need to find another way to access the 66th ASH Annual Meeting information. Let me try clicking on the \"67th ASH Annual Meeting and Exposition\" link."
+    },
+    {
+      "index": 9,
+      "role": "WebWalker",
+      "content": "The button \"Past Annual Meetings\" is not clickable. I need to find another way to access the 66th ASH Annual Meeting information. Let me try clicking on the \"67th ASH Annual Meeting and Exposition\" link."
+    },
+    {
+      "index": 10,
+      "role": "WebWalker",
+      "content": "The button \"Past Annual Meetings\" is not clickable. I need to find another way to access the 66th ASH Annual Meeting information. Let me try clicking on the \"Key Dates\" button to see if it provides any relevant information.\n\nAction: visit_page\nAction Input: {\"button\": \"Key Dates\"}"
+    },
+    {
+      "index": 11,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n      * ; \"Cookie Settings\")\n  * Log in or create an account\n  \n                \n                  \n ! ]( Helping hematologists conquer blood diseases worldwide\n                \n# ASH Annual Meeting and Exposition\nClaim CME and MOC Credit \nComplete the annual meeting evaluation survey, claim CME/ABIM MOC, and print/save your CME certificate.\n### The Premier Event in Classical and Malignant Hematology\nThe 2025 ASH Annual Meeting has concluded. Please see the links below to purchase webcast content from the meeting and claim CME and MOC.\nSave the date for the 68th ASH Annual Meeting and Exposition, taking place December 12–15, 2026, in New Orleans, Louisiana, and online!\n          \n!\n## Let's Run the Numbers\nSee why the ASH Annual Meeting and Exposition is the premier event in classical and malignant hematology. \nAttendees\nNovel Abstracts\nExhibitors\n* * *\nAnnual Meeting Updates\n!\n###  Friday Satellite Symposia Guidelines and Application \nThe Friday Satellite Symposia (FSS) are industry-supported, CME-accredited symposia that are offered the day preceding the American Society of Hematology (ASH) annual meeting. These sessions are not part of the official ASH annual meeting program and are planned solely by the organizing company.\n!\n###  Scientific Workshop Guidelines and Application \nThe Scientific Workshops are interactive discussions of the latest scientific developments in a particular field of hematology. Each workshop includes brief presentations of primary basic/translational data followed by an interactive discussion, distinct from the clinical sessions offered at the .\n!\n###  Become an Exhibitor at the 2026 ASH Annual Meeting \nJoin over 275 pharmaceutical companies, medical suppliers, clinical diagnostic and research-based companies, publishers, and non-profit organizations by exhibiting at the 68th ASH Annual Meeting and Exposition on December 12-15, 2026, in New Orleans, Louisiana.\n###  Key Dates for the 68th ASH Annual Meeting and Exposition  \n|  May 11, 2026, at 11:59 p.m. Pacific time  |  Scientific Workshops Application Deadline  |  \n| --- | --- |  \n|  May 27, 2026, at 11:59 p.m. Pacific time  |  Friday Satellite Symposia Application Deadline  |  \n|  June 2, 2026  |  Abstract Submissions Open  |  \n|  July 22, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for ASH Members**  |  \n|  August 4, 2026, at 11:59 p.m. Pacific time  |  Abstract Submission Deadline  |  \n|  August 12, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for Non-Members, Exhibitors, Groups, and Media**  |  \n|  November 4, 2026, at 9:00 a.m. Eastern time  |  Abstracts Available Online  |  \n|  December 12-15, 2026  |  **68th ASH Annual Meeting and Exposition**  |  \n## Past Annual Meetings\n!\n###  67th ASH Annual Meeting and Exposition\nDecember 6-9, 2025  \nOrlando, FL\n          \n!\nAmerican Society of Hematology\n2021 L Street NW, Suite 900,  \nWashington, DC 20036 \nContact\nPhone 202-776-0544  \nToll Free 866-828-1231  \nFax 202-776-0545 \nSocial\nCopyright © 2026 by American Society of Hematology\n; \"Manage My Cookies\") |   |   |   |  \n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Key Dates<button>\n<button>Information for Corporate Supporters<button>\n<button>Webcasts<button>\n<button>Latest Updates<button>\n<button>View Symposia Guidelines and Application<button>\n<button>Friday Satellite Symposia<button>\n<button>Apply for a Workshop<button>\n<button>Access Past Annual Meeting Content Since 2014<button>\n",
+      "button": "Key Dates",
+      "url": "https://www.hematology.org/meetings/annual-meeting#key-dates",
+      "markdown_chars": 3104,
+      "discovered_buttons": 9
+    },
+    {
+      "index": 12,
+      "role": "WebWalker",
+      "content": "The \"Key Dates\" page still refers to the 68th ASH Annual Meeting. I need to find a way to access information about the 66th ASH Annual Meeting. Let me try clicking on the \"Access Past Annual Meeting Content Since 2014\" button again, as it might provide access to historical meeting details.\n\nAction: visit_page\nAction Input: {\"button\": \"Access Past Annual Meeting Content Since 2014\"}\n"
+    },
+    {
+      "index": 13,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n      * ; \"Cookie Settings\")\n  * Log in or create an account\n  \n                \n                  \n ! ]( Helping hematologists conquer blood diseases worldwide\n                \n## ASH Annual Meeting and Exposition\n        \n                                            \n#  Past ASH Annual Meetings \n**Never miss an important deadline** —Manage your email preferences to receive important program updates, discounted registration, and convenient housing for the upcoming meeting.\n### 67th ASH Annual Meeting and Exposition\n**December 6-9, 2025 | Orlando, FL**\n!\n      \n### 66th ASH Annual Meeting and Exposition\n**December 7-10, 2024 | San Diego, CA**\n!\n      \n### 65th ASH Annual Meeting and Exposition\n**December 9-12, 2023 | San Diego, CA**\n!\n      \n### 64th ASH Annual Meeting and Exposition\n**December 10-13, 2022 | New Orleans, LA**\n!\n    \n### 63rd ASH Annual Meeting and Exposition\n**December 11-14, 2021 | Atlanta, GA**\n!\n    \n### 62nd ASH Annual Meeting and Exposition\n**December 5-8, 2020 | Virtual**\n!\n    \n### 61st ASH Annual Meeting and Exposition\n**December 7-10, 2019 | Orlando, FL**\n!\n    \n### 60th ASH Annual Meeting and Exposition\n**December 1-4, 2018 | San Diego, CA**\n!\n    \n### 59th ASH Annual Meeting and Exposition\n**December 9-12, 2017 | Atlanta, GA**\n!\n    \n### 58th ASH Annual Meeting and Exposition\n**December 3-6, 2016 | San Diego, CA**\n!\n    \n### 57th ASH Annual Meeting and Exposition\n**December 5-8, 2015 | Orlando, FL**\n!\n    \n### 56th ASH Annual Meeting and Exposition\n**December 6-9, 2014 | San Francisco, CA**\n!\n    \n!\nAmerican Society of Hematology\n2021 L Street NW, Suite 900,  \nWashington, DC 20036 \nContact\nPhone 202-776-0544  \nToll Free 866-828-1231  \nFax 202-776-0545 \nSocial\nCopyright © 2026 by American Society of Hematology\n; \"Manage My Cookies\") |   |   |   |  \n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>ASH Annual Meeting & Exposition<button>\n<button>Past ASH Annual Meetings<button>\n<button>Education<button>\n<button>Publications<button>\n<button>Agenda for Nematology Research<button>\n<button>Recommendations<button>\n<button>About Us<button>\n<button>Precision Medicine<button>\n<button>Genome Editing and Gene Therapy<button>\n<button>Immunologic Treatment<button>\n<button>Research Support and Funding<button>\n<button>Meetings<button>\n<button>Careers<button>\n",
+      "button": "Access Past Annual Meeting Content Since 2014",
+      "url": "https://www.hematology.org/meetings/annual-meeting/past-meetings",
+      "markdown_chars": 1806,
+      "discovered_buttons": 14
+    }
+  ]
+}

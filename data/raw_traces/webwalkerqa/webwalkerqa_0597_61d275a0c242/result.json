@@ -1,0 +1,43 @@
+{
+  "task_id": "webwalkerqa_0597_61d275a0c242",
+  "source_index": 597,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "范勇在2024年7月西南科技大学计算机科学与技术学院的学位论文工作总结会议和2024年9月与百度公司的人才培养签约仪式中各自扮演了什么角色？",
+  "prompt": "范勇在2024年7月西南科技大学计算机科学与技术学院的学位论文工作总结会议和2024年9月与百度公司的人才培养签约仪式中各自扮演了什么角色？",
+  "expected_answer": "在学位论文工作总结会议上，范勇担任学位评定分委员会主席；在百度公司的人才培养签约仪式上，范勇担任了整个活动的主持人。",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0722/c10922a203404/page.htm,https://cs.swust.edu.cn/2024/1202/c10922a209360/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->3->我院学位评定分委员会召开2024年第一次学位论文工作总结会议为进一步促进学科发展、加强学位论文质量管理，2024年7月5日下午2点我院学位评定分委员会召开了2024年第一次学位论文工作总结会议。我院学位评定分委员会主席范勇、副主席黄晓芳及全体委员参加...[2024-07-10]",
+      "root->学院动态->3->西南科技大学与百度公司人才培养签约仪式暨人工智能通识课程培训成功举行9月5日，聚焦于人工智能核心通识课全面升级，西南科技大学与百度公司隆重举行了“人才培养合作签约暨人工智能通识课程启动与培训”活动，学校党委常委、副校长苏伟洲，教务处相关负责人，百度飞桨相关负...[2024-09-08]"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 52.036,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0597_61d275a0c242/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0597_61d275a0c242/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,329 @@
+----- user -----
+query:
+How much money did players raise in 2020 through the Dawnbringer Karma, COVID Support Bundle, and Elderwood Ornn fundraisers?
+official website:
+https://www.riotgames.com/zh-cn
+Observation:website information:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+登录
+登录
+!
+!
+# 
+2026 赛季//第三幕现已开启
+塑水宗卷土重来、斗牛：晋升赛开启、地图池迎来更新 更多精彩内容，尽在第三幕！
+## 最新动态
+ 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告 新闻 ](
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+## 我们的游戏
+ ! windowsapple ]( "Drag to explore") ! windowsmobileplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windows ]( "Drag to explore") ! 敬请期待 ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsmobileplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windows ]( "Drag to explore") ! 敬请期待 ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsmobileplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windows ]( "Drag to explore") ! 敬请期待 ]( "Drag to explore")
+## 电子竞技&娱乐
+! ]( ]( ]( ]( ](
+## 加入我们！
+加入拳头，开启全新征程，铸造难以忘怀的玩家经历
+!
+      
+              
+Cookie Preferences
+
+
+clickable button:
+
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>展开全部<button>
+<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告新闻<button>
+<button>VCT 2027：每一战，皆决战新闻<button>
+<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片新闻<button>
+<button>【无畏契约】并肩而战//迷核英雄预告新闻<button>
+<button>花开如约 | 2026新春庆典踏雪寻梅遇故知新闻<button>
+<button>181招聘职位<button>
+<button>24地点<button>
+<button>查看所有空缺职位<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about the money raised in 2020 through specific fundraisers. Since the official website is not providing direct access to the required data, I will explore the website further by clicking on relevant buttons.
+
+Action: visit_page
+Action Input: {"button": "新闻"}
+
+----- VisitPage -----
+The web information is:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+登录
+登录
+显示 所有 
+关闭筛选
+筛选 
+  * 所有
+  * 办公室
+  * 部门
+  * 新闻
+  * Riot內部
+  * One-Shot
+  * Tech Blog
+!
+新闻
+2026/04/14
+### 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告
+Pabro和Meddler带你了解第2主题季、即将发布的皮肤以及玩法改动。Riot Cadmus和Riot RogueFool揭晓本主题季竞技场的部分更新。还有DashiJador和Riot CallMeKT介绍WASD控制模式登陆排位赛的安排。
+2026/04/14
+!
+新闻
+2026/04/08
+### VCT 2027：每一战，皆决战
+从公开入围赛到杯赛，再到大师赛和全球冠军赛的顶尖赛事舞台，就这么简单。
+2026/04/08
+!
+新闻
+2026/03/27
+### 【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片
+走进星神的圣域！上前来，向神致意，你将获得宇宙之力的恩赐。
+2026/03/27
+!
+新闻
+2026/03/15
+### 【无畏契约】并肩而战//迷核英雄预告
+即将于 2026 赛季//第二幕登场。
+2026/03/15
+!
+新闻
+2026/02/04
+### 花开如约 | 2026新春庆典踏雪寻梅遇故知
+踏雪寻梅遇故知。如期如约，唤醒沉睡在时光中的快乐与友谊 🌸 新春庆典将于26.03版本开启。
+2026/02/04
+!
+新闻
+2026/02/04
+### 幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片
+美食、欢笑和友谊，真是太棒了！天马行空 小马率领小小英雄们展开疯狂的城市飞车，在云顶之弈中迎接至臻 玉剑传说 武剑仙 小小锐雯的到来，并在神话级棋盘 马到成功热闹落地。抓稳扶好，这就出发！去迎接你的开年大胜！
+2026/02/04
+!
+新闻
+2026/02/04
+### 心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片
+家是心之所向。你在之处，便是归宿。
+2026/02/04
+!
+新闻
+2025/12/19
+### 暂离工位 2025年寒假到来
+请放心，反作弊、安全和线上运营团队已经排好值班，确保一切平稳运行。 
+2025/12/19
+!
+新闻
+2025/11/06
+### 寻找你附近的2025全球总决赛观赛派对
+正在寻找英雄联盟全球总决赛的观赛活动？你来对地方了。
+2025/11/06
+      
+              
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告<button>
+<button>VCT 2027：每一战，皆决战<button>
+<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片<button>
+<button>【无畏契约】并肩而战//迷核英雄预告<button>
+<button>花开如约 | 2026新春庆典踏雪寻梅遇故知<button>
+<button>幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片<button>
+<button>心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片<button>
+<button>暂离工位 2025年寒假到来<button>
+<button>寻找你附近的2025全球总决赛观赛派对<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>
+
+----- WebWalker -----
+Thought: The news section does not contain information about the fundraisers or the money raised in 2020. I will explore other sections of the website to find relevant information.
+
+Action: visit_page
+Action Input: {"button": "年度报告"}
+
+----- VisitPage -----
+The web information is:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+登录
+登录
+拳头游戏
+# 年度报告
+我们的年度报告展现了拳头为了让全世界玩家获得更好的游戏和体验，所做的努力。包括支持处于人生各个阶中的拳头员工，坚守我们对于可持续发展的承诺，将游戏内的善款投入到游戏外的各种事业，并让游戏能够充分代表其玩家。这些报告分享了我们的工作、进展和未来的努力方向。
+ 社会影响力年度报告 查看报告](
+ 可持续发展报告 查看报告](
+ 社会影响力年度报告 查看报告](
+## 2022
+## 2021
+## 2020
+## 2019
+  
+注：2022年，我们第一次合并发布一份年度影响力报告。此前，我们分开发布两份报告，一份是在多元与包容、员工招募等领域的发展报告，另一份是通过社会影响力回馈全球社区的报告。 
+      
+              
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>
+
+----- WebWalker -----
+The "年度报告" section might contain information about the fundraisers and their outcomes. I will explore the 2020 report to find the required data.
+
+Action: visit_page
+Action Input: {"button": "2020"}
+
+----- VisitPage -----
+Button not found: 2020
+
+----- WebWalker -----
+The "2020" button is not clickable, so I will try other buttons in the "年度报告" section to find the relevant information.
+
+Action: visit_page
+Action Input: {"button": "社会影响力年度报告 查看报告"}
+
+----- VisitPage -----
+Button not found: 社会影响力年度报告 查看报告
+
+----- WebWalker -----
+The "社会影响力年度报告 查看报告" button is not clickable, so I will try other buttons in the "年度报告" section to find the relevant information.
+
+Action: visit_page
+Action Input: {"button": "可持续发展报告 查看报告"}
+
+----- VisitPage -----
+Button not found: 可持续发展报告 查看报告
+
+----- WebWalker -----
+The "可持续发展报告 查看报告" button is not clickable, so I will try other buttons in the "年度报告" section to find the relevant information.
+
+Action: visit_page
+Action Input: {"button": "2021"}
+
+----- VisitPage -----
+Button not found: 2021
+
+----- WebWalker -----
+The "2021" button is not clickable, so I will try other buttons in the "年度报告" section to find the relevant information.
+
+Action: visit_page
+Action Input: {"button": "2019"}
+
+----- VisitPage -----
+Button not found: 2019
+
+----- WebWalker -----
+The clickable buttons in the "年度报告" section are not providing access to the required information. I will return to the homepage and explore other sections of the website to find relevant data about the fundraisers and their outcomes. 
+
+Action: visit_page
+Action Input: {"button": "前往主页"}
+
+----- VisitPage -----
+The web information is:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+登录
+登录
+!
+!
+# 
+2026 赛季//第三幕现已开启
+塑水宗卷土重来、斗牛：晋升赛开启、地图池迎来更新 更多精彩内容，尽在第三幕！
+## 最新动态
+ 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告 新闻 ](
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+## 我们的游戏
+ ! windowsapple ]( "Drag to explore") ! windowsmobileplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windows ]( "Drag to explore") ! 敬请期待 ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsmobileplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windows ]( "Drag to explore") ! 敬请期待 ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsmobileplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windows ]( "Drag to explore") ! 敬请期待 ]( "Drag to explore")
+## 电子竞技&娱乐
+! ]( ]( ]( ]( ](
+## 加入我们！
+加入拳头，开启全新征程，铸造难以忘怀的玩家经历
+!
+      
+              
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21<button>
+<button>我们是谁<button>
+<button>与我们共事<button>
+<button>新闻<button>
+<button>展开全部<button>
+<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告新闻<button>
+<button>VCT 2027：每一战，皆决战新闻<button>
+<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片新闻<button>
+<button>【无畏契约】并肩而战//迷核英雄预告新闻<button>
+<button>花开如约 | 2026新春庆典踏雪寻梅遇故知新闻<button>
+<button>181招聘职位<button>
+<button>24地点<button>
+<button>查看所有空缺职位<button>
+<button>媒体<button>
+<button>安全<button>
+<button>玩家支持<button>
+<button>E-Verify<button>
+<button>无障碍环境<button>
+<button>年度报告<button>
+<button>社区公约<button>
+<button>前往主页<button>

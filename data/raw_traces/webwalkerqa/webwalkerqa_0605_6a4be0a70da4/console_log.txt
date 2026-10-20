@@ -1,0 +1,466 @@
+----- user -----
+query:
+《数据科学技术与应用》和《信息系统与数据库技术》两课程中，都在2023年被评为哪一类共同的荣誉？
+official website:
+https://cst.dhu.edu.cn/
+Observation:website information:
+
+!
+!
+                                                                                                                                                                                                                  
+!
+)))
+  * !
+!
+微信扫一扫 
+关注东华小图灵公众号
+!
+微信扫一扫 
+关注东华大学公众号
+新闻动态 
+  * ]( "学院师生热议九三阅兵式")
+2025-09-04
+  * ]( "攻防砺剑  智护未来 大学生网络安全大赛在东华大学举行")
+2025-08-24
+  * ]( "我校在第十七届上海市计算机应用能力大赛中获佳绩")
+2025-06-30
+  * ]( "我院教师在2025年上海市大学生职业发展与就业指导课程教学比赛中获佳绩")
+2025-06-13
+通知公告 
+  * 1 
+2023-10-16
+  * 2 
+2025-07-03
+  * 3 
+2025-01-15
+  * 4 
+2024-12-20
+  * 5 
+2024-07-10
+  * 6 
+2024-06-17
+  * 7 
+2024-05-29
+  * 8 ")
+2024-05-06
+学术报告 
+03.06
+09:30
+[主题：机器人与大模型前沿技术和应用  
+主讲人：陈小平  
+地址：1号学院楼140](
+12.06
+13:00
+[主题：上海市计算机学会信息安全专委会ySec空中学术论坛—密码算法及系统发展的新挑战与问题探讨  
+主讲人：吕继强、孙思维、张文英、欧长海、胡伟、曾光、贾世杰  
+地址：腾讯会议487-179-779](
+10.29
+10:00
+[主题：Predicting Alzheimer’s Disease Progression usingTime-Decay LSTM Network  
+主讲人：潘乔  
+地址：1号学院楼140](
+10.29
+13:30
+[主题：ECAPA-TDNN: A Model Based on Spontaneous Speech for MCI Detection  
+主讲人：李继云  
+地址：1号学院楼140](
+10.22
+13:00
+[主题：HyPeFL: 基于超网络应对个性化联邦学习中的数据异质性  
+主讲人：钱辰  
+地址：1号学院楼140](
+科研成果 
+  * 1 
+  * 2 
+  * 3 
+  * 4 
+  * 5 
+  * 6 
+  * 7 
+  * 8 
+教学资源 
+              
+ ](
+相关链接：  中华人民共和国教育部 中华人民共和国科学技术部 国家自然科学基金委员会 全国哲学社会科学工作办公室 教育部科技发展中心 中国纺织工业联合会 全军武器装备采购信息网 中国科学技术协会 上海市教育委员会 上海科学技术委员会 上海市哲学社会科学规划办公室 上海市科学技术协会 上海科技成果转化促进会 上海市知识产权局 校园链接：  东华大学主页 东华大学科学技术协会
+Copyright©2011 松江校区：上海市松江区人民北路2999号 201620，延安路校区：上海市延安西路1882号 200051
+!
+
+
+clickable button:
+
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>机构设置<button>
+<button>系室设置<button>
+<button>师资队伍<button>
+<button>计算机应用系<button>
+<button>计算机软件与理论系<button>
+<button>计算机信息技术系<button>
+<button>学院办公室<button>
+<button>实验中心<button>
+<button>学生工作办公室<button>
+<button>工业软件研究中心<button>
+<button>智慧医疗研究创新中心<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>联合实验室<button>
+<button>科研成果<button>
+<button>产学合作<button>
+<button>学科建设<button>
+<button>学术活动<button>
+<button>人才培养<button>
+<button>本科生<button>
+<button>专业简介<button>
+<button>教学成果<button>
+<button>教学活动<button>
+<button>研究生<button>
+<button>博士招生<button>
+<button>硕士招生<button>
+<button>工程管理硕士招生<button>
+<button>培养管理<button>
+<button>学生工作<button>
+<button>校园安全<button>
+<button>国际交流<button>
+<button>国际交流项目<button>
+<button>国际学生交流<button>
+<button>优秀交换生简介<button>
+<button>留学生培养<button>
+<button>优秀留学生简介<button>
+<button>校友风采<button>
+<button>学院校友会介绍<button>
+<button>照片墙<button>
+<button>采访校友<button>
+<button>校友活动<button>
+<button>走访校友企业<button>
+<button>院务公开<button>
+<button>规章制度<button>
+<button>院务公开<button>
+<button>党建工作<button>
+<button>理论学习<button>
+<button>党群动态<button>
+<button>党务公开<button>
+<button>More<button>
+<button>学院师生热议九三阅兵式<button>
+<button>9月3日，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在北京天安门广场隆重举行，中共中央总书记、国家主席、中央军委主席习近平发表重要讲话并检阅受阅部队。铭记历史、缅怀先...<button>
+<button>攻防砺剑 智护未来 大学生网络安全大赛在东华大学举行<button>
+<button>日前，由上海市教育委员会主办，东华大学和上海市互联网协会承办的第十届上海市大学生网络安全大赛暨“磐石行动”2025第三届全国高校网络安全攻防活动在东华大学成功举行。东华大学副校...<button>
+<button>我校在第十七届上海市计算机应用能力大赛中获佳绩<button>
+<button>近日，2025年第十七届上海市大学生计算机应用能力大赛颁奖典礼在上海师范大学举行。本次大赛由上海市教育委员会主办，也是中国大学生计算机设计大赛的省级选拔赛。在本次赛事中，我校63组...<button>
+<button>我院教师在2025年上海市大学生职业发展与就业指导课程教学比赛中获佳绩<button>
+<button>近日，2025年上海市大学生职业规划大赛大学生职业发展与就业指导课程教学比赛决赛举行。经过激烈角逐，我院学生工作办公室主任唐菲菲老师获得上海市课程教学赛道银奖。本次比赛由上海市教育...<button>
+<button>More<button>
+<button>东华大学计算机科学与技术学院人才招聘公告<button>
+<button>东华大学计算机科学与技术学院2025年度“全国优秀大学生夏令营”活动通知<button>
+<button>东华大学计算机科学与技术学院2025年硕士研究生复试上机考试说明<button>
+<button>“101计划”大师课走进东华大学<button>
+<button>关于2024年“创新型人才国际合作培养项目”国家公派留学人员选拔通知<button>
+<button>东华大学计算机科学与技术学院2024年（第九届）​ 全国优秀大学生夏令营活动暨“优才计划”专项研...<button>
+<button>东华大学计算机科学与技术学院二十周年院庆公告（第二号）<button>
+<button>东华大学计算机科学与技术学院二十周年院庆公告(第一号)<button>
+<button>More<button>
+<button>主题：机器人与大模型前沿技术和应用主讲人：陈小平地址：1号学院楼140<button>
+<button>主题：上海市计算机学会信息安全专委会ySec空中学术论坛—密码算法及系统发展的新挑战与问题探讨主讲人：吕继强、孙思维、张文英、欧长海、胡伟、曾光、贾世杰地址：腾讯会议487-179-779<button>
+<button>主题：Predicting Alzheimer’s Disease Progression usingTime-Decay LSTM Network主讲人：潘乔地址：1号学院楼140<button>
+<button>主题：ECAPA-TDNN: A Model Based on Spontaneous Speech for MCI Detection主讲人：李继云地址：1号学院楼140<button>
+<button>主题：HyPeFL: 基于超网络应对个性化联邦学习中的数据异质性主讲人：钱辰地址：1号学院楼140<button>
+<button>More<button>
+<button>我院王鹏伟老师课题组在软件服务工程与云边缘计...<button>
+<button>我院徐波老师课题组在多模态信息抽取领域取得重...<button>
+<button>我院陈德华老师课题组在三级淋巴结构检测领域取...<button>
+<button>我院青年教师赵晓鹏研究成果被国际顶级公钥密码...<button>
+<button>我院王鹏伟老师课题组在Serverless领域取得重要...<button>
+<button>我院王鹏伟老师课题组在云与边缘计算领域取得重...<button>
+<button>我院王洪亚老师课题组在向量数据库领域取得重要...<button>
+<button>我院常姗老师课题组在联邦学习激励机制领域取得...<button>
+<button>精品与重点课程<button>
+<button>上海市软件人才联合培养基地<button>
+<button>国家级工程实践教育中心<button>
+<button>学院FTP服务<button>
+<button>教学实验登记地址<button>
+<button>校内外链接<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到《数据科学技术与应用》和《信息系统与数据库技术》两门课程在2023年获得的共同荣誉。首先，我应该访问学院的“教学成果”页面，因为这可能包含课程相关的荣誉信息。
+
+Action: visit_page
+Action Input: {"button": "教学成果"}
+
+----- VisitPage -----
+The web information is:
+
+!
+!
+                                                                                                                                                                                                                  
+  
+|   
+ |   |  
+| --- |  
+ |  
+|   
+ |    |  
+| --- |  
+|   
+ |    |  
+| --- |  
+|    |  
+| --- |  
+|   
+ |    |  
+| --- |  
+|    |  
+| --- |  
+|    |  
+| --- |  
+|    |  
+| --- |  
+ |  
+|    |  
+| --- |  
+ |  
+|    |  
+| --- |  
+|    |  
+| --- |  
+|    |  
+| --- |  
+|    |  
+| --- |  
+ |  
+课程简介
+学院拥有国家级一流本科课程2门，上海市一流本科课程4门，上海市本科精品课程7门，上海市本科重点课程17门，  
+上海高校优质在线课程1门，上海市课程思政示范课程1门。  
+| **课程名称**  | **荣誉称号**  | **年份**  |  
+| --- | --- | --- |  
+| 信息系统与数据库技术  | 国家级一流本科课程  | 2022  |  
+| 数据科学技术与应用  | 国家级一流本科课程  | 2022  |  
+| 数据库系统原理  | 上海市课程思政示范课程  | 2022  |  
+| “数据库系统原理”课程教学团队  | 上海市课程思政示范团队  | 2022  |  
+| 信息系统与数据库技术  | 上海市一流本科课程  | 2021  |  
+| 程序设计基础  | 上海市一流本科课程  | 2021  |  
+| 数据结构  | 上海市一流本科课程  | 2022  |  
+| 人工智能技术与应用  | 上海市一流本科课程  | 2023  |  
+| 数据库系统原理  | 上海市精品课程  | 2006  |  
+| 软件工程  | 上海市精品课程  | 2008  |  
+| 信息系统与数据库技术  | 上海市精品课程  | 2011  |  
+| 计算机系统与网络技术  | 上海市精品课程  | 2013  |  
+| 多媒体应用系统技术  | 上海市精品课程  | 2014  |  
+| 编译原理  | 上海市精品课程  | 2015  |  
+| Linux系统  | 上海市精品课程  | 2017  |  
+| 信息系统与数据库技术  | 上海高校优质在线课程  | 2018  |  
+| 数据库系统原理  | 上海市本科重点课程  | 2007  |  
+| 算法分析与设计  | 上海市本科重点课程  | 2008  |  
+| 信息系统与数据库技术  | 上海市本科重点课程  | 2008  |  
+| 计算机系统与网络技术  | 上海市本科重点课程  | 2009  |  
+| 多媒体应用系统技术  | 上海市本科重点课程  | 2010  |  
+| 操作系统原理  | 上海市本科重点课程  | 2011  |  
+| 编译原理  | 上海市本科重点课程  | 2013  |  
+| Java程序设计  | 上海市本科重点课程  | 2015  |  
+| Linux系统  | 上海市本科重点课程  | 2015  |  
+| 工程项目管理  | 上海市本科重点课程  | 2015  |  
+| C语言程序设计  | 上海市本科重点课程  | 2017  |  
+| 数据结构  | 上海市本科重点课程  | 2017  |  
+| 数据科学技术与应用  | 上海市本科重点课程  | 2019  |  
+| 程序设计基础  | 上海市本科重点课程  | 2020  |  
+| 网络攻防实践  | 上海市本科重点课程  | 2020  |  
+| 人工智能技术与应用  | 上海市本科重点课程  | 2021  |  
+| 计算机网络  | 上海市本科重点课程  | 2021  |  
+  
+Copyright©2011 松江校区：上海市松江区人民北路2999号 201620，延安路校区：上海市延安西路1882号 200051
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>机构设置<button>
+<button>系室设置<button>
+<button>师资队伍<button>
+<button>计算机应用系<button>
+<button>计算机软件与理论系<button>
+<button>计算机信息技术系<button>
+<button>学院办公室<button>
+<button>实验中心<button>
+<button>学生工作办公室<button>
+<button>工业软件研究中心<button>
+<button>智慧医疗研究创新中心<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>联合实验室<button>
+<button>科研成果<button>
+<button>产学合作<button>
+<button>学科建设<button>
+<button>学术活动<button>
+<button>人才培养<button>
+<button>本科生<button>
+<button>专业简介<button>
+<button>教学成果<button>
+<button>教学活动<button>
+<button>研究生<button>
+<button>博士招生<button>
+<button>硕士招生<button>
+<button>工程管理硕士招生<button>
+<button>培养管理<button>
+<button>学生工作<button>
+<button>校园安全<button>
+<button>国际交流<button>
+<button>国际交流项目<button>
+<button>国际学生交流<button>
+<button>优秀交换生简介<button>
+<button>留学生培养<button>
+<button>优秀留学生简介<button>
+<button>校友风采<button>
+<button>学院校友会介绍<button>
+<button>照片墙<button>
+<button>采访校友<button>
+<button>校友活动<button>
+<button>走访校友企业<button>
+<button>院务公开<button>
+<button>规章制度<button>
+<button>院务公开<button>
+<button>党建工作<button>
+<button>理论学习<button>
+<button>党群动态<button>
+<button>党务公开<button>
+<button>精品与重点课程<button>
+<button>上海市一流课程<button>
+<button>国家一流课程<button>
+<button>上海市课程思政示范团队<button>
+<button>首页<button>
+
+----- WebWalker -----
+Memory:
+-《数据科学技术与应用》和《信息系统与数据库技术》两门课程在2022年都被评为国家级一流本科课程。
+"}
+
+----- WebWalker -----
+Thought: 从表格中可以看到，《数据科学技术与应用》和《信息系统与数据库技术》两门课程在2022年都被评为国家级一流本科课程。因此，它们在2023年可能没有共同的荣誉，或者需要进一步确认是否有其他信息。
+
+Action: visit_page
+Action Input: {"button": "国家一流课程"}
+
+----- VisitPage -----
+The web information is:
+
+!
+!
+                                                                                                                                                                                                                  
+  
+|   
+ |   |  
+| --- |  
+ |  
+|   
+ |    |  
+| --- |  
+|   
+ |    |  
+| --- |  
+|    |  
+| --- |  
+|   
+ |    |  
+| --- |  
+|    |  
+| --- |  
+|    |  
+| --- |  
+|    |  
+| --- |  
+ |  
+|    |  
+| --- |  
+ |  
+|    |  
+| --- |  
+|    |  
+| --- |  
+|    |  
+| --- |  
+|    |  
+| --- |  
+ |  
+  * 2023-06-07
+  * 2023-06-07
+  * 每页  _10_ 记录  总共  _2_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+Copyright©2011 松江校区：上海市松江区人民北路2999号 201620，延安路校区：上海市延安西路1882号 200051
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>机构设置<button>
+<button>系室设置<button>
+<button>师资队伍<button>
+<button>计算机应用系<button>
+<button>计算机软件与理论系<button>
+<button>计算机信息技术系<button>
+<button>学院办公室<button>
+<button>实验中心<button>
+<button>学生工作办公室<button>
+<button>工业软件研究中心<button>
+<button>智慧医疗研究创新中心<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>联合实验室<button>
+<button>科研成果<button>
+<button>产学合作<button>
+<button>学科建设<button>
+<button>学术活动<button>
+<button>人才培养<button>
+<button>本科生<button>
+<button>专业简介<button>
+<button>教学成果<button>
+<button>教学活动<button>
+<button>研究生<button>
+<button>博士招生<button>
+<button>硕士招生<button>
+<button>工程管理硕士招生<button>
+<button>培养管理<button>
+<button>学生工作<button>
+<button>校园安全<button>
+<button>国际交流<button>
+<button>国际交流项目<button>
+<button>国际学生交流<button>
+<button>优秀交换生简介<button>
+<button>留学生培养<button>
+<button>优秀留学生简介<button>
+<button>校友风采<button>
+<button>学院校友会介绍<button>
+<button>照片墙<button>
+<button>采访校友<button>
+<button>校友活动<button>
+<button>走访校友企业<button>
+<button>院务公开<button>
+<button>规章制度<button>
+<button>院务公开<button>
+<button>党建工作<button>
+<button>理论学习<button>
+<button>党群动态<button>
+<button>党务公开<button>
+<button>精品与重点课程<button>
+<button>上海市一流课程<button>
+<button>国家一流课程<button>
+<button>上海市课程思政示范团队<button>
+<button>首页<button>
+<button>《数据科学技术与应用》<button>
+<button>“数据科学技术与应用“为大学计算机通识教育课程，介绍数据科学的思维方式，实现数据分析的方法。学习本课程将了解数据科学的核心知识，通过数据分析解决实际问题的基本步骤，掌握基于Python方法库实现数据分析的方法，包括数据组织，数据存储、数据清洗、转换与合并、可视化展示、数据汇总和统计、机器学习建模分析及在文本、图像、语音等人工智能前沿领域的应用。课程以培养学生的数据科学素养为目标，使学生建立“数据即生产力...<button>
+<button>《信息系统与数据库技术》<button>
+<button>《信息系统与数据库技术》是一门综合性高阶公共基础课。课程用系统的观点，以数据库技术为核心，融合信息管理、软件工程、程序开发等知识，用解剖麻雀式的教学和实践案例带领学习者快速掌握从信息需求发现到信息系统分析、设计和实现的全过程，培养学生计算机综合应用能力。目前在中国大学MOOC、超星平台、泛亚尔雅等多个平台面向社会开放。课程由刘晓强教授负责，并由上海市多所高校共建共享，本校团队成员有黄雅萍副教授、...<button>
+
+----- WebWalker -----
+Memory:
+《数据科学技术与应用》和《信息系统与数据库技术》两门课程在2022年都被评为国家级一流本科课程。
+-《数据科学技术与应用》和《信息系统与数据库技术》两门课程在2023年都被评为上海市一流课程。
+"}
+
+----- WebWalker -----
+Final Answer: 《数据科学技术与应用》和《信息系统与数据库技术》两门课程在2023年都被评为上海市一流课程。

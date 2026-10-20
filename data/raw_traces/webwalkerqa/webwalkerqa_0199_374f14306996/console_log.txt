@@ -1,0 +1,3134 @@
+----- user -----
+query:
+When should a delegation schedule a meeting with their represented country's Permanent Mission to the UN for the 2025 NMUN conference, and what alternatives exist if a meeting on that day is not possible?
+official website:
+https://www.nmun.org/
+Observation:website information:
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+        
+  1. 
+  2. 
+!!
+#  Welcome to NMUN!
+## 
+##### NMUN is proud to be the first organization to simulate the UN.
+National Model United Nations (NMUN) is the world's largest, most prestigious, most diverse, and oldest ongoing university-level Model UN. We annually draw participants from more than 100 UN Member States to address current global issues. We are known for our outstanding volunteer staff and academic rigor. Our experiential learning programs provide students with a forum to hone skills in diplomacy, negotiation, critical thinking, compromise, public speaking, writing, and research. Students benefit from our formal association with the United Nations Department of Global Communications and our realistic simulation of the UN. Our New York conferences culminate at UN Headquarters (subject to availability and approval) with thousands of students in attendance.
+##  Conferences 
+!!
+### 
+New York, NY  
+21 - 25 Mar 2027 or 29 Mar - 2 Apr 2027
+!!
+### 
+Washington, DC  
+6 - 8 Nov 2026
+!!
+### 
+Barcelona, Spain  
+22 - 28 Nov 2026
+!!
+### 
+Wellington, New Zealand  
+21 - 27 Nov 2027
+##  Future Conference Dates 
+###  NMUN•NY 
+  1. 2028: 26-30 March & 2-6 April
+  2. 2029: 25-29 March & 2-6 April
+  3. 2030: 24-28 March & 31 March-4 April
+###  NMUN•DC 
+  1. 2027: 4-6 November
+  2. 2028: 3-5 November
+  3. 2029: 2-4 November
+  4. 2030: 1-3 November
+  5. 2031: 31 Oct.-2 Nov.
+###  NMUN•Non-U.S. 
+  1. 2028: NMUN • Pending, 19-25 Nov. 2028
+  2. 2029: NMUN • Your Country? Accepting Applications, 18-24 Nov. 2029
+ by 
+    
+
+
+clickable button:
+
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Celebrating 100 Years of Fostering Global Citizenship, 1927-2027<button>
+<button>Learn more about us<button>
+<button>New York<button>
+<button>View Details<button>
+<button>Washington, D.C.<button>
+<button>View Details<button>
+<button>Spain<button>
+<button>View Details<button>
+<button>New Zealand<button>
+<button>View Details<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the key dates for the 2025 NMUN conference to determine when a delegation should schedule a meeting with their represented country's Permanent Mission to the UN. I will start by visiting the "Register & Key Dates" page.
+
+Action: visit_page
+Action Input: {"button": "Register & Key Dates"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+                                                                                                                
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+!!
+#  Register & Plan Your Trip
+      
+##  New Zealand 
+21 - 27 November 2027 
+### Register for the Conference
+Starting 1 May 2027 
+### Confirm Delegation Numbers and Tours
+Starting 15 July 2027 
+### Pay by Charge
+Starting 15 July 2027   
+New Zealand Key Dates  
+|  **1 May 2027**  | 
+  * Conference Registration Opens (use Register button above)
+  * Reserve Conference  Rooms
+ |  
+| --- | --- |  
+|  **15 May 2027**  | 
+  * Country Assignments Posted  
+(may be posted earlier if a significant number of people register right away)
+ |  
+|  **15 July 2027**  | 
+  * Confirm Delegation Numbers and Tours  
+(use button above; refunds only given if changes made by 1 October)
+  * Make  Arrangements (if needed)
+ |  
+|  **1 August 2027**  | 
+  * NMUN • New Zealand  Available
+  * Make Travel Arrangements to New Zealand
+ |  
+|  **1 October 2027**  | 
+  * NMUN Payment Deadline  
+(if paying by credit card use the Pay by Charge button above)
+  * Last Day to Request a Refund for Delegation Fees and Tour Payments  
+(hotels have different refund policies, contact yours directly)
+ |  
+|  **25 October 2027**  | 
+  *  Completion Date
+ |  
+|  **1 November 2027**  | 
+  *  Due
+ |  
+|  **21-27 Nov. 2027**  | 
+  * Attend NMUN • New Zealand in Wellington
+ |  
+### Additional Information
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Conferences<button>
+<button>View Registration Options<button>
+<button>Hotel<button>
+<button>Visa<button>
+<button>Background Guides<button>
+<button>Name Badge Form<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+The web information is:
+
+```
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+                                                                                                                
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+!!
+#  Register & Plan Your Trip
+      
+##  New Zealand 
+21 - 27 November 2027 
+### Register for the Conference
+Starting 1 May 2027 
+### Confirm Delegation Numbers and Tours
+Starting 15 July 2027 
+### Pay by Charge
+Starting 15 July 2027   
+New Zealand Key Dates  
+|  **1 May 2027**  | 
+  * Conference Registration Opens (use Register button above)
+  * Reserve Conference  Rooms
+ |  
+| --- | --- |  
+|  **15 May 2027**  | 
+  * Country Assignments Posted  
+(may be posted earlier if a significant number of people register right away)
+ |  
+|  **15 July 2027**  | 
+  * Confirm Delegation Numbers and Tours  
+(use button above; refunds only given if changes made by 1 October)
+  * Make  Arrangements (if needed)
+ |  
+|  **1 August 2027**  | 
+  * NMUN • New Zealand  Available
+  * Make Travel Arrangements to New Zealand
+ |  
+|  **1 October 2027**  | 
+  * NMUN Payment Deadline  
+(if paying by credit card use the Pay by Charge button above)
+  * Last Day to Request a Refund for Delegation Fees and Tour Payments  
+(hotels have different refund policies, contact yours directly)
+ |  
+|  **25 October 2027**  | 
+  *  Completion Date
+ |  
+|  **1 November 2027**  | 
+  *  Due
+ |  
+|  **21-27 Nov. 2027**  | 
+  * Attend NMUN • New Zealand in Wellington
+ |  
+### Additional Information
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Conferences<button>
+<button>View Registration Options<button>
+<button>Hotel<button>
+<button>Visa<button>
+<button>Background Guides<button>
+<button>Name Badge Form<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+```
+
+----- WebWalker -----
+The web information is:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+                                                                                                                
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+!!
+#  Register & Plan Your Trip
+      
+##  New Zealand 
+21 - 27 November 2027 
+### Register for the Conference
+Starting 1 May 2027 
+### Confirm Delegation Numbers and Tours
+Starting 15 July 2027 
+### Pay by Charge
+Starting 15 July 2027   
+New Zealand Key Dates  
+|  **1 May 2027**  | 
+  * Conference Registration Opens (use Register button above)
+  * Reserve Conference  Rooms
+ |  
+| --- | --- |  
+|  **15 May 2027**  | 
+  * Country Assignments Posted  
+(may be posted earlier if a significant number of people register right away)
+ |  
+|  **15 July 2027**  | 
+  * Confirm Delegation Numbers and Tours  
+(use button above; refunds only given if changes made by 1 October)
+  * Make  Arrangements (if needed)
+ |  
+|  **1 August 2027**  | 
+  * NMUN • New Zealand  Available
+  * Make Travel Arrangements to New Zealand
+ |  
+|  **1 October 2027**  | 
+  * NMUN Payment Deadline  
+(if paying by credit card use the Pay by Charge button above)
+  * Last Day to Request a Refund for Delegation Fees and Tour Payments  
+(hotels have different refund policies, contact yours directly)
+ |  
+|  **25 October 2027**  | 
+  *  Completion Date
+ |  
+|  **1 November 2027**  | 
+  *  Due
+ |  
+|  **21-27 Nov. 2027**  | 
+  * Attend NMUN • New Zealand in Wellington
+ |  
+### Additional Information
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Conferences<button>
+<button>View Registration Options<button>
+<button>Hotel<button>
+<button>Visa<button>
+<button>Background Guides<button>
+<button>Name Badge Form<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+Thought: I need to find the key dates for the 2025 NMUN conference, but the current page is about the 2027 New Zealand conference. I should visit the "Key Dates" page to get more details.
+
+Action: visit_page
+Action Input: {"button": "Key Dates"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+                                                                                                                
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+!!
+#  Register & Plan Your Trip
+      
+##  New Zealand 
+21 - 27 November 2027 
+### Register for the Conference
+Starting 1 May 2027 
+### Confirm Delegation Numbers and Tours
+Starting 15 July 2027 
+### Pay by Charge
+Starting 15 July 2027   
+New Zealand Key Dates  
+|  **1 May 2027**  | 
+  * Conference Registration Opens (use Register button above)
+  * Reserve Conference  Rooms
+ |  
+| --- | --- |  
+|  **15 May 2027**  | 
+  * Country Assignments Posted  
+(may be posted earlier if a significant number of people register right away)
+ |  
+|  **15 July 2027**  | 
+  * Confirm Delegation Numbers and Tours  
+(use button above; refunds only given if changes made by 1 October)
+  * Make  Arrangements (if needed)
+ |  
+|  **1 August 2027**  | 
+  * NMUN • New Zealand  Available
+  * Make Travel Arrangements to New Zealand
+ |  
+|  **1 October 2027**  | 
+  * NMUN Payment Deadline  
+(if paying by credit card use the Pay by Charge button above)
+  * Last Day to Request a Refund for Delegation Fees and Tour Payments  
+(hotels have different refund policies, contact yours directly)
+ |  
+|  **25 October 2027**  | 
+  *  Completion Date
+ |  
+|  **1 November 2027**  | 
+  *  Due
+ |  
+|  **21-27 Nov. 2027**  | 
+  * Attend NMUN • New Zealand in Wellington
+ |  
+### Additional Information
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Conferences<button>
+<button>View Registration Options<button>
+<button>Hotel<button>
+<button>Visa<button>
+<button>Background Guides<button>
+<button>Name Badge Form<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+The web information is:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+                                                                                                                
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+!!
+#  Register & Plan Your Trip
+      
+##  New Zealand 
+21 - 27 November 2027 
+### Register for the Conference
+Starting 1 May 2027 
+### Confirm Delegation Numbers and Tours
+Starting 15 July 2027 
+### Pay by Charge
+Starting 15 July 2027   
+New Zealand Key Dates  
+|  **1 May 2027**  | 
+  * Conference Registration Opens (use Register button above)
+  * Reserve Conference  Rooms
+ |  
+| --- | --- |  
+|  **15 May 2027**  | 
+  * Country Assignments Posted  
+(may be posted earlier if a significant number of people register right away)
+ |  
+|  **15 July 2027**  | 
+  * Confirm Delegation Numbers and Tours  
+(use button above; refunds only given if changes made by 1 October)
+  * Make  Arrangements (if needed)
+ |  
+|  **1 August 2027**  | 
+  * NMUN • New Zealand  Available
+  * Make Travel Arrangements to New Zealand
+ |  
+|  **1 October 2027**  | 
+  * NMUN Payment Deadline  
+(if paying by credit card use the Pay by Charge button above)
+  * Last Day to Request a Refund for Delegation Fees and Tour Payments  
+(hotels have different refund policies, contact yours directly)
+ |  
+|  **25 October 2027**  | 
+  *  Completion Date
+ |  
+|  **1 November 2027**  | 
+  *  Due
+ |  
+|  **21-27 Nov. 2027**  | 
+  * Attend NMUN • New Zealand in Wellington
+ |  
+### Additional Information
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Conferences<button>
+<button>View Registration Options<button>
+<button>Hotel<button>
+<button>Visa<button>
+<button>Background Guides<button>
+<button>Name Badge Form<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+Thought: The current page still refers to the 2027 New Zealand conference. I need to find the key dates for the 2025 conference. I will visit the "See all conferences" page to check for the 2025 conference details.
+
+Action: visit_page
+Action Input: {"button": "See all conferences"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+        
+  1. 
+  2. 
+!!
+#  Welcome to NMUN!
+## 
+##### NMUN is proud to be the first organization to simulate the UN.
+National Model United Nations (NMUN) is the world's largest, most prestigious, most diverse, and oldest ongoing university-level Model UN. We annually draw participants from more than 100 UN Member States to address current global issues. We are known for our outstanding volunteer staff and academic rigor. Our experiential learning programs provide students with a forum to hone skills in diplomacy, negotiation, critical thinking, compromise, public speaking, writing, and research. Students benefit from our formal association with the United Nations Department of Global Communications and our realistic simulation of the UN. Our New York conferences culminate at UN Headquarters (subject to availability and approval) with thousands of students in attendance.
+##  Conferences 
+!!
+### 
+New York, NY  
+21 - 25 Mar 2027 or 29 Mar - 2 Apr 2027
+!!
+### 
+Washington, DC  
+6 - 8 Nov 2026
+!!
+### 
+Barcelona, Spain  
+22 - 28 Nov 2026
+!!
+### 
+Wellington, New Zealand  
+21 - 27 Nov 2027
+##  Future Conference Dates 
+###  NMUN•NY 
+  1. 2028: 26-30 March & 2-6 April
+  2. 2029: 25-29 March & 2-6 April
+  3. 2030: 24-28 March & 31 March-4 April
+###  NMUN•DC 
+  1. 2027: 4-6 November
+  2. 2028: 3-5 November
+  3. 2029: 2-4 November
+  4. 2030: 1-3 November
+  5. 2031: 31 Oct.-2 Nov.
+###  NMUN•Non-U.S. 
+  1. 2028: NMUN • Pending, 19-25 Nov. 2028
+  2. 2029: NMUN • Your Country? Accepting Applications, 18-24 Nov. 2029
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Celebrating 100 Years of Fostering Global Citizenship, 1927-2027<button>
+<button>Learn more about us<button>
+<button>New York<button>
+<button>View Details<button>
+<button>Washington, D.C.<button>
+<button>View Details<button>
+<button>Spain<button>
+<button>View Details<button>
+<button>New Zealand<button>
+<button>View Details<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+The web information is:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+        
+  1. 
+  2. 
+!!
+#  Welcome to NMUN!
+## 
+##### NMUN is proud to be the first organization to simulate the UN.
+National Model United Nations (NMUN) is the world's largest, most prestigious, most diverse, and oldest ongoing university-level Model UN. We annually draw participants from more than 100 UN Member States to address current global issues. We are known for our outstanding volunteer staff and academic rigor. Our experiential learning programs provide students with a forum to hone skills in diplomacy, negotiation, critical thinking, compromise, public speaking, writing, and research. Students benefit from our formal association with the United Nations Department of Global Communications and our realistic simulation of the UN. Our New York conferences culminate at UN Headquarters (subject to availability and approval) with thousands of students in attendance.
+##  Conferences 
+!!
+### 
+New York, NY  
+21 - 25 Mar 2027 or 29 Mar - 2 Apr 2027
+!!
+### 
+Washington, D.C.  
+6 - 8 Nov 2026
+!!
+### 
+Barcelona, Spain  
+22 - 28 Nov 2026
+!!
+### 
+Wellington, New Zealand  
+21 - 27 Nov 2027
+##  Future Conference Dates 
+###  NMUN•NY 
+  1. 2028: 26-30 March & 2-6 April
+  2. 2029: 25-29 March & 2-6 April
+  3. 2030: 24-28 March & 31 March-4 April
+###  NMUN•DC 
+  1. 2027: 4-6 November
+  2. 2028: 3-5 November
+  3. 2029: 2-4 November
+  4. 2030: 1-3 November
+  5. 2031: 31 Oct.-2 Nov.
+###  NMUN•Non-U.S. 
+  1. 2028: NMUN • Pending, 19-25 Nov. 2028
+  2. 2029: NMUN • Your Country? Accepting Applications, 18-24 Nov. 2029
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Celebrating 100 Years of Fostering Global Citizenship, 1927-2027<button>
+<button>Learn more about us<button>
+<button>New York<button>
+<button>View Details<button>
+<button>Washington, D.C.<button>
+<button>View Details<button>
+<button>Spain<button>
+<button>View Details<button>
+<button>New Zealand<button>
+<button>View Details<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+Thought: I need to find the key dates for the 2025 conference. The "See all conferences" page mentions "Canada 2025," so I will visit the "Canada 2025" page to get more details.
+
+Action: visit_page
+Action Input: {"button": "Canada 2025"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+        
+  1. 
+  2. 
+  3. 
+  4. 
+!!
+#  Canada 2025 Banff, Canada Archive
+## NMUN • Canada - Banff National Park, Canada
+NMUN • Canada was held in partnership with MacEwan University amidst the striking mountain landscapes of Banff National Park, a . Attendees were surrounded by majestic mountains, thick pine forests, pristine lakes, abundant wildlife, and a snow covered landscape. This unique United Nations simulation for college and university students from all over the world, addressed pressing global environmental and indigenous issues. Students developed and practiced the skills necessary to make a difference. At the conference we strove to adhere to the four . Outside of committee sessions, we explored Banff National Park, hiked Johnston Canyon, participated in an interactive blanket experience for an intimate encounter with the impact of Canada's colonization on the indigenous population, joined in on indigenous drumming and warrior training sessions, rode the gondola to the top of Sulphur Mountain, and spent time at Lake Louise.
+​
+  
+!](
+##  Committees 
+###  Human Rights Council (HRC) 
+  1. The Rights of Indigenous Populations to Their Traditional Economies
+  2. UNDRIP and the Participation of Indigenous Populations in Governance
+    
+###  United Nations Development Programme (UNDP) 
+  1. Addressing Affordability and Accessibility of Goods for Marginalized Communities
+  2. Adaptation and Resilience in the Face of Climate Change
+    
+###  United Nations Educational, Scientific and Cultural Organization (UNESCO) 
+  1. Indigenous Knowledge and Climate Adaptation
+  2. The Protection of Cultural Heritage through Language Preservation
+    
+###  United Nations Environment Assembly (UNEA) 
+  1. Promotion of Safe and Sustainable Use of the World’s Oceans
+  2. Reaffirming Legal Protections and Rights of Natural Protected Areas
+    
+## Volunteer Leadership
+!!
+Ashlee Rolheiser
+Secretary-General
+Learn More Close
+Ashlee was born and raised in Amiskwaciwâskahikan (ᐊᒥᐢᑲᐧᒋᐋᐧᐢᑲᐦᐃᑲᐣ), now commonly known as Edmonton, Canada. She graduated from MacEwan University in 2019 with a Bachelor of Commerce. Her passion for NMUN ignited when she joined the MacEwan University United Nations Club in 2016. Serving on the Executive team for two years, ultimately as Secretary-General, she co-founded the transformational Canada-Ukraine Project – a Canadian Bureau of International Education award-winning project – teaching Ukrainian institutions the rules and procedures of NMUN, leading to their continued participation at the conference, as well as widespread global influence at multiple institutions around the world. Ashlee graduated with a Master of Arts in International Affairs and Diplomacy from the Universitat Oberta de Catalunya, accredited by the United Nations Institute for Training and Research. With significant career experience in the charitable sector as a philanthropy professional, she is also an active community member, serving on the Board of Directors for the Canadian Federation of Business and Professional Women, where she attended the 68th Commission on the Status of Women as a delegate with NGO-consultative status. She is an avid traveler, having visited more than 40 countries, and is forever grateful for the opportunities that NMUN has brought her. Ashlee is excited to welcome delegates to the province that she calls home, and to sharing a full-circle experience as a proud MacEwan alumna. 
+!!
+Ana Williamson
+Deputy Secretary-General
+Learn More Close
+Ana works as a government contractor within the U.S. Department of Defense space, mostly for the U.S. Army Corps of Engineers. A native to Maryland, she earned her bachelor’s degrees in International Studies and World Languages at West Virginia University and her Master’s Degree in Global Environmental Policy from American University. She lives in Bethesda, Maryland where she is an active volunteer for the Chesapeake Bay Foundation and the Danish Club of Washington, D.C. Ana volunteered at NMUN•DC for eight years and served as the DC Secretary-General in 2023. 
+##  Program Partners 
+NMUN • Canada 2025 was held in partnership with MacEwan University.
+We respect that the land on which we gather in Treaty Six and Treaty Seven Territory are the traditional gathering places for many Indigenous people. We acknowledge all who live, work, and play here, while honoring the history, languages, ceremonies, stewardship, and culture of the Nations who call these Territories home.
+!](
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>Back to Conference Archives<button>
+<button>National Model United Nations<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+The web information is:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+        
+  1. 
+  2. 
+  3. 
+  4. 
+!!
+#  Canada 2025 Banff, Canada Archive
+## NMUN • Canada - Banff National Park, Canada
+NMUN • Canada was held in partnership with MacEwan University amidst the striking mountain landscapes of Banff National Park, a . Attendees were surrounded by majestic mountains, thick pine forests, pristine lakes, abundant wildlife, and a snow covered landscape. This unique United Nations simulation for college and university students from all over the world, addressed pressing global environmental and indigenous issues. Students developed and practiced the skills necessary to make a difference. At the conference we strove to adhere to the four . Outside of committee sessions, we explored Banff National Park, hiked Johnston Canyon, participated in an interactive blanket experience for an intimate encounter with the impact of Canada's colonization on the indigenous population, joined in on indigenous drumming and warrior training sessions, rode the gondola to the top of Sulphur Mountain, and spent time at Lake Louise.
+​
+  
+!](
+##  Committees 
+###  Human Rights Council (HRC) 
+  1. The Rights of Indigenous Populations to Their Traditional Economies
+  2. UNDRIP and the Participation of Indigenous Populations in Governance
+    
+###  United Nations Development Programme (UNDP) 
+  1. Addressing Affordability and Accessibility of Goods for Marginalized Communities
+  2. Adaptation and Resilience in the Face of Climate Change
+    
+###  United Nations Educational, Scientific and Cultural Organization (UNESCO) 
+  1. Indigenous Knowledge and Climate Adaptation
+  2. The Protection of Cultural Heritage through Language Preservation
+    
+###  United Nations Environment Assembly (UNEA) 
+  1. Promotion of Safe and Sustainable Use of the World’s Oceans
+  2. Reaffirming Legal Protections and Rights of Natural Protected Areas
+    
+## Volunteer Leadership
+!!
+Ashlee Rolheiser
+Secretary-General
+Learn More Close
+Ashlee was born and raised in Amiskwaciwâskahikan (ᐊᒥᐢᑲᐧᒋᐋᐧᐢᑲᐦᐃᑲᐣ), now commonly known as Edmonton, Canada. She graduated from MacEwan University in 2019 with a Bachelor of Commerce. Her passion for NMUN ignited when she joined the MacEwan University United Nations Club in 2016. Serving on the Executive team for two years, ultimately as Secretary-General, she co-founded the transformational Canada-Ukraine Project – a Canadian Bureau of International Education award-winning project – teaching Ukrainian institutions the rules and procedures of NMUN, leading to their continued participation at the conference, as well as widespread global influence at multiple institutions around the world. Ashlee graduated with a Master of Arts in International Affairs and Diplomacy from the Universitat Oberta de Catalunya, accredited by the United Nations Institute for Training and Research. With significant career experience in the charitable sector as a philanthropy professional, she is also an active community member, serving on the Board of Directors for the Canadian Federation of Business and Professional Women, where she attended the 68th Commission on the Status of Women as a delegate with NGO-consultative status. She is an avid traveler, having visited more than 40 countries, and is forever grateful for the opportunities that NMUN has brought her. Ashlee is excited to welcome delegates to the province that she calls home, and to sharing a full-circle experience as a proud MacEwan alumna. 
+!!
+Ana Williamson
+Deputy Secretary-General
+Learn More Close
+Ana works as a government contractor within the U.S. Department of Defense space, mostly for the U.S. Army Corps of Engineers. A native to Maryland, she earned her bachelor’s degrees in International Studies and World Languages at West Virginia University and her Master’s Degree in Global Environmental Policy from American University. She lives in Bethesda, Maryland where she is an active volunteer for the Chesapeake Bay Foundation and the Danish Club of Washington, D.C. Ana volunteered at NMUN•DC for eight years and served as the DC Secretary-General in 2023. 
+##  Program Partners 
+NMUN • Canada 2025 was held in partnership with MacEwan University.
+We respect that the land on which we gather in Treaty Six and Treaty Seven Territory are the traditional gathering places for many Indigenous people. We acknowledge all who live, work, and play here, while honoring the history, languages, ceremonies, stewardship, and culture of the Nations who call these Territories home.
+!](
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>Back to Conference Archives<button>
+<button>National Model United Nations<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+Thought: The "Canada 2025" page is an archive and does not provide key dates for the 2025 conference. I need to find the key dates for the upcoming 2025 conference. I will visit the "Register & Key Dates" page again to check if there is any mention of the 2025 conference.
+
+Action: visit_page
+Action Input: {"button": "Register & Key Dates"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+                                                                                                                
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+!!
+#  Register & Plan Your Trip
+      
+##  New Zealand 
+21 - 27 November 2027 
+### Register for the Conference
+Starting 1 May 2027 
+### Confirm Delegation Numbers and Tours
+Starting 15 July 2027 
+### Pay by Charge
+Starting 15 July 2027   
+New Zealand Key Dates  
+|  **1 May 2027**  | 
+  * Conference Registration Opens (use Register button above)
+  * Reserve Conference  Rooms
+ |  
+| --- | --- |  
+|  **15 May 2027**  | 
+  * Country Assignments Posted  
+(may be posted earlier if a significant number of people register right away)
+ |  
+|  **15 July 2027**  | 
+  * Confirm Delegation Numbers and Tours  
+(use button above; refunds only given if changes made by 1 October)
+  * Make  Arrangements (if needed)
+ |  
+|  **1 August 2027**  | 
+  * NMUN • New Zealand  Available
+  * Make Travel Arrangements to New Zealand
+ |  
+|  **1 October 2027**  | 
+  * NMUN Payment Deadline  
+(if paying by credit card use the Pay by Charge button above)
+  * Last Day to Request a Refund for Delegation Fees and Tour Payments  
+(hotels have different refund policies, contact yours directly)
+ |  
+|  **25 October 2027**  | 
+  *  Completion Date
+ |  
+|  **1 November 2027**  | 
+  *  Due
+ |  
+|  **21-27 Nov. 2027**  | 
+  * Attend NMUN • New Zealand in Wellington
+ |  
+### Additional Information
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Conferences<button>
+<button>View Registration Options<button>
+<button>Hotel<button>
+<button>Visa<button>
+<button>Background Guides<button>
+<button>Name Badge Form<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+The web information is:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+                                                                                                                
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+!!
+#  Register & Plan Your Trip
+      
+##  New Zealand 
+21 - 27 November 2027 
+### Register for the Conference
+Starting 1 May 2027 
+### Confirm Delegation Numbers and Tours
+Starting 15 July 2027 
+### Pay by Charge
+Starting 15 July 2027   
+New Zealand Key Dates  
+|  **1 May 2027**  | 
+  * Conference Registration Opens (use Register button above)
+  * Reserve Conference  Rooms
+ |  
+| --- | --- |  
+|  **15 May 2027**  | 
+  * Country Assignments Posted  
+(may be posted earlier if a significant number of people register right away)
+ |  
+|  **15 July 2027**  | 
+  * Confirm Delegation Numbers and Tours  
+(use button above; refunds only given if changes made by 1 October)
+  * Make  Arrangements (if needed)
+ |  
+|  **1 August 2027**  | 
+  * NMUN • New Zealand  Available
+  * Make Travel Arrangements to New Zealand
+ |  
+|  **1 October 2027**  | 
+  * NMUN Payment Deadline  
+(if paying by credit card use the Pay by Charge button above)
+  * Last Day to Request a Refund for Delegation Fees and Tour Payments  
+(hotels have different refund policies, contact yours directly)
+ |  
+|  **25 October 2027**  | 
+  *  Completion Date
+ |  
+|  **1 November 2027**  | 
+  *  Due
+ |  
+|  **21-27 Nov. 2027**  | 
+  * Attend NMUN • New Zealand in Wellington
+ |  
+### Additional Information
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Conferences<button>
+<button>View Registration Options<button>
+<button>Hotel<button>
+<button>Visa<button>
+<button>Background Guides<button>
+<button>Name Badge Form<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+Thought: The "Register & Key Dates" page still does not provide key dates for the 2025 conference. I will visit the "Key Dates" page again to check for any updates or additional information.
+
+Action: visit_page
+Action Input: {"button": "Key Dates"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+                                                                                                                
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+!!
+#  Register & Plan Your Trip
+      
+##  New Zealand 
+21 - 27 November 2027 
+### Register for the Conference
+Starting 1 May 2027 
+### Confirm Delegation Numbers and Tours
+Starting 15 July 2027 
+### Pay by Charge
+Starting 15 July 2027   
+New Zealand Key Dates  
+|  **1 May 2027**  | 
+  * Conference Registration Opens (use Register button above)
+  * Reserve Conference  Rooms
+ |  
+| --- | --- |  
+|  **15 May 2027**  | 
+  * Country Assignments Posted  
+(may be posted earlier if a significant number of people register right away)
+ |  
+|  **15 July 2027**  | 
+  * Confirm Delegation Numbers and Tours  
+(use button above; refunds only given if changes made by 1 October)
+  * Make  Arrangements (if needed)
+ |  
+|  **1 August 2027**  | 
+  * NMUN • New Zealand  Available
+  * Make Travel Arrangements to New Zealand
+ |  
+|  **1 October 2027**  | 
+  * NMUN Payment Deadline  
+(if paying by credit card use the Pay by Charge button above)
+  * Last Day to Request a Refund for Delegation Fees and Tour Payments  
+(hotels have different refund policies, contact yours directly)
+ |  
+|  **25 October 2027**  | 
+  *  Completion Date
+ |  
+|  **1 November 2027**  | 
+  *  Due
+ |  
+|  **21-27 Nov. 2027**  | 
+  * Attend NMUN • New Zealand in Wellington
+ |  
+### Additional Information
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Conferences<button>
+<button>View Registration Options<button>
+<button>Hotel<button>
+<button>Visa<button>
+<button>Background Guides<button>
+<button>Name Badge Form<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+The web information is:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+                                                                                                                
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+!!
+#  Register & Plan Your Trip
+      
+##  New Zealand 
+21 - 27 November 2027 
+### Register for the Conference
+Starting 1 May 2027 
+### Confirm Delegation Numbers and Tours
+Starting 15 July 2027 
+### Pay by Charge
+Starting 15 July 2027   
+New Zealand Key Dates  
+|  **1 May 2027**  | 
+  * Conference Registration Opens (use Register button above)
+  * Reserve Conference  Rooms
+ |  
+| --- | --- |  
+|  **15 May 2027**  | 
+  * Country Assignments Posted  
+(may be posted earlier if a significant number of people register right away)
+ |  
+|  **15 July 2027**  | 
+  * Confirm Delegation Numbers and Tours  
+(use button above; refunds only given if changes made by 1 October)
+  * Make  Arrangements (if needed)
+ |  
+|  **1 August 2027**  | 
+  * NMUN • New Zealand  Available
+  * Make Travel Arrangements to New Zealand
+ |  
+|  **1 October 2027**  | 
+  * NMUN Payment Deadline  
+(if paying by credit card use the Pay by Charge button above)
+  * Last Day to Request a Refund for Delegation Fees and Tour Payments  
+(hotels have different refund policies, contact yours directly)
+ |  
+|  **25 October 2027**  | 
+  *  Completion Date
+ |  
+|  **1 November 2027**  | 
+  *  Due
+ |  
+|  **21-27 Nov. 2027**  | 
+  * Attend NMUN • New Zealand in Wellington
+ |  
+### Additional Information
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Conferences<button>
+<button>View Registration Options<button>
+<button>Hotel<button>
+<button>Visa<button>
+<button>Background Guides<button>
+<button>Name Badge Form<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>
+
+Thought: The "Key Dates" page still does not provide key dates for the 2025 conference. I will visit the "Register & Key Dates Overview" page to check for any additional information.
+
+Action: visit_page
+Action Input: {"button": "Register & Key Dates Overview"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                    
+  
+                                                                                                                
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+!!
+#  Register & Plan Your Trip
+      
+##  New Zealand 
+21 - 27 November 2027 
+### Register for the Conference
+Starting 1 May 2027 
+### Confirm Delegation Numbers and Tours
+Starting 15 July 2027 
+### Pay by Charge
+Starting 15 July 2027   
+New Zealand Key Dates  
+|  **1 May 2027**  | 
+  * Conference Registration Opens (use Register button above)
+  * Reserve Conference  Rooms
+ |  
+| --- | --- |  
+|  **15 May 2027**  | 
+  * Country Assignments Posted  
+(may be posted earlier if a significant number of people register right away)
+ |  
+|  **15 July 2027**  | 
+  * Confirm Delegation Numbers and Tours  
+(use button above; refunds only given if changes made by 1 October)
+  * Make  Arrangements (if needed)
+ |  
+|  **1 August 2027**  | 
+  * NMUN • New Zealand  Available
+  * Make Travel Arrangements to New Zealand
+ |  
+|  **1 October 2027**  | 
+  * NMUN Payment Deadline  
+(if paying by credit card use the Pay by Charge button above)
+  * Last Day to Request a Refund for Delegation Fees and Tour Payments  
+(hotels have different refund policies, contact yours directly)
+ |  
+|  **25 October 2027**  | 
+  *  Completion Date
+ |  
+|  **1 November 2027**  | 
+  *  Due
+ |  
+|  **21-27 Nov. 2027**  | 
+  * Attend NMUN • New Zealand in Wellington
+ |  
+### Additional Information
+ by 
+    
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to Main Content<button>
+<button>Home<button>
+<button>See all conferences<button>
+<button>NMUN•NY<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Mission Briefings<button>
+<button>Video Contest<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>Chair Application<button>
+<button>At the Conference<button>
+<button>Conference Materials<button>
+<button>Speakers A<button>
+<button>Speakers B<button>
+<button>NMUN•DC<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Embassy Briefings<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>DC Chair Application<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•Spain<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>NMUN•New Zealand<button>
+<button>Conference Overview<button>
+<button>Register & Plan Your Trip<button>
+<button>Register & Key Dates<button>
+<button>Register & Key Dates Overview<button>
+<button>Key Dates<button>
+<button>Plan Your Trip<button>
+<button>Plan Your Trip Overview<button>
+<button>Cost Information<button>
+<button>Hotel Information<button>
+<button>Conference Schedule<button>
+<button>Visa Information<button>
+<button>Academic Tools<button>
+<button>Academic Tools Overview<button>
+<button>Committees & Topics<button>
+<button>Country Selection<button>
+<button>Find Your Assignment<button>
+<button>Browse All Assignments<button>
+<button>Position Papers<button>
+<button>Prepare for Committee<button>
+<button>Committee Materials<button>
+<button>At the Conference<button>
+<button>Materials and Speakers<button>
+<button>Get Involved<button>
+<button>Get Involved Overview<button>
+<button>Volunteer<button>
+<button>Promotional Opportunities<button>
+<button>About Us<button>
+<button>Mission & History<button>
+<button>By the Numbers<button>
+<button>Leadership<button>
+<button>Conference Archives<button>
+<button>Conference Archives Overview<button>
+<button>New York<button>
+<button>Washington, D.C.<button>
+<button>Canada 2025<button>
+<button>Galápagos 2024<button>
+<button>Germany 2023<button>
+<button>Japan 2022<button>
+<button>Germany 2019<button>
+<button>China 2018<button>
+<button>Galápagos 2018<button>
+<button>Canada 2017<button>
+<button>Japan 2016<button>
+<button>Europe 2015<button>
+<button>Europe 2014<button>
+<button>NW 2014<button>
+<button>Korea 2013<button>
+<button>Latin America 2013<button>
+<button>China 2012<button>
+<button>Europe 2012<button>
+<button>APEC 2011<button>
+<button>Europe 2010<button>
+<button>Latin America 2010<button>
+<button>China 2008<button>
+<button>Social Media<button>
+<button>Contact<button>
+<button>Menu<button>
+<button>Close<button>
+<button>National Model United Nations<button>
+<button>Conferences<button>
+<button>View Registration Options<button>
+<button>Hotel<button>
+<button>Visa<button>
+<button>Background Guides<button>
+<button>Name Badge Form<button>
+<button>© Copyright 2026 NMUN<button>
+<button>Sitemap<button>
+<button>Privacy Policy<button>

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0338_dc9eb5ddded5",
+  "source_index": 338,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "四川大学计算机学院2024年5月13日召开的学院党委理论学习中心组扩大会议中，谁是会议的主持人，谁负责了专题辅导报告？",
+  "prompt": "四川大学计算机学院2024年5月13日召开的学院党委理论学习中心组扩大会议中，谁是会议的主持人，谁负责了专题辅导报告？",
+  "expected_answer": "会议由蒋斌主持，专题辅导报告由董柯平负责。",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1212/18376.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->下页->学院开展党委理论学习中心组扩大学习会议暨领导干部党纪学习教育读书班专题辅导报告"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 6,
+  "tool_calls": 2,
+  "duration_seconds": 15.778,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0338_dc9eb5ddded5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0338_dc9eb5ddded5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

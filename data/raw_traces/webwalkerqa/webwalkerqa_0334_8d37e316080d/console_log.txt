@@ -1,0 +1,782 @@
+----- user -----
+query:
+Which editor from Cleveland Clinic will host a rapid session in the Blood Journals Studio on December 7, 2024?
+official website:
+https://www.hematology.org/meetings/annual-meeting
+Observation:website information:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+# ASH Annual Meeting and Exposition
+Claim CME and MOC Credit 
+Complete the annual meeting evaluation survey, claim CME/ABIM MOC, and print/save your CME certificate.
+### The Premier Event in Classical and Malignant Hematology
+The 2025 ASH Annual Meeting has concluded. Please see the links below to purchase webcast content from the meeting and claim CME and MOC.
+Save the date for the 68th ASH Annual Meeting and Exposition, taking place December 12–15, 2026, in New Orleans, Louisiana, and online!
+          
+!
+## Let's Run the Numbers
+See why the ASH Annual Meeting and Exposition is the premier event in classical and malignant hematology. 
+Attendees
+Novel Abstracts
+Exhibitors
+* * *
+Annual Meeting Updates
+!
+###  Friday Satellite Symposia Guidelines and Application 
+The Friday Satellite Symposia (FSS) are industry-supported, CME-accredited symposia that are offered the day preceding the American Society of Hematology (ASH) annual meeting. These sessions are not part of the official ASH annual meeting program and are planned solely by the organizing company.
+!
+###  Scientific Workshop Guidelines and Application 
+The Scientific Workshops are interactive discussions of the latest scientific developments in a particular field of hematology. Each workshop includes brief presentations of primary basic/translational data followed by an interactive discussion, distinct from the clinical sessions offered at the .
+!
+###  Become an Exhibitor at the 2026 ASH Annual Meeting 
+Join over 275 pharmaceutical companies, medical suppliers, clinical diagnostic and research-based companies, publishers, and non-profit organizations by exhibiting at the 68th ASH Annual Meeting and Exposition on December 12-15, 2026, in New Orleans, Louisiana.
+###  Key Dates for the 68th ASH Annual Meeting and Exposition  
+|  May 11, 2026, at 11:59 p.m. Pacific time  |  Scientific Workshops Application Deadline  |  
+| --- | --- |  
+|  May 27, 2026, at 11:59 p.m. Pacific time  |  Friday Satellite Symposia Application Deadline  |  
+|  June 2, 2026  |  Abstract Submissions Open  |  
+|  July 22, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for ASH Members**  |  
+|  August 4, 2026, at 11:59 p.m. Pacific time  |  Abstract Submission Deadline  |  
+|  August 12, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for Non-Members, Exhibitors, Groups, and Media**  |  
+|  November 4, 2026, at 9:00 a.m. Eastern time  |  Abstracts Available Online  |  
+|  December 12-15, 2026  |  **68th ASH Annual Meeting and Exposition**  |  
+## Past Annual Meetings
+!
+###  67th ASH Annual Meeting and Exposition
+December 6-9, 2025  
+Orlando, FL
+          
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+clickable button:
+
+<button>Jump to Main Content<button>
+<button>Key Dates<button>
+<button>Information for Corporate Supporters<button>
+<button>Webcasts<button>
+<button>Latest Updates<button>
+<button>View Symposia Guidelines and Application<button>
+<button>Friday Satellite Symposia<button>
+<button>Apply for a Workshop<button>
+<button>Access Past Annual Meeting Content Since 2014<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the editor from Cleveland Clinic who will host a rapid session in the Blood Journals Studio on December 7, 2024. The provided website is for the ASH Annual Meeting and Exposition, which seems to be focused on events in 2026 and past meetings. Since the question is about an event in 2024, I should explore the website further to see if there are any relevant sections or pages that might contain this information.
+
+Action: visit_page
+Action Input: {"button": "View Symposia Guidelines and Application"}
+
+----- VisitPage -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+## ASH Annual Meeting and Exposition
+          
+                                            
+#  Friday Satellite Symposia Guidelines and Application 
+The Friday Satellite Symposia (FSS) are industry-supported, CME-accredited symposia that are offered the day preceding the American Society of Hematology (ASH) annual meeting. These sessions are not part of the official ASH annual meeting program and are planned solely by the organizing company.
+The 2026 FSS will take place in-person and/or virtually, on Friday, December 11, 2026, in New Orleans, LA preceding the 68th ASH Annual Meeting and Exposition.
+**To apply, please click the button below. The FSS application deadline is May 27, 2026.**
+### Important Dates and Deadlines
+###  2026 Dates and Deadlines   
+| May 27, 2026 11:59 p.m. PST  | 
+  * Deadline for FSS application submissions.
+ |  
+| --- | --- |  
+| June 16, 2026  | 
+  * Acceptance letters emailed to organizer on or before June 16.
+ |  
+| July 3, 2026  | 
+  * Logistics notifications, including confirmed time slot, location, vendor, and facility contact information.
+ |  
+| July 16, 2026  | 
+  * Any cancellations received in writing through July 16 will incur a processing fee of $100.
+ |  
+| July 17, 2026  | 
+  * Letter of Agreement due to ASH.
+  * Cancellation deadline with 50 percent penalty.
+ |  
+| July 31, 2026  | 
+  * FSS organizers will receive information on how to secure housing following their venue assignments on **July 31**. All FSS room blocks are available on a **prepaid, 100 percent non-refundable** basis. For any additional housing questions, please contact the **ASH Housing Center** at ashhousing@spargoinc.com.
+ |  
+| August 7, 2026  | 
+  * FSS payment due to ASH.
+  * Cancellation deadline with 100 percent penalty. Cancellations after August 7 will be charged 100 percent penalty.
+ |  
+| September (TBD), 2026  | 
+  * First ASH promotional email blast to the 68th ASH Annual Meeting and Exposition registered attendees
+ |  
+| October 2, 2026  | 
+  * Last day to submit listing updates for the 68th ASH Annual Meeting and Exposition program.
+  * Last day to submit names of additional supporting companies where priority points can be applied.
+  * Deadline to assign rooms in hotel block and submit payment for rooms. For questions and confirmations, please contact ashhousing@spargoinc.com.
+  * Submission deadline for A/V and lead retrieval orders. For more information on A/V. please contact Heather Winston at heather.winston@freeman.com.
+ |  
+| October 9, 2026  | 
+  * Door Drop insert request due. For questions, and deadline details, please contact Kristin Hudson at 800-564-4220 or ashexhibits@spargoinc.com.
+  * Deadline to transition an in-person FSS to a virtual FSS.
+ |  
+| October (TBD), 2026  | 
+  * Second ASH promotional email blast to the 68th ASH Annual Meeting and Exposition registered attendees. 
+ |  
+| November 6, 2026  | 
+  * Submission deadline for signage and all promotional materials produced in conjunction with the FSS, including invitations, announcements, flyers, websites, social media posts, etc. Signage and promotional materials must be pre-approved by ASH at fss@hematology.org.
+  * Submission deadline for mailing list requests; mailing piece(s) must be pre-approved by ASH at fss@hematology.org. For questions regarding mailing list sales and to place an order, please contact Kristin Hudson at 800-564-4220 or ashexhibits@spargoinc.com.
+  * Program link (masked behind a button; no vanity links necessary) submission deadline for: Registration, Virtual program's on hematology.org and official ASH meeting mobile app, and for the ASH Virtual Meeting Platform (if purchased) to ASH at fss@hematology.org.
+  * Last day to submit listing updates for the ASH website and official ASH meeting mobile app.
+  * Last day to purchase livestream on ASH Virtual Meeting Platform.
+ |  
+| November (TBD), 2026  | 
+  * Submission deadline for lead retrieval orders. 
+  * Third ASH promotional email blast to the 68th ASH Annual Meeting and Exposition registered attendees.
+  * FSS informational conference call hosted by ASH, SPARGO, and Freeman to review policies, logistics, and questions from FSS organizers. Calendar invite to come.
+ |  
+| December 6, 2026  | 
+  * A/V signed agreement deadline - signed and returned to Freeman at heather.winston@freeman.com.
+ |  
+| December (TBD), 2026  | 
+  * Fourth (and final) ASH promtional email blast to the 68th ASH Annual Meeting and Exposition registered attendees.
+ |  
+| January 31, 2027  | 
+  * Copy of the one-page summary evaluation and final attendance count must be submitted to Kelly Cade at fss@hematology.org by COB PST.
+ |  
+### Time Slots
+###  Available Time Slots 
+There are four time slots available in accordance with the time zone of the annual meeting’s location:
+  * 7:00 a.m. – 10:00 a.m. (nonprofit-sponsored symposia only)
+  * 11:00 a.m. – 2:00 p.m.
+  * 3:00 p.m. – 6:00 p.m.
+  * 7:00 p.m. – 10:00 p.m.
+FSS organizers may utilize the three-hour assigned time slot as they wish. Please note, ASH will advertise time slots in the entirety, as listed above, on the website and in promotional and printed materials.
+  * **ASH cannot guarantee the preferred time slot** **and cannot guarantee that the program will be scheduled unopposed to other presentations covering similar topics; all session assignments and scheduling remain at ASH's sole discretion**.
+  * All symposium rooms will be assigned based on the estimated number of attendees per the FSS application in banquet rounds. **We are unable to accommodate deviations from this standard room set**.
+  * **Access to the symposium rooms will be given 45 minutes prior to the start time.** FSS rooms are re-used for each time slot, so earlier access and significant room set changes are not feasible. Requests for additional setup time may be accommodated, based on availability, and will be subject to additional fees.
+### FSS Fees for In-Person or Virtual-Only Programs
+A payment to the American Society of Hematology is associated with each symposium. It is necessary that funding be confirmed at the time of submission. Applicants are required to submit a letter of agreement from all supporting companies for each company to be listed as a co-supporter in promotional materials.
+**Fees are based on the estimated attendance; however, please note that if the actual attendance exceeds the estimate, ASH will re-invoice as necessary. No refunds will be made if the attendance is lower than anticipated.**
+  * ASH is not responsible for any charges incurred for the symposium. All expenses associated with approved FSS programs, such as room set-up and clean-up, food and beverage, A/V, electrical, telephone, internet, shipping, etc., are the sole responsibility of the organizer. If you have questions, please contact Kelly Cade, ASH FSS Manager, Consultant, at fss@hematology.org.
+###  Nonprofit Rates – For In-Person or Virtual-Only Programs   
+| Number of Attendees  | Rate  |  
+| --- | --- |  
+| 300 attendees  | $70,000  |  
+| 400 attendees  | $71,500  |  
+| 500 attendees  | $75,000  |  
+| 600 attendees  | $76,000  |  
+| 700 attendees  | $80,000  |  
+| 800 attendees  | $82,000  |  
+#### Non-Profit FSS
+  * ASH prioritizes symposia organized by non-profit organizations during the 7:00 a.m. to 10:00 a.m. time slot and offers a reduced rate for non-profit organizations that choose to participate in this time slot.
+  * Any organizer requesting the non-profit rates will be required to provide proof of non-profit status, such as an IRS Determination Letter, with the application.
+  * If there is a co-organizer for the symposia, both companies must demonstrate non-profit status to take advantage of the discounted rate.
+  * Non-profit organizations choosing the afternoon or evening time slots must pay the standard rate.
+###  Standard Rates – For In-Person or Virtual-Only Programs   
+| Number of Attendees  | Rate  |  
+| --- | --- |  
+| 300 attendees  | $125,500  |  
+| 400 attendees  | $127,000  |  
+| 500 attendees  | $132,000  |  
+| 600 attendees  | $142,000  |  
+| 700 attendees  | $150,000  |  
+| 800 attendees  | $161,000  |  
+###  In-Person, Virtual, and On-Demand Standard and Non-Profit FSS 
+  * FSS can be offered in-person, virtual only, or both. FSS organizers are responsible for providing ASH with a link (masked behind a button; no vanity links necessary) to the virtual program content. **Included with the standard and non-profit rates, all organizers are permitted to have a virtual component (live and enduring) for their session**. ASH will post program links on the FSS page of the ASH Annual Meeting webpage on  and on the ASH meeting mobile app.
+  * **For an additional fee (see fee details below), ASH will livestream in-person FSS to the ASH virtual meeting platform. Program link (masked behind a button; no vanity links necessary) submissions are due to ASH by November 20, 2026, tofss@hematology.org.**
+###  Additional opportunity to extend your reach broadcast FSS to the ASH virtual audience - $25,000 
+  * **Broadcast FSS to the ASH virtual audience - $25,000.** simultaneous livestream of in-person or inclusion of the virtual FSS link to the ASH virtual meeting platform is possible. All expenses associated with the opportunity, such as audio-visual, are the sole responsibility of the FSS organizer. In 2025, the ASH platform had over 15,000 attendees!
+  * **For in-person FSS, all faculty and presenters are required to travel to Orlando and participate on-site in their sessions**. Registration at the annual meeting is not a requirement for admittance to the FSS.
+  * The virtual-only symposia are scheduled during one of the four FSS time slots (see Time Slots). All expenses associated with approved virtual FSS programs, such as audio-visual and non-ASH promotion are the sole responsibility of the FSS organizer. ASH is not responsible for any charges incurred for the symposium.
+  * **On-demand FSS programming opportunities are available to all FSS Organizers** of both in-person and virtual sessions. The duration of on-demand content posted corresponds with the fee assessed for the FSS session. For example, FSS fees paid in the lowest range, $70,000-$127,000, are posted the shortest duration. FSS fees paid in the highest range, $80,000-$161,000, are posted the longest duration. See chart below. On-demand dates will be available late-summer
+  
+| **Virtual/On-Demand Components**  | **Non-Profit/Standard Rates: $70,000-127,000**  | **Non-Profit/Standard Rates: $75,000-$142,000**  | **Non-Profit/Standard Rates: $80,000-$161,000**  |  
+| --- | --- | --- | --- |  
+|  **The Virtual FSS Content will remain available on the ASH website (hematology.org) and the annual meeting mobile app for the duration of the program.**  | December 12, 2026, through the end of the end of the day Jan 1, 2027.   | December 12, 2026, through the end of the day Feb 1, 2027.   | December 12, 2026 through the end of the day March 1, 2027  |  
+### Continuing Medical Education (CME)
+###  CME Accreditation 
+**FSS sessions are required to provide CME**. Only organizations accredited by the ACCME are permitted to sponsor CME activities and must award _AMA PRA Category 1 Credit™_. These accredited providers are responsible for the content, quality, and scientific integrity of all CME-accredited activities
+ASH does not suggest content or speakers for activities for which it is not the accredited provider. ASH encourages all CME providers participating in the FSS to review the current ACCME Standards for Commercial Support. These standards, along with tools to implement them, can be found at 
+  * Speakers must disclose relevant conflicts of interest prior to the CME activity. A written disclosure slide must precede each presentation.
+  * Speakers must provide appropriate disclosures of non-FDA approved (off-label) uses for drugs and medical devices.
+  * References must be included with data and slides.
+  * There must be an appropriate evaluation of symposium content and speakers, as well as a final attendance count. Please email the evaluation summary **by Wednesday, January 31, 2027** to fss@hematology.org.
+### Application and Scoring Process
+###  Application and Scoring Process 
+  * A formal study section will score applications based on the quality of the program content as described in the proposal. The study section will be looking for scientific merit, audience interest in the topic, and uniqueness of the symposium (i.e., not like any of the ASH Education Program or Scientific Program sessions or duplicating one of last year’s FSS).
+  * This score will determine which symposia are selected as well as the assigned time slot. ASH cannot guarantee the preferred time slot. **ASH cannot guarantee that the program will be scheduled unopposed by other presentations covering similar topics.**
+  * The study section’s scores are confidential, and the decision of the study section is final.
+  * After the study section scores the applications, ASH will email acceptance notifications to the organizer. The organizer for each approved symposium will also receive an invoice. Detailed instructions about logistics (including time slot, venue room assignments, and audio/visual contacts), will be sent in accordance with the ‘Important Dates and Deadlines’ section of the guidelines.
+  * **It is essential to retain your login credentials during the application process, as you will need them to edit program content following study section review and approval.**
+**Applicants for the FSS may not contact the study section, ASH members, or the ASH Executive Committee to influence selection for the FSS presentations.**
+### Program Content
+  * The proposed program title must be indicative of the symposium content
+  * The proposed objectives should clearly meet the educational needs of the target audience.
+  * The program must be presented in an objective, balanced, and scientifically rigorous manner.
+  * The program invited panel of speakers and moderators are to be diverse from a gender, race, ethnicity, and geographic perspective.
+  * The program cannot promote a specific drug product or service and must meet the policies and guidelines of the ACCME.
+  * The content and format of the CME activity and its related materials must promote improvements or quality in health care and not a specific proprietary business interest.
+### Speakers
+###  Prohibited Speakers 
+**The. The  and is updated throughout the year; please continue to reference the list for updates. Please continue to communicate the below policies with proposed FSS faculty and to check the prohibited list, as updates will continue to be made throughout the year.**
+ASH policy prohibits members of the following groups from serving as faculty in an FSS. Members of the following are prohibited from participating as FSS speakers, moderators, or key opinion leaders. Please note that applications with faculty who are members of the following groups will be disqualified:
+  * 2026 ASH Executive Committee
+  * 2026 ASH Standing Committee chairs and editors-in-chief
+  * 2026 ASH Program Committee
+  * 2026 ASH Annual Meeting Accredited Education Committee
+  * 2026 ASH CME Accreditation Committee
+  * 2026 ASH Committee on Educational Affairs
+  * 2026 ASH Honorific and Mentor Award recipients (Available in March and updated throughout the year)
+  * 2026 and 2027 ASH Education Program and Scientific Program co-chairs (Available in March)
+  * 2025 ASH Annual Meeting Invited Program faculty (chairs, moderators, speakers, and panelists). Names available beginning in March and updated throughout the year. Programs include:
+All ASH standing committee members can be found on the . **Disclosure information for each chair/speaker/panelist must be submitted to ASH with the application**. There are no exceptions.
+FSS faculty (chairs, speakers, panelists, etc.) can participate in only one symposium. It is the responsibility of the FSS organizer to ensure that their speakers have not committed to speak at another symposium before submitting the application.**If ASH receives two applications listing the same speaker, the symposium with the lower score will be rejected**.
+Letters of invitation to the speakers must clearly state that ASH expects that speakers will not substitute participation in an FSS program for participation in ASH's Education or Scientific Program sessions.
+ASH requests that no more than six (6) speakers present at each symposium. **For in-person FSS, all faculty and presenters are required to travel to New Orleans and participate on-site in their sessions**. Registration at the annual meeting is not a requirement for admittance to the FSS.
+### In-Person Registration and Lead Retrieval
+  * Registration at the annual meeting is not a requirement for admittance into the FSS.
+  * ASH requires that any registration desk outside of the symposium room be limited to three six-foot tables
+  * Registration must occur within the assigned time frame.
+  * **It is the responsibility of FSS organizers to secure registration area materials, tables, easels, etc.**
+  * **November 12, 2026** , is the submission deadline for lead retrieval. More information to come.
+### Venue Information
+###  Line Control 
+  * To ensure that all FSS abide by venue safety as well as ingress and egress policies, each FSS will be provided with two staff from ASH’s security vendor, RA Consulting. The security vendor will assist with line control as well as safe entry and exit out of the FSS meeting rooms. RA Consulting staff are not available to assist with registration, passing out materials, or any other aspects of the FSS program. If an FSS program exceeds the contracted number of attendees and the increased number will impact the safety of all attendees and/or violate the posted maximum capacity of the room as determined by the venue and Fire Marshal, ASH reserves the right to limit entry to additional attendees, regardless of any pre-registration status.
+###  Room Set-Up 
+  * **All symposium room assignments are final**. Assignments are based on the estimated number of attendees per the FSS application and set in banquet rounds. We are unable to accommodate deviations from this standard room set. Any questions regarding your room setup may be sent to Heather Winston at heather.winston@freeman.com.
+  * **Access to the symposium rooms will be given 45 minutes prior to the start time**. FSS rooms are re-used for each time slot, thus earlier access and significant room set changes are not feasible. Requests for additional setup time may be accommodated, based on availability, and will be subject to additional fees.
+  * Rooms may be set with more seats than requested in the application, because FSS rooms are shared between multiple groups. If you have extra seats, you must still adhere to your estimated attendance, or you will be subject to fees for the additional attendees.
+  * Symposium lectures must be contained within your assigned room. Video overflow to adjacent rooms or foyers will not be permitted.
+###  Speaker Ready Rooms 
+Speaker ready rooms are available based on the schedule outlined below. Please indicate whether you require a speaker ready room on your application. These rooms are set with conference tables for eight (8), and are typically shared between multiple groups, so requests for access to the speaker ready room outside of these times must be submitted at the time of your application and will be accommodated on a case-by-case basis pending space availability. Please note, FSS organizers are provided with one space in assigned venues regardless of the number of sessions an individual group may manage. For additional space and for hours outside of what is listed below, organizers are required to apply and pay for space through the ASH ancillary meeting process. Further, additional space is not guaranteed and may not be accommodated based upon space availability.
+  * 7:00 - 10:00 a.m. Symposia: Thursday from 6:00 p.m. – 9:00 p.m.
+  * 11:00 a.m. – 2:00 p.m. Symposia: Friday from 7:00 a.m. – 10:00 a.m.
+  * 3:00 p.m. – 6:00 p.m. Symposia: Friday from 11:00 a.m. – 2:00 p.m.
+  * 7:00 p.m. – 10:00 p.m. Symposia: Friday from 3:00 p.m. – 6:00 p.m.
+###  Food & Beverage 
+  * **One room will be provided to use for both the symposium and food and beverage; there will be no exceptions**. Please be as accurate as possible when submitting your attendance number so we can ensure the room size is adequate as changes to room assignment will not be possible once assignments are made.
+  * All food service must occur within the assigned time frame.
+  * It is the responsibility of the FSS organizer to make food service arrangements with their assigned venue contact, which will be provided by ASH following program approval.
+###  Audio/Visual 
+  * ASH requires all FSS organizers to use Freeman Audio Visual, ASH’s official audio/visual (A/V) company, for all programs. Once your application is accepted, contact information will be sent to all organizers.
+  * FSS organizers are responsible for A/V fees, including A/V crew meals and costs for security.
+  * Freeman Audio Visual can also assist with any multimedia needs (e.g., webcasts and publications).
+  * All slide presentations must be submitted in 16:9 aspect ratio.
+  * **October 2, 2026** , is the submission deadline for A/V. For more information, please contact Heather Winston at heather.winston@freeman.com.
+### Shipping
+If you are exhibiting or affiliated with an exhibiting company, you may ship your FSS materials using the same instructions as your booth freight.
+If you are not affiliated with an exhibiting company or if your FSS is assigned to a hotel, you will be responsible for your shipment in its entirety which includes: finding a receiving destination for your shipment (i.e. your hotel's shipping and receiving department), arranging for any shipping and handling fees associated with that receiving location, securing a location in which to store your materials since speaker ready rooms may not be used for this purpose, transporting your materials to your storage space and subsequently to your symposium room, re-packing and arranging for pickup/outbound transit of your items. Any items being shipped back need to be out of the FSS room no later than the end of the day on Friday as the rooms may used for other activities beginning on Saturday morning.
+If you need additional speaker ready room time or office space that is directly related to your FSS, we will accommodate on a space-available basis for an additional fee.
+### FSS Promotion
+  * ASH must review and approve all promotional materials produced in conjunction with the FSS, including invitations, announcements, flyers, websites, and signs. The deadline to submit promotional materials for ASH approval is,**November 6, 2026**. Please allow up to five business days for ASH to consider requests for approval.
+  * The ASH logo (or a graphic designed to mimic the ASH logo) may not be used on any promotion or other materials (including enduring materials) produced by companies other than ASH.
+  * Use of the American Society of Hematology’s name or copyrighted material on any announcement, sign, publication, or other material requires prior written approval by ASH FSS Manager, Consultant Kelly Cade at  _fss@hematology.org_
+  * Since FSS is not officially part of the ASH annual meeting, companies cannot reference their symposium as part of ASH’s annual meeting or imply that it is an ASH event. It is acceptable to refer to the symposium as a “Friday Satellite Symposium on [title], preceding the 68th ASH Annual Meeting and Exposition.”
+  * See Advertising/Marketing for additional policies and opportunities.
+###  Signage Policies 
+  * One (1) 38”x87” meter panel easel back, poster, banner with an affixed box of program handouts per FSS program is permitted **directly outside of the symposium room, next to the session’s registration desk**. The sign may be placed during FSS session set-up on Friday, December 11, 2026. Access to the symposium rooms will be given 45 minutes prior to the start time. Signage posted prior to December 11 will be removed and discarded by ASH.  _Please note, in addition to the official ASH meeting mobile app, there will be directionals provided within venue(s) for attendees to reference._
+  * **No additional signage, nor promotional materials or structures will be allowed, including but not limited to: registration table backdrops, directional signs, logoed seating areas, furniture covers, gobos, video monitors, kiosks or projectors utilized outside of the meeting room to digitally promote a session. Organizers will be asked to remove additional promotional items found, or the items will be removed and discarded by ASH.**
+  * Organizers, CME Providers, and Commercial Supporters will not be permitted to post promotional signs or literature in hotel or convention center lobbies.
+  * **Sandwich boards, human directional and/or persons handing out promotional materials are prohibited in all venue areas.** Standing in the public areas of the convention center or hotel lobby and hallway closely monitored during FSS, and companies found violating these guidelines risk penalties from ASH. The organizer handling logistics is responsible for adhering to these guidelines as well.
+  * Any signage found in non-approved locations will be removed and discarded by ASH.
+  * Any signage not collected at the conclusion of your session may incur a fee for removal and disposal.  
+ASH must review and approve all signage produced in conjunction with the FSS. The deadline to submit promotional materials for ASH approval is**November 6, 2026**. Please submit to Kelly Cade at, and allow up to five business days for ASH to consider requests for approval.
+###  Promotional Benefit(s) 
+**As a promotional benefit to organizers hosting an FSS, ASH will provide the following:**
+  * FSS will be included in the official 68th ASH Annual Meeting and Exposition mobile app, providing exposure and directional ease for both organizers and attendees.
+  * A listing of each symposium, including narrative description, location, and contact information, in the 68th ASH Annual Meeting and Exposition program.
+  * Four (4) email blasts to the 68th ASH Annual Meeting and Exposition registered attendees, which will list the FSS title, time, and location. The 2026 e-blast schedule will be available this spring. A flyer listing the FSS schedule and locations will be included in the 68th ASH Annual Meeting and Exposition attendee bags and the door drop bags dispersed on Thursday evening for Friday, December 11, 2026, at various convention center hotels in New Orleans, LA.
+###  Additional Promotion Opportunities and Policies 
+#### Targeted Messaging
+  * Reach your ideal audience of ASH Annual Meeting attendees with ASH’s new Targeted Messaging program. Customize your email audience by location, institution, or clinical/research interests to promote your symposia with precision and measurable impact. You provide the content—text, branding, images, and links—and ASH delivers it in a professional, ASH-branded template. Pre-meeting emails run November 16–December 8, 2026, and post-meeting messages December 16, 2026–March 12, 2027. Only one message is sent per day, ensuring your content stands out. Space is limited and scheduled on a first-come, first-served basis.
+#### Door Drops
+  * FSS organizers will have the opportunity to promote their symposia through hotel room door drops. Your promotional piece will be delivered to 4,400 guest room doors. All inserts must be delivered to the advance warehouse. The deadline date for material arrival will be provided upon receipt of Hotel Door Drop Application along with proof of insert. ASH will arrange the delivery of the piece to be placed outside of guest rooms late Thursday evening, preceding the 68th ASH Annual Meeting and Exposition. The rate for the Friday Satellite Symposia insert is $10,500 for commercial companies or $4,000 for non-profits, per insert. As an added benefit, FSS organizers that are also exhibiting at the ASH annual meeting can promote booth space or other corporate-sponsored presentations in the Saturday and/or Sunday bags.
+#### Hotel Door Hangers
+  * Display a door hanger with your customized message on guest room doors at the official ASH hotels. This is an exclusive per day, rights only opportunity and the sponsor is responsible for hotel distribution charges and the cost of producing the door hangers. The pricing for Thursday night hotel door hanger rights is $40,000.
+#### Mailing and Registrant Lists
+  * The 2025 post-meeting and 2026 pre-registration attendee lists will also be available for purchase.
+Pre-approval of all mailing pieces is required. Sample mail pieces must be emailed to ashexhibits@spargoinc.com. The deadline to submit your mailing piece for approval along with the mailing list request from**November 6, 2026. Use of the ASH mailing lists is for one-time use to promote the FSS only. This will be closely monitored, and any companies found to have used the list more than once will face significant penalties.**
+#### Additional Advertising Opportunities
+  * Printed or digital advertising, marketing materials or publications may not be offered, distributed, or displayed at any ASH annual meeting venue or hotel, other than within the FSS room assigned. The only appropriate and acceptable venues for the distribution of advertising, publications, or marketing materials are on assigned registration tables, within the assigned session room, and the official ASH hotel door drop program.
+#### Advertisements and Marketing Policies
+  * Printed or digital advertising, marketing materials or publications may not be offered, distributed, or displayed at any ASH annual meeting venue or hotel, other than within the FSS room assigned. The only appropriate and acceptable venues for the distribution of advertising, publications, or marketing materials are on assigned registration tables, within the assigned session room, and the official ASH hotel door drop program.
+  * Commercial firms and other organizations may not, for example, engage in marketing activities through the use of hotel television channels or distribute marketing materials in the convention center or hotels (e.g., giveaways, flyers, or door drops) unless through the official ASH Corporate Support Opportunities program. If you are interested in learning about available support opportunities, please contact Kristin Hudson at ashexhibits@spargoinc.com or 800-564-4220.
+  * · FSS organizers and management companies will be restricted from advertising and marketing activities within a **five-mile radius** of the New Orleans Ernest N. Morial Convention Center including ASH hotels. The display of printed or digital advertisements or marketing tactics outside of the assigned FSS room and targeted to attendees of the ASH annual meeting is prohibited during the period beginning three days before and continuing until three days after. Exempted activities can only be arranged through the official vendors for the ASH annual meeting. All other activities or using other vendors are considered prohibited activities.
+#### Official Vendor Contractors:
+  * Out-of-home advertising (airport, Uber/Lyft, etc.) – TriStar Event Media
+  * ASH News TV and publication advertising - Pharmaceutical Media, Inc. (PMI)
+  * Sponsored items and advertising at the convention center - SPARGO, Inc.
+Activities that will not be allowed in this zone include but are not limited to:
+  * Hanging banners
+  * Static and mobile billboards
+  * Building facades
+  * Window or street decals
+  * Advertising installations
+  * Motor vehicle brandings (buses, taxis, boats, planes, street cars, ride shares, etc.)
+  * Segways
+  * Street teams
+  * Literature distribution
+  * Geofencing and geotargeting activities (including ads on ride share apps)
+_*This is a partial list of activities. Be sure to check with show management for approval before planning ANY marketing activities at the 2026 ASH Annual Meeting._
+  * ASH reserves the right to halt any unapproved marketing activity and require the removal of any unapproved advertising materials. Companies or organizations found in violation of this policy will be required to immediately cease the unapproved activity, remove any advertising materials at FSS organizer's expense, and subject to a priority point reduction and other possible actions deemed necessary by ASH.
+  * All purchased advertisements must be reviewed and approved by ASH prior to deployment. The use of any name, logo, or trademark of ASH in any advertising is strictly prohibited without ASH’s advance written consent. Failure to adhere to these guidelines will result in immediate removal of the advertisement and enforcement of penalties as outlined in the “Violations” section of these guidelines.
+  * The Blood Journals offer print, online, and e-newsletter advertising for your symposia in October, November, and December leading up to the 2026 ASH Annual Meeting in New Orleans exclusively through Pharmaceutical Media, Inc. Print and digital advertising is also available in ASH News Daily. For inquiries about tactics, inventory, and pricing please contact Joe Schuldner at jschuldner@pminy.com.
+### Housing Information
+FSS organizers will receive information on how to secure housing following their venue assignments on**July 31, 2026**. All FSS room blocks are available on a prepaid, 100 percent non-refundable basis. For any additional housing questions, please contact the ASH Housing Center at  __.
+### Educational Materials and ASH Policies
+###  Educational Materials 
+  * ASH requests that a one-page evaluation summary report, including a final attendance count, be sent to the ASH at fss@hematology.org no later than January 31, 2027.
+  * Please keep in mind that CME enduring materials are different from syllabus materials or other printed or electronic records of the symposium. Enduring materials are printed, recorded, or computer-assisted educational materials that may be used over time at various locations and that in and of themselves constitute a planned CME activity. An enduring material, as a self-contained educational activity, must have its own needs assessment, educational objectives, content, evaluation instrument, and opportunity for physician-learner interaction and discussion.
+  * As a separate educational activity, an enduring material must also have its own credit designation separate from the live activity (i.e., where a CME provider has certified the symposium for credit, the credit for the symposium does not translate or crossover to any enduring materials produced from content presented at the symposium).
+###  Possible Penalties for Violating ASH Policies 
+  * The company may not be eligible for participation in future FSS.
+  * The company may not have access to ancillary meeting space in future years.
+  * The company may not participate as an exhibitor in future years.
+  * The company may incur a reduction in priority points.
+###  FSS Cancellation Policy 
+**All cancellations must be submitted to ASH in writing to  
+fss@hematology.org.**
+  * Any cancellations received in writing through July 16, 2026, will incur a processing fee of $100.
+  * Any cancellations received in writing July 17, 2026, through August 7, 2026, will incur a 50 percent cancellation fee.
+  * Any cancellations received in writing after August 7, 2026, will incur a 100 percent cancellation penalty and the host will be issued no refund of any monies received by ASH for cancellation.
+#### Cancellation of Meeting
+It is mutually agreed that, in the event of cancellation of the ASH annual meeting as a result of strikes, acts of God, war, terrorism, disaster, pandemic, curtailment of transportation facilities, governmental regulations, power or internet outages, technology disruptions or other causes that would prevent its scheduled opening or continuance, this agreement will be terminated immediately. ASH shall determine an equitable basis for the refund of a portion of the Satellite Symposia fees after due consideration of expenditures and commitments already made.
+### Glossary of Terms
+###  CME Provider 
+  * An organization accredited by, at the least, the Accreditation Council for Continuing Medical Education (ACCME), as a provider of continuing medical education. Accredited CME providers assume the responsibility and accountability for developing certified educational activities.
+###  Organizer 
+  * The company organizer is responsible for submitting the application and serving as the main point of contact. Examples include medical education companies, (ACCME) accredited providers (CME Providers, as above), or other educational partners. An organizer cannot be an ACCME-defined commercial interest. Commercial interests, or “ineligible companies," are defined by ACCME as those whose primary business is producing, marketing, selling, re-selling, or distributing healthcare products used by or on patients.
+###  Commercial Support 
+  * Financial, or in-kind, contributions given by a commercial interest (the “Commercial Supporter”), which is used to pay all or part of the costs of a CME activity. A Commercial Supporter cannot be an Organizer or CME Provider.
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>ASH Annual Meeting & Exposition<button>
+<button>Corporate Supporters<button>
+<button>Guidelines and Application<button>
+<button>Education<button>
+<button>Publications<button>
+<button>Agenda for Nematology Research<button>
+<button>Recommendations<button>
+<button>About Us<button>
+<button>Precision Medicine<button>
+<button>Genome Editing and Gene Therapy<button>
+<button>Immunologic Treatment<button>
+<button>Research Support and Funding<button>
+<button>Meetings<button>
+<button>Careers<button>
+<button>www.accme.org.<button>
+
+----- WebWalker -----
+The information provided about the Friday Satellite Symposia (FSS) guidelines and application does not mention any specific editor from Cleveland Clinic hosting a rapid session in the Blood Journals Studio on December 7, 2024. I need to explore other sections of the website to find this information.
+
+Action: visit_page
+Action Input: {"button": "Publications"}
+
+----- VisitPage -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+# ASH Annual Meeting and Exposition
+Claim CME and MOC Credit 
+Complete the annual meeting evaluation survey, claim CME/ABIM MOC, and print/save your CME certificate.
+### The Premier Event in Classical and Malignant Hematology
+The 2025 ASH Annual Meeting has concluded. Please see the links below to purchase webcast content from the meeting and claim CME and MOC.
+Save the date for the 68th ASH Annual Meeting and Exposition, taking place December 12–15, 2026, in New Orleans, Louisiana, and online!
+          
+!
+## Let's Run the Numbers
+See why the ASH Annual Meeting and Exposition is the premier event in classical and malignant hematology. 
+Attendees
+Novel Abstracts
+Exhibitors
+* * *
+Annual Meeting Updates
+!
+###  Friday Satellite Symposia Guidelines and Application 
+The Friday Satellite Symposia (FSS) are industry-supported, CME-accredited symposia that are offered the day preceding the American Society of Hematology (ASH) annual meeting. These sessions are not part of the official ASH annual meeting program and are planned solely by the organizing company.
+!
+###  Scientific Workshop Guidelines and Application 
+The Scientific Workshops are interactive discussions of the latest scientific developments in a particular field of hematology. Each workshop includes brief presentations of primary basic/translational data followed by an interactive discussion, distinct from the clinical sessions offered at the .
+!
+###  Become an Exhibitor at the 2026 ASH Annual Meeting 
+Join over 275 pharmaceutical companies, medical suppliers, clinical diagnostic and research-based companies, publishers, and non-profit organizations by exhibiting at the 68th ASH Annual Meeting and Exposition on December 12-15, 2026, in New Orleans, Louisiana.
+###  Key Dates for the 68th ASH Annual Meeting and Exposition  
+|  May 11, 2026, at 11:59 p.m. Pacific time  |  Scientific Workshops Application Deadline  |  
+| --- | --- |  
+|  May 27, 2026, at 11:59 p.m. Pacific time  |  Friday Satellite Symposia Application Deadline  |  
+|  June 2, 2026  |  Abstract Submissions Open  |  
+|  July 22, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for ASH Members**  |  
+|  August 4, 2026, at 11:59 p.m. Pacific time  |  Abstract Submission Deadline  |  
+|  August 12, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for Non-Members, Exhibitors, Groups, and Media**  |  
+|  November 4, 2026, at 9:00 a.m. Eastern time  |  Abstracts Available Online  |  
+|  December 12-15, 2026  |  **68th ASH Annual Meeting and Exposition**  |  
+## Past Annual Meetings
+!
+###  67th ASH Annual Meeting and Exposition
+December 6-9, 2025  
+Orlando, FL
+          
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Key Dates<button>
+<button>Information for Corporate Supporters<button>
+<button>Webcasts<button>
+<button>Latest Updates<button>
+<button>View Symposia Guidelines and Application<button>
+<button>Friday Satellite Symposia<button>
+<button>Apply for a Workshop<button>
+<button>Access Past Annual Meeting Content Since 2014<button>
+
+----- WebWalker -----
+The "Publications" section does not provide specific information about editors from Cleveland Clinic hosting a rapid session in the Blood Journals Studio on December 7, 2024. I need to explore other sections of the website to find this information.
+
+Action: visit_page
+Action Input: {"button": "Blood Journals Studio"}
+
+----- VisitPage -----
+Button not found: Blood Journals Studio
+
+----- WebWalker -----
+The button "Blood Journals Studio" is not clickable. I need to explore other sections of the website to find this information.
+
+Action: visit_page
+Action Input: {"button": "Meetings"}
+
+----- VisitPage -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+# ASH Annual Meeting and Exposition
+Claim CME and MOC Credit 
+Complete the annual meeting evaluation survey, claim CME/ABIM MOC, and print/save your CME certificate.
+### The Premier Event in Classical and Malignant Hematology
+The 2025 ASH Annual Meeting has concluded. Please see the links below to purchase webcast content from the meeting and claim CME and MOC.
+Save the date for the 68th ASH Annual Meeting and Exposition, taking place December 12–15, 2026, in New Orleans, Louisiana, and online!
+          
+!
+## Let's Run the Numbers
+See why the ASH Annual Meeting and Exposition is the premier event in classical and malignant hematology. 
+Attendees
+Novel Abstracts
+Exhibitors
+* * *
+Annual Meeting Updates
+!
+###  Friday Satellite Symposia Guidelines and Application 
+The Friday Satellite Symposia (FSS) are industry-supported, CME-accredited symposia that are offered the day preceding the American Society of Hematology (ASH) annual meeting. These sessions are not part of the official ASH annual meeting program and are planned solely by the organizing company.
+!
+###  Scientific Workshop Guidelines and Application 
+The Scientific Workshops are interactive discussions of the latest scientific developments in a particular field of hematology. Each workshop includes brief presentations of primary basic/translational data followed by an interactive discussion, distinct from the clinical sessions offered at the .
+!
+###  Become an Exhibitor at the 2026 ASH Annual Meeting 
+Join over 275 pharmaceutical companies, medical suppliers, clinical diagnostic and research-based companies, publishers, and non-profit organizations by exhibiting at the 68th ASH Annual Meeting and Exposition on December 12-15, 2026, in New Orleans, Louisiana.
+###  Key Dates for the 68th ASH Annual Meeting and Exposition  
+|  May 11, 2026, at 11:59 p.m. Pacific time  |  Scientific Workshops Application Deadline  |  
+| --- | --- |  
+|  May 27, 2026, at 11:59 p.m. Pacific time  |  Friday Satellite Symposia Application Deadline  |  
+|  June 2, 2026  |  Abstract Submissions Open  |  
+|  July 22, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for ASH Members**  |  
+|  August 4, 2026, at 11:59 p.m. Pacific time  |  Abstract Submission Deadline  |  
+|  August 12, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for Non-Members, Exhibitors, Groups, and Media**  |  
+|  November 4, 2026, at 9:00 a.m. Eastern time  |  Abstracts Available Online  |  
+|  December 12-15, 2026  |  **68th ASH Annual Meeting and Exposition**  |  
+## Past Annual Meetings
+!
+###  67th ASH Annual Meeting and Exposition
+December 6-9, 2025  
+Orlando, FL
+          
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Key Dates<button>
+<button>Information for Corporate Supporters<button>
+<button>Webcasts<button>
+<button>Latest Updates<button>
+<button>View Symposia Guidelines and Application<button>
+<button>Friday Satellite Symposia<button>
+<button>Apply for a Workshop<button>
+<button>Access Past Annual Meeting Content Since 2014<button>
+
+----- WebWalker -----
+The "Meetings" section does not provide specific information about editors from Cleveland Clinic hosting a rapid session in the Blood Journals Studio on December 7, 2024. I need to explore other sections of the website to find this information.
+
+Action: visit_page
+Action Input: {"button": "Access Past Annual Meeting Content Since 2014"}
+
+----- VisitPage -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+## ASH Annual Meeting and Exposition
+        
+                                            
+#  Past ASH Annual Meetings 
+**Never miss an important deadline** —Manage your email preferences to receive important program updates, discounted registration, and convenient housing for the upcoming meeting.
+### 67th ASH Annual Meeting and Exposition
+**December 6-9, 2025 | Orlando, FL**
+!
+      
+### 66th ASH Annual Meeting and Exposition
+**December 7-10, 2024 | San Diego, CA**
+!
+      
+### 65th ASH Annual Meeting and Exposition
+**December 9-12, 2023 | San Diego, CA**
+!
+      
+### 64th ASH Annual Meeting and Exposition
+**December 10-13, 2022 | New Orleans, LA**
+!
+    
+### 63rd ASH Annual Meeting and Exposition
+**December 11-14, 2021 | Atlanta, GA**
+!
+    
+### 62nd ASH Annual Meeting and Exposition
+**December 5-8, 2020 | Virtual**
+!
+    
+### 61st ASH Annual Meeting and Exposition
+**December 7-10, 2019 | Orlando, FL**
+!
+    
+### 60th ASH Annual Meeting and Exposition
+**December 1-4, 2018 | San Diego, CA**
+!
+    
+### 59th ASH Annual Meeting and Exposition
+**December 9-12, 2017 | Atlanta, GA**
+!
+    
+### 58th ASH Annual Meeting and Exposition
+**December 3-6, 2016 | San Diego, CA**
+!
+    
+### 57th ASH Annual Meeting and Exposition
+**December 5-8, 2015 | Orlando, FL**
+!
+    
+### 56th ASH Annual Meeting and Exposition
+**December 6-9, 2014 | San Francisco, CA**
+!
+    
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>ASH Annual Meeting & Exposition<button>
+<button>Past ASH Annual Meetings<button>
+<button>Education<button>
+<button>Publications<button>
+<button>Agenda for Nematology Research<button>
+<button>Recommendations<button>
+<button>About Us<button>
+<button>Precision Medicine<button>
+<button>Genome Editing and Gene Therapy<button>
+<button>Immunologic Treatment<button>
+<button>Research Support and Funding<button>
+<button>Meetings<button>
+<button>Careers<button>
+
+----- WebWalker -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+## ASH Annual Meeting and Exposition
+        
+                                            
+#  Past ASH Annual Meetings 
+**Never miss an important deadline** —Manage your email preferences to receive important program updates, discounted registration, and convenient housing for the upcoming meeting.
+### 67th ASH Annual Meeting and Exposition
+**December 6-9, 2025 | Orlando, FL**
+!
+      
+### 66th ASH Annual Meeting and Exposition
+**December 7-10, 2024 | San Diego, CA**
+!
+      
+### 65th ASH Annual Meeting and Exposition
+**December 9-12, 2023 | San Diego, CA**
+!
+      
+### 64th ASH Annual Meeting and Exposition
+**December 10-13, 2022 | New Orleans, LA**
+!
+    
+### 63rd ASH Annual Meeting and Exposition
+**December 11-14, 2021 | Atlanta, GA**
+!
+    
+### 62nd ASH Annual Meeting and Exposition
+**December 5-8, 2020 | Virtual**
+!
+    
+### 61st ASH Annual Meeting and Exposition
+**December 7-10, 2019 | Orlando, FL**
+!
+    
+### 60th ASH Annual Meeting and Exposition
+**December 1-4, 2018 | San Diego, CA**
+!
+    
+### 59th ASH Annual Meeting and Exposition
+**December 9-12, 2017 | Atlanta, GA**
+!
+    
+### 58th ASH Annual Meeting and Exposition
+**December 3-6, 2016 | San Diego, CA**
+!
+    
+### 57th ASH Annual Meeting and Exposition
+**December 5-8, 2015 | Orlando, FL**
+!
+    
+### 56th ASH Annual Meeting and Exposition
+**December 6-9, 2014 | San Francisco, CA**
+!
+    
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>ASH Annual Meeting & Exposition<button>
+<button>Past ASH Annual Meetings<button>
+<button>Education<button>
+<button>Publications<button>
+<button>Agenda for Nematology Research<button>
+<button>Recommendations<button>
+<button>About Us<button>
+<button>Precision Medicine<button>
+<button>Genome Editing and Gene Therapy<button>
+<button>Immunologic Treatment<button>
+<button>Research Support and Funding<button>
+<button>Meetings<button>
+<button>Careers<button>
+
+Thought: The past meetings section indicates that the 66th ASH Annual Meeting and Exposition took place on December 7-10, 2024, in San Diego, CA. This is the event mentioned in the question. I need to explore this specific meeting's details to find the editor from Cleveland Clinic hosting a rapid session in the Blood Journals Studio.
+
+Action: visit_page
+Action Input: {"button": "66th ASH Annual Meeting and Exposition"}
+
+----- VisitPage -----
+Button not found: 66th ASH Annual Meeting and Exposition
+
+----- WebWalker -----
+The button "66th ASH Annual Meeting and Exposition" is not clickable. I need to explore other sections of the website to find this information.
+
+----- WebWalker -----
+The button "66th ASH Annual Meeting and Exposition" is not clickable. I need to explore other sections of the website to find this information.

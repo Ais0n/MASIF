@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0241_30d84bf9baad",
+  "source_index": 241,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在携程商旅白皮书：超五成企业预计19年差旅费支出增长页面中，中小型企业中有哪些比例是通过现结方式支付差旅费用的，而大型企业中月结方式的比例是多少？",
+  "prompt": "在携程商旅白皮书：超五成企业预计19年差旅费支出增长页面中，中小型企业中有哪些比例是通过现结方式支付差旅费用的，而大型企业中月结方式的比例是多少？",
+  "expected_answer": "中小企业中90%通过现结方式支付，大型企业中月结方式占73.4%。",
+  "root_url": "https://ct.ctrip.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://ct.ctrip.com/thinktanks/645"
+    ],
+    "golden_path": [
+      "root->商旅行业报告->携程商旅白皮书：超五成企业预计19年差旅费支出增长"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 68.033,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0241_30d84bf9baad/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0241_30d84bf9baad/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0567_5d169460b558",
+  "source_index": 567,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在浙江大学计算机学院2023年硕士研究生招生中，整体计算机类和港澳台地区的复试面试时间分别是什么时候？",
+  "prompt": "在浙江大学计算机学院2023年硕士研究生招生中，整体计算机类和港澳台地区的复试面试时间分别是什么时候？",
+  "expected_answer": "计算机类复试面试时间为2023年3月25日，港澳台地区为2023年4月22日下午1:30-4:00。",
+  "root_url": "http://www.cs.zju.edu.cn/csen/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2023/0318/c27010a2730330/page.htm",
+      "http://www.cs.zju.edu.cn/csen/2023/0417/c27010a2743659/page.htm"
+    ],
+    "golden_path": [
+      "root->招生就业->硕士招生->浙江大学计算机学院2023年硕士研究生招生复试录取工作方案（1号通知）",
+      "root->招生就业->硕士招生->计算机学院2023年招收港澳台地区硕士研究生复试录取方案"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 29.659,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0567_5d169460b558/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0567_5d169460b558/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

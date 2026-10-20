@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0169_5cafa285b3a1",
+  "source_index": 169,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Where and when will the 2025 MRS Fall Meeting take place?",
+  "prompt": "Where and when will the 2025 MRS Fall Meeting take place?",
+  "expected_answer": "Boston, Massachusetts, November 30 to December 5, 2025.",
+  "root_url": "https://www.mrs.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.mrs.org/meetings-events/annual-meetings"
+    ],
+    "golden_path": [
+      "root->Annual Meetings"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The 2025 MRS Fall Meeting will take place in Boston, Massachusetts, from November 28 to December 3, 2025, at the Hynes Convention Center and the adjacent Sheraton Boston Hotel.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 44.135,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0169_5cafa285b3a1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0169_5cafa285b3a1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

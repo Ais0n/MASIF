@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0471_83ec909445a6",
+  "source_index": 471,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023-2024年度中，统一企业凭借哪三款产品获得创新产品奖，并在沈阳开展了怎样的社会责任项目？",
+  "prompt": "2023-2024年度中，统一企业凭借哪三款产品获得创新产品奖，并在沈阳开展了怎样的社会责任项目？",
+  "expected_answer": "茄皇意式番茄肉酱风味拌面、开小灶香辣烤鱼、小浣熊高纤魔芋；助力残疾人就业",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/news_detail.asp?corp_id=376&news_id=1148",
+      "https://www.uni-president.com.cn/news_detail.asp?corp_id=376&news_id=1172"
+    ],
+    "golden_path": [
+      "root->统一企业三款产品荣获“2023-2024年度...",
+      "root->沈阳统一联手“阳光之家”助力残疾人就业"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "2023-2024年度中，统一企业凭借三款产品获得创新产品奖，但具体名称未提及。在沈阳开展的社会责任项目是“沈阳统一联手‘阳光之家’助力残疾人就业”",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 4,
+  "duration_seconds": 37.217,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0471_83ec909445a6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0471_83ec909445a6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

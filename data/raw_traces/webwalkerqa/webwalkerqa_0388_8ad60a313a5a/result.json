@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0388_8ad60a313a5a",
+  "source_index": 388,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which former professional football star was involved in the Rovio and Topgolf collaboration to demonstrate the 'Angry Birds Dance', and in what year did this collaboration begin?",
+  "prompt": "Which former professional football star was involved in the Rovio and Topgolf collaboration to demonstrate the 'Angry Birds Dance', and in what year did this collaboration begin?",
+  "expected_answer": "Roddy White, 2020",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/angry-birds-at-topgolf-oh-its-on/"
+    ],
+    "golden_path": [
+      "root->Support->Brand Partnerships->Angry Birds at Topgolf — oh it’s on!"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The former professional football star involved in the Rovio and Topgolf collaboration to demonstrate the 'Angry Birds Dance' was David Beckham, and this collaboration began in 2015.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 15.778,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0388_8ad60a313a5a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0388_8ad60a313a5a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer provides a completely different person and year than the expected answer.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

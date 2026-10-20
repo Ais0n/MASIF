@@ -1,0 +1,47 @@
+{
+  "task_id": "webwalkerqa_0042_76aff5f60481",
+  "source_index": 42,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "浙江大学计算机学院吴朝晖教授讲授的《网格计算》课程是哪一年首次上传到浙江大学计算机学院的教学资源中？",
+  "prompt": "浙江大学计算机学院吴朝晖教授讲授的《网格计算》课程是哪一年首次上传到浙江大学计算机学院的教学资源中？",
+  "expected_answer": "2009年",
+  "root_url": "http://www.cs.zju.edu.cn/csen/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2009/1224/c26995a1202793/page.htm"
+    ],
+    "golden_path": [
+      "root->研究生教育->课程简介->网格计算（教学大纲）"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "浙江大学计算机学院吴朝晖教授讲授的《网格计算》课程首次上传到浙江大学计算机学院的教学资源中是在2009年。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer provides the correct year (2009年) embedded within a full sentence, matching the factual content of the expected answer.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 4,
+  "duration_seconds": 29.433,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0042_76aff5f60481/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0042_76aff5f60481/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "The predicted answer provides the correct year (2009年) embedded within a full sentence, matching the factual content of the expected answer.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

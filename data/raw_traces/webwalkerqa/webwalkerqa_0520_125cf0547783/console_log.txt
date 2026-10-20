@@ -1,0 +1,1221 @@
+----- user -----
+query:
+What are the registration fee discounts offered for attendees staying at the official hotels of the Pacific PNT and Joint Navigation Conference (JNC) in 2024 and 2025, respectively?
+official website:
+https://www.ion.org/
+Observation:website information:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+! 
+! 
+! ! 
+! !  
+! ! 
+Register for the 2026 Joint Navigation Conference
+Early registration rates end on April 30
+## [ION JNC 2026 June 1-4, 2026  
+Covington, KY ](
+## [ION GNSS+ 2026 September 14-18, 2026  
+Orlando, Florida ](
+## [ITM 2027 January 25-28, 2027  
+Anaheim, CA ](
+## [PTTI 2027 January 25-28, 2027  
+Anaheim, CA ](
+## 
+Search ION's database containing over 19,000 technical articles and papers from _NAVIGATION_ and ION Conferences
+## 
+Your donations help support ION programs that enhance education and the ION professional community.
+## 
+Visit the NAVIGATION open access site to read, download, cite and share papers from _NAVIGATION: Journal of the Institute of Navigation_
+##  
+The _ION Newsletter_ is published quarterly and contains news and articles of interest to the Positioning, Navigation and Timing community
+## 
+Find your next career opportunity with industry-leading organizations
+## 
+Let the ION's directory of member organizations and industry leaders help you advance your area of interest.
+## ION Videos
+  
+  
+  
+](
+## Posts from ION
+> 
+>  (@) • Instagram photos and videos
+## Connect With ION
+  
+Stay connected with the Institute of Navigation through our social media channels for the latest news, updates, and insights from the PNT community.   
+  
+](
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+clickable button:
+
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>View Program and Register Online<button>
+<button>Program and Registration Online<button>
+<button>ITM 2026 Program<button>
+<button>PTTI 2026 Program<button>
+<button>Program and Registration<button>
+<button>Register Online for JNC<button>
+<button>ION JNC 2026June 1-4, 2026Covington, KY<button>
+<button>ION GNSS+ 2026September 14-18, 2026Orlando, Florida<button>
+<button>ITM 2027January 25-28, 2027Anaheim, CA<button>
+<button>PTTI 2027January 25-28, 2027Anaheim, CA<button>
+<button>Find a Paper<button>
+<button>Donate to ION<button>
+<button>ION Newsletter<button>
+<button>CorporateMember Directory<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the registration fee discounts for attendees staying at the official hotels of the Pacific PNT and Joint Navigation Conference (JNC) in 2024 and 2025. The "Meetings" button seems relevant as it might lead to information about conferences and their associated details, including hotel discounts.
+
+Action: visit_page
+Action Input: {"button": "Meetings"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## ION Meetings
+  
+## ION Meetings
+### 
+ION’s winter meeting is a more intimate conference with a technical program related to positioning, navigation and timing and includes the ION Fellows and Annual Awards presentations. 
+### 
+The Pacific PNT Conference is a global cooperative development of Positioning, Navigation and Timing technology where policy and technical leaders from Japan, Singapore, China, South Korea, Australia, USA and more meet to discuss policy updates, receive program status updates and exchange technical information. 
+### 
+This biennial conference co‐sponsored by the IEEE, AESS and the ION has a technical program that includes an emphasis on commercial inertial navigation. A commercial exhibit and pre-conference tutorials is held in conjunction with the conference. 
+### 
+The ION Military Division’s Joint Navigation Conference is the largest U.S. military navigation conference with joint service and government participation. The event focuses on technical advances in Guidance, Navigation, and Control (GN&C) with emphasis on joint development, test and support of affordable GN&C systems, logistics and integration. The conference includes a technical exhibit and showcase of Guidance, Navigation and Control technology products and services and Operational Product Demonstrations. 
+### 
+ION GNSS+ is the world’s largest international technical meeting and showcase of GNSS technology, products and services and brings together international leaders in GNSS and related positioning, navigation and timing fields to present advances, introduce new technologies, update current policy, demonstrate products and exchange ideas. 
+### 
+PTTI is an annual conference sponsored by ION with a technical program designed to disseminate and coordinate PTTI information at the user level, review present and future PTTI requirements, inform government and industry engineers, technicians, and managers of precise time and frequency technology and its problems, and provide an opportunity for an active exchange of new technology associated with PTTI. A commercial exhibit and pre-conference tutorials is held in conjunction with the conference.
+ION Meetings       
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>International Technical Meeting (ITM)<button>
+<button>IEEE/ION Position, Location, and Navigation Symposium (PLANS)<button>
+<button>Joint Navigation Conference (JNC)<button>
+<button>Precise Time and Time Interval Meeting (PTTI)<button>
+<button>ION GNSS<button>
+<button>PTTI<button>
+<button>Inactive Meetings<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+The "Meetings" page provides general information about ION conferences but does not specify registration fee discounts for official hotels. The "Pacific PNT" and "Joint Navigation Conference" buttons seem directly relevant to the specific conferences mentioned in the question.
+
+Action: visit_page
+Action Input: {"button": "Pacific PNT"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+  
+## Pacific PNT  
+April 13-16, 2026  
+Honolulu, Hawaii
+  
+## Pacific PNT
+ION’s Pacific PNT Conference is a global cooperative development of Positioning, Navigation and Timing technology and applications where policy and technical leaders from Pacific Rim nations, the United States and more meet to discuss policy updates, receive program status updates and exchange technical information.
+### Program Committee
+**General Chair:** Dr. Sherman Lo, Stanford University  
+**Program Chair:** Dr. Jiyun Lee, KAIST  
+**Program Chair:** Dr. Mingquan Lu, Tsinghua University  
+**Program Chair:** Dr. Takeyasu Sakai, National Institute of Maritime, Port and Aviation Technology  
+**Plenary Chair:** Dr. Y. Jade Morton, University of Colorado, Boulder  
+**Plenary Chair:** Dr. Frank van Graas, Air Force Institute of Technology (AFIT)
+### International Advisory Board
+Dr. Loren Chang, National Central University  
+Dr. Andrew Dempster, University of New South Wales  
+Dr. Dorota Grejner-Brzezinska, University of Wisconsin-Madison  
+Dr. Li-Ta Hsu, The Hong Kong Polytechnic University  
+Dr. Allison Kealy, Swinburne University of Technology  
+Dr. Changdon Kee, Seoul National University  
+Dr. Nobuaki Kubo, Tokyo University of Marine Science and Technology  
+Dr. Richard Langley, University of New Brunswick  
+Dr. Charles Lin, National Cheng-Kung University  
+Dr. Mikel Miller, Integrated Solutions for Systems (IS4S)  
+Dr. Eng Kee Poh, Singapore DSO/Nanyang Technological University  
+Dr. Takeyasu Sakai, National Institute of Maritime, Port and Aviation Technology  
+Dr. Jiwon Seo, Yonsei University  
+Dr. Jun Shen, China Satellite Navigation Office  
+Dr. Xinqun Zhan, Shanghai Jiao Tong University
+  
+####    
+**Media Partners:**
+####  ! !
+####  ! !
+### 
+For Attendees     For Authors   Other Years    
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Technical Program<button>
+<button>Registration<button>
+<button>Hotel<button>
+<button>Travel and Visas<button>
+<button>Abstract Management<button>
+<button>Author Resource Center<button>
+<button>Past/Future Meetings<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+The "Pacific PNT" page provides information about the conference, including details about registration and travel. The "Hotel" button seems relevant as it might lead to information about official hotels and potential registration fee discounts.
+
+Action: visit_page
+Action Input: {"button": "Hotel"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+  
+## Pacific PNT  
+April 13-16, 2026  
+Honolulu, Hawaii
+  
+## Pacific PNT Hotel Information
+Hilton Waikiki Beach 
+2500 Kuhio Ave.  
+Honolulu, HI 96815  
+Phone: 1-808-922-0811  
+    
+**There is a mandatory Daily Resort Fee of $30 in addition to the nightly room rate.** This fee is discounted from $45 for attendees booking within the conference block. The fee includes: internet access; unlimited movies; special discount on island activities, Ala Moana & International Market savings passport; 2 daily water/soda; recreational & cultural activities; pool toys & activities; local/toll-free calls.  
+|  !!!  |  
+| --- |  
+### Hotel Description
+The Hilton Waikīkī Beach Resort & Spa is a 601-room full-service hotel offering beautiful ocean and mountain views. The hotel is conveniently located just one block from Waikīkī’s beaches, shopping, dining, and entertainment.
+The newly remodeled 10th-floor Recreation Deck features a large pool and spa, a 9-hole miniature golf course, spacious poolside cabanas, daybeds, fire pits, and the Hang 10 Pool Bar. The L.B.L.E. Lounge is home to The Wall All-In-One 4K Display, a 146-inch Direct View LED display, the largest of its kind in the Hawaiian Islands.
+On-site dining options include M.A.C. 24/7, M.A.C. 2-Go proudly serving Starbucks® products, Hang 10 Pool Bar, L.B.L.E. Lounge, and Casamigos House of Friends. The Hilton Waikīkī Beach Resort & Spa offers the conveniences of a full-service hotel with the comforts of home. To learn more, please visit hiltonwaikikibeach.com.
+Hilton Waikiki Beach is close to many local attractions including International Marketplace, Honolulu Zoo and Kapiolani Park. Explore the numerous shops and restaurants within walking distance from the hotel, or relax on the beach, located only a block from the hotel. The Waikiki Trolley and the bus also have stops in front of the hotel if you wish to travel a further.
+### Hotel Rates and Deadlines
+A block of rooms have been set aside for conference attendees until **March 13, 2026** at the group rate of $249 per night for single/double occupancy. Reservations made after this date will be on a space-available basis and may not be at the special ION rate. Please note that the room block does sell out quickly, so we strongly encourage you to make your hotel reservations early. **Save $500 on your registration fees by staying at the conference hotel and providing your hotel confirmation number when you register for the conference.**
+  * Valet Parking available for overnight guests
+  * Guestroom Internet: Complimentary for attendees booking within block
+**Government Rate Rooms**
+A limited number of government rate rooms are available for U.S. government employees (including MITRE, JPL and Aerospace employees). U.S. Government rates will be honored only for those persons travelling with U.S. Government travel orders and paying with a U.S. Government-issued credit card. Failure to provide these validations at check-in will result in your reservation being honored at the group rate. Government contractors and/or retired or non-active military personnel do not qualify for government rate rooms.
+### Save $500 on your registration fees by staying at the conference hotel.
+All attendees who stay at the Hilton Waikiki will receive a $500 discount when registering for the conference. Your hotel confirmation number will be required during registration to claim this discount. 
+**Why Stay at the Official Conference Hotel?**
+The official conference hotel is the center of conference activities. It's a quick trip to get to the technical sessions, it provides opportunities for networking with conference attendees and it makes it easy to return to your room. That's obvious. But there are other reasons that you need to consider before you look at another hotel.
+In return for the use of the hotel’s meeting facilities, the conference guarantees the hotel that that a certain percentage of attendees will stay in that hotel. The hotel generally discounts the rate for conference attendees from their normal charges.
+If the conference does not meet the contracted sleeping room commitment, the conference must pay the hotel for these rooms anyway. Unfilled rooms can cost the conference thousands of dollars. Not only do these financial penalties hurt the current year’s conference, but the next conference in the series cannot negotiate as beneficial a hotel contract. In both cases the registration fee is then under pressure to increase unreasonably.
+What if we don't contract for sleeping rooms? Attendees will pay more to stay at the conference hotel. The conference will incur additional expenses for meeting room rental fees, which would increase the cost of registration. Additionally, the hotel will not hold a block of rooms for attendees, which may leave some people quite a distance from the conference venue. In short, the conference ends up with higher expenses; many of those attending will pay a higher price for their hotel rooms, future conference registration fees will be pushed higher.
+**Why has the cost differential increased in for Pacific PNT if I don’t stay at the conference hotel?**
+Competitive hotels make it difficult for groups to meet their obligations to the hotel to secure the meeting room space required to host the meeting. Please support the hotel, the conference and ION by staying at the conference hotel.
+### 
+For Attendees     For Authors   Other Years    
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Technical Program<button>
+<button>Registration<button>
+<button>Hotel<button>
+<button>Travel and Visas<button>
+<button>Abstract Management<button>
+<button>Author Resource Center<button>
+<button>Past/Future Meetings<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+Memory:
+-For the Pacific PNT conference in 2026, attendees staying at the official hotel, Hilton Waikiki Beach, can receive a $500 discount on their registration fees by providing their hotel confirmation number during registration. The information provided does not mention specific discounts for 2024 or 2025.
+"}
+
+----- WebWalker -----
+The "Hotel" page for the Pacific PNT 2026 conference provides information about the official hotel, Hilton Waikiki Beach, and mentions a $500 discount on registration fees for attendees staying at the conference hotel. However, the question asks about the 2024 and 2025 conferences, which are not covered here. I need to check if there is any information about the 2024 or 2025 conferences on this page or if I should visit the "Joint Navigation Conference" page next.
+
+Action: visit_page
+Action Input: {"button": "Joint Navigation Conference"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## Joint Navigation Conference  
+June 1-4, 2026  
+Greater Cincinnati Area
+## Joint Navigation Conference (JNC)
+!The Military Division of the Institute of Navigation will host the 2026 Joint Navigation Conference (JNC 2026) for the U.S. military and Department of Homeland Security.
+The theme of this year’s conference will be: **Robust, Resilient, Assured PNT for Warfighters and Homeland Security**.
+JNC is the largest U.S. military Positioning, Navigation and Timing (PNT) conference of the year with joint service and government participation. The event will focus on technical advances in PNT with emphasis on joint development, testing, and support of resilient PNT systems, logistics and integration. From an operational perspective, the conference will focus on advances in military applications of GPS; critical strengths and weaknesses of field navigation devices; warfighter PNT requirements and solutions; and navigation warfare.
+**The JNC’s DTS conference ID is N20150610734**
+### **JNC Conference Patron:**
+!
+!
+### **JNC Conference Benefactor:**
+!
+!
+!
+### **JNC Conference Contributor:**
+! ! !
+! !
+### **Media Partners:**
+! !
+  
+  
+  
+  
+  
+  
+  
+  
+### [Joint Navigation Conference  
+](
+For Attendees       For Presenters   For Exhibitors   Other Years     
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Technical Program<button>
+<button>Registration<button>
+<button>Attendance Requirements<button>
+<button>Hotel<button>
+<button>Travel<button>
+<button>Exhibit Hall<button>
+<button>Abstract Management Portal<button>
+<button>Presenter/Chair Resource Center<button>
+<button>Exhibitor Resource Center<button>
+<button>Marketing Resources<button>
+<button>Future Meetings<button>
+<button>Past Meetings<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+The "Joint Navigation Conference" page provides general information about the conference but does not specify registration fee discounts for official hotels. The "Hotel" button seems relevant as it might lead to information about official hotels and potential registration fee discounts.
+
+Action: visit_page
+Action Input: {"button": "Hotel"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## Joint Navigation Conference  
+June 1-4, 2026  
+Greater Cincinnati Area
+## JNC Hotel Information
+It has come to the ION's attention that unauthorized companies have been sending unsolicited emails offering discount hotel rates to JNC attendees and exhibitors. Please do not book through these companies. 
+### Stay in an official hotel and save $300 on your registration fees.
+Save $300 on your conference registration fees by staying in an official conference hotel. To qualify for the discount, make your hotel reservation before you register for the conference. Then, enter your hotel confirmation number on the registration form to receive the discount. Please note, the hotel discount cannot be applied retroactively; be sure to make your hotel reservation before registering for the meeting. 
+**Hotel Reservations**
+A block of rooms have been set aside for conference attendees at the prevailing government rate (currently $163) for single/double occupancy. These rooms will be available until April 30 or _until the block fills up, whichever occurs first_. Reservations made after April 30 will be on a space-available basis and may not be at the government rate. Please note that room blocks sell out quickly, so we strongly encourage you to make your hotel reservations early. 
+To reserve your room, call the housing bureau at 1-877-465-9282 or,
+  
+**Need help with finding/adjusting your JNC hotel reservations?**  
+Please contact:  
+Carla Quercioli  
+Covington Housing  
+Email: cquercioli@meetnky.com  
+Phone: 859-655-4161  
+|  !!!  |  
+| --- |  
+**Headquarters Hotel: Cincinnati Marriott RiverCenter**
+  * Address: 10 W Rivercenter Blvd. Covington, KY 41011
+  * Phone: 859-261-2900
+  * Distance to NKYCC: Across the street (1 minute walk)
+  * Trolley stop: In front of building
+  * Guestroom Wifi: Complimentary
+  * Self-Parking: $12
+**Headquarters Hotel:****Embassy Suites RiverCenter**
+  * Address: 10 E Rivercenter Blvd. Covington, KY 41011
+  * Phone: 859-261-8400
+  * Distance to NKYCC: Across the street (1 minute walk)
+  * Trolley stop: In front of building
+  * Guestroom Wifi: Complimentary
+  * Self-Parking: $12
+  * Complimentary Breakfast Buffet
+**Complimentary shuttle bus transportation will be provided between the convention center and all hotels listed below.**
+**Holiday Inn Cincinnati Riverfront**
+  * Address: 600 W 3rd St. Covington, KY 41011
+  * Phone: 859-291-4300
+  * Distance to NKYCC: 0.5 miles (12 minute walk)
+  * Trolley stop: 1 block away, in front of Courtyard Marriott (6 minute, $1 shuttle ride to NKYCC)
+  * Guestroom Wifi: Complimentary
+  * Self-Parking: Complimentary
+**Courtyard by Marriott Cincinnati Covington**
+  * Address: 500 W 3rd St. Covington, KY 41011
+  * Phone: 859-491-4000
+  * Distance to NKYCC: 0.45 miles (11 minute walk)
+  * Trolley stop: In front of building (6 minute, $1 shuttle ride to NKYCC)
+  * Guestroom Wifi: Complimentary
+  * Self-Parking: Complimentary
+**Holiday Inn Express & Suites Cincinnati Riverfront**
+  * 200 Crescent Ave. Covington, KY 41011
+  * Phone: 859-581-7800
+  * Distance to NKYCC: 0.8 miles (18 minute walk)
+  * Closest Trolley stop: 0.4 miles (8 minute walk)
+  * Trolley Ride: 6 minute, $1 shuttle ride to NKYCC
+  * Guestroom Wifi: Complimentary
+  * Self-Parking: Complimentary
+  * Complimentary Breakfast Buffet
+**Hotel Covington/Hotel NORTH**
+  * 638 Madison Ave, Covington, KY 41011
+  * Phone: 859-905-6600
+  * Distance to NKYCC: 0.4 miles (10 minute walk)
+  * Trolley stop: 0.2 miles (6 minute walk, then 2 minute, $1 shuttle ride)
+**Radisson Hotel Cincinnati Riverfront**
+  * 668 W 5th St, Covington, KY 41011
+  * Phone: 859-491-1200
+  * Distance to NKYCC: 0.7 miles (17 minute walk)
+  * Closest Trolley stop: 0.2 miles (5 minute walk)
+  * Trolley Ride: 4 minute, $1 shuttle ride to NKYCC
+  * Guestroom Wifi: Complimentary
+  * Self-Parking: Complimentary
+  * Complimentary Breakfast Buffet
+### !
+### [Joint Navigation Conference  
+](
+For Attendees       For Presenters   For Exhibitors   Other Years     
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Why we do this.<button>
+<button>Technical Program<button>
+<button>Registration<button>
+<button>Attendance Requirements<button>
+<button>Hotel<button>
+<button>Travel<button>
+<button>Exhibit Hall<button>
+<button>Abstract Management Portal<button>
+<button>Presenter/Chair Resource Center<button>
+<button>Exhibitor Resource Center<button>
+<button>Marketing Resources<button>
+<button>Future Meetings<button>
+<button>Past Meetings<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+Memory:
+For the Pacific PNT conference in 2026, attendees staying at the official hotel, Hilton Waikiki Beach, can receive a $500 discount on their registration fees by providing their hotel confirmation number during registration. The information provided does not mention specific discounts for 2024 or 2025.
+-The registration fee discount for attendees staying at the official hotels of the Joint Navigation Conference (JNC) in 2026 is $300. This discount is applicable for the 2026 conference, and the information provided does not specify details for 2024 or 2025.
+"}
+
+----- WebWalker -----
+The "Hotel" page for the Joint Navigation Conference (JNC) 2026 provides information about official hotels and mentions a $300 discount on registration fees for attendees staying at the official conference hotel. However, the question asks about the 2024 and 2025 conferences, which are not covered here. I need to check if there is any information about the 2024 or 2025 conferences on this page or if I should visit the "Past Meetings" page next to find historical information.
+
+Action: visit_page
+Action Input: {"button": "Past Meetings"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## Joint Navigation Conference  
+June 1-4, 2026  
+Greater Cincinnati Area
+## Past Joint Navigation Conferences
+#### Joint Navigation Conference 2025
+June 2-5, 2025  
+Northern Kentucky Convention Center  
+Covington, Kentucky  
+#### Joint Navigation Conference 2024
+June 3-6, 2024  
+Northern Kentucky Convention Center  
+Covington, Kentucky  
+#### Joint Navigation Conference 2023
+June 12-15, 2023  
+Town and Country Hotel  
+San Diego, California  
+#### Joint Navigation Conference 2022 
+June 6-9, 2022  
+Town and Country Hotel  
+San Diego, California  
+#### Joint Navigation Conference 2021 
+August 24-27, 2021  
+Northern Kentucky Convention Center  
+Greater Cincinnati, Ohio  
+#### Joint Navigation Conference 2020 (Cancelled)
+June 1-4, 2020  
+Tutorials and FOUO: Northern Kentucky Convention Center  
+Classified Session: AFIT, WPAFB, Dayton, OH
+#### Joint Navigation Conference 2019
+July 8-11, 2019  
+Tutorials and FOUO: Hyatt Regency Long Beach  
+Classified Session: The Aerospace Corporation, El Segundo, California  
+#### Joint Navigation Conference 2018
+July 9-12, 2018  
+Tutorials and FOUO: Hyatt Regency Long Beach  
+Classified Session: The Aerospace Corporation, El Segundo, California  
+#### Joint Navigation Conference 2017
+June 5-8, 2017  
+Tutorials and FOUO: Dayton Convention Center, Dayton, OH  
+Classified Session: AFIT, WPAFB, Dayton, OH  
+#### Joint Navigation Conference 2016
+June 6-9, 2016  
+Tutorials and FOUO: Dayton Convention Center, Dayton, OH  
+Classified Session: AFIT, WPAFB, Dayton, OH  
+#### Joint Navigation Conference 2015
+June 22-25, 2015  
+Tutorials and FOUO: Renaissance Orlando at SeaWorld, Orlando, Florida  
+Classified Session: Shades of Green on Walt Disney World Resort, Orlando, Florida
+    
+#### Joint Navigation Conference 2014
+June 16-19, 2014  
+Tutorials and FOUO: Renaissance Orlando at SeaWorld, Orlando, Florida  
+Classified Session: Shades of Green on Walt Disney World Resort, Orlando, Florida
+    
+#### JNC 2013 (Cancelled)
+June 10-13, 2013  
+Tutorials and FOUO: Renaissance Orlando at SeaWorld  
+Classified Session: Shades of Green on Walt Disney World Resort  
+Orlando, Florida
+#### Joint Navigation Conference 2012
+June 12-15, 2012  
+Tutorials and FOUO: Crowne Plaza Hotel, Colorado Springs, Colorado  
+Classified Session: Elkhorn Conference Center, Fort Carson, Colorado
+    
+#### Joint Navigation Conference 2011
+June 27-30, 2011  
+Tutorials and FOUO: Crowne Plaza Hotel, Colorado Springs, Colorado  
+Classified Session: Elkhorn Conference Center, Fort Carson, Colorado
+    
+#### Joint Navigation Conference 2010
+June 8-10, 2010  
+Wyndham Orlando Resort  
+Orlando, Florida
+#### Joint Navigation Conference 2009
+June 2-4, 2009  
+Wyndham Orlando Resort  
+Orlando, Florida
+### [Joint Navigation Conference  
+](
+For Attendees       For Presenters   For Exhibitors   Other Years     
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Technical Program<button>
+<button>Registration<button>
+<button>Attendance Requirements<button>
+<button>Hotel<button>
+<button>Travel<button>
+<button>Exhibit Hall<button>
+<button>Abstract Management Portal<button>
+<button>Presenter/Chair Resource Center<button>
+<button>Exhibitor Resource Center<button>
+<button>Marketing Resources<button>
+<button>Future Meetings<button>
+<button>Past Meetings<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+The "Past Meetings" page lists the Joint Navigation Conference (JNC) for 2024 and 2025, but it does not provide specific information about registration fee discounts for official hotels. I need to check if there is any additional information about these conferences on this page or if I should visit the "Pacific PNT" page again to find more details about the 2024 and 2025 conferences.
+
+Action: visit_page
+Action Input: {"button": "Pacific PNT"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+  
+## Pacific PNT  
+April 13-16, 2026  
+Honolulu, Hawaii
+  
+## Pacific PNT
+ION’s Pacific PNT Conference is a global cooperative development of Positioning, Navigation and Timing technology and applications where policy and technical leaders from Pacific Rim nations, the United States and more meet to discuss policy updates, receive program status updates and exchange technical information.
+### Program Committee
+**General Chair:** Dr. Sherman Lo, Stanford University  
+**Program Chair:** Dr. Jiyun Lee, KAIST  
+**Program Chair:** Dr. Mingquan Lu, Tsinghua University  
+**Program Chair:** Dr. Takeyasu Sakai, National Institute of Maritime, Port and Aviation Technology  
+**Plenary Chair:** Dr. Y. Jade Morton, University of Colorado, Boulder  
+**Plenary Chair:** Dr. Frank van Graas, Air Force Institute of Technology (AFIT)
+### International Advisory Board
+Dr. Loren Chang, National Central University  
+Dr. Andrew Dempster, University of New South Wales  
+Dr. Dorota Grejner-Brzezinska, University of Wisconsin-Madison  
+Dr. Li-Ta Hsu, The Hong Kong Polytechnic University  
+Dr. Allison Kealy, Swinburne University of Technology  
+Dr. Changdon Kee, Seoul National University  
+Dr. Nobuaki Kubo, Tokyo University of Marine Science and Technology  
+Dr. Richard Langley, University of New Brunswick  
+Dr. Charles Lin, National Cheng-Kung University  
+Dr. Mikel Miller, Integrated Solutions for Systems (IS4S)  
+Dr. Eng Kee Poh, Singapore DSO/Nanyang Technological University  
+Dr. Takeyasu Sakai, National Institute of Maritime, Port and Aviation Technology  
+Dr. Jiwon Seo, Yonsei University  
+Dr. Jun Shen, China Satellite Navigation Office  
+Dr. Xinqun Zhan, Shanghai Jiao Tong University
+  
+####    
+**Media Partners:**
+####  ! !
+####  ! !
+### 
+For Attendees     For Authors   Other Years    
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Technical Program<button>
+<button>Registration<button>
+<button>Hotel<button>
+<button>Travel and Visas<button>
+<button>Abstract Management<button>
+<button>Author Resource Center<button>
+<button>Past/Future Meetings<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+The "Pacific PNT" page provides information about the conference, including details about registration and travel. The "Hotel" button seems relevant as it might lead to information about official hotels and potential registration fee discounts.
+
+Action: visit_page
+Action Input: {"button": "Hotel"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+  
+## Pacific PNT  
+April 13-16, 2026  
+Honolulu, Hawaii
+  
+## Pacific PNT Hotel Information
+Hilton Waikiki Beach 
+2500 Kuhio Ave.  
+Honolulu, HI 96815  
+Phone: 1-808-922-0811  
+    
+**There is a mandatory Daily Resort Fee of $30 in addition to the nightly room rate.** This fee is discounted from $45 for attendees booking within the conference block. The fee includes: internet access; unlimited movies; special discount on island activities, Ala Moana & International Market savings passport; 2 daily water/soda; recreational & cultural activities; pool toys & activities; local/toll-free calls.  
+|  !!!  |  
+| --- |  
+### Hotel Description
+The Hilton Waikīkī Beach Resort & Spa is a 601-room full-service hotel offering beautiful ocean and mountain views. The hotel is conveniently located just one block from Waikīkī’s beaches, shopping, dining, and entertainment.
+The newly remodeled 10th-floor Recreation Deck features a large pool and spa, a 9-hole miniature golf course, spacious poolside cabanas, daybeds, fire pits, and the Hang 10 Pool Bar. The L.B.L.E. Lounge is home to The Wall All-In-One 4K Display, a 146-inch Direct View LED display, the largest of its kind in the Hawaiian Islands.
+On-site dining options include M.A.C. 24/7, M.A.C. 2-Go proudly serving Starbucks® products, Hang 10 Pool Bar, L.B.L.E. Lounge, and Casamigos House of Friends. The Hilton Waikīkī Beach Resort & Spa offers the conveniences of a full-service hotel with the comforts of home. To learn more, please visit hiltonwaikikibeach.com.
+Hilton Waikiki Beach is close to many local attractions including International Marketplace, Honolulu Zoo and Kapiolani Park. Explore the numerous shops and restaurants within walking distance from the hotel, or relax on the beach, located only a block from the hotel. The Waikiki Trolley and the bus also have stops in front of the hotel if you wish to travel a further.
+### Hotel Rates and Deadlines
+A block of rooms have been set aside for conference attendees until **March 13, 2026** at the group rate of $249 per night for single/double occupancy. Reservations made after this date will be on a space-available basis and may not be at the special ION rate. Please note that the room block does sell out quickly, so we strongly encourage you to make your hotel reservations early. **Save $500 on your registration fees by staying at the conference hotel and providing your hotel confirmation number when you register for the conference.**
+  * Valet Parking available for overnight guests
+  * Guestroom Internet: Complimentary for attendees booking within block
+**Government Rate Rooms**
+A limited number of government rate rooms are available for U.S. government employees (including MITRE, JPL and Aerospace employees). U.S. Government rates will be honored only for those persons travelling with U.S. Government travel orders and paying with a U.S. Government-issued credit card. Failure to provide these validations at check-in will result in your reservation being honored at the group rate. Government contractors and/or retired or non-active military personnel do not qualify for government rate rooms.
+### Save $500 on your registration fees by staying at the conference hotel.
+All attendees who stay at the Hilton Waikiki will receive a $500 discount when registering for the conference. Your hotel confirmation number will be required during registration to claim this discount. 
+**Why Stay at the Official Conference Hotel?**
+The official conference hotel is the center of conference activities. It's a quick trip to get to the technical sessions, it provides opportunities for networking with conference attendees and it makes it easy to return to your room. That's obvious. But there are other reasons that you need to consider before you look at another hotel.
+In return for the use of the hotel’s meeting facilities, the conference guarantees the hotel that that a certain percentage of attendees will stay in that hotel. The hotel generally discounts the rate for conference attendees from their normal charges.
+If the conference does not meet the contracted sleeping room commitment, the conference must pay the hotel for these rooms anyway. Unfilled rooms can cost the conference thousands of dollars. Not only do these financial penalties hurt the current year’s conference, but the next conference in the series cannot negotiate as beneficial a hotel contract. In both cases the registration fee is then under pressure to increase unreasonably.
+What if we don't contract for sleeping rooms? Attendees will pay more to stay at the conference hotel. The conference will incur additional expenses for meeting room rental fees, which would increase the cost of registration. Additionally, the hotel will not hold a block of rooms for attendees, which may leave some people quite a distance from the conference venue. In short, the conference ends up with higher expenses; many of those attending will pay a higher price for their hotel rooms, future conference registration fees will be pushed higher.
+**Why has the cost differential increased in for Pacific PNT if I don’t stay at the conference hotel?**
+Competitive hotels make it difficult for groups to meet their obligations to the hotel to secure the meeting room space required to host the meeting. Please support the hotel, the conference and ION by staying at the conference hotel.
+### 
+For Attendees     For Authors   Other Years    
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Technical Program<button>
+<button>Registration<button>
+<button>Hotel<button>
+<button>Travel and Visas<button>
+<button>Abstract Management<button>
+<button>Author Resource Center<button>
+<button>Past/Future Meetings<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+Memory:
+For the Pacific PNT conference in 2026, attendees staying at the official hotel, Hilton Waikiki Beach, can receive a $500 discount on their registration fees by providing their hotel confirmation number during registration. The information provided does not mention specific discounts for 2024 or 2025.
+-The registration fee discount for attendees staying at the official hotels of the Joint Navigation Conference (JNC) in 2026 is $300. This discount is applicable for the 2026 conference, and the information provided does not specify details for 2024 or 2025.
+-For the Pacific PNT conference in 2026, attendees staying at the official hotel, Hilton Waikiki Beach, can receive a $500 discount on their registration fees by providing their hotel confirmation number during registration. The information provided does not specify any discounts for 2025, as the conference is scheduled for 2026.
+"}

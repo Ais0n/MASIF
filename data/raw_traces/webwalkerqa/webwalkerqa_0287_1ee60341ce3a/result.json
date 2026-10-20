@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0287_1ee60341ce3a",
+  "source_index": 287,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "京东（恩阳）数字经济产业园自开园至2023年7月14日，总共孵化了多少家企业，园区累计产值达到多少亿元？",
+  "prompt": "京东（恩阳）数字经济产业园自开园至2023年7月14日，总共孵化了多少家企业，园区累计产值达到多少亿元？",
+  "expected_answer": "孵化了61家企业，累计产值逾1.5亿元。",
+  "root_url": "https://www.zqcn.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.zqcn.com.cn/886/34007.html"
+    ],
+    "golden_path": [
+      "root->涉企政策->产业聚集产值破亿！京东科技带动恩阳..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 12.988,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0287_1ee60341ce3a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0287_1ee60341ce3a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

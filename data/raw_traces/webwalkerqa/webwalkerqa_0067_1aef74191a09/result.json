@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0067_1aef74191a09",
+  "source_index": 67,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "郑州大学计算机与人工智能学院2024年新生入学资格审查复查工作与教职工荣休仪式相隔多少天？",
+  "prompt": "郑州大学计算机与人工智能学院2024年新生入学资格审查复查工作与教职工荣休仪式相隔多少天？",
+  "expected_answer": "33天",
+  "root_url": "http://www7.zzu.edu.cn/csai/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www7.zzu.edu.cn/csai/info/1115/2715.htm",
+      "http://www7.zzu.edu.cn/csai/info/1115/2542.htm"
+    ],
+    "golden_path": [
+      "root->查看更多->我院圆满完成 2024 级本科及研究生新生资格审查复查工作",
+      "root->查看更多->计算机与人工智能学院、软件学院举行2024年教职工荣休仪式"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 37.693,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0067_1aef74191a09/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0067_1aef74191a09/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0259_080f1a497932",
+  "source_index": 259,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the exhibit hall hours for the PTTI conference in Long Beach, California, from January 27-30, 2025?",
+  "prompt": "What are the exhibit hall hours for the PTTI conference in Long Beach, California, from January 27-30, 2025?",
+  "expected_answer": "The exhibit hall will be open on Tuesday from 9:30 a.m. to 4:00 p.m. and on Wednesday from 10:00 a.m. to 4:00 p.m.",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/ptti/exhibits.cfm"
+    ],
+    "golden_path": [
+      "root->PTTI->Exhibits"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 21,
+  "tool_calls": 8,
+  "duration_seconds": 106.695,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0259_080f1a497932/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0259_080f1a497932/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

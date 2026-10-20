@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0075_7d7695c858cd",
+  "source_index": 75,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the submission deadlines for technical papers and the doctoral symposium at the ICSE 2002 conference?",
+  "prompt": "What are the submission deadlines for technical papers and the doctoral symposium at the ICSE 2002 conference?",
+  "expected_answer": "The technical paper submission deadline was September 25, 2001, and the doctoral symposium submission deadline was January 6, 2002.",
+  "root_url": "http://www.icse-conferences.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "http://www.icse-conferences.org/2002/cfp/techpapers.html",
+      "http://www.icse-conferences.org/2002/cfp/docsymp.html"
+    ],
+    "golden_path": [
+      "root->ICSE 2002->Types of Submissions->Technical Papers",
+      "root->ICSE 2002->Types of Submissions->Doctoral Symposium Applications"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 66.169,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0075_7d7695c858cd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0075_7d7695c858cd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

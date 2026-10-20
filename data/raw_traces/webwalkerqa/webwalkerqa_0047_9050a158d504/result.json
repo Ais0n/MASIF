@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0047_9050a158d504",
+  "source_index": 47,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When did the European Hematology Association (EHA) initiate the bridge funding program to support the rebuilding of hematology in Ukraine?",
+  "prompt": "When did the European Hematology Association (EHA) initiate the bridge funding program to support the rebuilding of hematology in Ukraine?",
+  "expected_answer": "April 2022",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/organization/newsroom/news-and-updates/rebuilding-the-future-for-hematology-in-ukraine-today/"
+    ],
+    "golden_path": [
+      "root->News & views->Press releases->Read more"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 16,
+  "tool_calls": 7,
+  "duration_seconds": 79.926,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0047_9050a158d504/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0047_9050a158d504/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0454_0b7065deeb3c",
+  "source_index": 454,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who is responsible for overseeing the Angry Birds brand strategy during the 15th anniversary celebrations, and what major project is highlighted as part of these celebrations?",
+  "prompt": "Who is responsible for overseeing the Angry Birds brand strategy during the 15th anniversary celebrations, and what major project is highlighted as part of these celebrations?",
+  "expected_answer": "Eeva Aaltonen is responsible for overseeing the Angry Birds brand strategy during the 15th anniversary celebrations, and 'Angry Birds Mystery Island: A Hatchlings Adventure' is highlighted as a major project.",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/angry-birds-celebrates-15th-anniversary-with-special-in-game-events-and-more/",
+      "https://www.rovio.com/articles/eeva-aaltonen/"
+    ],
+    "golden_path": [
+      "root->Angry Birds Celebrates 15th Anniversary with Special In-Game Events and More",
+      "root->Meet the RoviansEeva AaltonenHead of Brand Operations"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "Ben Mattes, the Angry Birds Creative Officer at Rovio, is responsible for overseeing the brand strategy during the 15th anniversary celebrations. The major project highlighted as part of these celebrations includes the launch of Angry Birds Mystery Island: A Hatchlings Adventure, an animated series, and collaborations with independent artists, as well as the release of comic books and in-game events.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 86.461,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0454_0b7065deeb3c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0454_0b7065deeb3c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"verdict\":",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

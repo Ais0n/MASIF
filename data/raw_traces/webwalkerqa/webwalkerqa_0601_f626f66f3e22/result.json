@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0601_f626f66f3e22",
+  "source_index": 601,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京邮电大学计算机学院在2017年和2023年分别举办的盛胜利和张元林的学术报告，他们各自的研究领域主要包括哪些方面？",
+  "prompt": "南京邮电大学计算机学院在2017年和2023年分别举办的盛胜利和张元林的学术报告，他们各自的研究领域主要包括哪些方面？",
+  "expected_answer": "数据挖掘与机器学习、人工智能（盛胜利）；人工智能及其在理工教育的应用（张元林）",
+  "root_url": "https://cs.njupt.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njupt.edu.cn/2017/0627/c9224a110627/page.htm",
+      "https://cs.njupt.edu.cn/2023/0915/c9224a246608/page.htm"
+    ],
+    "golden_path": [
+      "root->学术组织与交流->尾页->报告题目：DataQualityandDataMiningwithCrowdsourcing报告人：盛胜利时间：2017年6月30日14:30地点：南邮仙林校区计算机学科楼327会议室主办单位：江苏省大数据安全与智能处理重点实验室报告人简介：盛胜利（VICTORS.SHENG）是美国阿肯色中央大学计算机科学系副教授和数据分析实验室主任，1999年7月于苏州大学获硕士学位，...",
+      "root->学术组织与交流->下一页>>->学术报告报告题目：自然语言，计算机科学，人工智能，数学和教育报告时间：2023年9月21日15:30报告人：张元林副教授地点：计算机学科楼327会议室主办单位：计算机学院、软件学院、网络空间安全学院报告人简介：张元林博士，美国德州理工大学计算机科学系副教授。研究领域主要是人工智能及其在理工教育的应用。2022年人工智..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 72.86,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0601_f626f66f3e22/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0601_f626f66f3e22/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

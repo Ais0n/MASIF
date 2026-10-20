@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0489_35abb4b9118f",
+  "source_index": 489,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "《王者之心2》与《冲吧三国》这两款游戏分别由哪家公司开发和发行？",
+  "prompt": "《王者之心2》与《冲吧三国》这两款游戏分别由哪家公司开发和发行？",
+  "expected_answer": "《王者之心2》由苏州九宫数字科技有限公司开发，杭州欧边网络科技有限公司发行；《冲吧三国》由四川天上友嘉网络科技有限公司开发，深圳一七游网络科技有限公司发行。",
+  "root_url": "https://qqgame.qq.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://qqgame.qq.com/app/gamedetail_12108.shtml",
+      "https://qqgame.qq.com/app/gamedetail_12116.shtml"
+    ],
+    "golden_path": [
+      "root->查看更多->王者之心2",
+      "root->查看更多->冲吧三国"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "《王者之心2》和《冲吧三国》这两款游戏均由腾讯公司开发和发行。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 14.516,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0489_35abb4b9118f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0489_35abb4b9118f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer incorrectly attributes the development and publishing of both games to Tencent, completely contradicting the specific companies listed in the expected answer.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

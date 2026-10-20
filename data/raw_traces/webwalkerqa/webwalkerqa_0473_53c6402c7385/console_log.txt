@@ -1,0 +1,765 @@
+----- user -----
+query:
+Which local sponsor for ACL 2024 can provide visa support documents for obtaining a Thai visa?
+official website:
+https://2024.aclweb.org/
+Observation:website information:
+
+]( 
+              
+Toggle menu
+#  The 62nd Annual Meeting of the Association for Computational Linguistics 
+Bangkok, Thailand  
+August 11–16, 2024 
+Photo by  on 
+## Welcome!
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.   
+## News
+** is officially open**
+**Printing order service will be opened for registration until 9 August, 06.00 pm (local time) **  
+| July 28, 2024  | Printing order service is officially open at this .  |  
+| --- | --- |  
+| July 20, 2024  | The application form for  is posted.  |  
+| July 11, 2024  |   is posted.  |  
+| July 9, 2024  | Tourist-MICE (Letter from Thailand Convention and Exhibition Bureau - TCEB) is available in  section  |  
+| July 7, 2024  |   is posted  |  
+| Jun 28, 2024  |   is now open.  |  
+| Jun 28, 2024  |   information has been updated.  |  
+| Jun 17, 2024  |   is posted  |  
+| Jun 13, 2024  | Visa Information is updated  |  
+| Jun 06, 2024  | Information about invitation letter is posted in   |  
+| Jun 04, 2024  |   is posted.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 25, 2024  |   information has been updated.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 5, 2024  |   updated: The conference will be held at Centara Grand and Bangkok Convention Centre.  |  
+| Apr 27, 2024  |   is posted.  |  
+| Mar 3, 2024  | The information about venue and visa details have been posted.  |  
+| Feb 26, 2024  | Submission link for  is posted.  |  
+| Jan 31, 2024  |   is posted.  |  
+| Jan 24, 2024  |   is posted.  |  
+| Jan 19, 2024  |   is posted.  |  
+| Nov 24, 2023  | The list of accepted workshops and tutorials have been posted.  |  
+| Oct 25, 2023  | The official ACL 2024 website is launched.  |  
+## Important Dates  
+| Tutorials  | Sunday  | August 11, 2024  |  
+| --- | --- | --- |  
+| Main Conference  | Monday – Wednesday  | August 12 – 14, 2024  |  
+| Workshop  | Thursday - Friday  | August 15 -16, 2024  |  
+  
+**All deadlines are 11.59 pm (anywhere on earth).**
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+clickable button:
+
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>link<button>
+<button>Discounted Virtual Registration<button>
+<button>Call for D&I Socials and BoF Sessions<button>
+<button>Visa<button>
+<button>Accepted Main Conference Papers<button>
+<button>Registration<button>
+<button>Accepted Demo Papers<button>
+<button>Visa<button>
+<button>Call for Diversity and Inclusion Subsidies<button>
+<button>Participant<button>
+<button>Venue<button>
+<button>Call for Student Volunteers<button>
+<button>Call for System Demonstration<button>
+<button>Call for Student Research Workshop<button>
+<button>Call for Main Conference Papers<button>
+<button>Feed<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find information about local sponsors for ACL 2024 who can provide visa support documents for obtaining a Thai visa. The "Sponsors" button seems like a good starting point to explore.
+
+Action: visit_page
+Action Input: {"button": "Sponsors"}
+
+----- VisitPage -----
+The web information is:
+
+]( 
+              
+Toggle menu
+# Sponsors 
+####  On this page
+              
+ACL 2024 extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
+If your organization would like to sponsor the ACL, please refer to our  for information about sponsorship rates and benefits. For any questions regarding sponsorship, please email Chris Callison-Burch ccb@upenn.edu and CC Lily Hoot lhoot@seas.upenn.edu.
+The deadline to sponsor **ACL 2024 is June 30.**
+## Diamond
+ ]( "Apple")  ]( "LG AI Research")  ]( "NewsBreak")  ]( "Meta")  ]( "Google Deepmind")
+## Platinum
+ ]( "Megagon")  ]( "Baidu")  ]( "SCB 10X")  ]( "Sony")  ]( "Alibaba Cloud")  ]( "Amazon")  ]( "ByteDance")  ]( "IBM Research")  ]( "Meituan")  ]( "Oracle")
+## Gold
+ ]( "Ahrefs")  ]( "Cohere")  ]( "Xiaomi Group")  ]( "Chen Institute")  ]( "Exa")
+## Silver
+ ]( "Ant Group")
+## Bronze
+ ]( "Adobe")  ]( "Babelscape")  ]( "Translated")  ]( "Dataocean AI")
+## Diversity & Inclusion Ally
+ ]( "Apple")
+## Local Sponsors
+ ]( "TCEB")  ]( "KBTG")  ]( "ETDA")  ]( "AIAT")  ]( "NECTEC")  ]( "AI Thailand")
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>Diamond<button>
+<button>Platinum<button>
+<button>Gold<button>
+<button>Silver<button>
+<button>Bronze<button>
+<button>Diversity & Inclusion Ally<button>
+<button>Local Sponsors<button>
+<button>Feed<button>
+
+----- WebWalker -----
+Memory:
+-The Local Sponsors for ACL 2024 include TCEB, KBTG, ETDA, AIAT, NECTEC, and AI Thailand.
+"}
+
+----- WebWalker -----
+The "Local Sponsors" button is relevant for finding local sponsors. I will click on it to get more details about them.
+
+Action: visit_page
+Action Input: {"button": "Local Sponsors"}
+
+----- VisitPage -----
+The web information is:
+
+]( 
+              
+Toggle menu
+#  The 62nd Annual Meeting of the Association for Computational Linguistics 
+Bangkok, Thailand  
+August 11–16, 2024 
+Photo by  on 
+## Welcome!
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.   
+## News
+** is officially open**
+**Printing order service will be opened for registration until 9 August, 06.00 pm (local time) **  
+| July 28, 2024  | Printing order service is officially open at this .  |  
+| --- | --- |  
+| July 20, 2024  | The application form for  is posted.  |  
+| July 11, 2024  |   is posted.  |  
+| July 9, 2024  | Tourist-MICE (Letter from Thailand Convention and Exhibition Bureau - TCEB) is available in  section  |  
+| July 7, 2024  |   is posted  |  
+| Jun 28, 2024  |   is now open.  |  
+| Jun 28, 2024  |   information has been updated.  |  
+| Jun 17, 2024  |   is posted  |  
+| Jun 13, 2024  | Visa Information is updated  |  
+| Jun 06, 2024  | Information about invitation letter is posted in   |  
+| Jun 04, 2024  |   is posted.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 25, 2024  |   information has been updated.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 5, 2024  |   updated: The conference will be held at Centara Grand and Bangkok Convention Centre.  |  
+| Apr 27, 2024  |   is posted.  |  
+| Mar 3, 2024  | The information about venue and visa details have been posted.  |  
+| Feb 26, 2024  | Submission link for  is posted.  |  
+| Jan 31, 2024  |   is posted.  |  
+| Jan 24, 2024  |   is posted.  |  
+| Jan 19, 2024  |   is posted.  |  
+| Nov 24, 2023  | The list of accepted workshops and tutorials have been posted.  |  
+| Oct 25, 2023  | The official ACL 2024 website is launched.  |  
+## Important Dates  
+| Tutorials  | Sunday  | August 11, 2024  |  
+| --- | --- | --- |  
+| Main Conference  | Monday – Wednesday  | August 12 – 14, 2024  |  
+| Workshop  | Thursday - Friday  | August 15 -16, 2024  |  
+  
+**All deadlines are 11.59 pm (anywhere on earth).**
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>link<button>
+<button>Discounted Virtual Registration<button>
+<button>Call for D&I Socials and BoF Sessions<button>
+<button>Visa<button>
+<button>Accepted Main Conference Papers<button>
+<button>Registration<button>
+<button>Accepted Demo Papers<button>
+<button>Visa<button>
+<button>Call for Diversity and Inclusion Subsidies<button>
+<button>Participant<button>
+<button>Venue<button>
+<button>Call for Student Volunteers<button>
+<button>Call for System Demonstration<button>
+<button>Call for Student Research Workshop<button>
+<button>Call for Main Conference Papers<button>
+<button>Feed<button>
+
+----- WebWalker -----
+Memory:
+The Local Sponsors for ACL 2024 include TCEB, KBTG, ETDA, AIAT, NECTEC, and AI Thailand.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+"}
+
+----- WebWalker -----
+The "Local Sponsors" page seems to have redirected back to the main page. I need to explore other sections for information about local sponsors who can provide visa support documents. The "Visa" button might contain relevant information.
+
+Action: visit_page
+Action Input: {"button": "Visa"}
+
+----- VisitPage -----
+The web information is:
+
+]( 
+              
+Toggle menu
+  * Participants Information
+              * Venue
+            
+# Visa 
+####  On this page
+                              
+## Official Website
+**Visa Application Form**  
+<
+**Thai Embassy in Countries around the World**  
+<
+**Do I need a Visa to enter Thailand?**  
+<
+**Questions & Answers on Thai Visa**  
+<
+## Visa Guide
+If you need to apply a Visa, for the purpose of visit, please select “Participants of MICE Industry” as below picture   
+  
+!
+### TCEB
+Please prepare letter for Tourist-MICE Visa, or if Thai Embassy asks for a Letter from Thailand Convention and Exhibition Bureau (TCEB), please use this  for clarification 
+## Visa Exemption
+**Summary of Countries and Territories** (as of 9 May 2024)  
+### Traveling to Thailand without a visa for up to 90 days:
+Argentina, Brazil, Chile, South Korea, Peru
+### Traveling to Thailand without a visa for up to 30 days:
+Andorra, Australia, Austria, Belgium, Bahrain, Brunei, Canada, China, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, India, (11 May 24 –11 Nov24), Indonesia, Ireland, Israel, Italy, Japan, Kazakhstan (1 Mar 24–31 Aug 24), Kuwait, Latvia, Laos, Liechtenstein, Lithuania, Luxembourg, Malaysia, Maldives, Macau, Mauritius, Monaco, Mongolia, The Netherlands, New Zealand, Norway, Oman, The Philippines, Poland, Portugal, Qatar, Russia, San Marino, Saudi Arabia, Singapore, Slovak, Slovenia, Spain, South Africa, Sweden, Switzerland, Taiwan (11 May 24 –11 Nov 24), Turkey, Ukraine, UAE, UK, USA, Vietnam
+### Traveling to Thailand without a visa for up to 14 days:
+Cambodia, Myanmar
+### Additional Information for
+  * Chinese passport holders, please visit this 
+  * Indian passport holders , please visit this 
+## Visa on Arrival
+Bulgaria, Bhutan, Cyprus, Ethiopia, Fiji, Georgia, Malta, Mexico, Nauru, Papua New Guinea, Romania, Uzbekistan, Vanuatu
+The Thailand Visa On Arrival is only valid for 15 days, after which you have to leave the country; you cannot extend it.
+## More details on Visa Information
+Please visit this  from Ministry of Foreign Affairs, Kingdom of Thailand and 
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>Accommodation<button>
+<button>Ethical Policies<button>
+<button>Printing Services<button>
+<button>Venue<button>
+<button>Visa<button>
+<button>Travel<button>
+<button>Official Website<button>
+<button>Visa Guide<button>
+<button>TCEB<button>
+<button>Visa Exemption<button>
+<button>Traveling to Thailand without a visa for up to 90 days:<button>
+<button>Traveling to Thailand without a visa for up to 30 days:<button>
+<button>Traveling to Thailand without a visa for up to 14 days:<button>
+<button>Additional Information for<button>
+<button>Visa on Arrival<button>
+<button>More details on Visa Information<button>
+<button>Feed<button>
+
+----- WebWalker -----
+The "Visa" page mentions TCEB (Thailand Convention and Exhibition Bureau) as providing a letter for the Tourist-MICE Visa. This might be relevant for visa support documents. I will click on the "TCEB" button to get more details about their role in providing such documents.
+
+Action: visit_page
+Action Input: {"button": "TCEB"}
+
+----- VisitPage -----
+The web information is:
+
+]( 
+              
+Toggle menu
+#  The 62nd Annual Meeting of the Association for Computational Linguistics 
+Bangkok, Thailand  
+August 11–16, 2024 
+Photo by  on 
+## Welcome!
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.   
+## News
+** is officially open**
+**Printing order service will be opened for registration until 9 August, 06.00 pm (local time) **  
+| July 28, 2024  | Printing order service is officially open at this .  |  
+| --- | --- |  
+| July 20, 2024  | The application form for  is posted.  |  
+| July 11, 2024  |   is posted.  |  
+| July 9, 2024  | Tourist-MICE (Letter from Thailand Convention and Exhibition Bureau - TCEB) is available in  section  |  
+| July 7, 2024  |   is posted  |  
+| Jun 28, 2024  |   is now open.  |  
+| Jun 28, 2024  |   information has been updated.  |  
+| Jun 17, 2024  |   is posted  |  
+| Jun 13, 2024  | Visa Information is updated  |  
+| Jun 06, 2024  | Information about invitation letter is posted in   |  
+| Jun 04, 2024  |   is posted.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 25, 2024  |   information has been updated.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 5, 2024  |   updated: The conference will be held at Centara Grand and Bangkok Convention Centre.  |  
+| Apr 27, 2024  |   is posted.  |  
+| Mar 3, 2024  | The information about venue and visa details have been posted.  |  
+| Feb 26, 2024  | Submission link for  is posted.  |  
+| Jan 31, 2024  |   is posted.  |  
+| Jan 24, 2024  |   is posted.  |  
+| Jan 19, 2024  |   is posted.  |  
+| Nov 24, 2023  | The list of accepted workshops and tutorials have been posted.  |  
+| Oct 25, 2023  | The official ACL 2024 website is launched.  |  
+## Important Dates  
+| Tutorials  | Sunday  | August 11, 2024  |  
+| --- | --- | --- |  
+| Main Conference  | Monday – Wednesday  | August 12 – 14, 2024  |  
+| Workshop  | Thursday - Friday  | August 15 -16, 2024  |  
+  
+**All deadlines are 11.59 pm (anywhere on earth).**
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>link<button>
+<button>Discounted Virtual Registration<button>
+<button>Call for D&I Socials and BoF Sessions<button>
+<button>Visa<button>
+<button>Accepted Main Conference Papers<button>
+<button>Registration<button>
+<button>Accepted Demo Papers<button>
+<button>Visa<button>
+<button>Call for Diversity and Inclusion Subsidies<button>
+<button>Participant<button>
+<button>Venue<button>
+<button>Call for Student Volunteers<button>
+<button>Call for System Demonstration<button>
+<button>Call for Student Research Workshop<button>
+<button>Call for Main Conference Papers<button>
+<button>Feed<button>
+
+----- WebWalker -----
+Memory:
+The Local Sponsors for ACL 2024 include TCEB, KBTG, ETDA, AIAT, NECTEC, and AI Thailand.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+"}
+
+----- WebWalker -----
+The "TCEB" button seems to have redirected back to the main page. I need to explore other sections related to visa support documents. The "Visa Guide" button might contain more specific information about TCEB's role in providing such documents.
+
+Action: visit_page
+Action Input: {"button": "Visa Guide"}
+
+----- VisitPage -----
+The web information is:
+
+]( 
+              
+Toggle menu
+#  The 62nd Annual Meeting of the Association for Computational Linguistics 
+Bangkok, Thailand  
+August 11–16, 2024 
+Photo by  on 
+## Welcome!
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.   
+## News
+** is officially open**
+**Printing order service will be opened for registration until 9 August, 06.00 pm (local time) **  
+| July 28, 2024  | Printing order service is officially open at this .  |  
+| --- | --- |  
+| July 20, 2024  | The application form for  is posted.  |  
+| July 11, 2024  |   is posted.  |  
+| July 9, 2024  | Tourist-MICE (Letter from Thailand Convention and Exhibition Bureau - TCEB) is available in  section  |  
+| July 7, 2024  |   is posted  |  
+| Jun 28, 2024  |   is now open.  |  
+| Jun 28, 2024  |   information has been updated.  |  
+| Jun 17, 2024  |   is posted  |  
+| Jun 13, 2024  | Visa Information is updated  |  
+| Jun 06, 2024  | Information about invitation letter is posted in   |  
+| Jun 04, 2024  |   is posted.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 25, 2024  |   information has been updated.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 5, 2024  |   updated: The conference will be held at Centara Grand and Bangkok Convention Centre.  |  
+| Apr 27, 2024  |   is posted.  |  
+| Mar 3, 2024  | The information about venue and visa details have been posted.  |  
+| Feb 26, 2024  | Submission link for  is posted.  |  
+| Jan 31, 2024  |   is posted.  |  
+| Jan 24, 2024  |   is posted.  |  
+| Jan 19, 2024  |   is posted.  |  
+| Nov 24, 2023  | The list of accepted workshops and tutorials have been posted.  |  
+| Oct 25, 2023  | The official ACL 2024 website is launched.  |  
+## Important Dates  
+| Tutorials  | Sunday  | August 11, 2024  |  
+| --- | --- | --- |  
+| Main Conference  | Monday – Wednesday  | August 12 – 14, 2024  |  
+| Workshop  | Thursday - Friday  | August 15 -16, 2024  |  
+  
+**All deadlines are 11.59 pm (anywhere on earth).**
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>link<button>
+<button>Discounted Virtual Registration<button>
+<button>Call for D&I Socials and BoF Sessions<button>
+<button>Visa<button>
+<button>Accepted Main Conference Papers<button>
+<button>Registration<button>
+<button>Accepted Demo Papers<button>
+<button>Visa<button>
+<button>Call for Diversity and Inclusion Subsidies<button>
+<button>Participant<button>
+<button>Venue<button>
+<button>Call for Student Volunteers<button>
+<button>Call for System Demonstration<button>
+<button>Call for Student Research Workshop<button>
+<button>Call for Main Conference Papers<button>
+<button>Feed<button>
+
+----- WebWalker -----
+Memory:
+The Local Sponsors for ACL 2024 include TCEB, KBTG, ETDA, AIAT, NECTEC, and AI Thailand.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+"}
+
+----- WebWalker -----
+The "Visa Guide" page seems to have redirected back to the main page. I need to explore other sections related to visa support documents. The "Visa Exemption" button might contain more specific information about TCEB's role in providing such documents.
+
+Action: visit_page
+Action Input: {"button": "Visa Exemption"}
+
+----- VisitPage -----
+The web information is:
+
+]( 
+              
+Toggle menu
+#  The 62nd Annual Meeting of the Association for Computational Linguistics 
+Bangkok, Thailand  
+August 11–16, 2024 
+Photo by  on 
+## Welcome!
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.   
+## News
+** is officially open**
+**Printing order service will be opened for registration until 9 August, 06.00 pm (local time) **  
+| July 28, 2024  | Printing order service is officially open at this .  |  
+| --- | --- |  
+| July 20, 2024  | The application form for  is posted.  |  
+| July 11, 2024  |   is posted.  |  
+| July 9, 2024  | Tourist-MICE (Letter from Thailand Convention and Exhibition Bureau - TCEB) is available in  section  |  
+| July 7, 2024  |   is posted  |  
+| Jun 28, 2024  |   is now open.  |  
+| Jun 28, 2024  |   information has been updated.  |  
+| Jun 17, 2024  |   is posted  |  
+| Jun 13, 2024  | Visa Information is updated  |  
+| Jun 06, 2024  | Information about invitation letter is posted in   |  
+| Jun 04, 2024  |   is posted.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 25, 2024  |   information has been updated.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 5, 2024  |   updated: The conference will be held at Centara Grand and Bangkok Convention Centre.  |  
+| Apr 27, 2024  |   is posted.  |  
+| Mar 3, 2024  | The information about venue and visa details have been posted.  |  
+| Feb 26, 2024  | Submission link for  is posted.  |  
+| Jan 31, 2024  |   is posted.  |  
+| Jan 24, 2024  |   is posted.  |  
+| Jan 19, 2024  |   is posted.  |  
+| Nov 24, 2023  | The list of accepted workshops and tutorials have been posted.  |  
+| Oct 25, 2023  | The official ACL 2024 website is launched.  |  
+## Important Dates  
+| Tutorials  | Sunday  | August 11, 2024  |  
+| --- | --- | --- |  
+| Main Conference  | Monday – Wednesday  | August 12 – 14, 2024  |  
+| Workshop  | Thursday - Friday  | August 15 -16, 2024  |  
+  
+**All deadlines are 11.59 pm (anywhere on earth).**
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>link<button>
+<button>Discounted Virtual Registration<button>
+<button>Call for D&I Socials and BoF Sessions<button>
+<button>Visa<button>
+<button>Accepted Main Conference Papers<button>
+<button>Registration<button>
+<button>Accepted Demo Papers<button>
+<button>Visa<button>
+<button>Call for Diversity and Inclusion Subsidies<button>
+<button>Participant<button>
+<button>Venue<button>
+<button>Call for Student Volunteers<button>
+<button>Call for System Demonstration<button>
+<button>Call for Student Research Workshop<button>
+<button>Call for Main Conference Papers<button>
+<button>Feed<button>
+
+----- WebWalker -----
+Memory:
+The Local Sponsors for ACL 2024 include TCEB, KBTG, ETDA, AIAT, NECTEC, and AI Thailand.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+"}
+
+----- WebWalker -----
+The "Visa Exemption" page seems to have redirected back to the main page. I need to explore other sections related to visa support documents. The "Additional Information for" button might contain more specific information about TCEB's role in providing such documents.
+
+Action: visit_page
+Action Input: {"button": "Additional Information for"}
+
+----- VisitPage -----
+The web information is:
+
+]( 
+              
+Toggle menu
+#  The 62nd Annual Meeting of the Association for Computational Linguistics 
+Bangkok, Thailand  
+August 11–16, 2024 
+Photo by  on 
+## Welcome!
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.   
+## News
+** is officially open**
+**Printing order service will be opened for registration until 9 August, 06.00 pm (local time) **  
+| July 28, 2024  | Printing order service is officially open at this .  |  
+| --- | --- |  
+| July 20, 2024  | The application form for  is posted.  |  
+| July 11, 2024  |   is posted.  |  
+| July 9, 2024  | Tourist-MICE (Letter from Thailand Convention and Exhibition Bureau - TCEB) is available in  section  |  
+| July 7, 2024  |   is posted  |  
+| Jun 28, 2024  |   is now open.  |  
+| Jun 28, 2024  |   information has been updated.  |  
+| Jun 17, 2024  |   is posted  |  
+| Jun 13, 2024  | Visa Information is updated  |  
+| Jun 06, 2024  | Information about invitation letter is posted in   |  
+| Jun 04, 2024  |   is posted.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 25, 2024  |   information has been updated.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 5, 2024  |   updated: The conference will be held at Centara Grand and Bangkok Convention Centre.  |  
+| Apr 27, 2024  |   is posted.  |  
+| Mar 3, 2024  | The information about venue and visa details have been posted.  |  
+| Feb 26, 2024  | Submission link for  is posted.  |  
+| Jan 31, 2024  |   is posted.  |  
+| Jan 24, 2024  |   is posted.  |  
+| Jan 19, 2024  |   is posted.  |  
+| Nov 24, 2023  | The list of accepted workshops and tutorials have been posted.  |  
+| Oct 25, 2023  | The official ACL 2024 website is launched.  |  
+## Important Dates  
+| Tutorials  | Sunday  | August 11, 2024  |  
+| --- | --- | --- |  
+| Main Conference  | Monday – Wednesday  | August 12 – 14, 2024  |  
+| Workshop  | Thursday - Friday  | August 15 -16, 2024  |  
+  
+**All deadlines are 11.59 pm (anywhere on earth).**
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>link<button>
+<button>Discounted Virtual Registration<button>
+<button>Call for D&I Socials and BoF Sessions<button>
+<button>Visa<button>
+<button>Accepted Main Conference Papers<button>
+<button>Registration<button>
+<button>Accepted Demo Papers<button>
+<button>Visa<button>
+<button>Call for Diversity and Inclusion Subsidies<button>
+<button>Participant<button>
+<button>Venue<button>
+<button>Call for Student Volunteers<button>
+<button>Call for System Demonstration<button>
+<button>Call for Student Research Workshop<button>
+<button>Call for Main Conference Papers<button>
+<button>Feed<button>
+
+----- WebWalker -----
+Memory:
+The Local Sponsors for ACL 2024 include TCEB, KBTG, ETDA, AIAT, NECTEC, and AI Thailand.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+"}
+
+----- WebWalker -----
+The "Additional Information for" page seems to have redirected back to the main page. I need to explore other sections related to visa support documents. The "Visa on Arrival" button might contain more specific information about TCEB's role in providing such documents.
+
+Action: visit_page
+Action Input: {"button": "Visa on Arrival"}
+
+----- VisitPage -----
+The web information is:
+
+]( 
+              
+Toggle menu
+#  The 62nd Annual Meeting of the Association for Computational Linguistics 
+Bangkok, Thailand  
+August 11–16, 2024 
+Photo by  on 
+## Welcome!
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.   
+## News
+** is officially open**
+**Printing order service will be opened for registration until 9 August, 06.00 pm (local time) **  
+| July 28, 2024  | Printing order service is officially open at this .  |  
+| --- | --- |  
+| July 20, 2024  | The application form for  is posted.  |  
+| July 11, 2024  |   is posted.  |  
+| July 9, 2024  | Tourist-MICE (Letter from Thailand Convention and Exhibition Bureau - TCEB) is available in  section  |  
+| July 7, 2024  |   is posted  |  
+| Jun 28, 2024  |   is now open.  |  
+| Jun 28, 2024  |   information has been updated.  |  
+| Jun 17, 2024  |   is posted  |  
+| Jun 13, 2024  | Visa Information is updated  |  
+| Jun 06, 2024  | Information about invitation letter is posted in   |  
+| Jun 04, 2024  |   is posted.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 25, 2024  |   information has been updated.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 5, 2024  |   updated: The conference will be held at Centara Grand and Bangkok Convention Centre.  |  
+| Apr 27, 2024  |   is posted.  |  
+| Mar 3, 2024  | The information about venue and visa details have been posted.  |  
+| Feb 26, 2024  | Submission link for  is posted.  |  
+| Jan 31, 2024  |   is posted.  |  
+| Jan 24, 2024  |   is posted.  |  
+| Jan 19, 2024  |   is posted.  |  
+| Nov 24, 2023  | The list of accepted workshops and tutorials have been posted.  |  
+| Oct 25, 2023  | The official ACL 2024 website is launched.  |  
+## Important Dates  
+| Tutorials  | Sunday  | August 11, 2024  |  
+| --- | --- | --- |  
+| Main Conference  | Monday – Wednesday  | August 12 – 14, 2024  |  
+| Workshop  | Thursday - Friday  | August 15 -16, 2024  |  
+  
+**All deadlines are 11.59 pm (anywhere on earth).**
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>link<button>
+<button>Discounted Virtual Registration<button>
+<button>Call for D&I Socials and BoF Sessions<button>
+<button>Visa<button>
+<button>Accepted Main Conference Papers<button>
+<button>Registration<button>
+<button>Accepted Demo Papers<button>
+<button>Visa<button>
+<button>Call for Diversity and Inclusion Subsidies<button>
+<button>Participant<button>
+<button>Venue<button>
+<button>Call for Student Volunteers<button>
+<button>Call for System Demonstration<button>
+<button>Call for Student Research Workshop<button>
+<button>Call for Main Conference Papers<button>
+<button>Feed<button>
+
+----- WebWalker -----
+Memory:
+The Local Sponsors for ACL 2024 include TCEB, KBTG, ETDA, AIAT, NECTEC, and AI Thailand.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+-The observation mentions that visa information has been updated and is available in the 'Visa' section of the ACL 2024 website. However, it does not specifically mention any local sponsor providing visa support documents for obtaining a Thai visa.
+"}

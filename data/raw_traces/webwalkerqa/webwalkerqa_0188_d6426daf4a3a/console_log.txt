@@ -1,0 +1,1884 @@
+----- user -----
+query:
+广东工业大学计算机学院第二届全国大学生职业规划大赛院级选拔赛中进入最终现场评比环节的选手位置，并在最终成绩中获得一次二等奖的有多少位选手？
+official website:
+https://cs.gdut.edu.cn/
+Observation:website information:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+  * !
+  * !
+  * !
+  * !
+学院新闻
+ 
+]( 
+     
+2026.04.22 
+]( 
+     
+2026.04.13      
+2026.04.30      
+2026.04.30      
+2026.04.27      
+2026.04.21
+学院通知
+                            
+  
+学工动态
+  *  04-24
+  *  04-22
+  *  04-13
+  *  03-09
+  *  03-09
+  *  12-29
+  *  12-12
+  *  12-10
+  *  12-09
+  *  12-09
+  *  11-19
+  *  11-17
+  *  11-12
+  *  11-07
+招生就业
+  *  04-18
+  *  04-18
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  
+焦点展示
+  
+  
+  
+|   
+ |   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+|   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+ |  
+ |  
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+clickable button:
+
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>Previous<button>
+<button>Next<button>
+<button>更多+<button>
+<button>计算机学院举办中国国际大学生创新大赛（2026）院级选拔赛<button>
+<button>越秀校友会到计算机学院调研交流<button>
+<button>计算机学院办公室与实验室党支部开展《讲述家乡红色故事·凝聚砥砺...<button>
+<button>对话·成长·担当——计算机学院开展新学期“书记院长下午茶”活动<button>
+<button>计算机学院赴深圳开展访企拓岗与校友走访活动<button>
+<button>计算机学院党委书记、院长为学生讲授“思政第一课”<button>
+<button>更多+<button>
+<button>关于公布2026年接收转入计算机类第一轮笔试名单、ACM队员直接进入第二轮面...<button>
+<button>关于开展“励行领航者计划”出国研学项目申报工作的通知<button>
+<button>计算机学院2026年硕博连读及申请考核博士研究生招生综合考核结果公示<button>
+<button>2026年计算机学院报考博士研究生通过学院资格初审名单公示<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（二）<button>
+<button>​计算机学院转专业实施办法（2026年）<button>
+<button>广东工业大学计算机学院硕士研究生招生调剂通知（第1批）<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（一）<button>
+<button>计算机学院2026年硕士研究生招生复试工作方案<button>
+<button>计算机学院2026年计算机科学与技术专业 博士研究生招生实施细则<button>
+<button>计算机学院2026年“电子信息”专业型博士研究生招生细则<button>
+<button>计算机学院2026年1月临时困难资助公示<button>
+<button>计算机学院“澳硕班”2025年招生拟录取名单公示（二）<button>
+<button>2025年“绿盟公益基金-教育奖助学金” 获奖名单公示<button>
+<button>更多+<button>
+<button>赓续红色薪火·智创科技未来｜计算机学院第二十六届电脑文化节系列活动...<button>
+<button>践行优良学风，建设美丽校园 | 计算机学院举行“凝心聚力创一流，强国...<button>
+<button>学工部领导带队调研指导计算机学院“三进三促”工作<button>
+<button>【心海计划】计算机学院召开心委寒假返校工作会议<button>
+<button>计算机学院召开新学期学生工作研讨会<button>
+<button>计算机学院多维联动织密学风建设网 推动“强学风·树新风”专项行动走...<button>
+<button>IT青年“开放麦”开讲啦|计算机学院顺利举办第三届实践育人成果报告会<button>
+<button>暖心护航，“计”刻上岸——计算机学院开展考研送温暖活动<button>
+<button>四院联合举办2026届毕业生秋季校园招聘会圆满收官<button>
+<button>广工IT“小海豚”集合啦！以青春之名，赴全运之约！<button>
+<button>职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选...<button>
+<button>计算机学院组织学工队伍及学生骨干参观华南人民抗战历史专题展<button>
+<button>计算机学院研究生会功能型团支部成立并开展第一次主题团日活动​<button>
+<button>计算机学院赴沪宁高校调研教育部辅导员名师工作室建设<button>
+<button>更多+<button>
+<button>企业招聘信息汇编（一百一十）<button>
+<button>企业招聘信息汇编（一百零九）<button>
+<button>企业招聘信息汇编（一百零八）<button>
+<button>企业招聘信息汇编（一百零七）<button>
+<button>企业招聘信息汇编（一百零六）<button>
+<button>企业招聘信息汇编（一百零五）<button>
+<button>企业招聘信息汇编（一百零四）<button>
+<button>企业招聘信息汇编（一百零三）<button>
+<button>企业招聘信息汇编（一百零二）<button>
+<button>企业招聘信息汇编（一百零一）<button>
+<button>企业招聘信息汇编（一百）<button>
+<button>企业招聘信息汇编（九十九）<button>
+<button>企业招聘信息汇编（九十八）<button>
+<button>企业招聘信息汇编（九十七）<button>
+<button>更多+<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the page that contains information about the "第二届全国大学生职业规划大赛院级选拔赛" and then locate the number of participants who won the second prize. The first step is to click on the relevant button related to the event.
+
+Action: visit_page
+Action Input: {"button": "职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选..."}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+学生工作
+          
+###  学工动态
+当前位置:  >>  >>  >> 正文 
+职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选拔赛
+日期： 2025-11-19 信息来源： 点击数: 213 
+为持续深化计算机学院生涯教育与就业指导工作，增强低年级学生生涯规划意识，引导其提前做好就业筹备，助力高年级学生实现高质量充分就业。计算机学院于11月11日下午在大学城校区工学一号馆学术报告厅举办第三届全国大学生职业规划大赛院级选拔赛。计算机学院党委副书记胡静、学校学生就业指导中心副主任张明、学院团委书记柯婷、学校就业指导中心高飞以及学院就业创业骨干导师出席本次比赛，学院各年级100余名学生代表到场观看比赛。
+!
+计算机学院院级选拔赛自报名启动以来，受到学院师生的广泛关注。本学期伊始，学院就业创业骨干导师依托本科生《大学生职业规划与创业教育》课程与研究生开学教育，开展前期职业生涯启蒙教育，因此本届参赛选手中低年级学生占比颇高，参与热情十分高涨。本次比赛经过半个月的精心筹划与筹备，历经个人报名、多轮赛前培训、赛前作品初评等环节，最终有 19 名选手脱颖而出，晋级最终的现场评比环节。
+!
+现场评比中，两大赛道的选手们各展所长，带来了一场兼具思想深度与实践温度的职业规划展示。成长赛道的选手们围绕职业目标确立、行动路径设计、成长反思调整等内容，用清晰的逻辑和鲜活的案例，讲述了自己在数字领域探索成长的故事；就业赛道的选手们则立足岗位需求，全面展现了自身在信息技术应用、问题解决等方面的综合能力，以及适配职场的职业素养。选手们的展示紧扣时代发展脉搏，既贴合计算机领域的行业趋势，又融入了服务广东产业发展、助力数字强国建设的责任担当，创意新颖、特色鲜明，充分彰显了IT学子扎根领域、勇闯未来的青春风貌。评委老师们结合选手表现进行专业提问与细致点评，既肯定了大家的规划亮点，也给出了针对性的优化建议，助力同学们进一步完善职业发展路径。
+!
+评审团代表张明老师在总结点评中对参赛学子的表现给予充分肯定，称赞计算机学子脑洞开阔、实践经历丰富，不少低年级同学早有信息类竞赛、程序开发等相关积累，潜力突出，同时提醒大家重视现存不足并积极改进。首先要精准定位目标岗位，避免方向模糊，聚焦适配自身的职业赛道；其次要深挖经历价值，将过往实践与岗位所需能力关联，讲好个人成长故事；最后要注重展示效果，以自信的状态呈现个性风采，兼顾内容逻辑与舞台表达，通过持续打磨提升职业竞争力。
+!
+本次院级选拔赛的举办，以赛促学、以赛促就，有效挖掘了学子潜力，帮助同学们明确职业方向，切实提升了IT学子的综合素质与就业竞争力，为学院就业育人工作筑牢基础。未来，计算机学院将持续强化就业育人实效，通过多形式就业指导深耕学子职业规划能力培养，补短板、提质量，扎实推进后续赛事筹备工作，助力学子稳步提升就业实力、实现高质量就业，力争在更高平台展现计算机学院学子的职业风采。
+(文：杨凯茜；图：沈彦丞；审核：胡静)
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+
+----- WebWalker -----
+Memory:
+-在广东工业大学计算机学院第二届全国大学生职业规划大赛院级选拔赛中，最终进入现场评比环节的选手共有19位。但观察内容中并未提及最终成绩中获得二等奖的具体人数。
+"}
+
+----- WebWalker -----
+Thought: The information about the number of participants who won the second prize is not directly mentioned in the current page. I need to check if there are any other pages or sections that might contain this data, such as a results page or an official announcement related to the competition.
+
+Action: visit_page
+Action Input: {"button": "Previous"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+  * !
+  * !
+  * !
+  * !
+学院新闻
+ 
+]( 
+     
+2026.04.22 
+]( 
+     
+2026.04.13      
+2026.04.30      
+2026.04.30      
+2026.04.27      
+2026.04.21
+学院通知
+                            
+  
+学工动态
+  *  04-24
+  *  04-22
+  *  04-13
+  *  03-09
+  *  03-09
+  *  12-29
+  *  12-12
+  *  12-10
+  *  12-09
+  *  12-09
+  *  11-19
+  *  11-17
+  *  11-12
+  *  11-07
+招生就业
+  *  04-18
+  *  04-18
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  
+焦点展示
+  
+  
+  
+|   
+ |   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+|   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+ |  
+ |  
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>Previous<button>
+<button>Next<button>
+<button>更多+<button>
+<button>计算机学院举办中国国际大学生创新大赛（2026）院级选拔赛<button>
+<button>越秀校友会到计算机学院调研交流<button>
+<button>计算机学院办公室与实验室党支部开展《讲述家乡红色故事·凝聚砥砺...<button>
+<button>对话·成长·担当——计算机学院开展新学期“书记院长下午茶”活动<button>
+<button>计算机学院赴深圳开展访企拓岗与校友走访活动<button>
+<button>计算机学院党委书记、院长为学生讲授“思政第一课”<button>
+<button>更多+<button>
+<button>关于公布2026年接收转入计算机类第一轮笔试名单、ACM队员直接进入第二轮面...<button>
+<button>关于开展“励行领航者计划”出国研学项目申报工作的通知<button>
+<button>计算机学院2026年硕博连读及申请考核博士研究生招生综合考核结果公示<button>
+<button>2026年计算机学院报考博士研究生通过学院资格初审名单公示<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（二）<button>
+<button>​计算机学院转专业实施办法（2026年）<button>
+<button>广东工业大学计算机学院硕士研究生招生调剂通知（第1批）<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（一）<button>
+<button>计算机学院2026年硕士研究生招生复试工作方案<button>
+<button>计算机学院2026年计算机科学与技术专业 博士研究生招生实施细则<button>
+<button>计算机学院2026年“电子信息”专业型博士研究生招生细则<button>
+<button>计算机学院2026年1月临时困难资助公示<button>
+<button>计算机学院“澳硕班”2025年招生拟录取名单公示（二）<button>
+<button>2025年“绿盟公益基金-教育奖助学金” 获奖名单公示<button>
+<button>更多+<button>
+<button>赓续红色薪火·智创科技未来｜计算机学院第二十六届电脑文化节系列活动...<button>
+<button>践行优良学风，建设美丽校园 | 计算机学院举行“凝心聚力创一流，强国...<button>
+<button>学工部领导带队调研指导计算机学院“三进三促”工作<button>
+<button>【心海计划】计算机学院召开心委寒假返校工作会议<button>
+<button>计算机学院召开新学期学生工作研讨会<button>
+<button>计算机学院多维联动织密学风建设网 推动“强学风·树新风”专项行动走...<button>
+<button>IT青年“开放麦”开讲啦|计算机学院顺利举办第三届实践育人成果报告会<button>
+<button>暖心护航，“计”刻上岸——计算机学院开展考研送温暖活动<button>
+<button>四院联合举办2026届毕业生秋季校园招聘会圆满收官<button>
+<button>广工IT“小海豚”集合啦！以青春之名，赴全运之约！<button>
+<button>职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选...<button>
+<button>计算机学院组织学工队伍及学生骨干参观华南人民抗战历史专题展<button>
+<button>计算机学院研究生会功能型团支部成立并开展第一次主题团日活动​<button>
+<button>计算机学院赴沪宁高校调研教育部辅导员名师工作室建设<button>
+<button>更多+<button>
+<button>企业招聘信息汇编（一百一十）<button>
+<button>企业招聘信息汇编（一百零九）<button>
+<button>企业招聘信息汇编（一百零八）<button>
+<button>企业招聘信息汇编（一百零七）<button>
+<button>企业招聘信息汇编（一百零六）<button>
+<button>企业招聘信息汇编（一百零五）<button>
+<button>企业招聘信息汇编（一百零四）<button>
+<button>企业招聘信息汇编（一百零三）<button>
+<button>企业招聘信息汇编（一百零二）<button>
+<button>企业招聘信息汇编（一百零一）<button>
+<button>企业招聘信息汇编（一百）<button>
+<button>企业招聘信息汇编（九十九）<button>
+<button>企业招聘信息汇编（九十八）<button>
+<button>企业招聘信息汇编（九十七）<button>
+<button>更多+<button>
+
+----- WebWalker -----
+Thought: The information about the number of participants who won the second prize is not directly mentioned in the current page. I need to check if there are any other pages or sections that might contain this data, such as a results page or an official announcement related to the competition.
+
+Action: visit_page
+Action Input: {"button": "Next"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+  * !
+  * !
+  * !
+  * !
+学院新闻
+ 
+]( 
+     
+2026.04.22 
+]( 
+     
+2026.04.13      
+2026.04.30      
+2026.04.30      
+2026.04.27      
+2026.04.21
+学院通知
+                            
+  
+学工动态
+  *  04-24
+  *  04-22
+  *  04-13
+  *  03-09
+  *  03-09
+  *  12-29
+  *  12-12
+  *  12-10
+  *  12-09
+  *  12-09
+  *  11-19
+  *  11-17
+  *  11-12
+  *  11-07
+招生就业
+  *  04-18
+  *  04-18
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  
+焦点展示
+  
+  
+  
+|   
+ |   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+|   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+ |  
+ |  
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>Previous<button>
+<button>Next<button>
+<button>更多+<button>
+<button>计算机学院举办中国国际大学生创新大赛（2026）院级选拔赛<button>
+<button>越秀校友会到计算机学院调研交流<button>
+<button>计算机学院办公室与实验室党支部开展《讲述家乡红色故事·凝聚砥砺...<button>
+<button>对话·成长·担当——计算机学院开展新学期“书记院长下午茶”活动<button>
+<button>计算机学院赴深圳开展访企拓岗与校友走访活动<button>
+<button>计算机学院党委书记、院长为学生讲授“思政第一课”<button>
+<button>更多+<button>
+<button>关于公布2026年接收转入计算机类第一轮笔试名单、ACM队员直接进入第二轮面...<button>
+<button>关于开展“励行领航者计划”出国研学项目申报工作的通知<button>
+<button>计算机学院2026年硕博连读及申请考核博士研究生招生综合考核结果公示<button>
+<button>2026年计算机学院报考博士研究生通过学院资格初审名单公示<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（二）<button>
+<button>​计算机学院转专业实施办法（2026年）<button>
+<button>广东工业大学计算机学院硕士研究生招生调剂通知（第1批）<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（一）<button>
+<button>计算机学院2026年硕士研究生招生复试工作方案<button>
+<button>计算机学院2026年计算机科学与技术专业 博士研究生招生实施细则<button>
+<button>计算机学院2026年“电子信息”专业型博士研究生招生细则<button>
+<button>计算机学院2026年1月临时困难资助公示<button>
+<button>计算机学院“澳硕班”2025年招生拟录取名单公示（二）<button>
+<button>2025年“绿盟公益基金-教育奖助学金” 获奖名单公示<button>
+<button>更多+<button>
+<button>赓续红色薪火·智创科技未来｜计算机学院第二十六届电脑文化节系列活动...<button>
+<button>践行优良学风，建设美丽校园 | 计算机学院举行“凝心聚力创一流，强国...<button>
+<button>学工部领导带队调研指导计算机学院“三进三促”工作<button>
+<button>【心海计划】计算机学院召开心委寒假返校工作会议<button>
+<button>计算机学院召开新学期学生工作研讨会<button>
+<button>计算机学院多维联动织密学风建设网 推动“强学风·树新风”专项行动走...<button>
+<button>IT青年“开放麦”开讲啦|计算机学院顺利举办第三届实践育人成果报告会<button>
+<button>暖心护航，“计”刻上岸——计算机学院开展考研送温暖活动<button>
+<button>四院联合举办2026届毕业生秋季校园招聘会圆满收官<button>
+<button>广工IT“小海豚”集合啦！以青春之名，赴全运之约！<button>
+<button>职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选...<button>
+<button>计算机学院组织学工队伍及学生骨干参观华南人民抗战历史专题展<button>
+<button>计算机学院研究生会功能型团支部成立并开展第一次主题团日活动​<button>
+<button>计算机学院赴沪宁高校调研教育部辅导员名师工作室建设<button>
+<button>更多+<button>
+<button>企业招聘信息汇编（一百一十）<button>
+<button>企业招聘信息汇编（一百零九）<button>
+<button>企业招聘信息汇编（一百零八）<button>
+<button>企业招聘信息汇编（一百零七）<button>
+<button>企业招聘信息汇编（一百零六）<button>
+<button>企业招聘信息汇编（一百零五）<button>
+<button>企业招聘信息汇编（一百零四）<button>
+<button>企业招聘信息汇编（一百零三）<button>
+<button>企业招聘信息汇编（一百零二）<button>
+<button>企业招聘信息汇编（一百零一）<button>
+<button>企业招聘信息汇编（一百）<button>
+<button>企业招聘信息汇编（九十九）<button>
+<button>企业招聘信息汇编（九十八）<button>
+<button>企业招聘信息汇编（九十七）<button>
+<button>更多+<button>
+
+----- WebWalker -----
+Thought: The information about the number of participants who won the second prize is not directly mentioned in the current page. I need to check if there are any other pages or sections that might contain this data, such as a results page or an official announcement related to the competition.
+
+Action: visit_page
+Action Input: {"button": "学工动态"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+学生工作
+          
+###  学工动态
+当前位置:  >>  >> 
+  *  2026-04-24 
+  *  2026-04-22 
+  *  2026-04-13 
+  *  2026-03-09 
+  *  2026-03-09 
+  *  2025-12-29 
+  *  2025-12-12 
+  *  2025-12-10 
+  *  2025-12-09 
+  *  2025-12-09 
+  *  2025-11-19 
+  *  2025-11-17 
+  *  2025-11-12 
+  *  2025-11-07 
+  *  2025-11-06 
+  
+共395条 首页上页1...
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>赓续红色薪火·智创科技未来｜计算机学院第二十六届电脑文化节系列活动圆满落幕<button>
+<button>践行优良学风，建设美丽校园 | 计算机学院举行“凝心聚力创一流，强国兴校勇担当”升国旗主题教育活动<button>
+<button>学工部领导带队调研指导计算机学院“三进三促”工作<button>
+<button>【心海计划】计算机学院召开心委寒假返校工作会议<button>
+<button>计算机学院召开新学期学生工作研讨会<button>
+<button>计算机学院多维联动织密学风建设网 推动“强学风·树新风”专项行动走深走实<button>
+<button>IT青年“开放麦”开讲啦|计算机学院顺利举办第三届实践育人成果报告会<button>
+<button>暖心护航，“计”刻上岸——计算机学院开展考研送温暖活动<button>
+<button>四院联合举办2026届毕业生秋季校园招聘会圆满收官<button>
+<button>广工IT“小海豚”集合啦！以青春之名，赴全运之约！<button>
+<button>职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选拔赛<button>
+<button>计算机学院组织学工队伍及学生骨干参观华南人民抗战历史专题展<button>
+<button>计算机学院研究生会功能型团支部成立并开展第一次主题团日活动​<button>
+<button>计算机学院赴沪宁高校调研教育部辅导员名师工作室建设<button>
+<button>计算机学院举行“铭记历史当自强，奋勇逐梦谱华章”升国旗主题教育活动<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>27<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: The "学工动态" page lists news items, and the entry about the "第三届全国大学生职业规划大赛院级选拔赛" is present. I need to click on that specific button to retrieve more detailed information about the competition results.
+
+Action: visit_page
+Action Input: {"button": "职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选拔赛"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+学生工作
+          
+###  学工动态
+当前位置:  >>  >>  >> 正文 
+职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选拔赛
+日期： 2025-11-19 信息来源： 点击数:
+为持续深化计算机学院生涯教育与就业指导工作，增强低年级学生生涯规划意识，引导其提前做好就业筹备，助力高年级学生实现高质量充分就业。计算机学院于11月11日下午在大学城校区工学一号馆学术报告厅举办第三届全国大学生职业规划大赛院级选拔赛。计算机学院党委副书记胡静、学校学生就业指导中心副主任张明、学院团委书记柯婷、学校就业指导中心高飞以及学院就业创业骨干导师出席本次比赛，学院各年级100余名学生代表到场观看比赛。
+!
+计算机学院院级选拔赛自报名启动以来，受到学院师生的广泛关注。本学期伊始，学院就业创业骨干导师依托本科生《大学生职业规划与创业教育》课程与研究生开学教育，开展前期职业生涯启蒙教育，因此本届参赛选手中低年级学生占比颇高，参与热情十分高涨。本次比赛经过半个月的精心筹划与筹备，历经个人报名、多轮赛前培训、赛前作品初评等环节，最终有 19 名选手脱颖而出，晋级最终的现场评比环节。
+!
+现场评比中，两大赛道的选手们各展所长，带来了一场兼具思想深度与实践温度的职业规划展示。成长赛道的选手们围绕职业目标确立、行动路径设计、成长反思调整等内容，用清晰的逻辑和鲜活的案例，讲述了自己在数字领域探索成长的故事；就业赛道的选手们则立足岗位需求，全面展现了自身在信息技术应用、问题解决等方面的综合能力，以及适配职场的职业素养。选手们的展示紧扣时代发展脉搏，既贴合计算机领域的行业趋势，又融入了服务广东产业发展、助力数字强国建设的责任担当，创意新颖、特色鲜明，充分彰显了IT学子扎根领域、勇闯未来的青春风貌。评委老师们结合选手表现进行专业提问与细致点评，既肯定了大家的规划亮点，也给出了针对性的优化建议，助力同学们进一步完善职业发展路径。
+!
+评审团代表张明老师在总结点评中对参赛学子的表现给予充分肯定，称赞计算机学子脑洞开阔、实践经历丰富，不少低年级同学早有信息类竞赛、程序开发等相关积累，潜力突出，同时提醒大家重视现存不足并积极改进。首先要精准定位目标岗位，避免方向模糊，聚焦适配自身的职业赛道；其次要深挖经历价值，将过往实践与岗位所需能力关联，讲好个人成长故事；最后要注重展示效果，以自信的状态呈现个性风采，兼顾内容逻辑与舞台表达，通过持续打磨提升职业竞争力。
+!
+本次院级选拔赛的举办，以赛促学、以赛促就，有效挖掘了学子潜力，帮助同学们明确职业方向，切实提升了IT学子的综合素质与就业竞争力，为学院就业育人工作筑牢基础。未来，计算机学院将持续强化就业育人实效，通过多形式就业指导深耕学子职业规划能力培养，补短板、提质量，扎实推进后续赛事筹备工作，助力学子稳步提升就业实力、实现高质量就业，力争在更高平台展现计算机学院学子的职业风采。
+(文：杨凯茜；图：沈彦丞；审核：胡静)
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+
+----- WebWalker -----
+Memory:
+在广东工业大学计算机学院第二届全国大学生职业规划大赛院级选拔赛中，最终进入现场评比环节的选手共有19位。但观察内容中并未提及最终成绩中获得二等奖的具体人数。
+-在广东工业大学计算机学院第二届全国大学生职业规划大赛院级选拔赛中，最终进入现场评比环节的选手共有19位。但观察内容中并未提及获得二等奖的具体人数。
+"}
+
+----- WebWalker -----
+Thought: The information about the number of participants who won the second prize is not directly mentioned in the current page. I need to check if there are any other pages or sections that might contain this data, such as a results page or an official announcement related to the competition.
+
+Action: visit_page
+Action Input: {"button": "Previous"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+  * !
+  * !
+  * !
+  * !
+学院新闻
+ 
+]( 
+     
+2026.04.22 
+]( 
+     
+2026.04.13      
+2026.04.30      
+2026.04.30      
+2026.04.27      
+2026.04.21
+学院通知
+                            
+  
+学工动态
+  *  04-24
+  *  04-22
+  *  04-13
+  *  03-09
+  *  03-09
+  *  12-29
+  *  12-12
+  *  12-10
+  *  12-09
+  *  12-09
+  *  11-19
+  *  11-17
+  *  11-12
+  *  11-07
+招生就业
+  *  04-18
+  *  04-18
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  
+焦点展示
+  
+  
+  
+|   
+ |   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+|   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+ |  
+ |  
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>Previous<button>
+<button>Next<button>
+<button>更多+<button>
+<button>计算机学院举办中国国际大学生创新大赛（2026）院级选拔赛<button>
+<button>越秀校友会到计算机学院调研交流<button>
+<button>计算机学院办公室与实验室党支部开展《讲述家乡红色故事·凝聚砥砺...<button>
+<button>对话·成长·担当——计算机学院开展新学期“书记院长下午茶”活动<button>
+<button>计算机学院赴深圳开展访企拓岗与校友走访活动<button>
+<button>计算机学院党委书记、院长为学生讲授“思政第一课”<button>
+<button>更多+<button>
+<button>关于公布2026年接收转入计算机类第一轮笔试名单、ACM队员直接进入第二轮面...<button>
+<button>关于开展“励行领航者计划”出国研学项目申报工作的通知<button>
+<button>计算机学院2026年硕博连读及申请考核博士研究生招生综合考核结果公示<button>
+<button>2026年计算机学院报考博士研究生通过学院资格初审名单公示<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（二）<button>
+<button>​计算机学院转专业实施办法（2026年）<button>
+<button>广东工业大学计算机学院硕士研究生招生调剂通知（第1批）<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（一）<button>
+<button>计算机学院2026年硕士研究生招生复试工作方案<button>
+<button>计算机学院2026年计算机科学与技术专业 博士研究生招生实施细则<button>
+<button>计算机学院2026年“电子信息”专业型博士研究生招生细则<button>
+<button>计算机学院2026年1月临时困难资助公示<button>
+<button>计算机学院“澳硕班”2025年招生拟录取名单公示（二）<button>
+<button>2025年“绿盟公益基金-教育奖助学金” 获奖名单公示<button>
+<button>更多+<button>
+<button>赓续红色薪火·智创科技未来｜计算机学院第二十六届电脑文化节系列活动...<button>
+<button>践行优良学风，建设美丽校园 | 计算机学院举行“凝心聚力创一流，强国...<button>
+<button>学工部领导带队调研指导计算机学院“三进三促”工作<button>
+<button>【心海计划】计算机学院召开心委寒假返校工作会议<button>
+<button>计算机学院召开新学期学生工作研讨会<button>
+<button>计算机学院多维联动织密学风建设网 推动“强学风·树新风”专项行动走...<button>
+<button>IT青年“开放麦”开讲啦|计算机学院顺利举办第三届实践育人成果报告会<button>
+<button>暖心护航，“计”刻上岸——计算机学院开展考研送温暖活动<button>
+<button>四院联合举办2026届毕业生秋季校园招聘会圆满收官<button>
+<button>广工IT“小海豚”集合啦！以青春之名，赴全运之约！<button>
+<button>职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选...<button>
+<button>计算机学院组织学工队伍及学生骨干参观华南人民抗战历史专题展<button>
+<button>计算机学院研究生会功能型团支部成立并开展第一次主题团日活动​<button>
+<button>计算机学院赴沪宁高校调研教育部辅导员名师工作室建设<button>
+<button>更多+<button>
+<button>企业招聘信息汇编（一百一十）<button>
+<button>企业招聘信息汇编（一百零九）<button>
+<button>企业招聘信息汇编（一百零八）<button>
+<button>企业招聘信息汇编（一百零七）<button>
+<button>企业招聘信息汇编（一百零六）<button>
+<button>企业招聘信息汇编（一百零五）<button>
+<button>企业招聘信息汇编（一百零四）<button>
+<button>企业招聘信息汇编（一百零三）<button>
+<button>企业招聘信息汇编（一百零二）<button>
+<button>企业招聘信息汇编（一百零一）<button>
+<button>企业招聘信息汇编（一百）<button>
+<button>企业招聘信息汇编（九十九）<button>
+<button>企业招聘信息汇编（九十八）<button>
+<button>企业招聘信息汇编（九十七）<button>
+<button>更多+<button>
+
+----- WebWalker -----
+Thought: The information about the number of participants who won the second prize is not directly mentioned in the current page. I need to check if there are any other pages or sections that might contain this data, such as a results page or an official announcement related to the competition.
+
+Action: visit_page
+Action Input: {"button": "Next"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+  * !
+  * !
+  * !
+  * !
+学院新闻
+ 
+]( 
+     
+2026.04.22 
+]( 
+     
+2026.04.13      
+2026.04.30      
+2026.04.30      
+2026.04.27      
+2026.04.21
+学院通知
+                            
+  
+学工动态
+  *  04-24
+  *  04-22
+  *  04-13
+  *  03-09
+  *  03-09
+  *  12-29
+  *  12-12
+  *  12-10
+  *  12-09
+  *  12-09
+  *  11-19
+  *  11-17
+  *  11-12
+  *  11-07
+招生就业
+  *  04-18
+  *  04-18
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  
+焦点展示
+  
+  
+  
+|   
+ |   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+|   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+ |  
+ |  
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>Previous<button>
+<button>Next<button>
+<button>更多+<button>
+<button>计算机学院举办中国国际大学生创新大赛（2026）院级选拔赛<button>
+<button>越秀校友会到计算机学院调研交流<button>
+<button>计算机学院办公室与实验室党支部开展《讲述家乡红色故事·凝聚砥砺...<button>
+<button>对话·成长·担当——计算机学院开展新学期“书记院长下午茶”活动<button>
+<button>计算机学院赴深圳开展访企拓岗与校友走访活动<button>
+<button>计算机学院党委书记、院长为学生讲授“思政第一课”<button>
+<button>更多+<button>
+<button>关于公布2026年接收转入计算机类第一轮笔试名单、ACM队员直接进入第二轮面...<button>
+<button>关于开展“励行领航者计划”出国研学项目申报工作的通知<button>
+<button>计算机学院2026年硕博连读及申请考核博士研究生招生综合考核结果公示<button>
+<button>2026年计算机学院报考博士研究生通过学院资格初审名单公示<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（二）<button>
+<button>​计算机学院转专业实施办法（2026年）<button>
+<button>广东工业大学计算机学院硕士研究生招生调剂通知（第1批）<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（一）<button>
+<button>计算机学院2026年硕士研究生招生复试工作方案<button>
+<button>计算机学院2026年计算机科学与技术专业 博士研究生招生实施细则<button>
+<button>计算机学院2026年“电子信息”专业型博士研究生招生细则<button>
+<button>计算机学院2026年1月临时困难资助公示<button>
+<button>计算机学院“澳硕班”2025年招生拟录取名单公示（二）<button>
+<button>2025年“绿盟公益基金-教育奖助学金” 获奖名单公示<button>
+<button>更多+<button>
+<button>赓续红色薪火·智创科技未来｜计算机学院第二十六届电脑文化节系列活动...<button>
+<button>践行优良学风，建设美丽校园 | 计算机学院举行“凝心聚力创一流，强国...<button>
+<button>学工部领导带队调研指导计算机学院“三进三促”工作<button>
+<button>【心海计划】计算机学院召开心委寒假返校工作会议<button>
+<button>计算机学院召开新学期学生工作研讨会<button>
+<button>计算机学院多维联动织密学风建设网 推动“强学风·树新风”专项行动走...<button>
+<button>IT青年“开放麦”开讲啦|计算机学院顺利举办第三届实践育人成果报告会<button>
+<button>暖心护航，“计”刻上岸——计算机学院开展考研送温暖活动<button>
+<button>四院联合举办2026届毕业生秋季校园招聘会圆满收官<button>
+<button>广工IT“小海豚”集合啦！以青春之名，赴全运之约！<button>
+<button>职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选...<button>
+<button>计算机学院组织学工队伍及学生骨干参观华南人民抗战历史专题展<button>
+<button>计算机学院研究生会功能型团支部成立并开展第一次主题团日活动​<button>
+<button>计算机学院赴沪宁高校调研教育部辅导员名师工作室建设<button>
+<button>更多+<button>
+<button>企业招聘信息汇编（一百一十）<button>
+<button>企业招聘信息汇编（一百零九）<button>
+<button>企业招聘信息汇编（一百零八）<button>
+<button>企业招聘信息汇编（一百零七）<button>
+<button>企业招聘信息汇编（一百零六）<button>
+<button>企业招聘信息汇编（一百零五）<button>
+<button>企业招聘信息汇编（一百零四）<button>
+<button>企业招聘信息汇编（一百零三）<button>
+<button>企业招聘信息汇编（一百零二）<button>
+<button>企业招聘信息汇编（一百零一）<button>
+<button>企业招聘信息汇编（一百）<button>
+<button>企业招聘信息汇编（九十九）<button>
+<button>企业招聘信息汇编（九十八）<button>
+<button>企业招聘信息汇编（九十七）<button>
+<button>更多+<button>
+
+----- WebWalker -----
+Thought: The information about the number of participants who won the second prize is not directly mentioned in the current page. I need to check if there are any other pages or sections that might contain this data, such as a results page or an official announcement related to the competition.
+
+Action: visit_page
+Action Input: {"button": "学工动态"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+学生工作
+          
+###  学工动态
+当前位置:  >>  >> 
+  *  2026-04-24 
+  *  2026-04-22 
+  *  2026-04-13 
+  *  2026-03-09 
+  *  2026-03-09 
+  *  2025-12-29 
+  *  2025-12-12 
+  *  2025-12-10 
+  *  2025-12-09 
+  *  2025-12-09 
+  *  2025-11-19 
+  *  2025-11-17 
+  *  2025-11-12 
+  *  2025-11-07 
+  *  2025-11-06 
+  
+共395条 首页上页1...
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>赓续红色薪火·智创科技未来｜计算机学院第二十六届电脑文化节系列活动圆满落幕<button>
+<button>践行优良学风，建设美丽校园 | 计算机学院举行“凝心聚力创一流，强国兴校勇担当”升国旗主题教育活动<button>
+<button>学工部领导带队调研指导计算机学院“三进三促”工作<button>
+<button>【心海计划】计算机学院召开心委寒假返校工作会议<button>
+<button>计算机学院召开新学期学生工作研讨会<button>
+<button>计算机学院多维联动织密学风建设网 推动“强学风·树新风”专项行动走深走实<button>
+<button>IT青年“开放麦”开讲啦|计算机学院顺利举办第三届实践育人成果报告会<button>
+<button>暖心护航，“计”刻上岸——计算机学院开展考研送温暖活动<button>
+<button>四院联合举办2026届毕业生秋季校园招聘会圆满收官<button>
+<button>广工IT“小海豚”集合啦！以青春之名，赴全运之约！<button>
+<button>职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选拔赛<button>
+<button>计算机学院组织学工队伍及学生骨干参观华南人民抗战历史专题展<button>
+<button>计算机学院研究生会功能型团支部成立并开展第一次主题团日活动​<button>
+<button>计算机学院赴沪宁高校调研教育部辅导员名师工作室建设<button>
+<button>计算机学院举行“铭记历史当自强，奋勇逐梦谱华章”升国旗主题教育活动<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>27<button>
+<button>下页<button>
+<button>尾页<button>

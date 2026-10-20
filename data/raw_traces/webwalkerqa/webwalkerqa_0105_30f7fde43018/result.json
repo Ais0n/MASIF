@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0105_30f7fde43018",
+  "source_index": 105,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在西安电子科技大学的机关党支部书记与第三届茅盾文学奖的获奖校友中，谁在各自领域中达到了卓越成就？",
+  "prompt": "在西安电子科技大学的机关党支部书记与第三届茅盾文学奖的获奖校友中，谁在各自领域中达到了卓越成就？",
+  "expected_answer": "赵韩强和凌力",
+  "root_url": "https://cs.xidian.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xidian.edu.cn/info/1313/8226.htm",
+      "https://cs.xidian.edu.cn/info/1058/7470.htm"
+    ],
+    "golden_path": [
+      "root->组织机构->机关党支部",
+      "root->杰出校友->61级凌力 第三届矛盾文学奖获得者"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在西安电子科技大学的杰出校友中，凌力是第三届茅盾文学奖的获得者，他在文学领域中达到了卓越成就。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 26.507,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0105_30f7fde43018/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0105_30f7fde43018/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"verdict\": \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

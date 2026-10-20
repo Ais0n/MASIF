@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0374_a783e08846df",
+  "source_index": 374,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年东南大学研究生国家奖学金评审中，由学院分配的博士生和硕士生名额分别是多少？",
+  "prompt": "在2024年东南大学研究生国家奖学金评审中，由学院分配的博士生和硕士生名额分别是多少？",
+  "expected_answer": "博士名额共计4个，硕士名额共计12个。",
+  "root_url": "https://cse.seu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.seu.edu.cn/2024/0930/c49343a504757/page.htm"
+    ],
+    "golden_path": [
+      "root->院长书记信箱->首页->【研究生】关于做好学院2024年研究生国家奖学金和至善奖学金评审...09-30"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.842,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0374_a783e08846df/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0374_a783e08846df/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

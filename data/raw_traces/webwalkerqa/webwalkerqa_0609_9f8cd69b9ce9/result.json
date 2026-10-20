@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0609_9f8cd69b9ce9",
+  "source_index": 609,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南华大学计算机学院在2023年11月的调研活动中，省委网信办与长沙工业学院分别在何时参与了学校的合作和交流活动？",
+  "prompt": "南华大学计算机学院在2023年11月的调研活动中，省委网信办与长沙工业学院分别在何时参与了学校的合作和交流活动？",
+  "expected_answer": "省委网信办参与调研活动在11月15日，长沙工业学院参与交流会在6月7日。",
+  "root_url": "https://jsjxy.usc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.usc.edu.cn/info/1993/11125.htm",
+      "https://jsjxy.usc.edu.cn/info/1993/11269.htm"
+    ],
+    "golden_path": [
+      "root->更多+->3->省委网信办来我院调研一流网络安全学院建设",
+      "root->更多+->下页->长沙工业学院筹建事务中心与南华大学计算机学院举办调研交流会"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 52.284,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0609_9f8cd69b9ce9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0609_9f8cd69b9ce9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0206_113c10001722",
+  "source_index": 206,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "On which date and time will Claudia Anna-Maria Felser accept the Von Hippel Award during the 2024 MRS Fall Meeting in Boston?",
+  "prompt": "On which date and time will Claudia Anna-Maria Felser accept the Von Hippel Award during the 2024 MRS Fall Meeting in Boston?",
+  "expected_answer": "Wednesday, December 4 at 6:15 pm (ET)",
+  "root_url": "https://www.mrs.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.mrs.org/publications-digital-content/news/article/2024/11/04/claudia-anna-maria-felser-to-receive-von-hippel-award--the-materials-research-society-s-highest-honor"
+    ],
+    "golden_path": [
+      "root->Learn More->Claudia Anna-Maria Felser to receive Von Hippel Award, the Materials Research Society’s highest honor"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 211.038,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0206_113c10001722/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0206_113c10001722/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

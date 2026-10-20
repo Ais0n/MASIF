@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0279_5c80b6825218",
+  "source_index": 279,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在计算机学院2019年度研究生科技竞赛中，范禹辰在哪个比赛中获得省级一等奖？",
+  "prompt": "在计算机学院2019年度研究生科技竞赛中，范禹辰在哪个比赛中获得省级一等奖？",
+  "expected_answer": "全国并行应用挑战赛",
+  "root_url": "https://computer.hdu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hdu.edu.cn/2019/1223/c6760a139344/page.htm"
+    ],
+    "golden_path": [
+      "root->学生成果->计算机学院2019年度研究生科技竞赛成果汇编"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 15.35,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0279_5c80b6825218/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0279_5c80b6825218/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

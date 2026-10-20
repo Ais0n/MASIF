@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0585_26e1507fdf0b",
+  "source_index": 585,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "请问由腾讯平台发行的棋类游戏和角色扮演游戏，分别是哪个游戏运营者负责《新中国象棋》和《不朽仙途》的运营？",
+  "prompt": "请问由腾讯平台发行的棋类游戏和角色扮演游戏，分别是哪个游戏运营者负责《新中国象棋》和《不朽仙途》的运营？",
+  "expected_answer": "《新中国象棋》的运营者是深圳市腾讯计算机系统有限公司；《不朽仙途》的运营者是上海腊八科技有限公司。",
+  "root_url": "https://qqgame.qq.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://qqgame.qq.com/app/gamedetail_27.shtml",
+      "https://qqgame.qq.com/app/gamedetail_12123.shtml"
+    ],
+    "golden_path": [
+      "root->查看更多->[我的游戏]->新中国象棋",
+      "root->查看更多->不朽仙途"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "《新中国象棋》的运营者信息未提供，而《不朽仙途》的运营者是上海腊八科技有限公司。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 5,
+  "duration_seconds": 34.738,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0585_26e1507fdf0b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0585_26e1507fdf0b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"verdict\": \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

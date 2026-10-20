@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0408_f80d759ef2dc",
+  "source_index": 408,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "新疆大学计算机科学与技术学院在2020新华三杯全国大学生数字技术大赛和2020华为中国区大学生ICT大赛的新疆赛区中，哪个比赛的结果更能体现学院的协同育人成果？",
+  "prompt": "新疆大学计算机科学与技术学院在2020新华三杯全国大学生数字技术大赛和2020华为中国区大学生ICT大赛的新疆赛区中，哪个比赛的结果更能体现学院的协同育人成果？",
+  "expected_answer": "2020新华三杯全国大学生数字技术大赛更能体现学院的协同育人成果。",
+  "root_url": "https://it.xju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.xju.edu.cn/info/1248/2280.htm",
+      "https://it.xju.edu.cn/info/1248/2279.htm"
+    ],
+    "golden_path": [
+      "root->信息学子喜获2020新华三...",
+      "root->2020华为中国区大学生ICT..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 56.278,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0408_f80d759ef2dc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0408_f80d759ef2dc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

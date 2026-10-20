@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0320_30bd92fe72d0",
+  "source_index": 320,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西南科技大学计算机科学与技术一级学科硕士学位授权点周期性合格评估专家评议会是在2024年9月的哪一天举行的，评估结论是什么？",
+  "prompt": "西南科技大学计算机科学与技术一级学科硕士学位授权点周期性合格评估专家评议会是在2024年9月的哪一天举行的，评估结论是什么？",
+  "expected_answer": "2024年9月25日，评估结论为“合格”。",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/1202/c10922a209355/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->2->我校计算机科学与技术一级学科硕士学位授权点周期性合格评估专家评议会顺利举行2024年9月25日，我校计算机科学与技术一级学科硕士学位授权点周期性合格评估专家评议会在计算机科学与技术学院顺利举行。评估专家组由5人组成，包括国务院学位委员会学科评议组成员、东南大学耿新...[2024-09-27]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 50.32,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0320_30bd92fe72d0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0320_30bd92fe72d0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0000_f53dff1e62b5",
+  "source_index": 0,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which program funded the SUPPLY project involving EHA, when did the project start, and how long will it last?",
+  "prompt": "Which program funded the SUPPLY project involving EHA, when did the project start, and how long will it last?",
+  "expected_answer": "The SUPPLY project that EHA is involved in is funded by the EU4Health program. It started on September 1, 2022, and lasts for 18 months.",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/organization/newsroom/news-and-updates/eha-to-participate-in-an-eu-funded-project-supply/"
+    ],
+    "golden_path": [
+      "root->News & views->Read more"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 16,
+  "tool_calls": 6,
+  "duration_seconds": 86.25,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0000_f53dff1e62b5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0000_f53dff1e62b5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

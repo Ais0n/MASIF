@@ -1,0 +1,842 @@
+----- user -----
+query:
+请问由腾讯平台发行的棋类游戏和角色扮演游戏，分别是哪个游戏运营者负责《新中国象棋》和《不朽仙途》的运营？
+official website:
+https://qqgame.qq.com/
+Observation:website information:
+
+立即登录
+!
+在游戏库中查找
+没有找到“”相关的游戏
+大家都在搜
+  *                               *                                   *                         
+[_更新时间：2026-04-20_  
+ _版本号：5.91 支持Windows xp sp3及以上_]( _更新时间：2026-04-20_  
+ _版本号：5.91 支持Windows xp sp3及以上_]( 扫码立即下载QQ游戏官方手机版（安卓）!微信扫一扫，关注QQ游戏公众号，精彩福利抢先知！!微信扫一扫，关注蓝钻贵族公众号，关注专属福利特权！意见反馈
+0
+0
+< 1 >
+0款
+0款
+ |  |  |  | 
+ |  |  |  | 
+ |  |  | 
+ | 
+Copyright © 2003-2026 Tencent. All Rights Reserved.腾讯公司 版权所有
+!
+
+
+clickable button:
+
+<button>查看全部<button>
+<button>查看更多<button>
+<button>查看更多><button>
+<button>查看更多><button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the specific game operators for "新中国象棋" and "不朽仙途" on the QQ Game platform. The initial page does not show these games, so I should click on the "查看全部" button to see more games.
+
+Action: visit_page
+Action Input: {"button": "查看全部"}
+
+----- VisitPage -----
+The web information is:
+
+](
+搜索
+下载QQ游戏2.0
+](
+    
+                                                  
+ > 
+类型：
+玩法：
+题材：
+标签：
+_排序：_   
+一共有 _334_ 个游戏 
+  * 2023-05-19](
+经典1.76复古传奇，单职业攻速版！
+  * 2023-05-17](
+逆袭重生，明日当大亨
+  * 2023-05-15](
+梦回洪荒，逍遥修仙
+  * 2023-05-12](
+超多福利的仙侠ARPG，登录就送满级VIP！
+  * 2023-05-10](
+征战卡塔尔，撰写足坛传奇
+  * 2023-04-24](
+经典武侠复刻，全套神装打怪掉落！
+  * 2023-04-17](
+踏上仙道，遨游别具一格的仙侠世界！
+  * 2023-04-14](
+《不朽仙途》是2023仙侠题材巅峰网页游戏
+  * 2023-04-10](
+正版授权，超变攻速传奇，一秒20刀！
+  * 2023-04-07](
+不肝不氪，送武将千抽
+  * 2023-03-29](
+一款休闲合成游戏，清空压力
+  * 2023-03-27](
+正版授权传奇，燃烧热血，缔造霸业
+  * 2023-03-06](
+山河入梦，国风仙侠
+  * 2023-03-03](
+《魔龙之戒》是一款暗黑玩法的修仙题材游戏
+  * 2023-02-27](
+元神合击，威震九州！
+  * 2023-02-08](
+武侠经典再续，重燃热血江湖
+  * 2023-01-09](
+与各路妖怪神仙一起作战，重走取经路，决战凌霄之巅
+  * 2023-01-04](
+  * 2022-12-30](
+一场战争，一份荣耀，百万雄师等你调遣
+  * 2022-12-26](
+我若成佛，天下无魔
+  * 2022-12-12](
+策略国战，一统三国
+  * 2022-12-05](
+你没玩过的武侠传奇
+  * 2022-12-02](
+传奇打金服，欢迎长期入驻
+  * 2022-11-25](
+三界跨服PK，高爆秒BOSS
+  * 2022-11-23](
+放置挂机塔防、上线就送5星雷神
+上一页1...
+## 热门榜单
+  1. 1
+1145008
+](
+1145008人添加
+  2. 2
+372304
+](
+372304人添加
+  3. 3
+267712
+](
+267712人添加
+  4. 4
+219968
+](
+219968人添加
+  5. 5
+184016
+](
+184016人添加
+  6. 6
+179888
+](
+179888人添加
+  7. 7
+163184
+](
+163184人添加
+  8. 8
+153840
+](
+153840人添加
+  9. 9
+66912
+](
+66912人添加
+## 新游首发
+  1. 1
+05-04
+](
+05-04
+  2. 2
+05-01
+](
+05-01
+  3. 3
+04-24
+](
+04-24
+  4. 4
+04-22
+](
+04-22
+  5. 5
+04-17
+](
+04-17
+  6. 6
+04-15
+](
+04-15
+  7. 7
+04-13
+](
+04-13
+  8. 8
+04-10
+](
+04-10
+  9. 9
+03-27
+](
+03-27
+  10. 10
+03-23
+](
+03-23
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  | Copyright © 2003-2025 Tencent. All Rights Reserved.腾讯公司 版权所有
+
+
+Clickable buttons are wrapped in <button> tag
+<button>清空搜索记录<button>
+<button>[我的游戏]<button>
+<button>[退出]<button>
+<button>首页<button>
+<button>页游<button>
+<button>休闲棋牌<button>
+<button>游戏库<button>
+<button>全部<button>
+<button>页游<button>
+<button>棋牌<button>
+<button>休闲<button>
+<button>角色扮演<button>
+<button>策略<button>
+<button>传奇<button>
+<button>网络游戏<button>
+<button>冒险<button>
+<button>休闲<button>
+<button>其他<button>
+<button>模拟经营<button>
+<button>动作射击<button>
+<button>飞行<button>
+<button>棋类<button>
+<button>牌类<button>
+<button>麻将<button>
+<button>策略塔防<button>
+<button>消除<button>
+<button>竞速<button>
+<button>体育<button>
+<button>即时战略<button>
+<button>更多<button>
+<button>历史<button>
+<button>科幻<button>
+<button>现实<button>
+<button>魔幻<button>
+<button>武侠<button>
+<button>玄幻<button>
+<button>奇幻<button>
+<button>棋牌<button>
+<button>其他<button>
+<button>闯关<button>
+<button>仙侠<button>
+<button>3D<button>
+<button>热血<button>
+<button>策略<button>
+<button>战争<button>
+<button>魔幻<button>
+<button>回合<button>
+<button>怀旧<button>
+<button>老游戏<button>
+<button>冒险<button>
+<button>科幻<button>
+<button>横版<button>
+<button>体育<button>
+<button>经营<button>
+<button>休闲<button>
+<button>射击<button>
+<button>益智<button>
+<button>武斗<button>
+<button>战国<button>
+<button>建造<button>
+<button>探险<button>
+<button>少女<button>
+<button>爱情<button>
+<button>机甲<button>
+<button>西游<button>
+<button>恋爱<button>
+<button>校园<button>
+<button>恐怖<button>
+<button>航海<button>
+<button>青春<button>
+<button>按发布时间<button>
+<button>按下载次数<button>
+<button>按评分<button>
+<button>2023-05-19<button>
+<button>沃泽特传奇<button>
+<button>2023-05-17<button>
+<button>明日大亨<button>
+<button>2023-05-15<button>
+<button>上古传说<button>
+<button>2023-05-12<button>
+<button>侠客梦<button>
+<button>2023-05-10<button>
+<button>足球大咖<button>
+<button>2023-04-24<button>
+<button>武圣传<button>
+<button>2023-04-17<button>
+<button>封天战神<button>
+<button>2023-04-14<button>
+<button>不朽仙途<button>
+<button>2023-04-10<button>
+<button>热血大明<button>
+<button>2023-04-07<button>
+<button>冲吧三国<button>
+<button>2023-03-29<button>
+<button>女孩与海<button>
+<button>2023-03-27<button>
+<button>王者之心2<button>
+<button>2023-03-06<button>
+<button>天剑奇缘<button>
+<button>2023-03-03<button>
+<button>魔龙之戒<button>
+<button>2023-02-27<button>
+<button>战神蚩尤<button>
+<button>2023-02-08<button>
+<button>武林英雄传<button>
+<button>2023-01-09<button>
+<button>西游战记<button>
+<button>2023-01-04<button>
+<button>腾讯围棋<button>
+<button>2022-12-30<button>
+<button>全城警戒<button>
+<button>2022-12-26<button>
+<button>白蛇传奇<button>
+<button>2022-12-12<button>
+<button>三国我是主公<button>
+<button>2022-12-05<button>
+<button>王者天下<button>
+<button>2022-12-02<button>
+<button>热血荣耀<button>
+<button>2022-11-25<button>
+<button>凡人神将传<button>
+<button>2022-11-23<button>
+<button>盟军防线<button>
+<button>2<button>
+<button>3<button>
+<button>14<button>
+<button>下一页<button>
+
+----- WebWalker -----
+Memory:
+-《不朽仙途》是2023仙侠题材巅峰网页游戏，由腾讯平台发行。
+"}
+
+----- WebWalker -----
+I have found the game "不朽仙途" in the list. Now I need to find the operator of this game. I will click on the "不朽仙途" button to get more information.
+
+Action: visit_page
+Action Input: {"button": "不朽仙途"}
+
+----- VisitPage -----
+The web information is:
+
+](
+||
+搜索
+!
+    
+不朽仙途 
+!
+ >  > 不朽仙途
+                        
+## 小编点评
+《不朽仙途》是一款RPG仙侠扮演类游戏，游戏画面清新脱俗，内容丰富多彩。游戏以人物养成与竞技为主。通过不断挑战关卡的方式，逐渐解锁人物命运，经历寻求仙道的奇妙之旅。
+**开始游戏** GAME START  
+该游戏今日测试名额已满，请明日再试
+上传者：超人打怪兽  Falcom授权发行 
+## 游戏的DLC
+## 合集礼包
+## 内容介绍
+《不朽仙途》是最受期待的RPG角色扮演游戏。全新的玩法，真正的绿色游戏，震撼的即时战斗系统，强悍的坐骑系统，漂亮的宠物。打破传统RPG的枯燥乏味的打怪练级、角色单一、内容单调等缺陷，3角色职业、多元化的成长玩法，已经在挑战高级怪物中，增加宠物作伴，在任务中丰富了故事的完整性，让玩家身临其中，角色感代入增强，让玩家在任务中会享受到解密系列的操作，让玩家体验一场真正的淋漓尽致的修仙之旅。
+## 推荐配置
+  * CPU：
+  * GPU：
+  * 内存：
+  * 硬盘：
+  * 系统：
+## 最低配置
+  * CPU：
+  * GPU：
+  * 内存：
+  * 硬盘：
+  * 系统：
+## 游戏截图
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+ (包含反对、黄色等不良信息？)
+## 精彩评论
+排序：最新发布 最多点赞
+竟然没人评论，快来抢沙发吧！
+我也要来说两句
+还能输入-字
+ 
+排序: 丨 丨 
+#### 快来分享第一个存档吧！
+**分享方法**
+1.直接点下方的“立即分享”
+2.进入游戏，使用右上角的“截图”功能，截图并分享
+分享：
+#### {%title%}
+{%date%}{%hour%}
+{%size%}{%goodcount%}{%download%}
+作者： 贡献总排名：{%authorrank%}{%beatpercent%} 获赞：{%authorgoodcount%}个 最近在玩：
+### 存档说明
+{%info%}
+基础数据 
+- 总局数 
+     胜 -场 0%      负 -场 0%      和 -场 0%
+  * !
+- -
+请选择大区
+    * 请选择大区
+请选择服务器
+    * 请选择服务器
+  
+历史总战绩
+     - 总局数      - K/D值      0% 胜率      -/-/- 爆头/雷杀/刀杀
+  
+今日战绩
+     - 总局数      - K/D值      - 杀敌数      - 爆头
+游戏装备 
+;) ;) ;) ;) ;) ;) ;) ;)
+  *  暂无此类道具 ]( 
+  *  暂无此类道具 ]( 
+  *  暂无此类道具 ]( 
+  *  暂无此类道具 ]( 
+  *  暂无此类道具 ]( 
+  *  暂无此类道具 ]( 
+  *  暂无此类道具 ]( 
+  *  暂无此类道具 ]( 
+**健康游戏公告:** 抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。为了您的健康，请合理控制游戏时间。 
+粤网文【2014】0633-233号 新出网证（粤）字010号
+## 游戏助手
+  * 游戏助手安全保护：未开启
+  * 保护帐号安全、提升游戏速度
+  
+## 我的信息
+  * 荣 誉： 
+  * 评 分：  _4.0_ 分 9
+  * 我的打分：
+  * 分 享：     
+  * 游戏类型：角色扮演
+  * 游戏标签：养成、对战、交友 
+  * 发行时间：2023-04-14
+    * 运营者：上海腊八科技有限公司
+    * 开发者：广州市翼游网络科技有限公司
+  * 本游戏由第三方开发者提供，相关服务和责任由该第三方承担。如您下载或使用该游戏，应当遵守该第三方开发者制定的相关协议或规则。如您就该游戏有任何诉求，请联系该开发者，或者按照“”通知腾讯及开发者。开发者信息展示在游戏窗口底部位置，请进入游戏内查看 
+## 同类排行
+  * ](
+角色扮演评分：3.5分
+  * ](
+角色扮演评分：3.5分
+  * ](
+角色扮演评分：3.5分
+  * ](
+角色扮演评分：3.5分
+  * ](
+角色扮演评分：3.5分
+  * ](
+角色扮演评分：3.5分
+  * ](
+角色扮演评分：3.5分
+  * ](
+角色扮演评分：3.5分
+  * ](
+角色扮演评分：3.5分
+  * ](
+角色扮演评分：3.5分
+  * ](
+角色扮演评分：3.5分
+## 小编推荐的存档
+## 存档贡献榜
+这款游戏的玩家太少了，赶紧告诉大家吧~
+分享到：  
+你还没分享过哦，快来贡献存档吧！
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  | Copyright © 2003-2025 Tencent. All Rights Reserved.腾讯公司 版权所有
+; 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>页游<button>
+<button>休闲棋牌<button>
+<button>清空搜索记录<button>
+<button>下载QQ游戏<button>
+<button>[我的游戏]<button>
+<button>[退出]<button>
+<button>游戏信息<button>
+<button>精品活动<button>
+<button>游戏视频<button>
+<button>游戏攻略<button>
+<button>游戏热帖<button>
+<button>游戏新闻<button>
+<button>游戏赛事<button>
+<button>游戏截图<button>
+<button>游戏存档<button>
+<button>成就排行<button>
+<button>游戏礼包<button>
+<button>游戏评论<button>
+<button>即将开放下载<button>
+<button>举报这款游戏<button>
+<button>查看全部12条评论<button>
+<button>提交评论<button>
+<button>我要分享存档<button>
+<button>查看我的分享<button>
+<button>最新<button>
+<button>最多赞<button>
+<button>最多下载<button>
+<button>立即分享<button>
+<button>返回<button>
+<button>好友动态<button>
+<button>QQ空间<button>
+<button>QQ<button>
+<button>立即安装<button>
+<button>{%recentplay%}<button>
+<button>暂无此类道具<button>
+<button>启动游戏助手<button>
+<button>去评分<button>
+<button>复制到剪贴板<button>
+<button>问题反馈<button>
+<button>暴风王座<button>
+<button>开始游戏<button>
+<button>女神联盟Ⅱ<button>
+<button>盗墓笔记<button>
+<button>乾坤战纪<button>
+<button>少年封神<button>
+<button>饥荒：联机版<button>
+<button>极限逃亡<button>
+<button>天天象棋<button>
+<button>圣域传奇<button>
+<button>红月传说（已下架）<button>
+<button>灵域修仙<button>
+<button>共享存档<button>
+
+----- WebWalker -----
+Memory:
+《不朽仙途》是2023仙侠题材巅峰网页游戏，由腾讯平台发行。
+-《不朽仙途》的运营者是上海腊八科技有限公司，该游戏由广州市翼游网络科技有限公司开发。
+"}
+
+----- WebWalker -----
+I have found the information about the operator of "不朽仙途", which is "上海腊八科技有限公司". Now I need to find the operator of "新中国象棋". I will search for this game in the list of games.
+
+Action: visit_page
+Action Input: {"button": "新中国象棋"}
+
+----- VisitPage -----
+Button not found: 新中国象棋
+
+----- WebWalker -----
+The button "新中国象棋" is not clickable. I need to search for this game in the list of games or navigate through other buttons to find it. I will click on the "搜索" button to search for "新中国象棋".
+
+Action: visit_page
+Action Input: {"button": "搜索"}
+
+----- VisitPage -----
+Button not found: 搜索
+
+----- WebWalker -----
+The button "搜索" is not clickable. I need to search for this game in the list of games or navigate through other buttons to find it. I will click on the "游戏库" button to access the game library and search for "新中国象棋". 
+
+Action: visit_page
+Action Input: {"button": "游戏库"}
+
+----- VisitPage -----
+The web information is:
+
+](
+搜索
+下载QQ游戏2.0
+](
+    
+                                                  
+ > 
+类型：
+玩法：
+题材：
+标签：
+_排序：_   
+一共有 _334_ 个游戏 
+  * 2023-05-19](
+经典1.76复古传奇，单职业攻速版！
+  * 2023-05-17](
+逆袭重生，明日当大亨
+  * 2023-05-15](
+梦回洪荒，逍遥修仙
+  * 2023-05-12](
+超多福利的仙侠ARPG，登录就送满级VIP！
+  * 2023-05-10](
+征战卡塔尔，撰写足坛传奇
+  * 2023-04-24](
+经典武侠复刻，全套神装打怪掉落！
+  * 2023-04-17](
+踏上仙道，遨游别具一格的仙侠世界！
+  * 2023-04-14](
+《不朽仙途》是2023仙侠题材巅峰网页游戏
+  * 2023-04-10](
+正版授权，超变攻速传奇，一秒20刀！
+  * 2023-04-07](
+不肝不氪，送武将千抽
+  * 2023-03-29](
+一款休闲合成游戏，清空压力
+  * 2023-03-27](
+正版授权传奇，燃烧热血，缔造霸业
+  * 2023-03-06](
+山河入梦，国风仙侠
+  * 2023-03-03](
+《魔龙之戒》是一款暗黑玩法的修仙题材游戏
+  * 2023-02-27](
+元神合击，威震九州！
+  * 2023-02-08](
+武侠经典再续，重燃热血江湖
+  * 2023-01-09](
+与各路妖怪神仙一起作战，重走取经路，决战凌霄之巅
+  * 2023-01-04](
+  * 2022-12-30](
+一场战争，一份荣耀，百万雄师等你调遣
+  * 2022-12-26](
+我若成佛，天下无魔
+  * 2022-12-12](
+策略国战，一统三国
+  * 2022-12-05](
+你没玩过的武侠传奇
+  * 2022-12-02](
+传奇打金服，欢迎长期入驻
+  * 2022-11-25](
+三界跨服PK，高爆秒BOSS
+  * 2022-11-23](
+放置挂机塔防、上线就送5星雷神
+上一页1...
+## 热门榜单
+  1. 1
+1145008
+](
+1145008人添加
+  2. 2
+372304
+](
+372304人添加
+  3. 3
+267712
+](
+267712人添加
+  4. 4
+219968
+](
+219968人添加
+  5. 5
+184016
+](
+184016人添加
+  6. 6
+179888
+](
+179888人添加
+  7. 7
+163184
+](
+163184人添加
+  8. 8
+153840
+](
+153840人添加
+  9. 9
+66912
+](
+66912人添加
+## 新游首发
+  1. 1
+05-04
+](
+05-04
+  2. 2
+05-01
+](
+05-01
+  3. 3
+04-24
+](
+04-24
+  4. 4
+04-22
+](
+04-22
+  5. 5
+04-17
+](
+04-17
+  6. 6
+04-15
+](
+04-15
+  7. 7
+04-13
+](
+04-13
+  8. 8
+04-10
+](
+04-10
+  9. 9
+03-27
+](
+03-27
+  10. 10
+03-23
+](
+03-23
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  | Copyright © 2003-2025 Tencent. All Rights Reserved.腾讯公司 版权所有
+
+
+Clickable buttons are wrapped in <button> tag
+<button>清空搜索记录<button>
+<button>[我的游戏]<button>
+<button>[退出]<button>
+<button>首页<button>
+<button>页游<button>
+<button>休闲棋牌<button>
+<button>游戏库<button>
+<button>全部<button>
+<button>页游<button>
+<button>棋牌<button>
+<button>休闲<button>
+<button>角色扮演<button>
+<button>策略<button>
+<button>传奇<button>
+<button>网络游戏<button>
+<button>冒险<button>
+<button>休闲<button>
+<button>其他<button>
+<button>模拟经营<button>
+<button>动作射击<button>
+<button>飞行<button>
+<button>棋类<button>
+<button>牌类<button>
+<button>麻将<button>
+<button>策略塔防<button>
+<button>消除<button>
+<button>竞速<button>
+<button>体育<button>
+<button>即时战略<button>
+<button>更多<button>
+<button>历史<button>
+<button>科幻<button>
+<button>现实<button>
+<button>魔幻<button>
+<button>武侠<button>
+<button>玄幻<button>
+<button>奇幻<button>
+<button>棋牌<button>
+<button>其他<button>
+<button>闯关<button>
+<button>仙侠<button>
+<button>3D<button>
+<button>热血<button>
+<button>策略<button>
+<button>战争<button>
+<button>魔幻<button>
+<button>回合<button>
+<button>怀旧<button>
+<button>老游戏<button>
+<button>冒险<button>
+<button>科幻<button>
+<button>横版<button>
+<button>体育<button>
+<button>经营<button>
+<button>休闲<button>
+<button>射击<button>
+<button>益智<button>
+<button>武斗<button>
+<button>战国<button>
+<button>建造<button>
+<button>探险<button>
+<button>少女<button>
+<button>爱情<button>
+<button>机甲<button>
+<button>西游<button>
+<button>恋爱<button>
+<button>校园<button>
+<button>恐怖<button>
+<button>航海<button>
+<button>青春<button>
+<button>按发布时间<button>
+<button>按下载次数<button>
+<button>按评分<button>
+<button>2023-05-19<button>
+<button>沃泽特传奇<button>
+<button>2023-05-17<button>
+<button>明日大亨<button>
+<button>2023-05-15<button>
+<button>上古传说<button>
+<button>2023-05-12<button>
+<button>侠客梦<button>
+<button>2023-05-10<button>
+<button>足球大咖<button>
+<button>2023-04-24<button>
+<button>武圣传<button>
+<button>2023-04-17<button>
+<button>封天战神<button>
+<button>2023-04-14<button>
+<button>不朽仙途<button>
+<button>2023-04-10<button>
+<button>热血大明<button>
+<button>2023-04-07<button>
+<button>冲吧三国<button>
+<button>2023-03-29<button>
+<button>女孩与海<button>
+<button>2023-03-27<button>
+<button>王者之心2<button>
+<button>2023-03-06<button>
+<button>天剑奇缘<button>
+<button>2023-03-03<button>
+<button>魔龙之戒<button>
+<button>2023-02-27<button>
+<button>战神蚩尤<button>
+<button>2023-02-08<button>
+<button>武林英雄传<button>
+<button>2023-01-09<button>
+<button>西游战记<button>
+<button>2023-01-04<button>
+<button>腾讯围棋<button>
+<button>2022-12-30<button>
+<button>全城警戒<button>
+<button>2022-12-26<button>
+<button>白蛇传奇<button>
+<button>2022-12-12<button>
+<button>三国我是主公<button>
+<button>2022-12-05<button>
+<button>王者天下<button>
+<button>2022-12-02<button>
+<button>热血荣耀<button>
+<button>2022-11-25<button>
+<button>凡人神将传<button>
+<button>2022-11-23<button>
+<button>盟军防线<button>
+<button>2<button>
+<button>3<button>
+<button>14<button>
+<button>下一页<button>
+
+----- WebWalker -----
+Memory:
+《不朽仙途》是2023仙侠题材巅峰网页游戏，由腾讯平台发行。
+-《不朽仙途》的运营者是上海腊八科技有限公司，该游戏由广州市翼游网络科技有限公司开发。
+-《不朽仙途》是2023仙侠题材巅峰网页游戏，由腾讯平台发行。
+"}
+
+----- WebWalker -----
+Final Answer: 《新中国象棋》的运营者信息未提供，而《不朽仙途》的运营者是上海腊八科技有限公司。

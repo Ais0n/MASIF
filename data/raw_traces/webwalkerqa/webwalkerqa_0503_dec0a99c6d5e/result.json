@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0503_dec0a99c6d5e",
+  "source_index": 503,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the deadlines for the 2024 University Chapter Special Projects Program proposals and when are MRS committee rosters typically reviewed annually?",
+  "prompt": "What are the deadlines for the 2024 University Chapter Special Projects Program proposals and when are MRS committee rosters typically reviewed annually?",
+  "expected_answer": "The deadline for the 2024 University Chapter Special Projects Program proposals is December 15. MRS committee rosters are typically reviewed annually in late December or early January.",
+  "root_url": "https://www.mrs.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.mrs.org/membership/volunteer-central/volunteer-profile",
+      "https://www.mrs.org/programs/mrs-foundation/funding-opportunities/special-projects-program---mrs-university-chapters"
+    ],
+    "golden_path": [
+      "root->Volunteer Central->Volunteer Profile",
+      "root->University Chapters->MRS University Chapters Special Project Grant Information"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The deadlines for the 2024 University Chapter Special Projects Program proposals are November 14 (Application Submissions Open) and December 15 (Application Deadline). The MRS committee rosters are typically reviewed annually, with grants announced by the end of March of the following year.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 82.332,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0503_dec0a99c6d5e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0503_dec0a99c6d5e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

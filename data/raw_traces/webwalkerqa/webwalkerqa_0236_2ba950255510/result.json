@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0236_2ba950255510",
+  "source_index": 236,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When does Pre-season 2 of Illuvium end before the official game launch on July 25, 2024?",
+  "prompt": "When does Pre-season 2 of Illuvium end before the official game launch on July 25, 2024?",
+  "expected_answer": "Pre-season 2 ends on July 18, 2024, at 23:59:59 UTC.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-overworld-and-arena-patch-notes-0-4-3"
+    ],
+    "golden_path": [
+      "root->News->Illuvium Overworld & Arena Patch Notes 0.4.3"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 21.176,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0236_2ba950255510/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0236_2ba950255510/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

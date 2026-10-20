@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0289_7893d606b4ae",
+  "source_index": 289,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京工业大学李斌在哪一年获得中国石油和化学工业联合会科技进步奖一等奖？",
+  "prompt": "南京工业大学李斌在哪一年获得中国石油和化学工业联合会科技进步奖一等奖？",
+  "expected_answer": "2017年",
+  "root_url": "https://cise.njtech.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cise.njtech.edu.cn/info/1015/6170.htm"
+    ],
+    "golden_path": [
+      "root->高级职称->李斌"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "李斌于2017年获得中国石油和化学工业联合会科技进步奖一等奖。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer contains the exact expected year along with extra wording that restates the question.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer contains the exact expected year along with extra wording that restates the question.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 7,
+  "duration_seconds": 45.294,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0289_7893d606b4ae/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0289_7893d606b4ae/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

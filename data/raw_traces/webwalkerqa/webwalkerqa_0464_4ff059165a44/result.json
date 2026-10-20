@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0464_4ff059165a44",
+  "source_index": 464,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "如果电子科技大学计算机科学与工程学院（网络空间安全学院）一名博士生计划同时申请2024研究生国家奖学金和中国科协青年人才托举工程博士生专项计划，他们需要在什么时间之前提交所有相关材料？",
+  "prompt": "如果电子科技大学计算机科学与工程学院（网络空间安全学院）一名博士生计划同时申请2024研究生国家奖学金和中国科协青年人才托举工程博士生专项计划，他们需要在什么时间之前提交所有相关材料？",
+  "expected_answer": "2024年10月8日上午12点前提交研究生国家奖学金材料，2024年10月8日下午5点前提交博士生专项计划材料。",
+  "root_url": "https://www.scse.uestc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://www.scse.uestc.edu.cn/info/1017/16443.htm",
+      "https://www.scse.uestc.edu.cn/info/1014/16471.htm"
+    ],
+    "golden_path": [
+      "root->2024计算机科学与工程学院(网络空间安全学院)研究生国家奖学金评定的通知09/23",
+      "root->关于转发申报中国科协青年人才托举工程博士生专项计划的通知09/27"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 25.376,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0464_4ff059165a44/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0464_4ff059165a44/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

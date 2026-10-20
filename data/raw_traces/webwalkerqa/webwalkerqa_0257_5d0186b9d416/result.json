@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0257_5d0186b9d416",
+  "source_index": 257,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在南京理工大学计算机学院2023年4月10日进行的《程序与设计基础（II）》复习答疑辅导会上，哪个年级的学长进行了线上讲解？",
+  "prompt": "在南京理工大学计算机学院2023年4月10日进行的《程序与设计基础（II）》复习答疑辅导会上，哪个年级的学长进行了线上讲解？",
+  "expected_answer": "2021级",
+  "root_url": "https://cs.njust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njust.edu.cn/01/ac/c12496a328108/page.htm"
+    ],
+    "golden_path": [
+      "root->学风建设->计算机学院开展“砺学讲堂”之《程序与设计基础（II）》 复习答...2023-04-12"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 4,
+  "tool_calls": 1,
+  "duration_seconds": 6.003,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0257_5d0186b9d416/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0257_5d0186b9d416/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0407_9383fd060a6b",
+  "source_index": 407,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "4399中《糖豆大作战》和《破屋取暖》这两款游戏各自首次上线的日期是什么时候？",
+  "prompt": "4399中《糖豆大作战》和《破屋取暖》这两款游戏各自首次上线的日期是什么时候？",
+  "expected_answer": "分别是2020年10月14日和2024年9月27日。",
+  "root_url": "https://www.4399.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.4399.com/flash/216072.htm",
+      "https://www.4399.com/flash/244185.htm"
+    ],
+    "golden_path": [
+      "root->糖豆大作战",
+      "root->破屋取暖"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 167.478,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0407_9383fd060a6b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0407_9383fd060a6b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

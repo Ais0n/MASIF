@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0116_a77a96d739c8",
+  "source_index": 116,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "长安大学信息工程学院在《Expert Systems with Applications》上发表的两篇论文中，分别涉及海面目标检测和智能网联汽车动态协同换道研究的第一作者是谁？",
+  "prompt": "长安大学信息工程学院在《Expert Systems with Applications》上发表的两篇论文中，分别涉及海面目标检测和智能网联汽车动态协同换道研究的第一作者是谁？",
+  "expected_answer": "丁健刚和王振",
+  "root_url": "https://it.chd.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.chd.edu.cn/2023/0210/c7371a226813/page.htm",
+      "https://it.chd.edu.cn/2022/1018/c7371a224370/page.htm"
+    ],
+    "golden_path": [
+      "root->学术交流-><<上一页->我院李伟教授团队在计算机科学期刊《Expert Systems with Applications》上发表论文",
+      "root->学术交流->尾页->我院教师王振在国际期刊《Expert Systems with Applications》上发表论文"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 37.02,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0116_a77a96d739c8/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0116_a77a96d739c8/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

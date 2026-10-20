@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0514_61b113e1c54f",
+  "source_index": 514,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Mobile Legends: Bang Bang在哪一年首次入选电竞世界杯，并于前一年获得了哪一项重大电竞奖项？",
+  "prompt": "Mobile Legends: Bang Bang在哪一年首次入选电竞世界杯，并于前一年获得了哪一项重大电竞奖项？",
+  "expected_answer": "2024年，2023全球最佳移动电竞游戏",
+  "root_url": "https://cn.moonton.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://cn.moonton.com/news/23.html",
+      "https://cn.moonton.com/about/index.html#social"
+    ],
+    "golden_path": [
+      "root->行业防沉迷自律公约->公司新闻下一篇决胜巅峰成首个入选电竞世界杯比赛项目->公司新闻下一篇MLBB荣获最佳移动电竞游戏奖项",
+      "root->社会责任"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "Mobile Legends: Bang Bang首次入选电竞世界杯是在2025年，而前一年（2024年）获得的重大电竞奖项是2024决胜巅峰全球季中杯（MSC）冠军，由马来西亚战队Selangor Red Giants（SRG）获得。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 26.411,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0514_61b113e1c54f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0514_61b113e1c54f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0506_8bf9d7801e0d",
+  "source_index": 506,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the two power-ups introduced in the Fall Guys 'Power Party' and 'Scrapyard Stumble' updates?",
+  "prompt": "What are the two power-ups introduced in the Fall Guys 'Power Party' and 'Scrapyard Stumble' updates?",
+  "expected_answer": "Bean Ball and Rubber Chicken.",
+  "root_url": "https://www.fallguys.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.fallguys.com/news/fall-guys-power-party-update",
+      "https://www.fallguys.com/news/scrapyard-stumble-update"
+    ],
+    "golden_path": [
+      "root->Learn More->THE FALL GUYS ‘POWER PARTY’ UPDATE",
+      "root->Learn More->FALL GUYS SCRAPYARD STUMBLE UPDATE"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The two power-ups introduced in the Fall Guys 'Power Party' update are the Bean Ball and the Quarter-Pipe. However, no information is available about the power-ups introduced in the 'Scrapyard Stumble' update.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 19.945,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0506_8bf9d7801e0d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0506_8bf9d7801e0d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

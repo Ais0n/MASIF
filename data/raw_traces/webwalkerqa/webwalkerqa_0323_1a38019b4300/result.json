@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0323_1a38019b4300",
+  "source_index": 323,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which intern worked on the Champion Engineering team at Riot in 2020 and fixed bugs related to Rek'Sai?",
+  "prompt": "Which intern worked on the Champion Engineering team at Riot in 2020 and fixed bugs related to Rek'Sai?",
+  "expected_answer": "Cliff Zhu",
+  "root_url": "https://www.riotgames.com/zh-cn",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/zh-cn/news/technology-interns-in-2020-league-of-legends-tft-valorant"
+    ],
+    "golden_path": [
+      "root->与我们共事subMenuRight->Learn More->Technology Interns in 2020: League of Legends, TFT, & VALORANT"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 4,
+  "duration_seconds": 21.512,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0323_1a38019b4300/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0323_1a38019b4300/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

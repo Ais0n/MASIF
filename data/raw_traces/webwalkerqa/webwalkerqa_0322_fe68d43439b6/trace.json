@@ -1,0 +1,122 @@
+{
+  "events": [
+    {
+      "index": 1,
+      "role": "user",
+      "content": "query:\nWhat specific activities did Riot Noir organize on March 7, 2022, to celebrate Black History Month, and who were the special guests?\nofficial website:\nhttps://www.riotgames.com/zh-cn\nObservation:website information:\n\n\nglobeIcon\nburgerNav\nburgerNavClose\n登录\n登录\n!\n!\n# \n2026 赛季//第三幕现已开启\n塑水宗卷土重来、斗牛：晋升赛开启、地图池迎来更新 更多精彩内容，尽在第三幕！\n## 最新动态\n 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告 新闻 ](\n  * ### \n  * ### \n  * ### \n  * ### \n## 我们的游戏\n ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\") ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\") ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\")\n## 电子竞技&娱乐\n! ]( ]( ]( ]( ](\n## 加入我们！\n加入拳头，开启全新征程，铸造难以忘怀的玩家经历\n!\n      \n              \nCookie Preferences\n\n\nclickable button:\n\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>mainLogoRiotFist21<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>展开全部<button>\n<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告新闻<button>\n<button>VCT 2027：每一战，皆决战新闻<button>\n<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片新闻<button>\n<button>【无畏契约】并肩而战//迷核英雄预告新闻<button>\n<button>花开如约 | 2026新春庆典踏雪寻梅遇故知新闻<button>\n<button>181招聘职位<button>\n<button>24地点<button>\n<button>查看所有空缺职位<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n\n\nEach button is wrapped in a <button> tag\n\n",
+      "root_url": "https://www.riotgames.com/zh-cn"
+    },
+    {
+      "index": 2,
+      "role": "WebWalker",
+      "content": "Thought: I need to find information about the activities Riot Noir organized on March 7, 2022, to celebrate Black History Month and identify the special guests. Since the official website is provided, I will start by visiting the \"新闻\" (News) section to look for relevant articles or announcements.\n\nAction: visit_page\nAction Input: {\"button\": \"新闻\"}"
+    },
+    {
+      "index": 3,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\nglobeIcon\nburgerNav\nburgerNavClose\n登录\n登录\n显示 所有 \n关闭筛选\n筛选 \n  * 所有\n  * 办公室\n  * 部门\n  * 新闻\n  * Riot內部\n  * One-Shot\n  * Tech Blog\n!\n新闻\n2026/04/14\n### 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告\nPabro和Meddler带你了解第2主题季、即将发布的皮肤以及玩法改动。Riot Cadmus和Riot RogueFool揭晓本主题季竞技场的部分更新。还有DashiJador和Riot CallMeKT介绍WASD控制模式登陆排位赛的安排。\n2026/04/14\n!\n新闻\n2026/04/08\n### VCT 2027：每一战，皆决战\n从公开入围赛到杯赛，再到大师赛和全球冠军赛的顶尖赛事舞台，就这么简单。\n2026/04/08\n!\n新闻\n2026/03/27\n### 【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片\n走进星神的圣域！上前来，向神致意，你将获得宇宙之力的恩赐。\n2026/03/27\n!\n新闻\n2026/03/15\n### 【无畏契约】并肩而战//迷核英雄预告\n即将于 2026 赛季//第二幕登场。\n2026/03/15\n!\n新闻\n2026/02/04\n### 花开如约 | 2026新春庆典踏雪寻梅遇故知\n踏雪寻梅遇故知。如期如约，唤醒沉睡在时光中的快乐与友谊 🌸 新春庆典将于26.03版本开启。\n2026/02/04\n!\n新闻\n2026/02/04\n### 幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片\n美食、欢笑和友谊，真是太棒了！天马行空 小马率领小小英雄们展开疯狂的城市飞车，在云顶之弈中迎接至臻 玉剑传说 武剑仙 小小锐雯的到来，并在神话级棋盘 马到成功热闹落地。抓稳扶好，这就出发！去迎接你的开年大胜！\n2026/02/04\n!\n新闻\n2026/02/04\n### 心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片\n家是心之所向。你在之处，便是归宿。\n2026/02/04\n!\n新闻\n2025/12/19\n### 暂离工位 2025年寒假到来\n请放心，反作弊、安全和线上运营团队已经排好值班，确保一切平稳运行。 \n2025/12/19\n!\n新闻\n2025/11/06\n### 寻找你附近的2025全球总决赛观赛派对\n正在寻找英雄联盟全球总决赛的观赛活动？你来对地方了。\n2025/11/06\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>mainLogoRiotFist21<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告<button>\n<button>VCT 2027：每一战，皆决战<button>\n<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片<button>\n<button>【无畏契约】并肩而战//迷核英雄预告<button>\n<button>花开如约 | 2026新春庆典踏雪寻梅遇故知<button>\n<button>幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片<button>\n<button>心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片<button>\n<button>暂离工位 2025年寒假到来<button>\n<button>寻找你附近的2025全球总决赛观赛派对<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "新闻",
+      "url": "https://www.riotgames.com/zh-cn/news",
+      "markdown_chars": 1090,
+      "discovered_buttons": 23
+    },
+    {
+      "index": 4,
+      "role": "WebWalker",
+      "content": "Thought: The \"新闻\" section does not contain any articles related to Black History Month or activities organized by Riot Noir on March 7, 2022. I will now visit the \"我们是谁\" (About Us) section to look for information about Riot Noir and its activities.\n\nAction: visit_page\nAction Input: {\"button\": \"我们是谁\"}\n"
+    },
+    {
+      "index": 5,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\nglobeIcon\nburgerNav\nburgerNavClose\n登录\n登录\n!\n我们的价值观\n# 坚持玩家至上\n一切以服务玩家为核心，持续专注，激发深远且历久弥新的游戏体验。\n01.玩家至上\n02.严肃对待游戏\n03.矢志梦想\n04.长期深耕\n05.拳合力聚\n## 极致聚焦核心群体\n聚焦最关注我们的核心玩家群体，深知其对社区拓展的重要性。伴随他们成长时，不断深化对玩家需求的洞察，竭力超出他们的预期，提供卓越的服务与体验。\n## 融入玩家社区\n贴近社区，与玩家共情。视每一次互动为增添价值、巩固关系的契机，让玩家在挚爱的游戏中找到归属感。\n## 打造繁荣生态 \n为玩家的每一份热爱，去打造公平、安全、包容的游戏环境。并为此在产品与生态的设计和培育上不懈努力。 \n## 玩家无处不在\n我们的投入与追求，我们应对的挑战，旨在克服地域与文化的界限，惠及世界上的每一位玩家。\n!\n## 我们是Riot\n拳头游戏成立于2006年，致力于创造让玩家世界更美好的游戏和体验。如今，我们已发展成为拥有超过4,500名拳头员工的国际化团队，遍布世界20多个办公室，以全球视野塑造游戏及其中角色。从皮尔特沃夫的街头到阿尔法地球的源晶物质实验室，我们致力于游戏创作，服务于热爱它们的每一个人。\nClose\n!\n# 英雄联盟\n!\n!\n# 英雄联盟\n!\n这是一切的起点，我们的旗舰之作。《英雄联盟》现已步入第二个十年，由160余位英雄构筑的符文之地世界依旧魅力不减，激发全球玩家的热情与共鸣。 \nMore Information\n!\n# 无畏契约\n!\n!\n# 无畏契约\n!\n我们的首款第一人称射击游戏，也是第二个重要电竞项目。《无畏契约》的故事跳脱了符文之地宇宙，在贴近现实世界的阿尔法地球展开，引领玩家探索未知战场。 \nMore Information\n!\n# 英雄联盟：云顶之弈\n!\n!\n# 英雄联盟：云顶之弈\n!\n全球最受欢迎的PC策略游戏。《英雄联盟：云顶之弈》汇聚战术大师，围绕符文之地的英雄构建阵容，每一局都是智谋与运气的终极碰撞。\nMore Information\n!\n# 英雄联盟手游\n!\n!\n# 英雄联盟手游\n!\n专为移动平台打造，拥有独特的风格和玩法，让《英雄联盟》的激情随时随地触手可及。\nMore Information\n!\n# Legends of Runeterra\n!\n!\n# Legends of Runeterra\n!\n我们倾心打造的卡牌对战游戏，并衍生出PvE玩法英雄之路，玩家可以即兴构筑卡组，并体验符文之地的故事。\nMore Information\n!\n# 2XKO\n!\n!\n# 2XKO\n!\n2XKO 是一款由《英雄联盟》和《英雄联盟：双城之战》中经典角色联袂出场的2v2格斗游戏。\nMore Information\n!\n# 符文战场\n!\n!\n# 符文战场\n!\n我们的集换式卡牌游戏《符文战场》脱胎于数字世界。收集卡片、构筑牌组、与好友结伴，在牌桌上进行1v1或4人乱斗。\n## 我们的承诺\n](\n### 社会影响力\n](\n### 可持续发展\n](\n### 多元与包容\n## 全球布局\n虽然总部位于阳光明媚的洛杉矶，但我们通过世界各地的办公室为玩家提供服务。扎根当地的拳头员工们为玩家量身塑造最佳的游戏体验。我们寻找既是游戏爱好者，亦是行业精英的人才，携手为全世界的玩家创造价值。\n诚邀英才\n## 181 招聘职位\n欢迎加入我们全球各地的办公室，铸就你的职业生涯，为玩家共创难忘的游戏体验。\n 拳头生活]( 走进拳头](\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>mainLogoRiotFist21<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>了解更多<button>\n<button>了解更多<button>\n<button>了解更多<button>\n<button>探索我们的办公室<button>\n<button>探索工作机会<button>\n<button>拳头生活<button>\n<button>走进拳头<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "我们是谁",
+      "url": "https://www.riotgames.com/zh-cn/who-we-are",
+      "markdown_chars": 1515,
+      "discovered_buttons": 21
+    },
+    {
+      "index": 6,
+      "role": "WebWalker",
+      "content": "The \"我们是谁\" section does not provide specific information about Riot Noir or activities related to Black History Month. I will now visit the \"媒体\" (Media) section to look for any press releases or articles that might mention Riot Noir's activities.\n\nAction: visit_page\nAction Input: {\"button\": \"媒体\"}"
+    },
+    {
+      "index": 7,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n登录\n登录\n# 媒体\n!\n需要媒体素材吗？希望申请采访吗？如有与媒体相关的垂询，请联系我们的公关团队。所有非媒体相关的询问都将不会获得回复。\n所有其它方面的问题，请访问。\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "媒体",
+      "url": "https://www.riotgames.com/zh-cn/press",
+      "markdown_chars": 128,
+      "discovered_buttons": 13
+    },
+    {
+      "index": 8,
+      "role": "WebWalker",
+      "content": "The \"媒体\" section does not provide any relevant information about Riot Noir or activities related to Black History Month. I will now visit the \"安全\" (Safety) section to look for any information that might be related to community events or special guests.\n\nAction: visit_page\nAction Input: {\"button\": \"安全\"}"
+    },
+    {
+      "index": 9,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\nglobeIcon\nburgerNav\nburgerNavClose\n登录\n登录\n# Security\n!\n  \nYou put a lot of trust in us when you give us your info, and we don’t take that for granted. Keeping data safe is our number one priority -- we have teams across security, engineering, and communications that work to protect you. \nWe strive to be as transparent as possible when it comes to our security efforts so you can stay informed and take action when needed. We’ll continue to update this page to include all relevant security-related info, past and present.\n  *  related to your game account with Riot Support\n  * Learn how to tell the difference between legit emails from Riot versus \n  * Get protips about  against hackers and fraudsters\n  * If you’re a security researcher looking to submit a report about an interesting security issue, check out the details on \n  * Learn more about \n**Riot Security Notices**\n  *  (2011)\n  * (2012)\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>mainLogoRiotFist21<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>Reporting A Security Vulnerability<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "安全",
+      "url": "https://www.riotgames.com/zh-cn/security",
+      "markdown_chars": 944,
+      "discovered_buttons": 15
+    },
+    {
+      "index": 10,
+      "role": "WebWalker",
+      "content": "The \"安全\" section does not provide any relevant information about Riot Noir or activities related to Black History Month. I will now visit the \"玩家支持\" (Player Support) section to look for any information that might be related to community events or special guests.\n\nAction: visit_page\nAction Input: {\"button\": \"玩家支持\"}"
+    },
+    {
+      "index": 11,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n#  ;)\n;) ;)\n**英雄联盟** 客服专区 \n亲爱的玩家，您可以 ;) 并绑定角色，以获取更加贴心的服务\n当前角色： ;)\n## 为您推荐\n## 热门问题\n  * 英雄联盟点券充错大区\n  * 英雄联盟如何查询游戏违规行为举报结果\n  * 幻灵秘宝活动常见问题\n  * 英雄联盟登录、网络卡顿、加载问题\n## 自助工具\n  * !\n  * 热门问题\n  * 登录问题\n  * 账号问题\n  * 举报问题\n  * 充值问题\n  * 活动问题\n选择区服\n大区 -- 请选择您的大区 --\n-- 请选择您的角色 --\n角色\n-- 请选择您的角色 --\n-- 请选择您的角色 --\n;)\n;)\n   \nCopyright © 1998 - 2026 Tencent. All Rights Reserved. 腾讯公司 版权所有 粤网文[2011]0483-070号\n\n\nClickable buttons are wrapped in <button> tag\n",
+      "button": "玩家支持",
+      "url": "https://www.riotgames.com/zh-cn/player-support",
+      "markdown_chars": 384,
+      "discovered_buttons": 0
+    },
+    {
+      "index": 12,
+      "role": "WebWalker",
+      "content": "The \"玩家支持\" section does not provide any relevant information about Riot Noir or activities related to Black History Month. I will now visit the \"年度报告\" (Annual Report) section to look for any information that might be related to community events or special guests.\n\nAction: visit_page\nAction Input: {\"button\": \"年度报告\"}"
+    },
+    {
+      "index": 13,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n登录\n登录\n拳头游戏\n# 年度报告\n我们的年度报告展现了拳头为了让全世界玩家获得更好的游戏和体验，所做的努力。包括支持处于人生各个阶中的拳头员工，坚守我们对于可持续发展的承诺，将游戏内的善款投入到游戏外的各种事业，并让游戏能够充分代表其玩家。这些报告分享了我们的工作、进展和未来的努力方向。\n 社会影响力年度报告 查看报告](\n 可持续发展报告 查看报告](\n 社会影响力年度报告 查看报告](\n## 2022\n## 2021\n## 2020\n## 2019\n  \n注：2022年，我们第一次合并发布一份年度影响力报告。此前，我们分开发布两份报告，一份是在多元与包容、员工招募等领域的发展报告，另一份是通过社会影响力回馈全球社区的报告。 \n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "年度报告",
+      "url": "https://www.riotgames.com/zh-cn/annual-reports",
+      "markdown_chars": 362,
+      "discovered_buttons": 13
+    },
+    {
+      "index": 14,
+      "role": "WebWalker",
+      "content": "The \"年度报告\" section does not provide any relevant information about Riot Noir or activities related to Black History Month. I will now visit the \"社区公约\" (Community Guidelines) section to look for any information that might be related to community events or special guests.\n\nAction: visit_page\nAction Input: {\"button\": \"社区公约\"}"
+    },
+    {
+      "index": 15,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\nglobeIcon\nburgerNav\nburgerNavClose\n登录\n登录\n!\n# 社区公约\n!\n            \n内容概要：本社区公约适用于拳头旗下所有游戏（《英雄联盟》《无畏契约》《云顶之弈》《英雄联盟手游》《金铲铲之战》《2XKO》和《Legends of Runeterra》）\n_了解我们游戏的朋友都知道，玩家在对局中投入了巨大的热情。我们的游戏并不简单，因此才格外有意义。凭着这股热情，我们不断打磨技术、研究玩法、并肩作战，但有时对局却毁于他人的干扰行为。_\n_每款多人游戏中，难免都会有一小部分热衷于干扰对局的玩家。为了尽快清理这些玩家，并避免他们换个小号再次回归，我们始终致力于探测系统的提升。然而很多时候我们所遇到的干扰行为，其实也来自普通玩家，他们或许是这局手风不顺，或许是把今天的不开心带到了游戏中。虽然有技术工具帮助我们减少这种情况，但作用毕竟有限。说到底，真正的改变还需要我们自己下定决心，拿出求胜的竞技精神、公平游戏、尊重他人的态度，并能在必要时意识到，今天最好就玩到这里吧。_\n_想必大家之前都见过各种用户协议，在进游戏前也勾选了复选框。但重要的是我们要对彼此负责，遵守这篇社区公约的人越多，对局就会变得越好。_\n_社区公约可以视为我们《使用条款》中“用户守则”部分的延伸，它强调的是条款的精神内核，但对所有在拳头的游戏中排队开始对局的玩家，仍然具有约束力。_\n  * Riot Games\n  * Riot Games\n  * Riot Games\n  * Riot Games\n  * Riot Games\n  * Riot Games\n  * Riot Games\n  * Riot Games\n  * Riot Games\n  * Riot Games\n  * Riot Games\n  * Riot Games\n## 为胜利而战\n在一场有意义的对局中，所有玩家都全力以赴，哪怕局势对自己不利。无论领先还是落后，每场战斗我都会积极参与。\n不为胜利而战的行为包括但不限于：\n      * 放弃对局（包括故意掉线、挂机、、等）\n## 常见问题\n  * ### 如果我是新人，或是正在尝试、练习新的角色，拳头如何区分经验不足和故意搞破坏的行为？\n我们也是玩家，在探测系统的搭建和测试中，我们采纳了不同技术水平的拳头员工在对局中的表现情况。因此，我们所开发的探测系统能够很好地判断（虽然不是百发百中）谁是新手，谁在干扰别人。无论如何，如果你只是有几次失误，或是在尝试新的英雄或学习我们的游戏，不用担心受到任何处罚。\n  * ### 如果我只想玩得放松一些，或是要帮朋友练习，或是跟朋友们在自定义游戏中闹着玩呢？能不能不完全为胜利而战？\n没有伤害，就没有问题。也就是说，当对局中的所有玩家都有理由认为这是一场休闲局，也没有人举报你的时候，不会产生任何处罚。（没错，你可以放心去组“全约德尔人”5v5自定义对局！）\n但在大部分游戏模式中，默认的期望十分简单：每个人都要为胜利而战。大家对排位赛的重视程度有所不同，有人是为了爬天梯升段位，有人则只想好好打场游戏。但只要进入队列，就意味着你和队友之间有一个全力以赴的约定。\n## 公平游戏\n真正的胜利，要求所有人都遵守同样的规则。我会遵守规则，在对局中做到公平游戏。\n不公平游戏的行为包括但不限于：\n  * 作弊——包括和\n  * 使用模组、破解程序、作弊程序或其它能带来不正当优势的程序\n  * ——包括、、和\n    \n## 常见问题\n  * ### 如果是小号呢？我想开一个新号，用来练习新英雄或角色，这样可以吗？\n拥有多个账号本身并没有问题。但不得使用小号获取竞技优势、为他人提供竞技优势、逃避处罚或干扰他人体验。 \n任何排位作弊行为都是不公平的，一经发现，都会受到处罚。其中包括代练、组队带练和炸鱼，定义见下文。请注意，购买、出售或出让账号，都是违反的行为。 \n## 相互尊重\n在一个繁荣生长的社区中，玩家们都愿意开始下一次游戏。我不会故意针对或伤害一起游戏的玩家，哪怕对局不尽人意，或是其他人情绪激动。\n不相互尊重的行为包括但不限于：\n  * 使用侮辱性、贬低性、攻击性言论或骚扰性语言，或针对他人身份特征进行攻击\n  * 威胁他人、恶意诅咒、故意针对或传播暴力内容\n  * 在聊天频道中刷屏、制造干扰或发表无关内容\n  * 怂恿或唆使自杀或自残\n  * 性骚扰、非自愿性挑逗或传播色情淫秽内容\n  * 公开或威胁公开他人隐私信息或私密内容\n  * 冒名顶替或其他欺骗性行为\n  * 鼓吹或参与恐怖主义或极端主义行为\n  * 无论以何种形式，对未成年人进行任何性相关的利用或伤害行为\n更多信息请参见我们的。\n  * ### 垃圾话什么时候会被视为越界？\n我们能理解。每个人对垃圾话的容忍程度不同，有时边界并不清晰。总的说来，需要针对游戏，而不是个人。评论游戏操作或嘲讽对手并不算破坏公约，但攻击他人的身份特征、威胁伤害他人或辱骂刷屏，就是越界行为了。偶尔骂几句或是开个小玩笑可能不算什么，我们的游戏毕竟都有年龄限制。但当这些都是针对某个人、被滥用或没完没了时，就会被视为越界。同时，我们的游戏不容忍任何仇恨言论。\n我们知道，玩家们来自不同的文化背景和语言环境，对待同一个玩笑或评论的态度也不一样。但如果不止一个玩家多次举报你的沟通方式，可能就需要考虑约束自己，把注意力放在游戏上了。\n## 否则就不要玩。\n遵守社区公约，能为所有玩家创造更好的体验。对于破坏该公约的玩家，拳头或许会限制他们使用部分功能，甚至是整个游戏。\n  * ### 拳头为什么要处罚玩家？\n处罚是为了保护游戏和尊重游戏的玩家们。干扰行为会剥夺大家喜爱的游戏乐趣，而我们需要保护游戏体验。处罚能将玩家的注意力集中在游戏上，而不是搞破坏。 \n  * ### 如何采取处罚？\n处罚的轻重，取决于违规行为的严重程度和违规者的过往行为。小错误的处罚开始都很轻，如果屡错不改，就会逐渐加重。较为严重或反复违规的行为，有可能直接导致长期封号、在拳头所有游戏中被封禁，甚至永久封禁。\n没有“事不过三”的规则。如果违规行为足够恶劣，即使是初犯，也有可能被永久封号。 \n处罚可能包括：\n    * **警告** ——没有制裁措施的警示信息。\n    * **延迟** ——在一段时间内延长匹配时间。\n    * **限制** ——暂时限制或禁止访问特定功能，例如游戏内聊天或其它通讯功能。\n    * **暂时停权** ——在一段时间内禁止进行游戏。\n    * **** ——永久禁止进行游戏（单个账号）。\n    * **** ——永久禁止进行游戏（物理设备层面）。\n  * ### 如果拳头搞错了呢？\n产生错误是难免的，一旦出现，我们会重视玩家的反馈。没有完美的系统，有时可能会有错判或漏判。如果你认为处罚出现了错误，可以联系。我们会对该情况进行人工处理，如果确认错误，会进行纠正。\n  * ### 我想知道举报玩家后，拳头是否采取了措施和其具体的时间。是否有相应方法？\n你的举报很重要，能够帮我们维护公约的力量。当你举报的玩家受到处罚时，你可能会收到反馈，确认已采取措施。但为了保护玩家隐私，我们可能不会分享具体细节。我们将在后台查看举报，如果发现违规，会进行处罚。我们正在努力完善这个流程的闭环，更方便大家查看自己的举报是否奏效。\n有时在你举报一名玩家后，可能会再次遇到该玩家。这并不代表你的举报被忽视了——例如，有些处罚起初只是禁用通讯，主要是限制玩家实施破坏性行为的能力，但并未禁止其进行游戏。情节严重或屡次违规的行为会导致封禁，行为越具有破坏性或重复性，处罚力度就会越严厉。\n  * ### 我的小号会不会因为主账号的行为受到处罚？\n会的！处罚的目的是让玩家——而不是账号——为自己的行为负责。因此，处罚对象可能包括你的主账号和所有与你相关的其他账号。如果系统发现你的账号被限制或封禁期间，你登录了小号，那么该账号也可能受到处罚。此外，如果你用新账号继续干扰他人，那么考虑处罚力度时，很可能会将多个账号的行为纳入考量，包括你的主账号和小号，从而导致处罚加重。 \n## 术语表\n  * **挂机（AFK）：**在应当游戏时离开。  \n  * **脚本：**使用第三方软件或硬件来升级账号、解锁内容，或以其他方式人为制造账号价值或获取优势——也就是伪造进度而非通过正常游戏获得。  \n  * **禁用通讯：**暂时禁止使用游戏内通讯工具，通常包括文字和语音聊天。  \n  * **自降段位：**为了降低段位，故意输掉对局。  \n  * **消极游戏：** 故意破坏他人游戏体验——包括恶意捣乱、伤害队友或纯粹制造混乱。  \n  * **仇恨言论：**针对个人身份特征的攻击或贬低言论，包括针对种族、性别、国籍或其他受保护特征。  \n  * **硬件封禁：**封禁实际设备而不仅是账号，即使新建账号也无法通过该硬件登录。  \n  * **“坐车”（即组队带练）：**低水平玩家为了快速上分、超越自身实力，与通常不会匹配到同一对局的的高水平玩家（甚至作弊者）组队。  \n  * **故意送人头：**一种搞破坏的方式。故意阵亡，以增强敌方实力（也就是给敌方“送钱”）。  \n  * **选英雄时威胁队友：**如果其他玩家不让该玩家选择自己想要的角色/位置，就以退出游戏或故意捣乱作为威胁。  \n  * **假赛：**玩家假赛或故意放水，通常是为了赢得赌局或个人利益。该行为无视对局公平性，会造成严重后果。通常牵涉多名共谋玩家，但也有例外。  \n  * **永久封禁：**完全禁止游戏的限制手段，可能针对单个账号，或是某个设备，没有封禁结束时间。  \n  * **组队带练：** 参见“坐车”  \n  * **秒退：**玩家以任何理由在英雄或角色选择阶段离开队伍。  \n  * **排位作弊：**任何搞破坏游戏排位系统（匹配评分或段位机制）的行为，包括但不限于带练（俗称“坐车”）、故意掉分以及互刷胜场等。  \n  * **搞破坏：**玩家故意拖累己方队伍表现，通常以输掉比赛为目的。   \n  * **外挂：**玩家使用第三方软件（或硬件）自动执行游戏操作（如自动瞄准、自动闪避）或代替其响应游戏事件。  \n  * **炸鱼：**通过高段位玩家蓄意操作（通常包括购买账号、故意掉分或共享账号等手段）来规避匹配机制，从而匹配低水平对手，赢得对局。  \n  * **单排代练：**高段位玩家通过代打他人账号来获取非真实水平的段位提升，也就是段位作弊。  \n  * **不友善：** 一个非常宽泛的说法，通常指“对他人有害或造成负面体验”。这种表述因过于笼统且缺乏实际帮助，我们一般避免使用。  \n  * **互刷胜场：**对手之间串通作弊（通常涉及使用小号），即多名玩家合谋故意输掉比赛，以帮助特定玩家提升胜率或段位。\n## 相关社区文章\n!\nCommunity Pact\n#### The Grand Opening of the SoLa Technology and Entrepreneurship Center\nFunded in part by a $2.25M donation from Riot, the new center aims to inspire and develop the next generation of Black and Brown game developers, esports players, and tech professionals. \n2022/08/12\n!\nCommunity Pact\n#### Free Mental Health Resources for Content Creators\nWe partnered with The Public Good Projects to create a free mental health advocacy guide for streamers, content creators, and moderators.\n2021/05/28\n!\nCommunity Pact\n#### Dawnbringer Karma Wins Golden Halo Award\nLeague of Legends players win the 2021 Golden Halo Award for their generosity with the Dawnbringer Karma Fundraiser.\n2021/05/27\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>mainLogoRiotFist21<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>为胜利而战<button>\n<button>公平游戏<button>\n<button>相互尊重<button>\n<button>否则就不要玩。<button>\n<button>术语表<button>\n<button>相关社区文章<button>\n<button>故意送人头<button>\n<button>搞破坏<button>\n<button>AFK<button>\n<button>秒退<button>\n<button>选英雄时威胁队友<button>\n<button>使用外挂<button>\n<button>脚本<button>\n<button>排位作弊<button>\n<button>单排代练<button>\n<button>“坐车”/组队带练<button>\n<button>故意自降段位<button>\n<button>炸鱼<button>\n<button>互刷胜场<button>\n<button>假赛<button>\n<button>永久封禁<button>\n<button>硬件封禁<button>\n<button>The Grand Opening of the SoLa Technology and Entrepreneurship Center<button>\n<button>Free Mental Health Resources for Content Creators<button>\n<button>Dawnbringer Karma Wins Golden Halo Award<button>\n<button>加载更多<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "社区公约",
+      "url": "https://www.riotgames.com/zh-cn/community-pact",
+      "markdown_chars": 5240,
+      "discovered_buttons": 40
+    },
+    {
+      "index": 16,
+      "role": "WebWalker",
+      "content": "The \"社区公约\" section contains some relevant information about community initiatives, including an article titled **\"The Grand Opening of the SoLa Technology and Entrepreneurship Center\"**, which mentions a $2.25M donation from Riot to support Black and Brown game developers, esports players, and tech professionals. However, this does not directly answer the question about activities on March 7, 2022, or special guests. I will now visit the \"相关社区文章\" (Related Community Articles) section to look for more details.\n\nAction: visit_page\nAction Input: {\"button\": \"相关社区文章\"}"
+    },
+    {
+      "index": 17,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\nglobeIcon\nburgerNav\nburgerNavClose\n登录\n登录\n!\n!\n# \n2026 赛季//第三幕现已开启\n塑水宗卷土重来、斗牛：晋升赛开启、地图池迎来更新 更多精彩内容，尽在第三幕！\n## 最新动态\n 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告 新闻 ](\n  * ### \n  * ### \n  * ### \n  * ### \n## 我们的游戏\n ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\") ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\") ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\")\n## 电子竞技&娱乐\n! ]( ]( ]( ]( ](\n## 加入我们！\n加入拳头，开启全新征程，铸造难以忘怀的玩家经历\n!\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>mainLogoRiotFist21<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>展开全部<button>\n<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告新闻<button>\n<button>VCT 2027：每一战，皆决战新闻<button>\n<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片新闻<button>\n<button>【无畏契约】并肩而战//迷核英雄预告新闻<button>\n<button>花开如约 | 2026新春庆典踏雪寻梅遇故知新闻<button>\n<button>181招聘职位<button>\n<button>24地点<button>\n<button>查看所有空缺职位<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "相关社区文章",
+      "url": "https://www.riotgames.com/zh-cn#related-articles",
+      "markdown_chars": 1084,
+      "discovered_buttons": 23
+    }
+  ]
+}

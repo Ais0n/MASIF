@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0252_536de4d235b4",
+  "source_index": 252,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the earliest time and date exhibitors can begin booth installation before the ITM/PTTI conference in January 2025?",
+  "prompt": "What is the earliest time and date exhibitors can begin booth installation before the ITM/PTTI conference in January 2025?",
+  "expected_answer": "January 27, 2025, from 1:00 p.m. to 6:00 p.m.",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/ptti/exhibitor-resource-center.cfm"
+    ],
+    "golden_path": [
+      "root->PTTI->Exhibitor Resource Center"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 21,
+  "tool_calls": 8,
+  "duration_seconds": 127.822,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0252_536de4d235b4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0252_536de4d235b4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

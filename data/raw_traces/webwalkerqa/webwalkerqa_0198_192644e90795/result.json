@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0198_192644e90795",
+  "source_index": 198,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When did EHA join ECO based on the anniversary date?",
+  "prompt": "When did EHA join ECO based on the anniversary date?",
+  "expected_answer": "EHA joined the European Cancer Organisation (ECO) on November 17-18, 2020.",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/organization/newsroom/news-and-updates/tag/eco"
+    ],
+    "golden_path": [
+      "root->News & views->ECO"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 70.395,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0198_192644e90795/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0198_192644e90795/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

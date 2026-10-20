@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0178_ab3544bdaeaa",
+  "source_index": 178,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在6-7月份的百度之星程序设计大赛初赛中，湖南工业大学计算机学院(人工智能学院)双创中心ACM程序设计队一共获得了几项奖项？",
+  "prompt": "在6-7月份的百度之星程序设计大赛初赛中，湖南工业大学计算机学院(人工智能学院)双创中心ACM程序设计队一共获得了几项奖项？",
+  "expected_answer": "22",
+  "root_url": "https://computer.hut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hut.edu.cn/info/1128/11099.htm"
+    ],
+    "golden_path": [
+      "root->我院学子闪耀第二十届百度之星程序设计赛"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 18.069,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0178_ab3544bdaeaa/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0178_ab3544bdaeaa/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

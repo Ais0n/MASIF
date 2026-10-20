@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0457_3c6ea40ba361",
+  "source_index": 457,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北汽集团在2017年与哪家企业合作建立了纯电动车生产基地，并这一举动如何对应其'高新特'发展战略中的哪一项？",
+  "prompt": "北汽集团在2017年与哪家企业合作建立了纯电动车生产基地，并这一举动如何对应其'高新特'发展战略中的哪一项？",
+  "expected_answer": "戴姆勒公司；对应'高端制造'。",
+  "root_url": "https://www.baicgroup.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.baicgroup.com.cn/history.html",
+      "https://www.baicgroup.com.cn/innovation-strategy.html"
+    ],
+    "golden_path": [
+      "root->发展历程",
+      "root->创新战略"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "北汽集团在2017年与华为合作建立了纯电动车生产基地，这一举动对应其'高新特'发展战略中的'新'，即代表创新驱动，加快新能源化步伐，推动智能网联新技术开发应用。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 20.58,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0457_3c6ea40ba361/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0457_3c6ea40ba361/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

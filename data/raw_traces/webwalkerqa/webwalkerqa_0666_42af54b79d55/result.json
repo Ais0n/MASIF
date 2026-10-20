@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0666_42af54b79d55",
+  "source_index": 666,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京理工大学计算机学院在2024年暑期实践活动中，7月10日实践团队分别在南京和浙江台州市临海市紫阳街都进行学习，两个地方代表各自省份的历史意义是什么？",
+  "prompt": "南京理工大学计算机学院在2024年暑期实践活动中，7月10日实践团队分别在南京和浙江台州市临海市紫阳街都进行学习，两个地方代表各自省份的历史意义是什么？",
+  "expected_answer": "南京代表了中共在解放战争的重要阶段，浙江台州市临海市紫阳街象征着自新中国成立以来的历史文化变迁。",
+  "root_url": "https://cs.njust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njust.edu.cn/2f/c5/c11675a339909/page.htm",
+      "https://cs.njust.edu.cn/2f/c7/c11675a339911/page.htm"
+    ],
+    "golden_path": [
+      "root->学生风采->学院“爱国之声，红心传颂”教育实践团开展暑期实践活动2024-10-11",
+      "root->学生风采->学院“青春筑梦党史行”实践小队开展暑期实践活动2024-10-11"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 46.759,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0666_42af54b79d55/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0666_42af54b79d55/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

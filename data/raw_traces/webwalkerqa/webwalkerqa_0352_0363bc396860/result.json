@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0352_0363bc396860",
+  "source_index": 352,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2022年华南师范大学计算机学院博士研究生招生复试工作安排中，哪位考生的初试总分最高？",
+  "prompt": "在2022年华南师范大学计算机学院博士研究生招生复试工作安排中，哪位考生的初试总分最高？",
+  "expected_answer": "杨鹏，初试总分为267",
+  "root_url": "http://cs.scnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.scnu.edu.cn/a/20220510/5143.html"
+    ],
+    "golden_path": [
+      "root->研究生教育->研究生招生->2022-05-102022年计算机学院博士研究生招生复试工作安排"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 32.376,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0352_0363bc396860/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0352_0363bc396860/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

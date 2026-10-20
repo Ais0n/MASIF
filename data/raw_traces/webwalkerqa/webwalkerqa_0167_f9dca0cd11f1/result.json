@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0167_f9dca0cd11f1",
+  "source_index": 167,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How many hours in total would a person spend if they attended the Inclusive Connections Lounge activities from December 1 to 6, 2024, at the MRS Fall Meeting?",
+  "prompt": "How many hours in total would a person spend if they attended the Inclusive Connections Lounge activities from December 1 to 6, 2024, at the MRS Fall Meeting?",
+  "expected_answer": "66 hours",
+  "root_url": "https://www.mrs.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/meeting-events/broadening-participation/inclusive-connections-lounge"
+    ],
+    "golden_path": [
+      "root->Inclusive Connections Lounge"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 307.961,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0167_f9dca0cd11f1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0167_f9dca0cd11f1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

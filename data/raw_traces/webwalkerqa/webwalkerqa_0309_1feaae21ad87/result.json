@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0309_1feaae21ad87",
+  "source_index": 309,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which country is the guest of honor at the 2024 China International Import Expo?",
+  "prompt": "Which country is the guest of honor at the 2024 China International Import Expo?",
+  "expected_answer": "Uzbekistan",
+  "root_url": "https://www.ciie.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ciie.org/zbh/en/news/exhibition/focus/20241029/46297.html"
+    ],
+    "golden_path": [
+      "root->Home->Intl Focus->Guest country of honor - Uzbekistan"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "Zambia is the guest of honor at the 2024 China International Import Expo.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 6,
+  "duration_seconds": 72.259,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0309_1feaae21ad87/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0309_1feaae21ad87/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer identifies Zambia as the guest of honor, whereas the expected answer is Uzbekistan.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

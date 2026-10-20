@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0231_194480e00a9a",
+  "source_index": 231,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who received the Per Enge Early Achievement Award in 2023 for outstanding innovations in the development of low Earth orbiting satellites?",
+  "prompt": "Who received the Per Enge Early Achievement Award in 2023 for outstanding innovations in the development of low Earth orbiting satellites?",
+  "expected_answer": "Dr. Tyler Gerald René Reid",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/awards/Annual-Award-Winners.cfm"
+    ],
+    "golden_path": [
+      "root->Awards->2023 Award Recipients"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The Per Enge Early Achievement Award for 2023 was listed as empty, meaning no recipient was announced for that year.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 36.803,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0231_194480e00a9a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0231_194480e00a9a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer incorrectly states there was no recipient, contradicting the expected answer which names Dr. Tyler Gerald René Reid.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0502_a9480af38f2c",
+  "source_index": 502,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年浙江大学在ASC超算竞赛中蝉联世界最高计算性能奖的超算队指导老师是哪些？同时也是求是人工智能科教奖相关基金创立者的是什么知名人工智能专家？",
+  "prompt": "2024年浙江大学在ASC超算竞赛中蝉联世界最高计算性能奖的超算队指导老师是哪些？同时也是求是人工智能科教奖相关基金创立者的是什么知名人工智能专家？",
+  "expected_answer": "陈建海、王则可、张寅、何水兵（指导老师）；潘云鹤（人工智能专家）",
+  "root_url": "http://www.cs.zju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2024/0418/c26737a2902695/page.htm",
+      "http://www.cs.zju.edu.cn/csen/2024/1009/c26739a2970989/page.htm"
+    ],
+    "golden_path": [
+      "root->首页->喜报！浙江大学超算队荣获ASC24超算大赛总决赛一等奖并蝉联世界最高计算性能奖",
+      "root->首页->关于2024年求是人工智能科教奖获奖人选的公示"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 48.407,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0502_a9480af38f2c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0502_a9480af38f2c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

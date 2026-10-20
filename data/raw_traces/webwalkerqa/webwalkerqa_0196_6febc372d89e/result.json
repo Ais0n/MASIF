@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0196_6febc372d89e",
+  "source_index": 196,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When are the IETF Sailors activities usually scheduled for sailing enthusiasts during IETF meetings?",
+  "prompt": "When are the IETF Sailors activities usually scheduled for sailing enthusiasts during IETF meetings?",
+  "expected_answer": "The IETF Sailors events are usually scheduled on the weekends immediately before or after an IETF meeting.",
+  "root_url": "https://www.ietf.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ietf.org/about/groups/affiliate/"
+    ],
+    "golden_path": [
+      "root->Internet Engineering Steering Group->Affiliate Groups"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The IETF Sailors activities are typically scheduled during the IETF meetings, which are held three times per year. The specific dates and locations vary, with upcoming meetings scheduled for July 18-24, 2026 in Vienna, Austria; November 14-20, 2026 in San Francisco, USA; and March 6-12, 2027 in Asia, among others.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 4,
+  "duration_seconds": 46.306,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0196_6febc372d89e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0196_6febc372d89e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer incorrectly states the activities are scheduled during the meetings, missing the specific timing of the weekends immediately before or after the meetings.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

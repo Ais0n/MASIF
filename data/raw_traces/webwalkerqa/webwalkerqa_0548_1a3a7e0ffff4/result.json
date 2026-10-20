@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0548_1a3a7e0ffff4",
+  "source_index": 548,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年4月的活动中，广州数据交易所和哈尔滨工程大学的机器人仿真创新实验室分别派出的代表人物是谁？",
+  "prompt": "在2024年4月的活动中，广州数据交易所和哈尔滨工程大学的机器人仿真创新实验室分别派出的代表人物是谁？",
+  "expected_answer": "邹咸宇和刘明烁",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2024/0415/c11965a324116/page.htm",
+      "http://cstc.hrbeu.edu.cn/2024/0415/c11965a324115/page.htm"
+    ],
+    "golden_path": [
+      "root->科研动态->下一页>>->广州数据交易所与国家工程实验室进行交流研讨赋能龙江数据产业建设2024-04-15",
+      "root->科研动态->下一页>>->机器人仿真创新实验室亮相2024年第二届先进技术成果转化大会2024-04-15"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 33.148,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0548_1a3a7e0ffff4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0548_1a3a7e0ffff4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

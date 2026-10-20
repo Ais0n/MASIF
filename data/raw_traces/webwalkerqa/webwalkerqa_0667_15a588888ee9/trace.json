@@ -1,0 +1,124 @@
+{
+  "events": [
+    {
+      "index": 1,
+      "role": "user",
+      "content": "query:\n在暨南大学2018级信息管理与信息系统与信息与计算科学两个专业的必修课学分总数各是多少？\nofficial website:\nhttps://xxxy.jnu.edu.cn/\nObservation:website information:\n\n](\n \n                                                                                  \n    * ;)\n                      * ;)\n                                      * ;)\n                                                                * ;)\n                  * ;)\n              \n        \n              \n            \n          \n      \n#### 友情链接\n     \n学院团委微信平台\n扫一扫关注学院\n                                                                                                                                                                                                                                                                \n!\n\n\nclickable button:\n\n<button>联系我们<button>\n<button>学院概况<button>\n<button>院长致辞<button>\n<button>学院简介<button>\n<button>学院领导<button>\n<button>机构设置<button>\n<button>院系中心<button>\n<button>师资力量<button>\n<button>高端人才<button>\n<button>师资力量<button>\n<button>人才培养<button>\n<button>本科教学<button>\n<button>研究生教育<button>\n<button>科学研究<button>\n<button>科研项目<button>\n<button>科研成果<button>\n<button>实验室建设<button>\n<button>人才招聘<button>\n<button>学生园地<button>\n<button>党群之窗<button>\n<button>党群动态<button>\n<button>理论学习<button>\n<button>组织工作<button>\n<button>招生就业<button>\n<button>数学系<button>\n<button>电子工程系<button>\n<button>计算机科学系<button>\n<button>计算中心<button>\n<button>培养方案一（信息）<button>\n<button>培养方案二（网安）<button>\n<button>通知公示<button>\n<button>本科各专业课表<button>\n<button>考试安排表<button>\n<button>学位点简介<button>\n<button>招生简章<button>\n<button>通知公告<button>\n<button>常用资料<button>\n<button>MORE +<button>\n<button>MORE +<button>\n<button>我院教师团队斩获第十届华为ICT大赛全国总决赛教学赛一等奖2026-04-28<button>\n<button>04-22迎百廿校庆|信息科学技术学院 “一九零六寻根·暨南薪火相传”：对话丽呈朗誉酒店联合创始人黄健明<button>\n<button>04-22迎百廿校庆|信息科学技术学院 “一九零六寻根·暨南薪火相传”：对话丽呈朗誉酒店联合创始人黄健明<button>\n<button>04-22学院举办研究生导师专题培训 共探理工科育人共赢之道<button>\n<button>04-15迎百廿校庆|信息科学技术学院 “一九零六寻根・暨南薪火相传”：对话侨盛科技董事长叶建忠<button>\n<button>04-13聚力人才引育，破解发展瓶颈 ——邢锋校长莅临信息科学技术学院调研指导工作<button>\n<button>04-12信息科学技术学院计算机科学系数据智能与脑机接口团队在人工智能国际顶级期刊TPAMI发表论文<button>\n<button>04-11迎百廿校庆专访：梁普宇校友从暨南园到澳门立法会的服务之路<button>\n<button>MORE +<button>\n<button>04-2320262026年数学系学术讲座（十）<button>\n<button>03-182026年数学系学术讲座（九）<button>\n<button>03-132026年数学系学术讲座（八）<button>\n<button>03-062026年数学系学术讲座（七）<button>\n<button>03-052026年数学系学术讲座（六）<button>\n<button>01-272026年数学系学术讲座（五）<button>\n<button>MORE +<button>\n<button>追忆先辈足迹，传承红色基因2025-03-29<button>\n<button>知校爱校铭于心，荣校兴校践于行 ——计算机科学系研究生第一党支部开展主题党日活动2024-10-29<button>\n<button>党建引领 共创共赢 | 广州联通国企开放日，新一批暨大IT学子进入国家队2024-10-24<button>\n<button>“建设我们伟大的祖国”——党员理想信念教育活动2024-10-09<button>\n<button>学院召开党委扩大会议暨保密工作专题会议2024-10-08<button>\n<button>在线咨询><button>\n<button>网络空间安全学院<button>\n<button>微电子学院<button>\n<button>密码学院<button>\n<button>暨大图书馆<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n\n\nEach button is wrapped in a <button> tag\n\n",
+      "root_url": "https://xxxy.jnu.edu.cn/"
+    },
+    {
+      "index": 2,
+      "role": "WebWalker",
+      "content": "Thought: 我需要找到暨南大学2018级信息管理与信息系统和信息与计算科学两个专业的必修课学分总数。首先，我应该访问“本科教学”页面，因为这可能包含有关课程设置的信息。\n\nAction: visit_page\nAction Input: {\"button\": \"本科教学\"}"
+    },
+    {
+      "index": 3,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n](\n \n                                                                                    \n    * ;)\n                      * ;)\n                                      * ;)\n                                                                * ;)\n                  * ;)\n                \n#### 人才培养\n#### \n                                        \n      \n>>>\n ](\n\")\n2018-07-20 \n                          \n  * 每页  _14_ 记录  总共  _38_ 记录 \n  * ](javascript:void\\(0\\);) ](javascript:void\\(0\\);) ]( ](\n  * 页码  _1_ /_3_ ;)\n学院团委微信平台\n扫一扫关注学院\n                                                                                                                                                                                                                                                                  \n!\n\n\nClickable buttons are wrapped in <button> tag\n<button>联系我们<button>\n<button>学院概况<button>\n<button>院长致辞<button>\n<button>学院简介<button>\n<button>学院领导<button>\n<button>机构设置<button>\n<button>院系中心<button>\n<button>师资力量<button>\n<button>高端人才<button>\n<button>师资力量<button>\n<button>人才培养<button>\n<button>本科教学<button>\n<button>研究生教育<button>\n<button>科学研究<button>\n<button>科研项目<button>\n<button>科研成果<button>\n<button>实验室建设<button>\n<button>人才招聘<button>\n<button>学生园地<button>\n<button>党群之窗<button>\n<button>党群动态<button>\n<button>理论学习<button>\n<button>组织工作<button>\n<button>招生就业<button>\n<button>人才引进<button>\n<button>数学系<button>\n<button>电子工程系<button>\n<button>计算机科学系<button>\n<button>计算中心<button>\n<button>培养方案一（信息）<button>\n<button>培养方案二（网安）<button>\n<button>通知公示<button>\n<button>本科各专业课表<button>\n<button>考试安排表<button>\n<button>学位点简介<button>\n<button>招生简章<button>\n<button>通知公告<button>\n<button>常用资料<button>\n<button>在线咨询><button>\n<button>首页<button>\n<button>2018级软件工程专业本科人才培养方案(外招生)<button>\n<button>暨南大学 信息科学技术学院 软件工程专业本科人才培养方案(外招生) 培养目标: A1. 掌握基本的数学和计算机科学理论，熟悉计算机软件开发的基本原理和基本方法，以及最新的技术和开发环境。 A2. 掌握计算机软件开发的主流技术和发展方...<button>\n<button>2018级软件工程专业本科人才培养方案(内招生)2018-07-20<button>\n<button>2018级计算机科学与技术专业本科人才培养方案(外招生)2018-07-20<button>\n<button>2018级计算机科学与技术专业本科人才培养方案(内招生)2018-07-20<button>\n<button>2018级信息管理与信息系统专业主修本科人才培养方案（外招生）2018-07-20<button>\n<button>2018级信息管理与信息系统专业主修本科人才培养方案（内招生）2018-07-20<button>\n<button>2018级信息与计算科学专业主修本科人才培养方案（外招生）2018-07-20<button>\n<button>2018级信息与计算科学专业主修本科人才培养方案（内招生）2018-07-20<button>\n<button>2018级数学与应用数学专业主修本科人才培养方案（外招生）2018-07-20<button>\n<button>2018级数学与应用数学专业主修本科人才培养方案（内招生）2018-07-20<button>\n<button>2018级网络工程专业本科人才培养方案(外招生)2018-07-20<button>\n<button>2018级网络工程专业本科人才培养方案(内招生)2018-07-20<button>\n<button>2018级智能科学与技术专业本科人才培养方案(外招生)2018-07-20<button>\n<button>2018级智能科学与技术专业本科人才培养方案(内招生)2018-07-20<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n",
+      "button": "本科教学",
+      "url": "https://xxxy.jnu.edu.cn/27543/list.htm",
+      "markdown_chars": 780,
+      "discovered_buttons": 67
+    },
+    {
+      "index": 4,
+      "role": "WebWalker",
+      "content": "Memory:\n-观察结果中包含了多个2018级本科专业的人才培养方案链接，其中包括信息管理与信息系统和信息与计算科学专业的培养方案。这些链接可能包含必修课学分总数的相关信息，但当前观察内容未直接提供具体学分数据。\n\"}"
+    },
+    {
+      "index": 5,
+      "role": "WebWalker",
+      "content": "我需要找到2018级信息管理与信息系统和信息与计算科学两个专业的必修课学分总数。现在，我应该点击“2018级信息管理与信息系统专业主修本科人才培养方案（内招生）”按钮来查看该专业的培养方案。\n\nAction: visit_page\nAction Input: {\"button\": \"2018级信息管理与信息系统专业主修本科人才培养方案（内招生）\"}\n"
+    },
+    {
+      "index": 6,
+      "role": "VisitPage",
+      "content": "Button not found: 2018级信息管理与信息系统专业主修本科人才培养方案（内招生）",
+      "button": "2018级信息管理与信息系统专业主修本科人才培养方案（内招生）",
+      "raw_params": "{\"button\": \"2018级信息管理与信息系统专业主修本科人才培养方案（内招生）\"}"
+    },
+    {
+      "index": 7,
+      "role": "WebWalker",
+      "content": "看起来我无法直接点击该按钮，可能是页面结构或链接问题。我需要尝试其他方式获取信息，比如查看是否有其他相关按钮或页面内容中是否包含所需信息。\n\nAction: visit_page\nAction Input: {\"button\": \"2018级信息与计算科学专业主修本科人才培养方案（内招生）\"}"
+    },
+    {
+      "index": 8,
+      "role": "VisitPage",
+      "content": "Button not found: 2018级信息与计算科学专业主修本科人才培养方案（内招生）",
+      "button": "2018级信息与计算科学专业主修本科人才培养方案（内招生）",
+      "raw_params": "{\"button\": \"2018级信息与计算科学专业主修本科人才培养方案（内招生）\"}"
+    },
+    {
+      "index": 9,
+      "role": "WebWalker",
+      "content": "看起来直接点击这些按钮无法获取页面内容，可能是由于链接失效或页面结构问题。我需要尝试访问“培养方案一（信息）”按钮，这可能包含与信息管理与信息系统相关的培养方案。\n\nAction: visit_page\nAction Input: {\"button\": \"培养方案一（信息）\"}"
+    },
+    {
+      "index": 10,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n](\n \n                                                                                    \n    * ;)\n                      * ;)\n                                      * ;)\n                                                                * ;)\n                  * ;)\n                \n#### 人才培养\n#### \n                                        \n      \n>>>\n ](\n\")\n2018-07-20 \n                          \n  * 每页  _14_ 记录  总共  _38_ 记录 \n  * ](javascript:void\\(0\\);) ](javascript:void\\(0\\);) ]( ](\n  * 页码  _1_ /_3_ ;)\n学院团委微信平台\n扫一扫关注学院\n                                                                                                                                                                                                                                                                  \n!\n\n\nClickable buttons are wrapped in <button> tag\n<button>联系我们<button>\n<button>学院概况<button>\n<button>院长致辞<button>\n<button>学院简介<button>\n<button>学院领导<button>\n<button>机构设置<button>\n<button>院系中心<button>\n<button>师资力量<button>\n<button>高端人才<button>\n<button>师资力量<button>\n<button>人才培养<button>\n<button>本科教学<button>\n<button>研究生教育<button>\n<button>科学研究<button>\n<button>科研项目<button>\n<button>科研成果<button>\n<button>实验室建设<button>\n<button>人才招聘<button>\n<button>学生园地<button>\n<button>党群之窗<button>\n<button>党群动态<button>\n<button>理论学习<button>\n<button>组织工作<button>\n<button>招生就业<button>\n<button>人才引进<button>\n<button>数学系<button>\n<button>电子工程系<button>\n<button>计算机科学系<button>\n<button>计算中心<button>\n<button>培养方案一（信息）<button>\n<button>培养方案二（网安）<button>\n<button>通知公示<button>\n<button>本科各专业课表<button>\n<button>考试安排表<button>\n<button>学位点简介<button>\n<button>招生简章<button>\n<button>通知公告<button>\n<button>常用资料<button>\n<button>在线咨询><button>\n<button>首页<button>\n<button>2018级软件工程专业本科人才培养方案(外招生)<button>\n<button>暨南大学 信息科学技术学院 软件工程专业本科人才培养方案(外招生) 培养目标: A1. 掌握基本的数学和计算机科学理论，熟悉计算机软件开发的基本原理和基本方法，以及最新的技术和开发环境。 A2. 掌握计算机软件开发的主流技术和发展方...<button>\n<button>2018级软件工程专业本科人才培养方案(内招生)2018-07-20<button>\n<button>2018级计算机科学与技术专业本科人才培养方案(外招生)2018-07-20<button>\n<button>2018级计算机科学与技术专业本科人才培养方案(内招生)2018-07-20<button>\n<button>2018级信息管理与信息系统专业主修本科人才培养方案（外招生）2018-07-20<button>\n<button>2018级信息管理与信息系统专业主修本科人才培养方案（内招生）2018-07-20<button>\n<button>2018级信息与计算科学专业主修本科人才培养方案（外招生）2018-07-20<button>\n<button>2018级信息与计算科学专业主修本科人才培养方案（内招生）2018-07-20<button>\n<button>2018级数学与应用数学专业主修本科人才培养方案（外招生）2018-07-20<button>\n<button>2018级数学与应用数学专业主修本科人才培养方案（内招生）2018-07-20<button>\n<button>2018级网络工程专业本科人才培养方案(外招生)2018-07-20<button>\n<button>2018级网络工程专业本科人才培养方案(内招生)2018-07-20<button>\n<button>2018级智能科学与技术专业本科人才培养方案(外招生)2018-07-20<button>\n<button>2018级智能科学与技术专业本科人才培养方案(内招生)2018-07-20<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n",
+      "button": "培养方案一（信息）",
+      "url": "https://xxxy.jnu.edu.cn/pyfaewxxxyw/list.htm",
+      "markdown_chars": 780,
+      "discovered_buttons": 67
+    },
+    {
+      "index": 11,
+      "role": "WebWalker",
+      "content": "Memory:\n观察结果中包含了多个2018级本科专业的人才培养方案链接，其中包括信息管理与信息系统和信息与计算科学专业的培养方案。这些链接可能包含必修课学分总数的相关信息，但当前观察内容未直接提供具体学分数据。\n-观察结果中包含了多个2018级本科专业的人才培养方案链接，其中包括信息管理与信息系统和信息与计算科学专业的培养方案。这些链接可能包含必修课学分总数的信息，但具体数据未在当前观察中直接提供。\n\"}"
+    },
+    {
+      "index": 12,
+      "role": "WebWalker",
+      "content": "Thought: 看起来“培养方案一（信息）”按钮也无法直接访问，可能是页面结构或链接问题。我需要尝试其他方式获取信息，比如查看是否有其他相关按钮或页面内容中是否包含所需信息。\n\nAction: visit_page\nAction Input: {\"button\": \"2018级信息管理与信息系统专业主修本科人才培养方案（外招生）\"}\n"
+    },
+    {
+      "index": 13,
+      "role": "VisitPage",
+      "content": "Button not found: 2018级信息管理与信息系统专业主修本科人才培养方案（外招生）",
+      "button": "2018级信息管理与信息系统专业主修本科人才培养方案（外招生）",
+      "raw_params": "{\"button\": \"2018级信息管理与信息系统专业主修本科人才培养方案（外招生）\"}"
+    },
+    {
+      "index": 14,
+      "role": "WebWalker",
+      "content": "Thought: 看起来直接点击这些按钮无法获取页面内容，可能是由于链接失效或页面结构问题。我需要尝试访问“培养方案二（网安）”按钮，这可能包含与信息管理与信息系统相关的培养方案。\n\nAction: visit_page\nAction Input: {\"button\": \"培养方案二（网安）\"}\n"
+    },
+    {
+      "index": 15,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n](\n \n                                                                                    \n    * ;)\n                      * ;)\n                                      * ;)\n                                                                * ;)\n                  * ;)\n                \n#### 人才培养\n#### \n                                        \n      \n>>>\n学院团委微信平台\n扫一扫关注学院\n                                                                                                                                                                                                                                                                  \n!\n\n\nClickable buttons are wrapped in <button> tag\n<button>联系我们<button>\n<button>学院概况<button>\n<button>院长致辞<button>\n<button>学院简介<button>\n<button>学院领导<button>\n<button>机构设置<button>\n<button>院系中心<button>\n<button>师资力量<button>\n<button>高端人才<button>\n<button>师资力量<button>\n<button>人才培养<button>\n<button>本科教学<button>\n<button>研究生教育<button>\n<button>科学研究<button>\n<button>科研项目<button>\n<button>科研成果<button>\n<button>实验室建设<button>\n<button>人才招聘<button>\n<button>学生园地<button>\n<button>党群之窗<button>\n<button>党群动态<button>\n<button>理论学习<button>\n<button>组织工作<button>\n<button>招生就业<button>\n<button>人才引进<button>\n<button>数学系<button>\n<button>电子工程系<button>\n<button>计算机科学系<button>\n<button>计算中心<button>\n<button>培养方案一（信息）<button>\n<button>培养方案二（网安）<button>\n<button>通知公示<button>\n<button>本科各专业课表<button>\n<button>考试安排表<button>\n<button>学位点简介<button>\n<button>招生简章<button>\n<button>通知公告<button>\n<button>常用资料<button>\n<button>在线咨询><button>\n<button>首页<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n",
+      "button": "培养方案二（网安）",
+      "url": "https://xxxy.jnu.edu.cn/27563/list.htm",
+      "markdown_chars": 624,
+      "discovered_buttons": 52
+    },
+    {
+      "index": 16,
+      "role": "WebWalker",
+      "content": "Thought: 看起来“培养方案二（网安）”按钮也无法直接访问，可能是页面结构或链接问题。我需要尝试其他方式获取信息，比如查看是否有其他相关按钮或页面内容中是否包含所需信息。\n\nAction: visit_page\nAction Input: {\"button\": \"2018级信息与计算科学专业主修本科人才培养方案（外招生）\"}\n"
+    },
+    {
+      "index": 17,
+      "role": "VisitPage",
+      "content": "Button not found: 2018级信息与计算科学专业主修本科人才培养方案（外招生）",
+      "button": "2018级信息与计算科学专业主修本科人才培养方案（外招生）",
+      "raw_params": "{\"button\": \"2018级信息与计算科学专业主修本科人才培养方案（外招生）\"}"
+    },
+    {
+      "index": 18,
+      "role": "WebWalker",
+      "content": "Thought: 看起来直接点击这些按钮无法获取页面内容，可能是由于链接失效或页面结构问题。我需要尝试访问“通知公示”按钮，这可能包含与培养方案相关的公告信息。\n\nAction: visit_page\nAction Input: {\"button\": \"通知公示\"}"
+    },
+    {
+      "index": 19,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n](\n \n                                                                                    \n    * ;)\n                      * ;)\n                                      * ;)\n                                                                * ;)\n                  * ;)\n                \n#### 人才培养\n#### \n                                        \n      \n>>>\n ](\n2025-09-23 \n                          \n  * 每页  _14_ 记录  总共  _28_ 记录 \n  * ](javascript:void\\(0\\);) ](javascript:void\\(0\\);) ]( ](\n  * 页码  _1_ /_2_ ;)\n学院团委微信平台\n扫一扫关注学院\n                                                                                                                                                                                                                                                                  \n!\n\n\nClickable buttons are wrapped in <button> tag\n<button>联系我们<button>\n<button>学院概况<button>\n<button>院长致辞<button>\n<button>学院简介<button>\n<button>学院领导<button>\n<button>机构设置<button>\n<button>院系中心<button>\n<button>师资力量<button>\n<button>高端人才<button>\n<button>师资力量<button>\n<button>人才培养<button>\n<button>本科教学<button>\n<button>研究生教育<button>\n<button>科学研究<button>\n<button>科研项目<button>\n<button>科研成果<button>\n<button>实验室建设<button>\n<button>人才招聘<button>\n<button>学生园地<button>\n<button>党群之窗<button>\n<button>党群动态<button>\n<button>理论学习<button>\n<button>组织工作<button>\n<button>招生就业<button>\n<button>人才引进<button>\n<button>数学系<button>\n<button>电子工程系<button>\n<button>计算机科学系<button>\n<button>计算中心<button>\n<button>培养方案一（信息）<button>\n<button>培养方案二（网安）<button>\n<button>通知公示<button>\n<button>本科各专业课表<button>\n<button>考试安排表<button>\n<button>学位点简介<button>\n<button>招生简章<button>\n<button>通知公告<button>\n<button>常用资料<button>\n<button>在线咨询><button>\n<button>首页<button>\n<button>关于2025年本科生微专业 《人工智能应用》选课名单的公示<button>\n<button>各学院、各位同学： 经学生个人申请，学院审核，现将拟录取的报名学生名单予以公示。公示截止时间2025年9月25日。 公示期内，如有异议，请以书面形式向我院反映。提出异议者必须提供本人真实姓名、单位、联系电话等有效联系方式（我办将予以严格保密），凡匿名、冒名不予受理。 地址：信息科学技术学院本科教学管理办公室（番禺校区知识产权大楼1319室）联系人：郑老师联系方式：zn2044@jnu.edu.cn，(020)37332576...<button>\n<button>关于信息科学技术学院2026届本科内招毕业生免初试攻读研究生（普通类）推荐名单的公示2025-09-09<button>\n<button>信息科学技术学院拟推荐2025届优秀本科毕业生（港澳台侨及来华留学生）免初试攻读研究生名单及排序公示2024-11-15<button>\n<button>信息科学技术学院关于举办2024年本科课程新任教师教学竞赛的通知2024-11-02<button>\n<button>关于信息科学技术学院/网络空间安全学院2025届本科内招毕业生免初试攻读研究生（普通类）推荐名单的公示2024-09-11<button>\n<button>关于信息科学技术学院未按时返校注册本科生违规情况的公示2024-04-08<button>\n<button>（更新）2023届信息科学技术学院拟推荐 本科内招毕业生免初试攻读研究生（普通类）名单及排序公示2022-09-13<button>\n<button>信息科学技术学院拟推荐2022届优秀本科毕业生（港澳台侨及来华留学生）免初试攻读研究生名单及排序公示2021-11-19<button>\n<button>信息科学技术学院拟推荐 2022届本科内招毕业生免初试攻读研究生A类名单及排序公示2021-09-08<button>\n<button>暨南大学第六届本科课程新任教师教学竞赛 信息科学技术学院/网络空间安全学院预赛通知2020-11-02<button>\n<button>2020年度信息科学技术学院信息与计算科学专业申报一流本科专业建设点 佐证材料2020-10-12<button>\n<button>2020年度信息科学技术学院数学与应用数学专业申报一流本科专业建设点 佐证材料2020-10-12<button>\n<button>2020年度信息科学技术学院电子信息工程专业一流专业建设点申报 佐证材料2020-10-12<button>\n<button>暨南大学第八届本科课程教学竞赛信息科学技术学院/网络空间安全学院预赛2019-11-04<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n<button>正高<button>\n<button>副高<button>\n<button>中级及以下<button>\n",
+      "button": "通知公示",
+      "url": "https://xxxy.jnu.edu.cn/27565/list.htm",
+      "markdown_chars": 777,
+      "discovered_buttons": 67
+    }
+  ]
+}

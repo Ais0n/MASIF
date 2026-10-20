@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0562_76dd91c20b13",
+  "source_index": 562,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which game developed by Ironhide was awarded a round trip to GDC as a prize, and what is the latest game they announced for Apple Arcade in 2023?",
+  "prompt": "Which game developed by Ironhide was awarded a round trip to GDC as a prize, and what is the latest game they announced for Apple Arcade in 2023?",
+  "expected_answer": "Kingdom Rush and Junkworld",
+  "root_url": "https://www.ironhidegames.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ironhidegames.com/News/Details/42",
+      "https://www.ironhidegames.com/News/Details/307"
+    ],
+    "golden_path": [
+      "root->Behind the Wand: Meet Stregi!Join Sheepy as they interview the whimsical gnome. It's witch season once again!->Events->Kingdom Rush #1 on Uruguay's national videogame contest",
+      "root->Behind the Wand: Meet Stregi!Join Sheepy as they interview the whimsical gnome. It's witch season once again!->Junkworld->Junkworld is Coming to Apple Arcade on September 22nd!"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The game developed by Ironhide that was awarded a round trip to GDC as a prize is not explicitly mentioned, but the latest game they announced for Apple Arcade in 2023 is 'Iron Marines Invasion'.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 18.345,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0562_76dd91c20b13/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0562_76dd91c20b13/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

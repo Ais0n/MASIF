@@ -1,0 +1,4529 @@
+----- user -----
+query:
+Which champion inspired by West African culture was highlighted by Riot Games for promoting diversity at AfroTech 2022, and what initiative did Riot undertake to support humanitarian efforts in Ukraine in 2022?
+official website:
+https://www.riotgames.com/en
+Observation:website information:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+SIGN IN
+SIGN IN
+!
+!
+# 
+Patch 7.5: Zoe
+Want to see something neat? Zoe joins the Path of Champions, plus the Spirit Blossom Event Adventure returns!
+## What's happening?
+ League, VALORANT, and TFT Partner Programs Open Applications Coming... News ](
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+## Games
+ ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore") ! windowsapple ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! windowsapplemobile ]( "Drag to explore") ! mobile ]( "Drag to explore") ! windowsmobile ]( "Drag to explore") ! windowsplaystationxbox ]( "Drag to explore") ! tradingCard ]( "Drag to explore")
+## Esports & Entertainment
+! ]( ]( ]( ]( ](
+## We’re hiring!
+Team up with Riot to forge your path and craft unforgettable experiences for players
+!
+      
+                          
+Cookie Preferences
+
+
+clickable button:
+
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21mainMenuDownNonHover<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>See more<button>
+<button>League, VALORANT, and TFT Partner Programs Open Applications Coming...News<button>
+<button>You Are the Race | Wild Rift x PorscheNews<button>
+<button>Know Before You Go: 2XKO @ Evo Japan 2026News<button>
+<button>2XKO @ Evo Japan 2026 TrailerNews<button>
+<button>TFT Space Gods Set TrailerNews<button>
+<button>181Open positions<button>
+<button>24Offices<button>
+<button>Explore Careers<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the champion inspired by West African culture and the initiative Riot Games undertook to support humanitarian efforts in Ukraine in 2022. I will start by exploring the "News" section of the website.
+
+Action: visit_page
+Action Input: {"button": "News"}
+
+----- VisitPage -----
+The web information is:
+
+
+SIGN IN
+SIGN IN
+Show Me Everything 
+Close filters
+Filter by 
+  * Everything
+  * Offices
+  * Disciplines
+  * News
+  * Inside Riot
+  * One-Shot
+  * Tech Blog
+!
+News
+Apr 30, 2026
+### You Are the Race | Wild Rift x Porsche
+Not your opponents. Not the clock. You set your limits–and your speed. Prestige Select Neon Daredevil Kai’Sa and her custom Porsche hit the Rift April 30th UTC.
+Apr 30, 2026
+!
+News
+May 1, 2026
+### League, VALORANT, and TFT Partner Programs Open Applications Coming...
+Creators in these three games will be able to apply starting in August.
+May 1, 2026
+!
+News
+Apr 28, 2026
+### Know Before You Go: 2XKO @ Evo Japan 2026
+Evo Japan 2026 starts May 1. Here’s everything to know about 2XKO at the event.
+Apr 28, 2026
+!
+News
+Apr 28, 2026
+### 2XKO @ Evo Japan 2026 Trailer
+2WINz, ikoan, and poka defend their home turf at Evo Japan. Watch 2XKO’s next Major starting May 1.
+Apr 28, 2026
+!
+News
+Apr 15, 2026
+### TFT Space Gods Set Trailer
+Ready for some divine intervention? The very power of the cosmos can be yours – worship wisely. TFT’s latest set, Space Gods, has arrived. Play now!
+Apr 15, 2026
+!
+News
+Apr 14, 2026
+### Dev Update: Arena Updates & More
+Pabro and Meddler talk about Season Two Pandemonium, gameplay changes, Arena updates, and more.
+Apr 14, 2026
+!
+News
+Apr 8, 2026
+### The VCT in 2027 where EVERYTHING IS A TOURNAMENT?! 
+Open Qualifiers, Cups, and Masters + Champions. It’s simple, right?
+Apr 8, 2026
+!
+News
+Apr 2, 2026
+### Riot Named to Fortune’s 100 Best Companies to Work For list
+This recognition reflects our focus on ensuring Riot the best place to make games and is thanks to the passion, creativity, and dedication Rioters bring to serve players every day. 
+Apr 2, 2026
+!
+News
+Mar 27, 2026
+### Have a Nice Deity! | SPACE GODS Set Cinematic – Teamfight Tactics
+Enter the celestial realm of the SPACE GODS! Come forth, pay homage, and be blessed with cosmic power.
+Mar 27, 2026
+      
+                          
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>You Are the Race | Wild Rift x Porsche<button>
+<button>League, VALORANT, and TFT Partner Programs Open Applications Coming...<button>
+<button>Know Before You Go: 2XKO @ Evo Japan 2026<button>
+<button>2XKO @ Evo Japan 2026 Trailer<button>
+<button>TFT Space Gods Set Trailer<button>
+<button>Dev Update: Arena Updates & More<button>
+<button>The VCT in 2027 where EVERYTHING IS A TOURNAMENT?!<button>
+<button>Riot Named to Fortune’s 100 Best Companies to Work For list<button>
+<button>Have a Nice Deity! | SPACE GODS Set Cinematic – Teamfight Tactics<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+----- WebWalker -----
+The news section does not contain the required information about the champion inspired by West African culture or the initiative undertaken by Riot Games for humanitarian efforts in Ukraine. I will explore the "News" section further by clicking on specific articles to find relevant details.
+
+Action: visit_page
+Action Input: {"button": "You Are the Race | Wild Rift x Porsche"}
+
+----- VisitPage -----
+The web information is:
+
+返回   ]( "YouTube 首页") JP 
+跳过导航
+搜索 
+通过语音搜索内容 
+ ]( "YouTube 首页") JP 
+You Are the Race | Wild Rift x Porsche
+点按取消静音
+2x
+## You Are the Race | Wild Rift x Porsche
+League of Legends: Wild Rift 2,012,195次观看 6天前
+搜索
+复制链接
+信息
+购物
+如果稍后没有开始播放，请尝试重新启动设备。
+•
+你已退出账号
+你观看的视频可能会添加到电视的观看记录中，并影响电视上的推荐内容。为避免发生这种情况，请取消并在计算机上登录 YouTube。
+取消确认
+分享
+包括播放列表
+检索分享信息时出错，请稍后重试。
+0:00
+")
+0:00 / 0:00
+直播
+•观看完整版视频
+•
+•
+请登录，以便我们确认你不是聊天机器人 这有助于保护我们的社区。
+#  You Are the Race | Wild Rift x Porsche
+](
+League of Legends: Wild Rift 
+105万位订阅者
+订阅
+已订阅
+766
+分享
+保存
+下载
+下载 
+2,012,195次观看6天前
+2,012,195次观看 • 2026年4月29日 
+Not your opponents. Not the clock. You set your limits–and your speed. Prestige Select Neon Daredevil Kai’Sa and her custom Porsche hit the Rift April 30th UTC.…...更多 
+...更多 
+### 游戏
+# 
+### 
+ 
+收起 
+# You Are the Race | Wild Rift x Porsche
+2,012,195次观看
+2026年4月29日
+766
+分享
+保存
+下载
+下载 
+##  评论 116
+最热门  显示精选评论  最新  显示近期评论，包括疑似垃圾内容 
+##  说明
+You Are the Race | Wild Rift x Porsche
+766赞
+2,012,195观看次数
+4月29日2026年
+Not your opponents. Not the clock. You set your limits–and your speed. Prestige Select Neon Daredevil Kai’Sa and her custom Porsche hit the Rift April 30th UTC. Created in partnership with Wizz and animation directors CRCR. Learn more at . ABOUT THE GAME Dive into Wild Rift: the skills-and-strats 5v5 MOBA experience of League of Legends, now built from the ground up for mobile. With fresh controls and fast-paced games, players of every level can team up with friends, lock in their champion, and go for the big plays. Download now for free on iOS and Android:  Follow for 200IQ gameplay clips, dev and feature updates, and a whole lot more: Instagram:  Facebook:  Twitter:  Website: …...更多 
+...更多 收起 
+### 游戏
+# 
+### 
+ 
+### 
+### 
+NaN / NaN
+ 直播](
+### 
+Ministry of Truth
+1112人正在观看
+ 直播](
+### 
+Prayer & Grace
+129人正在观看
+ 直播](
+### 
+Cozy Jazz Atmosphere
+209人正在观看
+ 直播](
+### 
+Stadtverwaltung Bad Salzungen
+3721人正在观看
+ 37:20](
+### 
+テレ東BIZ ダイジェスト
+6.6万次观看 • 18小时前
+最新
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+The content related to "You Are the Race | Wild Rift x Porsche" does not provide information about the champion inspired by West African culture or the initiative for humanitarian efforts in Ukraine. I will continue exploring other news articles to find relevant details.
+
+Action: visit_page
+Action Input: {"button": "League, VALORANT, and TFT Partner Programs Open Applications Coming..."}
+
+----- VisitPage -----
+The web information is:
+
+
+globeIcon
+burgerNav
+burgerNavClose
+SIGN IN
+SIGN IN
+News
+# League, VALORANT, and TFT Partner Programs Open Applications Coming Soon
+  * **May 1, 2026**
+        * Toggle additional sharing options
+        * Share this via Email
+            
+!
+_TL;DR: Applications for partner programs in League of Legends, VALORANT, and Teamfight Tactics will open starting in August._
+Partner programs across our games are entering a new era. Back when League was our only game, we had the League Partner Program (LPP). But, years ago, we paused new applications as we worked to figure out the next evolution of our partner programs—one that could help support incredible creators across our growing list of games. We started that evolution with a closed beta and now we’re launching more features—and bringing more creators along for the ride. 
+Starting in August, creators will be able to directly apply to League, VALORANT, and TFT’s Partner Programs. We’re excited to officially welcome thousands of creators into these new programs that offer the unique benefits and support that creators have been asking for.
+Applications will open for VALORANT in August, League in September, and TFT in October with each application period staying open for about a month. While we’re still a few months away, it’s never too early to prepare. There’s a few things you’ll need to have in order to be considered for one of these programs. And, no, a giant audience isn’t one of them—we’re looking to bring in both established and up-and-coming creators. 
+## Partner Program Requirements
+  1. **Passion for the game.** We’re looking for creators with a genuine connection to our games, so we’ll look at how you play, create, and engage with the game you’re applying to join.
+  2. **Positive impact on the community.** Creators influence how players play our games. How you interact with others—on both your own platforms, and on Riot’s—will impact your application. 
+  3. **An active community.** Our programs are designed for up-and-coming creators, just as much as those with established communities. General benchmarks will vary by game and by region, but the most important thing is that your community is engaged. 
+## Partner Program Benefits
+If that sounds like you, here’s what you can expect if you’re approved:
+  * Features that make content creation easier and more rewarding. Things like: 
+    * Unlocked Champs, Agents, or Tacticians
+    * Giveaway codes for your community
+    * Complimentary battle passes
+    * Dedicated Player Support for creator-specific issues
+  * Access to a brand new Creator Hub, providing tools, resources, and support
+  * Unique, creator-specific opportunities like drops programs, marketing campaigns, and early access to content.   
+!
+  
+If you’re still building your community or don’t make it in during the initial application period, don’t worry—this won’t be the only opportunity. We plan to open applications again in the future.
+To stay up to date, follow Riot’s social channels and bookmark the . 
+## FAQ
+**How long will applications be open?**
+Each game’s initial open application period will be available for about a month. Here are the specific dates: 
+  * VALORANT: August 3, 2026 – August 28, 2026
+  * League of Legends: September 1, 2026 – September 30, 2026
+  * Teamfight Tactics: October 1, 2026 – October 30, 2026
+**Does Wild Rift have a Partner Program?**
+Wild Rift’s Partner Program is , with invites being sent to selected creators. League, VALORANT, and TFT followed a similar path in 2025, and we expect Wild Rift to move toward open applications in 2027.
+**Do 2XKO, Legends of Runeterra, and Riftbound have Partner Programs?**
+We’re always exploring how we can support creators across all of our games but, at this time, we don’t have any new information to share about partner programs for 2XKO, LoR, or Riftbound. That said, each game continues to invest in creators in ways that make sense for their communities. For example, Riftbound recently shared more about how it’s uplifting . You can follow each game’s social channels for the latest updates and opportunities.
+**What regions are eligible for Partner Programs?**
+These programs are available to creators all over the world but due to restrictions in a small number of countries, we may not be able to accept some creators. 
+**When will applications open again in the future?**
+Short answer: We’re not sure.
+Long answer: As soon as we’re confident it’ll be a great experience for additional creators! This is our first time welcoming creators at this scale. It takes time to review every application and onboard all the new creators and we want to ensure our partner programs have scaled effectively before supporting an influx of additional creators. Details on future opportunities to apply will be available on Riot’s social channels and on the Creator Hub front page.
+**Will these partner programs include cosplayers and community artists?**
+Not at this time, but we’re actively exploring ways we can better support both cosplayers and community artists. More on that soonTM.
+* * *
+_Artist Credit:_
+## Latest News
+!
+News
+Apr 30, 2026
+### You Are the Race | Wild Rift x Porsche
+Not your opponents. Not the clock. You set your limits–and your speed. Prestige Select Neon Daredevil Kai’Sa and her custom Porsche hit the Rift April 30th UTC.
+Apr 30, 2026
+!
+News
+Apr 28, 2026
+### Know Before You Go: 2XKO @ Evo Japan 2026
+Evo Japan 2026 starts May 1. Here’s everything to know about 2XKO at the event.
+Apr 28, 2026
+!
+News
+Apr 28, 2026
+### 2XKO @ Evo Japan 2026 Trailer
+2WINz, ikoan, and poka defend their home turf at Evo Japan. Watch 2XKO’s next Major starting May 1.
+Apr 28, 2026
+!
+News
+Apr 15, 2026
+### TFT Space Gods Set Trailer
+Ready for some divine intervention? The very power of the cosmos can be yours – worship wisely. TFT’s latest set, Space Gods, has arrived. Play now!
+Apr 15, 2026
+!
+News
+Apr 14, 2026
+### Dev Update: Arena Updates & More
+Pabro and Meddler talk about Season Two Pandemonium, gameplay changes, Arena updates, and more.
+Apr 14, 2026
+## Latest News
+!
+News
+Apr 8, 2026
+### The VCT in 2027 where EVERYTHING IS A TOURNAMENT?! 
+Open Qualifiers, Cups, and Masters + Champions. It’s simple, right?
+Apr 8, 2026
+!
+News
+Apr 2, 2026
+### Riot Named to Fortune’s 100 Best Companies to Work For list
+This recognition reflects our focus on ensuring Riot the best place to make games and is thanks to the passion, creativity, and dedication Rioters bring to serve players every day. 
+Apr 2, 2026
+!
+News
+Mar 27, 2026
+### Have a Nice Deity! | SPACE GODS Set Cinematic – Teamfight Tactics
+Enter the celestial realm of the SPACE GODS! Come forth, pay homage, and be blessed with cosmic power.
+Mar 27, 2026
+!
+News
+Mar 15, 2026
+### NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT
+Available in Season 26 // ACT II
+Mar 15, 2026
+!
+News
+Mar 10, 2026
+### First Stand 2026
+Make your moves. Change the game. Lead the charge. First Stand 2026, coming at you.
+Mar 10, 2026
+!
+News
+Mar 9, 2026
+### March Update 2026 | Dev Snapshot
+Dev Snapshot dives into the latest release, With Friends Like These. The topics? A new champion, new challenges, new mechanics, and more! 
+Mar 9, 2026
+!
+News
+Mar 2, 2026
+### FST 2026 Primer
+Everything you need to know about FST in São Paulo!
+Mar 2, 2026
+!
+News
+Feb 27, 2026
+### Shyvana, the Half-Dragon
+Do not fear the fire within. Master it.
+Feb 27, 2026
+!
+Inside Riot
+Feb 27, 2026
+### Making a Zeus-inspired VALORANT Skin
+From pulling inspiration from cars to the unique white space on a rifle, Denis Lakhanov shows the process of designing a new VALORANT skin from beginning to end.
+Feb 27, 2026
+!
+News
+Feb 23, 2026
+### ¡GRITA CON EL ALMA! - VALORANT 2026 Masters Santiago Cinematic
+Tune in, turn up, and scream with the soul during VCT Masters Santiago. ¡GRITA CON EL ALMA!
+Feb 23, 2026
+!
+News
+Feb 20, 2026
+### Masters Santiago : Everything You Need To Know
+Get the full rundown on the first global event of the 2026 VCT season!
+Feb 20, 2026
+!
+News
+Feb 17, 2026
+### Masters Santiago: Know Before You Go
+Find out about all the updates, activities, and activations we’ll have at Masters Santiago!
+Feb 17, 2026
+!
+News
+Feb 4, 2026
+### Old Friends, New Bloom | Lunar Revel 2026 Cinematic
+A friendship rekindled with the first bloom of spring. The Lunar Revel begins in Patch 26.03.
+Feb 4, 2026
+!
+News
+Feb 9, 2026
+### An Update on 2XKO
+What’s Changing and Why
+Feb 9, 2026
+!
+News
+Feb 4, 2026
+### EP3: Fortune’s Flight | Lunar Revel 2026 
+A wild ride with the Little Legends gets Prestige Chibi Valiant Sword Riven fired up for the festival.
+Feb 4, 2026
+!
+News
+Feb 4, 2026
+### Find Our Way | Petals of Spring 2026 Cinematic Trailer - LoL: WR
+Home is what you make it. And with whom.
+Feb 4, 2026
+!
+News
+Jan 28, 2026
+### EP2: Fortune’s Blessing | Lunar Revel 2026
+A surprise visitor drops by to recharge God Fist Lee Sin Unbound for the new year.
+Jan 28, 2026
+!
+News
+Jan 19, 2026
+### 2XKO Season 1 2026 Launch Trailer
+2XKO Season 1 hits January 20-21 with a new champion, Battle Pass, and more.
+Jan 19, 2026
+!
+News
+Jan 16, 2026
+### EP1: Fortune’s Dance | Lunar Revel 2026
+Mythmaker Irelia Unbound launches the celebrations with a sharp performance.
+Jan 16, 2026
+!
+News
+Jan 8, 2026
+### Patch 7.0 Preview - League of Legends: Wild Rift
+Join Ke, John, and David in ringing in blossoming new beginnings. Be ready for a rearing Year of the Horse party with new champs on a new Rift January 22nd UTC when patch 7.0: Ionia Celebrations goes live.
+Jan 8, 2026
+!
+News
+Jan 8, 2026
+### Dev Update: For Demacia
+Pabro and Meddler talk about Season One 2026: Shyvana, lobby hostage intervention, and more.
+Jan 8, 2026
+!
+News
+Jan 7, 2026
+### Salvation (ft. Forts) | For Demacia 2026 Season 1 Cinematic
+In the darkest hours, there is always a beacon of hope. Watch the 2026 Season One Cinematic now.
+Jan 7, 2026
+!
+News
+Jan 6, 2026
+### Riot Games Community Pact
+TL;DR: These are our community standards across every Riot game [League of Legends, VALORANT, Teamfight Tactics, League of Legends: Wild Rift, 2XKO, and Legends of Runeterra]
+Jan 6, 2026
+!
+News
+Jan 6, 2026
+### Welcome to Season 2026 // Dev Updates - VALORANT
+The stage is set for a new year of VALORANT.
+Jan 6, 2026
+!
+News
+Jan 5, 2026
+### WHY WE FIGHT BACK // Season 2026 Cinematic Kickoff Trailer - VALORANT
+For vengeance. For survival. For everyone who can’t do it themselves. This is why we fight back.
+Jan 5, 2026
+!
+News
+Dec 19, 2025
+### Heading Out For Winter Break 2025
+Don’t worry, anti-cheat, security, and live operations teams are staggering their breaks to keep everything running smoothly. 
+Dec 19, 2025
+!
+News
+Dec 18, 2025
+### Vanguard Security Update: Closing the Pre-Boot Gap
+Vanguard is helping address a motherboard flaw that allows hidden pre-boot code injection. Some affected and restricted players will be prompted to update their motherboard.
+Dec 18, 2025
+!
+News
+Dec 8, 2025
+### TFT Paris Open Anthem
+Let’s shine together! Join the party and tune in to the TFT Paris Open Dec 12-14.
+Dec 8, 2025
+!
+News
+Nov 14, 2025
+### TFT Dev Drop: Lore & Legends
+Relive Runeterran history, play every region as a trait, and Unlock units with an all-new mechanic.
+Nov 14, 2025
+!
+News
+Nov 13, 2025
+### 2025 Charity Voting Campaign Winners
+These are the 29 nonprofits who received the most votes from their region in the 2025 campaign
+Nov 13, 2025
+!
+News
+Nov 11, 2025
+### GO OFF // 2025 VALORANT Game Changers Championship Hype Film 
+Tune in live to the VCT Game Changers Championship 2025 Nov 20-30 in Seoul, South Korea.
+Nov 11, 2025
+!
+News
+Nov 9, 2025
+### Still Legendary I Lore & Legends Set Cinematic (ft. Mako) - TFT
+Big, little, somewhere in-between… all legends echo across the Convergence.
+Nov 9, 2025
+!
+News
+Nov 8, 2025
+### VALORANT Game Changers Championship 2025: Everything You Need to Know
+Find out all the details about the 2025 Game Changers Championship! Competitors, schedules, brackets and more!
+Nov 8, 2025
+!
+News
+Nov 7, 2025
+### Season 3 Cinematic: Twilight’s End
+Centuries ago, Zaahen made a choice. Now, Xin Zhao must make his own.
+Nov 7, 2025
+!
+News
+Nov 6, 2025
+### Find a Worlds 2025 Watch Party Near You
+Looking for a League of Legends Worlds watch party? You’ve come to the right place. 
+Nov 6, 2025
+!
+Inside Riot
+Oct 29, 2025
+### Bringing League Champions to 2XKO’s Art - Super Art Power Hour Ep. 11
+What would it take to bring the Noxian assassin into 2XKO’s current art style? Concept Lead Knight Zhang tackles that challenge in the latest episode of Super Art Power Hour.
+Oct 29, 2025
+!
+Inside Riot
+Oct 28, 2025
+### Celebrating Ten Years of Global Service Month at Riot Games
+10 years and counting, Global Service Month is our annual time for Rioters to make an impact in their local communities
+Oct 28, 2025
+!
+News
+Oct 23, 2025
+### Happy 5th Anniversary
+You are Wild Rift. And Wild Rift is you. Happy 5th anniversary to us.
+Oct 23, 2025
+!
+Tech Blog
+Oct 16, 2025
+### How 2XKO Handles Online Play
+Here’s all the tech we’re using to make online play just as fair, fast, and fun as offline.
+Oct 16, 2025
+!
+News
+Oct 15, 2025
+### Dev Doodles: ARAM
+From player-made custom games to League’s first permanent mode, this is ARAM’s story.
+Oct 15, 2025
+!
+News
+Oct 13, 2025
+### Worlds 2025 Anthem Music Video
+Watch the music video for “Sacrifice” ft. G.E.M. (鄧紫棋) now!
+Oct 13, 2025
+!
+News
+Oct 10, 2025
+### Patch 6.3 Preview - League of Legends: Wild Rift
+Join Ke, John, and some special friends for the biggest party of the year! We’re turning 5 and celebrating with WORLDS, Wild Rounds: SMASH, and MUCH MORE. Admire your Gilded Glory with patch 6.3 on October 23rd UTC.
+Oct 10, 2025
+!
+News
+Oct 10, 2025
+### Everything you need to know about Wild Rounds: SMASH 
+The community event of the year is right around the corner! Learn all about the event, where and how you can watch, and more. 
+Oct 10, 2025
+!
+News
+Oct 6, 2025
+### Ties That Bind (2XKO Official Cinematic)
+Some battles can’t be fought alone.
+Oct 6, 2025
+!
+News
+Oct 6, 2025
+### EARN YOUR LEGACY | Worlds 2025
+This is your legacy – if you can earn it. Welcome to Worlds 2025.
+Oct 6, 2025
+!
+News
+Oct 5, 2025
+### GIVE THEM NOTHING // Veto Agent Trailer - VALORANT
+Your fight. His terms. This is VALORANT’s new Agent: Veto.
+Oct 5, 2025
+!
+News
+Oct 4, 2025
+### Final Contact - The Path to Paris
+All eyes on Paris - where the stage is set, and the stakes are personal.
+Oct 4, 2025
+!
+News
+Sep 30, 2025
+### Worlds 2025 Primer
+Learn more about the 2025 League of Legends World Championship in China
+Sep 30, 2025
+!
+News
+Sep 29, 2025
+### Find a VALORANT Champions Watch Party
+Catch the Champs grand finals live with other VALORANT fans IRL
+Sep 29, 2025
+!
+News
+Sep 22, 2025
+### The First Step Towards New Partner Programs for Creators 
+Partner programs are in testing with closed betas for League of Legends, Teamfight Tactics, and VALORANT
+Sep 22, 2025
+!
+News
+Sep 19, 2025
+### Celebrating 15 Years of LoL Esports
+Celebrating 15 Years of LoL Esports with new Summoner’s Cup and Worlds Anthem featuring G.E.M.
+Sep 19, 2025
+!
+Inside Riot
+Sep 16, 2025
+### Rioters Run the Set at Evo 2025
+Rioters have been attending Evo for years – to compete in the massive open-bracket tournaments, cheer on their friends, or just take part in the annual celebration of the FGC.
+Sep 16, 2025
+!
+News
+Sep 12, 2025
+### September Update 2025 | Dev Snack Shop - LoR
+Dev Snack Shop gets cheesy as LoR Devs reveal the secret sauce behind Spirit Blossom and talk about the future over some pizza.
+Sep 12, 2025
+!
+Inside Riot
+Sep 8, 2025
+### Illustrating Riftbound Card Art - Super Art Power Hour Ep. 10
+Designing a decidedly non-canon (and purely hypothetical) 1 of 1 Yasuo card for Riftbound in the latest Super Art Hour Power Hour with Jason Chan.
+Sep 8, 2025
+!
+News
+Sep 9, 2025
+### Roo's Lantern | Spirit Blossom: Afterglow | Full Cinematic - LoR
+And the legend of Roo continues ✨
+Sep 9, 2025
+!
+News
+Sep 9, 2025
+### Last Shot ft. templuv & 347aidan (Official Music Video) // VALORANT
+Watch the official anthem and music video for Champions 2025: “Last Shot” by templuv and 347aidan.
+Sep 9, 2025
+!
+News
+Sep 4, 2025
+### Everything You Need to Know: Champions Paris
+Tournament match-ups, format, schedule, and more!
+Sep 4, 2025
+!
+News
+Aug 27, 2025
+### 2025 Season 3 Act 1 Trailer - League of Legends
+The blossoms fall… and the Black Rose rises. The Trials of Twilight begin now.
+Aug 27, 2025
+!
+News
+Aug 25, 2025
+### Beginning of the End | Trials of Twilight 2025 S3 Cinematic - LoL
+A terrible nightmare… or a vision of what’s to come?
+Aug 25, 2025
+!
+News
+Aug 22, 2025
+### TFT Pro Circuit: Everything You Need to Know
+Details on event dates, format, prize pool, and more.
+Aug 22, 2025
+!
+News
+Aug 12, 2025
+### Roo's Lantern (Pt 1) | Spirit Blossom: First Bloom | Cinematic Trailer
+A canvas of great beauty starts with a single brushstroke.
+Aug 12, 2025
+!
+News
+Jul 30, 2025
+### How to buy Riftbound
+Riftbound will be released in English on October 31, 2025. Players can buy Riftbound: Origins through local game stores or the Riot Games Store.
+Jul 30, 2025
+!
+Tech Blog
+Jul 25, 2025
+### Minions, Servers, and Progression – The Tech Behind Swarm
+Hundreds of minions, millions of games, plenty of technical challenges. A triple feature Riot Games Tech Blog on Swarm.
+Jul 25, 2025
+!
+News
+Jul 24, 2025
+### Know Before You Go - 2XKO at Evo 2025
+Come find 2XKO at Evo 2025, August 1–3. Until then, get the details on the demo, events, and all the ways to experience 2XKO at Evo.
+Jul 24, 2025
+!
+News
+Jul 22, 2025
+### 2XKO Closed Beta Announcement
+The 2XKO Closed Beta starts September 9, 2025. Read on for all the details.
+Jul 22, 2025
+!
+Inside Riot
+Jul 19, 2025
+### Map Design in VALORANT - Super Art Power Hour Ep. 9
+For this episode, we wrangled Diego, a Game Designer, and Michelle, a 3D Environment Artist, who both work on the VALORANT maps team. The challenge? Add a fiery twist to Abyss. To be specific, we’re talkin’ about the age-old video game staple: lava pits.
+Jul 19, 2025
+!
+Inside Riot
+Jul 17, 2025
+### Riotling Day: A Moment for the Families of Riot
+We went all out for our annual bring your kid to work day at our Los Angeles HQ.
+Jul 17, 2025
+!
+News
+Jul 13, 2025
+### TFT Dev Drop: K.O. Coliseum I Dev Video - Teamfight Tactics
+Rally your squad, power up, and battle your way to Top 4 glory—starting on July 30.
+Jul 13, 2025
+!
+News
+Jul 11, 2025
+### Fighter!! (ft. ASCA) | K.O. Coliseum OP | Set Cinematic - TFT
+It’s showtime! Assemble your dream fighting team and unleash your superpowers on July 30. 
+Jul 11, 2025
+!
+News
+Jun 27, 2025
+### Heading Out on Summer Break
+Because sunburns beat burnout anyday
+Jun 27, 2025
+!
+News
+Jun 27, 2025
+### June Update 2025 | Dev Snack Shop - Legends of Runeterra
+Ready to dine in style? Devs preview what’s to come over high tea in the newest Dev Snack Shop.
+Jun 27, 2025
+!
+News
+Jun 26, 2025
+### Why We're Opening Betting Sponsorships in Esports & How We're Doing...
+The guardrails we’re putting in place to ensure competitive integrity as we open this category for esports teams
+Jun 26, 2025
+!
+News
+Jun 22, 2025
+### Corrode // Official Map Trailer - VALORANT
+New ground, classic energy. This is Corrode.
+Jun 22, 2025
+!
+News
+Jun 17, 2025
+### MSI 2025 Primer
+Everything you need to know about MSI!
+Jun 17, 2025
+!
+Tech Blog
+Jun 16, 2025
+### Reflecting on Reflection - A Mel Medarda Tech Blog
+Missile hijacking, balance levers, and the tech behind Mel’s W
+Jun 16, 2025
+!
+News
+Jun 11, 2025
+### Hall of Legends: Uzi
+Introducing the latest inductee. Watch the full film presented by Mercedes-Benz.
+Jun 11, 2025
+!
+News
+Jun 9, 2025
+### ARAM, Inting & More | Dev Update - League of Legends
+Members of the League dev team talk about updates to ARAM, the Wyldbloom, inting, and more.
+Jun 9, 2025
+!
+News
+Jun 5, 2025
+### Reflection // Redemption - VALORANT Masters Toronto Cinematic
+Tune in live to the Masters Toronto, June 7th - 22nd.
+Jun 5, 2025
+!
+News
+Jun 2, 2025
+### Celebrate Pride with your VALORANT community.
+We’re kicking off Pride month by celebrating our players and giving away in-game items.
+Jun 2, 2025
+!
+News
+Jun 2, 2025
+### WHY WE FIGHT // EGO ft. Qing Madi // Year 5 Music Video - VALORANT
+For love. For family. For redemption. For remembrance. For life. This is why we fight.
+Jun 2, 2025
+!
+News
+May 30, 2025
+### Abilities, Smurfing, Replays, and More // Dev Updates - VALORANT
+Learn more about how the team is approaching core topics like ability overload, smurfing, and more. 
+May 30, 2025
+!
+News
+May 30, 2025
+### Celebrating Pride In Game and Out
+From emotes in our games to donations for the future of LGBTQ+ representation in tech, here’s how we’re celebrating Pride month. 
+May 30, 2025
+!
+Inside Riot
+May 30, 2025
+### Making Splash Art in TFT - Super Art Power Hour Ep. 8
+In this episode of Super Art Power Hour we gave Valentine, a concept artist on Teamfight Tactics, a challenge. Her task: pick a Champ that doesn’t currently exist in TFT’s Set 14 Cyber City, then recreate them in the style of one of the set’s existing traits, all in under an hour.
+May 30, 2025
+!
+News
+May 28, 2025
+### Masters Toronto: Everything You Need To Know
+Get the full rundown on the second global event of the 2025 VCT season!
+May 28, 2025
+!
+News
+May 26, 2025
+### TFT 6-Year Bash
+It’s Pengu’s Party and you’re invited. 
+May 26, 2025
+!
+News
+May 20, 2025
+### Hall of Legends: Uzi | Trailer
+Introducing the latest inductee. Watch the full film presented by Mercedes-Benz on June 11.
+May 20, 2025
+!
+News
+May 13, 2025
+### Celebrate Pride 2025: League and TFT
+Celebrate Pride and the community with us!
+May 13, 2025
+!
+News
+May 6, 2025
+### LoL and VALORANT Esports Partnering with Coinbase
+This multi-year deal will kick off during VCT Masters Toronto
+May 6, 2025
+!
+News
+Apr 30, 2025
+### 5 Years of VALORANT // Act 3 Kickoff Trailer
+Kicking off VALORANT’s Five Year Anniversary celebration with the launch of Act 3. 
+Apr 30, 2025
+!
+News
+Apr 29, 2025
+### Celebrating 5 Years of VALORANT
+Anna Donlon reflects on VALORANT’s journey to 5 years and invites you to join us for many more.
+Apr 29, 2025
+!
+News
+Apr 29, 2025
+### Now Available – Multi-Factor Authentication on Riot Mobile
+Streamline your ability to login while keeping your account secure with Riot Mobile
+Apr 29, 2025
+!
+News
+Apr 29, 2025
+### Get Rewarded for Enabling Multi-Factor Authentication (MFA)
+Keep your account secure and receive unique rewards in the process.
+Apr 29, 2025
+!
+News
+Apr 21, 2025
+### Hoby Darling joins Riot Games as its next President
+As President Hoby will oversee teams at Riot working to make it the best place to make Games.
+Apr 21, 2025
+!
+News
+Apr 17, 2025
+### Look Up! | Ryze x Faker Trailer - League of Legends: Wild Rift
+Everybody’s star looks different. Join #Ryze and #Faker on their journey and fight for your own!
+Apr 17, 2025
+!
+News
+Apr 15, 2025
+### Spirit Blossom, Brawl & More | Dev Update - League of Legends
+A look at what we have planned for Season 2: new mode, gameplay changes, inting detection, and more.
+Apr 15, 2025
+!
+News
+Apr 14, 2025
+### Here, Tomorrow (ft Lilas, Kevin Penkin) - 2025 Season 2 Cinematic...
+Around every light, a shadow. Beyond every ending, a beginning.
+Apr 14, 2025
+!
+News
+Apr 10, 2025
+### A Dark Gambit | 2025 Season 1 Cinematic - League of Legends
+A single whisper can cut deeper than a thousand blades. 
+Apr 10, 2025
+!
+Inside Riot
+Apr 11, 2025
+### Building Great Experiences for Players: A Never Ending Quest
+In this #DICE2025 talk, Marc Merrill (Co-founder and Chief Product Officer, Riot Games) shares how Riot prioritizes taking the time necessary to create games and experiences right for players, how this player-first philosophy shapes every decision Riot makes, and why this simple–yet ultimately complex–approach makes game development a meaningful career path.
+Apr 11, 2025
+!
+News
+Mar 31, 2025
+### Introducing Riftbound - The League of Legends Trading Card Game
+Bring your favorite characters off the screen and into your hands with Riftbound, a TCG inspired by League of Legends. 
+Mar 31, 2025
+!
+News
+Mar 17, 2025
+### TFT Dev Drop: Cyber City | Dev Video - Teamfight Tactics
+Build your crew, expand your turf, and hack your way to the top of Cyber City. Are you willing to do whatever it takes?
+Mar 17, 2025
+!
+Inside Riot
+Mar 17, 2025
+### /Dev TFT: Into the Arcane Learnings
+Reflecting on Into the Arcane (and more) with Riot Mort, Riot Xtna, and a few other teammates.
+Mar 17, 2025
+!
+News
+Mar 14, 2025
+### March Update 2025 | Dev Snack Shop - Legends of Runeterra
+Feeling peckish? Dev Snack Shop returns as LoR devs preview 2025 & more.
+Mar 14, 2025
+!
+News
+Mar 14, 2025
+### High Speed Heist | Cyber City Set Cinematic - Teamfight Tactics
+Catch the train to Cyber City on April 2 – and be sure to bring your crew with you.
+Mar 14, 2025
+!
+News
+Mar 2, 2025
+### DAWN BREAKS // Waylay Agent Trailer - VALORANT
+Bend light to break your foes with Waylay – VALORANT’s new Thai Duelist Agent. Available in S25: ACT II.
+Mar 2, 2025
+!
+News
+Feb 28, 2025
+### FULL FEARLESS DRAFT UNLEASHED! First Stand Tournament 2025
+With League of Legends Esports’ first split complete, the best teams from the LCK, LPL, LTA, LCP, and LEC will converge in Seoul, South Korea, on March 10th to battle it out at the First Stand Tournament.
+Feb 28, 2025
+!
+News
+Feb 24, 2025
+### Riot and UVS to bring Project K to global players
+We are working with UVS Games to bring Project K, our League of Legends physical trading card came, to players around the world
+Feb 24, 2025
+!
+News
+Feb 24, 2025
+### FST 2025 Primer
+Everything you need to know about the newest LoL Esports international event.
+Feb 24, 2025
+!
+News
+Feb 13, 2025
+### Dawn of the Duelist // VALORANT Masters Bangkok Cinematic
+In the heart of Thailand, where pros turn into masters, this is the Dawn of the Duelist. The top 8 teams from around the world will be stepping up to the international stage and battle it out to prove they have what it takes to become number one.
+Feb 13, 2025
+!
+News
+Feb 11, 2025
+### Masters Bangkok: EYNTK
+Find out the details of the first global event of the 2025 VCT Season!
+Feb 11, 2025
+!
+News
+Feb 10, 2025
+### Why We’re Returning to the Esports World Cup with League, TFT, and VAL
+League, TFT, and VALORANT are heading to EWC. As part of this agreement, you’ll also see limited ads during global broadcasts.
+Feb 10, 2025
+!
+News
+Jan 29, 2025
+### Celebrating the Year of the Snake
+League, Wild Rift, TFT, and VALORANT are all celebrating the new year in their own way
+Jan 29, 2025
+!
+News
+Jan 29, 2025
+### Dev Double Up: Making Unbound and Chibi Tacticians
+TFT devs in Singapore team up to show how they make Tacticians and celebrate the Year of the Snake.
+Jan 29, 2025
+!
+News
+Jan 21, 2025
+### The Bridge Between | Lunar Revel 2025 Cinematic - League of Legends
+The year of the snake begins with a bang. Mythmaker Cassiopeia, Jarvan IV, and Nami guide their spirit companions home—but Mythmaker Jhin has his own plan for the festivities.
+Jan 21, 2025
+!
+News
+Jan 16, 2025
+### Update on the Southern California Wildfires and Our Fundraiser for...
+We’re launching in-game fundraisers in League of Legends PC and VALORANT
+Jan 16, 2025
+!
+Tech Blog
+Jan 16, 2025
+### Riot Tech Blog: Improving Performance by Streamlining League’s...
+A technical deep dive into changes we made to new game server selection to maximize performance for players
+Jan 16, 2025
+!
+News
+Jan 9, 2025
+### Fortune Favors the Hungry | Mini Cinematic - Teamfight Tactics
+Chibi Mythmaker Zoe sends Chibi Prestige Porcelain Ezreal on a delicious quest during the new year.
+Jan 9, 2025
+!
+News
+Jan 8, 2025
+### Welcome to Noxus | Dev Update - League of Legends
+Pabro and Meddler are joined by other members of the League dev team to talk about everything in Season One 2025: a new champion, a champion update, modes, skins, esports, and more. Welcome to Season One. Welcome to Noxus.
+Jan 8, 2025
+!
+News
+Jan 7, 2025
+### Welcome to Noxus - Bite Marks (ft. TEYA) | 2025 Season 1 Cinematic...
+There is only one question to answer. Are you strong enough?
+Jan 7, 2025
+!
+News
+Jan 7, 2025
+### What’s New for Season 2025 // Dev Updates - VALORANT
+Andy and the dev team are here to welcome you to a new year of VALORANT—VAL’s 5th year! Watch to find out what the devs are cooking up in their areas of the game for the start of 2025 and beyond.
+Jan 7, 2025
+!
+News
+Jan 7, 2025
+### Welcome to Season 2025 - VALORANT
+Studio Head, Anna Donlon, stops by to share some feels as VALORANT heads into its 5th year—a time for reflection, evolution, and dedication to all of you. Welcome to Season 2025. GL HF.
+Jan 7, 2025
+!
+News
+Jan 6, 2025
+### INITIATE.V25 // Season 2025 Kickoff Trailer - VALORANT
+Ready the squad as we kick off Season 2025: a year of new Agents, new locations, new stories, and plenty of new ways to flex.
+Jan 6, 2025
+!
+News
+Dec 19, 2024
+### It’s Time for our End of Year Break
+We’re taking two weeks off for the holidays, see you in January!
+Dec 19, 2024
+!
+News
+Dec 16, 2024
+### Temporary Changes to English Skin VO During the SAG-AFTRA Strike
+For English-language League PC and some Wild Rift skins, we’ll be temporarily using existing (base) VO. 
+Dec 16, 2024
+!
+News
+Dec 13, 2024
+### December Update 2024 | Dev Snack Shop - Legends of Runeterra
+Snack, crackle, shop! LoR Devs reflect on 2024 & more.
+Dec 13, 2024
+!
+News
+Dec 6, 2024
+### TFT Macao Open: Everything You Need to Know
+Broadcast Schedule, Drops, Event Format, and more!
+Dec 6, 2024
+!
+News
+Dec 6, 2024
+### Introducing Project K: The League of Legends Trading Card Game
+Meet Project K: the immersive League of Legends TCG we’re designing for everyone who loves card games, collecting, and connecting with friends across the table. 
+Dec 6, 2024
+!
+News
+Nov 25, 2024
+### Season 1 Reveal, Gameplay Preview & Ranked Resets | Dev Update - LoL
+Pabro, Meddler, and other devs share the Season One theme, gameplay changes for 2025, Ranked resets, and more.
+Nov 25, 2024
+!
+News
+Nov 25, 2024
+### TFT Dev Drop: 6-Costs Enter Into the Arcane I Dev Video - TFT
+If you felt like someone was missing from Into the Arcane, that’s because they were. Three ultra-powerful 6-costs are about to enter the Convergence. And just like they did in Arcane, they’re completely changing the game.
+Nov 25, 2024
+!
+News
+Nov 25, 2024
+### Nightmare on Reroll Street: Part 2 | Into the Arcane Launch Cinematic
+With family by your side, even the impossible can seem possible. Play TFT’s latest set, Into the Arcane, and reimagine the fates of your favorite characters from the show. Patch 14.24 brings new champions and more on Dec 11!
+Nov 25, 2024
+!
+News
+Nov 22, 2024
+### Arcane Season 2 Across Our Games
+What League, TFT, VALORANT, Wild Rift, and Legends of Runeterra are doing to celebrate Arcane’s final season.
+Nov 22, 2024
+!
+Inside Riot
+Nov 19, 2024
+### Why We Rumble: Inside our Annual Riot vs. Riot Tournaments
+We’ve been competing against each other for over a decade. Here’s why we do it.
+Nov 19, 2024
+!
+News
+Nov 18, 2024
+### Nightmare on Reroll Street: Part 1 | Into the Arcane Launch Cinematic
+TFT’s latest set goes Into the Arcane on Nov 20 with exclusive playable characters from the hit Netflix show. Stay tuned to see what happens in Part 2, coming soon!
+Nov 18, 2024
+!
+News
+Nov 12, 2024
+### Becoming Unbound | Mini Cinematic - Teamfight Tactics
+Meet our newest Tactician type in patch 14.23: Unbound Champions!
+Nov 12, 2024
+!
+News
+Nov 11, 2024
+### Jinx Gameplay Sneak Peek | 2XKO
+Jinx joins 2XKO with an updated arsenal of deadly weapons, traps, and explosions.
+Nov 11, 2024
+!
+Inside Riot
+Nov 10, 2024
+### TFT Dev Drop: Into the Arcane
+Arcane is in full force in the Convergence.
+Nov 10, 2024
+!
+News
+Nov 10, 2024
+### TFT Goes Into the Arcane
+Check out how Teamfight Tactics lets you relive, rewrite, and replay the events of Arcane. 
+Nov 10, 2024
+!
+News
+Nov 9, 2024
+### League of Legends x Arcane Season 2
+How we’re celebrating Arcane Season 2 in League.
+Nov 9, 2024
+!
+Inside Riot
+Nov 8, 2024
+### Champion Insights: Ambessa
+How our favorite mother came to dominate the RIft.
+Nov 8, 2024
+!
+News
+Nov 4, 2024
+### VALORANT x Arcane: The Season 2 Arcane Collector’s Set is coming
+Everything you need to know about the Limited Edition bundle.
+Nov 4, 2024
+!
+Inside Riot
+Nov 4, 2024
+### /Dev TFT: Magic n' Mayhem Learnings
+A reflection on Magic n' Mayhem with our Director of Game Design, Riot Mort. 
+Nov 4, 2024
+!
+News
+Oct 30, 2024
+### Paint The Town Blue ft. Ashnikko (from the series Arcane: League Of...
+The official music video for Ashnikko's "Paint The Town Blue" from the Arcane Season 2 Original Soundtrack is here!
+Oct 30, 2024
+!
+News
+Oct 29, 2024
+### VALORANT Game Changers Championship 2024: Everything You Need to Know
+Find out all the details about the 2024 Game Changers Championship! Competitors, schedules, brackets and more! 
+Oct 29, 2024
+!
+News
+Oct 29, 2024
+### THE DRIVE // 2024 VALORANT Game Changers Championship Hype Film
+Tune in live to the VCT Game Changers Championship Nov 8-17 in Berlin, Germany.
+Oct 29, 2024
+!
+News
+Oct 28, 2024
+### Global Community Premiere of Arcane Season 2: Co-Streaming...
+Learn how to co-stream the first episode of Arcane Season 2 on Twitch and earn exclusive in-game rewards.
+Oct 28, 2024
+!
+News
+Oct 26, 2024
+### Blood Sweat & Tears | Official Music Video - League of Legends
+Wounded and near death, Ambessa sees a vision of what awaits her as a follower of the Wolf.
+Oct 26, 2024
+!
+News
+Oct 21, 2024
+### JUST. ONE. MORE // Episode 9: Act lll Trailer - VALORANT
+New skinlines, the Year End Patches and so much more in the last act of COLLISION.
+Oct 21, 2024
+!
+News
+Oct 18, 2024
+### Find a Worlds 2024 Watch Party Near You
+Worlds is better with friends. Here’s how you can find a place to watch Worlds in-person with other players
+Oct 18, 2024
+!
+News
+Oct 17, 2024
+### Need to live | Heimerdinger Champion Trailer - League of Legends: WR
+You can take the Yordle out of Piltover, but you can’t take the progress out of the Yordle!
+Oct 17, 2024
+!
+News
+Oct 16, 2024
+### Arcane: "Come Play" Series Trailer
+Progress has a price.
+Oct 16, 2024
+!
+Inside Riot
+Oct 15, 2024
+### Thunderdome: Inside Riot Games’ 48-Hour Hackathon
+Since the first in 2012, Thunderdome has come a long way. 1,500+ Rioters from 20+ offices participated this year. But it still begs the question… Why do we do it?
+Oct 15, 2024
+!
+News
+Oct 10, 2024
+### Watch, Play, Experience: Here’s How We’re Celebrating Arcane...
+We’re excited to share the first batch of many upcoming Arcane events in celebration of season two!
+Oct 10, 2024
+!
+News
+Oct 8, 2024
+### Unstoppable (burnboy ft. NEONI) | Welcome to Runeterror Cinematic...
+A new music track and two unforgettable faces. You won’t want to miss our next patch, Welcome to Runeterror. Live October 9.
+Oct 8, 2024
+!
+Tech Blog
+Oct 2, 2024
+### Riot Tech Interns 2024 Part 2: Aurora, VAL on Console, and skin...
+Three Riot tech interns share their experiences working on an improvement to channel abilities, agent gear objectives for VALORANT on console, and an internal tool for animation picking on skins.
+Oct 2, 2024
+!
+News
+Sep 24, 2024
+### Heavy Is The Crown ft. Linkin Park (Official Music Video)...
+The official anthem and music video for Worlds 2024.
+Sep 24, 2024
+!
+News
+Sep 23, 2024
+### LoL Player Days
+Everything you need to know about the upcoming community celebration.
+Sep 23, 2024
+!
+Inside Riot
+Sep 20, 2024
+### Vanguard x VALORANT
+How the anti-cheat team continues to evolve as cheaters do.
+Sep 20, 2024
+!
+News
+Sep 20, 2024
+### Player Behavior, Balance, and Anti-Cheat // Dev Updates - VALORANT
+Our final Dev Update before we roll into 2025.
+Sep 20, 2024
+!
+Inside Riot
+Sep 19, 2024
+### The Return of Thunderdome
+After a brief hiatus, it’s Thunderdome time once again. Here’s why we carve out time for our take on a 48-hour hackathon.
+Sep 19, 2024
+!
+News
+Sep 17, 2024
+### Worlds 2024 | Make Them Believe
+Get ready to watch Worlds 2024
+Sep 17, 2024
+!
+News
+Sep 12, 2024
+### September Update 2024 | Dev Snapshot - LoR
+Balancing fright with delight, Eric and Brian cover upcoming 2024 content.
+Sep 12, 2024
+!
+News
+Sep 9, 2024
+### Worlds 2024 Primer
+Learn more about the 2024 League of Legends World Championship in Europe
+Sep 9, 2024
+!
+News
+Sep 5, 2024
+### Arcane: Season 2 | Official Trailer
+Time to turn things upside down.
+Sep 5, 2024
+!
+News
+Sep 3, 2024
+### Upcoming Regional Price Updates
+On September 18, 2024 we’re adjusting prices in most regions.
+Sep 3, 2024
+!
+Disciplines
+Aug 28, 2024
+### Technical Assessment Tips: Riot Games Internship Study Guide Vol. 4
+The technical assessment–or coding test–is crucial for prospective interns. Here’s how to prepare. 
+Aug 28, 2024
+!
+Tech Blog
+Aug 27, 2024
+### Riot Tech Interns 2024 Part 1: League of Legends, VALORANT, and TFT 
+Three Riot tech interns share their experiences working on Champion silhouettes, gameplay capture on VAL Console, and a TFT asset browser.
+Aug 27, 2024
+!
+News
+Aug 23, 2024
+### ALL PATHS END HERE // Vyse Agent Trailer - VALORANT
+All paths end with Vyse–lethal tactician, metal manipulator, and the newest Sentinel Agent in VALORANT.
+Aug 23, 2024
+!
+Inside Riot
+Aug 22, 2024
+### Honor, Skins & More | Dev Update - League of Legends
+Meddler and Pabro answer questions on modes, skins, honor, Vanguard, matchmaking, Yuumi, and more.
+Aug 22, 2024
+!
+Inside Riot
+Aug 21, 2024
+### Bringing VALORANT to Console through Global Collaboration
+From Sydney to Seattle, Rioters around the world worked together to make VAL Console a reality.
+Aug 21, 2024
+!
+News
+Aug 15, 2024
+### We're Updating our Internal Structure to Better Connect Games...
+We’re also establishing dedicated animation and live-action studios to lead future TV & film projects.
+Aug 15, 2024
+!
+Inside Riot
+Aug 13, 2024
+### How’s 2XKO Alpha Lab Going? - Dev Chat
+We’re halfway through 2XKO Alpha Lab, our first playtest. Here’s what we’ve heard so far.
+Aug 13, 2024
+!
+News
+Aug 7, 2024
+### What’s in 2XKO Alpha Lab?
+2XKO is starting its first at-home playtest: Alpha Lab. Read on to learn more. 
+Aug 7, 2024
+!
+News
+Aug 2, 2024
+### INCURSIONS // Official Console Cinematic Trailer - VALORANT
+Break through into a brand new way to play with VALORANT on PlayStation 5 and Xbox Series X | S.
+Aug 2, 2024
+!
+News
+Jul 31, 2024
+### Magic Is Brewing | Magic n’ Mayhem Launch Cinematic - TFT
+The real magic was the friends we summoned along the way…and a perfect cup of tea!
+Jul 31, 2024
+!
+Inside Riot
+Jul 31, 2024
+### Devs Answer Questions While Swarmed by Kittens | League of Legends
+Devs answer questions about Swarm with some aspiring—and adoptable—Battle Cats.
+Jul 31, 2024
+!
+News
+Jul 31, 2024
+### Everything You Need to Know: Champions Seoul
+Tournament match-ups, format, schedule, and more!
+Jul 31, 2024
+!
+Inside Riot
+Jul 24, 2024
+### Swarm, Arena, and the Value of Game Modes
+Between Swarm, Arena, Pengu’s Party, and Ruination, it’s been a busy time for game modes in League, TFT, and Wild Rift. Let’s talk about em.
+Jul 24, 2024
+!
+News
+Jul 24, 2024
+### SUPERPOWER ft. KISS OF LIFE and Mark Tuan (Official Music Video)...
+The official anthem and music video for Champions 2024 “SUPERPOWER” by VALORANT, featuring Julie & Natty of KISS OF LIFE and Mark Tuan. 
+Jul 24, 2024
+!
+Inside Riot
+Jul 23, 2024
+### Key Learnings from Beyond Ruination
+Sit back and reflect with us on patch 5.1
+Jul 23, 2024
+!
+News
+Jul 22, 2024
+### Dev Update: Heightened Hexperience
+Join us for an outlook on what more hexciting things to expect and celebrate this year!
+Jul 22, 2024
+!
+News
+Jul 18, 2024
+### The Hexolution is coming to Wild Rift!
+Get even wilder with the new Rift. Coming to you on July 18th UTC!
+Jul 18, 2024
+!
+News
+Jul 17, 2024
+### Fight for Final City | Anima Squad 2024 Cinematic - League of Legends
+When Anima Squad stands together, the Primordians don’t stand a chance.
+Jul 17, 2024
+!
+News
+Jul 17, 2024
+### Anima Squad 2024: Everything You Need To Know
+Discover the new game mode, skins, and more!
+Jul 17, 2024
+!
+News
+Jul 16, 2024
+### Know Before You Go - 2XKO at Evo 2024
+2XKO is coming to Evo 2024, July 19–21. Get details on the demo, our booth schedule, Alpha Lab priority access, and more.
+Jul 16, 2024
+!
+Inside Riot
+Jul 14, 2024
+### TFT Dev Drop: Magic n’ Mayhem I Dev Video - Teamfight Tactics
+From witches, to sugary treats, to bees—in Magic n’ Mayhem, all forms of magic are welcome. 
+Jul 14, 2024
+!
+News
+Jul 14, 2024
+### The Next TFT Open Heads to Macao!
+The global open-bracket event will take place Dec 13 - 15.
+Jul 14, 2024
+!
+News
+Jul 9, 2024
+### Braum Gameplay Reveal Trailer | 2XKO
+He's got your back. Braum joins the 2XKO roster. 
+Jul 9, 2024
+!
+News
+Jun 28, 2024
+### We’re Taking a Break, BRB
+It’s time for our annual summer break. Because sunburns beat burnout any day.
+Jun 28, 2024
+!
+Inside Riot
+Jun 26, 2024
+### What is 2XKO Alpha Lab? - Dev Q&A w/ Sajam
+Devs sit down with Sajam to discuss the upcoming Alpha Lab playtest.
+Jun 26, 2024
+!
+Inside Riot
+Jun 24, 2024
+### /Dev TFT: Inkborn Fables Learnings
+A reflection on Inkborn Fables with our Director of Game Design, Riot Mort. 
+Jun 24, 2024
+!
+News
+Jun 24, 2024
+### THE FUTURE’S READY // Episode 9: Act l Trailer - VALORANT
+Brave the chasm of the newest map Abyss, explore the Evori Dreamwings bundle, and witness VALORANT’s best compete to become world champion.
+Jun 24, 2024
+!
+News
+Jun 21, 2024
+### Swarm | Operation: Anima Squad - Event Trailer | League of Legends
+It’s up to you, rookie. Join the squad and leap into an explosive new game mode.
+Jun 21, 2024
+!
+Inside Riot
+Jun 20, 2024
+### Champion Insights: Aurora
+The Whimsical Witchy Wabbit
+Jun 20, 2024
+!
+News
+Jun 18, 2024
+### Game Changers 2024: Championship Expansion & New Mobility Policies
+FInd out more about this year’s Championship and our new policies for GC competitors! 
+Jun 18, 2024
+!
+News
+Jun 18, 2024
+### Mid-Year Update 2024 | Dev Snapshot - LoR
+Eric and Tyler provide a Dev Update encompassing past, present and future content drops to come. 
+Jun 18, 2024
+!
+Inside Riot
+Jun 18, 2024
+### From VALORANT to LGBTQIA+ Game Shows, Euphoria Ng Builds Community...
+Be patient, be kind, be brave
+Jun 18, 2024
+!
+News
+Jun 14, 2024
+### Hall of Legends: Faker
+Watch the full documentary on Faker, celebrating his unbelievable and unfinished career.
+Jun 14, 2024
+!
+Inside Riot
+Jun 13, 2024
+### We Asked TFT Devs Your Burning Questions | 5 Year Bash - TFT
+To celebrate five whole years of Teamfight Tactics, we’re taking a moment to ask longtime TFT devs your questions about Choncc lore, memorable patches, go-to tacticians, and more.
+Jun 13, 2024
+!
+News
+Jun 11, 2024
+### Arcane Season 2 | Official Teaser Trailer 
+The hunt is on. Arcane, the final season coming this November to Netflix. 
+Jun 11, 2024
+!
+News
+Jun 11, 2024
+### Gameplay, Esports & Arcane | Dev Update - League of Legends
+Updates on champions, mastery, Vanguard, esports, Arcane, and a teaser for season two.
+Jun 11, 2024
+!
+News
+Jun 9, 2024
+### SANCTUM OF SECRETS // Abyss Official Map Trailer - VALORANT
+Gaze into the Abyss: a clandestine base buried deeper than its secrets.
+Jun 9, 2024
+!
+News
+Jun 8, 2024
+### Register now for the VALORANT Console Limited Beta
+Limited Beta begins June 14. Register now up at beta.playvalorant.com
+Jun 8, 2024
+!
+News
+Jun 8, 2024
+### VALORANT CONSOLE ANNOUNCE // Cinematic Gameplay Trailer - VALORANT
+VALORANT is headed to PlayStation 5 and Xbox Series X | S.
+Jun 8, 2024
+!
+Inside Riot
+Jun 8, 2024
+### Bringing VALORANT to Console // Dev Diaries - VALORANT
+Join us on our journey of taking VALORANT from the keyboard to the sticks in our newest Dev Diary.
+Jun 8, 2024
+!
+News
+May 30, 2024
+### Happy Pride!
+We’re celebrating this year with new in-game content, an updated Pride playlist, and a community hub where you all can show your pride. 
+May 30, 2024
+!
+News
+May 30, 2024
+### Keeping Our Community Healthy // Dev Updates
+VALORANT Studio Head Anna Donlon shares her thoughts on the current state of player behavior in VALORANT and outlines some of the upcoming changes aimed at making our community a better place for all.
+May 30, 2024
+!
+Inside Riot
+May 30, 2024
+### Crafting Visual Effects in Teamfight Tactics - Super Art Power Hour...
+Visual effects artists can do anything they want! Well, almost anything. We linked up with visual effects artist Jonathan Shishido for a speed run in building a celebration effect for TFT to experience the entire process from start to finish. He was also kind enough to share some tips and advice for anyone interested in learning more about visual effects work or working in games.
+May 30, 2024
+!
+News
+May 28, 2024
+### Legacy of the Demon King | Hall of Legends Event Trailer - LoL
+Celebrate Faker’s legacy with 100 levels of rewards, exclusive Ahri skins, and more during the Hall of Legends event.
+May 28, 2024
+!
+News
+May 22, 2024
+### Constellations | Launch Video - Legends of Runeterra
+Power is written in the stars. Constellations has come to Legends of Runeterra, and with it comes Path of Champions biggest update yet! Watch to learn who the stars have blessed with Level 6 Star Power.
+May 22, 2024
+!
+News
+May 21, 2024
+### TFT’s 5-Year Bash!
+TFT’s 5th Birthday is just around the corner, and everyone is invited to celebrate, including all of our past sets!
+May 21, 2024
+!
+News
+May 21, 2024
+### Map Rotations, Replays, and More // Dev Updates - VALORANT
+Anna and Andy stop by with some VALORANT leadership news, and then hand things over to some members of the dev team for updates on map rotations, balance, skins, and REPLAYS?! We’ll be back with more Dev Updates later this year. 
+May 21, 2024
+!
+News
+May 15, 2024
+### Button Day | Launch Video - Legends of Runeterra
+Players can now play, or install LoR from the League Client.
+May 15, 2024
+!
+News
+May 13, 2024
+### Celebrate Pride 2024: League and TFT
+Celebrate Pride with us and our LGBTQIA+ community
+May 13, 2024
+!
+News
+May 13, 2024
+### Everything You Need to Know: Masters Shanghai
+Tournament match-ups, format, schedule, and more!
+May 13, 2024
+!
+News
+May 7, 2024
+### Update on 2021 Lawsuit Against Riot & Former CEO
+Arbitrator overseeing Sharon O'Donnell Vs Riot Games Inc., Et Al. finds all claims in the January 2021 lawsuit against Riot Games and our former CEO, Nicolo Laurent, were unfounded.
+May 7, 2024
+!
+News
+May 13, 2024
+### Making the 2023 Worlds Opening Ceremony Presented by Mastercard
+Riot returned to Korea for Worlds 2023 with live performances by NewJeans, HEARTSTEEL, and much more! Watch to see how it all came together.
+May 13, 2024
+!
+Inside Riot
+May 1, 2024
+### Dive into patch 5.1: Beyond Ruination | League of Legends: Wild Rift
+Patch 5.1 takes you #ThroughTheMist, in and out of game! Laura, Paul, and Anthony are here to guide you and lift the mist on this immersive patch!
+May 1, 2024
+!
+News
+Apr 23, 2024
+### Know Before You Go - 2XKO at EVO Japan
+2XKO is coming to EVO Japan 2024, April 27–29. Get details on how to play the demo, our booth schedule, and more.
+Apr 23, 2024
+!
+News
+Apr 23, 2024
+### How to Play 2XKO - EVO Japan 2024
+We’re bringing a new demo to EVO Japan 2024, April 27–29. If you’re attending, brush up on basic controls, combos, and tag mechanics with the beginner’s guide below.
+Apr 23, 2024
+!
+News
+Apr 22, 2024
+### MSI 2024 Primer
+Learn more about the 2024 League of Legends Mid-Season Invitational in Chengdu.
+Apr 22, 2024
+!
+Inside Riot
+Apr 22, 2024
+### Three Ways We’re Making Our Offices More Sustainable
+Taking a look at some of the key areas where we’re making choices with sustainability in mind.
+Apr 22, 2024
+!
+News
+Apr 11, 2024
+### Beyond the Mist | Kalista Champion Trailer - League of Legends: WR
+Moments before reaching the Blessed Isles, Kalista’s fate is written in the mist. Be there on April 11th when it lifts!
+Apr 11, 2024
+!
+News
+Apr 8, 2024
+### Arena, Lee Sin & PvE Mode First-Look | Dev Update - League of Legends
+Riot Brightmoon, Meddler, and the Modes team discuss Arena, Lee Sin, Ranked Rewards, and a PvE mode.
+Apr 8, 2024
+!
+News
+Mar 30, 2024
+### Advancing the Esports and Player Experience in MENA
+We’ll see League and TFT played at the Esports World Cup, localize League of Legends in Arabic, and launch servers in the Middle East this year
+Mar 30, 2024
+!
+Inside Riot
+Mar 29, 2024
+### Devs Spill the Beans: Skarner’s New Lore | Dev Video - LoL
+Senior narrative writer Elyse “Riot apothecarie” Lemoine talks about elevating Skarner to new heights, his role within Ixtal, and how he injects a new kind of horror in Runeterra.
+Mar 29, 2024
+!
+News
+Mar 24, 2024
+### 2 WORLDS // Clove Agent Trailer - VALORANT
+Make some mischief from beyond the grave with Scottish troublemaker Clove.
+Mar 24, 2024
+!
+News
+Mar 19, 2024
+### A Brush With Fate | Inkborn Fables Launch Cinematic - TFT
+Once upon a time, a featherknight found a magic ink brush… and the courage to try again.
+Mar 19, 2024
+!
+News
+Mar 14, 2024
+### Adjusting our LoL Esports Strategy
+Sharing our new business model for teams in the LCS, LEC, and LCK designed to create more predictable revenue for teams and a path to long-term sustainability.
+Mar 14, 2024
+!
+Inside Riot
+Mar 11, 2024
+### Celebrating Ramadan in Wild Rift Together Under the Crescent 
+Rioters from around the world collaborated to represent a variety of cultural traditions.
+Mar 11, 2024
+!
+News
+Mar 6, 2024
+### Together Under the Crescent | Event Trailer - League of Legends: WR
+The Poros are setting the mood! Don’t miss out and celebrate with them under the crescent moon starting March 8th!
+Mar 6, 2024
+!
+News
+Mar 4, 2024
+### Everything You Need to Know: Masters Madrid
+Tournament match-ups, format, schedule, and more!
+Mar 4, 2024
+!
+Inside Riot
+Mar 3, 2024
+### TFT Dev Drop: Inkborn Fables I Dev Video - Teamfight Tactics
+Join us for conversations about our next set, the Rotating Shop, Chibi Morgana and more! 
+Mar 3, 2024
+!
+News
+Feb 29, 2024
+### Dev Update: Gameplay, Vanguard & More
+Riot Brightmoon, Pupulasers, and Phroxzon discuss the gameplay changes, Vanguard, bots, and skins.
+Feb 29, 2024
+!
+News
+Feb 22, 2024
+### Project L Is Now 2XKO: Year in Preview 2024
+First things first: we have a name! Project L is now officially 2XKO.
+Feb 22, 2024
+!
+News
+Feb 22, 2024
+### 2XKO Social Media Wallpaper Kit
+Can’t wait to play? Get a little bit closer with 2XKO wallpapers for your desktop, phone, and social media profile. 
+Feb 22, 2024
+!
+News
+Feb 21, 2024
+### Bandle Tale - Available Now!
+With your unique knitting magic and unflappable spirit, enlist the help of new friends, restore the portals, and reunite Bandle City once more!
+Feb 21, 2024
+!
+News
+Feb 21, 2024
+### Introducing the 2024 VCT Team Capsules // Skin Reveal Trailer - VAL
+Make Game Night, Team Night. Rep your favorite VALORANT esports team with the all-new VCT team capsules, featuring a unique gun buddy, spray, player card, and Classic skin, designed in partnership with the VCT 2024 teams.
+Feb 21, 2024
+!
+News
+Feb 9, 2024
+### Celebrating the Year of the Dragon in Runeterra and Beyond
+Heavenscale, Scales of Fortune, Dragon Lantern, and a TFT Set Revival. Welcome to Lunar Festival 2024. 
+Feb 9, 2024
+!
+News
+Feb 8, 2024
+### A Dragon’s Spirit | Mini Cinematic - Teamfight Tactics
+At the Lunar Festival, only the finest of gifts will do!
+Feb 8, 2024
+!
+News
+Feb 8, 2024
+### Happy Year of the Dragon!
+The arrival of the Dragon is a cause for big celebrations all over the world. We don’t want to miss the chance to mark this occasion with plenty of goodies on the Rift!
+Feb 8, 2024
+!
+News
+Feb 7, 2024
+### A Prince’s Wish | Lunar Revel 2024 Cinematic
+From the heavens to the earth, real magic ignites when we celebrate together.
+Feb 7, 2024
+!
+Inside Riot
+Feb 7, 2024
+### Dragon Lantern - Skin Feature
+The Year of the Dragon gave us the perfect occasion to marry cultural significance with some awesome designs for our Dragon Lantern Skin. Here’s a little sneak peek at what that process looked like!
+Feb 7, 2024
+!
+News
+Feb 1, 2024
+### State of the Game 2024
+A sit-down with Riot leaders, touching on key points from LoR's history and giving players a peek at its future. 
+Feb 1, 2024
+!
+News
+Feb 1, 2024
+### Dev Update: Patch Cadence, Themes & Exciting Additions
+As the new year’s kicking off we want to share some of the exciting things coming your way. Sit down with David Xu, Wild Rift Product Lead, to look back on 2023 and get excited about what the Rift will have to offer in 2024!
+Feb 1, 2024
+!
+News
+Jan 22, 2024
+### Changes at Riot and the Road Ahead
+Here’s what these changes mean for our games and what players can expect from us going forward.
+Jan 22, 2024
+!
+News
+Jan 22, 2024
+### An Important Update about Riot’s Future
+The following is a copy of the internal message from our CEO.
+Jan 22, 2024
+!
+Inside Riot
+Jan 16, 2024
+### Riot’s Korea Office and the Cultural Heritage Protection Project
+Since Riot’s Korea office opened in 2011, Rioters have worked alongside the Cultural Heritage Administration to support, protect, and restore Korea’s cultural heritage
+Jan 16, 2024
+!
+News
+Jan 16, 2024
+### Dev Update: One Runeterra & Arcane Season 2
+As the new year’s kicking off we want to share some of the exciting things coming your way. Join Andrei “Meddler” van Roon, Head of League Studio, for our Wild Rift 2024 outlook on the League ecosystem, Arcane Season 2, and other news!
+Jan 16, 2024
+!
+News
+Jan 16, 2024
+### Introducing the Hall of Legends
+Throughout history, we saw players ascend to the highest levels. But now, a new tier is born.
+Jan 16, 2024
+!
+News
+Jan 10, 2024
+### Still Here | Season 2024 Cinematic - League of Legends (ft. Forts,...
+Fight for tomorrow.
+Jan 10, 2024
+!
+News
+Jan 10, 2024
+### Riot and HP Team Up on New Global Partnership
+HP’s industry-leading brands OMEN and HyperX are joining forces with Riot to power esports events and collaborate on future products
+Jan 10, 2024
+!
+News
+Jan 8, 2024
+### RECKONING // Episode 8 Cinematic - VALORANT
+Bring the fight and make them know your name in Episode 8: DEFIANCE.
+Jan 8, 2024
+!
+Inside Riot
+Jan 8, 2024
+### Champion Insights: Smolder
+ADC: Audacious Dragon Cutie.
+Jan 8, 2024
+!
+Inside Riot
+Jan 7, 2024
+### Talking Tactics: TFT's First Set Revival
+The devs behind the revival of Return to the Stars talk about why it’s back and what’s updated!
+Jan 7, 2024
+!
+News
+Jan 5, 2024
+### Arcane: Season 2 First Look
+A nightmarish augmentation. Brace yourself for Season 2 of Arcane, coming November 2024. 
+Jan 5, 2024
+!
+News
+Jan 5, 2024
+### Season 2024 Look Ahead: Champions, Modes, Arcane & More | Dev Video
+Riot Brightmoon and Meddler are joined by members of the League team to discuss Ranked, champions, Arcane, champion mastery, modes, anti cheat, skins, and esports in 2024. Including a sneak peak at Arcane season 2, a tease about the new game mode, and a preview of the Season Start 2024 cinematic. Welcome to Season 2024.
+Jan 5, 2024
+!
+News
+Jan 4, 2024
+### The State of the Game: LoL Esports in 2024
+LoL Esports kicks off the new year with competitive changes, event updates, and more!
+Jan 4, 2024
+!
+News
+Dec 13, 2023
+### The Winners of the 2023 Charity Voting Campaign
+84 charities, 28 regions, $4.5M, and 589,000 player votes. Here are the charities players voted to support during the 2023 campaign
+Dec 13, 2023
+!
+News
+Dec 11, 2023
+### A View to Worlds
+A viewer's guide for LoR Worlds 2023 to assist new viewers navigating the event
+Dec 11, 2023
+!
+Inside Riot
+Dec 8, 2023
+### The Vision for Teamfight Tactics: Vegas Open 
+512 competitors, 60 Headliners, and 1 champion. Welcome to the Teamfight Tactics Vegas Open.
+Dec 8, 2023
+!
+News
+Dec 4, 2023
+### TFT Vegas Open: Everything You Need to Know
+How to Watch, Format Explainer, Drops, Trophy Reveal and more!
+Dec 4, 2023
+!
+News
+Nov 29, 2023
+### Marc Merrill Takes on New Role as Chief Product Officer at Riot Games 
+Overseeing Riot’s vision across the ecosystem, including Game Titles, Game Experiences, and Research & Development
+Nov 29, 2023
+!
+Inside Riot
+Nov 28, 2023
+### Riot Games Social Impact Fund Crosses $50M Raised 
+Looking back on the best moments from five years of the Riot Games Social Impact Fund
+Nov 28, 2023
+!
+News
+Nov 22, 2023
+### VALORANT, LOUDER // 2023 GAME CHANGERS CHAMPIONSHIP HYPE FILM
+Experience VALORANT at a whole new decibel. VCT Game Changers: The VALORANT you love, Louder. 
+Nov 22, 2023
+!
+Inside Riot
+Nov 21, 2023
+### Celebrating Filipino American History Month 2023 at Riot
+From Pork Adobo to cultural artwork, here’s how Filipinos at Riot celebrated FAHM this year
+Nov 21, 2023
+!
+News
+Nov 19, 2023
+### REMIX RUMBLE ft. Steve Aoki (Official Music Video) | Teamfight Tactics
+Choncc’s in it for the fun. Pengu’s in it for the fame. Neither is backing down. Yasuo, Yorick, Jhin, and Bard take center stage at the wildest music festival in the Convergence. Meanwhile Gnar, Twitch, Amumu, and more put on a show of their own! This is Remix Rumble.
+Nov 19, 2023
+!
+Inside Riot
+Nov 19, 2023
+### Champion Insights: Hwei
+Every match can be a masterpiece.
+Nov 19, 2023
+!
+News
+Nov 19, 2023
+### There’s No Place Like League
+Looking back at the highlights of the 2023 season from Season Start through the Worlds Final
+Nov 19, 2023
+!
+News
+Nov 17, 2023
+### Reworking the Riot ID Transition Plan
+We’re moving from Summoner Names to Riot IDs but making some changes to the rollout
+Nov 17, 2023
+!
+News
+Nov 10, 2023
+### How Esports Rioters in Korea are Making Worlds 2023 One for the Books
+Now, Riot Games are working.
+Nov 10, 2023
+!
+News
+Nov 9, 2023
+### Announcing the Winners of the Riot Games VFX Creative Contest!
+Now's your chance to showcase your VFX skills to a panel of Riot judges for a chance to win unique prizes! Check out the top three 
+Nov 9, 2023
+!
+Inside Riot
+Nov 5, 2023
+### TFT Dev Drop: Remix Rumble I Dev Video - Teamfight Tactics
+In TFT’s newest set, you’re the DJ. Field traits like K/DA, HEARTSTEEL, and Pentakill, make powerful Headliners the star of your board, and create your own custom remix.
+Nov 5, 2023
+!
+News
+Nov 3, 2023
+### Dev For a Day: Rusticles
+Sit down with Rusticles who collaborated with the whole LoR team to bring to life his design and tell his story through the card game we all love. 
+Nov 3, 2023
+!
+Disciplines
+Nov 1, 2023
+### Portfolio Tips & Advice - Riot Games Internship Study Guide Vol. 3
+From UX Design to Concept Art, here’s what you need to know about submitting a portfolio for a Riot Games internship
+Nov 1, 2023
+!
+Inside Riot
+Oct 27, 2023
+### Celebrating Latin American Heritage Month with Riot Unidos
+From Jocón de Pollo to educational firesides, here’s everything Riot did during Latin American Heritage Month. 
+Oct 27, 2023
+!
+News
+Oct 23, 2023
+### HEARTSTEEL - PARANOIA ft. BAEKHYUN, tobi lou, ØZI, and Cal Scruby...
+Watch the music video for “PARANOIA” by HEARTSTEEL Kayn, Ezreal, Sett, Yone, K’Sante, and Aphelios.
+Oct 23, 2023
+!
+News
+Oct 19, 2023
+### Planting Trees and Taking Drakes at Worlds 2023
+We’re putting the Worlds Event Pass to work for reforestation and working with AWS to expand safe water access during Worlds 2023. 
+Oct 19, 2023
+!
+News
+Oct 16, 2023
+### Transitioning from Summoner Names to Riot IDs
+This updates player name terminology to better reflect the current world of League of Legends, creates more fluidity between Riot games, and streamlines how names work from a tech perspective. 
+Oct 16, 2023
+!
+Inside Riot
+Oct 13, 2023
+### Dev Update: Champs, Lore & More
+Riot Brightmoon, Meddler, and guests are back with an update on champs, lore, Quickplay, and more.
+Oct 13, 2023
+!
+Offices
+Oct 12, 2023
+### The Making of Riot’s New Home in Seattle
+An expert team of designers who create Riot’s offices have been working on the new office for years. Here’s some insight into their process and how it will impact the Rioters who work there. 
+Oct 12, 2023
+!
+News
+Oct 9, 2023
+### Riot Client Game Hubs
+Stay connected with relevant content and experiences with new Game Hubs.
+Oct 9, 2023
+!
+News
+Oct 5, 2023
+### Wild Rift Third Year Global Anniversary Celebrations 
+We’re gearing up for our Global Anniversary and can’t wait to celebrate you! To kick off the festivities, our Power Spike Gallery is now live! Submit your creations to unlock anniversary rewards! Also learn about some of the other festivities and goodies we have in store! 
+Oct 5, 2023
+!
+News
+Oct 4, 2023
+### GODS ft. NewJeans (뉴진스) | Worlds 2023 Anthem - League of Legends
+This is the story of an unbreakable spirit and the unbending heart of a champion.
+Oct 4, 2023
+!
+News
+Sep 28, 2023
+### “THE GRIND. THE GLORY.” Cinematic Trailer | Worlds 2023
+There’s no glory without the grind. Worlds 2023 begins October 10th.
+Sep 28, 2023
+!
+News
+Sep 22, 2023
+### Update on Our CEO Transition
+Following our CEO announcement in May, Nicolo Laurent and Dylan Jadeja have worked closely together over the past four months to ensure a smooth leadership transition for Riot.
+Sep 22, 2023
+!
+News
+Sep 14, 2023
+### Worlds 2023 Primer
+Learn more about the 2023 League of Legends World Championship in South Korea.
+Sep 14, 2023
+!
+News
+Aug 31, 2023
+### So You Want to Attend the TFT Vegas Open?
+Event info, registration, format, prizing, and more!
+Aug 31, 2023
+!
+Inside Riot
+Aug 30, 2023
+### Champion Insights: Briar
+Thirsty for blood, hungry for life.
+Aug 30, 2023
+!
+News
+Aug 26, 2023
+### SUNSET // Official Map Trailer - VALORANT
+The long road to Los Angeles ends here. See VALORANT’s first foray into this vibrant new map set in Gekko’s stomping grounds.
+Aug 26, 2023
+!
+News
+Aug 23, 2023
+### Champions Weekend: Map Reveal, Fan Fest, and Grand Finals
+A world champion will be crowned at the Kia Forum when VALORANT stars converge this weekend in Los Angeles. 
+Aug 23, 2023
+!
+News
+Aug 23, 2023
+### Teaming up with DonorsChoose to Support Gaming and Esports Programs...
+This partnership is aimed at supporting middle and high school teachers to give students access to careers in esports and gaming. 
+Aug 23, 2023
+!
+Inside Riot
+Aug 22, 2023
+### How We Celebrated Pride 2023 at Riot
+From working with community artists to pie-inspired donations, here’s how we celebrated Pride Month in June.
+Aug 22, 2023
+!
+Inside Riot
+Aug 18, 2023
+### How a Global Esport Comes Together at VALORANT Champs 2023
+From Brazil to the UK to Singapore, it feels like any team has a chance of winning Champs 2023. That’s by design. 
+Aug 18, 2023
+!
+News
+Aug 18, 2023
+### Pre-Register Now: TFT Mobile is Coming to the Asia-Pacific Region!
+Pre-register for the Asia-Pacific arrival of TFT Mobile today and get rewarded.
+Aug 18, 2023
+!
+News
+Aug 9, 2023
+### Project L @ Evo 2023 Recap
+Why go to Evo? It’s pretty simple: your feedback really is important to us.
+Aug 9, 2023
+!
+News
+Aug 9, 2023
+### Soul Fighter Cosplay Guide: Round 2
+Embody the Soul of these Fighters with your cosplays!
+Aug 9, 2023
+!
+News
+Jul 31, 2023
+### Mid-Year Update 2023 | Dev Snapshot - Legends of Runeterra
+Game Director Dave Guskin is back with another Dev Snapshot. Watch to learn more about what we've seen and heard from you all so far in 2023, and for a look at where LoR is headed.
+Jul 31, 2023
+!
+Inside Riot
+Jul 27, 2023
+### Arena: Making a New Mode
+We've got your ringside seats for a behind-the-scenes look at how we made League's new 2v2v2v2 mode, Arena.
+Jul 27, 2023
+!
+News
+Jul 27, 2023
+### CHAMPIONS LOS ANGELES: EVERYTHING YOU NEED TO KNOW
+Get the official tournament information for Champions Los Angeles! Match ups, formats, schedules, and more!
+Jul 27, 2023
+!
+News
+Jul 27, 2023
+### Soul Fighter Cosplay Guide: Round 1
+Embody the Soul of these Fighters with your cosplays!
+Jul 27, 2023
+!
+News
+Jul 26, 2023
+### Introducing Duo Play
+Tom and Shaun show off duo play and the evolution of Project L, Riot’s upcoming 2D tag fighter.
+Jul 26, 2023
+!
+News
+Jul 20, 2023
+### Tournament of Souls - Coming Alive | Cinematic 
+In the fight of a lifetime, you may get knocked down. But never knocked out. 
+Jul 20, 2023
+!
+News
+Jul 20, 2023
+### Behind the Mode: Soul Brawl
+It’s time for your training arc.
+Jul 20, 2023
+!
+News
+Jul 12, 2023
+### How Underdogs Made League of Legends History | DRX The Rise
+Presented by Red Bull Media House in Partnership with Riot Games. Entering Worlds 2022, nobody expected Deft and DRX to make it past the Play-In stage. However, their past record would not keep the determined LCK team from hoping for victory and enjoying themselves along the way. Join us as we retrace DRX’s journey from underdogs to defeating the game’s greatest teams to become the World Champions of League of Legends Esports. 
+Jul 12, 2023
+!
+News
+Jul 11, 2023
+### UNITED TOGETHER // China Launch Official Cinematic - VALORANT
+Unite together. Save the world. Celebrate our China launch by taking a look back at VALORANT Protocol’s first steps into Haven.
+Jul 11, 2023
+!
+Tech Blog
+Jun 29, 2023
+### Shipping Xbox Game Pass
+A technical look at how Riot’s Player Platform team helped to ship our Xbox Game Pass partnership.
+Jun 29, 2023
+!
+Inside Riot
+Jun 28, 2023
+### API at Riot Takes Center Stage for AAPI Heritage Month
+AAPI Heritage Month began with a Night Market and ended with conversations about API communities at Riot and the impact of representation
+Jun 28, 2023
+!
+News
+Jun 27, 2023
+### DEFY DEFINITION: EPISODE 7 ACT 1
+Check out how VALORANT’s evolving the game in this new Episode.
+Jun 27, 2023
+!
+News
+Jun 26, 2023
+### The Tournament Begins: Soul Fighter 2023
+Soul Fighter is bringing new modes, champions, stories, and skins to League of Legends, Teamfight Tactics, Wild Rift, and Legends of Runeterra.
+Jun 26, 2023
+!
+Inside Riot
+Jun 22, 2023
+### Champion Insights: Naafiri
+There is no alpha. There is only the pack.
+Jun 22, 2023
+!
+News
+Jun 20, 2023
+### Mastercard Expands Global Partnership to VALORANT Esports
+Riot Games and Mastercard have extended their long-standing partnership to now cover global events for the VALORANT Champions Tour
+Jun 20, 2023
+!
+Inside Riot
+Jun 13, 2023
+### The Making of a League of Legends Champion Theme
+Three Riot Games composers share how a champion theme comes to life.
+Jun 13, 2023
+!
+News
+Jun 8, 2023
+### League of Legends x Coca-Cola Ultimate Zero Sugar: Now Available
+League and Coca-Cola have teamed up to create a new flavor of Coke. Celebrate the launch with some Ultimate Emotes and more!
+Jun 8, 2023
+!
+Inside Riot
+Jun 5, 2023
+### Natalie Parker: Over a Decade of Work at Riot Games
+Natalie started as a receptionist and now leads a team of lawyers focused on labor and employment.
+Jun 5, 2023
+!
+News
+Jun 1, 2023
+### Celebrating Pride with the Community
+See what’s available in game and hear from seven community artists who created unique art around our IP for Pride Month. 
+Jun 1, 2023
+!
+News
+May 23, 2023
+### CONV/RGENCE - Available Now!
+Run, leap, and slide your way through the streets of Zaun. Encounter champions, face down enemies, and locate never-before-seen sides of the Undercity.
+May 23, 2023
+!
+News
+May 19, 2023
+### Background Patching is coming to Riot Client
+Keep your games up to date and ready to play when you are, starting with VALORANT and expanding to other games in the future. 
+May 19, 2023
+!
+News
+May 15, 2023
+### New Emotes for a Discord Birthday Present
+As thanks to the moderators who help to make Discord the platform of choice for gamers, Riot has created a new pack of emotes specifically for mods.
+May 15, 2023
+!
+News
+May 11, 2023
+### Announcing Our Next CEO
+We’re proud to announce that our current global president, Dylan Jadeja, will become our next CEO later this year. 
+May 11, 2023
+!
+News
+Apr 26, 2023
+### 2022 Annual Impact Report
+This report shows our progress as we climb the mountain toward a future for Riot, the gaming industry, and players.
+Apr 26, 2023
+!
+One-Shot
+Apr 19, 2023
+### Building the Future of Sport at Riot Games
+John Needham, President of Esports at Riot Games, lays out his game plan toward building a sustainable future for the esports industry
+Apr 19, 2023
+!
+News
+Apr 18, 2023
+### The Mageseeker - Available Now!
+The Mageseeker is an action RPG set in the League of Legends universe. Play as Sylas and wield the chains that once bound you to liberate Demacia from tyranny.
+Apr 18, 2023
+!
+Inside Riot
+Apr 12, 2023
+### Looking Back on Women’s History Month 2023
+We celebrated Women’s History Month by hosting panels with women leaders, holding events to bring people together, and sharing women’s stories across Riot. 
+Apr 12, 2023
+!
+News
+Mar 20, 2023
+### Prime Gaming and Riot Games Run it Back
+In-Game Content for Riot's Biggest Titles, Esports Sponsorship, and More.
+Mar 20, 2023
+!
+Inside Riot
+Mar 15, 2023
+### From Duck Hunt to Riot Games, Maye Mac-Swiney’s Gaming Journey...
+With roots in Mexico and a career in Spain, games, and the people who play them, have been a throughline in Maye Mac-Swiney’s life
+Mar 15, 2023
+!
+Inside Riot
+Mar 7, 2023
+### Champion Insights: Milio
+“Awww, so cute!” - You, until the late-game teamfight
+Mar 7, 2023
+!
+News
+Mar 7, 2023
+### VCT Americas 2023 Kicks Off April 1
+Everything you need to know about VCT Americas
+Mar 7, 2023
+!
+Inside Riot
+Mar 3, 2023
+### Amplifying Black Voices for Black History Month
+Riot Noir, our RIG for Black Rioters, spent the month highlighting Black culture, inspiring the next generation, and amplifying Black stories in gaming.
+Mar 3, 2023
+!
+Inside Riot
+Feb 23, 2023
+### How Exec. Pastry Chef Nicole Redd-McIntosh creates one-of-a-kind...
+For Black History Month, Nicole helped create dishes that hold a special place in her heart to share with Rioters on our LAX campus.
+Feb 23, 2023
+!
+Inside Riot
+Feb 16, 2023
+### How Kat Wong Found Her Home in Gaming With Riot’s Localization Team
+Kat Wong and how her adventure of a career, with her wife by her side, led her to Riot. 
+Feb 16, 2023
+!
+Inside Riot
+Feb 1, 2023
+### Celebrating Lunar New Year In-Game and Out
+As Runeterra Celebrates Lunar Revel, Rioters Around the World Come Together for Lunar New Year.
+Feb 1, 2023
+!
+News
+Jan 26, 2023
+### Players Voted and These Charities Won the Lion’s Share of $6M
+Every nonprofit is guaranteed to receive at least $15,000 for each of the 83 charities from the Riot Games Social Impact Fund.
+Jan 26, 2023
+!
+News
+Jan 10, 2023
+### LoL Esports: Season Kickoff & State of the Game
+Check out the latest announcements and what is in store for LoL Esports in 2023 by watching the Season Kickoff & State of the Game video.
+Jan 10, 2023
+!
+News
+Jan 10, 2023
+### The Brink of Infinity | Season 2023 Cinematic - League of Legends
+Year after year, we stand together at the edge of a new beginning. Inspired by the words and deeds of the champions who came before. It's time to make your mark—Season 2023 has arrived.
+Jan 10, 2023
+!
+News
+Jan 9, 2023
+### /dev chat: Player Behavior | Dev Video - League of Legends
+Timtammonster and Zero Impact discuss player behavioral systems in League. They talk about text chat moderation/muting and other changes shipped in 2022, goals for 2023, and their dreams for League’s community.
+Jan 9, 2023
+!
+News
+Jan 9, 2023
+### /dev chat: Midscope Updates | Dev Video - League of Legends
+Game designers Riot Truexy, Riot Phlox, and August talk about midscope updates: Why do they exist? What is their purpose? And what’s coming next?
+Jan 9, 2023
+!
+News
+Jan 9, 2023
+### /dev chat: State of the Game | Dev Video - League of Legends
+Summoner’s Rift Team leads Riot Phroxzon and Riot Petrie talk about the state of League of Legends, plans for positions, and goals for Season 2023.
+Jan 9, 2023
+!
+News
+Jan 9, 2023
+### Season 2023 | LoL Pls - League of Legends
+Welcome to Season 2023. Riot Brightmoon shares an update on skins and thematics, Riot Auberaun talks about changes to Ranked, and Riot Lexical gives a sneak peak at some upcoming champions.
+Jan 9, 2023
+!
+News
+Jan 5, 2023
+### REVELATION // Episode 6 Cinematic - VALORANT
+From darkness, revelation. Uncover the wonders of a forgotten world in Episode 6: REVELATION. Kicking off Jan 10, 2023.
+Jan 5, 2023
+!
+News
+Jan 5, 2023
+### Season 2023 Kickoff | The Madness is the Hype
+Get ready for an all new adrenaline packed event featuring 9 regions over 2 days. Watch Season 2023 Kickoff on lolesports.com on January 10 + 11.
+Jan 5, 2023
+!
+Inside Riot
+Dec 16, 2022
+### Riot is Taking a Break to End the Year
+We’re taking a break for the holidays and wanted to take this time to reflect on all the big moments from 2022.
+Dec 16, 2022
+!
+Tech Blog
+Dec 14, 2022
+### Re:presenting at AWS re:Invent
+Earlier this month, nearly a hundred Rioters traveled to Las Vegas to attend AWS re:Invent, a weeklong conference hosted by AWS for the global cloud computing community.
+Dec 14, 2022
+!
+News
+Dec 13, 2022
+### Now Streaming on Riot Mobile
+Watch your favorite players live on-the-go with Riot Mobile!
+Dec 13, 2022
+!
+News
+Dec 12, 2022
+### Vote For the Cause You Want to Support!
+Riot Games Social Impact Fund has allotted over $6M to 84 charities in 28 regions. Your vote helps decide who gets the most. 
+Dec 12, 2022
+!
+News
+Dec 12, 2022
+### New Riot Games SEA Servers for LoL & TFT Go Live in January
+On January 6, 2023, the transition from Garena to Riot will bring with it a month-long, prize-filled party to celebrate the new servers. 
+Dec 12, 2022
+!
+News
+Dec 8, 2022
+### Link Riot Account with Xbox Game Pass Today to Unlock Benefits
+Riot Games is coming to Xbox Game Pass! Link your Riot Account with Xbox Game Pass to unlock exclusive member-only benefits.
+Dec 8, 2022
+!
+News
+Dec 5, 2022
+### /dev: Gameplay Basics & Tag in Project L
+Executive producer Tom Cannon and game director Shaun Rivera give an in-depth look at Project L’s gameplay and tag systems.
+Dec 5, 2022
+!
+News
+Dec 2, 2022
+### Riot Games recognized as a Great Place to Work for Parents
+From parental leave to fertility benefits, Riot cares about current and future parents.
+Dec 2, 2022
+!
+News
+Dec 1, 2022
+### Winners Announced Riot Games Designing for Digital Thriving Challenge
+IDEO and Riot are announcing the ten winners of grants for their proposals to make online spaces safer and more inclusive
+Dec 1, 2022
+!
+Inside Riot
+Nov 22, 2022
+### Black Leaders Take Central Stage at AfroTech 2022
+Members of Riot Noir came together to network, build community, and connect with Black leaders across gaming and tech
+Nov 22, 2022
+!
+One-Shot
+Nov 17, 2022
+### No Room for 1v5s: Ending the Hero Mentality in Game Dev
+Riot Games CEO Nicolo Laurent shares his thoughts on the importance of recharging, his own paternity leave, and Riot’s approach to work-life balance.
+Nov 17, 2022
+!
+News
+Nov 16, 2022
+### Riot Games and Ubisoft Tackling Toxicity in Games With New Project
+This new project will create a database to train AI systems to detect and mitigate harmful behavior in games. 
+Nov 16, 2022
+!
+Inside Riot
+Nov 11, 2022
+### Sama Sama: Celebrating Filipino American History Month Together
+Rioters came together in person at Riot HQ to celebrate Filipino culture. Plus, Riot is opening an office in the Philippines! 
+Nov 11, 2022
+!
+News
+Nov 9, 2022
+### LoL & TFT Will be Published by Riot Games in Southeast Asia
+After a 12 year partnership with Garena, Riot will self-publish League and TFT in Southeast Asia. Here’s how it will impact players and how to transition your account.
+Nov 9, 2022
+!
+Inside Riot
+Nov 3, 2022
+### The Team That Makes the Worlds 2022 Broadcast Happen...
+Putting together the global broadcast for Worlds 2022 takes a combination of talent from folks with backgrounds in music, sports, entertainment, and more.
+Nov 3, 2022
+!
+Inside Riot
+Nov 2, 2022
+### Culpa De Maggical: Javier España’s Legacy Lives on at Worlds 2022...
+With longtime Rioter Javier España passing in May, players lost a face of Riot, Riot lost one of its best, and Rioters in Mexico City lost a dear friend. 
+Nov 2, 2022
+!
+Inside Riot
+Nov 1, 2022
+### How Riot Delivers a Global Broadcast for Worlds 2022
+Worlds 2022 has seen intense LPL vs. LCK matches, Faker and T1, LCS teams playing poorly, and so much more. Here’s how the League of Legends Esports broadcast comes together. 
+Nov 1, 2022
+!
+Inside Riot
+Oct 25, 2022
+### Latin American Heritage Month and Partnering with Latinx in Gaming
+Rioters celebrated by coming together, working with our new partner, and pushing for more representation of Latin American culture in gaming. 
+Oct 25, 2022
+!
+News
+Oct 17, 2022
+### Riot Games Acquires Wargaming Sydney Studio...
+The studio will be renamed Riot Sydney and will continue to operate out of the team’s current office.
+Oct 17, 2022
+!
+Inside Riot
+Oct 11, 2022
+### Inside The House of Worlds, Mexico City’s Premiere Worlds Watch Party
+To give more fans the option to watch Worlds 2022 as it came through Mexico City, Rioters in our CDMX office put together “The House of Worlds.”
+Oct 11, 2022
+!
+Inside Riot
+Oct 7, 2022
+### Lucha Libre: Choosing a Unique Mexican Flair for Worlds 2022
+The team in Mexico City had to answer the question: “How do we welcome the Worlds to Mexico for the first time?” Lucha was the answer. 
+Oct 7, 2022
+!
+News
+Oct 5, 2022
+### Riot and IDEO Launch Open Innovation Challenge
+The Designing for Digital Thriving Challenge will champion responsible design practices that foster healthy, inclusive communities in a rapidly changing digital world. 
+Oct 5, 2022
+!
+Inside Riot
+Sep 27, 2022
+### More Than a Label: Priscila Queiroz
+For Latin American Heritage Month, we are telling stories of Rioters in Riot Unidos. First up, Priscila who has made a career out of curating communities and passion. 
+Sep 27, 2022
+!
+Disciplines
+Sep 23, 2022
+### Five Tips and Tricks to Help You Join the VALORANT Team
+We’re hiring! Like, a lot. Here are five tips from VALORANT’s Manager of Talent Acquisition to help you apply. 
+Sep 23, 2022
+!
+Inside Riot
+Sep 21, 2022
+### Q and A with some of our VALORANT leaders
+We asked a group of VALORANT leaders why they joined the team, what they're excited about for the future, and plenty more.
+Sep 21, 2022
+!
+News
+Sep 15, 2022
+### Lil Nas X Becomes President of League of Legends
+Meet the new President of League of Legends
+Sep 15, 2022
+!
+Inside Riot
+Sep 15, 2022
+### Global Service Month 2022: From São Paulo to Shanghai
+Rioters Around the World came together to give back to their local communities by painting murals, cleaning beaches, becoming mentors, and so much more.
+Sep 15, 2022
+!
+News
+Sep 6, 2022
+### Arcane Honored with Four Emmy® Awards
+Our hit Netflix Series from Riot Games and Fortiche Production becomes the first-ever video game IP to win a Series Emmy® for Outstanding Animated Series
+Sep 6, 2022
+!
+Disciplines
+Sep 1, 2022
+### Riot Games Internship Study Guide Vol. 2: Tips and Tricks for Applying
+Here is what you need to know to submit the best application for the US Summer Internship Program.
+Sep 1, 2022
+!
+News
+Sep 1, 2022
+### Riot is joining forces with Take This
+We will provide funding and resources to the nonprofit dedicated to increasing support for mental health in gaming
+Sep 1, 2022
+!
+Tech Blog
+Aug 31, 2022
+### Bug Blog: Esports Trade Issue
+We will be walking you through a recent bug that was impacting our competitive leagues, and how we dove deep into one of League of Legends’ most legacy pieces of technology to mitigate it.
+Aug 31, 2022
+!
+Disciplines
+Aug 30, 2022
+### Riot Games Internship Study Guide Vol. 1
+On Posting Day, Riot Games US Summer Internships will open with applications. We brought previous Riot Interns to share their story.
+Aug 30, 2022
+!
+News
+Aug 29, 2022
+### An Update on Player Dynamics
+The numbers behind reports in our games and some things we are working on to make our games safer, more inclusive, more fair, and more fun. 
+Aug 29, 2022
+!
+Inside Riot
+Aug 17, 2022
+### Hasan Colakoglu: From First Rioter in Turkey to Building Communities
+Hasan started his career creating better experiences for Turkish gamers, himself included. Now he guides Riot’s international vision. 
+Aug 17, 2022
+!
+News
+Aug 15, 2022
+### We’re Deleting Some Very Inactive Accounts
+We use your data to improve your experience and if you don’t need it, we don’t either.
+Aug 15, 2022
+!
+News
+Aug 12, 2022
+### The Grand Opening of the SoLa Technology and Entrepreneurship Center
+Funded in part by a $2.25M donation from Riot, the new center aims to inspire and develop the next generation of Black and Brown game developers, esports players, and tech professionals. 
+Aug 12, 2022
+!
+News
+Aug 10, 2022
+### Annual Diversity and Inclusion (D&I) Progress Report - 2021
+This report is a snapshot of 2021, a building year that will set us up for what we believe will be a transformative next chapter at Riot. 
+Aug 10, 2022
+!
+Inside Riot
+Aug 9, 2022
+### Rainbow Rioters Find Their Lane: Maria Pentinen
+A gamer her entire life, Maria talks about what video games mean to her, what being an ally looks like, and her path throughout her career. 
+Aug 9, 2022
+!
+Inside Riot
+Aug 4, 2022
+### Looking Back, and Forward, at Pride 2022
+Around the world and at Riot, Pride is a year-round celebration. Here’s what we did for Pride and what we are continuing to do.
+Aug 4, 2022
+!
+News
+Aug 3, 2022
+### Riot is recognized as a Great Place to Work
+This year, Riot scored a 95% from Rioters who said it is a great place to work.
+Aug 3, 2022
+!
+Inside Riot
+Aug 1, 2022
+### /dev: Illaoi in Project L
+Bringing the Kraken Priestess to a fighting game.
+Aug 1, 2022
+!
+News
+Jul 31, 2022
+### Star Guardian Cosplay Guide: Part 2
+Find all the outfit details for each member of this year's class in the second part of the official Star Guardian cosplay guide!
+Jul 31, 2022
+!
+News
+Jul 20, 2022
+### Improving the Esports Experience with Remote Broadcast Centers...
+The first Remote Broadcast Center facility, powered by AWS, just opened in Dublin
+Jul 20, 2022
+!
+News
+Jul 17, 2022
+### Star Guardian Cosplay Guide: Part 1
+Find all the outfit details for each member of this year's class in part 1 of this official Star Guardian cosplay guide!
+Jul 17, 2022
+!
+News
+Jul 12, 2022
+### Hope Burns Brighter Than Fear in Star Guardian 2022
+Learn more about everything Star Guardian has to offer this summer!
+Jul 12, 2022
+!
+News
+Jul 12, 2022
+### Riot is Testing Out a New Affiliate Product
+We’re testing a new way for our partners to promote content.
+Jul 12, 2022
+!
+News
+Jun 30, 2022
+### We’re Taking a Break, BRB
+It’s time for our annual summer break because sunburns beat burn out anyday
+Jun 30, 2022
+!
+Inside Riot
+Jun 28, 2022
+### 2021 Social Impact Report
+A look at how Riot was able to help mobilize communities and platforms in 2021 to create ripple effects far beyond our office walls or digital spaces.
+Jun 28, 2022
+!
+Inside Riot
+Jun 22, 2022
+### Rainbow Rioters Find Their Lane: Patrick Ryan
+From finance to Riot, Patrick Ryan’s career has evolved alongside his relationship
+Jun 22, 2022
+!
+News
+Jun 13, 2022
+### Riot and Xbox are Coming Together on Game Pass
+Unlocked content coming to Game Pass subscribers across Riot’s biggest games on PC and mobile
+Jun 13, 2022
+!
+Inside Riot
+Jun 10, 2022
+### Henna, Cats, and the Evil Eye, How Rioters in Turkey Helped Create...
+To make a Turkish agent, the VALORANT team talked with Turkish Rioters to create all the little details around Fade
+Jun 10, 2022
+!
+One-Shot
+Jun 9, 2022
+### Choosing our lane: 2022 so far
+Reflections from Riot’s CEO on in-person collaboration, our all-company trip to Barcelona, results of queue dodge, and more
+Jun 9, 2022
+!
+Inside Riot
+Jun 3, 2022
+### Asian American and Pacific Islander Heritage Month Recap
+To celebrate, we held talks, ate diverse food, and, most importantly, created a new RIG for API Rioters
+Jun 3, 2022
+!
+News
+May 31, 2022
+### Celebrating Pride Together
+We’re celebrating Pride in-game and out, here’s what you can expect throughout Pride month. 
+May 31, 2022
+!
+News
+May 18, 2022
+### Aim Lab and Riot Headed to the Next Level
+Riot will become a minority shareholder of Statespace, the developers of Aim Lab. 
+May 18, 2022
+!
+News
+May 16, 2022
+### Being Multi-Minded: How Player Dynamics Designers Think
+The second part of our series bringing more transparency to player dynamics and how it helps people play well together in game
+May 16, 2022
+!
+News
+May 12, 2022
+### Player Dynamics Design: Looking Behind the Curtain
+The evolution of Player Dynamics design and how it helps people play well together in games
+May 12, 2022
+!
+Offices
+May 9, 2022
+### LA Times: Riot Games grows Los Angeles base
+The LA Times recently took a tour of our LA office and learned about what makes Rioters tick.
+May 9, 2022
+!
+News
+May 3, 2022
+### Two Riot Initiatives Honored by Fast Company
+VALORANT Game Changers and the Sentinels of Light campaign have been named to the World Changing Ideas list in 2022
+May 3, 2022
+!
+Inside Riot
+Apr 13, 2022
+### Women's History Month
+Women's History Month In March, Rioters from around the world came together to celebrate Women's History Month. 
+Apr 13, 2022
+!
+Inside Riot
+Apr 7, 2022
+### How Rioters in Brazil Helped Create Raze, the Dancing Salvadorian...
+Every VALORANT player has thoughts about the flashy duelist. But in Brazil, where Raze is from, she means something more
+Apr 7, 2022
+!
+News
+Mar 14, 2022
+### Riot Games Announces New Equity Investment in “Arcane” Animation...
+Companies Deepen Longtime Partnership as Riot Takes Significant, Non-Controlling Stake and Board Advisory Role 
+Mar 14, 2022
+!
+Inside Riot
+Mar 7, 2022
+### Black History Month Recap
+In February, Rioters came together to celebrate Black History Month and shine a light on the Black community in gaming. 
+Mar 7, 2022
+!
+News
+Mar 5, 2022
+### Riot is Donating Battle Pass Sales to Humanitarian Relief...
+We’re also contributing $1M more to help communities impacted by the war
+Mar 5, 2022
+!
+Tech Blog
+Mar 1, 2022
+### Getting Into the Guts of Berserk
+We'll cover how we went from a hacky prototype spell to a game-changing ultimate that’s built to last.
+Mar 1, 2022
+!
+News
+Feb 28, 2022
+### Riot is going AFK for a week in March
+We’re holding a series of company-wide meetings to connect, reflect, and discuss our goals. 
+Feb 28, 2022
+!
+News
+Feb 25, 2022
+### Riot Games Expands Publishing Business Into Asia Pacific
+With a focus on hyperlocal publishing, Riot expands its Southeast Asia business to Asia Pacific, including Japan and new offices in India, Philippines, Indonesia/Malaysia and Thailand. 
+Feb 25, 2022
+!
+Inside Riot
+Feb 18, 2022
+### Champion Insights: Renata Glasc
+Gaslight. Gatekeep. Girlboss.
+Feb 18, 2022
+!
+Inside Riot
+Feb 14, 2022
+### Talking Tactics: The Game Dev’s Dilemma
+Mort reflects on the expectation to be highly ranked as a dev.
+Feb 14, 2022
+!
+Inside Riot
+Feb 10, 2022
+### From Vi to Diana, Creativity & Creators are the Heart of Riot Music
+Sessions: Diana shows a contemplative Diana exploring the wilderness with a notebook by her side as a two hour soundtrack accompanies her journey
+Feb 10, 2022
+!
+News
+Jan 20, 2022
+### Two-Factor Authentication Has Arrived
+Protect your account and information with our new MFA system.
+Jan 20, 2022
+!
+News
+Jan 13, 2022
+### Riot Games Announces Partnership with SoLa Impact’s I CAN Foundation 
+Riot Games has teamed up with SoLa Impact’s I CAN Foundation to Fund South LA’s First Technology and Entrepreneurship Center to open later this month
+Jan 13, 2022
+!
+One-Shot
+Jan 11, 2022
+### Calling the Shot: the Next Five Years at Riot Games
+CEO Nicolo Laurent reflects on wins, losses, and the years ahead
+Jan 11, 2022
+!
+News
+Jan 7, 2022
+### The Call | Season 2022 Cinematic – League of Legends
+For the fallen. For the deserted. For the downtrodden. And for those who will rise again. Season 2022 is here. How will you answer the Call?
+Jan 7, 2022
+!
+News
+Jan 7, 2022
+### /dev: The Latest on Udyr's VGU
+An update on Udyr’s VGU, including character modeling, animation, visual effects, and concept art.
+Jan 7, 2022
+!
+News
+Jan 7, 2022
+### Spark - NEON Agent Trailer // VALORANT
+Welcome to VALORANT, Neon. Our newest Manila-born Agent is sprinting onto the scene with Episode 4: Disruption. Lace up and get ready.
+Jan 7, 2022
+!
+News
+Jan 7, 2022
+### Zeri: The Spark of Zaun | Champion Trailer – League of Legends
+Lightning always strikes twice. Or three to seven times.
+Jan 7, 2022
+!
+News
+Jan 7, 2022
+### Gameplay in Season 2022 | Dev Video – League of Legends
+Hop in with Brightmoon to recap some of League’s recent updates and gameplay changes.
+Jan 7, 2022
+!
+News
+Jan 7, 2022
+### Skins & Events in Season 2022 | Dev Video – League of Legends
+Join Bellissimoh for a first look at 2022’s skins, thematics, and events across League of Legends.
+Jan 7, 2022
+!
+News
+Jan 7, 2022
+### Champions in Season 2022 | Dev Video – League of Legends
+Reav3 covers 2022's upcoming champions and VGUs—and introduces Zeri, an electrifying bot lane carry.
+Jan 7, 2022
+!
+News
+Jan 7, 2022
+### Wild Rift in Season 2022 | Dev Video – League of Legends: Wild Rift
+Uncover the newest Wild Rift updates, skins, and events for Season 2022. Look forward to new gameplay changes with the Elemental Rift, as well as new champions—including Sett and Yuumi.
+Jan 7, 2022
+!
+News
+Jan 7, 2022
+### Season Start with Leo Faria | Wild Rift Esports
+Check out what is in store for season one of Wild Rift Esports!
+Jan 7, 2022
+!
+News
+Jan 7, 2022
+### League of Legends Esports in Season 2022 | Esports – Riot Games
+Claim your season. Take a look at highlights from 2021 and look towards Season 2022 for League of Legends esports.
+Jan 7, 2022
+!
+News
+Dec 9, 2021
+### Riot’s Opening an Office in the Seattle Area
+The new office will house 400+ employees at the heart of Mercer Island, in between Bellevue and Seattle.
+Dec 9, 2021
+!
+News
+Nov 22, 2021
+### RiotX Arcane: Until Next Time
+Thank you to everyone who has watched Arcane and for making this an unforgettable moment. We’ve never been more excited about the future. 
+Nov 22, 2021
+!
+News
+Nov 20, 2021
+### Project L /dev: Finding our Game
+As part of Undercity Nights, we’re sharing an update on Riot’s upcoming fighting game. 
+Nov 20, 2021
+!
+Inside Riot
+Nov 19, 2021
+### Filipino American History Month Recap
+To celebrate Filipino American History Month, Filipinos At Riot hosted activities centered around this year’s theme: A Quest for Emergence. 
+Nov 19, 2021
+!
+News
+Nov 19, 2021
+### Ruined King: A League of Legends Story™
+Available Now
+Nov 19, 2021
+!
+News
+Nov 19, 2021
+### Hextech Mayhem
+Available Now
+Nov 19, 2021
+!
+News
+Nov 18, 2021
+### Global Undercity Nights Broadcast Co-Streaming and Rewards
+Learn about how to co-stream the two-day Undercity Nights broadcast on Twitch and YouTube.
+Nov 18, 2021
+!
+News
+Nov 17, 2021
+### Introducing the Riot Gauntlet at Undercity Nights
+Players face off against devs across Riot’s games for charity
+Nov 17, 2021
+!
+News
+Nov 17, 2021
+### Lands ho! Arcane is Joining Magic: The Gathering
+Two new drops of Magic: The Gathering Secret Lair will feature characters, moments and locations from Arcane.
+Nov 17, 2021
+!
+News
+Nov 15, 2021
+### Latinx Heritage Month Recap
+How we celebrated Latinx Heritage Month
+Nov 15, 2021
+!
+News
+Nov 14, 2021
+### Undercity Nights Takes Over
+It’s time to cross the bridge from Piltover to experience Undercity Nights. From rewards to competition, here’s what we have planned. 
+Nov 14, 2021
+!
+News
+Nov 12, 2021
+### Call an Emergency Meeting - Arcane is Coming to Among Us
+Jinx, Vi, Jayce, and more will join the crew in celebration of Arcane.
+Nov 12, 2021
+!
+Inside Riot
+Nov 11, 2021
+### Riot Games Presents: Your Hobby Could Make For The Perfect Career
+Kahlief Adams (Program Manager for D&I) moderated a discussion for Afrotech World 2021 between REL Hunt (Marketing Creative Director, VALORANT) and Dwayne Sands (Software Engineer) about their journeys into gaming, the importance of finding community, and how Riot Noir has been a supportive network for them since coming to Riot.
+Nov 11, 2021
+!
+News
+Nov 10, 2021
+### Progress Days: Celebrating Global Community Grant Winners
+Riot Games Social Impact Fund donates $10,000 to 30 nonprofits nominated by players around the world
+Nov 10, 2021
+!
+News
+Nov 7, 2021
+### Happy Progress Days! 
+It’s Progress Day in Piltover and our games are joining in on the festivities. 
+Nov 7, 2021
+!
+News
+Nov 4, 2021
+### Fortnite Gets Jinxed to Celebrate Arcane
+As Jinx drops in, most of Riot’s titles will become available on the Epic Games Store
+Nov 4, 2021
+!
+News
+Nov 2, 2021
+### Runeterra Enters PUBG MOBILE to Celebrate RiotX Arcane
+Erangel, meet Runeterra—That’s right, League’s coming to PUBG MOBILE.
+Nov 2, 2021
+!
+News
+Nov 1, 2021
+### Welcome to RiotX Arcane
+Celebrate Arcane’s release with us through games, events, rewards, and more!
+Nov 1, 2021
+!
+News
+Oct 29, 2021
+### Global Arcane Premiere Co-Streaming and Rewards
+Learn about how to co-stream the first episode of Arcane on Twitch and earn exclusive in-game rewards.
+Oct 29, 2021
+!
+News
+Oct 28, 2021
+### Imagine Dragons & JID - Enemy Official Music Video
+Watch the official music video for Arcane’s title track, Enemy.
+Oct 28, 2021
+!
+News
+Oct 28, 2021
+### Prime Gaming and Riot Games Team Up to Bring In-Game Content
+Amazon Prime members can claim in-game offers for League of Legends, Legends of Runeterra, VALORANT, and League of Legends: Wild Rift, and emotes for Esports competitions
+Oct 28, 2021
+!
+News
+Oct 14, 2021
+### Secret Cinema presents Arcane: An Immersive Live Experience
+Riot Games and Secret Cinema partner to launch an immersive Arcane experience this November in LA
+Oct 14, 2021
+!
+News
+Oct 13, 2021
+### /Dev Teamfight Tactics: Reckoning Learnings
+Taking what we learned from Reckoning into Gizmos & Gadgets and beyond!
+Oct 13, 2021
+!
+News
+Oct 7, 2021
+### Riot’s President of Games Helps to Inspire the Next Generation
+Rioters Participate in St. Louis Science Center's First Friday Event 
+Oct 7, 2021
+!
+News
+Oct 5, 2021
+### Naz Aletaha Named Global Head of LoL Esports
+Creating the roadmap for the future of LoL Esports
+Oct 5, 2021
+!
+News
+Sep 29, 2021
+### Riot’s Global Service Month 2021
+Rioters around the world served their local communities during Global Service Month 2021
+Sep 29, 2021
+!
+News
+Sep 22, 2021
+### Riot Games Elevates Ryan Crosby to President of Publishing
+Riot sets sights on offerings across games, entertainment, and sports with Crosby helming 1,000+ worldwide publishing team
+Sep 22, 2021
+!
+News
+Sep 16, 2021
+### New Riot Client Coming Soon
+Announcing the launch of the new Riot Client!
+Sep 16, 2021
+!
+News
+Sep 7, 2021
+### Annual Diversity and Inclusion (D&I) Progress Report - 2020
+In a year when we launched new games during a pandemic, we also kept focused on our commitment to fostering diverse perspectives and work towards creating an inclusive culture. Our second annual D&I report is live now! 
+Sep 7, 2021
+!
+News
+Aug 26, 2021
+### Hello Riot Mobile! Farewell League+
+Download Riot Mobile - your companion for all things Riot Games!
+Aug 26, 2021
+!
+News
+Aug 25, 2021
+### Erin Wayne Joins Riot Games as Its First-Ever Global Head of Player...
+Shaping the Next Evolution of Community Engagement
+Aug 25, 2021
+!
+News
+Aug 23, 2021
+### Riot Games Names Mark Sottosanti Chief Financial Officer
+Veteran Riot executive to lead global finance and strategy as company enters its next phase of growth.
+Aug 23, 2021
+!
+Tech Blog
+Jul 30, 2021
+### Bug Blog: TFT Bugs And Patches
+See how we handle patches across PC and mobile for TFT, and how this relates to quality assurance.
+Jul 30, 2021
+!
+News
+Jul 29, 2021
+### Changing the Face of Gaming at 2021 Virtual San Diego Comic-Con
+Jessica Nam, Candace Thomas, and Shauna Spenley discuss their journey into the gaming and entertainment industry
+Jul 29, 2021
+!
+News
+Jul 26, 2021
+### Riot’s Mid-Year Break
+We’re taking the week of August 2nd to recharge.
+Jul 26, 2021
+!
+News
+Jul 26, 2021
+### Hollaback! Anti-Xenophobic Harassment Training
+Our continued work to educate Rioters on how to stand up against anti-Asian racism.
+Jul 26, 2021
+!
+News
+Jul 15, 2021
+### R&D Foundations: Opportunity, Thesis, and Audience
+Before development starts on an R&D game, the team needs to understand their game’s core foundations.
+Jul 15, 2021
+!
+News
+Jul 8, 2021
+### Join The Sentinels Initiative
+Nominate a nonprofit or cause for a chance to grant them $10,000 for charity.
+Jul 8, 2021
+!
+Inside Riot
+Jul 7, 2021
+### Pride Month Recap
+How we celebrated Pride this year.
+Jul 7, 2021
+!
+Inside Riot
+Jul 7, 2021
+### Champion Insights: Akshan
+A hero among scoundrels.
+Jul 7, 2021
+!
+News
+Jul 2, 2021
+### Sessions: Vi - Out now
+Introducing Sessions: Vi. A 37 track album completely free to use in your content.
+Jul 2, 2021
+!
+Tech Blog
+Jun 29, 2021
+### Leveling Up Networking For A Multi-game Future
+We’re going to tell you a bit about what we’ve done to reinforce consistent and stable connections, reduce latency, and improve the overall player experience for our entire multi-game portfolio. 
+Jun 29, 2021
+!
+News
+Jun 19, 2021
+### Fate of Demacia
+Ruination conquers all.
+Jun 19, 2021
+!
+News
+Jun 16, 2021
+### Jason Bunge on Breakthrough Builders
+CMO Jason Bunge talks to the Breakthrough Builders podcast about gaming culture, building a company's brand, and the importance of marketing.
+Jun 16, 2021
+!
+News
+Jun 11, 2021
+### /dev diary: Arcane Animated Series
+Sit down with co-creators Christian Linke and Alex Yee to dive into Arcane.
+Jun 11, 2021
+!
+News
+Jun 11, 2021
+### Arcane: Animated Series | A Score To Settle
+Jinx has something to prove, especially to her sister. Arcane the animated series is coming to Netflix Fall 2021. 
+Jun 11, 2021
+!
+Inside Riot
+Jun 9, 2021
+### Asian American & Pacific Islander Heritage Month Recap
+How we celebrated AAPI Heritage Month.
+Jun 9, 2021
+!
+News
+Jun 4, 2021
+### Underrepresented Founders Program One Year In
+Our continued support to drive change in underrepresented gaming communities.
+Jun 4, 2021
+!
+Tech Blog
+May 31, 2021
+### The Legends Of Runeterra CI/CD Pipeline
+Our team will be sharing some details about how we build, test, and deploy Legends of Runeterra, a digital collectible card game. 
+May 31, 2021
+!
+News
+May 28, 2021
+### Free Mental Health Resources for Content Creators
+We partnered with The Public Good Projects to create a free mental health advocacy guide for streamers, content creators, and moderators.
+May 28, 2021
+!
+News
+May 27, 2021
+### Dawnbringer Karma Wins Golden Halo Award
+League of Legends players win the 2021 Golden Halo Award for their generosity with the Dawnbringer Karma Fundraiser.
+May 27, 2021
+!
+Inside Riot
+May 21, 2021
+### Collaborative Creative in R&D
+Looking at R&D games through a creative lens.
+May 21, 2021
+!
+News
+May 17, 2021
+###  Celebrating Pride With You
+This year’s Pride celebration is bigger than ever, and it’s coming to every game!
+May 17, 2021
+!
+News
+May 13, 2021
+### On Friction
+UX designer Jeff Zhang explains why friction in games creates a better experience.
+May 13, 2021
+!
+News
+May 3, 2021
+### Arcane: Animated Series | Official Netflix Announcement
+Arcane the animated series is coming to Netflix Fall 2021.
+May 3, 2021
+!
+Tech Blog
+Apr 27, 2021
+### Strategies for Working in Uncertain Systems
+Learn some tips and tricks our team has used to overcome or avoid cases like the one above, and how we figure out why they happen in the first place.
+Apr 27, 2021
+!
+News
+Apr 30, 2021
+### Updating the Privacy Notice and Terms of Service
+We’re updating our player policies to implement a global refund policy and improve our behavior systems around voice chat.
+Apr 30, 2021
+!
+News
+Apr 26, 2021
+### 2020 Social Impact Year in Review
+Taking a look back at all the social good in 2020.
+Apr 26, 2021
+!
+News
+Apr 22, 2021
+### Elderwood Ornn Charity Skin Results
+You raised more than $7 million for the Riot Games Social Impact Fund with Elderwood Ornn.
+Apr 22, 2021
+!
+Tech Blog
+Mar 30, 2021
+### Improving the Developer Experience for Operating Services
+In this article, we’ll be talking about our one-stop-shop application for Rioters operating services - Console.
+Mar 30, 2021
+!
+News
+Mar 31, 2021
+### Champion Insights: Gwen
+Cut from a different cloth.
+Mar 31, 2021
+!
+Disciplines
+Mar 24, 2021
+### League Frequencies: Audio Development Video Series
+Join audio engineers from across Riot as they share how the different areas of audio design work to create a cohesive experience for players.
+Mar 24, 2021
+!
+Inside Riot
+Mar 12, 2021
+### /dev: Clarity in League
+Hitboxes, color palettes, silhouettes, cats, skins, and more.
+Mar 12, 2021
+!
+News
+Mar 12, 2021
+### Client, Clarity, and State of the Game - lol pls
+League’s executive producer Safelocked shares the latest on the client and game clarity and design director Meddler covers League’s current game state.
+Mar 12, 2021
+!
+News
+Mar 9, 2021
+### Wild Rift Americas Server Launch
+League of Legends: Wild Rift is coming to the Americas!
+Mar 9, 2021
+!
+Inside Riot
+Mar 2, 2021
+### Celebrating Black History Month
+How we celebrated Black Excellence in Gaming & Entertainment. 
+Mar 2, 2021
+!
+Tech Blog
+Feb 23, 2021
+### Keeping Legacy Software Alive: A Case Study
+We'll be going through why the League of Legends EU West shard was out to lunch for just over five hours on January 22, 2021. See what goes on behind the scenes when League is down and what problems we are tackling to reduce the frequency and severity of our outages.
+Feb 23, 2021
+!
+Inside Riot
+Feb 23, 2021
+### Engineering in Riot R&D
+Engineering in a highly iterative environment.
+Feb 23, 2021
+!
+Inside Riot
+Aug 3, 2023
+### Queue Dodge
+We’ve designed Queue Dodge to help self-identified mismatches move on in an open, positive, and constructive way.
+Aug 3, 2023
+!
+Tech Blog
+Feb 27, 2024
+### The Art of Spell Casting, Part 2
+In this two-part series, we explore the technology behind Hwei's unique spell casting paradigm.&nbsp;It took many ideas and iterations before we landed on a solution that&nbsp;makes Hwei’s spell casting feel precise and fluid, and allows&n…
+Feb 27, 2024
+!
+Tech Blog
+Feb 27, 2024
+### The Art of Spell Casting, Part 1
+In this two-part series, we explore the technology behind Hwei's unique spell casting paradigm. It took many ideas and iterations before we landed on a solution that makes Hwei’s spell casting feel precise and fluid, and allows&nbsp;player…
+Feb 27, 2024
+!
+Tech Blog
+Nov 28, 2023
+### Reviving Nexus Blitz
+In this article, we explore some of the challenges the team faced when reviving the Nexus Blitz game mode this year, from upgrading older systems to making them more accessible for future developers.
+Nov 28, 2023
+      
+                          
+Cookie Preferences
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Jump to Primary Navigation<button>
+<button>mainLogoRiotFist21mainMenuDownNonHover<button>
+<button>Who We Are<button>
+<button>Work with us<button>
+<button>News<button>
+<button>You Are the Race | Wild Rift x Porsche<button>
+<button>Know Before You Go: 2XKO @ Evo Japan 2026<button>
+<button>2XKO @ Evo Japan 2026 Trailer<button>
+<button>TFT Space Gods Set Trailer<button>
+<button>Dev Update: Arena Updates & More<button>
+<button>The VCT in 2027 where EVERYTHING IS A TOURNAMENT?!<button>
+<button>Riot Named to Fortune’s 100 Best Companies to Work For list<button>
+<button>Have a Nice Deity! | SPACE GODS Set Cinematic – Teamfight Tactics<button>
+<button>NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT<button>
+<button>First Stand 2026<button>
+<button>March Update 2026 | Dev Snapshot<button>
+<button>FST 2026 Primer<button>
+<button>Shyvana, the Half-Dragon<button>
+<button>Making a Zeus-inspired VALORANT Skin<button>
+<button>¡GRITA CON EL ALMA! - VALORANT 2026 Masters Santiago Cinematic<button>
+<button>Masters Santiago : Everything You Need To Know<button>
+<button>Masters Santiago: Know Before You Go<button>
+<button>Old Friends, New Bloom | Lunar Revel 2026 Cinematic<button>
+<button>An Update on 2XKO<button>
+<button>EP3: Fortune’s Flight | Lunar Revel 2026<button>
+<button>Find Our Way | Petals of Spring 2026 Cinematic Trailer - LoL: WR<button>
+<button>EP2: Fortune’s Blessing | Lunar Revel 2026<button>
+<button>2XKO Season 1 2026 Launch Trailer<button>
+<button>EP1: Fortune’s Dance | Lunar Revel 2026<button>
+<button>Patch 7.0 Preview - League of Legends: Wild Rift<button>
+<button>Dev Update: For Demacia<button>
+<button>Salvation (ft. Forts) | For Demacia 2026 Season 1 Cinematic<button>
+<button>Riot Games Community Pact<button>
+<button>Welcome to Season 2026 // Dev Updates - VALORANT<button>
+<button>WHY WE FIGHT BACK // Season 2026 Cinematic Kickoff Trailer - VALORANT<button>
+<button>Heading Out For Winter Break 2025<button>
+<button>Vanguard Security Update: Closing the Pre-Boot Gap<button>
+<button>TFT Paris Open Anthem<button>
+<button>TFT Dev Drop: Lore & Legends<button>
+<button>2025 Charity Voting Campaign Winners<button>
+<button>GO OFF // 2025 VALORANT Game Changers Championship Hype Film<button>
+<button>Still Legendary I Lore & Legends Set Cinematic (ft. Mako) - TFT<button>
+<button>VALORANT Game Changers Championship 2025: Everything You Need to Know<button>
+<button>Season 3 Cinematic: Twilight’s End<button>
+<button>Find a Worlds 2025 Watch Party Near You<button>
+<button>Bringing League Champions to 2XKO’s Art - Super Art Power Hour Ep. 11<button>
+<button>Celebrating Ten Years of Global Service Month at Riot Games<button>
+<button>Happy 5th Anniversary<button>
+<button>How 2XKO Handles Online Play<button>
+<button>Dev Doodles: ARAM<button>
+<button>Worlds 2025 Anthem Music Video<button>
+<button>Patch 6.3 Preview - League of Legends: Wild Rift<button>
+<button>Everything you need to know about Wild Rounds: SMASH<button>
+<button>Ties That Bind (2XKO Official Cinematic)<button>
+<button>EARN YOUR LEGACY | Worlds 2025<button>
+<button>GIVE THEM NOTHING // Veto Agent Trailer - VALORANT<button>
+<button>Final Contact - The Path to Paris<button>
+<button>Worlds 2025 Primer<button>
+<button>Find a VALORANT Champions Watch Party<button>
+<button>The First Step Towards New Partner Programs for Creators<button>
+<button>Celebrating 15 Years of LoL Esports<button>
+<button>Rioters Run the Set at Evo 2025<button>
+<button>September Update 2025 | Dev Snack Shop - LoR<button>
+<button>Illustrating Riftbound Card Art - Super Art Power Hour Ep. 10<button>
+<button>Roo's Lantern | Spirit Blossom: Afterglow | Full Cinematic - LoR<button>
+<button>Last Shot ft. templuv & 347aidan (Official Music Video) // VALORANT<button>
+<button>Everything You Need to Know: Champions Paris<button>
+<button>2025 Season 3 Act 1 Trailer - League of Legends<button>
+<button>Beginning of the End | Trials of Twilight 2025 S3 Cinematic - LoL<button>
+<button>TFT Pro Circuit: Everything You Need to Know<button>
+<button>Roo's Lantern (Pt 1) | Spirit Blossom: First Bloom | Cinematic Trailer<button>
+<button>How to buy Riftbound<button>
+<button>Minions, Servers, and Progression – The Tech Behind Swarm<button>
+<button>Know Before You Go - 2XKO at Evo 2025<button>
+<button>2XKO Closed Beta Announcement<button>
+<button>Map Design in VALORANT - Super Art Power Hour Ep. 9<button>
+<button>Riotling Day: A Moment for the Families of Riot<button>
+<button>TFT Dev Drop: K.O. Coliseum I Dev Video - Teamfight Tactics<button>
+<button>Fighter!! (ft. ASCA) | K.O. Coliseum OP | Set Cinematic - TFT<button>
+<button>Heading Out on Summer Break<button>
+<button>June Update 2025 | Dev Snack Shop - Legends of Runeterra<button>
+<button>Why We're Opening Betting Sponsorships in Esports & How We're Doing...<button>
+<button>Corrode // Official Map Trailer - VALORANT<button>
+<button>MSI 2025 Primer<button>
+<button>Reflecting on Reflection - A Mel Medarda Tech Blog<button>
+<button>Hall of Legends: Uzi<button>
+<button>ARAM, Inting & More | Dev Update - League of Legends<button>
+<button>Reflection // Redemption - VALORANT Masters Toronto Cinematic<button>
+<button>Celebrate Pride with your VALORANT community.<button>
+<button>WHY WE FIGHT // EGO ft. Qing Madi // Year 5 Music Video - VALORANT<button>
+<button>Abilities, Smurfing, Replays, and More // Dev Updates - VALORANT<button>
+<button>Celebrating Pride In Game and Out<button>
+<button>Making Splash Art in TFT - Super Art Power Hour Ep. 8<button>
+<button>Masters Toronto: Everything You Need To Know<button>
+<button>TFT 6-Year Bash<button>
+<button>Hall of Legends: Uzi | Trailer<button>
+<button>Celebrate Pride 2025: League and TFT<button>
+<button>LoL and VALORANT Esports Partnering with Coinbase<button>
+<button>5 Years of VALORANT // Act 3 Kickoff Trailer<button>
+<button>Celebrating 5 Years of VALORANT<button>
+<button>Now Available – Multi-Factor Authentication on Riot Mobile<button>
+<button>Get Rewarded for Enabling Multi-Factor Authentication (MFA)<button>
+<button>Hoby Darling joins Riot Games as its next President<button>
+<button>Look Up! | Ryze x Faker Trailer - League of Legends: Wild Rift<button>
+<button>Spirit Blossom, Brawl & More | Dev Update - League of Legends<button>
+<button>Here, Tomorrow (ft Lilas, Kevin Penkin) - 2025 Season 2 Cinematic...<button>
+<button>A Dark Gambit | 2025 Season 1 Cinematic - League of Legends<button>
+<button>Building Great Experiences for Players: A Never Ending Quest<button>
+<button>Introducing Riftbound - The League of Legends Trading Card Game<button>
+<button>TFT Dev Drop: Cyber City | Dev Video - Teamfight Tactics<button>
+<button>/Dev TFT: Into the Arcane Learnings<button>
+<button>March Update 2025 | Dev Snack Shop - Legends of Runeterra<button>
+<button>High Speed Heist | Cyber City Set Cinematic - Teamfight Tactics<button>
+<button>DAWN BREAKS // Waylay Agent Trailer - VALORANT<button>
+<button>FULL FEARLESS DRAFT UNLEASHED! First Stand Tournament 2025<button>
+<button>Riot and UVS to bring Project K to global players<button>
+<button>FST 2025 Primer<button>
+<button>Dawn of the Duelist // VALORANT Masters Bangkok Cinematic<button>
+<button>Masters Bangkok: EYNTK<button>
+<button>Why We’re Returning to the Esports World Cup with League, TFT, and VAL<button>
+<button>Celebrating the Year of the Snake<button>
+<button>Dev Double Up: Making Unbound and Chibi Tacticians<button>
+<button>The Bridge Between | Lunar Revel 2025 Cinematic - League of Legends<button>
+<button>Update on the Southern California Wildfires and Our Fundraiser for...<button>
+<button>Riot Tech Blog: Improving Performance by Streamlining League’s...<button>
+<button>Fortune Favors the Hungry | Mini Cinematic - Teamfight Tactics<button>
+<button>Welcome to Noxus | Dev Update - League of Legends<button>
+<button>Welcome to Noxus - Bite Marks (ft. TEYA) | 2025 Season 1 Cinematic...<button>
+<button>What’s New for Season 2025 // Dev Updates - VALORANT<button>
+<button>Welcome to Season 2025 - VALORANT<button>
+<button>INITIATE.V25 // Season 2025 Kickoff Trailer - VALORANT<button>
+<button>It’s Time for our End of Year Break<button>
+<button>Temporary Changes to English Skin VO During the SAG-AFTRA Strike<button>
+<button>December Update 2024 | Dev Snack Shop - Legends of Runeterra<button>
+<button>TFT Macao Open: Everything You Need to Know<button>
+<button>Introducing Project K: The League of Legends Trading Card Game<button>
+<button>Season 1 Reveal, Gameplay Preview & Ranked Resets | Dev Update - LoL<button>
+<button>TFT Dev Drop: 6-Costs Enter Into the Arcane I Dev Video - TFT<button>
+<button>Nightmare on Reroll Street: Part 2 | Into the Arcane Launch Cinematic<button>
+<button>Arcane Season 2 Across Our Games<button>
+<button>Why We Rumble: Inside our Annual Riot vs. Riot Tournaments<button>
+<button>Nightmare on Reroll Street: Part 1 | Into the Arcane Launch Cinematic<button>
+<button>Becoming Unbound | Mini Cinematic - Teamfight Tactics<button>
+<button>Jinx Gameplay Sneak Peek | 2XKO<button>
+<button>TFT Dev Drop: Into the Arcane<button>
+<button>TFT Goes Into the Arcane<button>
+<button>League of Legends x Arcane Season 2<button>
+<button>Champion Insights: Ambessa<button>
+<button>VALORANT x Arcane: The Season 2 Arcane Collector’s Set is coming<button>
+<button>/Dev TFT: Magic n' Mayhem Learnings<button>
+<button>Paint The Town Blue ft. Ashnikko (from the series Arcane: League Of...<button>
+<button>VALORANT Game Changers Championship 2024: Everything You Need to Know<button>
+<button>THE DRIVE // 2024 VALORANT Game Changers Championship Hype Film<button>
+<button>Global Community Premiere of Arcane Season 2: Co-Streaming...<button>
+<button>Blood Sweat & Tears | Official Music Video - League of Legends<button>
+<button>JUST. ONE. MORE // Episode 9: Act lll Trailer - VALORANT<button>
+<button>Find a Worlds 2024 Watch Party Near You<button>
+<button>Need to live | Heimerdinger Champion Trailer - League of Legends: WR<button>
+<button>Arcane: "Come Play" Series Trailer<button>
+<button>Thunderdome: Inside Riot Games’ 48-Hour Hackathon<button>
+<button>Watch, Play, Experience: Here’s How We’re Celebrating Arcane...<button>
+<button>Unstoppable (burnboy ft. NEONI) | Welcome to Runeterror Cinematic...<button>
+<button>Riot Tech Interns 2024 Part 2: Aurora, VAL on Console, and skin...<button>
+<button>Heavy Is The Crown ft. Linkin Park (Official Music Video)...<button>
+<button>LoL Player Days<button>
+<button>Vanguard x VALORANT<button>
+<button>Player Behavior, Balance, and Anti-Cheat // Dev Updates - VALORANT<button>
+<button>The Return of Thunderdome<button>
+<button>Worlds 2024 | Make Them Believe<button>
+<button>September Update 2024 | Dev Snapshot - LoR<button>
+<button>Worlds 2024 Primer<button>
+<button>Arcane: Season 2 | Official Trailer<button>
+<button>Upcoming Regional Price Updates<button>
+<button>Technical Assessment Tips: Riot Games Internship Study Guide Vol. 4<button>
+<button>Riot Tech Interns 2024 Part 1: League of Legends, VALORANT, and TFT<button>
+<button>ALL PATHS END HERE // Vyse Agent Trailer - VALORANT<button>
+<button>Honor, Skins & More | Dev Update - League of Legends<button>
+<button>Bringing VALORANT to Console through Global Collaboration<button>
+<button>We're Updating our Internal Structure to Better Connect Games...<button>
+<button>How’s 2XKO Alpha Lab Going? - Dev Chat<button>
+<button>What’s in 2XKO Alpha Lab?<button>
+<button>INCURSIONS // Official Console Cinematic Trailer - VALORANT<button>
+<button>Magic Is Brewing | Magic n’ Mayhem Launch Cinematic - TFT<button>
+<button>Devs Answer Questions While Swarmed by Kittens | League of Legends<button>
+<button>Everything You Need to Know: Champions Seoul<button>
+<button>Swarm, Arena, and the Value of Game Modes<button>
+<button>SUPERPOWER ft. KISS OF LIFE and Mark Tuan (Official Music Video)...<button>
+<button>Key Learnings from Beyond Ruination<button>
+<button>Dev Update: Heightened Hexperience<button>
+<button>The Hexolution is coming to Wild Rift!<button>
+<button>Fight for Final City | Anima Squad 2024 Cinematic - League of Legends<button>
+<button>Anima Squad 2024: Everything You Need To Know<button>
+<button>Know Before You Go - 2XKO at Evo 2024<button>
+<button>TFT Dev Drop: Magic n’ Mayhem I Dev Video - Teamfight Tactics<button>
+<button>The Next TFT Open Heads to Macao!<button>
+<button>Braum Gameplay Reveal Trailer | 2XKO<button>
+<button>We’re Taking a Break, BRB<button>
+<button>What is 2XKO Alpha Lab? - Dev Q&A w/ Sajam<button>
+<button>/Dev TFT: Inkborn Fables Learnings<button>
+<button>THE FUTURE’S READY // Episode 9: Act l Trailer - VALORANT<button>
+<button>Swarm | Operation: Anima Squad - Event Trailer | League of Legends<button>
+<button>Champion Insights: Aurora<button>
+<button>Game Changers 2024: Championship Expansion & New Mobility Policies<button>
+<button>Mid-Year Update 2024 | Dev Snapshot - LoR<button>
+<button>From VALORANT to LGBTQIA+ Game Shows, Euphoria Ng Builds Community...<button>
+<button>Hall of Legends: Faker<button>
+<button>We Asked TFT Devs Your Burning Questions | 5 Year Bash - TFT<button>
+<button>Arcane Season 2 | Official Teaser Trailer<button>
+<button>Gameplay, Esports & Arcane | Dev Update - League of Legends<button>
+<button>SANCTUM OF SECRETS // Abyss Official Map Trailer - VALORANT<button>
+<button>Register now for the VALORANT Console Limited Beta<button>
+<button>VALORANT CONSOLE ANNOUNCE // Cinematic Gameplay Trailer - VALORANT<button>
+<button>Bringing VALORANT to Console // Dev Diaries - VALORANT<button>
+<button>Happy Pride!<button>
+<button>Keeping Our Community Healthy // Dev Updates<button>
+<button>Crafting Visual Effects in Teamfight Tactics - Super Art Power Hour...<button>
+<button>Legacy of the Demon King | Hall of Legends Event Trailer - LoL<button>
+<button>Constellations | Launch Video - Legends of Runeterra<button>
+<button>TFT’s 5-Year Bash!<button>
+<button>Map Rotations, Replays, and More // Dev Updates - VALORANT<button>
+<button>Button Day | Launch Video - Legends of Runeterra<button>
+<button>Celebrate Pride 2024: League and TFT<button>
+<button>Everything You Need to Know: Masters Shanghai<button>
+<button>Update on 2021 Lawsuit Against Riot & Former CEO<button>
+<button>Making the 2023 Worlds Opening Ceremony Presented by Mastercard<button>
+<button>Dive into patch 5.1: Beyond Ruination | League of Legends: Wild Rift<button>
+<button>Know Before You Go - 2XKO at EVO Japan<button>
+<button>How to Play 2XKO - EVO Japan 2024<button>
+<button>MSI 2024 Primer<button>
+<button>Three Ways We’re Making Our Offices More Sustainable<button>
+<button>Beyond the Mist | Kalista Champion Trailer - League of Legends: WR<button>
+<button>Arena, Lee Sin & PvE Mode First-Look | Dev Update - League of Legends<button>
+<button>Advancing the Esports and Player Experience in MENA<button>
+<button>Devs Spill the Beans: Skarner’s New Lore | Dev Video - LoL<button>
+<button>2 WORLDS // Clove Agent Trailer - VALORANT<button>
+<button>A Brush With Fate | Inkborn Fables Launch Cinematic - TFT<button>
+<button>Adjusting our LoL Esports Strategy<button>
+<button>Celebrating Ramadan in Wild Rift Together Under the Crescent<button>
+<button>Together Under the Crescent | Event Trailer - League of Legends: WR<button>
+<button>Everything You Need to Know: Masters Madrid<button>
+<button>TFT Dev Drop: Inkborn Fables I Dev Video - Teamfight Tactics<button>
+<button>Dev Update: Gameplay, Vanguard & More<button>
+<button>Project L Is Now 2XKO: Year in Preview 2024<button>
+<button>2XKO Social Media Wallpaper Kit<button>
+<button>Bandle Tale - Available Now!<button>
+<button>Introducing the 2024 VCT Team Capsules // Skin Reveal Trailer - VAL<button>
+<button>Celebrating the Year of the Dragon in Runeterra and Beyond<button>
+<button>A Dragon’s Spirit | Mini Cinematic - Teamfight Tactics<button>
+<button>Happy Year of the Dragon!<button>
+<button>A Prince’s Wish | Lunar Revel 2024 Cinematic<button>
+<button>Dragon Lantern - Skin Feature<button>
+<button>State of the Game 2024<button>
+<button>Dev Update: Patch Cadence, Themes & Exciting Additions<button>
+<button>Changes at Riot and the Road Ahead<button>
+<button>An Important Update about Riot’s Future<button>
+<button>Riot’s Korea Office and the Cultural Heritage Protection Project<button>
+<button>Dev Update: One Runeterra & Arcane Season 2<button>
+<button>Introducing the Hall of Legends<button>
+<button>Still Here | Season 2024 Cinematic - League of Legends (ft. Forts,...<button>
+<button>Riot and HP Team Up on New Global Partnership<button>
+<button>RECKONING // Episode 8 Cinematic - VALORANT<button>
+<button>Champion Insights: Smolder<button>
+<button>Talking Tactics: TFT's First Set Revival<button>
+<button>Arcane: Season 2 First Look<button>
+<button>Season 2024 Look Ahead: Champions, Modes, Arcane & More | Dev Video<button>
+<button>The State of the Game: LoL Esports in 2024<button>
+<button>The Winners of the 2023 Charity Voting Campaign<button>
+<button>A View to Worlds<button>
+<button>The Vision for Teamfight Tactics: Vegas Open<button>
+<button>TFT Vegas Open: Everything You Need to Know<button>
+<button>Marc Merrill Takes on New Role as Chief Product Officer at Riot Games<button>
+<button>Riot Games Social Impact Fund Crosses $50M Raised<button>
+<button>VALORANT, LOUDER // 2023 GAME CHANGERS CHAMPIONSHIP HYPE FILM<button>
+<button>Celebrating Filipino American History Month 2023 at Riot<button>
+<button>REMIX RUMBLE ft. Steve Aoki (Official Music Video) | Teamfight Tactics<button>
+<button>Champion Insights: Hwei<button>
+<button>There’s No Place Like League<button>
+<button>Reworking the Riot ID Transition Plan<button>
+<button>How Esports Rioters in Korea are Making Worlds 2023 One for the Books<button>
+<button>Announcing the Winners of the Riot Games VFX Creative Contest!<button>
+<button>TFT Dev Drop: Remix Rumble I Dev Video - Teamfight Tactics<button>
+<button>Dev For a Day: Rusticles<button>
+<button>Portfolio Tips & Advice - Riot Games Internship Study Guide Vol. 3<button>
+<button>Celebrating Latin American Heritage Month with Riot Unidos<button>
+<button>HEARTSTEEL - PARANOIA ft. BAEKHYUN, tobi lou, ØZI, and Cal Scruby...<button>
+<button>Planting Trees and Taking Drakes at Worlds 2023<button>
+<button>Transitioning from Summoner Names to Riot IDs<button>
+<button>Dev Update: Champs, Lore & More<button>
+<button>The Making of Riot’s New Home in Seattle<button>
+<button>Riot Client Game Hubs<button>
+<button>Wild Rift Third Year Global Anniversary Celebrations<button>
+<button>GODS ft. NewJeans (뉴진스) | Worlds 2023 Anthem - League of Legends<button>
+<button>“THE GRIND. THE GLORY.” Cinematic Trailer | Worlds 2023<button>
+<button>Update on Our CEO Transition<button>
+<button>Worlds 2023 Primer<button>
+<button>So You Want to Attend the TFT Vegas Open?<button>
+<button>Champion Insights: Briar<button>
+<button>SUNSET // Official Map Trailer - VALORANT<button>
+<button>Champions Weekend: Map Reveal, Fan Fest, and Grand Finals<button>
+<button>Teaming up with DonorsChoose to Support Gaming and Esports Programs...<button>
+<button>How We Celebrated Pride 2023 at Riot<button>
+<button>How a Global Esport Comes Together at VALORANT Champs 2023<button>
+<button>Pre-Register Now: TFT Mobile is Coming to the Asia-Pacific Region!<button>
+<button>Project L @ Evo 2023 Recap<button>
+<button>Soul Fighter Cosplay Guide: Round 2<button>
+<button>Mid-Year Update 2023 | Dev Snapshot - Legends of Runeterra<button>
+<button>Arena: Making a New Mode<button>
+<button>CHAMPIONS LOS ANGELES: EVERYTHING YOU NEED TO KNOW<button>
+<button>Soul Fighter Cosplay Guide: Round 1<button>
+<button>Introducing Duo Play<button>
+<button>Tournament of Souls - Coming Alive | Cinematic<button>
+<button>Behind the Mode: Soul Brawl<button>
+<button>How Underdogs Made League of Legends History | DRX The Rise<button>
+<button>UNITED TOGETHER // China Launch Official Cinematic - VALORANT<button>
+<button>Shipping Xbox Game Pass<button>
+<button>API at Riot Takes Center Stage for AAPI Heritage Month<button>
+<button>DEFY DEFINITION: EPISODE 7 ACT 1<button>
+<button>The Tournament Begins: Soul Fighter 2023<button>
+<button>Champion Insights: Naafiri<button>
+<button>Mastercard Expands Global Partnership to VALORANT Esports<button>
+<button>The Making of a League of Legends Champion Theme<button>
+<button>League of Legends x Coca-Cola Ultimate Zero Sugar: Now Available<button>
+<button>Natalie Parker: Over a Decade of Work at Riot Games<button>
+<button>Celebrating Pride with the Community<button>
+<button>CONV/RGENCE - Available Now!<button>
+<button>Background Patching is coming to Riot Client<button>
+<button>New Emotes for a Discord Birthday Present<button>
+<button>Announcing Our Next CEO<button>
+<button>2022 Annual Impact Report<button>
+<button>Building the Future of Sport at Riot Games<button>
+<button>The Mageseeker - Available Now!<button>
+<button>Looking Back on Women’s History Month 2023<button>
+<button>Prime Gaming and Riot Games Run it Back<button>
+<button>From Duck Hunt to Riot Games, Maye Mac-Swiney’s Gaming Journey...<button>
+<button>Champion Insights: Milio<button>
+<button>VCT Americas 2023 Kicks Off April 1<button>
+<button>Amplifying Black Voices for Black History Month<button>
+<button>How Exec. Pastry Chef Nicole Redd-McIntosh creates one-of-a-kind...<button>
+<button>How Kat Wong Found Her Home in Gaming With Riot’s Localization Team<button>
+<button>Celebrating Lunar New Year In-Game and Out<button>
+<button>Players Voted and These Charities Won the Lion’s Share of $6M<button>
+<button>LoL Esports: Season Kickoff & State of the Game<button>
+<button>The Brink of Infinity | Season 2023 Cinematic - League of Legends<button>
+<button>/dev chat: Player Behavior | Dev Video - League of Legends<button>
+<button>/dev chat: Midscope Updates | Dev Video - League of Legends<button>
+<button>/dev chat: State of the Game | Dev Video - League of Legends<button>
+<button>Season 2023 | LoL Pls - League of Legends<button>
+<button>REVELATION // Episode 6 Cinematic - VALORANT<button>
+<button>Season 2023 Kickoff | The Madness is the Hype<button>
+<button>Riot is Taking a Break to End the Year<button>
+<button>Re:presenting at AWS re:Invent<button>
+<button>Now Streaming on Riot Mobile<button>
+<button>Vote For the Cause You Want to Support!<button>
+<button>New Riot Games SEA Servers for LoL & TFT Go Live in January<button>
+<button>Link Riot Account with Xbox Game Pass Today to Unlock Benefits<button>
+<button>/dev: Gameplay Basics & Tag in Project L<button>
+<button>Riot Games recognized as a Great Place to Work for Parents<button>
+<button>Winners Announced Riot Games Designing for Digital Thriving Challenge<button>
+<button>Black Leaders Take Central Stage at AfroTech 2022<button>
+<button>No Room for 1v5s: Ending the Hero Mentality in Game Dev<button>
+<button>Riot Games and Ubisoft Tackling Toxicity in Games With New Project<button>
+<button>Sama Sama: Celebrating Filipino American History Month Together<button>
+<button>LoL & TFT Will be Published by Riot Games in Southeast Asia<button>
+<button>The Team That Makes the Worlds 2022 Broadcast Happen...<button>
+<button>Culpa De Maggical: Javier España’s Legacy Lives on at Worlds 2022...<button>
+<button>How Riot Delivers a Global Broadcast for Worlds 2022<button>
+<button>Latin American Heritage Month and Partnering with Latinx in Gaming<button>
+<button>Riot Games Acquires Wargaming Sydney Studio...<button>
+<button>Inside The House of Worlds, Mexico City’s Premiere Worlds Watch Party<button>
+<button>Lucha Libre: Choosing a Unique Mexican Flair for Worlds 2022<button>
+<button>Riot and IDEO Launch Open Innovation Challenge<button>
+<button>More Than a Label: Priscila Queiroz<button>
+<button>Five Tips and Tricks to Help You Join the VALORANT Team<button>
+<button>Q and A with some of our VALORANT leaders<button>
+<button>Lil Nas X Becomes President of League of Legends<button>
+<button>Global Service Month 2022: From São Paulo to Shanghai<button>
+<button>Arcane Honored with Four Emmy® Awards<button>
+<button>Riot Games Internship Study Guide Vol. 2: Tips and Tricks for Applying<button>
+<button>Riot is joining forces with Take This<button>
+<button>Bug Blog: Esports Trade Issue<button>
+<button>Riot Games Internship Study Guide Vol. 1<button>
+<button>An Update on Player Dynamics<button>
+<button>Hasan Colakoglu: From First Rioter in Turkey to Building Communities<button>
+<button>We’re Deleting Some Very Inactive Accounts<button>
+<button>The Grand Opening of the SoLa Technology and Entrepreneurship Center<button>
+<button>Annual Diversity and Inclusion (D&I) Progress Report - 2021<button>
+<button>Rainbow Rioters Find Their Lane: Maria Pentinen<button>
+<button>Looking Back, and Forward, at Pride 2022<button>
+<button>Riot is recognized as a Great Place to Work<button>
+<button>/dev: Illaoi in Project L<button>
+<button>Star Guardian Cosplay Guide: Part 2<button>
+<button>Improving the Esports Experience with Remote Broadcast Centers...<button>
+<button>Star Guardian Cosplay Guide: Part 1<button>
+<button>Hope Burns Brighter Than Fear in Star Guardian 2022<button>
+<button>Riot is Testing Out a New Affiliate Product<button>
+<button>We’re Taking a Break, BRB<button>
+<button>2021 Social Impact Report<button>
+<button>Rainbow Rioters Find Their Lane: Patrick Ryan<button>
+<button>Riot and Xbox are Coming Together on Game Pass<button>
+<button>Henna, Cats, and the Evil Eye, How Rioters in Turkey Helped Create...<button>
+<button>Choosing our lane: 2022 so far<button>
+<button>Asian American and Pacific Islander Heritage Month Recap<button>
+<button>Celebrating Pride Together<button>
+<button>Aim Lab and Riot Headed to the Next Level<button>
+<button>Being Multi-Minded: How Player Dynamics Designers Think<button>
+<button>Player Dynamics Design: Looking Behind the Curtain<button>
+<button>LA Times: Riot Games grows Los Angeles base<button>
+<button>Two Riot Initiatives Honored by Fast Company<button>
+<button>Women's History Month<button>
+<button>How Rioters in Brazil Helped Create Raze, the Dancing Salvadorian...<button>
+<button>Riot Games Announces New Equity Investment in “Arcane” Animation...<button>
+<button>Black History Month Recap<button>
+<button>Riot is Donating Battle Pass Sales to Humanitarian Relief...<button>
+<button>Getting Into the Guts of Berserk<button>
+<button>Riot is going AFK for a week in March<button>
+<button>Riot Games Expands Publishing Business Into Asia Pacific<button>
+<button>Champion Insights: Renata Glasc<button>
+<button>Talking Tactics: The Game Dev’s Dilemma<button>
+<button>From Vi to Diana, Creativity & Creators are the Heart of Riot Music<button>
+<button>Two-Factor Authentication Has Arrived<button>
+<button>Riot Games Announces Partnership with SoLa Impact’s I CAN Foundation<button>
+<button>Calling the Shot: the Next Five Years at Riot Games<button>
+<button>The Call | Season 2022 Cinematic – League of Legends<button>
+<button>/dev: The Latest on Udyr's VGU<button>
+<button>Spark - NEON Agent Trailer // VALORANT<button>
+<button>Zeri: The Spark of Zaun | Champion Trailer – League of Legends<button>
+<button>Gameplay in Season 2022 | Dev Video – League of Legends<button>
+<button>Skins & Events in Season 2022 | Dev Video – League of Legends<button>
+<button>Champions in Season 2022 | Dev Video – League of Legends<button>
+<button>Wild Rift in Season 2022 | Dev Video – League of Legends: Wild Rift<button>
+<button>Season Start with Leo Faria | Wild Rift Esports<button>
+<button>League of Legends Esports in Season 2022 | Esports – Riot Games<button>
+<button>Riot’s Opening an Office in the Seattle Area<button>
+<button>RiotX Arcane: Until Next Time<button>
+<button>Project L /dev: Finding our Game<button>
+<button>Filipino American History Month Recap<button>
+<button>Ruined King: A League of Legends Story™<button>
+<button>Hextech Mayhem<button>
+<button>Global Undercity Nights Broadcast Co-Streaming and Rewards<button>
+<button>Introducing the Riot Gauntlet at Undercity Nights<button>
+<button>Lands ho! Arcane is Joining Magic: The Gathering<button>
+<button>Latinx Heritage Month Recap<button>
+<button>Undercity Nights Takes Over<button>
+<button>Call an Emergency Meeting - Arcane is Coming to Among Us<button>
+<button>Riot Games Presents: Your Hobby Could Make For The Perfect Career<button>
+<button>Progress Days: Celebrating Global Community Grant Winners<button>
+<button>Happy Progress Days!<button>
+<button>Fortnite Gets Jinxed to Celebrate Arcane<button>
+<button>Runeterra Enters PUBG MOBILE to Celebrate RiotX Arcane<button>
+<button>Welcome to RiotX Arcane<button>
+<button>Global Arcane Premiere Co-Streaming and Rewards<button>
+<button>Imagine Dragons & JID - Enemy Official Music Video<button>
+<button>Prime Gaming and Riot Games Team Up to Bring In-Game Content<button>
+<button>Secret Cinema presents Arcane: An Immersive Live Experience<button>
+<button>/Dev Teamfight Tactics: Reckoning Learnings<button>
+<button>Riot’s President of Games Helps to Inspire the Next Generation<button>
+<button>Naz Aletaha Named Global Head of LoL Esports<button>
+<button>Riot’s Global Service Month 2021<button>
+<button>Riot Games Elevates Ryan Crosby to President of Publishing<button>
+<button>New Riot Client Coming Soon<button>
+<button>Annual Diversity and Inclusion (D&I) Progress Report - 2020<button>
+<button>Hello Riot Mobile! Farewell League+<button>
+<button>Erin Wayne Joins Riot Games as Its First-Ever Global Head of Player...<button>
+<button>Riot Games Names Mark Sottosanti Chief Financial Officer<button>
+<button>Bug Blog: TFT Bugs And Patches<button>
+<button>Changing the Face of Gaming at 2021 Virtual San Diego Comic-Con<button>
+<button>Riot’s Mid-Year Break<button>
+<button>Hollaback! Anti-Xenophobic Harassment Training<button>
+<button>R&D Foundations: Opportunity, Thesis, and Audience<button>
+<button>Join The Sentinels Initiative<button>
+<button>Pride Month Recap<button>
+<button>Champion Insights: Akshan<button>
+<button>Sessions: Vi - Out now<button>
+<button>Leveling Up Networking For A Multi-game Future<button>
+<button>Fate of Demacia<button>
+<button>Jason Bunge on Breakthrough Builders<button>
+<button>/dev diary: Arcane Animated Series<button>
+<button>Arcane: Animated Series | A Score To Settle<button>
+<button>Asian American & Pacific Islander Heritage Month Recap<button>
+<button>Underrepresented Founders Program One Year In<button>
+<button>The Legends Of Runeterra CI/CD Pipeline<button>
+<button>Free Mental Health Resources for Content Creators<button>
+<button>Dawnbringer Karma Wins Golden Halo Award<button>
+<button>Collaborative Creative in R&D<button>
+<button>Celebrating Pride With You<button>
+<button>On Friction<button>
+<button>Arcane: Animated Series | Official Netflix Announcement<button>
+<button>Strategies for Working in Uncertain Systems<button>
+<button>Updating the Privacy Notice and Terms of Service<button>
+<button>2020 Social Impact Year in Review<button>
+<button>Elderwood Ornn Charity Skin Results<button>
+<button>Improving the Developer Experience for Operating Services<button>
+<button>Champion Insights: Gwen<button>
+<button>League Frequencies: Audio Development Video Series<button>
+<button>/dev: Clarity in League<button>
+<button>Client, Clarity, and State of the Game - lol pls<button>
+<button>Wild Rift Americas Server Launch<button>
+<button>Celebrating Black History Month<button>
+<button>Keeping Legacy Software Alive: A Case Study<button>
+<button>Engineering in Riot R&D<button>
+<button>Queue Dodge<button>
+<button>The Art of Spell Casting, Part 2<button>
+<button>The Art of Spell Casting, Part 1<button>
+<button>Reviving Nexus Blitz<button>
+<button>Press<button>
+<button>Security<button>
+<button>Legal<button>
+<button>Leadership<button>
+<button>Candidate Privacy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>E-Verify<button>
+<button>Accessibility<button>
+<button>Annual Reports<button>
+<button>Peering Information<button>
+<button>Community Pact<button>
+<button>To the Surface<button>
+
+----- WebWalker -----
+Thought: The information about the champion inspired by West African culture and the initiative for humanitarian efforts in Ukraine is not found in the "League, VALORANT, and TFT Partner Programs Open Applications Coming..." section. I will explore other news articles to find relevant details.
+
+Action: visit_page
+Action Input: {"button": "Know Before You Go: 2XKO @ Evo Japan 2026"}
+
+----- VisitPage -----
+The web information is:
+
+!
+!
+# Know Before You Go: 2XKO @ Evo Japan 2026
+Evo Japan 2026 starts May 1. Here’s everything to know about 2XKO at the event.
+4/28/2026
+2XKO is heading to Evo Japan 2026. It’s our second Major event of the year, with over $90,000 in prizing on the line, and the competition will be fierce.
+Watch our Evo Japan trailer below and hear from Japanese pros—2WINz Haru and Toshi, ikoan, and poka—about fighting on their home turf.
+Whether you’re competing in the bracket, attending as a spectator, or watching from home, read on for everything you need to know about the weekend.
+# Key Event Details
+**Dates:** May 1-3, 2026
+**Location:** Tokyo Big Sight (3-chōme-11-1 Ariake, Koto City, Tokyo 135-0063, Japan)
+**Website:*_**All visitors will need an Evo Japan 2026 pass to attend. Learn more on the Evo website._
+# 2XKO Tournament & Streaming Schedule
+Here’s a quick overview of the schedule at Evo Japan. The 2XKO tournament will take place across a single day on Friday, May 1. Watch at the streams linked below.  
+| **Event**  | **Date**  | **Time (JST)**  | **Stream Link**  |  
+| --- | --- | --- | --- |  
+| Mixed Mode: Pools  | Friday, May 1  | 10:00am-12:00pm  |  English:  French:   |  
+| Mixed Mode: Pools  | Friday, May 1  | 12:00pm-3:30pm  |  Japanese:  English:  French:   |  
+| Mixed Mode: Top 24  | Friday, May 1  | 3:30-5:00pm  |  Japanese:  English:  French:   |  
+| Mixed Mode: Top 8  | Friday, May 1  | 5:30-10:00pm  |  Japanese:  English:  French:   |  
+# On-site Broadcasting
+You can catch the 2XKO tournament from start to finish on the 2XKO  and  channels, or with our on-site broadcasters, who will commentate in English and French. Visit their channels anytime on May 1 JST.
+English: , , and .  
+French: .
+After the official tournament ends, the on-site broadcasters will keep the show going with 2XKO showmatches, pro player interviews, and more. Tune in May 2 JST.
+# Watch Parties
+Official 2XKO Evo Japan watch parties will be live all weekend, with creators around the world hosting from home. Browse the  on Twitch to join in.
+# Competitor Info
+If you’re competing in 2XKO at Evo Japan, make sure you’re set up to collect your .
+  * **Once you’re finished with pools, visit the 2XKO booth to collect your Akali pin** , only for Evo Japan competitors.
+  * **Connect your Riot ID to start.gg** to receive the Blood Moon Akali skin. 
+    * If you survive pools, you’ll get all the Blood Moon skin sets. 
+# 2XKO Booth @ Evo Japan
+The 2XKO booth at Evo Japan will be open all weekend. Stop by to run some sets, pick up swag, and more. Here’s what you can look forward to.
+### Evo Japan Swag
+Win a random collectible at our capsule toy machine, full of 2XKO-themed prizes. Your capsule could contain stickers, an acrylic charm, or more if it’s your lucky day. 
+Also, 2XKO competitors that have completed their pools matches can pick up an Akali pin from the booth. Talk to a 2XKO staff member to get started.
+### Casual Setups
+The 2XKO booth will be home to seven playable 2XKO stations, where you can 2v2, 1v2, or 1v1 in casual matches. 
+### Cosplayer Photo Op
+We’ll host a rotating cast of cosplayers all weekend. Stop by and grab a picture with your favorite champs. Featuring:
+  *  as Akali.
+  *  as Yasuo.
+  *  as Ahri.
+Check the 2XKO socials for updates on their schedule.
+# We’ll See You There
+It’s gonna be an action-packed weekend. Whether you’re attending Evo Japan in person or watching from home, hit us up at  or  to show us what you get up to. 
+## Related Articles
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Community<button>
+
+----- WebWalker -----
+The information about the champion inspired by West African culture and the initiative for humanitarian efforts in Ukraine is not found in the "Know Before You Go: 2XKO @ Evo Japan 2026" section. I will explore other news articles to find relevant details.
+
+Action: visit_page
+Action Input: {"button": "2XKO @ Evo Japan 2026 Trailer"}
+
+----- VisitPage -----
+The web information is:
+
+返回   ]( "YouTube 首页") JP 
+跳过导航
+搜索 
+通过语音搜索内容 
+ ]( "YouTube 首页") JP 
+2XKO @ Evo Japan 2026 Trailer
+点按取消静音
+2x
+## 2XKO @ Evo Japan 2026 Trailer
+2XKO 11,549次观看 8天前
+搜索
+复制链接
+信息
+购物
+如果稍后没有开始播放，请尝试重新启动设备。
+•
+你已退出账号
+你观看的视频可能会添加到电视的观看记录中，并影响电视上的推荐内容。为避免发生这种情况，请取消并在计算机上登录 YouTube。
+取消确认
+分享
+包括播放列表
+检索分享信息时出错，请稍后重试。
+0:00
+")
+0:00 / 0:00
+直播
+•观看完整版视频
+•
+•
+请登录，以便我们确认你不是聊天机器人 这有助于保护我们的社区。
+#  2XKO @ Evo Japan 2026 Trailer
+! !
+;)
+订阅
+1091
+分享
+保存
+下载
+下载 
+1.1万次观看8天前
+11,549次观看 • 2026年4月27日 • #2XKO #FightingGames #FGC 
+2WINz Haru and Toshi, ikoan, and poka are ready to defend their home turf at Evo Japan 2026. Watch the next 2XKO Major champion rise to the top, starting May 1 at twitch.tv/2XKO or  / @2xko ]( …...更多 
+...更多 
+### 游戏
+# 
+转写文稿
+通过文字转写了解视频内容。
+内容转文字
+### 
+收起 
+# 2XKO @ Evo Japan 2026 Trailer
+11,549次观看1.1万次观看
+2026年4月27日
+1091
+分享
+保存
+下载
+下载 
+##  评论 112
+最热门  显示精选评论  最新  显示近期评论，包括疑似垃圾内容 
+##  在此视频中
+转写文稿
+##  说明
+2XKO @ Evo Japan 2026 Trailer
+1091赞
+11,549观看次数
+4月27日2026年
+2WINz Haru and Toshi, ikoan, and poka are ready to defend their home turf at Evo Japan 2026. Watch the next 2XKO Major champion rise to the top, starting May 1 at twitch.tv/2XKO or . Play 2XKO for free:  2XKO is a free-to-play fighting game from Riot Games, the studio behind VALORANT and League of Legends. Fight solo or with a friend in explosive 2v2 showdowns, mastering a range of powerful champion abilities and unique tag mechanics to take down the enemy duo.  Find us on: Facebook:  Instagram:  X:  TikTok:  Twitch:  Bluesky: …...更多 
+...更多 收起 
+### 游戏
+# 
+转写文稿
+通过文字转写了解视频内容。
+内容转文字
+### 
+##  转写文稿
+### 
+### 
+NaN / NaN
+ 26:39](
+### 
+oricon
+11万次观看 • 5天前
+最新
+ 5:35](
+### 
+2XKO
+5115次观看 • 23小时前
+最新
+ 56:01](
+### 
+精英論壇
+10万次观看 • 直播时间：22小时前
+最新
+ 4:10](
+### 
+2XKO
+507万次观看 • 7个月前
+ 38:35](
+### 
+keitaの趣味部屋
+27次观看 • 2周前
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+The information about the champion inspired by West African culture and the initiative for humanitarian efforts in Ukraine is not found in the "2XKO @ Evo Japan 2026 Trailer" section. I will explore other news articles to find relevant details.
+
+Action: visit_page
+Action Input: {"button": "TFT Space Gods Set Trailer"}
+
+----- VisitPage -----
+The web information is:
+
+返回   ]( "YouTube 首页") JP 
+跳过导航
+搜索 
+通过语音搜索内容 
+ ]( "YouTube 首页") JP 
+Behold the Space Gods | Set Trailer – Teamfight Tactics
+点按取消静音
+2x
+## Behold the Space Gods | Set Trailer – Teamfight Tactics
+Teamfight Tactics 32,349次观看 3周前
+搜索
+复制链接
+信息
+购物
+如果稍后没有开始播放，请尝试重新启动设备。
+•
+你已退出账号
+你观看的视频可能会添加到电视的观看记录中，并影响电视上的推荐内容。为避免发生这种情况，请取消并在计算机上登录 YouTube。
+取消确认
+分享
+包括播放列表
+检索分享信息时出错，请稍后重试。
+0:00
+")
+0:00 / 0:00
+直播
+•观看完整版视频
+•
+•
+请登录，以便我们确认你不是聊天机器人 这有助于保护我们的社区。
+#  Behold the Space Gods | Set Trailer – Teamfight Tactics
+](
+Teamfight Tactics 
+18.2万位订阅者
+订阅
+已订阅
+959
+分享
+保存
+下载
+下载 
+3.2万次观看3周前
+32,349次观看 • 2026年4月15日 
+Ready for some divine intervention? The very power of the cosmos can be yours – worship wisely. TFT’s latest set, Space Gods, has arrived. Play now!…...更多 
+...更多 
+### 游戏
+# 
+转写文稿
+通过文字转写了解视频内容。
+内容转文字
+### 
+收起 
+# Behold the Space Gods | Set Trailer – Teamfight Tactics
+32,349次观看3.2万次观看
+2026年4月15日
+959
+分享
+保存
+下载
+下载 
+##  评论 60
+最热门  显示精选评论  最新  显示近期评论，包括疑似垃圾内容 
+##  在此视频中
+转写文稿
+##  说明
+Behold the Space Gods | Set Trailer – Teamfight Tactics
+959赞
+32,349观看次数
+4月15日2026年
+Ready for some divine intervention? The very power of the cosmos can be yours – worship wisely. TFT’s latest set, Space Gods, has arrived. Play now! Created in partnership with 2:10 Animation:  Play for free: PC download:  App Store:  Google Play Store:  Epic Games Store:  Join the community: YouTube: you are here Twitch:  Instagram:  Twitter:  TikTok:  Facebook: …...更多 
+...更多 收起 
+### 游戏
+# 
+转写文稿
+通过文字转写了解视频内容。
+内容转文字
+### 
+##  转写文稿
+### 
+### 
+NaN / NaN
+ 1:17:39](
+### 
+Britani
+61万1天前
+最新
+ 直播](
+### 
+Prayer & Grace
+128人正在观看
+ 26:08](
+### 
+Veigar Challenger
+411天前
+最新
+ 直播](
+### 
+Stadtverwaltung Bad Salzungen
+3694人正在观看
+ 直播](
+### 
+the Chill Gallery
+175人正在观看
+ 26:23](
+### 
+Pandanoia
+913天前
+### 
+Excellent Quran
+34万1天前
+最新
+### 
+Luz del Rosario
+167人正在观看
+### 
+Soft Note Studio
+113人正在观看
+### 
+Daiazal
+72万1天前
+最新
+### 
+Visuals and Backgrounds
+289万3年前
+### 
+5年後の世界
+10万12小时前
+最新
+### 
+BunnyMuffins
+3.4万3周前
+### 
+Your Live Wallpaper
+40万4个月前
+### 
+Pidalso 피달소
+105万1年前
+### 
+Teamfight Tactics
+1.2万2周前
+### 
+Kay Games
+09天前
+### 
+Calming Backgrounds
+14万9个月前
+### 
+Teamfight Tactics
+8.2万1个月前
+### 
+OhanaEssy
+3013天前
+展开
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: The information about the champion inspired by West African culture and the initiative for humanitarian efforts in Ukraine is not found in the "TFT Space Gods Set Trailer" section. I will explore other news articles to find relevant details.
+
+Action: visit_page
+Action Input: {"button": "Dev Update: Arena Updates & More"}
+
+----- VisitPage -----
+The web information is:
+
+返回   ]( "YouTube 首页") JP 
+跳过导航
+搜索 
+通过语音搜索内容 
+ ]( "YouTube 首页") JP 
+Pandemonium, Arena & More | Dev Update - League of Legends
+点按取消静音
+2x
+## Pandemonium, Arena & More | Dev Update - League of Legends
+League of Legends 301,116次观看 3周前
+搜索
+复制链接
+信息
+购物
+如果稍后没有开始播放，请尝试重新启动设备。
+•
+你已退出账号
+你观看的视频可能会添加到电视的观看记录中，并影响电视上的推荐内容。为避免发生这种情况，请取消并在计算机上登录 YouTube。
+取消确认
+分享
+包括播放列表
+检索分享信息时出错，请稍后重试。
+0:00
+")
+0:00 / 0:00
+直播
+•观看完整版视频
+•
+Intro
+•
+请登录，以便我们确认你不是聊天机器人 这有助于保护我们的社区。
+#  Pandemonium, Arena & More | Dev Update - League of Legends
+](
+League of Legends 
+1600万位订阅者
+订阅
+已订阅
+1.3万
+分享
+保存
+下载
+下载 
+30万次观看3周前
+301,116次观看 • 2026年4月14日 
+Pabro and Meddler talk about the Season Two theme, upcoming skins, gameplay changes, and check out some cool fan creations. Riot Cadmus and Riot RogueFool reveal some changes coming to the Arena this Season. DashiJador and Riot CallMeKT talk about WASD going to Ranked.…...更多 
+...更多 
+## 
+章节
+查看全部
+#### 
+#### 
+0:00
+#### 
+#### 
+1:01
+#### 
+#### 
+3:47
+#### 
+#### 
+5:54
+#### 
+#### 
+9:36
+#### 
+#### 
+11:30
+#### 
+#### 
+12:27
+#### 
+#### 
+13:24
+### 游戏
+# 
+转写文稿
+通过文字转写了解视频内容。
+内容转文字
+### 
+收起 
+# Pandemonium, Arena & More | Dev Update - League of Legends
+301,116次观看30万次观看
+2026年4月14日
+1.3万
+分享
+保存
+下载
+下载 
+##  评论 1274
+最热门  显示精选评论  最新  显示近期评论，包括疑似垃圾内容 
+##  在此视频中
+章节
+转写文稿
+##  章节
+#### 
+#### 
+0:00
+#### 
+#### 
+1:01
+#### 
+#### 
+3:47
+#### 
+#### 
+5:54
+#### 
+#### 
+9:36
+#### 
+#### 
+11:30
+#### 
+#### 
+12:27
+#### 
+#### 
+13:24
+#### 
+#### 
+14:02
+与视频时间同步
+##  说明
+Pandemonium, Arena & More | Dev Update - League of Legends
+1.3万赞
+301,116观看次数
+4月14日2026年
+Pabro and Meddler talk about the Season Two theme, upcoming skins, gameplay changes, and check out some cool fan creations. Riot Cadmus and Riot RogueFool reveal some changes coming to the Arena this Season. DashiJador and Riot CallMeKT talk about WASD going to Ranked. Check out the dev blogs to learn more: Arena:  WASD:  TL;DW:  Timestamps: Intro:  S2 Rundown:  Gameplay Changes:  Arena Updates:  WASD:  Surrenders for Inting:  Discord Integration:  Closing:  Community Spotlight: …...更多 
+...更多 收起 
+## 
+章节
+查看全部
+#### 
+#### 
+0:00
+#### 
+#### 
+1:01
+#### 
+#### 
+3:47
+#### 
+#### 
+5:54
+### 游戏
+# 
+转写文稿
+通过文字转写了解视频内容。
+内容转文字
+### 
+##  转写文稿
+### 
+### 
+NaN / NaN
+ 21:26](
+### 
+League of Legends
+72万次观看 • 5个月前
+ 30:33](
+### 
+Necrit
+55万次观看 • 1年前
+ 37:51](
+### 
+Daiazal
+72万次观看 • 1天前
+最新
+ 12:03](
+### 
+League of Legends
+729万次观看 • 1年前
+ 39:11](
+### 
+Monster SSS
+4484次观看 • 9小时前
+最新
+ 1:52:44](
+### 
+Excellent Quran
+34万次观看 • 1天前
+最新
+### 
+League of Legends
+12万次观看 • 5个月前
+### 
+AloisNL
+25万次观看 • 2天前
+最新
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: The information about the champion inspired by West African culture and the initiative for humanitarian efforts in Ukraine is not found in the "Dev Update: Arena Updates & More" section. I will explore other news articles to find relevant details.
+
+Action: visit_page
+Action Input: {"button": "The VCT in 2027 where EVERYTHING IS A TOURNAMENT?!"}
+
+----- VisitPage -----
+The web information is:
+
+返回   ]( "YouTube 首页") JP 
+跳过导航
+搜索 
+通过语音搜索内容 
+ ]( "YouTube 首页") JP 
+VCT 2027 // Where EVERYTHING is a TOURNAMENT - VALORANT
+点按取消静音
+2x
+## VCT 2027 // Where EVERYTHING is a TOURNAMENT - VALORANT
+VALORANT Champions Tour 79,047次观看 4周前
+搜索
+复制链接
+信息
+购物
+如果稍后没有开始播放，请尝试重新启动设备。
+•
+你已退出账号
+你观看的视频可能会添加到电视的观看记录中，并影响电视上的推荐内容。为避免发生这种情况，请取消并在计算机上登录 YouTube。
+取消确认
+分享
+包括播放列表
+检索分享信息时出错，请稍后重试。
+0:00
+")
+0:00 / 0:00
+直播
+•观看完整版视频
+•
+•
+请登录，以便我们确认你不是聊天机器人 这有助于保护我们的社区。
+#  VCT 2027 // Where EVERYTHING is a TOURNAMENT - VALORANT
+](
+VALORANT Champions Tour 
+127万位订阅者
+订阅
+已订阅
+3366
+分享
+保存
+下载
+下载 
+7.9万次观看4周前
+79,047次观看 • 2026年4月8日 • #VCT #VALORANT #RIOTGAMES 
+From Open Qualifiers, to Cups, to the big stage at Masters & Champions. It’s just that simple. …...更多 
+...更多 
+### 游戏
+# 
+转写文稿
+通过文字转写了解视频内容。
+内容转文字
+### 
+收起 
+# VCT 2027 // Where EVERYTHING is a TOURNAMENT - VALORANT
+79,047次观看7.9万次观看
+2026年4月8日
+3366
+分享
+保存
+下载
+下载 
+##  评论 299
+最热门  显示精选评论  最新  显示近期评论，包括疑似垃圾内容 
+##  在此视频中
+转写文稿
+##  说明
+VCT 2027 // Where EVERYTHING is a TOURNAMENT - VALORANT
+3366赞
+79,047观看次数
+4月8日2026年
+From Open Qualifiers, to Cups, to the big stage at Masters & Champions. It’s just that simple. The VCT in 2027 is cutting the fluff and amplifying the action with a bold new format where Everything. Is. A. TOURNAMENT. - Play VALORANT:  Follow us: Twitter:  Instagram:  TikTok: …...更多 
+...更多 收起 
+### 游戏
+# 
+转写文稿
+通过文字转写了解视频内容。
+内容转文字
+### 
+##  转写文稿
+### 
+### 
+NaN / NaN
+ 直播](
+### 
+Lofi Girl
+1.9万人正在观看
+ 直播](
+### 
+小歇 Just a Little Pause
+144人正在观看
+ 20:56](
+### 
+VALORANT Champions Tour
+73万次观看 • 4个月前
+ 17:42](
+### 
+Economics Explained
+7.7万次观看 • 6小时前
+最新
+ 17:37](
+### 
+大吃一顿鲸
+2508次观看 • 2周前
+
+
+Clickable buttons are wrapped in <button> tag

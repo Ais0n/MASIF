@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0470_738763ee3ff1",
+  "source_index": 470,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who was selected as the MRS/Optica Congressional Science and Engineering Fellow for 2024-2025, and which committee in MRS is responsible for contributing to governmental science and technology policy?",
+  "prompt": "Who was selected as the MRS/Optica Congressional Science and Engineering Fellow for 2024-2025, and which committee in MRS is responsible for contributing to governmental science and technology policy?",
+  "expected_answer": "Shriya Pai was selected as the MRS/Optica Congressional Science and Engineering Fellow for 2024-2025. The Government Affairs Committee in MRS is responsible for contributing to governmental science and technology policy.",
+  "root_url": "https://www.mrs.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.mrs.org/discover-mrs/advocacy-policy/mrs-optica-fellowship",
+      "https://www.mrs.org/advancing-careers/volunteer-central/committees"
+    ],
+    "golden_path": [
+      "root->Applications for 2025-26 MRS/Optica Congressional Science and Engineering Fellowship are open",
+      "root->Committees"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The MRS/Optica Congressional Science and Engineering Fellow for 2024-2025 is part of the MRS/Optica Congressional Fellows Group, which is a subcommittee of the Government Affairs Committee. The Government Affairs Committee is responsible for contributing to governmental science and technology policy in materials-related areas.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 32.497,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0470_738763ee3ff1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0470_738763ee3ff1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "partial",
+      "reason": "The predicted answer correctly identifies the Government Affairs Committee but fails to name Shriya Pai as the selected fellow.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

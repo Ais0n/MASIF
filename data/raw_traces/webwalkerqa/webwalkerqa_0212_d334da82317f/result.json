@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0212_d334da82317f",
+  "source_index": 212,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024深圳设计周的万科云城设计公社举办的iF设计奖特展中，来自全球的获奖作品有多少件是2023年的iF设计奖获奖作品？",
+  "prompt": "在2024深圳设计周的万科云城设计公社举办的iF设计奖特展中，来自全球的获奖作品有多少件是2023年的iF设计奖获奖作品？",
+  "expected_answer": "三件",
+  "root_url": "https://www.vanke.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.vanke.com/big5/news/data?typeid=1&newsid=7970"
+    ],
+    "golden_path": [
+      "root->繁體中文->272024.042024深圳設計周開幕，萬科云城設計公社承接南山分會場4月27日，以“設計讓生活更美好”為主題的2024深圳設計周隆重開幕。萬科云城設計公社以“藝術·不設限”為主題，承接了本次設計周的部分展示內容，分別舉辦三場主題展覽。其中，萬科云城設計公社首度聯手園區企業iF DESIGN SHENZHEN在深圳設計周南山分會場·萬科云城設計公社舉辦“iF設計獎獲獎作品特展”。這是2024年iF設計獎獲獎作品首度在中國深圳公開亮相。自1954年開始，iF Design品牌在設計領域享譽全球，而iF設計獎被認為是世界上最重要的設計獎項之一。   \n在萬科深圳云城設計公社，“iF設計獎獲獎作品特展”將展出75件2024年iF金質獎獲獎作品、13件來自近兩年的iF設..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 102.669,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0212_d334da82317f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0212_d334da82317f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

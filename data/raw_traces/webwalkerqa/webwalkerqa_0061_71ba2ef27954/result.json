@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0061_71ba2ef27954",
+  "source_index": 61,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年11月中旬中南大学计算机学院举办的心理情景剧大赛和心理委员培训会中，强调的心理健康支持者和组织者是谁？",
+  "prompt": "在2024年11月中旬中南大学计算机学院举办的心理情景剧大赛和心理委员培训会中，强调的心理健康支持者和组织者是谁？",
+  "expected_answer": "刘家忱",
+  "root_url": "https://cse.csu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.csu.edu.cn/info/1042/10007.htm",
+      "https://cse.csu.edu.cn/info/1042/9986.htm"
+    ],
+    "golden_path": [
+      "root->计算机学院“心海扬帆，剧映青春”心理情景剧大赛圆满落幕",
+      "root->首页->计算机学院2024级心理委员培训会成功举办"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在2024年11月中旬中南大学计算机学院举办的心理情景剧大赛和心理委员培训会中，强调的心理健康支持者和组织者包括心助会指导老师袁熠。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 4,
+  "duration_seconds": 37.835,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0061_71ba2ef27954/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0061_71ba2ef27954/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer identifies a completely different person (Yuan Yi) than the expected answer (Liu Jiachen).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,2916 @@
+----- user -----
+query:
+When will the 'The Performance Paradox' talk take place on December 7, 2024, and who is the speaker?
+official website:
+https://www.hematology.org/meetings/annual-meeting
+Observation:website information:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+# ASH Annual Meeting and Exposition
+Claim CME and MOC Credit 
+Complete the annual meeting evaluation survey, claim CME/ABIM MOC, and print/save your CME certificate.
+### The Premier Event in Classical and Malignant Hematology
+The 2025 ASH Annual Meeting has concluded. Please see the links below to purchase webcast content from the meeting and claim CME and MOC.
+Save the date for the 68th ASH Annual Meeting and Exposition, taking place December 12–15, 2026, in New Orleans, Louisiana, and online!
+          
+!
+## Let's Run the Numbers
+See why the ASH Annual Meeting and Exposition is the premier event in classical and malignant hematology. 
+Attendees
+Novel Abstracts
+Exhibitors
+* * *
+Annual Meeting Updates
+!
+###  Friday Satellite Symposia Guidelines and Application 
+The Friday Satellite Symposia (FSS) are industry-supported, CME-accredited symposia that are offered the day preceding the American Society of Hematology (ASH) annual meeting. These sessions are not part of the official ASH annual meeting program and are planned solely by the organizing company.
+!
+###  Scientific Workshop Guidelines and Application 
+The Scientific Workshops are interactive discussions of the latest scientific developments in a particular field of hematology. Each workshop includes brief presentations of primary basic/translational data followed by an interactive discussion, distinct from the clinical sessions offered at the .
+!
+###  Become an Exhibitor at the 2026 ASH Annual Meeting 
+Join over 275 pharmaceutical companies, medical suppliers, clinical diagnostic and research-based companies, publishers, and non-profit organizations by exhibiting at the 68th ASH Annual Meeting and Exposition on December 12-15, 2026, in New Orleans, Louisiana.
+###  Key Dates for the 68th ASH Annual Meeting and Exposition  
+|  May 11, 2026, at 11:59 p.m. Pacific time  |  Scientific Workshops Application Deadline  |  
+| --- | --- |  
+|  May 27, 2026, at 11:59 p.m. Pacific time  |  Friday Satellite Symposia Application Deadline  |  
+|  June 2, 2026  |  Abstract Submissions Open  |  
+|  July 22, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for ASH Members**  |  
+|  August 4, 2026, at 11:59 p.m. Pacific time  |  Abstract Submission Deadline  |  
+|  August 12, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for Non-Members, Exhibitors, Groups, and Media**  |  
+|  November 4, 2026, at 9:00 a.m. Eastern time  |  Abstracts Available Online  |  
+|  December 12-15, 2026  |  **68th ASH Annual Meeting and Exposition**  |  
+## Past Annual Meetings
+!
+###  67th ASH Annual Meeting and Exposition
+December 6-9, 2025  
+Orlando, FL
+          
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+clickable button:
+
+<button>Jump to Main Content<button>
+<button>Key Dates<button>
+<button>Information for Corporate Supporters<button>
+<button>Webcasts<button>
+<button>Latest Updates<button>
+<button>View Symposia Guidelines and Application<button>
+<button>Friday Satellite Symposia<button>
+<button>Apply for a Workshop<button>
+<button>Access Past Annual Meeting Content Since 2014<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about the 'The Performance Paradox' talk, including its date and speaker. The official website provides details about the ASH Annual Meeting, but it does not directly mention the specific talk. I should explore the website further by clicking on relevant buttons to gather more information.
+
+Action: visit_page
+Action Input: {"button": "Key Dates"}
+
+----- VisitPage -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+# ASH Annual Meeting and Exposition
+Claim CME and MOC Credit 
+Complete the annual meeting evaluation survey, claim CME/ABIM MOC, and print/save your CME certificate.
+### The Premier Event in Classical and Malignant Hematology
+The 2025 ASH Annual Meeting has concluded. Please see the links below to purchase webcast content from the meeting and claim CME and MOC.
+Save the date for the 68th ASH Annual Meeting and Exposition, taking place December 12–15, 2026, in New Orleans, Louisiana, and online!
+          
+!
+## Let's Run the Numbers
+See why the ASH Annual Meeting and Exposition is the premier event in classical and malignant hematology. 
+Attendees
+Novel Abstracts
+Exhibitors
+* * *
+Annual Meeting Updates
+!
+###  Friday Satellite Symposia Guidelines and Application 
+The Friday Satellite Symposia (FSS) are industry-supported, CME-accredited symposia that are offered the day preceding the American Society of Hematology (ASH) annual meeting. These sessions are not part of the official ASH annual meeting program and are planned solely by the organizing company.
+!
+###  Scientific Workshop Guidelines and Application 
+The Scientific Workshops are interactive discussions of the latest scientific developments in a particular field of hematology. Each workshop includes brief presentations of primary basic/translational data followed by an interactive discussion, distinct from the clinical sessions offered at the .
+!
+###  Become an Exhibitor at the 2026 ASH Annual Meeting 
+Join over 275 pharmaceutical companies, medical suppliers, clinical diagnostic and research-based companies, publishers, and non-profit organizations by exhibiting at the 68th ASH Annual Meeting and Exposition on December 12-15, 2026, in New Orleans, Louisiana.
+###  Key Dates for the 68th ASH Annual Meeting and Exposition  
+|  May 11, 2026, at 11:59 p.m. Pacific time  |  Scientific Workshops Application Deadline  |  
+| --- | --- |  
+|  May 27, 2026, at 11:59 p.m. Pacific time  |  Friday Satellite Symposia Application Deadline  |  
+|  June 2, 2026  |  Abstract Submissions Open  |  
+|  July 22, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for ASH Members**  |  
+|  August 4, 2026, at 11:59 p.m. Pacific time  |  Abstract Submission Deadline  |  
+|  August 12, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for Non-Members, Exhibitors, Groups, and Media**  |  
+|  November 4, 2026, at 9:00 a.m. Eastern time  |  Abstracts Available Online  |  
+|  December 12-15, 2026  |  **68th ASH Annual Meeting and Exposition**  |  
+## Past Annual Meetings
+!
+###  67th ASH Annual Meeting and Exposition
+December 6-9, 2025  
+Orlando, FL
+          
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Key Dates<button>
+<button>Information for Corporate Supporters<button>
+<button>Webcasts<button>
+<button>Latest Updates<button>
+<button>View Symposia Guidelines and Application<button>
+<button>Friday Satellite Symposia<button>
+<button>Apply for a Workshop<button>
+<button>Access Past Annual Meeting Content Since 2014<button>
+
+----- WebWalker -----
+The "Key Dates" section confirms that the 68th ASH Annual Meeting and Exposition will take place from December 12 to 15, 2026. However, it does not provide specific details about the "The Performance Paradox" talk. I should explore other sections of the website for more information.
+
+Action: visit_page
+Action Input: {"button": "Friday Satellite Symposia"}
+
+----- VisitPage -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+## Friday Satellite Symposia
+            
+                                            
+#  Friday Satellite Symposia 
+Friday Satellite Symposia (FSS) are industry-supported, CME-accredited symposia that are offered the day preceding the American Society of Hematology (ASH) annual meeting. These sessions are not part of the official ASH annual meeting program and are planned solely by the organizing company.
+ASH appreciates its corporate and nonprofit partners for their participation in FSS. The Society values its partnerships and the supportive role that members of this community play in an effort to provide hematologists with quality educational programs. For more information, please review the  or contact Kelly Cade, Grants and Satellite Symposia Manager, Consultant, at fss@hematology.org. 
+The 2025 FSS took place in-person and/or virtually, on Friday, December 5, 2025, in Orlando, FL preceding the 67th ASH Annual Meeting and Exposition. Some, but not all sessions have or will have an on-demand component. Please review each listing carefully to note when on-demand content will be available. For questions, please reach out to the contact listed below each session.
+##### Morning Symposia, 7:00 a.m. - 10:00 a.m. Eastern time
+## Advances in Targeting Angiogenesis and Managing Severe Anemia in Vascular Bleeding Disorders:Hereditary Hemorrhagic Telangiectasia, Von Willebrand Disease, and Beyond
+This program is supported by Pharmacosmos Therapeutics Inc. and Alnylam Pharmaceuticals.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+OCCC - W224ABEF
+****This session is in-person and does not have a virtual component. FSS are presented once according to the program schedule. On Demand program will be available here December 15, 2025.****  
+Hematologists in both community and academic practice are increasingly being called upon to use antiangiogenic treatments to treat patients with inherited and acquired vascular bleeding disorders, including hereditary hemorrhagic telangiectasia (HHT), von Willebrand disease, acquired von Willebrand syndrome, and others. This symposium will discuss the role of angiogenesis in these bleeding disorders, how to optimally manage this bleeding with anti-angiogenic agents such as bevacizumab, pomalidomide, and pazopanib, and how to properly manage the complex and difficult chronic, severe iron deficiency anemia that complicates the course of these patients. Current and future potential antiangiogenic and coagulation-based treatments will be discussed by international leaders in the field.
+#### **Chair:**
+Hanny Al-Samkari, M.D.  
+Massachusetts General Hospital
+#### **Speakers:**
+Hanny Al-Samkari, M.D.  
+Massachusetts General Hospital
+Magdalena Lewandowska, MD  
+Innovative Hematology
+Allyson Pishko I, MD  
+University of Pennsylvania
+Jenny Zhou, MD  
+University of California, San Diego
+#### **Contact:**
+Hellen Tecle , Cure HHT  
+Email: hellen.tecle@curehht.org
+## Aligning Discovery With Clinical Practice: Applying Expert Consensus Guidelines To Improve Patient Outcomes in CLL/SLL
+This program is supported by AstraZeneca and Lilly. Provided by the National Comprehensive Cancer Network (NCCN) in collaboration with Clinical Care Options, LLC.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+Virtual Symposium Only
+****This session is virtual only and does not have an in-person component. FSS are presented once according to the program schedule. On Demand program will be available here December 31, 2025.****  
+Join NCCN and CCO for an engaging virtual symposium focused on the real-world application of NCCN guideline–recommended therapies for patients with chronic lymphocytic leukemia (CLL). This dynamic event features expert panel discussions and interactive case challenges to explore the latest treatment strategies across frontline and relapsed/refractory settings. Gain practical insights into selecting and sequencing covalent and noncovalent BTK inhibitors, BCL2 inhibitors, CAR T-cell therapy, incorporating molecular testing, and managing adverse events to support adherence. The program also delves into emerging therapies—including BTK degraders and bispecific antibodies —offering guidance on how to integrate these innovations into clinical practice through clinical trials. Engage directly with leading experts through live Q&A and learn how to deliver personalized, evidence-aligned CLL care.
+#### **Chair:**
+Sameer A. Parikh, MBBS  
+Mayo Clinic
+#### **Speakers:**
+Matthew J. Cortese, MD, MPH  
+Roswell Park Comprehensive Cancer Center
+Brian Hill, MD, PhD  
+Cleveland Clinic Taussig Cancer Institute
+#### **Contact:**
+Melanie Moletzsky , The National Comprehensive Cancer Network  
+Email: moletzsky@nccn.org
+## Beyond Chemotherapy: Patient Voices and Expert Insights on Using Precision Therapies to Enhance Personalized Care of Follicular Lymphoma
+This program is supported by AstraZeneca, Genentech, a member of the Roche Group, Incyte Corporation, Novartis Pharmaceuticals Corporation, and Regeneron Pharmaceuticals, Inc. Provided by Clinical Care Options, LLC in partnership with the Follicular Lymphoma Foundation.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+Hyatt - Regency Ballroom R
+**On Demand program will be available here December 31, 2025.**
+  
+Join CCO and The Follicular Lymphoma Foundation for an innovative symposium spotlighting the latest advancements in relapsed/refractory (R/R) follicular lymphoma (FL) care. This dynamic session blends global patient survey insights, expert-led case discussions, and interactive polling to explore precision, chemotherapy-free strategies. Learn how to optimize the use of bispecific antibodies, CAR T-cell therapy, and novel targeted agents such as tazemetostat, tafasitamab, and BTK inhibitors. Engage directly with expert faculty in Q&A and townhall forums as they share practical guidance on therapy selection, sequencing, safety monitoring, and real-world implementation. Stay ahead of the curve with highlights of emerging clinical trial data and future directions in FL management. This symposium will challenge your clinical perspective, deepen your understanding of the shifting FL landscape, and empower you to deliver more personalized, evidence-informed care.
+#### **Chair:**
+Laurie Sehn, MD  
+BC Cancer
+#### **Speakers:**
+Peter Martin, FRCPC, MD, MS  
+Weill Cornell Medicine
+Gilles Salles I, MD, PhD  
+Memorial Sloan Kettering Cancer Center
+Mitchell R. Smith  
+The Follicular Lymphoma Foundation
+#### **Contact:**
+Julie Dodds , The Follicular Lymphoma Foundation  
+Email: julie@theflf.org
+## Consensus or Controversy? Clinical Investigators Provide Perspectives on the Current and Future Management of Patients with Acute Myeloid Leukemia
+This program is supported by educational grants from AbbVie Inc., Astellas, Daiichi Sankyo Inc., Kura Oncology, and Rigel Pharmaceuticals Inc.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+Hyatt - Regency TUV
+**On Demand program will be available here soon. For questions, please reach out to the managing company contact listed below.**
+This 2-hour CME-accredited activity – offered to both in-person and virtual attendees – will focus on the management of patients with acute myeloid leukemia (AML). Five clinical investigators will serve as the faculty and Dr Neil Love, RTP president, will moderate. RTP will also recruit 3 additional consulting clinical investigators who in addition to the faculty will complete a survey focused on controversial questions related to the management of AML. The responses from all 8 investigators will be graphically depicted and presented at the meeting to augment discussion and foster debate. The meeting agenda will be divided into 5 modules, each consisting of a review of survey results followed by a formal presentation of relevant research. Attendees will be able to submit questions and cases of their own, a number of which will be incorporated into the discussion. **Pre-registration is advised as seating is limited.**
+#### **Chair:**
+Neil Love, MD  
+Research To Practice
+#### **Speakers:**
+Harry Erba, MD, PhD  
+Duke University School of Medicine
+Amir T. Fathi, MD  
+Massachusetts General Hospital
+Tara L. Lin, MD  
+University of Kansas Medical Center
+Alexander Perl, MD  
+University of Pennsylvania
+Eytan Stein I, MD  
+Memorial Sloan Kettering Cancer Center
+#### **Contact:**
+Sylvia Eriksen , Research To Practice  
+Email: meetings@researchtopractice.com
+## Many Roads to Myeloma Remission: Making Sequential Choices With BCMA and non-BCMA Immunotherapies
+This program is supported by independent medical education grants from Arcellx, Inc. and Kite, a Gilead Company, GSK, Johnson and Johnson and Regeneron Pharmaceuticals, Inc. This CME/MOC/EBAH/AAPA activity is provided by PVI, PeerView Institute for Medical Education and developed with our educational partner, the HealthTree Foundation for Multiple Myeloma.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+Hyatt - Plaza Int'l HIJK
+**On Demand program will be available here December 30, 2025.**
+  
+Therapeutic innovation in relapsed/refractory multiple myeloma (RRMM) isn’t just evolving—it’s accelerating. Central to these innovations is: 1) the expansion of B-cell maturation antigen (BCMA)-targeting CAR-T therapy into earlier lines of treatment, and 2) the increasing availability of off-the-shelf immunotherapies, including antibody-drug conjugates (ADCs) and bispecific antibodies. The innovation doesn’t stop at BCMA—novel targets like GPRC5D and FcRH5 are paving new therapeutic roads for disease progression after BCMA-directed therapy. Are you prepared to utilize this expanding therapeutic arsenal to personalize treatment plans for patients with RRMM?  
+  
+Learn about optimal sequential choices with BCMA and non-BCMA immunotherapies. Using real-world patient examples, expert panelists will provide guidance on the early use of CAR-T therapy, considerations for off-the-shelf BCMA and non-BCMA immunotherapies across diverse MM settings, and insights on the clinical adoption of these therapies.
+#### **Chair:**
+Sagar Lonial, MD, FACP  
+Winship Cancer Institute, Emory University School of Medicine
+#### **Speakers:**
+Hans C Lee, MD  
+Sarah Cannon Research Institute
+Krina Patel Jr, MD, MSc  
+The University of Texas MD Anderson Cancer Center
+#### **Contact:**
+Amanda Loeber , PVI, PeerView Institute for Medical Education  
+Email: amanda.loeber@peerview.com
+## MASTER MDS for Enhanced Patient Care: Modern Advances with STandard and Emerging, Risk-adapted Treatment
+This program is supported by educational grants from Ascentage Pharma, Bristol Myers Squibb and Geron. This CME/MOC/EBAH/AAPA activity is provided by PVI, PeerView Institute for Medical Education and developed with our educational partner, the HealthTree Foundation for Myelodysplastic Syndromes.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+Hyatt - Plaza Int'l DEFG
+**On Demand program will be available here December 30, 2025.**
+  
+This Clinical Consults event will demonstrate how clinicians can confidently tailor myelodysplastic syndromes (MDS) care based on clinical trial data, guideline recommendations, and a comprehensive assessment of patient- and disease-related factors such as symptoms, molecular features, and care preferences. Our expert faculty will combine conversational case-based teaching, breaking evidence, and insights on the unique experiences of people living with MDS (provided by the HealthTree Foundation for Myelodysplastic Syndromes) – all with the goal of offering in-depth, patient-centric guidance.
+#### **Chair:**
+Guillermo Garcia-Manero, MD  
+The University of Texas MD Anderson Cancer Center
+#### **Speakers:**
+Maria Diez-Campelo, MD, PhD  
+Hospital Clínico Universitario de Salamanca
+Sangeetha Venugopal, MD, MS  
+Sylvester Comprehensive Cancer Center, University of Miami
+#### **Contact:**
+Amanda Loeber , PVI, PeerView Institute for Medical Education  
+Email: amanda.loeber@peerview.com
+## Menin Masters for AML Care: Guidance on Integrating Menin Inhibitor Regimens & Boosting Efficacy in Challenging AML Subtypes
+This program is supported by independent educational grants from Johnson and Johnson, Kura Oncology, Inc., and Syndax. This CME/EBAH/AAPA/IPCE activity is provided by PVI, PeerView Institute for Medical Education and developed with our educational partner, the HealthTree Foundation for Acute Myeloid Leukemia.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+OCCC - Valencia Room W415D
+**On Demand program will be available here December 30, 2025.**
+  
+Despite nearly a decade of therapeutic advances in acute myeloid leukemia (AML), challenges remain for patients with difficult-to-treat presentations, including _KMT2A_ rearrangements or progressive _NPM1_ -mutated disease. Menin inhibitors have emerged as a precision medicine approach to address these unmet needs, with accumulating evidence increasingly supporting their use as monotherapy and in potent combinations with standard-of-care platforms. These developments have raised questions on best practices for integrating this novel class into patient care.
+Join PeerView Live and the Health Tree Foundation at the 2025 ASH Annual Meeting and Exposition or online for expert insight on ongoing challenges in poor-prognosis AML settings and the role of menin inhibitors for _KMT2A_ r/_NPM1_ m AML. Concise lectures will inform case-based discussions on the present and future of menin inhibitor–based treatment in AML, including in innovative combinations and the first-line setting.
+#### **Chair:**
+David Sallman, MD  
+H. Lee Moffitt Cancer Center
+#### **Speakers:**
+Tapan Kadia I, MD  
+The University of Texas MD Anderson Cancer Center
+Dr. Emma Searle, MBChB, PhD  
+The Christie NHS Foundation Trust, University of Manchester
+#### **Contact:**
+Amanda Loeber , PVI, PeerView Institute for Medical Education  
+Email: amanda.loeber@peerview.com
+## Momentum in MDS: Making Progress and Shaping a Better Future
+This program is supported by independent educational grants from Agios Pharmaceuticals, Bristol Myers Squibb, Faron Pharmaceuticals, Ltd., Geron Corporation, Rigel Pharmaceuticals, and Taiho Oncology, Inc. This program is provided by The Myelodysplastic Syndromes Foundation, Inc. in partnership with AKH Inc., Advancing Knowledge in Healthcare.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+OCCC - Tangerine Ballroom F2
+****This session is in-person and does not have a virtual component. FSS are presented once according to the program schedule. On Demand program will be available here December 12, 2025. For questions, reach out to the contact listed below.  
+****  
+Recently, significant progress has been made in understanding the biology, genetics, and pathogenesis of MDS. These advances have led to meaningful developments in diagnosis, risk-stratification, and disease management—insights that will be reflected in the new international treatment guidelines, set to be presented and published by a leading global consortium of MDS experts.  
+  
+Among the evolving topics in the field is the role of morphology in modern medicine. This issue will be explored in depth along with the implications of germline mutations in MDS patients and how this knowledge necessitates a reassessment of current clinical approaches.  
+  
+The continued need for more effective therapies has also inspired the inclusion of a dedicated session on drug development, with a specific focus on the MDS pipeline.  
+  
+The program will also feature a patient-centered discussion to bridge the gap between scientific advancements and the lived experience of those navigating MDS in real-world settings.
+#### **Chairs:**
+Moshe Mittelman, MD  
+Tel-Aviv Sourasky Medical Center
+Valeria Santini, MD  
+AOU Careggi-University of Florence
+#### **Speakers:**
+Rafael Bejar, MD,PhD  
+University of California San Diego
+Rena Buckstein, MD, FRCPC  
+Sunnybrook Health Sciences Centre
+Carmelo Gurnari, MD,PhD  
+University of Tor Vergata
+Robert P Hasserjian, MD  
+Massachusetts General Hospital and Harvard Medical School
+Moshe Mittelman, MD  
+Tel-Aviv Sourasky Medical Center
+Valeria Santini, MD  
+AOU Careggi-University of Florence
+David Peter Steensma, MD  
+Ajax Therapeutics
+Arjan Van de Loosdrecht, MD, PhD  
+VU University Medical Center
+#### **Contact:**
+Lea Harrison , MDS Foundation, Inc.  
+Email: lharrison@mds-foundation.org
+## Moving Forward in B-ALL: Insights on Modern and Emerging Standards With Off-the-Shelf Bispecific Antibodies
+This program is supported by an independent educational grant from AstraZeneca. This CME/MOC/EBAH activity is provided by PVI, PeerView Institute for Medical Education and developed with our educational partner, the HealthTree Foundation for Acute Lymphoblastic Leukemia.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+OCCC - Valencia Room W415BC
+**On Demand program will be available here December 30, 2025.**
+Modern treatment of B-ALL reflects the ongoing evolution of precision medicine and immuno-oncology, moving beyond traditional chemotherapy and HCT to include frontline and sequential use of bispecific TCEs. Alongside established bispecifics, emerging CD19 x CD3 TCEs are poised to make inroads in R/R ALL, offering additional off-the-shelf options for use in the clinic. In light of this innovation, how can clinicians help move the field of immunotherapy forward in ALL and upgrade current treatment protocols based on the latest evidence
+In collaboration with HealthTree Foundation for ALL, this PeerView initiative, held during the ASH Annual Meeting, will provide expert perspectives on modern clinical standards in modern ALL care while preparing clinicians for future innovation with TCE strategies. Throughout the case-based workshops, the expert faculty will cover the role of TCEs, MRD monitoring, evidence supporting newer bispecifics, and practical considerations when implementing TCEs.
+#### **Chair:**
+Nicola Gökbuget, MD  
+University Hospital
+#### **Speakers:**
+Ibrahim Aldoss, MD  
+City of Hope National Medical Center
+Nicholas J. Short, MD  
+The University of Texas MD Anderson Cancer Center
+#### **Contact:**
+Amanda Loeber , PVI, PeerView Institute for Medical Education  
+Email: amanda.loeber@peerview.com
+## Off the Shelf and in the Clinic for NHL: Leveraging Bispecific Antibody Strategies in DLBCL, FL, and Beyond
+This program is supported by independent educational grants from AstraZeneca and Regeneron Pharmaceuticals, Inc. This CME/MOC/EBAH/AAPA activity is provided by PVI, PeerView Institute for Medical Education and developed with our educational partner, the HealthTree Foundation for Non-Hodgkin Lymphoma.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+OCCC - Valencia Room W415A
+**On Demand program will be available here December 30, 2025.**
+Bispecific antibodies have emerged as critical tools in the treatment arsenal for aggressive and indolent non-Hodgkin lymphoma (NHL), including diffuse large B-cell lymphoma, mantle cell lymphoma, and follicular lymphoma. These unique off-the-shelf immunotherapy options offer the opportunity to improve patient outcomes but also highlight the need for strategies to effectively integrate this transformative class of agents into patient care.
+In collaboration with HealthTree Foundation for NHL, PeerView has prepared this expert-led case-based Workshops symposium designed to model team-based care solutions for integrating bispecifics into clinical practice. Each Workshop will include high-level seminar segments covering the latest clinical evidence on modern and emerging CD20 x CD3 bispecific antibodies in diverse NHL subtypes. Throughout, the panel will address practical aspects of care such as step-up dosing, inpatient/outpatient administration, AE management, and supportive care planning. Hear the experts discuss how to bring off-the-shelf bispecifics into your clinic and offer optimal care for your patients with NHL.
+#### **Chair:**
+Prof. Dr. Max S Topp, MD  
+Universitätsklinikum Würzburg
+#### **Speakers:**
+Sameh Gaballa, MD  
+H. Lee Moffitt Cancer Center
+Deepa Jagadeesh, MD, MPH  
+Cleveland Clinic
+#### **Contact:**
+Amanda Loeber , PVI, PeerView Institute for Medical Education  
+Email: amanda.loeber@peerview.com
+## Paroxysmal Nocturnal Hemoglobinuria: What we have learned from the introduction of new therapies
+This program is supported by independent educational grants from AstraZeneca, Novartis, Roche, Sobi and Apellis.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+OCCC - Tangerine Ballroom F1
+**This session is in-person and does not have a virtual component. FSS are presented once according to the program schedule. This session is currently not available on demand. For questions, reach out to the contact listed below.**
+  
+The 2025 Symposium will address the impact of diagnostic and therapeutic advances over the past 143 years on recent advances in the management of patients with this rare but fascinating acquired genetic disorder involving hematopoietic stem cells. The program combines a historical perspective along with recent scientific data on the impact of therapies targeting several complement factors, proximal, distal; and both. The program will discuss the new scenario of of broad treatment options, as well as ongoing scientific projects of the IPIG, such as the work underway to modernize diagnostic and therapeutic guidelines of novel guidelines and the development of an International, academic disease registry. The availability of appropriate diagnostics and therapies in different parts of the world.
+#### **Chairs:**
+Morag Griffin, FRCPath, MBChB, MRCP  
+Leeds Teaching Hospital NHS
+David Araten, MD  
+NYU Langone
+#### **Speakers:**
+Louise Marianne Arnold, ACP, MSc  
+Leeds Teaching Hospital NHS
+Camilla Frieri, MD, PhD  
+AORN San Giuseppe Moscati Avellino
+Xiaojun Huang, MD, PhD  
+Peking University People’s Hospital
+Bhavisha Patel Jr, MD  
+NIH
+Daniel Payne, FRCPath  
+Leeds Teaching Hospital NHS
+Regis Peffault De Latour I, MD  
+Saint-Louis Hospital
+Antonio M. Risitano Jr, MD, PhD  
+International PNH Interest Group
+Jeffrey Szer, BMedSc, MB, BS  
+International PNH Interest Group
+#### **Contact:**
+Emma Erickson  
+Email: eerickson@kmgnet.com
+Dawn McKnight , International PNH Interest Group  
+Email: dmcknight@kmgnet.com
+## Pathways to Personalized Remission in CLL: Leveraging Targeted Standards & Next-Gen Advances for Upfront and Sequential Care
+This program is supported by independent educational grants from AstraZeneca, BeOne Medicines, and Lilly. This CME/MOC/EBAH/AAPA/IPCE activity is provided by PVI, PeerView Institute for Medical Education and developed with our educational partner, CLL Society.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+Hyatt - Orlando Ballroom
+**On Demand program will be available here December 30, 2025.**
+  
+The modern CLL care pathway now centers on the continuous use of covalent BTK inhibitors (BTKi) and time-limited BCL2 inhibitor (BCL2i) regimens. New time-limited BTKi-BCL2i combinations have emerged to offer innovative standards for treatment-naïve patients, while in the relapsed/refractory setting, non-covalent BTKis, CAR-T cell therapy, and next-generation agents have emerged as standards of care in their own right or in potentially novel ways (such as with BTK degraders) to attack CLL.
+In collaboration with CLL Society, this PeerView expert-led activity during the 67th ASH Annual Meeting and Exposition will cover modern CLL pathways to remission through a series of interactive, case-based workshops focused on real-world challenges in CLL care. Throughout, the panelists will model team-based strategies for improving outcomes with continuous or time-limited therapy in frontline settings, while providing insights on the evidence- and guideline-based use of targeted therapy for sequential care in relapsed/refractory CLL.
+#### **Chair:**
+John Gribben I, MD, DSc, FRCP, FMedSci, FRCPath  
+Barts Cancer Institute, Barts and The London School of Medicine, Queen Mary, University of London
+#### **Speakers:**
+Nicole Lamanna, MD  
+Herbert Irving Comprehensive Cancer Center New York-Presbyterian/Columbia University Medical Center
+Meghan C. Thompson, MD  
+Memorial Sloan Kettering Cancer Center
+William G. Wierda, MD, PhD  
+The University of Texas MD Anderson Cancer Center
+#### **Contact:**
+Amanda Loeber , PVI, PeerView Institute for Medical Education  
+Email: amanda.loeber@peerview.com
+## Reaching Clinical Trial Excellence: Practical Strategies for Achieving Generalizable and Transportable Data
+This program is supported by Indy Hematology Education Inc.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+OCCC - W224CDGH
+**This session is in-person and does not have a virtual component. FSS are presented once according to the program schedule. On Demand program will be available here January 30, 2026. For questions, reach out to the contact listed below.  
+  
+**  
+This workshop will bring together experts in clinical research, policy, biostatistics, and patient advocacy to address the persistent underrepresentation of diverse populations in clinical trials. Through a multi-session format, the event will explore systemic, provider-level, and patient-level barriers to equitable trial access and participation.  
+  
+The first session will focus on structural solutions, highlighting how governance, industry partnerships, legal frameworks, and editorial policies can be aligned to drive inclusive research design and dissemination. Participants will gain insight into actionable strategies to embed equity at the institutional level.  
+  
+The second session will center on the provider’s role in promoting representation. Speakers will examine how to educate, recruit, and retain investigators committed to equitable research, as well as how biostatistical tools can identify and correct bias within trial design and execution.  
+  
+Finally, the third session will explore patient-level barriers to trial access, including restrictive eligibility criteria and historical mistrust. Presenters will share approaches to designing more inclusive protocols, building trust with underserved communities, and elevating the role of patient advocates.
+  
+Together, these sessions will provide a comprehensive framework for creating more representative, ethical, and effective clinical research that leads to better outcomes for all populations.
+#### **Chairs:**
+Andrew Hantel, MD, MPH  
+Assistant Professor of Medicine; Harvard Medical School
+Karen Winkfield  
+Vanderbilt University Medical Center
+#### **Speakers:**
+Maya Nicole Birhiray, M.S.  
+Medical Student; Indiana University School of Medicine
+Carmen Guerra, MSCE, FACP  
+University of Pennsylvania: Perelman School of Medicine
+Catherine Lai, MD, MPH  
+Associate Professor of Clinical Medicine and Physician Leader of the Leukemia Clinical Research Unit; University of Pennsylvania’s Perelman Center for Advanced Medicine
+Medha Makhlouf, JD  
+Penn State Dickinson Law
+Alan Mast, MD, Ph.D.  
+Versiti Blood Research Institute
+Chadi Nabhan, MBA, FACP  
+Ryght AI, Inc
+Sam Ranger, M.S.  
+Indy Hematology Education Inc.
+Nikhil Thaker, MHA, MBA, PMP, CMQ, FABS, DABR, DABPM  
+AI in Precision Oncology
+Karriem Watson, DHSc, MS, MPH  
+Mile Square Health Center
+#### **Contact:**
+Sam Ranger , Indy Hematology Education Inc.  
+Email: sranger@indyhematology.org
+## Redrawing Frontlines in MCL: The Upfront Expansion of BTKi Options & Modern Clinical Decision-making in Newly Diagnosed Disease
+This program is supported by an independent educational grant from AstraZeneca. This CME/MOC/EBAH/AAPA activity is provided by PVI, PeerView Institute for Medical Education and developed with our educational partner, the HealthTree Foundation for Mantle Cell Lymphoma.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+Hyatt - Regency Ballroom S
+**On Demand program will be available here December 30, 2025.**
+  
+Bruton’s tyrosine kinase inhibitors (BTKi) are reshaping mantle cell lymphoma (MCL) treatment. This began with the second-line use of BTKi following progression on chemoimmunotherapy (CIT) and now includes the 1L use of BTKi regimens based on evidence that combinations with CIT can improve outcomes. Simultaneously, BTKi-based chemo-free regimens have been effective in frail, newly diagnosed patients, signaling another potential change in 1L treatment. This introduces new opportunities for BTKi-based frontline combinations to enhance outcomes and quality of life.  
+  
+In collaboration with HealthTree Foundation for Mantle Cell Lymphoma, PeerView’s Clinical Consults symposium will link case-based teaching with lectures to demonstrate how the latest evidence on 1L BTKi platforms is impacting decision-making for different MCL presentations and patient cohorts. Experts will provide insights on using BTKi-CIT regimens in transplant and non-transplant settings and guidance on using BTKi options as part of a chemo-free strategy.
+#### **Chair:**
+Martin Dreyling, MD, PhD  
+Ludwig-Maximilian-University Munich
+#### **Speakers:**
+Kami Maddocks, MD  
+The Ohio State University Comprehensive Cancer Center
+Christine Ryan, MD  
+Harvard Medical School, Dana-Farber Cancer Institute
+#### **Contact:**
+Amanda Loeber , PVI, PeerView Institute for Medical Education  
+Email: amanda.loeber@peerview.com
+## Rising to the Graft-vs-Host Disease Challenge: Progress in Treatment and Post-HCT Outcomes Across Hematologic Cancers
+This program is supported by independent educational grants from Incyte Corporation, Mesoblast Inc, Orca Bio, and Sanofi US. This CME/MOC/EBAH/AAPA activity is provided by PVI, PeerView Institute for Medical Education and developed with our educational partner, the Blood and Marrow Transplant Information Network.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+OCCC - W331
+**On Demand program will be available here December 30, 2025.**
+  
+This Clinical Consults activity, developed in partnership with BMT InfoNet, will provide learners with a comprehensive overview of innovative strategies for managing graft-vs-host disease (GVHD). Our expert faculty panel will explore new targeted and cellular-based therapies that aim to reduce nonrelapse mortality while preserving the graft-versus-tumor effect. Through real-world scenarios and expert-led discussions, attendees will gain insights on modern targeted options (such as JAK and ROCK inhibitors), as well as the emerging role of precision T-cell and other cell-based therapies. During the event, experts will also highlight resources that can be used to engage with patients preparing for allogeneic hematopoietic cell transplantation who are at risk for GVHD. Be sure you are equipped to rise to the GVHD challenge.
+#### **Chair:**
+Zachariah Defilipp, MD  
+Massachusetts General Hospital
+#### **Speakers:**
+Betty K. Hamilton  
+Cleveland Clinic
+Amandeep Salhotra, MD  
+City of Hope National Medical Center
+#### **Contact:**
+Amanda Loeber , PVI, PeerView Institute for Medical Education  
+Email: amanda.loeber@peerview.com
+## Steady Progress in Multiple Myeloma: Applying New Data and Updated Guidelines Throughout Treatment
+This program is supported by AbbVie and GSK, Janssen Biotech, Inc., administered by Janssen Scientific Affairs, LLC and Karyopharm Therapeutics. Provided by the National Comprehensive Cancer Network (NCCN) in collaboration with Clinical Care Options, LLC.
+**  
+7: 00 a.m. - 10:00 a.m. Eastern time **  
+Hyatt - Regency Ballroom OPQ
+**On Demand program will be available here December 31, 2025.**
+  
+Join CCO for an engaging symposium focused on the real-world application of NCCN guideline–recommended therapies for patients with multiple myeloma (MM). This dynamic event combines expert panel discussions and interactive case challenges to explore evolving treatment strategies across the MM continuum—from smoldering and newly diagnosed disease to relapsed/refractory settings. Gain practical insights into selecting and sequencing therapies such as triplet and quadruplet regimens, bispecific antibodies, and CAR T-cell products, while managing associated toxicities and coordinating care across practice settings. The program also addresses disparities in access to care and strategies to promote equitable treatment delivery. Engage directly with leading MM experts through live polling and Q&A sessions, apply the latest evidence to real-world cases, and preview key NCCN updates and ASH 2025 data. This symposium will deepen your understanding of guideline-aligned MM care, challenge your clinical decision-making, and empower you to optimize outcomes for diverse patient populations.
+#### **Chair:**
+Thomas Martin, MD  
+Helen Diller Family Comprehensive Cancer Center
+#### **Speakers:**
+Carol Ann Huff, MD  
+Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins
+Adriana Rossi  
+Tisch Cancer Institute
+Adriana Rossi, MD  
+Tisch Cancer Institute
+#### **Contact:**
+Melanie Moletzsky , The National Comprehensive Cancer Network  
+Email: moletzsky@nccn.org
+##### Early Afternoon Symposia, 11:00 a.m. - 2:00 p.m. Eastern time
+## ‘Four’ Every Patient: Maximizing Outcomes in Newly Diagnosed Multiple Myeloma Care with Anti-CD38 Monoclonal Antibody-Based Quadruplet Therapies
+This program is supported by an educational grant from Sanofi. Provided by Answers in CME.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+OCCC - Valencia Room W415D
+**On Demand program will be available here December 8, 2025.**
+Quadruplet regimens powered by anti-CD38 antibodies have transformed the treatment landscape in newly diagnosed multiple myeloma. Are you confident you’re using these game-changing therapies to their full potential? This interactive 60-minute symposium brings you face-to-face with two leading multiple myeloma experts—Paul Richardson, MD, and Caitlin Costello, MD—who will decode the latest phase 3 trial data, review strategies for tackling side effects, and offer insights on personalizing therapy. Participate in the live Q&A to challenge the faculty with your real-world patient scenarios and sharpen your insight into NDMM therapies. Don’t just keep up with the cutting edge—be part of it. Claim your seat at the next evolution in multiple myeloma care!
+#### **Speakers:**
+Caitlin Costello, MD  
+University of California, San Diego
+Paul G. Richardson, MD  
+Harvard Medical School, Jerome Lipper Multiple Myeloma Center, Dana-Farber Cancer Institute
+#### **Contact:**
+Kaitlyn Hoster , Answers in CME  
+Email: kaitlyn.hoster@answersincme.com
+## A Master Class in CP-CML: New Agents, Treatment Goals, and Clinical Challenges
+This program is supported by Novartis Pharmaceuticals Corporation. Provided by Clinical Care Options, LLC.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+Hyatt - Regency Ballroom R
+**On Demand program will be available here December 31, 2025.  
+**
+Join CCO for this engaging symposium reviewing the latest advancements in chronic phase chronic myeloid leukemia (CP-CML) management. This activity will feature experts discussing cases illustrating clinical applications of the latest data and strategies to optimize the diagnosis, treatment, and management of CP-CML. Engage directly with leading experts through multiple discussion sessions, where you can present your questions and real-world cases for personalized guidance. Navigate the evolving evidence for individualized frontline CP-CML treatment, optimize response monitoring strategies, and gain insights into current recommendations for managing treatment intolerance and failure. This symposium promises to enrich your understanding of CP-CML, challenge your clinical acumen, and empower you to apply the latest evidence in your practice. Contribute to thought-provoking dialogues on CP-CML, shaping the discourse and enhancing collective expertise in this critical field.
+#### **Chair:**
+Jerald Radich, MD  
+Fred Hutchinson Cancer Center
+#### **Speakers:**
+Neil P. Shah  
+University of California
+B. Douglas Smith, MD  
+Johns Hopkins University School of Medicine
+#### **Contact:**
+Ishana Fleurant , Clinical Care Options, LLC.  
+Email: Ifleurant@clinicaloptions.com
+## Accelerating Evidence Into Practice: Leveraging QI-Driven Insights and Practical Tools to Integrate Bispecific Antibodies Into Care for Patients With R/R DLBCL and FL
+This program is supported by PRIME Education. There is no fee to participate. This activity is supported by an educational grant from Genmab US, Inc.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+OCCC - W331
+**On Demand program will be available here December 30, 2025.**
+  
+Join lymphoma experts as they take a deep dive into the latest clinical evidence and practical considerations for evidence-based integration of bispecific antibodies (bsAbs) into treatment plans for patients with DLBCL and FL. Featuring patient testimonials to provide patient perspectives on receiving bsAbs and discuss treatment preferences, the expert faculty will guide the audience through nuances for navigating step-up dosing schedules and individualized treatment decision-making while reviewing the latest clinical evidence and guideline recommendations. Learners will have access to established resources from prior initiatives with bsAb therapy in DLBCL/FL to support optimal administration and management. Additionally, Throughout the program, faculty will engage the onsite and virtual attendees through gamified interactive polling and participate in a live Q&A. Altogether, this satellite symposium will harness real-world testimonials and clinic-focused resources to deepen the impact of the education and support providers in enhancing the care and delivery of bsAbs for DLBCL and FL.
+#### **Chair:**
+Paolo Strati I, MD  
+The University of Texas MD Anderson Cancer Center
+#### **Speaker:**
+Caron Jacobson, MD, MMSc  
+Dana Farber Cancer Institute
+#### **Contact:**
+Eryn Litvinas , PRIME Education  
+Email: e.litvinas@primeinc.org
+## Advancing Hemophilia Care—Uniting Expert Insights and Community Voices to Shape the Future of Non-Factor Replacement Therapy
+This program is supported by Novo Nordisk. Provided by Clinical Care Options, LLC.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+Hyatt - Orlando Ballroom
+**On Demand program will be available here December 31, 2025.**
+  
+Join CCO for an engaging symposium focused on advancing hemophilia care through non-factor replacement therapies. This dynamic event combines expert panel discussions, real-world case challenges, and insights from patients and community HCPs to explore the latest data on novel therapies including fitusiran, concizumab, marstacimab, and Mim8. Through interactive polling and audience Q&A, attendees will gain practical guidance on integrating these therapies into personalized care strategies for patients with moderate to severe hemophilia A and B. Discover how to navigate evolving safety profiles, improve joint health outcomes, and tailor treatment based on patient needs and preferences. This symposium offers a comprehensive view of current challenges, cutting-edge solutions, and future directions in hemophilia management, equipping you with actionable insights to improve clinical practice.
+#### **Chair:**
+Steven Pipe, MD  
+University of Michigan
+#### **Speakers:**
+Stacy Croteau, MD  
+Harvard Medical School
+Kristin Maher  
+University of Washington
+#### **Contact:**
+Ishana Fleurant , Clinical Care Options, LLC.  
+Email: Ifleurant@clinicaloptions.com
+## Advancing Outcomes in Lymphoma Care: A Master Class on Integrating the CAR T-Cell Therapies into Clinical Practice
+This program is supported by Bristol Myers Squibb and Kite Pharma, Inc. Provided by Clinical Care Options, LLC.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+Hyatt - Regency Ballroom OPQ
+**On Demand program will be available here December 31, 2025.**
+  
+Join CCO for an engaging symposium exploring the latest advancements in CAR T-cell therapy for relapsed/refractory (R/R) lymphomas. This dynamic event features expert-led discussions, real-world case challenges, and interactive polling to examine the expanding role of CAR T-cell therapies across B-cell lymphoma subtypes. Gain practical insights into patient selection, referral pathways, and coordination of care, along with strategies to manage acute and chronic toxicities such as CRS and ICANS. Learn how to educate patients and caregivers, implement survivorship planning, and optimize long-term outcomes. The symposium also highlights next-generation CAR T-cell innovations, including off-the-shelf products and combination strategies. Engage directly with faculty during live Q&A sessions, apply knowledge through interactive cases, and leave equipped to enhance care for patients receiving CAR T-cell therapy.
+#### **Chair:**
+Stephen Ansell, MD, PhD  
+Mayo Clinic Comprehensive Cancer Center
+#### **Speakers:**
+Jeremy Abramson, MD  
+Harvard Medical School
+Michael D. Jain, MD, PhD  
+Moffitt Cancer Center
+Patrick Connor Johnson, MD   
+Harvard Medical School
+David Maloney, MD, PhD  
+University of Washington
+#### **Contact:**
+Ishana Fleurant , Clinical Care Options, LLC.  
+Email: Ifleurant@clinicaloptions.com
+## Cases & Conversations™: Real-World Insights on Advances in the Management of Myeloproliferative Neoplasms: How the Experts Apply the Latest Developments to Clinical Practice
+This program is supported by Geron Corporation, Incyte Corporation, PharmaEssentia, and Takeda.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+OCCC - W224ABEF
+**On Demand program will be available here December 6, 2025.**
+  
+The live portion of this curriculum will be presented as a 2.5-hour Friday Satellite Symposium (FSS) held prior to the 2025 ASH Annual Meeting. This satellite program will bring together 4 clinical experts to review the latest data regarding the management of MPNs, with short didactic presentations supplemented by panel discussions of challenging case scenarios. To further enhance the integration of recent data into practice, the program will feature an interactive question-and-answer session between the faculty and attendees to emphasize areas of educational need, highlight areas of debate, and illustrate the application of new data in defined clinical situations.
+#### **Chair:**
+Naveen Pemmaraju, MD  
+Executive Director, MDACC Network, The University of Texas MD Anderson Cancer Center
+#### **Speaker:**
+Angela Fleischman, MD, PhD  
+University of California, Irvine, School of Medicine
+#### **Contact:**
+Elijah Anseaume , Physicians’ Education Resource®, LLC (PER)  
+Email: eanseaume@gotoper.com
+## Cases from the Community: Investigators Discuss Available Research Guiding the Selection of Therapy for Patients with Chronic Lymphocytic Leukemia
+This program is supported by educational grants from Abbvie Inc., AstraZeneca Pharmaceuticals LP, BeOne, Bristol Myers Squibb, and Lilly.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+Hyatt - Regency TUV
+**On Demand program will be available here soon. For questions, please reach out to the managing company contact listed below.**
+This 2-hour CME-accredited activity – offered to both in-person and virtual attendees – will focus on the management of patients with chronic lymphocytic leukemia (CLL). Four clinical investigators will serve as the faculty and Dr Neil Love, RTP president, will moderate. Prior to the meeting, Research To Practice (RTP) will video record interviews with 3 general medical oncologists/hematologists (GMOs) who will present challenging CLL cases from their practices. To begin each of the 4 meeting modules, excerpts from the GMO interviews will be broadcast and the panelists will discuss the optimal management of the patients presented. 1 faculty member will then deliver a formal presentation reviewing available research related to the cases. Attendees will be able to submit questions and cases of their own, a number of which will be incorporated into the discussion. **Pre-registration is advised as seating is limited.**
+#### **Chair:**
+Neil Love, MD  
+Research To Practice
+#### **Speakers:**
+Matthew S Davids, MD  
+Dana-Farber Cancer Institute
+Bita Fakhri, MD, MPH  
+Stanford University
+Constantine S. Tam, MD,MBBS  
+Monash University
+Jennifer A. Woyach, MD  
+The Ohio State University
+#### **Contact:**
+Sylvia Eriksen , Research To Practice  
+Email: meetings@researchtopractice.com
+## From Indolent to Aggressive: Case-Based Strategies Across the Spectrum of Systemic Mastocytosis
+This program is supported by an independent educational grant from Blueprint Medicines Corporation and provided by Integritas Communications.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+OCCC - W224CDGH
+**On Demand program will be available here December 6, 2025.**
+  
+Systemic mastocytosis (SM) is a complex and often misdiagnosed condition that can affect multiple organ systems and cause symptoms ranging from anaphylaxis to bone pain and gastrointestinal distress. This interactive _Case-in-Point™_ CME symposium will feature real-world case discussions, audience polling, and expert insights to help clinicians navigate the challenges of diagnosing and managing both nonadvanced and advanced SM. Expert faculty will review updated diagnostic criteria, emerging and FDA-approved treatment strategies, and provide practical guidance on monitoring treatment response, addressing persistent symptoms, and engaging patients in shared decision-making. Whether you are new to SM care or looking to refine your approach, this session will enhance your confidence and equip you with practical strategies to optimize care for patients across the SM spectrum.  
+  
+_Pre-registration is advised as seating is limited._
+#### **Speakers:**
+Brian J. Chernak, MD  
+Leukemia Specialist, Memorial Sloan Kettering Cancer Center
+Matthew P. Giannetti, MD  
+Associate Director, Brigham and Women’s Hospital Mastocytosis Center
+Tsewang Tashi, MD  
+Associate Professor, Division of Hematology and Hematologic Malignancies, University of Utah, Huntsman Cancer Institute
+#### **Contact:**
+Shannon Stevenson , Integritas  
+Email: sstevenson@integritasgrp.com
+## Medical Crossfire®: Advances in ALL Management Across the Patient Spectrum: Integrating Innovation and Precision Care
+This program is supported by Servier, Jazz, Amgen, and Autolus Inc.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+OCCC - Tangerine Ballroom F1
+**On Demand program will be available here December 6, 2025.**
+  
+The live portion of this curriculum will be presented as a 2.5-hour Friday Satellite Symposium (FSS) held prior to the 2025 ASH Annual Meeting. 
+This satellite program will bring together four clinical experts to review the latest data regarding the management of patients with ALL, with short didactic presentations supplemented by panel discussions of challenging case scenarios.
+The program will bring to the patient voice to the forefront, with panel discussions between the clinical experts and a patient advocate to review practical measures bridge disparities in the treatment of ALL.
+#### **Chair:**
+Elias Jabbour I  
+The University of Texas MD Anderson Cancer Center
+#### **Speakers:**
+Hagop Kantarjian I, MD  
+The University of Texas MD Anderson Cancer Center
+Aaron C. Logan, MD, PhD  
+University of California, San Francisco
+Rob Pieters, MD, PhD, MSc  
+Princess Máxima Center for Pediatric Oncology
+Claire Roddie, MD, PhD  
+University College London (UCL) Hospitals
+#### **Contact:**
+Elijah Anseaume , Physicians’ Education Resource®, LLC (PER)  
+Email: eanseaume@gotoper.com
+## Medical Crossfire®: Experts Debate the Hottest Topics in AML – FLT3, IDH1/2, KMT2Ar, NPM1, Secondary AML, Maintenance, Novel Combinations, and Emerging Therapies
+This program is supported by Kura Oncology, Inc., Rigel Pharmaceuticals, Inc. and Taiho Oncology Inc.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+OCCC - Tangerine Ballroom F2
+**On Demand program will be available here December 6, 2025.**
+  
+CME - Certified Hybrid Satellite Symposium:
+The live portion of this curriculum will be presented as a 3.0-hour Friday Satellite Symposium (FSS) held prior to the 2025 ASH Annual Meeting.
+This satellite program will bring together four clinical experts to review the latest data regarding the management of AML, with short didactic presentations supplemented by panel discussions of challenging case scenarios.
+The program will bring to the patient voice to the forefront, with panel discussions between the clinical experts and a patient advocate to review practical measures bridge disparities in the treatment of AML.
+To further enhance the integration of recent data into practice, the program will feature an interactive polling and question-and-answer sessions between the faculty and attendees to emphasize areas of educational need, highlight areas of debate, and illustrate the application of new data in defined clinical situations.
+#### **Chair:**
+Naval Daver, MD  
+The University of Texas MD Anderson Cancer Center
+#### **Speakers:**
+Daniel Pollyea, MD  
+Clinical Director of Leukemia Services, University of Colorado
+Gail J Roboz  
+Professor of Medicine, Director of the Clinical and Translational Leukemia Program, Weill Medical College of Cornell University
+Amer M. Zeidan, MD  
+Yale University
+#### **Contact:**
+Elijah Anseaume , Physicians’ Education Resource®, LLC (PER)  
+Email: eanseaume@gotoper.com
+## Rare Clinical Spotlight: Exploring Castleman Disease, Cold Agglutinin Disease, and Acute Intermittent Porphyria
+This program is supported by Recordati Rare Diseases.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+Hyatt - Plaza Int'l HIJK
+**On Demand program will be available here January 1, 2026.  
+  
+** Join us for this unique 90-minute symposium which will showcase three rare hematologic diseases, Castleman disease (CD), cold agglutinin disease (CAD), and acute intermittent porphyria (AIP), with the shared expertise of 6 faculty that treat these rare diseases! Faculty for each disease area, will present compelling cases with interactive polling questions as a platform to weave in clinical decision-making points for improving patient outcomes. Learn what drives these diseases by understanding their pathophysiology and subsequently how to recognize signs and symptoms to properly diagnose these rare patients. Current and emerging treatment options will be presented, and faculty will disseminate key efficacy and safety data to help you understand how to choose optimal treatment approaches for patients. Take advantage of this opportunity to engage with and ask these expert faculty your important questions and walk away with more knowledge for treating patients with these diseases.
+#### **Speakers:**
+Catherine Broome, MD  
+Georgetown University
+Angelika Erwin, MD  
+Cleveland Clinic
+Sudipto Mukherjee, MD, PhD, MPH  
+Cleveland Clinic Taussig Cancer Institute
+Ariela Noy, MD  
+Memorial Sloan Kettering Cancer Center
+Bruce Wang, MD  
+University of California, San Francisco
+Ilene Weitz, MD  
+Keck School of Medicine of USC
+#### **Contact:**
+Carolyn Ciaramella , MedscapeLIVE  
+Email: cciaramella@medscapelive.com
+## Tailoring Bispecific Antibodies to Individualize R/R Follicular Lymphoma Care: A Case-Based Discussion
+This program is supported by Genmab US, Inc. and AbbVie.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+OCCC - W311EFGH
+**On Demand program will be available here January 1, 2026.  
+**
+This 90-minute symposium will feature 2 expert hematologists/oncologists and a patient advocate from the Lymphoma Coalition as they explore the evolving role of bispecific antibodies in treating refractory/relapsed follicular lymphoma (R/R FL). Through engaging case discussions and expert presentations, you will gain insights into treatment selection, adverse event management, and overcoming logistical challenges. Learn best practices for integrating these innovative agents into patient care while emphasizing the importance of patient-centered strategies.
+#### **Chair:**
+Matthew A. Lunning, DO, FACP  
+University of Nebraska Medical Center
+#### **Speakers:**
+Natacha Bolaños  
+Lymphoma Coalition
+Chan Cheah, MBBS, DMSc  
+Breakthrough Haematology
+#### **Contact:**
+Carolyn Ciaramella , MedscapeLIVE  
+Email: cciaramella@medscapelive.com
+## Targeted Therapies in R/R PCNSL: New Frontiers in Treatment and Management
+This program is supported by Deciphera, a member of ONO Pharma.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+Hyatt - Plaza Int'l DEFG
+**On Demand program will be available here January 1, 2026.**
+Do you know the latest advancements in primary central nervous system lymphoma (PCNSL)? Join expert faculty in the field of PCNSL for an in-depth look at relapsed/refractory (R/R) disease. This program will review the latest clinical trial data and novel therapeutic strategies. A unique Expert Voices discussion will highlight the clinical implications of these advancements for the evolving management of R/R PCNSL.
+#### **Chair:**
+Christopher DeAngelo, MD  
+University of Nebraska Medical Center
+#### **Speakers:**
+Ayushi Chauhan, MD  
+The University of Texas at MD Anderson Cancer Center
+Ashley Sumrall, MD, FACP, FASCO  
+Atrium Health
+#### **Contact:**
+Carolyn Ciaramella , MedscapeLIVE  
+Email: cciaramella@medscapelive.com
+## The Growing Role of CAR T-Cell Therapy in Multiple Myeloma: New Data on Earlier Lines of Therapy, Expanding Access to Treatment
+This program is supported by educational grants from Janssen Biotech, Inc., administered by Janssen Scientific Affairs, LLC, Bristol Myers Squibb, Kite, a Gilead Company, Arcellx, Inc., and Legend Biotech.
+**  
+11: 00 a.m. - 2:00 p.m. Eastern time **  
+OCCC - W230
+This session is in-person and does not have a virtual component. Please contact the Managing Company Contact with questions.  
+**On Demand program will be available here January 30, 2026.**
+This live symposium will highlight cutting-edge clinical data and research findings associated with CAR T-cell therapy in multiple myeloma (MM). Experts will deliver in-depth analyses of the latest developments, focusing on real-world clinical implications, and attendees will learn about the most current and impactful data that will enhance their ability to use CAR T-cell therapies for MM. A series of brief patient case studies will set the stage and launch faculty presentations and panel discussions. The faculty will offer their interpretations of the data, share practical insights, and address potential challenges in applying the findings to patient care. Attendees will use mobile technology to participate in case studies, submit questions to faculty, and explore how new evidence can be translated into improved clinical outcomes. This combination of data presentation and faculty feedback contributes to deeper engagement and encourages practical application of learnings.
+#### **Chair:**
+Luciano Jose Costa, MD, PhD  
+University of Alabama at Birmingham
+#### **Speakers:**
+Michael R. Bishop, MD  
+The David and Etta Jonas Center for Cellular Therapy University of Chicago Medicine
+Binod Dhakal, MD, MS  
+Medical College of Wisconsin
+#### **Contact:**
+Kim DiGuiseppe , Haymarket Medical Education  
+Email: kimberly.diguiseppe@haymarketmedical.com
+##### Late Afternoon Symposia, 3:00 p.m. - 6:00 p.m. Eastern time
+## Achieving Comprehensive Care for Chronic Immune Thrombocytopenia: Exploring Emerging Therapies to Address Patient-centric Hematological and Non-Hematological Outcomes
+This program is supported by an educational grant from Sanofi. This activity is jointly provided by AKH Inc., Advancing Knowledge in Healthcare and Catalyst Medical Education, LLC.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+Hyatt - Regency Ballroom R
+**This session is in-person and does not have a virtual component. FSS are presented once according to the program schedule. This session is currently not available on demand. For questions, reach out to the contact listed below.**
+  
+Up to 20% of pediatric patients and up to 70% of adult patients with immune thrombocytopenia have chronic disease, persisting for at least 12 months. Though available treatment options have seen some success, they are limited in their ability to address the underlying autoimmune platelet destruction etiology of ITP and often possess negative risk profiles. As a result, patients often live with uncontrolled hematological and non-hematological disease burden, including fatigue and cognitive impairment. Emerging therapies, such as Bruton’s tyrosine kinase inhibitors (BTKi), FcRN blockers, and other strategies, may offer more effective, durable, and safer treatment options to address the multi-faceted burden of ITP. Ensuring patients can access these novel therapies requires efforts to remain up-to-date with their supporting scientific data and understand principles for integrating treatments into practice. Through a dynamic format that integrates evidence-based presentations, panel discussions, and clinical cases, expert faculty participating in this symposium will bring evolving science to life and provide clinical insights to evolving strategies to address hematological and non-hematological ITP manifestations and improve the patient experience.  
+  
+Learning objectives:  
+o **Recognize** unmet hematological, quality of life, and long-term health needs of individual living with chronic ITP 
+o **Evaluate** the MoA and clinical data on BTKi treatments, and other novel disease-targeting treatments, for chronic ITP, considering hematological, safety, and patient-reported outcomes 
+o **Propose** practical strategies that support improved screening and assessment for fatigue, cognitive impairment, and other health related QoL outcomes in chronic ITP 
+o **Integrate** patient-centered strategies into chronic ITP management plans that foster early intervention to address uncontrolled disease, considering current and emerging therapy options, and support shared decision-making in the second-line treatment setting  
+#### **Chair:**
+David Kuter, MD, DPhil  
+Massachusetts General Hospital
+#### **Speakers:**
+Nicola Cooper, MD, FRCP, FRCPath, MA  
+Imperial College Healthcare; NHS Trust
+Cindy Neunert, MD  
+Columbia University Irving Medical Center
+#### **Contact:**
+Margaret Catherine Walker , Catalyst Medical Education  
+Email: margaret.walker@catalystmeded.com
+## Acute Hepatic Porphyria: Bridging Gaps for Better Diagnosis and Management
+This program is supported by Alnylam U.S., Inc.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+Hyatt - Plaza Int'l HIJK
+**On Demand program will be available here January 1, 2026.  
+**
+Acute hepatic porphyria (AHP) is a rare, debilitating disease with significant diagnostic and management challenges, making provider education critical. This symposium will feature 3 expert faculty in a dynamic “Learn, Discuss, Ask” format designed to maximize engagement and knowledge exchange. Each segment begins with a focused presentation, followed by a case-based panel discussion, and concludes with audience Q&A. Participants will gain a deeper understanding of AHP, from disease awareness and diagnostic challenges to evolving management strategies and real-world applications in care. Faculty will explore the etiology, pathophysiology, clinical presentations, and unmet needs associated with AHP, while also reviewing therapeutic advances and treatment mechanisms, monitoring approaches and safety considerations, as well as future directions, including clinical trial data.
+#### **Chair:**
+Brendan M. McGuire, MD  
+University of Alabama at Birmingham
+#### **Speakers:**
+Rebecca Karp, MD  
+Massachusetts General Hospital
+Akshata Moghe, MD  
+University of Texas Health Science Center
+#### **Contact:**
+Carolyn Ciaramella , MedscapeLIVE  
+Email: cciaramella@medscapelive.com
+## Bridging the Gaps in CAR T-Cell Therapy for Hematological Malignancies: Expert Guidance, Clinical Experience and Increased Access
+This program is supported by Roswell Park Alliance Foundation and Bristol Myers Squibb.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+OCCC - W230
+**This session is in-person and does not have a virtual component. FSS are presented once according to the program schedule. This session is currently not available on demand. For questions, reach out to the contact listed below.**
+  
+Chimeric antigen receptor (CAR) T cell therapy has reshaped the treatment landscape for B-cell malignancies, yet major clinical and implementation challenges persist.  
+  
+This symposium addresses critical unmet needs in the field:  
+  * Optimizing CAR T cells in real-world practice
+  * Sequencing therapies
+  * Managing post-relapse scenarios
+  * Understanding resistance biology
+  * Expanding access to underserved populations
+Given the rapid evolution of therapies and shifting treatment paradigms, there is an urgent need to equip clinicians and researchers with expert guidance on how to navigate these complex decisions and translate new data into patient-centered care.
+#### **Chairs:**
+Marco Davila, MD, PhD  
+Roswell Park Comprehensive Cancer
+Renier Brentjens  
+Deputy Director, Chair, Department of Medicine, Roswell Park Comprehensive Cancer Center
+#### **Speakers:**
+Julio C Chavez, MD, MS  
+Sr. Associate Consultant, Lymphoma Program Lead, Mayo Clinic
+Marco Davila, MD, PhD  
+Roswell Park Comprehensive Cancer
+Francisco Hernandez-Ilizaliturri, MD  
+Director of Lymphoma Research and Lymphoma Translational Research Lab, Roswell Park Comprehensive Cancer Center
+Shernan Holtan, MD  
+Chief, Blood and Marrow Transplantation Section, Roswell Park Comprehensive Cancer Center
+Frederick Locke, MD  
+Chair, Blood and Marrow Transplant and Cellular Immunotherapy, Moffitt Cancer Center
+#### **Contact:**
+Ashley Snowden , Roswell Park Comprehensive Cancer Center  
+Email: ASHLEY.SNOWDEN@ROSWELLPARK.ORG
+## BRINGING EMERGING TREATMENTS TO ALL PATIENTS: Strategies for Implementing T-cell Redirection Therapies in Community Oncology Practices
+This program is supported by AbbVie, Amgen, Genentech, Johnson and Johnson, Pfizer Oncology, and Indy Hematology Education, Inc.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+OCCC - Valencia Room W415BC
+**On Demand program will be available here January 30, 2026.**
+  
+Innovative immune effector therapies, including CAR T-cell and bi-specific antibody treatments, have transformed cancer care but remain largely inaccessible to community oncology practices. This symposium is dedicated to bridging this gap by establishing the necessary infrastructure, protocols, and training to safely and effectively administer these lifesaving therapies in community settings. By promoting equitable access, fostering clinical trial participation, and supporting diverse patient populations, we aim to reduce disparities and expand the reach of modern cellular therapies.
+#### **Chair:**
+Ruemu Ejedafeta Birhiray, MD  
+Indy Hematology Education Inc.
+#### **Speakers:**
+Ralph Vincent Boccia, MD  
+The Center for Cancer and Blood Disorders
+Tara Graff, DO,MS  
+Mission Cancer and Blood
+Nikhil Munshi, MD  
+Dana-Farber Cancer Institute
+Tycel Phillips, MD, FASCO  
+Associate Professor, Division of Lymphoma, Department of Hematology and Hematopoietic Cell Transplantation; City of Hope Comprehensive Cancer Center
+Richard Stone, MD  
+Dana-Farber Cancer Institute
+#### **Contact:**
+Sam Ranger , Indy Hematology Education Inc.  
+Email: sranger@indyhematology.org
+## Cases and Conversations™: Optimizing Patient Outcomes in Pediatric/AYA and Adult ALL/LBL With Asparaginase Therapies and Combinations
+This program is supported by Servier Pharmaceuticals LLC.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+OCCC - Tangerine Ballroom F1
+**On Demand program will be available here December 6, 2025.**
+  
+The live portion of this curriculum will be presented as a 2.5-hour Friday Satellite Symposium (FSS) held prior to the 2025 ASH Annual Meeting. 
+This satellite program will bring together four clinical experts to review the latest data regarding the management of CML, with short didactic lectures supplemented by panel discussions of pertinent clinical challenges, emerging treatment strategies, and real-world applications of current guidelines.
+To further enhance the integration of recent data into practice, the program will feature an interactive question-and-answer session between the faculty and attendees to emphasize areas of educational need, highlight areas of debate, and illustrate the application of new data in defined clinical situations.
+#### **Chairs:**
+Daniel J Deangelo, MD, PhD  
+Dana-Farber Cancer Institute
+Daniel J Deangelo, MD, PhD  
+Dana-Farber Cancer Institute
+#### **Speakers:**
+Shira Dinner, MD  
+Northwestern University
+Stephen P. Hunger, MD  
+Children's Hospital of Philadelphia
+Jae Park, MD  
+Memorial Sloan Kettering Cancer Center
+#### **Contact:**
+Elijah Anseaume , Physicians’ Education Resource®, LLC (PER)  
+Email: eanseaume@gotoper.com
+## Cracking the Code: Menin Inhibitors and the Next Frontier in AML Treatment
+This program is supported by PRIME Education. There is no fee to participate. This activity is supported by educational grants from Kura Oncology, Inc., Syndax Pharmaceuticals Inc. and Sumitomo Pharma America, Inc.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+OCCC - W331
+**On Demand program will be available here December 30, 2025.**
+Join acute myeloid leukemia (AML) experts as they take a deep dive into the latest evidence from clinical trials for new and emerging menin inhibitors for AML. Specifically, faculty will guide the audience through various menin inhibitor topics, including (1) the biologic rationale and implications of KMT2A rearrangements and NPM1 mutations for AML prognosis, (2) clinical evidence supporting guideline recommendations for menin inhibitors in AML treatment plans and the potential place in therapy for emerging agents, (3) nuances of treatment strategy including relation to transplant, dosing and administration, (4) appropriate genetic tests and the implications on treatment decision-making, and (5) mitigation, monitoring and managing unique adverse events of menin inhibitor therapies. Additionally, throughout the program, faculty will engage the onsite and virtual attendees through gamified interactive polling and participate in a live Q&A. Furthermore, to support faculty in synthesizing the latest data, an AML Clinical Trial Pocket Guide will be available providing a concise overview of novel menin inhibitors and combinations in clinical trials. Altogether, this satellite symposium will feature expert discussion and case-based learning designed to decode the latest clinical evidence on menin inhibitors to optimize treatment of patients with R/R AML.
+#### **Chair:**
+Joshua Zeidner, MD  
+University of North Carolina School of Medicine
+#### **Speaker:**
+Justin Watts, MD  
+University of Miami/Sylvester Comprehensive Cancer Center (SCCC)
+#### **Contact:**
+Eryn Litvinas , PRIME Education  
+Email: e.litvinas@primeinc.org
+## Expert Second Opinion: Investigators Discuss the Optimal Management of Patients with Myelofibrosis and Systemic Mastocytosis
+This program is supported by educational grants from Blueprint Medicines, Bristol Myers Squibb, GSK, and Incyte Corporation.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+Hyatt - Regency TUV
+**On Demand program will be available here soon. For questions, please reach out to the managing company contact listed below.**
+This 2-hour CME-accredited activity – offered to both in-person and virtual attendees – will focus on the management of patients with myelofibrosis (MF) and systemic mastocytosis (SM). 5 clinical investigators will serve as the faculty and Dr Neil Love, RTP president, will moderate. Prior to the meeting, Research To Practice (RTP) will record interviews with 3 additional investigators who will present interesting teaching cases from their practices of patients with MF. To begin each of the 5 meeting modules, excerpts from the recorded case interviews will be broadcast. The panelists will then discuss the optimal management of the patients presented. Each faculty member will then deliver a formal presentation reviewing available research. Attendees will be able to submit questions and cases of their own, a number of which will be incorporated into the discussion. **Pre-registration is advised as seating is limited.**
+#### **Chair:**
+Neil Love, MD  
+Research To Practice
+#### **Speakers:**
+Claire Harrison, DM  
+Guy’s and St Thomas’ NHS Foundation Trust
+Andrew T Kuykendall, MD  
+Moffitt Cancer Center
+Stephen Oh, MD, PhD  
+Washington University School of Medicine
+Jeanne Palmer  
+Vice Chair, and Section Chief for Hematology, Program Director for the Blood and Marrow Transplant Program, Mayo Clinic
+Raajit Rampal, MD, PhD  
+Memorial Sloan Kettering Cancer Center
+#### **Contact:**
+Sylvia Eriksen , Research To Practice  
+Email: meetings@researchtopractice.com
+## Filling in the Gaps in Hemophilia Guideline Recommendations: Evidence-Based Strategies to Optimize Patient-Relevant Outcomes
+This program is supported by an independent medical education grant from Sanofi.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+OCCC - Valencia Room W415A
+**This session is in-person and does not have a virtual component. FSS are presented once according to the program schedule. This session is currently not available on demand. For questions, reach out to the contact listed below.**
+  
+Emerging therapies have the potential to transform care for patients with hemophilia, a rare chronic bleeding disorder in which impaired coagulation leads to spontaneous and traumatic bleeding. This CME-approved live panel discussion will help clinicians frame recent hemophilia guidelines into clinical practice and provide recommendations on the use of new therapies in hemophilia patients of all ages. Case studies will be used to review recent clinical trial data and examine the pros and cons of treatment options, including novel clotting factor concentrates, factor VIII mimetics, rebalancing agents, and gene therapies. Hemophilia panel members will use polling to engage the audience in a discussion of how to manage hemophilia A and B through shared decision making at all stages of their patients’ lives.
+#### **Chairs:**
+Allison Wheeler, MD, MSCI  
+Scientific Director, Washington Center for Bleeding Disorders, University of Washington School of Medicine
+Lynn Malec, MD, MSc  
+Versiti Blood Research Institute
+#### **Speakers:**
+Shannon L. Meeks, MD  
+Professor of Pediatrics, Aflac Cancer and Blood Disorders Center, Emory University
+Michael Recht  
+Yale University
+Annette von Drygalski Jr  
+Director, Center for Bleeding and Clotting Disorders, University of California, San Diego
+#### **Contact:**
+Madelyne Fabrizio , i3 Health  
+Email: mfabrizio@i3health.com
+## Medical Crossfire®: Navigating GVHD Prophylaxis, Acute and Chronic Care - Targeted Strategies to Elevate Patient Outcomes
+This program is supported by Orca Bio.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+OCCC - Tangerine Ballroom F2
+**On Demand program will be available here December 6, 2025.**
+  
+This program convenes a panel of world-renowned expert faculty in GVHD to tackle pressing clinical issues. The panel offers participants invaluable clinical pearls, practical strategies, and insights from leaders in the field. The dynamic format encourages active engagement, challenging participants to critically evaluate their practices and apply the latest evidence to improve patient care.
+#### **Chair:**
+Corey Cutler, MD,FRCPC,MPH  
+Dana-Farber Cancer Institute
+#### **Speakers:**
+Amin Alousi, MD  
+The University of Texas MD Anderson Cancer Center
+Mehdi Hamadani, MD  
+Medical College of Wisconsin
+Anna Sureda Balarí, MD,PhD  
+Institut Català d'Oncologia - Hospital Duran i Reynals
+#### **Contact:**
+Elijah Anseaume , Physicians’ Education Resource®, LLC (PER)  
+Email: eanseaume@gotoper.com
+## Myeloma Myth Busters: Investigating the Now, Soon, and Future Clinical Implications of CELMoDs
+This program is supported by Bristol Myers Squibb. Provided by Clinical Care Options, LLC.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+Hyatt - Regency Ballroom OPQ
+**On Demand program will be available here December 31, 2025.**
+  
+Join CCO for an interactive, case-based symposium exploring the evolving role of CELMoD therapy in multiple myeloma (MM). Through a unique “Two Truths and a Myth” gameshow format, expert faculty will unpack key mechanistic differences between CELMoDs and IMiDs, review pivotal trial data for iberdomide and mezigdomide, and discuss the clinical implications of MRD-negative complete response as a surrogate endpoint. Participate in dynamic faculty Q&A sessions and real-world patient case challenges that highlight how CELMoDs may be integrated into near-future treatment paradigms and clinical trials. Prepare for the next wave of innovation in MM care.
+#### **Chair:**
+Niels W.C.J. Van De Donk  
+Amsterdam University Medical Center
+#### **Speakers:**
+Jesús Berdeja, MD  
+Greco-Hainsworth Centers for Research
+Amrita Krishnan, MD  
+City of Hope Cancer Center
+#### **Contact:**
+Ishana Fleurant , Clinical Care Options, LLC.  
+Email: Ifleurant@clinicaloptions.com
+## PER® Tumor Board: Charting a New Course in the Treatment of Newly Diagnosed Multiple Myeloma
+This program is supported by Sanofi.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+OCCC - Tangerine Ballroom F3-4
+**On Demand program will be available here December 6, 2025.**
+  
+This satellite program will bring together four clinical experts to review real-world cases that synthesize recent data from landmark trials of new approaches for the management of NDMM into practical insights for clinicians to implement in routine practice. To further enhance the integration of recent data into practice, the program will feature an interactive question-and-answer session between the faculty and attendees to emphasize areas of educational need, highlight areas of debate, and illustrate the application of new data in defined clinical situations.
+#### **Chair:**
+Ajai Chari, MD  
+University of California, San Francisco
+#### **Speakers:**
+María-Victoria Mateos Jr, MD, PhD  
+University of Salamanca
+Mohamad Mohty I, MD, PhD  
+Saint-Antoine Hospital Sorbonne University
+#### **Contact:**
+Elijah Anseaume , Physicians’ Education Resource®, LLC (PER)  
+Email: eanseaume@gotoper.com
+## Personalizing Relapsed/Refractory DLBCL With Bispecific Antibody Therapy: A Case-Based Discussion
+This program is supported by Genmab US, Inc. and AbbVie.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+OCCC - W311EFGH
+**On Demand program will be available here January 1, 2026.**
+  
+This unique interactive program is designed to enhance your clinical approach to refractory/relapsed diffuse large B-cell lymphoma (R/R DLBCL). Our expert faculty, including a patient advocate from the Lymphoma Coalition, will utilize real-world case studies to highlight best practices in personalizing DLBCL care with bispecific antibodies. Stay updated on advancements in R/R DLBCL treatment.
+#### **Chair:**
+Joshua Brody, MD  
+Icahn School of Medicine at Mount Sinai
+#### **Speakers:**
+Liz Brém, MD  
+UCI Health
+Lorna Warwick, BA  
+Lymphoma Coalition
+#### **Contact:**
+Carolyn Ciaramella , MedscapeLIVE  
+Email: cciaramella@medscapelive.com
+## Staying in the Lead: Navigating the Changing Course of Sickle Cell Disease Management —A CME COMPETE™: SCD Edition
+This program is supported by Novo Nordisk Inc. Provided by Integritas Communications.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+OCCC - W224CDGH
+**On Demand program will be available here December 5, 2025.  
+**
+Sickle cell disease (SCD) presents a lifelong clinical burden with significant variability across patients. It is a leading cause of mortality, morbidity, and health disparities, yet remains considerably undertreated. Current therapeutic innovation is rapidly shifting and so must the treatment paradigm. This symposium will use a ** _Test–Teach–Compete_** format to engage attendees in a high-impact learning experience focused on the evolving landscape of SCD care. Through a blend of didactic teaching, interactive case challenges, and dynamic gamification elements, expert faculty will guide participants through a progression of key topics—from foundational pathophysiology and lifelong disease burden to the limitations of traditional treatments and the promise of curative and disease-modifying options, including FDA-approved gene-editing treatments and emerging pyruvate kinase activators. Join us for an engaging, case-driven session designed to help transform how we approach the care of patients living with SCD.
+#### **Speakers:**
+Lakiea Bailey, PhD  
+Director, Sickle Cell Consortium; Patient Advocate, Educator, Research Scientist
+Modupe Idowu, MD  
+Director, Hematology/Oncology, UTHealth
+Nirmish Shah Jr, MD  
+Associate Professor, Hematology, Duke University
+#### **Contact:**
+Shannon Stevenson , Integritas Communications  
+Email: sstevenson@integritasgrp.com
+## Visualizing Novel Pathways to Optimizing Care for Patients with Paroxysmal Nocturnal Hemoglobinuria (PNH)
+This program is supported by Novartis Pharmaceuticals.
+**  
+3: 00 p.m. - 6:00 p.m. Eastern time **  
+OCCC - W224ABEF
+**On Demand program will be available here December 6, 2025.**
+  
+Paroxysmal nocturnal hemoglobinuria (PNH) is a rare genetic hematologic disorder that stems from deficient proteins that mediate the complement pathway. [DeZern 2015] Unregulated complement activity leads to its hallmark manifestations of hemolytic anemia, bone marrow failure, and elevated risk of thrombosis. The clinical symptoms vary considerably between affected individuals. Patients may present with unexplained hemolytic anemia, fatigue, jaundice, and red/pink/dark urine, while others experience headaches, dysphagia, scleral icterus, or confusion. Approximately 10-20 people per million worldwide live with PNH. [Cancado 2021] Although it can occur at any age, PNH is often diagnosed between the ages of 30 to 40. [Hill 2017]; [Schrezenmeier 2020].
+Before the availability of effective treatments, the median survival was just 15 to 20 years, with thrombosis as the leading cause of death. [Bektas 2020a] The development of targeted complement inhibitors has transformed outcomes for patients with PNH, enabling patients to achieve life expectancies similar to age-matched controls. [Bodo 2023]
+#### **Speakers:**
+Caroline Piatek, MD  
+University of Southern California
+Jamile Shammo, MD, FASCP, FACP  
+Northwestern University Feinberg School of Medicine
+#### **Contact:**
+Kelly McGregor , PER  
+Email: kmcgregor@mjhevents.com
+##### Evening Symposia, 7:00 p.m. - 10:00 p.m. Eastern time
+## EXPERT SECOND OPINION: Investigators Discuss the Role of Novel Treatment Approaches in the Care of Patients with Follicular Lymphoma and Diffuse Large B-Cell Lymphoma
+This program is supported by educational grants from ADC Therapeutics, Genentech, a member of the Roche Group, Incyte Corporation, and Pfizer Inc.
+**  
+7: 00 p.m. - 10:00 p.m. Eastern time **  
+Hyatt - Regency TUV
+**On Demand program will be available here soon. For questions, please reach out to the managing company contact listed below.**
+  
+This 2-hour CME-accredited activity – offered to both in-person and virtual attendees – will focused on the integration of novel approaches into the care of patients with DLBCL and FL. 5 investigators will serve as the faculty and Dr Neil Love, RTP president, will moderate. Prior to the meeting, Research To Practice (RTP) will record interviews with 3 additional investigators who will present interesting teaching cases from their practices of patients with DLBCL or FL treated with novel agents/strategies. To begin each of the 5 meeting modules, excerpts from the recorded case interviews will be broadcast. The panelists will then discuss the optimal management of the patients presented. 1 faculty member will then deliver a formal presentation reviewing available research. Attendees will be able to submit questions and cases of their own, a number of which will be incorporated into the discussion. **Pre-registration is advised as seating is limited.**
+#### **Chair:**
+Neil Love, MD  
+Research To Practice
+#### **Speakers:**
+Nancy L Bartlett, MD  
+Washington University School of Medicine
+John Leonard, MD  
+NYU Langone Health
+Matthew Matasar, MD, MS  
+Rutgers University
+Loretta J Nastoupil  
+CommonSpirit Mercy Hospital
+Grzegorz Nowakowski, MD  
+Mayo Clinic
+Pier Luigi Zinzani, MD, PhD  
+University of Bologna School of Medicine
+#### **Contact:**
+Sylvia Eriksen , Research To Practice  
+Email: meetings@researchtopractice.com
+## Hot Topics in Myelofibrosis Management: Navigating the Latest Therapeutic Advances in Clinical Practice
+This program is supported by educational grants from Geron Corporation, Karyopharm Therapeutics, Kartos Therapeutics, and Sumitomo Pharma America, Inc. This activity is provided by PRIME Education. There is no fee to participate.
+**  
+7: 00 p.m. - 10:00 p.m. Eastern time **  
+OCCC - W331
+**On Demand program will be available here December 30, 2025.**
+  
+Join myelofibrosis experts as they take a deep dive into the latest clinical evidence and practical considerations for various Hot Topics in myelofibrosis (MF) care. Bolstered by the latest clinical efficacy and safety data, educational material will focus on strategies to optimize guideline-aligned, patient-centered treatment selection, integrate evidence-based anemia management strategies into clinical practice, and synthesize the latest data on emerging therapies and their practice-changing potential. Specifically, faculty will guide the audience through various Hot Topics in the management of MF, including (1) individualizing JAK inhibitor selection, response monitoring, and sequencing, (2) assessing anemia symptoms and burden and optimizing treatment decisions to minimize transfusion requirements, (3) differentiating emerging MF therapies by MOA and clinical safety and efficacy data, and (4) understanding shifting treatment goals to achieve deeper clinical and molecular response. Additionally, throughout the program, faculty will engage the onsite and virtual attendees through gamified interactive polling and participate in a live Q&A. Altogether, this satellite symposium will feature expert discussion and case-based learning designed to support providers master the clinical data and adopt evidence-based strategies to deliver comprehensive MF care.
+#### **Chair:**
+John O. Mascarenhas, MD  
+Icahn School of Medicine at Mount Sinai
+#### **Speaker:**
+Lindsay Rein, MD  
+Duke University School of Medicine
+#### **Contact:**
+Eryn Litvinas , PRIME Education  
+Email: e.litvinas@primeinc.org
+#### 67th ASH Annual Meeting and exposition
+!
+Don’t miss the chance to relive the world’s premier hematology event—register or extend your access to the 2025 ASH Annual Meeting today!
+#####  
+#### Explore the Annual Meeting
+            
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>ASH Annual Meeting & Exposition<button>
+<button>Schedule and Program<button>
+<button>Interact With Industry and Exhibitors<button>
+<button>Friday Satellite Symposia<button>
+<button>Education<button>
+<button>Publications<button>
+<button>Agenda for Nematology Research<button>
+<button>Recommendations<button>
+<button>About Us<button>
+<button>Precision Medicine<button>
+<button>Genome Editing and Gene Therapy<button>
+<button>Immunologic Treatment<button>
+<button>Research Support and Funding<button>
+<button>Meetings<button>
+<button>Careers<button>
+<button>2026 FSS guidelines<button>
+<button>View Additional Information<button>
+<button>Registration Information<button>
+<button>Abstracts<button>
+<button>Information for Trainees<button>
+
+----- WebWalker -----
+The "Friday Satellite Symposia" section lists various sessions, but none of them mention the specific talk titled "The Performance Paradox." I should explore other sections of the website for more information.
+
+Action: visit_page
+Action Input: {"button": "Schedule and Program"}
+
+----- VisitPage -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+## ASH Annual Meeting and Exposition
+        
+                                            
+#  Schedule and Program 
+The ASH annual meeting is the world's largest and most comprehensive hematology event of the year. With hundreds of sessions showcasing the latest research and practice trends in hematology, ASH offers multiple ways for attendees to find exactly what they are looking for.
+## The 2025 Schedule at a Glance is Now Available
+Get an overview of what each day at the annual meeting has to offer with the Schedule at a Glance. 
+!
+!
+## Browse by Session Type
+See sessions within specific meeting tracks including the Education Program, Scientific Program, Marquee Sessions, and more. 
+* * *
+  
+**Related Content**
+## Interact With Industry and Exhibitors
+The ASH annual meeting features multiple opportunities to interact with leaders in the health care industry. These industry sessions are not part of the official ASH annual meeting program. 
+!
+#### 67th ASH Annual Meeting and exposition
+!
+Don’t miss the chance to relive the world’s premier hematology event—register or extend your access to the 2025 ASH Annual Meeting today!
+#####  
+#### Explore the Annual Meeting
+            
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>ASH Annual Meeting & Exposition<button>
+<button>Schedule and Program<button>
+<button>Education<button>
+<button>Publications<button>
+<button>Agenda for Nematology Research<button>
+<button>Recommendations<button>
+<button>About Us<button>
+<button>Precision Medicine<button>
+<button>Genome Editing and Gene Therapy<button>
+<button>Immunologic Treatment<button>
+<button>Research Support and Funding<button>
+<button>Meetings<button>
+<button>Careers<button>
+<button>View the Schedule at a Glance<button>
+<button>View the Schedule and Program<button>
+<button>See Industry-led Events<button>
+<button>View Additional Information<button>
+<button>Registration Information<button>
+<button>Abstracts<button>
+<button>Information for Trainees<button>
+
+----- WebWalker -----
+The "Schedule and Program" section provides an overview of the ASH Annual Meeting, but it does not include specific details about the "The Performance Paradox" talk. I should explore other sections of the website for more information.
+
+Action: visit_page
+Action Input: {"button": "Education"}
+
+----- VisitPage -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+# ASH Annual Meeting and Exposition
+Claim CME and MOC Credit 
+Complete the annual meeting evaluation survey, claim CME/ABIM MOC, and print/save your CME certificate.
+### The Premier Event in Classical and Malignant Hematology
+The 2025 ASH Annual Meeting has concluded. Please see the links below to purchase webcast content from the meeting and claim CME and MOC.
+Save the date for the 68th ASH Annual Meeting and Exposition, taking place December 12–15, 2026, in New Orleans, Louisiana, and online!
+          
+!
+## Let's Run the Numbers
+See why the ASH Annual Meeting and Exposition is the premier event in classical and malignant hematology. 
+Attendees
+Novel Abstracts
+Exhibitors
+* * *
+Annual Meeting Updates
+!
+###  Friday Satellite Symposia Guidelines and Application 
+The Friday Satellite Symposia (FSS) are industry-supported, CME-accredited symposia that are offered the day preceding the American Society of Hematology (ASH) annual meeting. These sessions are not part of the official ASH annual meeting program and are planned solely by the organizing company.
+!
+###  Scientific Workshop Guidelines and Application 
+The Scientific Workshops are interactive discussions of the latest scientific developments in a particular field of hematology. Each workshop includes brief presentations of primary basic/translational data followed by an interactive discussion, distinct from the clinical sessions offered at the .
+!
+###  Become an Exhibitor at the 2026 ASH Annual Meeting 
+Join over 275 pharmaceutical companies, medical suppliers, clinical diagnostic and research-based companies, publishers, and non-profit organizations by exhibiting at the 68th ASH Annual Meeting and Exposition on December 12-15, 2026, in New Orleans, Louisiana.
+###  Key Dates for the 68th ASH Annual Meeting and Exposition  
+|  May 11, 2026, at 11:59 p.m. Pacific time  |  Scientific Workshops Application Deadline  |  
+| --- | --- |  
+|  May 27, 2026, at 11:59 p.m. Pacific time  |  Friday Satellite Symposia Application Deadline  |  
+|  June 2, 2026  |  Abstract Submissions Open  |  
+|  July 22, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for ASH Members**  |  
+|  August 4, 2026, at 11:59 p.m. Pacific time  |  Abstract Submission Deadline  |  
+|  August 12, 2026, at 11:00 a.m. Eastern time  |  **Registration and Housing Opens for Non-Members, Exhibitors, Groups, and Media**  |  
+|  November 4, 2026, at 9:00 a.m. Eastern time  |  Abstracts Available Online  |  
+|  December 12-15, 2026  |  **68th ASH Annual Meeting and Exposition**  |  
+## Past Annual Meetings
+!
+###  67th ASH Annual Meeting and Exposition
+December 6-9, 2025  
+Orlando, FL
+          
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>Key Dates<button>
+<button>Information for Corporate Supporters<button>
+<button>Webcasts<button>
+<button>Latest Updates<button>
+<button>View Symposia Guidelines and Application<button>
+<button>Friday Satellite Symposia<button>
+<button>Apply for a Workshop<button>
+<button>Access Past Annual Meeting Content Since 2014<button>
+
+----- WebWalker -----
+The "Education" section provides general information about the ASH Annual Meeting, but it does not include specific details about the "The Performance Paradox" talk. I should explore other sections of the website for more information.
+
+Action: visit_page
+Action Input: {"button": "View the Schedule at a Glance"}
+
+----- VisitPage -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+## ASH Annual Meeting and Exposition
+          
+                                            
+#  Schedule at a Glance 
+All times listed reflect the Eastern time zone. Unless otherwise noted, all events will take place in person and stream simultaneously on the virtual platform. Session recordings will be available on demand on the virtual platform.
+### Preview Days: December 3-4
+###  Wednesday, December 3, 2025   
+| Beginning at 9:00 a.m.  |  **Preview Day (virtual platform only)  
+**Preview Day is an opportunity to visit the Virtual Exhibit Hall, review session descriptions, build your schedule, and explore all the features of this year’s virtual platform.  |  
+| --- | --- |  
+###  Thursday, December 4, 2025   
+| All Day  |  **Preview Day (virtual platform only)  
+**Preview Day is an opportunity to visit the Virtual Exhibit Hall, review session descriptions, build your schedule, and explore all the features of this year’s virtual platform.  |  
+| --- | --- |  
+| 3:00 p.m. – 7:00 p.m.  |  **On-Site Registration Open (for in-person participants)**  |  
+### Friday-Only Programming: December 5
+###  Friday, December 5, 2025   
+| All Day  |  **Preview Day (virtual platform only)  
+**Preview Day is an opportunity to visit the Virtual Exhibit Hall, review session descriptions, build your schedule, and explore all the features of this year’s virtual platform.  |  
+| --- | --- |  
+| 7:00 a.m.– 6:00 p.m.  |  **On-Site Registration Open (for in-person participants)  
+**Registration is available in the Speaker Ready Room until 6:00 p.m. for speakers only.   |  
+| 7:00 a.m. – 10:00 a.m.  |  ** **  
+These accredited symposia are not part of the official ASH annual meeting program and are planned solely by the sponsoring organizations.  |  
+| 9:00 a.m. – 12:00 p.m.  |  **Training Program Directors' Workshop  
+**This workshop is held each year before the ASH annual meeting and is designed for training program directors, associate program directors, and others involved with hematology training to share lessons learned, best practices, and explore opportunities to improve their leadership skills.  
+ |  
+| 11:00 a.m. – 2:00 p.m.  |  ** **  
+These accredited symposia are not part of the official ASH annual meeting program and are planned solely by the sponsoring organizations.  |  
+| 12:00 p.m. – 5:00 p.m.  |  ** **  
+This is ASH’s premier trainee event complete with micro-learning sessions, mentorship opportunities, and more! It is only open to trainees wearing a blue badge.  |  
+| 3:00 p.m. – 6:00 p.m.  |  ** **  
+These workshops are interactive discussions of the latest scientific developments in a particular field of hematology and are not part of the official ASH annual meeting program. They are sponsored by ASH but are organized by members of the hematology community.   |  
+| 3:00 p.m. – 6:00 p.m.  |  ** **  
+These accredited symposia are not part of the official ASH annual meeting program and are planned solely by the sponsoring organizations.  |  
+| 5:00 p.m. – 7:00 p.m.  |  **  
+**Immediately following ASH-a-Palooza, this reception is an informal event for trainees and faculty to network and celebrate the meeting.   
+ |  
+| 7:00 p.m. – 10:00 p.m.  |  ** **  
+These accredited symposia are not part of the official ASH annual meeting program and are planned solely by the sponsoring nonprofit and for-profit organizations.   |  
+### Annual Meeting Schedule: December 6-9
+###  Saturday, December 6, 2025   
+| 7:00 a.m. – 6:00 p.m.  | **On-Site Registration Open (for in-person participants)**  |  
+| --- | --- |  
+| 7:00 a.m. – 6:00 p.m.  |  ****  
+Open to trainees with blue badges. This space is for trainees to take a break, informally meet, print, and more with periodic coffee breaks.   |  
+| 8:00 a.m. – 9:00 a.m  |  **Coffee and Collaboration in ASH Central (for in-person participants)**  |  
+| 8:00 a.m. – 9:00 a.m.  |  ****  
+This is a ticketed session. Tickets are only available on-site and can be purchased at registration.  |  
+| 8:00 a.m. – 9:00 a.m.  |  ****  
+This is a ticketed session. Tickets are only available on-site and can be purchased at registration.  |  
+| 8:00 a.m. - 9:00 a.m.   |  ****  
+These sessions are sponsored by industry and continuing medical education credits will not be offered.  |  
+| 8:00 a.m. – 7:30 p.m.  | ****  |  
+| 9:00 a.m. – 9:30 a.m.  | **Coffee Break in Poster Hall (for in-person participants)**  |  
+| 9:00 a.m. – 9:30 a.m.  |    |  
+| 9:30 a.m. – 10:45 a.m.  | ****  |  
+|  9:30 a.m. – 11:00 a.m.   | ****  |  
+| 9:30 a.m. – 11:00 p.m.  | ****  |  
+| 11:00 a.m. – 12:30 p.m.   |  **Open Time for Lunch**  |  
+| 11:00 a.m. – 5:00 p.m.   | ****  |  
+| 11:15 a.m. – 12:15 p.m.  | ****  |  
+| 11:15 a.m. – 12:15 p.m.  | ** **  |  
+| 11:15 a.m. – 12:15 p.m.   |  ****  
+An opportunity for trainees to ask career advice from leaders in the field. First come, first served. Open only to trainees with blue badges.   |  
+| 11:15 a.m. – 12:15 p.m.   | ** **  |  
+| 11:30 a.m. – 12:30 p.m.   |  ****  
+These sessions are sponsored by industry and feature new research, findings, and products. They are solely promotional in nature and continuing medical education credits will not be offered.   |  
+| 12:00 noon – 1:30 p.m.   |  ****  |  
+| 12:30 p.m. – 1:30 p.m.   | ****  |  
+| 1:30 p.m. – 2:00 p.m.  | **Coffee Break in Exhibit Hall (for in-person participants)**  |  
+| 1:30 p.m. – 2:00 p.m.  |  ****  
+These sessions are sponsored by industry and continuing medical education credits will not be offered.  |  
+| 1:30 p.m. – 2:00 p.m.  |  ****  |  
+| 2:00 p.m. – 3:15 p.m.   | ****  |  
+| 2:00 p.m. – 3:15 p.m.  | ****  |  
+| 2:00 p.m. – 3:30 p.m.  | ****  |  
+| 2:00 p.m. – 3:30 p.m.  |    |  
+| 3:30 p.m. – 4:00 p.m.  | **Coffee Break in Exhibit Hall (for in-person participants)**  |  
+| 3:30 p.m. – 4:00 p.m.  |  **   
+**These sessions are sponsored by industry and continuing medical education credits will not be offered.  |  
+| 4:00 p.m. – 5:15 p.m.  | ****  |  
+| 4:00 p.m. – 5:30 p.m.  | ****  |  
+| 4:00 p.m. – 5:30 p.m.  
+ | ****  |  
+| 4:00 p.m. – 5:35 p.m.  | ****  |  
+| 5:30 p.m. – 7:30 p.m.  | ****  |  
+| 5:30 p.m. – 7:30 p.m.  | **[Welcome Reception in Poster Hall (for in-person participants)  
+](  |  
+###  Sunday, December 7, 2025   
+| 7:00 a.m. – 5:00 p.m.  |  **On-Site Registration Open (for in-person participants)**  |  
+| --- | --- |  
+| 7:00 a.m. – 9:00 a.m.   | ****  |  
+| 7:00 a.m. – 9:00 a.m.  |  **Medical Educators Symposium (for in-person participants)**  
+Open to all medical educators across the medical student, resident, and fellow continuum, this session highlights cutting-edge teaching techniques and theories while also showcasing participants of the ASH Medical Educators Institute.  |  
+| 7:00 a.m. – 6:00 p.m.  |  ****  
+Open to trainees with blue badges. This space is for trainees to take a break, informally meet, print, and more with periodic coffee breaks.   |  
+| 8:00 a.m. – 9:00 a.m.  | **Coffee and Collaboration in ASH Central (for in-person participants)**  |  
+| 8:00 a.m. – 9:00 a.m.  |  ****  
+These sessions are sponsored by industry and feature new research, findings, and products. They are solely promotional in nature and continuing medical education credits will not be offered.   |  
+| 8:00 a.m. – 9:00 a.m  |  ****  
+This is a ticketed session. Tickets are only available on site and can be purchased at registration.   |  
+| 8:00 a.m. – 9:00 a.m  |  ****  
+This is a ticketed session. Tickets are only available on site and can be purchased at registration.   |  
+| 8:00 a.m. – 9:00 a.m.   | ** **  |  
+| 8:00 a.m. – 8:00 p.m.  | ****  |  
+| 9:00 a.m. – 9:30 a.m.   |  **Coffee Break in Poster Hall (for in-person participants)**  |  
+| 9:00 a.m. – 9:30 a.m.  |  ****  |  
+| 9:30 a.m. – 10:45 a.m.  | ****  |  
+| 9:30 a.m. 10:45 a.m.  |  ****  |  
+| 9:30 a.m. – 11:00 a.m.  | ****  |  
+| 9:30 a.m. – 11:00 p.m.  | ****  |  
+| 9:30 a.m. – 11:05 a.m.  | ****  |  
+| 10:00 a.m. – 5:00 p.m.  |   |  
+| 11:00 a.m. – 12:30 p.m.  |  **Complimentary Light Lunch in Exhibit Hall (for in-person participants)**  
+ |  
+| 11:00 a.m. – 12:30 p.m.  |    |  
+| 11:15 a.m. – 12:15 p.m.  |  ****   
+These sessions cover career development topics unique to trainees. Learn how to write the best CV, what it means to be an entrepreneur, make the transition from trainee to faculty seamlessly, and best practices on giving a scientific presentation.  |  
+| 11:15 a.m. – 12:15 p.m.  |  **__**  
+ |  
+| 11:15 a.m. – 12:15 p.m.  | ****  |  
+| 11:15 a.m. – 12:30 p.m.  | ****  |  
+| 11:30 a.m. – 12:30 p.m.  |  ****   
+These sessions are sponsored by industry and feature new research, findings, and products. They are solely promotional in nature and continuing medical education credits will not be offered.  |  
+| 11:30 a.m. – 12:30 p.m.  | ****  |  
+| 12:00 noon – 1:30 p.m.  |  ****  
+ |  
+| 12:30 p.m. – 1:30 p.m.  | ****  |  
+| 1:30 p.m.– 2:00 p.m.  |  ****   
+  * Outstanding Service Award
+  * ASH Mentor Awards
+  * ASH Advancing Inclusive Excellence Award
+  * Wallace H. Coulter Award for Lifetime Achievement
+ |  
+| 2:00 p.m. – 4:00 p.m.  | **Plenary Scientific Session**  |  
+| 4:00 p.m. – 4:30 p.m.  | **Coffee Break in Exhibit Hall (for in-person participants)**  |  
+|  4:00 p.m. – 4:30 p.m.  |  ****  
+These sessions are sponsored by industry and continuing medical education credits will not be offered.  |  
+| 4:00 p.m. – 4:30 p.m.  |  ****  |  
+| 4:30 p.m. – 5:45 p.m.  | ****  |  
+| 4:30 p.m. – 5:45 p.m.  | ****  |  
+| 4:30 p.m. – 6:00 p.m.  | ****  |  
+| 4:30 p.m. – 6:00 p.m.  |  ** **  |  
+| 6:00 p.m. – 8:00 p.m.  |  ****  
+ |  
+| 6:00 p.m. – 8:00 p.m.  | ****  |  
+###  Monday, December 8, 2025   
+| 7:00 a.m. – 5:00 p.m.  |  **On-Site Registration Open (for in-person participants)**  |  
+| --- | --- |  
+| 7:00 a.m. – 6:00 p.m.  |  ****  
+Open to trainees with blue badges. This space is for trainees to take a break, informally meet, print, and more with periodic coffee breaks.   |  
+| 8:00 a.m. - 9:00 a.m.  | ****  |  
+| 8:00 a.m. – 9:00 a.m.  | **Coffee and Collaboration in ASH Central (for in-person participants)**  |  
+| 8:00 a.m. – 9:00 a.m.  |  ****  
+These sessions are sponsored by industry and feature new research, findings, and products. They are solely promotional in nature and continuing medical education credits will not be offered.  |  
+| 8:00 a.m. – 9:00 a.m.  | ****  |  
+| 8:00 a.m. – 8:00 p.m.  | ****  |  
+| 8:30 p.m. – 9:00 p.m.  |    |  
+| 9:00 a.m. – 10:00 a.m.  |  ****  |  
+| 10:00 a.m. – 10:30 a.m.  | **Coffee Break in Exhibit Hall (for in-person participants)**  |  
+| 10:00 a.m. – 10:30 a.m.  |  ****  |  
+| 10:00 a.m. – 2:00 p.m.  | ****  |  
+| 10:30 a.m. – 11:45 a.m.  | ****  |  
+| 10:30 a.m. – 11:45 a.m.  |  ****  
+ |  
+| 10:30 a.m. – 12:00 noon  |  ** **  
+ |  
+| 10:30 a.m. – 12:00 noon  | ****  |  
+| 12:00 noon – 1:30 p.m.  | **Complimentary Light Lunch in Exhibit Hall (for in-person participants)**  |  
+| 12:00 p.m. – 12:30 p.m.  | ****  |  
+|  12:00 p.m. – 1:30 p.m.  |  ****  |  
+| 12:15 p.m. – 1:15 p.m.  |  ****  
+These sessions are sponsored by industry and feature new research, findings, and products. They are solely promotional in nature and continuing medical education credits will not be offered.  |  
+| 12:15 p.m. – 1:15 p.m.  |  ********   
+These sessions cover career development topics unique to trainees. Learn how to write the best CV, what it means to be an entrepreneur, make the transition from trainee to faculty seamlessly, and best practices on giving a scientific presentation.  
+  
+These sessions cover career development topics unique to trainees. Learn how to write the best CV, what it means to be an entrepreneur, make the transition from trainee to faculty seamlessly, and best practices on giving a scientific presentation.  
+ |  
+| 12:30 p.m. – 1:30 p.m.   | ****  |  
+| 1:30 p.m. – 2:30 p.m.  | ****  |  
+| 2:30 p.m. – 2:45 p.m.  | **Coffee Break in Poster Hall (for in-person participants)**  |  
+| 2:45 p.m. – 4:00 p.m.  | ****  |  
+| 2:45 p.m. – 4:00 p.m.  | ****  |  
+| 2:45 p.m. – 4:15 p.m.  | ****  |  
+| 2:45 p.m. – 4:15 p.m.  | ****  |  
+| 4:30 p.m. – 5:45 p.m.  
+ | ****  |  
+| 4:30 p.m. – 6:00 p.m.  | ****  |  
+| 4:30 p.m. – 6:00 p.m.  |  ****  |  
+| 4:30 p.m. – 6:00 p.m.  | **Special Symposium on the Basic Science of Hemostasis and Thrombosis (reception to follow for in-person participants)**  |  
+|  4:30 p.m. – 6:00 p.m.  |  ****  |  
+| 6:00 p.m. – 8:00 p.m.  | ****  |  
+| 6:00 p.m. – 8:00 p.m.  | ****  |  
+|  6:00 p.m. – 8:00 p.m.  |    |  
+| 6:00 p.m. – 7:30 p.m.  | ** **  |  
+| 7:30 p.m. – 9:30 p.m.  |  ****  |  
+###  Tuesday, December 9, 2025   
+| 7:00 a.m. – 12:00 noon  | **On-Site Registration Open (for in-person participants)**  |  
+| --- | --- |  
+| 7:00 a.m. – 1:30 p.m.  |  ****  
+Open to trainees with blue badges. This space is for trainees to take a break, informally meet, print, and more with periodic coffee breaks.   |  
+| 7:30 a.m. – 9:00 a.m.  | ****  |  
+| 9:30 a.m. – 9:45 a.m.  |  ****   
+  * William Dameshek Prize
+  * Henry M. Stratton Medal
+ |  
+| 9:45 a.m. – 11:15 a.m.  | **Presidential Symposium**  |  
+| 11:15 a.m. – 11:30 a.m.   | **Business Meeting**  |  
+| 11:30 a.m. – 1:00 p.m.  
+ |  **Best of ASH**  
+ |  
+| 1:00 p.m.   | **In-person Meeting Concludes – Participants Travel Home**  |  
+| 1:00 p.m. and later  | **Binge Watch the Content You Missed**  |  
+### Catch Up Days: December 10-12
+###  Wednesday, December 10, 2025   
+| All Day and Night  |  **Binge Watch the Content You Missed**  
+  
+Participants can log onto the virtual platform to watch on-demand session recordings and view posters presented during the core days of the meeting.  |  
+| --- | --- |  
+| 10:00 a.m. – 11:00 a.m.   |  **ASH Poster Walks (virtual platform only)**  |  
+| 5:00 p.m. – 6:00 p.m.   |  **ASH Poster Walks (virtual platform only)**  |  
+###  Thursday, December 11, 2025   
+| All Day and Night  |  **Binge Watch the Content You Missed  
+  
+** Participants can log onto the virtual platform to watch on-demand session recordings and view posters presented during the core days of the meeting.  |  
+| --- | --- |  
+###  Friday, December 12, 2025   
+| All Day and Night  |  **Binge Watch the Content You Missed  
+  
+** Participants can log onto the virtual platform to watch on-demand session recordings and view posters presented during the core days of the meeting.  |  
+| --- | --- |  
+#### 67th ASH Annual Meeting and exposition
+!
+Don’t miss the chance to relive the world’s premier hematology event—register or extend your access to the 2025 ASH Annual Meeting today!
+#####  
+#### Explore the Annual Meeting
+            
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>ASH Annual Meeting & Exposition<button>
+<button>Schedule and Program<button>
+<button>Schedule at a Glance<button>
+<button>Education<button>
+<button>Publications<button>
+<button>Agenda for Nematology Research<button>
+<button>Recommendations<button>
+<button>About Us<button>
+<button>Precision Medicine<button>
+<button>Genome Editing and Gene Therapy<button>
+<button>Immunologic Treatment<button>
+<button>Research Support and Funding<button>
+<button>Meetings<button>
+<button>Careers<button>
+<button>Friday Satellite Symposia<button>
+<button>Scientific Workshops<button>
+<button>Trainee Welcome Reception (for in-person participants)<button>
+<button>Trainee Lounge (for in-person participants)<button>
+<button>How I Treat: Bringing Science to Clinical Dilemmas (for in-person participants)<button>
+<button>Meet the Scientist (for in-person participants)<button>
+<button>Corporate Presentations: Industry Forums<button>
+<button>Poster Session I - Viewing<button>
+<button>Meet the Journal Editors:Blood Vessels, Thrombosis & Hemostasis(for in-person participants)<button>
+<button>Education/Scientific Program Sessions<button>
+<button>Oral Abstract Sessions<button>
+<button>Special-Interest Sessions<button>
+<button>Exhibits Open<button>
+<button>BloodPresents: How to Get Published in Peer-Reviewed Journal<button>
+<button>ASH Grassroots Network Lunch<button>
+<button>Career Development Lunch Sessions (for in-person participants)<button>
+<button>ASH Poster Walk Hosted byBlood Vessels, Thrombosis & Hemostasis(for in-person participants)<button>
+<button>Corporate Presentations: Product Theaters and Industry Theaters<button>
+<button>Oral Abstract Sessions<button>
+<button>Ham-Wasserman Lecture<button>
+<button>Corporate Presentations: Company and Clinical Trial Showcases<button>
+<button>Meet the Journal Editors:Blood Advances(for in-person participants)<button>
+<button>Scientific Symposia<button>
+<button>ASH Clinical Practice Guidelines on Hydroxyurea for Sickle Cell Disease<button>
+<button>Special Interest Sessions<button>
+<button>Joint Scientific Program Sessions<button>
+<button>Poster Session I - Presentations (for in-person participants)<button>
+<button>Welcome Reception in Poster Hall (for in-person participants)<button>
+<button>ASH Poster Walk Hosted by Blood Neoplasia (for in-person participants)<button>
+<button>Poster Session II - Viewing<button>
+<button>Meet the Journal Editors:Blood Neoplasia(for in-person participants)<button>
+<button>LGBTQIA+ Community Networking Brunch<button>
+<button>Trainee Didactic Sessions (open only to trainees wearing a blue badge)<button>
+<button>Blood Advances Presents: How to Peer Review a Scientific Paper<button>
+<button>ASH Poster Walk Hosted byBlood Red Cells & Iron(for in-person participants)<button>
+<button>Treating Fairly Rounds Lunch<button>
+<button>ASH-EHA Joint Symposium<button>
+<button>Announcement of Awards:<button>
+<button>Corporate Presentations: Company and Clinical Showcases<button>
+<button>Meet the Journal Editors:Blood(for in-person participants)<button>
+<button>Spotlight Sessions<button>
+<button>Poster Session II - Presentations (for in-person participants)<button>
+<button>Poster Hall Reception (for in-person participants)<button>
+<button>ASH Poster Walk Hosted byBlood Immunology & Cellular Therapy(for in-person participants)<button>
+<button>Back to Business Breakfast<button>
+<button>Poster Session III - Viewing<button>
+<button>Meet the Journal Editors:Blood Immunology & Cellular Therapy(for in-person participants)<button>
+<button>E. Donnall Thomas Lecture and Prize<button>
+<button>Meet the Journal Editors:Blood red Blood Cells & Iron(for in-person participants)<button>
+<button>Spotlight Sessions<button>
+<button>ASH/FDA Joint Symposium on Newly Approved Therapies I<button>
+<button>Meet the Journal Editors:Blood Global Hematology(for in-person participants)<button>
+<button>Celebrating Diverse Voices: Enriching Hematology Lunch<button>
+<button>Trainee Didactic Sessions<button>
+<button>(open only to trainees wearing a blue badge)<button>
+<button>ASH Poster Walk Hosted byBlood Global Hematology(for in-person participants)<button>
+<button>Ernest Beutler Lecture and Prize<button>
+<button>ASH/FDA Joint Symposium on Newly Approved Therapies II<button>
+<button>ASH's SCD Initiative: 10 Years of Progress and a Look to the Future of Sickle Cell Disease Research and Care<button>
+<button>Poster Session III - Presentations(for in-person participants)<button>
+<button>Poster Hall Reception (for in-person participants)<button>
+<button>Center for Sickle Cell Disease Initiatives Reception<button>
+<button>ASH Hemostasis and Thrombosis Community Networking Reception<button>
+<button>Women in Hematology Networking Event<button>
+<button>Late-Breaking Abstracts Session<button>
+<button>View Additional Information<button>
+<button>Registration Information<button>
+<button>Abstracts<button>
+<button>Information for Trainees<button>
+
+----- WebWalker -----
+The "Schedule at a Glance" section provides a detailed schedule of events for the ASH Annual Meeting, but it does not include specific details about the "The Performance Paradox" talk. I should explore other sections of the website for more information.
+
+Action: visit_page
+Action Input: {"button": "Scientific Workshops"}
+
+----- VisitPage -----
+The web information is:
+
+
+      * ; "Cookie Settings")
+  * Log in or create an account
+  
+                
+                  
+ ! ]( Helping hematologists conquer blood diseases worldwide
+                
+## ASH Annual Meeting and Exposition
+            
+                                            
+# Scientific Workshops
+Scientific Workshops are interactive discussions covering the latest scientific developments in a range of hematologic topics. The 2025 Scientific Workshops will take place on Friday, December 5, and will also be streamed on the ASH annual meeting platform for virtual participants.
+**Access to the Scientific Workshop recordings on the Virtual Meeting Platform is now extended through January 15th, 2025, at 11:59 p.m. Pacific time.**
+!
+  
+### Build Your Schedule!
+Bookmark sessions, add notes, export your calendar, and access virtual platform session links directly from the ASH annual meeting mobile app.
+##### Scientific Workshop on Aging and Hematology
+**Friday, December 5, 2025, 3:00 p.m. - 6:00 p.m.**
+Co-Chairs:
+Megan Weivoda, PhD  
+Mayo Clinic, Division of Hematology  
+Rochester, MN  
+weivoda.megan@mayo.edu
+Richard Lin, MD, PhD  
+Memorial Sloan Kettering Cancer Center   
+New York, NY   
+linr@mskcc.org 
+Hematologic disorders disproportionately affect older adults and often exhibit hallmarks of biological aging. Moreover, standard treatments for hematologic diseases, including chemotherapy, radiation, and stem cell transplantation, can accelerate aging, compounding disease burden and complicating recovery. Despite growing recognition of the impact of biological aging on hematological health, therapeutic strategies to target and mitigate age-related dysfunction remain underdeveloped.
+This year’s workshop will focus on critically evaluating interventions that could meaningfully alter biological aging in the context of hematologic disease. In each session, speakers will advocate for a specific class of intervention, presenting basic and translational evidence to support their position. To promote engagement and debate, sessions will include pre- and post-session audience polling and interactive cross-examination by moderators and attendees. This format is designed to challenge assumptions, sharpen proposed strategies, and build consensus — or constructive dissent — around the most promising therapeutic directions.
+Discussions from this workshop are likely to inform the development of a white paper that will summarize key insights and issue a call to action. 
+Target Audience:
+Laboratory-based scientists and clinical/translational investigators with an interest in aging and hematologic disorders — both malignant and non-malignant. 
+Objectives:
+  * Evaluate and compare emerging strategies for mitigating hematologic aging, including lifestyle, immune-based, and pharmacologic interventions.
+  * Highlight innovative therapeutic approaches that target cellular and molecular drivers of hematologic aging, such as senescence and chronic inflammation.
+  * Foster interdisciplinary collaboration aimed at discovering, validating, and advancing strategies to slow or reverse hematologic aging. 
+###  Workshop Schedule
+  
+### Opening Remarks
+**3:00 p.m. - 3:03 p.m.****, OCCC - W312**
+#### Session Description
+#### **Speaker:**
+Megan Weivoda, PhD  
+Mayo Clinic  
+ _OPENING REMARKS_
+### The Natural Intervention: Diet and Exercise-Based Strategies for Reversing Hematologic Aging
+**3:03 p.m. - 3:44 p.m.****, OCCC - W312**
+#### Session Description
+#### **Moderators:**
+Andrew Artz, MD,MS  
+City of Hope
+Nadine Abdallah I, MD  
+Mayo Clinic
+#### **Speakers:**
+Nadine Abdallah I, MD  
+Mayo Clinic  
+ _Moderator Introduction and Audience Pre-Session Polling_
+Joshua Bliss, MD, PharmD  
+NewYork-Presbyterian/Weill Cornell  
+ _The Role of Exercise and Digital Monitoring in Counteracting Aging in Cancer Patients_
+Mary Riwes, DO  
+University of Michigan  
+ _Prebiotic Interventions to Modulate Gut Microbiota and Inflammation to Prevent Transplant-related Aging_
+Charity Oyedeji I, MD  
+Duke University School of Medicine  
+ _Targeting Aging in Sickle Cell Disease Through Exercise and Nutrition_
+Nadine Abdallah I, MD  
+Mayo Clinic  
+ _Panel Discussion and Cross-Examination of the Position; Post-Session Polling_
+### Engineering the Immune System to Reverse Hematologic Aging
+**3:44 p.m. - 4:25 p.m.****, OCCC - W312**
+#### Session Description
+#### **Moderator:**
+Ashley Rosko, MD  
+The Ohio State University
+#### **Speakers:**
+Ashley Rosko, MD  
+Ohio  
+ _Moderator Introduction_
+Marcos Garcia Teneche, BS, PhD Candidate  
+ _Restoring T-Cell Homeostasis to Limit Age-dependent Leukemia Progression_
+Haitham Abdelhakim, MD  
+University of Kansas Medical Center  
+ _Immune Checkpoint Blockade as a Strategy for Reversing Hematologic Aging_
+Yue Liu, PhD  
+University of Chicago  
+ _Vaccine Targeting of Senescence for Age-Related Pathologies_
+Ashley Rosko, MD  
+Ohio  
+ _Panel Discussion and Cross-Examination of the Position; Post-Session Polling_
+### Small Molecules, Big Impact: Reversing Hematologic Aging by Targeting Senescence and Inflammaging
+**4:35 p.m. - 5:16 p.m.****, OCCC - W312**
+#### Session Description
+#### **Moderators:**
+Zhuoer Xie, MD,MS  
+Moffitt Cancer Center
+Heidi Klepin, MD  
+Wake Forest University School of Medicine
+#### **Speakers:**
+Zhuoer Xie, MD,MS  
+Moffitt Cancer Center  
+ _Moderator Introduction_
+Yi Lin Jr, MD, PhD  
+Mayo Clinic  
+ _Harnessing Senolytics to Optimize CAR-T Therapy in Aging and Cancer_
+Jane Liesveld, MD  
+University of Rochester  
+ _Rapamycin and the Rewiring of Aging_
+Eduardo Chini, MD, PhD  
+Robert and Arlene Kogod Center on Aging  
+ _CD38 Inhibitors and NAD Boosting to Support the Hematologic Healthspan_
+Zhuoer Xie, MD,MS  
+Moffitt Cancer Center  
+ _Panel Discussion and cross-examination of the position; post-session polling_
+### A New Horizon in Hematology: Novel Strategies for Reversing Aging
+**5:16 p.m. - 5:57 p.m.****, OCCC - W312**
+#### Session Description
+#### **Moderators:**
+Conor Lynch, PhD  
+H. Lee Moffitt Cancer Center And Research Institute
+Maya Abdallah, MD  
+Boston University School of Medicine
+#### **Speakers:**
+Conor Lynch, PhD  
+H. Lee Moffitt Cancer Center And Research Institute  
+ _Moderator Introduction_
+Daisy Yomaris Diaz-Rohena, PhD  
+The University of Texas MD Anderson Cancer Center  
+ _Targeting BCL Pathways with PROTACs: A New Avenue for Modulating Aging_
+Alejandro Ferrer, PhD  
+Mayo Clinic  
+ _Novel Telomere-Based Interventions for Hematologic Aging_
+Jonathan Yen, PhD  
+St. Jude Children's Research Hospital  
+ _Precision Editing: Harnessing CRISPR to Rejuvenate Blood Cells_
+### Closing Remarks
+**5:57 p.m. - 6:00 p.m.****, OCCC - W312**
+#### Session Description
+#### **Speaker:**
+Richard J. Lin, MD, PhD  
+Memorial Sloan Kettering Cancer Center  
+ _CLOSING REMARKS_
+##### Scientific Workshop on Disease Severity Scoring and Clinical Trial Endpoints Beyond Vaso-occlusive Pain in Sickle Cell Disease
+**Friday, December 5, 2025, 3:00 p.m. - 6:00 p.m.**
+Traditionally, the severity of sickle cell disease (SCD) has been primarily defined by the frequency of vaso-occlusive episodes (VOEs). This metric has served as the foundation for clinical trial eligibility and the development of all currently U.S. Food and Drug Administration (FDA)-approved therapies for SCD. However, VOE frequency is a narrow and inadequate measure of the overall disease burden. VOEs are inconsistently defined and do not capture the broader spectrum of complications and organ damage associated with the disease. Additionally, VOEs are difficult to quantify and susceptible to variability in clinical practice, which threatens the internal validity of studies that rely on this outcome measure. Unsurprisingly, many randomized controlled trials that showed promise in phase II studies — using VOE as the primary outcome (e.g., time to VOE resolution for acute pain studies, number of VOEs for prophylactic therapies), which the FDA prefers for orphan drug approval — failed to meet their primary endpoints in phase III studies.
+A universally accepted and formalized grading system for categorizing disease severity has yet to be established. Such a system could standardize clinical assessments, guide personalized therapeutic interventions, improve predictive modeling for morbidity and mortality, and facilitate the calculation of cumulative morbidity. Moreover, a severity grading system with discrete outcomes that reflect incremental disease severity over time would more accurately represent the disease phenotype, potentially serving as a better clinical endpoint for future trials in SCD, both for acute and chronic complications, as well as preventive treatments (e.g., new disease-modifying agents).
+In addition to establishing discrete and cumulative clinical endpoints informed by a standardized grading of severity, clinical trial designs for both acute (i.e., pain and acute chest syndrome) and chronic complications (i.e., anemia, end-organ damage, chronic pain) could be considerably enhanced through the use of surrogate biomarkers. Laboratory biomarkers such as fetal hemoglobin (HbF), sickling point, mitochondrial function, oxidative stress, adhesion properties, and arginine bioavailability are all promising surrogate biomarkers that could be utilized, either independently or as complementary measures to clinical endpoints.
+This workshop will engage a panel of global experts in hematology: clinical trial design, implementation science, and patient-centered outcomes. The discussion will cover topics related to classifying disease severity in SCD, selecting surrogate biomarkers, and optimizing the use of such classifications and biomarkers to improve endpoint selection for future clinical trials in SCD.
+Target Audience:
+Hematologists, translational researchers, laboratory scientists, emergency medicine physicians, SCD researchers and trainees, regulatory agencies (e.g., FDA, clinical investigators, and SCD clinical trialists), federal funders such as the National Institutes of Health (NIH) and the National Heart, Lung, and Blood Institute (NHLBI), and SCD advocacy groups including the Sickle Cell Disease Association of America, as well as patients with SCD and their families.  
+###  Workshop Schedule
+  
+### Opening Remarks
+**3:00 p.m. - 3:05 p.m.****, OCCC - W315**
+#### Session Description
+#### **Speaker:**
+Dunia Hatabah, MD  
+Emory University  
+ _Opening Remarks_
+### Disease Severity Scoring in Sickle Cell Disease
+**3:05 p.m. - 3:45 p.m.****, OCCC - W315**
+#### Session Description
+#### **Moderator:**
+Jane Hankins, MD,MS  
+St Jude Children's Research Hospital
+#### **Speakers:**
+Jane Hankins, MD,MS  
+St Jude Children's Research Hospital  
+ _Moderator Introduction: Topic Only_
+Courtney Thornburg, MD, MS  
+Rady Children's Health - Orange County  
+ _Defining Disease Severity for NHLBI Innovative Trials_
+Tarun Aurora, MD, MSCI  
+Emory University  
+ _A New Severity Classification System (SCOGS)_
+Elizabeth Klings, MD  
+Boston University  
+ _Prior Disease Severity Scoring Systems_
+Jane Hankins, MD,MS  
+St Jude Children's Research Hospital  
+ _Engagement/Discussion/Q &A_
+### Endpoints and Surrogate Biomarkers
+**3:45 p.m. - 4:35 p.m.****, OCCC - W315**
+#### Session Description
+#### **Moderators:**
+Caterina Minniti, MD  
+Einsten College of Medicine
+Donna Whyte-Stewart, MD  
+U.S. Food and Drug Administration
+#### **Speakers:**
+Caterina Minniti, MD  
+Einsten College of Medicine  
+ _Moderator Introduction_
+Patrick Hines, MD  
+Functional Fluidics  
+ _Adhesions and Red Cell Health as a Marker of Propensity of VOC_
+Martin Steinberg, MD  
+Boston Univ. School of Medicine  
+ _HbF is the Most Powerful Disease Modifier in SCD: What is Next for This Biomarker?_
+Vence L. Bonham Jr, J.D.  
+National Human Genome Research Institute  
+ _Patient Reported Outcomes, Indicators of Severity and End Points for Clinical Trials_
+Caterina Minniti, MD  
+Einsten College of Medicine  
+ _Engagement/Discussion/Q &A_
+### Acute Vaso-occlusive Pain Clinical Trial Endpoints Beyond Time-to-Crisis-Resolution in Sickle Cell Disease (SCD)
+**4:35 p.m. - 5:15 p.m.****, OCCC - W315**
+#### Session Description
+#### **Moderator:**
+Claudia R. Morris, MD  
+Emory University School of Medicine
+#### **Speakers:**
+Claudia R. Morris, MD  
+Emory University School of Medicine  
+ _Moderator Introduction_
+Claudia R. Morris, MD  
+Emory University School of Medicine  
+ _Challenges with Time-to-Crisis-Resolution as an Endpoint in Acute SCD Pain Clinical Trials_
+Nitya Bakshi, MBBS, MS  
+Yale University  
+ _Challenges with PROs in Acute SCD Pain Clinical Trials: Why We Need Surrogate Biomarkers_
+Sruti Shiva, PhD  
+University of Pittsburgh  
+ _Mitochondria as a Surrogate Biomarker: Much more than ATP Makers_
+Claudia R. Morris, MD  
+Emory University School of Medicine  
+ _Engagement/Discussion/Q &A_
+### Where Do We Go From Here: Stakeholder Discussion
+**5:15 p.m. - 5:55 p.m.****, OCCC - W315**
+#### Session Description
+#### **Speakers:**
+Dunia Hatabah, MD  
+Emory University  
+ _Moderator Introduction_
+Dunia Hatabah, MD  
+Emory University  
+ _Panel Discussion/Q &A_
+### Closing Remarks
+**5:55 p.m. - 6:00 p.m.****, OCCC - W315**
+#### Session Description
+#### **Speaker:**
+Caterina Minniti, MD  
+Einsten College of Medicine  
+ _Closing Remarks_
+##### Scientific Workshop on Germline Predisposition to Hematopoietic Malignancies and Bone Marrow Failure
+**Friday, December 5, 2025, 3:00 p.m. - 6:00 p.m.**
+Co-Chairs:
+Lucy A. Godley, MD, PhD  
+Northwestern University  
+Chicago, IL[  
+](
+Marcin Wlodarski, MD, PhD  
+St. Jude Children's Research Hospital  
+Memphis, TN  
+marcin.wlodarski@stjude.org
+Germline variants conferring susceptibility to hematopoietic malignancies (HMs) and bone marrow failure (BMF) are now recognized to occur far more frequently than previously assumed. Current clinical guidelines strongly advocate for assessing germline predisposition in these conditions. Although identified genes have revealed novel molecular pathways crucial for hematopoiesis and tumorigenesis, the precise mechanisms underlying these disorders remain incompletely understood. 
+This workshop will feature four strategic sessions: two overarching sessions exploring disease models/mechanisms and emerging discoveries across the field, and two focused sessions dedicated to DNA repair defects and ribosomopathies. 
+By attending this workshop, attendees will gain comprehensive insight into this increasingly captivating topic (which is minimally covered at the annual meeting), while engaging in stimulating debate.
+Target Audience:
+International investigators who are actively studying HMs and BMF, trainees, and clinicians.
+Objectives:
+  * Discuss ongoing research efforts in germline predisposition disorders.
+  * Address disease models and mechanisms that bridge fundamental science with clinical applications, with two focused sessions on DNA repair defects and ribosomopathies.
+  * Strengthen existing and develop new international collaborations in these diseases..
+###  Workshop Schedule
+  
+### Opening Remarks
+**3:00 p.m. - 3:05 p.m.****, OCCC - W307**
+#### Session Description
+#### **Speaker:**
+Marcin W Wlodarski, MD, PhD  
+St. Jude Children's Research Hospital  
+ _Opening Remarks_
+### Disease Models and Mechanisms: Bridging the Gap
+**3:06 p.m. - 3:48 p.m.****, OCCC - W307**
+#### Session Description
+#### **Moderators:**
+Ryan Stubbins, MD, MSc, FRCPC  
+University of British Columbia
+Gina Keiffer, MD  
+Sidney Kimmel Comprehensive Cancer Center, Jefferson Health
+#### **Speakers:**
+Gina Keiffer, MD  
+Sidney Kimmel Comprehensive Cancer Center, Thomas Jefferson University  
+ _Moderator Introduction_
+Simona Colla, PhD  
+The University of Texas MD Anderson Cancer Center  
+ _U2AF1S34 Mutations Activate Telomerase to Overcome Telomere Dysfunctions in Patients with Telomere Biology Disorders_
+Melvin Thomas, PhD  
+St. Jude Children's Research Hospital  
+ _Characterizing the in Vivo Impact of Inflammation on Mutant Samd9l Hematopoietic Phenotypes_
+Stanley Lee, PhD  
+Fred Hutch  
+ _Uncovering the Pathogenic Mechanisms of_ DDX41 _Mutations in Myeloid Malignancies_
+Ayana Kon, MD, PhD  
+Univ.Tokyo Kyoto Univesity Dept.Pathology and Tumor Biology  
+ _Mechanistic Insights into Biallelic and Monoallelic_ DDX41 _Mutations in Myeloid Neoplasms_
+Sharon Singh, MD  
+University Of Michigan  
+ _The Mechanism of Defective Erythropoiesis in DBA Syndrome_
+Elif Cenik, PhD  
+University of Texas  
+ _Differential Impacts of Ribosomal Protein Haploinsufficiency on Mitochondrial Function_
+Neha Prasad, PhD  
+Cleveland Clinic  
+ _Activation of Stress-Activated Protein Kinase in Bone Marrow Failure Ribosomopathies_
+### Ribosomopathies: From Diamond-Blackfan Anemia to Shwachman-Diamond Syndrome and Beyond
+**3:49 p.m. - 4:35 p.m.****, OCCC - W307**
+#### Session Description
+#### **Moderators:**
+Alan John Warren, PhD, FRCP, FRCPath   
+University of Cambridge
+Lucy C. Fox, MBBS BCom/BSc DMedSci FRACP FRCPA   
+Peter MacCallum Cancer Centre
+#### **Speakers:**
+Alan John Warren, PhD, FRCP, FRCPath   
+University of Cambridge  
+ _Moderator Introduction_
+Alyssa Cull, PhD  
+University of York  
+ _Emerging Genetic Technologies Inform Personalized Medicine Approaches in Shwachman-Diamond Syndrome_
+Sarada Ketharnathan, PhD  
+CHEO Research Institute  
+ _Leveraging Metabolic Alterations for the Development of Pre-Emptive Leukemia Therapies in Dyskeratosis Congenita and Shwachman-Diamond Syndrome_
+Felicia Andresen, MD  
+Boston Children's Hospital  
+ _Concordance Of Somatic Genetic Testing in Blood Vs. Bone Marrow in Shwachman-Diamond Syndrome_
+Alexis Bertrand, PhD  
+Feinstein Institutes for Medical Research  
+ _Beyond Translation: Non-Overlapping Roles for Ribosomal Proteins in the Control of Hematopoiesis_
+Jonathan Roelof Adriaan de Wilde, PhD  
+UMC Utrecht  
+ _Activation Of Pyruvate Kinase by Mitapivat Potentially Rescues Ineffective Erythropoiesis in Models of Diamond Blackfan Anemia_
+### DNA Repair Defects and Germline Predisposition
+**4:35 p.m. - 5:12 p.m.****, OCCC - W307**
+#### Session Description
+#### **Moderators:**
+Agata Pastorczak, MD, PhD  
+Medical University of Lodz
+Simone Feurstein, MD  
+University Hospital Heidelberg
+#### **Speakers:**
+Agata Pastorczak, MD, PhD  
+Medical University of Lodz  
+ _Moderator Introduction_
+Santiago Thibaud, MD  
+Icahn School of Medicine at Mount Sinai  
+ _Germline Predisposition in Plasma-Cell Disorders: From Clinical Detection to Mechanistic Insights_
+Harry Layton Lesmana, MD  
+Cleveland Clinic  
+ _Biallelic Germline ATR Variants Associated with Bone Marrow Failure, Neurodevelopmental Delay, and T-ALL without Classic Seckel Syndrome Features_
+Gary Kupfer, MD  
+Lombardi Comprehensive Cancer Center, Georgetown University  
+ _FANCD2-FANCI Interaction with Motor Proteins and Mechanisms of DNA Repair_
+Maria Gabarros-Subira, MD  
+Hospital Universitari Vall d’hebron  
+ _Germline Predisposing Variants Play a Predominant Role in Donor-Cell Derived Hematologic Neoplasms: a National Study_
+Jasmine Salem, MHA  
+Johns Hopkins University School of Medicine  
+ _Clinical Indications and Diagnostic Yield for Telomere Length Testing For 8,364 Patients Over 8 Years in a US-Based Reference Lab_
+Peng Li, MD, PhD  
+University of Utah  
+ _Genetic And Clinical Landscape of Cytopenia in Adults with Late-Onset Telomere Biology Disorders and Interstitial Lung Disease_
+### Emerging Discoveries in Germline Predisposition
+**5:12 p.m. - 5:55 p.m.****, OCCC - W307**
+#### Session Description
+#### **Moderators:**
+Yael Kusne, MD, PhD  
+Mayo Clinic Arizona
+Lara Wahlster, MD, PhD  
+Boston Children’s Hospital
+#### **Speakers:**
+Yael Kusne, MD, PhD  
+Mayo Clinic Arizona  
+ _Moderator Introduction_
+Francesca Fioredda, MD  
+IRCCS Istituto Giannina Gaslini  
+ _Longitudinal Evaluation of Clonal Hematopoiesis in Bone Marrow Failure and Primary Immunedysregulation Disorders: Single Center Preliminary Data_
+Helen Papadaki, MD  
+University of Crete and University Hospital of Heraklion  
+ _Deficiency of Adenosine Deaminase 2 (ADA2) associated with Chronic Severe Neutropenia in adulthood_
+Alan Cantor, MD, PhD  
+Boston Children's Hospital  
+ _Megakaryocyte TP53 Activation in ANKRD26-Related Thrombocytopenia and Leukemia Predisposition_
+Sara Torres-Esquius, CGC  
+Vall d'Hebron University Hospital  
+ _Early Hematopoietic Changes in Germline ETV6_
+Terra Lasho, PhD  
+Mayo Clinic  
+ _Blood Microbiome as a Novel Biomarker for Clonal Evolution in Patients with_ RUNX1 _FPD_
+Rialnat A Lawal, MD, PhD  
+National Institutes of Health  
+ _FPDMM Patients Exhibit Telomere Shortening_
+Aishwarya Sahasrabudhe, Ph.D.  
+OHSU Knight Cancer Institute  
+ _A Pilot Clinical Study of Low-Dose Sirolimus to Increase Hematopoietic Function in Patients with_ RUNX1 _FPD_
+### Closing Remarks
+**5:56 p.m. - 6:00 p.m.****, OCCC - W307**
+#### Session Description
+#### **Speaker:**
+Lucy Godley, MD, PhD  
+Northwestern University  
+ _Closing Remarks_
+##### Scientific Workshop on Host Factors in Cell and Gene Therapy: Impact on Efficacy and Toxicity
+**Friday, December 5, 2025, 3:00 p.m. - 6:00 p.m.**
+_Organized in collaboration with the Society for Immunotherapy of Cancer (SITC)_
+Co-Chairs:
+Marina Cavazzana, MD, PhD   
+Hopital Necker - Enfants Malades   
+Paris, France   
+m.cavazzana@aphp.fr
+Marco Ruella, MD   
+University of Pennsylvania   
+Philadelphia, PA   
+mruella@upenn.edu
+Overview:
+This ASH-SITC joint workshop will explore how host factors — such as metabolism, diet, microbiome, genetics, aging, sex, obesity, and immune status — shape the efficacy and toxicity of cell and gene therapies across hematologic malignancies, solid tumors, and disorders. The sessions will examine how these factors influence treatment response, durability, and adverse effects, with a focus on chimeric antigen receptor T-cell therapy, bispecific antibodies, and gene therapies. Discussions will address resistance mechanisms, toxicity mitigation, and strategies to optimize patient selection and therapeutic outcomes.
+Target Audience:
+Researchers, clinicians, regulatory experts, and industry stakeholders committed to overcoming barriers in clinical cell and gene therapy development for non-malignant and malignant hematologic disease. 
+Objectives:
+  * Discuss mechanisms by which baseline host factors influence cell manufacturing, vector entry, immune activation, and therapeutic efficacy.
+  * Examine strategies to mitigate immunotoxicity and genotoxicity, and screening protocols for genetic predispositions.
+  * Share insights into next-generation approaches that improve therapeutic efficacy.
+  * Explore innovative approaches to address variability in gene-modified cell performance and optimize approaches and procedures for better clinical outcome
+###  Workshop Schedule
+  
+### Opening Remarks
+**3:00 p.m. - 3:05 p.m.****, OCCC - W304ABCD**
+#### Session Description
+#### **Speaker:**
+Marina Cavazzana, MD  
+Hôpital Necker  
+ _OPENING REMARKS_
+### The Evolving Role Of Exercise, Obesity, Microbiome, And Diet In Cancer Immunotherapy
+**3:05 p.m. - 4:31 p.m.****, OCCC - W304ABCD**
+#### Session Description
+#### **Moderators:**
+Marina Cavazzana, MD
+Marco Ruella I, MD
+#### **Speakers:**
+Marina Cavazzana, MD  
+Hôpital Necker  
+ _Moderator Introduction_
+Melody Smith, MD,MS  
+Stanford University  
+ _Microbiome and Diet and Cancer Immunotherapy_
+Kai Rejeski, MD  
+LMU University Hospital  
+ _Obesity and Cancer Immunotherapy_
+Richard Simpson, PhD FACSM  
+The University of Arizona  
+ _Exercise and Cancer Immunotherapy_
+Marina Cavazzana, MD  
+Hôpital Necker  
+ _Panel Discussion/Q &A_
+### The Evolving Role Of Sex, Inflammation And Aging In Cancer Immunotherapy
+**4:31 p.m. - 5:57 p.m.****, OCCC - W304ABCD**
+#### Session Description
+#### **Moderators:**
+Marco Ruella I, MD
+Marina Cavazzana, MD
+#### **Speakers:**
+Marina Cavazzana, MD  
+Hôpital Necker  
+ _Moderator Introduction_
+Marco Ruella I, MD  
+University of Pennsylvania  
+ _Sex and Cancer Immunotherapy_
+Emmanuelle Six, PhD  
+Imagine Institute, INSERM UMR 1163, Université Paris Cité  
+ _Inflammation and Gene Therapy_
+Sarwish Rafiq, PhD  
+Emory University School of Medicine  
+ _Aging and Cancer Immunotherapy_
+Marina Cavazzana, MD  
+Hôpital Necker  
+ _Panel Discussion/Q &A_
+### Closing Remarks
+**5:57 p.m. - 6:00 p.m.****, OCCC - W304ABCD**
+#### Session Description
+#### **Speaker:**
+Marina Cavazzana, MD  
+Hôpital Necker  
+ _CLOSING REMARKS_
+##### Scientific Workshop on Interplay between Coagulation and Malignancy
+**Friday, December 5, 2025, 3:00 p.m. - 6:00 p.m.**
+Co-Chairs:
+Lisa Baumann Kreuziger, MD  
+Versiti Blood Research Institute  
+Milwaukee, WI   
+lisakreuziger@versiti.org
+Jeffrey Zwicker, MD  
+Memorial Sloan Kettering Cancer Center   
+New York, NY   
+zwickerj@mskcc.org
+Venous thromboembolism (VTE) is the second leading cause of death in patients with cancer, and cancer patients are the highest risk group for developing VTE. Despite considerable epidemiologic research, the mechanism of thrombosis in cancer is poorly understood. This workshop will provide a unique forum to discuss the mechanisms of thrombosis in hematologic malignancies, a topic that bridges malignant and non-malignant hematology within ASH.
+Target Audience:
+Basic scientists and researchers interested in the mechanisms of thrombosis in cancer patients and how thrombosis may influence the progression of cancer. Clinical researchers may benefit from the workshop to understand the mechanisms of disease and identify potential collaborations. Early career and senior investigators will be encouraged to facilitate mentoring opportunities. 
+Objectives:
+  * Provide a unique forum to discuss the latest scientific developments in cancer and thrombosis. 
+  * Enhance current collaborations, develop new collaborations, and provide opportunities for interaction between early-career and established investigators in cancer and thrombosis.
+###  Workshop Schedule
+  
+### Opening Remarks
+**3:00 p.m. - 3:04 p.m.****, OCCC - W304EFGH**
+#### Session Description
+#### **Speaker:**
+Lisa Baumann Kreuziger I, MD, MS  
+Versiti Blood Research Institute  
+ _Opening Remarks_
+### Role of Coagulation in Cancer Progression
+**3:04 p.m. - 4:14 p.m.****, OCCC - W304EFGH**
+#### Session Description
+#### **Moderator:**
+Lisa Baumann Kreuziger I, MD, MS  
+Versiti Medical Sciences Institute
+#### **Speakers:**
+Lisa Baumann Kreuziger I, MD, MS  
+Versiti Blood Research Institute  
+ _Moderator Introductions_
+Matthew Flick, PhD  
+UNC Blood Research Center  
+ _uPA/uPAR and tPA to the Pathogenesis of Pancreatic Cancer_
+Anthony Sloan, PhD  
+Cleveland Clinic  
+ _Sex Differences in PAR4 Signaling Influencing Glioblastoma Growth_
+Francesca Ferraresso, PhD  
+University of British Columbia  
+ _Targeting PAI-1 in Glioblastoma and Aging_
+Lisa Baumann Kreuziger I, MD, MS  
+Versiti Blood Research Institute  
+ _Panel Discussion/Q &A_
+### Pathophysiology and Prediction of Thrombosis in Patients with Cancer
+**4:14 p.m. - 5:45 p.m.****, OCCC - W304EFGH**
+#### Session Description
+#### **Moderators:**
+Jeffrey Zwicker, MD  
+Memorial Sloan Kettering Cancer Center
+Marina Marchetti, PhD  
+Immunohematology and Transfusion Medicine, Hospital Papa Giovanni XXIII
+#### **Speakers:**
+Marina Marchetti, PhD  
+Hospital Papa Giovanni XXIII Bergamo  
+ _Moderator Introductions_
+Keith McCrae, MD  
+Cleveland Clinic  
+ _Mechanisms of Immune Checkpoint Inhibitor Causing Thrombosis_
+Serena Lucotti, PhD  
+Weill Cornell Medicine  
+ _Role of Extracellular Vesicles and Lung Macrophages in CAT_
+Carolyn Haller, PhD  
+Beth Israel Deaconess Medical Center  
+ _P-Selectin Inhibition Reduces Thromboinflammation in a Pancreatic Cancer Xenograft Model_
+Saran Lotfollahzadeh, MD, MMSc  
+Boston University School of Medicine  
+ _Tryptophan Upregulation of Coagulation Factors Promotion Cancer Associated Thrombosis_
+Alan Aberdeen, MS  
+Ground Truth Labs  
+ _Prediction of Thrombosis From Bone Marrow Pathology_
+Marina Marchetti, PhD  
+Hospital Papa Giovanni XXIII Bergamo  
+ _Panel Discussion/Q &A_
+### Closing Remarks
+**5:45 p.m. - 6:00 p.m.****, OCCC - W304EFGH**
+#### Session Description
+#### **Speaker:**
+Lisa Baumann Kreuziger I, MD, MS  
+Versiti Blood Research Institute  
+ _CLOSING REMARKS_
+##### Scientific Workshop on Mitochondria and Metabolism in Blood Cancer and Normal Hematopoiesis- From Discovery to Patients
+**Friday, December 5, 2025, 3:00 p.m. - 6:00 p.m.**
+Co-Chairs:
+Aaron Schimmer, MD, PhD   
+Princess Margaret Cancer Centre   
+Toronto, Canada   
+aaron.schimmer@uhn.ca 
+Sarah Skuli, MD, PhD  
+University of Pennsylvania   
+Philadelphia, PA   
+sarah.skuli@pennmedicine.upenn.edu
+Mitochondrial and metabolic pathways play an important role in the pathogenesis of blood cancers. In addition, they represent a biological vulnerability that can be targeted therapeutically in some patients. This workshop will bring together a multidisciplinary group of researchers to discuss mitochondrial pathways and metabolism in blood cancers with the goal of facilitating collaborations between investigators from diverse fields who would likely not otherwise interact. 
+The workshop will feature sessions on:
+  * Fundamental discoveries in mitochondria and metabolism, including research in model organisms, as they relate to blood cancer and normal hematopoiesis.
+  * Translational research – Preclinical studies of novel mitochondrial and metabolic targets for the treatment of hematologic malignancies.
+  * Clinical research – Clinical trials of novel therapies targeting mitochondrial and metabolic pathways.
+Target Audience:
+Basic scientists, translational researchers, and clinician investigators studying mitochondrial pathways and metabolism in the lab and/or clinic. 
+Objectives:
+  * Highlight fundamental discoveries in metabolism that shed light on clinically relevant problems in blood cancer. 
+  * Compare and contrast mitochondrial pathways and metabolism between normal hematopoiesis and blood cancer.
+  * Identify targets in metabolism whose inhibition or activation would preferentially eradicate malignant cells.
+###  Workshop Schedule
+  
+### Opening Remarks
+**3:00 p.m. - 3:05 p.m.****, OCCC - W414AB**
+#### Session Description
+#### **Speaker:**
+Aaron Schimmer, MD PhD  
+Princess Margaret Cancer Centre, University of Toronto  
+ _Opening Remarks_
+### Mitochondria and Metabolism - Fundamental Discovery
+**3:05 p.m. - 4:00 p.m.****, OCCC - W414AB**
+#### Session Description
+#### **Moderator:**
+Maria Laura Amaya, MD PhD  
+University of Colorado
+#### **Speakers:**
+Maria Laura Amaya, MD PhD  
+University of Colorado  
+ _Moderator Introduction_
+Nicola Vannini, PhD  
+University of Fribourg  
+ _The Metabolism of Immune Aging_
+Jose A Cancelas, MD, PhD  
+Dana-Farber Cancer Institute  
+ _Mitochondrial Dependencies of Normal Hematopoiesis_
+Maria Laura Amaya, MD PhD  
+University of Colorado  
+ _Panel Discussion/Q &A_
+### Translational Research - Targeting Mitochondria and Metabolism in Cancer
+**4:05 p.m. - 5:05 p.m.****, OCCC - W414AB**
+#### Session Description
+#### **Moderator:**
+Chris Halsey, MD, PhD  
+University of Glasgow
+#### **Speakers:**
+Chris Halsey, MD, PhD  
+University of Glasgow  
+ _Moderator Introduction_
+Michaela Reagan, PhD  
+MaineHealth  
+ _Obesity and Adipocytes in Multiple Myeloma from Biology to Therapy_
+Jeevisha Bajaj, PhD  
+University of Rochester Medical Center  
+ _Metabolic Vulnerabilities of Leukemic Stem Cells_
+Chris Halsey, MD, PhD  
+University of Glasgow  
+ _Panel Discussion/Q &A_
+### Mitochondria and Metabolism - Clinical Trials
+**5:05 p.m. - 5:55 p.m.****, OCCC - W414AB**
+#### Session Description
+#### **Moderator:**
+Marina Konopleva Jr, MD, PhD  
+Montefiore Einstein Comprehensive Cancer Center
+#### **Speakers:**
+Marina Konopleva Jr, MD, PhD  
+Montefiore Einstein Comprehensive Cancer Center  
+ _Moderator Introduction_
+Takeshi Fujino, MD, PhD  
+Sloan Kettering Institute  
+ _Mitochondrial Transplantation For The Treatment of MDS_
+Ashkan Emadi, MD, PhD  
+Department of Medical Oncology, WVU School of Medicine WVU Cancer Institute  
+ _Cutting Glutamine, Halting Translation: A Metabolic Therapy in Blood Cancer_
+Marina Konopleva Jr, MD, PhD  
+Montefiore Einstein Comprehensive Cancer Center  
+ _Panel Discussion/Q &A_
+### Closing Remarks
+**5:55 p.m. - 6:00 p.m.****, OCCC - W414AB**
+#### Session Description
+##### Scientific Workshop on Myeloid Development
+**Friday, December 5, 2025, 3:00 p.m. - 7:00 p.m.**
+Co-Chairs:
+Patricia Ernst, PhD  
+University of Colorado Denver  
+patricia.ernst@cuanschutz.edu
+Ulrich Steidl, MD, PhD   
+Albert Einstein College of Medicine  
+ulrich.steidl@einsteinmed.edu
+The workshop will cover the basic science of myeloid development or pathophysiology. While individual talks can and will have more translational components, there will be no presentations primarily focused on clinical strategies. The presentations will highlight tools and concepts from molecular and cellular biology, biochemistry, bioinformatics, animal models, and study of human samples to address key topics in myeloid biology. Talks will feature emerging data from cutting-edge research groups at all stages expected to have a broad and lasting impact on the field. 
+Active discussion is encouraged, and participants are expected to present and discuss the latest unpublished advances in normal and malignant myeloid biology.
+This workshop will only be available to people who attend the annual meeting in person and will not be live streamed to a virtual audience. A recording of the workshop will be available at the conclusion of the workshop on the virtual meeting platform until 11:59 p.m., Pacific time, on January 1.
+Target Audience:
+Laboratory-based and translational investigators, including trainees, with many interests surrounding normal and pathological myeloid/stem cell biology. 
+Objectives:
+  * Provide a venue for early-career and established investigators to present their newest cutting-edge science to the myeloid community. 
+  * Offer an opportunity for informal discussion and feature late-breaking science. Provide trainees with a chance to hear new scientific concepts and to meet leaders in our field. 
+  * Highlight emerging new concepts in myeloid biology that have the potential to broadly impact hematology. 
+###  Workshop Schedule
+  
+### Opening Remarks
+**3:00 p.m. - 3:05 p.m.****, OCCC - W314**
+#### Session Description
+#### **Speaker:**
+Patricia Ernst, PhD  
+University of Colorado Medical School  
+ _Opening Remarks_
+### Stem Cell Biology
+**3:05 p.m. - 3:56 p.m.****, OCCC - W314**
+#### Session Description
+#### **Moderator:**
+Eric Pietras, PhD  
+University of Colorado
+#### **Speakers:**
+Eric Pietras, PhD  
+University of Colorado   
+_Moderator Introduction_
+Peter van Galen, PhD  
+Brigham and Women's Hospital, Harvard Medical School, Broad Institute of MIT and Harvard  
+ _An Inflammatory and Quiescent HSC Subset Expands with Age in Humans_
+Katherine Y. King, MD PhD  
+Texas Children’s Hospital  
+ _Asxl1 Mutant Cells Suppress Dnmt3a Mutant Clonal Expansion_
+Sandra Pinho, PhD  
+University of Illinois Chicago  
+ _Megakaryocyte-Derived PF4 as a Dual Regulator of Hematopoietic and Leukemic Stem Cells_
+Shu-Chi Yeh, PhD  
+University of Rochester  
+ _Local Bone Remodeling Shapes Hematopoietic Stem Cell (HSC)- Macrophage Interactions and Compartmentalized HSC Expansion under Inflammatory Stress_
+Vikram Paralkar, MD, PhD  
+University of Pennsylvania Perelman School of Medicine  
+ _Live Cell Single Molecule Imaging Reveals That CEBPA Promotes RNA Polymerase I Activity and rRNA Transcription in Acute Myeloid Leukemia_
+### Transcription and Epigenetics
+**3:56 p.m. - 4:47 p.m.****, OCCC - W314**
+#### Session Description
+#### **Moderator:**
+Daniel Tenen, MD
+#### **Speakers:**
+Kathrin Bernt, MD  
+Children's Hospital of Philadelphia  
+ _Moderator Introduction_
+Daniel Tenen, MD  
+Harvard Stem Cell Institute  
+ _Genome-Wide Methylation Sensitive Elements (Mesas) Are Targetable Regulatory Elements For Controllable Gene Activation_
+Dirk Loeffler, PhD  
+St. Jude Children's Research Hospital  
+ _CellPolariS: A Novel Tool to Quantify Cell Polarity Reliably at Scale in Fixed and Living Cells_
+Issay Kitabayashi, PhD  
+Fujita Health University  
+ _Mutant NPM1 Forms a Dynamic Dimer that Regulates TIP60-Mediated Chromatin Modification and CTCF-Driven Genome Organization in Acute Myeloid Leukemia_
+Hannah Julia Uckelmann, PhD  
+Goethe University Frankfurt  
+ _Targeting the Nuclear Function of NPM1c_
+Amittha Wickrema, PhD  
+University of Chicago  
+ _Inhibition of TET2 Phosphorylation Activates Fetal Hemoglobin in Sickle Cell Disease_
+### Break
+**4:47 p.m. - 5:13 p.m.****, OCCC - W314**
+#### Session Description
+### Signaling and Developmental Hematopoiesis
+**5:13 p.m. - 6:04 p.m.****, OCCC - W314**
+#### Session Description
+#### **Moderator:**
+Kira Gritsman, MD, PhD  
+Albert Einstein College of Medicine
+#### **Speakers:**
+Kira Gritsman, MD, PhD  
+Albert Einstein College of Medicine  
+ _Moderator Introduction_
+Raquel Espin Palazon, PhD  
+Iowa State University  
+ _Synergistic Cooperation Between Progranulin and Jak2/Stat3 Signaling Determines Definitive Myeloid Cell Fate_
+Anupriya Agarwal, PhD  
+The Knight Cancer Institute Oregon Health and Science University  
+ _Inflammatory Stress as a Driver of Increased Fitness and Myeloid Bias of Progenitors in_ RUNX1 _-Familial Platelet Disorder_
+Stavroula Kousteni, PhD  
+Columbia University Medical Center  
+ _Inflammatory Osteoblast-Derived SAA1 Promotes Stemness and Progression in MDS-and-AML_
+Shannon M. Buckley, PhD  
+University of Utah  
+ _FBXO21 Mediated p85alpha Ubiquitylation as a Therapeutic Target in Acute Myeloid Leukemia_
+Rebekka Schneider, MD, PhD  
+University Hospital RWTH Aachen  
+ _Rewiring of Stromal–Immune Signaling Networks During Fibrosis Reversal in Human Myelofibrosis_
+### Myeloid Malignancies
+**6:04 p.m. - 6:55 p.m.****, OCCC - W314**
+#### Session Description
+#### **Moderator:**
+Zuzana Tothova, PhD, MD  
+Dana-Farber Cancer Institute
+#### **Speakers:**
+Zuzana Tothova, PhD, MD  
+Dana-Farber Cancer Institute  
+ _Moderator Introduction_
+Olga A Guryanova, MD, PhD  
+University of Florida Health Cancer Institute  
+ _Clonal Hematopoiesis-Related Loss of Dnmt3a Deregulates Trained Immunity to Alter Cancer Control_
+Sydney Xin-Li Lu, MD, PhD  
+Stanford University  
+ _Novel Therapeutics For_ SF3B1 _Mutant Cancers Which Exploit The Missplicing of DCAF16_
+John Crispino, PhD  
+St. Jude Children's Research Hospital  
+ _Cohesin mutations suppress HLA Class II gene expression in the myeloid leukemia of Down syndrome_
+Satish Nandakumar, MBBS, PhD  
+Albert Einstein College of Medicine  
+ _Systematic Functional Dissection of Germline Noncoding Risk Variants Impacting Clonal Hematopoiesis_
+Maria Maryanovich, PhD  
+Albert Einstein College of Medicine  
+ _Adrenergic Nerve Loss Promotes ROS-Driven Immune Suppression in the Leukemic Bone Marrow Niche_
+### Closing Remarks
+**6:55 p.m. - 7:00 p.m.****, OCCC - W314**
+#### Session Description
+#### **Speaker:**
+Ulrich Steidl, MD, PhD  
+Albert Einstein College of Medicine  
+ _CLOSING REMARKS_
+##### Scientific Workshop on State of the Art: Integrating Functional and Genomic Precision Medicine for Hematologic Malignancies
+**Friday, December 5, 2025, 3:00 p.m. - 6:00 p.m.**
+Co-Chairs:
+Pamela S. Becker, MD, PhD   
+City of Hope   
+Duarte, CA   
+pbecker@coh.org
+Jun J. Yang, PhD   
+St. Jude Children’s Research Hospital   
+Memphis, TN   
+jun.yang@stjude.org
+Initially, personalized medicine was solely focused on genomics, and patients in large trials were treated based on individual mutations. However, success was limited, likely because of the presence of multiple mutations and innate or adaptive drug resistance. In a global effort, investigators have developed sophisticated functional assays for testing drug sensitivity, and these advances have led to predictive algorithms for patient response. Combining the data from extensive genomic and functional analysis holds great promise for expanding the reach of precision medicine for blood cancers. This approach has been particularly useful for patients with primary refractory or multiply relapsed disease, or rare conditions for which there are less data to drive treatment selection. The workshop will cover aspects of resistance to therapy in blood disorders, focusing on non-genetic molecular mechanisms such as epigenetic, epitranscriptomic, and metabolic aspects and their potential interaction with genetic alteration. Platforms allowing the comparison between diagnosis and relapsed samples, or relapse-promoting mechanisms existing at diagnosis and potential therapeutic intervention, will be discussed.
+Given these rapid advances in genomic and functional precision medicine, with remarkable recent achievement of clinical predictability demonstrated in ongoing clinical trials, this workshop will address the promise and continued challenges of a fast-growing field, both technically and scientifically.
+Target Audience: 
+Laboratory scientists, translational researchers and clinical investigators studying drug therapy and target identification in hematologic malignancies and interested in novel approaches to personalized medicine.
+Objectives:
+  * Educate participants on the rationale for combined genomic and functional precision medicine (especially in contrast to the genomics-centric paradigm), the methodology for drug sensitivity phenotyping for both inter- and intra-leukemia heterogeneity, and the clinical interpretation of  _ex vivo_ drug response.
+  * Describe computational biology and systems biology approaches used for data analysis and correlations of functional data with the results of multi-omic profiles to predict response.
+  * Discuss clonal evolution of cancers and how it impacts and informs drug sequencing, dosing, and resistance.
+  * Provide a platform for robust discussion on the value of the combination of genomic and functional precision medicine in blood cancers.
+###  Workshop Schedule
+  
+### Opening Remarks
+**3:00 p.m. - 3:05 p.m.****, OCCC - W308**
+#### Session Description
+#### **Speaker:**
+Pamela S. Becker, MD, PhD  
+City of Hope  
+ _Opening Remarks_
+### Current Methodology for Functional Drug Screening
+**3:05 p.m. - 4:40 p.m.****, OCCC - W308**
+#### Session Description
+#### **Moderator:**
+Jun J. Yang, PhD  
+St. Jude Children's Research Hospital
+#### **Speakers:**
+Jun J. Yang, PhD  
+St. Jude Children's Research Hospital  
+ _Moderator Introduction_
+Tea Pemovska, PhD  
+Medical University of Vienna  
+ _Rethinking How We Treat Disease Through High-Throughput Drug Response Phenotyping_
+Heikki Kuusanmäki, PhD  
+University of Helsinki  
+ _High Throughput Multiparameter Flow Cytometry and Intra-Leukemia Heterogeneity in Drug Response_
+Patrick Bhola, PhD  
+Dana-Farber Cancer Institute  
+ _Apoptosis-Priming as a Measurement of Drug Sensitivity_
+Adam Palmer, PhD  
+The University of North Carolina at Chapel Hill  
+ _Drug Combinations and Synergy_
+Alex Dahmani, PhD  
+Exvivo Labs Inc  
+ _How to Define Response: The Drug Sensitivity Score_
+Jun J. Yang, PhD  
+St. Jude Children's Research Hospital  
+ _Panel Discussion: Can We Harmonize Drug Response Criteria_
+### Response Prediction and Clonal Evolution
+**4:50 p.m. - 5:55 p.m.****, OCCC - W308**
+#### Session Description
+#### **Moderator:**
+Mika Kontro, MD, PhD  
+Institute for Molecular Medicine
+#### **Speakers:**
+Mika Kontro, MD, PhD  
+Helsinki University Hospital  
+ _Moderator Introduction_
+Guangrong Qin, PhD  
+Institute for Systems Biology  
+ _Systems Biology and Machine Learning to Predict Response_
+Jack Kuipers, PhD  
+ETH Zurich  
+ _Modeling Clonal Evolution to Optimize Prognostic Stratification and Therapy_
+Timothy Ley, MD  
+Washington University in St. Louis  
+ _AML Mutation Clearance after Induction: an Integrated Genomic Approach to Define Subclonal Responses to Therapy_
+Mika Kontro, MD, PhD  
+Helsinki University Hospital  
+ _Panel Discussion: Integration of Functional and Genomic Precision Medicine, are we there yet?_
+### Closing Remarks
+**5:55 p.m. - 6:00 p.m.****, OCCC - W308**
+#### Session Description
+#### **Speaker:**
+Jeffrey Tyner, PhD  
+Oregon Health and Science University  
+ _Closing Remarks_
+##### Scientific Workshop on Therapy Resistance Mechanisms in Blood Malignancies
+**Friday, December 5, 2025, 3:00 p.m. - 6:00 p.m.**
+Co-Chairs:
+Panagiotis Ntziachristos, PhD  
+Ghent University   
+Ghent, Belgium   
+panagiotis.ntziachristos@ugent.be
+Christina Glytsou, PhD  
+Rutgers University   
+Piscataway, NJ   
+cg1006@pharmacy.rutgers.edu
+Daniel Starczynowski, PhD  
+Cincinnati Children’s Hospital Medical Center   
+Cincinnati, OH   
+daniel.starczynowski@cchmc.org
+Resistance to therapy poses a significant obstacle to the successful treatment of blood disorders. Despite advances in targeted therapies, the underlying mechanisms driving therapy resistance — both preexisting and acquired — are not fully understood. This workshop will address this critical challenge by exploring the complex molecular landscape that contributes to drug resistance in hematological malignancies. This workshop will bring together leading scientists and clinicians to discuss the latest updates in both genetic and non-genetic molecular mechanisms, including epigenetic, epitranscriptomic, translational, post-translation, and metabolic aspects, as well as their potential interaction. Cellautonomous or non-cell-autonomous mechanisms, as well as the dynamic interplay between tumor cells and their microenvironment, will be explored. 
+The workshop will also have a special focus on emerging model systems and machine-learning-based computational technologies that are revolutionizing our ability to monitor, predict, and reverse therapy resistance. Participants will gain a comprehensive understanding of the complexities of drug resistance and explore new avenues for therapeutic approaches. Lastly, this interdisciplinary workshop will serve as a forum for the exchange of ideas and collaboration among investigators from various fields. 
+Target Audience:
+Researchers and clinical investigators interested in the underlying causes of therapy resistance in blood disorders. Both early-career and experienced investigators are encouraged to participate to foster mentoring, networking, and collaboration. 
+Objectives:
+  * Help scientists working in the field of hematology understand mechanisms of resistance to therapy.
+  * Integrate various mechanisms of resistance. 
+  * Provide a forum of open discussion and exchange of ideas that will identify future research priorities towards the development of solutions to overcome therapy relapse. 
+  * Promote interdisciplinary collaboration and exchange of technologies. 
+###  Workshop Schedule
+  
+### Opening Remarks
+**3:00 p.m. - 3:01 p.m.****, OCCC - W414CD**
+#### Session Description
+#### **Speaker:**
+Panagiotis Ntziachristos, PhD  
+Ghent University  
+ _OPENING REMARKS_
+### Epigenetic And Chromatin Mechanisms
+**3:01 p.m. - 3:42 p.m.****, OCCC - W414CD**
+#### Session Description
+#### **Speakers:**
+Panagiotis Ntziachristos, PhD  
+Ghent University  
+ _Moderator Introduction_
+Kimberly Stegmaier, MD  
+Dana-Farber Cancer Institute  
+ _Identification of New Vulnerabilities in Therapy Resistance AML_
+Taishi Yonezawa, PhD  
+Baylor College of Medicine (BCM)  
+_Targeting Post-Translational Regulation of DNMT3A Offers a Promising Therapy for Clonal Hematopoiesis and Hematologic Malignancies_
+Aristotelis Tsirigos, PhD  
+NYU School of Medicine  
+ _Dissecting the Regulatory Landscape of Leukemias with Multi-Modal AI Models of Gene Regulation_
+Panagiotis Ntziachristos, PhD  
+Ghent University  
+ _Panel Discussion/Q &A_
+### Post-Transcriptional Mechanisms
+**3:43 p.m. - 4:24 p.m.****, OCCC - W414CD**
+#### Session Description
+#### **Moderator:**
+Lili Wang, MD, PhD  
+City of Hope
+#### **Speakers:**
+Lili Wang, MD, PhD  
+City of Hope  
+ _Moderator Introduction_
+Eric Wang, PhD  
+The Jackson Laboratory  
+ _Cytoplasmic QKI Isoforms Mediate Venetoclax Resistance in AML_
+Benson M. George, MD, PhD  
+DFCI  
+ _Identification and Therapeutic Targeting of Cell Surface RNA-Binding Proteins_
+Lili Wang, MD, PhD  
+City of Hope  
+ _Splicing Control in Leukemia and Beyond_
+Lili Wang, MD, PhD  
+City of Hope  
+ _Panel Discussion/Q &A_
+### Break
+**4:24 p.m. - 4:32 p.m.****, OCCC - W414CD**
+#### Session Description
+### Translational and Post-Translational Mechanisms
+**4:32 p.m. - 5:13 p.m.****, OCCC - W414CD**
+#### Session Description
+#### **Moderator:**
+Daniel Starczynowski, PhD
+#### **Speakers:**
+Daniel Starczynowski, PhD  
+Cincinnati Children's Hospital  
+ _Moderator Introduction_
+Anastasia Tikhonova, PhD  
+University Health Network  
+ _CXCR4 Blockade Suppresses Progression of Primary Cell T-Cell Acute Lymphoblastic Leukemia_
+Theodoros Karantanos, MD, PhD  
+Johns Hopkins University  
+ _Inflammatory Pathways Foster Treatment Resistance in Myeloid Neoplasms_
+Quinlan Sievers, MD, PhD  
+Memorial Sloan Kettering  
+ _Molecular and Structural Basis of Pan-Resistance to BTK Targeting Therapies via BTK A428D Mutation_
+Daniel Starczynowski, PhD  
+Cincinnati Children's Hospital  
+ _Panel Discussion/Q &A_
+### Metabolic Mechanisms and Mitochondria Biology
+**5:13 p.m. - 5:53 p.m.****, OCCC - W414CD**
+#### Session Description
+#### **Moderator:**
+Shruti Bhatt, PhD
+#### **Speakers:**
+Christina Mayerhofer, MD  
+MGH  
+ _OGFOD1 enables AML chemo- and nutrient stress resistance by regulating protein synthesis_
+Paolo Gallipoli, MD  
+Queen Mary University of London  
+ _Adipocytic niche protects AML cells from FLT3 inhibitor therapy by activating the PI3 kinase pathway and rescuing their central carbon metabolism_
+### Closing Remarks
+**5:54 p.m. - 6:00 p.m.****, OCCC - W414CD**
+#### Session Description
+#### **Speaker:**
+Daniel Starczynowski, PhD  
+Cincinnati Children's Hospital  
+ _CLOSING REMARKS_
+##### Scientific Workshop on Translational Diagnostics in MRD – NGS, ctDNA and Beyond
+**Friday, December 5, 2025, 3:00 p.m. - 6:00 p.m.**
+Co-Chairs:
+Piers Blombery, PhD, MBBS   
+Peter MacCallum Cancer Centre   
+Melbourne, VIC, Australia   
+piers.blombery@petermac.org
+Torsten Haferlach, MD, PhD   
+Munich Leukemia Laboratory   
+Munich, Germany   
+torsten.haferlach@mll.com 
+Ella Thompson, PhD   
+Peter MacCallum Cancer Centre   
+Melbourne, VIC, Australia   
+ella.thompson@petermac.org
+Wencke Walter, PhD   
+Munich Leukemia Laboratory   
+Munich, Germany   
+wencke.walter@mll.com
+Measurable residual disease (MRD) detection is rapidly becoming a central paradigm to direct the management of patients with hematological malignancy as evidenced by (i) clinical trials explicitly using MRD to direct therapeutic arms, (ii) international groups discussing the standardization and measurement of MRD, and (iii) the recognition of MRD as a surrogate endpoint. 
+This workshop will focus on technological advancements, development, and delivery of MRD in the clinical diagnostic setting. 
+Target Audience:
+Hematologists, oncologists, hematopathologists, clinical investigators (particularly those involved in clinical trial design), computational biologists/bioinformaticians, and medical/laboratory scientists. 
+Objectives:
+  * Present recent advancements in MRD/circulating tumor DNA (ctDNA) detection platforms, including novel approaches with a focus on diagnostic and practical implementation as well as their use in clinical trials. 
+  * Foster collaboration between pathologists, clinicians, and laboratory scientists to advance the translational implementation of novel MRD/ctDNA diagnostics. 
+  * Support current standardization efforts by facilitating discussion around ongoing efforts by international consortia and regulatory bodies to standardize MRD/ctDNA measurement, reporting, and clinical thresholds. 
+###  Workshop Schedule
+  
+### Opening Remarks
+**3:00 p.m. - 3:04 p.m.****, OCCC - W311ABCD**
+#### Session Description
+#### **Speaker:**
+Torsten Haferlach, PhD  
+MLL Munich Leukemia Laboratory  
+ _OPENING REMARKS_
+### Translating ctDNA MRD for Patients with B-Cell Lymphoma
+**3:04 p.m. - 4:23 p.m.****, OCCC - W311ABCD**
+#### Session Description
+#### **Moderators:**
+Wencke Walter, PhD
+Torsten Haferlach, PhD
+#### **Speakers:**
+Wencke Walter, PhD  
+MLL Munich Leukemia Laboratory  
+ _Moderator Introduction_
+Reid W Merryman, MD  
+Dana-Farber Cancer Institute  
+ _Personalized Whole-Genome Sequencing (WGS)-Based ctDNA Testing for B-cell Lymphoma_
+Heiko Mueller, PhD  
+MLL Munich Leukemia Laboratory  
+ _Rolling Reporters - A New Analytical Approach to Detect Clonal Evolution in ctDNA_
+Daniel Hodson, MD, PhD  
+Cambridge Stem Cell Institute   
+_The UK DIRECT Study; a Roadmap for ctDNA in Aggressive B-Cell Lymphoma_
+Steven Wang, MD  
+Amsterdam UMC  
+ _Prospective Validation of End-of-Treatment Circulating-Tumor DNA Measurable Residual Disease in First-Line Large B-Cell Lymphoma Patients_
+Mark Raymond Dowling, PhD  
+ _Monitoring ctDNA Through CAR T-cell Therapy For Aggressive Lymphoma in The Australian Real-World Setting For Early Identification of Failure and Interventional Clinical Trials_
+Torsten Haferlach, PhD  
+MLL Munich Leukemia Laboratory  
+ _Panel - Interactive ctDNA MRD Case Studies in B-Cell Lymphoma_
+### BREAK
+**4:23 p.m. - 4:38 p.m.****, OCCC - W311ABCD**
+#### Session Description
+### New Developments in Measurable Residual Disease for Patients with Acute Myeloid Leukemia
+**4:38 p.m. - 5:57 p.m.****, OCCC - W311ABCD**
+#### Session Description
+#### **Moderators:**
+Ella Thompson, PhD
+Piers Blombery, PhD  
+Peter MacCallum Cancer Centre
+#### **Speakers:**
+Ella Thompson, PhD  
+Peter MacCallum Cancer Centre  
+ _Moderator Introduction_
+Michael Heuser, MD  
+Martin-Luther-University Halle-Wittenberg  
+ _ELN-DAVID Working Party Activities on AML MRD - What Is Coming?_
+Laura Dillon, PhD  
+Virginia Tech FBRI Cancer Research Center  
+ _Measurable Residual FLT3 Internal Tandem Duplication in Acute Myeloid Leukemia_
+Linde A Miles, PhD  
+Cincinnati Children's Hospital Medical Center  
+ _Single Cell Proteogenomics for AML MRD?_
+R. Coleman Lindsley, MD, PhD  
+Dana-Farber Cancer Institute  
+ _Integrating Serial Molecular Quantification in MDS/AML_
+Sun Loo, MD  
+The Alfred Hospital and Northern Hospital  
+ _Clinical Application of MRD-Directed Therapy_
+Ella Thompson, PhD  
+Peter MacCallum Cancer Centre  
+ _Panel - Interactive Case Studies in AML MRD_
+### Closing Remarks
+**5:57 p.m. - 6:00 p.m.****, OCCC - W311ABCD**
+#### Session Description
+#### **Speaker:**
+Piers Blombery, PhD  
+Peter Maccallum Cancer Centre  
+ _CLOSING REMARKS_
+#### 67th ASH Annual Meeting and exposition
+!
+Don’t miss the chance to relive the world’s premier hematology event—register or extend your access to the 2025 ASH Annual Meeting today!
+#####  
+#### Explore the Annual Meeting
+            
+!
+American Society of Hematology
+2021 L Street NW, Suite 900,  
+Washington, DC 20036 
+Contact
+Phone 202-776-0544  
+Toll Free 866-828-1231  
+Fax 202-776-0545 
+Social
+Copyright © 2026 by American Society of Hematology
+; "Manage My Cookies") |   |   |   |  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Jump to Main Content<button>
+<button>ASH Annual Meeting & Exposition<button>
+<button>Schedule and Program<button>
+<button>Programs<button>
+<button>Scientific Workshops<button>
+<button>Education<button>
+<button>Publications<button>
+<button>Agenda for Nematology Research<button>
+<button>Recommendations<button>
+<button>About Us<button>
+<button>Precision Medicine<button>
+<button>Genome Editing and Gene Therapy<button>
+<button>Immunologic Treatment<button>
+<button>Research Support and Funding<button>
+<button>Meetings<button>
+<button>Careers<button>
+<button>See Schedule Builder Tips<button>
+<button>View Additional Information<button>
+<button>Registration Information<button>
+<button>Abstracts<button>
+<button>Information for Trainees<button>
+
+----- runner -----
+Run failed: list index out of range

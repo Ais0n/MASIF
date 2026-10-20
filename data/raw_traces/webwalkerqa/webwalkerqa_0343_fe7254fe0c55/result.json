@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0343_fe7254fe0c55",
+  "source_index": 343,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who won the first EHA-ISTH Joint Fellowship at the 16th EHA Congress and where was it awarded?",
+  "prompt": "Who won the first EHA-ISTH Joint Fellowship at the 16th EHA Congress and where was it awarded?",
+  "expected_answer": "Dr A van Hylckama Vlieg won the first EHA-ISTH Joint Fellowship at the 16th EHA Congress in London, UK.",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/organization/newsroom/news-and-updates/category/press-releases?start=90"
+    ],
+    "golden_path": [
+      "root->News & views->Press releases->7"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 377.08,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0343_fe7254fe0c55/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0343_fe7254fe0c55/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

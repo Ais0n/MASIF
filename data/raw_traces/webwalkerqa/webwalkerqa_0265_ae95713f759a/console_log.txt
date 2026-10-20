@@ -1,0 +1,499 @@
+----- user -----
+query:
+Where and when was the ICSE 2003 Program Committee Meeting held?
+official website:
+http://www.icse-conferences.org/
+Observation:website information:
+
+|  !  |   |  **  
+# ICSE
+**  |   |   
+ | !  |  
+| --- |  
+| !  |  
+|   
+ | !  |  
+| --- |  
+| !  |  
+|   |  
+| 
+## International Conference  
+on Software Engineering®
+ |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+|   
+ |   |  
+| --- |  
+|   |  
+|   |  
+|    |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|    
+  
+ |  
+|  [ Last updated  
+Jan 2026](#maintainer)  |  
+| !  |    
+  
+  
+ |  WELCOME ICSE, the International Conference on Software Engineering,® is the premier software engineering conference, providing a forum for researchers, practitioners and educators to present and discuss the most recent innovations, trends, experiences and concerns in the field of software engineering. Note that ICSE: International Conference on Software Engineering® is a registered trademark. On this web site you can find information about the ICSE conference series as well as useful information for organizing a future ICSE conference.  
+CURRENT CONFERENCE : Apr 2026  
+Rio de Janeiro, Brazil  
+  
+FUTURE CONFERENCES ICSE 2027: Apr 2027  
+Dublin, Ireland  
+ICSE 2028: Apr 2028  
+Hawaii, USA  
+ICSE 2029: Apr 2029  
+Tokyo, Japan  
+  
+PAST CONFERENCES : April 26 - May 4 2025  
+Ottawa, Canada : Apr 12-21, 2024  
+Lisbon, Portugal : May 14-20, 2023  
+Melbourne, Australia : May 8-27, 2022  
+Pittsburgh, USA : May 20-30, 2021  
+Madrid, Spain : July 6-11 2020  
+Seoul, Korea : May 25 - June 1, 2019  
+Montréal, Canada : May 27 - June 3, 2018  
+Gothenburg, Sweden : May 20-28, 2017  
+Buenos Aires, Argentina : May 14-22, 2016  
+Austin, Texas, USA : May 16-24, 2015  
+Firenze, Italy : May 31 - June 7, 2014  
+Hyderabad, India  : May 18-26, 2013  
+San Francisco, USA  : June 2-9, 2012  
+Zürich, Switzerland : May 21-28, 2011  
+Honolulu, Hawaii, USA : May 2-8, 2010  
+Cape Town, South Africa : May 16-24, 2009  
+Vancouver, British Columbia, Canada : May 10-18, 2008  
+Leipzig, Germany : May 20-26, 2007  
+Minneapolis, Minnesota, USA : May 20-28, 2006  
+Shanghai, China : May 15-21, 2005  
+St. Louis, Missouri, USA : May 23-28, 2004  
+Edinburgh, Scotland, United Kingdom : May 3-10, 2003  
+Portland, Oregon, USA : May 19-25, 2002  
+Orlando, Florida, USA : May 12-19, 2001  
+Toronto, Ontario, Canada : June 4-11, 2000  
+Limerick, Ireland ICSE 1999: May 16-22, 1999  
+Los Angeles, California, USA ICSE 1998: April 19-25, 1998  
+Kyoto, Japan : May 17-23, 1997  
+Boston, MA, USA ICSE 1996: March 25-30, 1996  
+Berlin, Germany : April 23-30, 1995  
+Seattle, Washington, USA ICSE 1994: May 16-21, 1994  
+Sorrento, Italy ICSE 1993: May 17-21, 1993  
+Baltimore, Maryland, USA ICSE 1992: May 11-15, 1992  
+Melbourne, Australia ICSE 1991: May 13-17, 1991  
+Austin, Texas, USA ICSE 1990: March 26-30, 1990  
+Nice, France ICSE 1989: May 15-18, 1989  
+Pittsburgh, Pennsylvania, USA ICSE 1988: April 11-15, 1988  
+Raffles City, Singapore ICSE 1987: March 30 - April 2, 1987  
+Monterey, California, USA ICSE 1985: August 28-30, 1985  
+London, United Kingdom ICSE 1984: March 26-29, 1984  
+Orlando, Florida, USA ICSE 1982: September 13-16, 1982  
+Tokyo, Japan ICSE 1981: March 9-12, 1981  
+San Diego, California, USA ICSE 1979: September 17-19, 1979  
+Munich, Germany ICSE 1978: May 10-12, 1978  
+Atlanta, Georgia, USA ICSE 1976: October 13-15, 1976  
+San Francisco, California, USA ICSE 1975: September 11-12, 1975  
+Washington DC, USA  |  
+| --- |  
+  
+  
+|   |   
+ |  ](  
+ |  
+| --- |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](~icse2000/)  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|   |  
+!
+
+
+clickable button:
+
+<button>HOME<button>
+<button>News from the SC<button>
+<button>EDI STATEMENT<button>
+<button>CONDUCT & SAFETY<button>
+<button>HISTORY<button>
+<button>PROCEEDINGS<button>
+<button>INFLUENTIAL PAPERS<button>
+<button>ORGANIZING ICSE<button>
+<button>STEERING COMMITTEE<button>
+<button>ICSE SC Documents<button>
+<button>SPONSORS<button>
+<button>CONTACTS<button>
+<button>Last updatedJan 2026<button>
+<button>ICSE 2005<button>
+<button>ICSE 2004<button>
+<button>ICSE 2003<button>
+<button>ICSE 2002<button>
+<button>ICSE 2001<button>
+<button>ICSE 1997<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about the ICSE 2003 Program Committee Meeting. The "HISTORY" button might provide details about past conferences, including the ICSE 2003 meeting.
+
+Action: visit_page
+Action Input: {"button": "HISTORY"}
+
+----- VisitPage -----
+The web information is:
+
+|  !  |   |  **  
+# ICSE
+**  |   |   
+ | !  |  
+| --- |  
+| !  |  
+|   
+ | !  |  
+| --- |  
+| !  |  
+|   |  
+| 
+## International Conference  
+on Software Engineering®
+ |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+|   
+ |   |  
+| --- |  
+|   |  
+|   |  
+|    |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|    
+  
+ |  
+|  [ Last updated  
+Jan 2026](#maintainer)  |  
+|   |    
+  
+ |  ICSE HISTORY This page outlines the history of ICSE, the ACM/IEEE International Conference on Software Engineering.®  
+ | **ICSE**  | **Locations and Dates**  | **General Chairs**  | **Program Chairs**  |  
+| --- | --- | --- | --- |  
+| 1st  
+NCSE  
+1975   |  **Washington DC, USA**  
+September 11-12, 1975   |  **Harlan Mills** , IBM Corporation, USA and **Dennis Fife** , National Bureau of Standards, USA   |  **Thomas Steel** , Equitable Life Assurance Society, USA   |  
+|   | The first conference was called **1st National Conference on Software Engineering** and was sponsored by **National Bureau of Standards** and **IEEE Computer Society.**  |  
+| 2nd  
+ICSE  
+1976  |  **San Francisco, California, USA**  
+October 13-15, 1976   |  **Raymond T. Yeh** , University of Texas at Austin, USA   |  **C.V. Ramamoorthy** , University of California, Berkeley, USA   |  
+|   | The conference was renamed to **2nd International Conference on Software Engineering** and was sponsored by **Association of Computing Machinery (ACM)** , **IEEE Computer Society** , and **National Bureau of Standards.**  |  
+| 3rd  
+ICSE  
+1978   |  **Atlanta, Georgia, USA**  
+May 10-12, 1978   |  **Maurice V. Wilkes** , University of Cambridge, UK  |  **Laszlo Belady** , IBM Corporation, USA  |  
+|   | Sponsors: **ACM** , **IEEE Computer Society** , and **National Bureau of Standards**  |  
+| 4th  
+ICSE  
+1979   |  **München, Germany**  
+September 17-19, 1979   |  **Friedrich (Fritz) L. Bauer** , Technische Universität München, Germany   |  **Manny M. Lehman** , Imperial College, London, UK and **Leon G. Stucki** , Boeing Computer Services Company, USA   |  
+|   | Sponsors: **ACM SIGSOFT** , **European Research Office (ERO)** , **Gesellschaft für Informatik** , and **IEEE Computer Society**  |  
+| 5th  
+ICSE  
+1981   |  **San Diego, California, USA**  
+March 9-12, 1981   |  **Seymour Jeffrey** , National Bureau of Standards, USA   |  **Leon G. Stucki** , Boeing Computer Services Company, USA   |  
+| 6th  
+ICSE  
+1982   |  **Tokyo, Japan**  
+September 13-16, 1982   |  **Yutaka Ohno** , Japan; **Koji Kobayashi** , Japan and **Raymond T. Yeh** , University of Maryland, USA   |  **Victor R. Basili** , University of Maryland, USA and **Hajime Enomoto** , Japan   |  
+| 7th  
+ICSE  
+1984   |  **Orlando, Florida, USA**  
+March 26-29, 1984   |  **T. Straeter** , General Dynamics Electronics, San Diego, USA   |  **William E. Howden** , University of California, San Diego, USA and **Jean-Claude Rault** , Agence de l'Informatique, Paris, France   |  
+| 8th  
+ICSE  
+1985   |  **London, UK**  
+August 28-30, 1985   |  **Manny M. Lehman** , Imperial College, London, UK  |  **Barry Boehm** , TRW, USA and **Horst H眉nke** , Commission of the European Communities, Belgium   |  
+| 9th  
+ICSE  
+1987   |  **Monterey, California, USA**  
+March 30 - April 2, 1987   |  **William E. Riddle** , Software Productivity Consortium, USA   |  **Robert Balzer** , USC Information Sciences Institute, USA and **Kouichi Kishida** , Software Research Associates, Inc., USA   |  
+| 10th  
+ICSE  
+1988   |  **Raffles City, Singapore**  
+April 11-15, 1988   |  **Tan Chin Nam** , National Computer Board, Singapore   |  **Larry Druffel** , Carnegie Mellon Software Engineering Institute (SEI), USA and **Bertrand Meyer** , Interactive Software Engineering, Inc., USA   |  
+| 11th  
+ICSE  
+1989   |  **Pittsburgh, Pennsylvania, USA**  
+May 15-18, 1989   |  **Larry Druffel** , Carnegie Mellon Software Engineering Institute (SEI), USA   |  **Dines Bjørner** , Dansk Datamatik Center, Denmark and **Richard Fairley** , George Mason University, USAPC   |  
+| 12th  
+ICSE  
+1990   |  **Nice, France**  
+March 26-30, 1990   |  **François-Regis Valette** , ONERA-CERT, France   |  **Peter A. Freeman** , George Mason University, USA/University of California, Irvine, USA and **Marie-Claude Gaudel** , LRI-Université de Paris-Sud, France   |  
+| 13th  
+ICSE  
+1991   |  **Austin, Texas, USA**  
+May 13-17, 1991   |  **Les Belady** , Microelectronics and Computer Technology Corporation, USA   |  **David Barstow** , Schlumberger Laboratory for Computer Science, USA and **Koji Torii** , Osaka University, Japan   |  
+| 14th  
+ICSE  
+1992   |  **Melbourne, Australia**  
+May 11-15, 1992   |  **Tony Montgomery** , RMIT University, Australia  |  **Lori Clarke** , University of Massachusetts, Amherst, USA and **Carlo Ghezzi** , Politecnico di Milano, Italy   |  
+| 15th  
+ICSE  
+1993   |  **Baltimore, Maryland, USA**  
+May 17-21, 1993   |  **Victor R. Basili** , University of Maryland, USA  |  **Richard DeMillo** , Purdue University, USA and **Takuya Katayama** , Tokyo Institute of Technology, Japan   |  
+| 16th  
+ICSE  
+1994   |  **Sorrento, Italy**  
+May 16-21, 1994   |  **Bruno Fadini** , Universit脿 degli Studi di Napoli Frederico II, Italy   |  **Leon Osterweil** , University of Massachusetts, Amherst, USA and **Axel van Lamsweerde** , Université Catholique de Louvain, Belgium   |  
+| 17th  
+ICSE  
+1995   |    
+April 23-30, 1995   |  **Dewayne Perry** , AT&T Bell Laboratories, USA  |  **Ross Jeffrey** , University of New South Wales, Australia and **David Notkin** , University of Washington, USA   |  
+| 18th  
+ICSE  
+1996   |  **Berlin, Germany**  
+March 25-30, 1996   |  **H. Dieter Rombach** , University of Kaiserslautern, Germany   |  **Tom Maibaum** , Imperial College, London, UK and **Marvin V. Zelkowitz** , University of Maryland, USA   |  
+| 19th  
+ICSE  
+1997   |    
+May 17-23, 1997   |  **W. Richards Adrion** , University of Massachusetts, Amherst, USA   |  **Alfonso Fuggetta** , Politecnico di Milano, Italy; **Richard N. Taylor** , University of California, Irvine, USA and **Anthony I. Wasserman** , Software Methods and Tools, USA   |  
+| 20th  
+ICSE  
+1998   |    
+April 19-25, 1998   |  **Koji Torii** , NAIST, Japan  |  **Kokichi Futatsugi** , JAIST, Japan and **Richard Kemmerer** , University California, Santa Barbara, USA   |  
+| 21st  
+ICSE  
+1999   |  **Los Angeles, California, USA**  
+May 16-22, 1999   |  **Barry Boehm** , University of Southern California, USA   |  **David Garlan** , Carnegie Mellon University, USA and **Jeff Kramer** , Imperial College, London, UK   |  
+| 22nd  
+ICSE  
+2000   |    
+(June 5-7, 2000)   |  **Carlo Ghezzi** , Politecnico di Milano, Italy  |  **Mehdi Jazayeri** , Technical University of Vienna, Austria and **Alexander Wolf** , University of Colorado at Boulder, USA   |  
+| 23rd  
+ICSE  
+2001   |    
+May 12-19, 2001   |  **Hausi A. Müller** , University of Victoria, Canada   |  **Mary Jean Harrold** , Georgia Institute of Technology, USA and **Wilhelm Schäfer** , University of Paderborn, Germany   |  
+| 24th  
+ICSE  
+2002   |    
+May 19-24, 2002   |  **Will Tracz** , Lockheed Martin Systems Integration, Owego, USA   |  **Michal Young** , University of Oregon, USA and **Jeff Magee** , Imperial College, London, UK   |  
+| 25th  
+ICSE  
+2003   |    
+May 3-10, 2003   |  **Lori Clarke** , University of Massachusetts, Amherst, USA   |  **Laurie Dillon** , Michigan State University, USA and **Walter Tichy** , University of Karlsruhe, Germany   |  
+| 26th  
+ICSE  
+2004   |    
+May 23-28, 2004   |  **Anthony Finkelstein** , University College London, UK   |  **Jacky Estublier** , Université Grenoble, France and **David S. Rosenblum** , University College London, UK   |  
+| 27th  
+ICSE  
+2005   |    
+May 15-21, 2005   |  **Gruia-Catalin Roman** , Washington University in St. Louis, USA   |  **William Griswold** , University of California, San Diego, USA and **Bashar Nuseibeh** , The Open University, UK   |  
+| 28th  
+ICSE  
+2006   |    
+May 20-28, 2006   |  **Leon Osterweil** , University of Massachusetts, Amherst, USA   |  **H. Dieter Rombach** Fraunhofer Institute for Experimental Software Engineering (IESE), Germany and **Mary Lou Soffa** , University of Virginia, USA   |  
+| 29th  
+ICSE  
+2007   |    
+May 20-26, 2007   |  **John Knight** , University of Virginia, USA  |  **Wolfgang Emmerich** , University College London, UK and **Gregg Rothermel** , University of Nebraska, Lincoln, USA   |  
+| 30th  
+ICSE  
+2008   |    
+May 10-18, 2008   |  **Wilhelm Schäfer** , University of Paderborn, Germany   |  **Matthew Dwyer** , University of Nebraska, Lincoln, USA and **Volker Gruhn** , Universität Leipzig, Germany   |  
+| 31st  
+ICSE  
+2009   |    
+May 16-24, 2009   |  **Stephen Fickas** , University of Oregon, USA  |  **Jo Atlee** , University of Waterloo, Canada and **Paola Inverardi** , University of L'Aquila, Italy   |  
+| 32nd  
+ICSE  
+2010   |    
+May 2-8, 2010   |  **Judith Bishop** , University of Pretoria, South Africa and**Jeff Kramer** , Imperial College, London, UK   |  **Prem Devanbu** , University of California, Davis, USA and **Sebastian Uchitel,** Imperial College, London, UK   |  
+| 33rd  
+ICSE  
+2011   |  ****  
+May 21-28, 2011   |  **Richard Taylor** , University of California, Irvine, USA   |  **Harald Gall** , University of Zürich, Switzerland and **Neno Medvidovic** , University of Southern California, USA   |  
+| 34th  
+ICSE  
+2012   |  ****  
+June 2-9, 2012   |  **Martin Glinz** , University of Zürich, Switzerland   |  **Gail Murphy** , University of British Columbia, Canada and **Mauro Pezzè** , University of Lugano, Switzerland and University of Milano Bicocca, Italy   |  
+| 35th  
+ICSE  
+2013   |  ****  
+May 18-26, 2013   |  **David Notkin** , University of Washington, USA  |  **Betty H. Cheng** , Michigan State University, USA and **Klaus Pohl** , University of Duisburg-Essen, Germany   |  
+| 36th  
+ICSE  
+2014   |  ****  
+May 31 - June 7,2014   |  **Pankaj Jalote** , Indraprastha Institute of Information Technology (IIIT) Delhi, India   | **Lionel Briand** ,Simula Research Laboratory and **Andre van der Hoek** , University of California, Irvine, USA  |  
+| 37th  
+ICSE  
+2015   |  ****  
+May 16-24, 2015   |  **Antonia Bertolino** , Italian National Research Council (CNR), Pisa, Italy   | **Gerardo Canfora** ,University of Sannio, Italy and **Sebastian Elbaum** , University of Nebraska, Lincoln, USA  |  
+| 38th  
+ICSE  
+2016   |  ****  
+May 14-22, 2016   |  **Laura K. Dillon** , Michigan State University, USA  | **Willem Visser** ,University of Stellenbosch, South Africa and **Laurie Williams** , North Carolina State University, USA   |  
+| 39th  
+ICSE  
+2017   |  ****  
+May 20-28, 2017   |  **Sebastian Uchitel** , University of Buenos Aires, Argentina   |  **Alessandro Orso** , Georgia Institute of Technology, USA and **Martin Robillard** , McGill University, Canada   |  
+| 40th  
+ICSE  
+2018   |     
+May 27 - June 3, 2018   |  **Ivica Crnkovic** , Chalmers University of Technology and University of Gothenburg, Sweden   |  **Marsha Chechik** , University of Toronto, Canada and **Mark Harmon** , University College London, UK   |  
+| 41st  
+ICSE  
+2019   |    
+May 2019   |  **Jo Atlee** , University of Waterloo, Canada   |  **Jon Whittle** , University of Lancaster, UK and **Tevfik Bultan** , University of California, Santa Barbara, USA   |  
+| 42nd  
+ICSE  
+2020   |    
+July 2020   |  **Doo-Hwan Bae** , KAIST, Korea and **Gregg Rothermel** , University of Nebraska, USA   |  **Jane Cleland-Huang** , University of Notre Dame, USA and **Darko Marinov** , University of Illinois at Urbana-Champaign, USA   |  
+| 43rd  
+ICSE  
+2021   |    
+May 2021   |  **Natalia Juristo** , Universidad Politécnica de Madrid, Spain   |  **Arie van Deursen** , Delft University of Technology, The Netherlands and **Tao Xie** , Peking University, China   |  
+| 44th  
+ICSE  
+2022   |    
+May 2022   |  **Matt Dwyer** , University of Virginia, USA  |  **Daniela Damian** , University of Victoria, Canada and **Andreas Zeller** , Saarland University, Germany   |  
+| 45th  
+ICSE  
+2023   |    
+May 2023   |  **John Grundy** , Monash University, Australia  |  **Massimiliano Di Penta** , University of Sannio, Italy and **Lori Pollock** , University of Delaware, USA   |  
+| 46th  
+ICSE  
+2024   |    
+Apr 2024   |  **Rui Maranhao Abreu** , University of Porto, Portugal and **Ana C. R. Paiva** , University of Porto, Portugal   |  **Abhik Roychoudhury** , National University of Singapore and **Margaret-Anne Storey** , University of Victoria, Canada   |  
+| 47th  
+ICSE  
+2025   |    
+April 26 - May 4, 2025   |  **Tim Lethbridge** , University of Ottawa, Canada and **Lionel Briand** , University of Ottawa and University of Luxembourg   |  **David Lo** , Singapore Management University and **Corina Pasareanu** , NASA, USA   |  
+| 48th  
+ICSE  
+2026   |    
+April 12 - 18 2026   |  **Marcos Kalinowski** , Pontifical Catholic University of Rio de Janeiro, Brazil   |  **Mira Mezini** , Technische Universität Darmstadt, Germany and **Tom Zimmermann** , Microsoft Research, USA   |  
+| 49th  
+ICSE  
+2027   | Dublin, Ireland  
+Apr 2027  |  **Brian Fitzgerald** , University of Limerick & Lero, Ireland   |  **Dongmei Zhang** , Microsoft Research Asia, China and **Andrea Zisman** , The Open University, UK   |  
+| 50th  
+ICSE  
+2028   | Hawaii, USA  
+Apr 2027  |  **Rick Kazman** , University of Hawaii, USA  |   |  
+ |  
+  
+  
+ |  
+|   |   |   |   |   |   |
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>News from the SC<button>
+<button>EDI STATEMENT<button>
+<button>CONDUCT & SAFETY<button>
+<button>HISTORY<button>
+<button>PROCEEDINGS<button>
+<button>INFLUENTIAL PAPERS<button>
+<button>ORGANIZING ICSE<button>
+<button>STEERING COMMITTEE<button>
+<button>ICSE SC Documents<button>
+<button>SPONSORS<button>
+<button>CONTACTS<button>
+<button>Last updatedJan 2026<button>
+<button>Boston, Massachusetts, USA<button>
+<button>Toronto, Ontario, Canada<button>
+<button>Orlando, Florida, USA<button>
+<button>Portland, Oregon, USA<button>
+<button>Edinburgh, Scotland, United Kingdom<button>
+<button>St. Louis, Missouri, USA<button>
+<button>Shanghai, China<button>
+<button>Minneapolis, Minnesota, USA<button>
+<button>Leipzig, Germany<button>
+
+----- WebWalker -----
+Memory:
+-The ICSE 2003 Program Committee Meeting was held from May 3-10, 2003.
+"}
+
+----- WebWalker -----
+Final Answer: The ICSE 2003 Program Committee Meeting was held from May 3 to May 10, 2003.

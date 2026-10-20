@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0415_4f2fabf7fefe",
+  "source_index": 415,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京理工大学计算机科学与工程学院在KDD Cup 2024 OAG-Challenge的哪个赛道中获得了国际亚军，其支持机器感知与智能研究的具体实验室名称是什么？",
+  "prompt": "南京理工大学计算机科学与工程学院在KDD Cup 2024 OAG-Challenge的哪个赛道中获得了国际亚军，其支持机器感知与智能研究的具体实验室名称是什么？",
+  "expected_answer": "论文源头追踪赛道，高维信息智能感知与系统教育部重点实验室",
+  "root_url": "https://cs.njust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njust.edu.cn/2c/7b/c1817a339067/page.htm",
+      "https://cs.njust.edu.cn/rjgcx/list.htm"
+    ],
+    "golden_path": [
+      "root->我院学子在KDD Cup 2024 OAG-Cha...",
+      "root->机器感知与智能系"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 53.36,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0415_4f2fabf7fefe/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0415_4f2fabf7fefe/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

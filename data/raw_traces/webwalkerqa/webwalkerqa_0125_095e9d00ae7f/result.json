@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0125_095e9d00ae7f",
+  "source_index": 125,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2022年6月16日中南大学的活动中，哪位嘉宾进行了题为《开启鲲鹏开发者之旅》的主题演讲，并且与参赛者们一起进行Java代码迁移的训练营实验？",
+  "prompt": "在2022年6月16日中南大学的活动中，哪位嘉宾进行了题为《开启鲲鹏开发者之旅》的主题演讲，并且与参赛者们一起进行Java代码迁移的训练营实验？",
+  "expected_answer": "钟海鹏",
+  "root_url": "https://cse.csu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.csu.edu.cn/info/1043/6450.htm"
+    ],
+    "golden_path": [
+      "root->聚焦鲲鹏计算生态，“华为伙伴暨开发者大会2022”走进中南大学"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 57.977,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0125_095e9d00ae7f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0125_095e9d00ae7f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

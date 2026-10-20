@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0179_85da074cf493",
+  "source_index": 179,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Find the first IGG recruitment contact email in Asia in alphabetical order.",
+  "prompt": "Find the first IGG recruitment contact email in Asia in alphabetical order.",
+  "expected_answer": "jobs.cn@igg.com",
+  "root_url": "https://www.igg.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.igg.com/contact/"
+    ],
+    "golden_path": [
+      "root->Contact Us"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The first IGG recruitment contact email in Asia, in alphabetical order, is jobs.id@igg.com for Indonesia.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 17.733,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0179_85da074cf493/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0179_85da074cf493/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted email (jobs.id@igg.com) is different from the expected email (jobs.cn@igg.com).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

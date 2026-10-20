@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0362_2c2ad975fee0",
+  "source_index": 362,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In October 2021, which Employee Resource Group (ERG) did Riot Unidos collaborate with to host a special Food Lab event, and what cultural dishes were shared?",
+  "prompt": "In October 2021, which Employee Resource Group (ERG) did Riot Unidos collaborate with to host a special Food Lab event, and what cultural dishes were shared?",
+  "expected_answer": "In October 2021, Riot Unidos collaborated with Filipinos At Riot to host a special Food Lab event featuring Filipino and Salvadoran dishes.",
+  "root_url": "https://www.riotgames.com/zh-cn",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/zh-cn/news/latinx-heritage-month-recap"
+    ],
+    "golden_path": [
+      "root->多元与包容->社区->Latinx Heritage Month Recap"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 61.45,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0362_2c2ad975fee0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0362_2c2ad975fee0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

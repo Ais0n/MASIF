@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0500_0879bd1af45a",
+  "source_index": 500,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2023年7月，《摩尔庄园》推出“庄园崩坏，时空融合”版本中首次同屏出现的经典角色与《小花仙》在“夏日冰雪之城”版本中即将发布的角色主题曲角色是什么？",
+  "prompt": "在2023年7月，《摩尔庄园》推出“庄园崩坏，时空融合”版本中首次同屏出现的经典角色与《小花仙》在“夏日冰雪之城”版本中即将发布的角色主题曲角色是什么？",
+  "expected_answer": "么么公主和塔巴斯西蒙",
+  "root_url": "https://game.61.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://game.61.com/m/news/content.shtml?pagenum=2019-21864",
+      "https://game.61.com/m/news/content.shtml?pagenum=2019-21746"
+    ],
+    "golden_path": [
+      "root->手机版->庄园崩坏 《摩尔庄园》页游穿越版本来袭",
+      "root->手机版->《小花仙》暑期版本曝光！塔西角色主题曲即将发布"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 62.565,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0500_0879bd1af45a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0500_0879bd1af45a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

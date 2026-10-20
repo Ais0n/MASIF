@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0599_a9104736418e",
+  "source_index": 599,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023年3月23日与2023年5月14日，华南师范大学计算机学院各自开展的是什么考试？",
+  "prompt": "2023年3月23日与2023年5月14日，华南师范大学计算机学院各自开展的是什么考试？",
+  "expected_answer": "研究生综合考核和自学考试实践考核",
+  "root_url": "http://cs.scnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.scnu.edu.cn/a/20230316/5402.html",
+      "http://cs.scnu.edu.cn/a/20230427/5454.html"
+    ],
+    "golden_path": [
+      "root->研究生教育->研究生招生->2023-03-162023年计算机学院 “申请-考核”制博士研究生招生综合考核安排",
+      "root->本科教育->新闻通知->2023-04-27华南师范大学计算机学院2023年上半年自考实践考核考试通知"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 3,
+  "duration_seconds": 12.909,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0599_a9104736418e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0599_a9104736418e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

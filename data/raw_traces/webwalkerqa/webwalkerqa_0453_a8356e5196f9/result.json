@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0453_a8356e5196f9",
+  "source_index": 453,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "国机集团2024年第四季度党建工作例会和四川企业调研期间，丁宏祥和周明勤分别参与哪些具体活动并作出了何种重要决策？",
+  "prompt": "国机集团2024年第四季度党建工作例会和四川企业调研期间，丁宏祥和周明勤分别参与哪些具体活动并作出了何种重要决策？",
+  "expected_answer": "丁宏祥出席了国机集团2024年第四季度党建工作例会并发表讲话；周明勤在四川的国机重装、国机资产和成都工具研究所进行调研，督导巡视整改和发展高端装备制造。",
+  "root_url": "https://www.sinomach.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.sinomach.com.cn/xwzx/jtdt/2024_jtyw/202411/t20241108_441871.html",
+      "https://www.sinomach.com.cn/xwzx/jtdt/2024_jtyw/202411/t20241108_441863.html"
+    ],
+    "golden_path": [
+      "root->国机集团组织召开2024年第四季度党建工作例会",
+      "root->周明勤调研集团部分在川企业"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 51.037,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0453_a8356e5196f9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0453_a8356e5196f9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

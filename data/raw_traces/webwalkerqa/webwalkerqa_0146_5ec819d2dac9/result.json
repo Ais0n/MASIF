@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0146_5ec819d2dac9",
+  "source_index": 146,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "百果园在使用企业微信的社群运营中实现了多少会员沉淀，并且将果品损耗控制在百分之多少？",
+  "prompt": "百果园在使用企业微信的社群运营中实现了多少会员沉淀，并且将果品损耗控制在百分之多少？",
+  "expected_answer": "沉淀近600万会员，损耗低至5%",
+  "root_url": "https://work.weixin.qq.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://work.weixin.qq.com/nl/index/caselist?from=wwindex"
+    ],
+    "golden_path": [
+      "root->客户案例"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "百果园在使用企业微信的社群运营中实现了近600万会员沉淀，并将果品损耗控制在5%。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer contains the exact same factual information as the expected answer but includes additional context.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer contains the exact same factual information as the expected answer but includes additional context.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 16.107,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0146_5ec819d2dac9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0146_5ec819d2dac9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "configuration": "webwalker_webwalkerqa",
+    "traces": 680,
+    "success": 71,
+    "failure": 609,
+    "IFs": 1090
+  },
+  {
+    "configuration": "mrlx_browsecomp_plus",
+    "traces": 100,
+    "success": 4,
+    "failure": 96,
+    "IFs": 119
+  }
+]

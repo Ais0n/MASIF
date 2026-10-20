@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0517_fa944cb2fe63",
+  "source_index": 517,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在《帝国时代IV》中，马里亚王国和中国文明在各自的第四时代，核心战略或独特能力的差异是什么？",
+  "prompt": "在《帝国时代IV》中，马里亚王国和中国文明在各自的第四时代，核心战略或独特能力的差异是什么？",
+  "expected_answer": "马里亚王国利用Griot Bara地标提供全球增益，而中国拥有强大的长城作为防御优势。",
+  "root_url": "https://www.ageofempires.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ageofempires.com/games/age-of-empires-iv/civilizations/malians/",
+      "https://www.ageofempires.com/games/age-of-empires-iv/civilizations/chinese/"
+    ],
+    "golden_path": [
+      "root->Expansions->Malians",
+      "root->Expansions->Chinese"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 90.358,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0517_fa944cb2fe63/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0517_fa944cb2fe63/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0366_3bb23d4f3038",
+  "source_index": 366,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How many countries submitted programs for the INPUT 2023 conference between January 30 and February 5, 2023?",
+  "prompt": "How many countries submitted programs for the INPUT 2023 conference between January 30 and February 5, 2023?",
+  "expected_answer": "29",
+  "root_url": "https://www.input-tv.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.input-tv.org/news/d39k4rsuk7mwl4vy2856fndmmfg3nv-mn3zp-hdwyh"
+    ],
+    "golden_path": [
+      "root->All news from around the world->Older Posts->Read More"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.797,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0366_3bb23d4f3038/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0366_3bb23d4f3038/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

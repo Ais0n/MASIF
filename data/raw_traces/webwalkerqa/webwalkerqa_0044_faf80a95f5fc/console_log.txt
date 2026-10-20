@@ -1,0 +1,1892 @@
+----- user -----
+query:
+What time will James Landay share his experiences in the 2024 ACM SIGCHI Awards series in Shanghai local time?
+official website:
+https://sigchi.org/
+Observation:website information:
+
+ ! ](
+About
+People
+Conferences
+Resources
+News
+Join Us
+Menu
+About
+People
+Conferences
+Resources
+News
+#  Special Interest Group _on_ Computer-Human Interaction
+ACM SIGCHI is the leading international community of students and professionals interested in research, education, and practical applications of Human Computer Interaction.
+!!
+!!
+!!
+A family of conferences organized every year since 1983
+A thriving community of over 5,000 members
+Committed to growing our global and local presence
+## Latest News
+## Announcements
+##### SIGCHI @ CHI26
+11 Apr 2026
+The SIGCHI Exec will be holding several initiatives at CHI26 to celebrate our 2026 awardees and special recognition recipients, engage the SIGCHI community on key issues, recognize volunteer efforts, and build connections across local communities! Please see below for more details:
+### Thank a Volunteer!
+We know that SIGCHI flourishes thanks to the efforts of hundreds of volunteers, if not thousands. We encourage you to take the time this CHI to “Thank a Volunteer” and send a note of appreciation their way. We've set up a  you can use to do so. 
+### Events Schedule  
+| **Event**  | **Date/Time**  | **Location**  |  
+| --- | --- | --- |  
+| Opening Remarks  | April 13, 8:30-10:30  | Auditorium  |  
+| SIGCHI Lounge (see below for more details)  | April 13-17  | Exhibit Hall (Area 1+2+3)  |  
+| SIGCHI Academy  | April 13, 16:30-18:00  | Auditorium  |  
+| Outstanding Dissertation Awards  | April 14, 14:15-15:45  | Auditorium  |  
+| Societal Impact Awards  | April 14, 16:30-18:00  | Auditorium  |  
+| SIGCHI Town Hall  | April 15, 12:45-14:15  | Auditorium  |  
+| Codesigning SIGCHI Futures  | April 15, 16:30-18:00  | Auditorium  |  
+| SIGCHI Conference Lunch  | April 16, 12:45-14:15  | Banquet Hall  |  
+| Lifetime Service Awards  | April 16, 14:15-15:45  | Auditorium  |  
+| Lifetime Research Awards  | April 16, 16:30-18:00  | Auditorium  |  
+| SIGCHI Chapters & Regions Breakfast  | April 17, 7:30-9:00  | Banquet Hall  |  
+### **SIGCHI Lounge Schedule**
+The space is shared with the Global Plaza. Chapter meetups are organized with the support of the CHI 26 Global Chairs and the SIGCHI VP for Chapters. 
+**Location** : Exhibit Hall (in the program: Area 1+2+3).  
+| **Date/Time**  | **Activity**  |  
+| --- | --- |  
+| April 13, 10:30-11:15 (coffee break)  | Put a dot on the Chapters Map + Thank-a-volunteer display  |  
+| April 13, 14:15-15:45  | Accessibility & Hybrid conferencing  |  
+| April 13, 15:45-16:30 (coffee break)  | SIGCHI Conferences AMA + Thank-a-volunteer display  |  
+| April 13, 18:00-19:30  | Thank-a-volunteer display + AfriCHI meetup  |  
+| April 14, 10:30-11:15 (coffee break)  | SIGCHI Conferences AMA + Thank-a-volunteer display  |  
+| April 14, 15:45-16:30 (coffee break)  | ACM-Women (hosted by the Global Chairs) and Delft Chapter  |  
+| April 14, 16:30-17:45  | Canada HCI Group  |  
+| April 15, 10:30-11:15 (coffee break)  | Salish Sea Chapter  |  
+| April 15, 15:45-16:30 (coffee break)  | Cyprus Chapter   |  
+| April 15, 16:30-17:00  | London Chapter  |  
+| April 16, 10:30-11:15 (coffee break)  | Netherlands Chapter  |  
+| April 16, 15:45-16:30 (coffee break)  | Austria Chapter   |  
+| April 16, 16:30-17:00  | ArabCHI  |  
+##### Voices of SIGCHI: April Issue
+09 Apr 2026
+We're delighted to share the , our quarterly newsletter! In this issue, you’ll find:
+  * A tribute honoring the life of ACM's former CEO and President Vicki L. Hanson
+  * Updates on SIGCHI’s financial health
+  * A retrospective from Judy Olson on the early days of building the HCI community 
+  * Thought-provoking posts from volunteers of ACM Interactive Health, the Research Ethics Committee, and Publications Committee
+  * Reflections on community-building and volunteer efforts around chapters, regions, mentorship, and HCI education
+  * Member spotlights showcasing the people and perspectives that shape SIGCHI
+We hope you enjoy reading, and please be on the lookout for our open call for the July issue. 
+##### Peer review at CHI
+24 Mar 2026
+Please see below a note from **Regan Mandryk, Sven Mayer,** and **Anna Cox** , who have been leading a working group of the **CHI Steering Committee** to rethink peer review. Those of you at our recent Town Hall Preview would have heard them present their plans as they move forward. Please see instructions below to give them feedback now, at CHI, or later!
+===
+Since 2024, a working group of the CHI Steering Committee has been working on . We have held community input sessions, had an online feedback forum, and have met regularly over the last 2 years. We created reports on what other conferences (within SIGCHI and the ACM, but also beyond) have been doing. We looked to other review processes (e.g., grants, faculty search, grad school application, University ranking) for inspiration. We used previous CHI submission data to run simulations. We engaged in role-playing exercises where we enacted different review structures and processes. This all culminated in an in-person meeting in January 2026, where we finalized our proposal for CHI full papers review processes moving forward. We sought input and feedback from various stakeholders and discussed it with the CHI Steering Committee and the SIGCHI Executive Committee. 
+Our proposal is a 5-point action plan, with interconnected solutions which can be found . 
+Now, we are reaching out to the larger CHI community for your input and feedback. You may provide feedback in person at **CHI 2026** (Wednesday afternoon at 2:15 in the Auditorium), or via .
+Best wishes, 
+Regan, Sven & Anna
+30
+##### Conferences
+5k+
+##### Members
+85k+
+##### Publications
+90
+##### Countries
+#  Our _thirty_ Conferences
+SIGCHI sponsors/co-sponsors 30 Human-Computer Interaction conferences annually, including our flagship conference, CHI (Human Factors in Computing Systems), which has been organized every year since 1983.
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+View all
+## Conferences, Meetings, & Open Sessions
+## Upcoming Events
+!
+!
+© ACM Special Interest Group on Computer-Human Interaction · 2026
+Powered by](
+Back to top
+
+
+clickable button:
+
+<button>What is SIGCHI?<button>
+<button>Ethics and Conduct<button>
+<button>Policies<button>
+<button>CARES<button>
+<button>Voting History<button>
+<button>Contact Us<button>
+<button>Membership<button>
+<button>Executive Committee<button>
+<button>All Committees<button>
+<button>Chapters<button>
+<button>Awards<button>
+<button>Volunteer History<button>
+<button>Upcoming Conferences<button>
+<button>Conference History<button>
+<button>Development Fund<button>
+<button>Gary Marsden Travel Awards<button>
+<button>Guides for Authors<button>
+<button>Guides for Organizers<button>
+<button>Meetings<button>
+<button>Announcements<button>
+<button>Newsletters<button>
+<button>Learn more<button>
+<button>Read more<button>
+<button>April issue of<button>
+<button>Voices of SIGCHI<button>
+<button>Read more<button>
+<button>Read more<button>
+<button>All announcements<button>
+<button>ConferenceEduCHI 2026May 20, 2026-May 22, 2026<button>
+<button>ConferenceENASE 2026May 22, 2026-May 24, 2026<button>
+<button>ConferenceETRA 2026Jun 01, 2026-Jun 04, 2026<button>
+<button>Events Calendar<button>
+<button>Home<button>
+<button>About<button>
+<button>Chapters<button>
+<button>Calendar<button>
+<button>Updates<button>
+<button>Memberships<button>
+<button>Privacy Policy<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find information about the 2024 ACM SIGCHI Awards series and James Landay's participation. Since the official website is for SIGCHI, I should explore the "Awards" button first to gather relevant details.
+
+Action: visit_page
+Action Input: {"button": "Awards"}
+
+----- VisitPage -----
+The web information is:
+
+ ! ](
+About
+People
+Conferences
+Resources
+News
+Join Us
+Menu
+About
+People
+Conferences
+Resources
+News
+/
+/
+# SIGCHI Awards
+The **SIGCHI Awards** identify and honor leaders and shapers of the field of human-computer interaction within SIGCHI. We currently present awards in six categories:
+  * SIGCHI Lifetime Research Award
+  * SIGCHI Lifetime Practice Award
+  * SIGCHI Lifetime Service Award
+  * SIGCHI Societal Impact Award
+  * SIGCHI Outstanding Dissertation Award
+  * Induction into the SIGCHI Academy
+The descriptions and criteria for these awards are given below. Awards typically come with travel support to attend the year’s CHI conference. Awardees are recognized at the conference, and receive two complimentary passes (for themselves and a guest) to attend the annual SIGCHI awards banquet. The following pages contain additional useful information:
+        *  (and special criteria for the )
+    
+With the 2025 cycle, we also started inviting **SIGCHI Special Recognitions** to celebrate and honor individuals who have made exceptional contributions to the field of HCI in ways that may not be fully captured by our existing awards. Special recognitions can be for individuals or groups. Some possible special recognitions include the following, but this is NOT an exhaustive list:
+  * Emerging Researcher Recognition: For students who have completed at least two years of graduate education, have shown passion, enthusiasm, and commitment to impactful HCI research, and demonstrated dedication to building community within SIGCHI, at any level
+  * Excellence in HCI Education: For researchers and practitioners who have made outstanding contributions to HCI curricula or pedagogy that improve the quality and reach of HCI education 
+  * Community Building and Outreach: For researchers and practitioners who have built strong and reciprocal relationships with communities and community-based organizations, through which they have amplified the social impact of their research and/or practice
+  * Significant Contribution to Diversity and Inclusion in HCI: For researchers and practitioners who have shown strong leadership in advancing diversity and inclusion in the SIGCHI community, demonstrated by clear positive impacts on meaningful participation in the field 
+  * Impactful Industry-Academia Collaboration: For researchers and practitioners who have forged strong collaborations between industry and academic organizations towards more impactful, creative, and sustainable HCI research and/or practice 
+  * Lifetime Achievement in HCI Mentorship: For researchers and practitioners who have dedicated significant time, knowledge, and energy to consistent and quality mentorship of early career members of the HCI community, whether through direct relationships or infrastructures that support mentorship
+  * Breakthrough in HCI Theory: For researchers and practitioners who have made outstanding, impactful, and lasting theoretical contributions in HCI research 
+  * Etc.
+These special recognitions will help us identify new permanent awards to propose for future cycles.
+!
+!
+© ACM Special Interest Group on Computer-Human Interaction · 2026
+Powered by](
+Back to top
+
+
+Clickable buttons are wrapped in <button> tag
+<button>What is SIGCHI?<button>
+<button>Ethics and Conduct<button>
+<button>Policies<button>
+<button>CARES<button>
+<button>Voting History<button>
+<button>Contact Us<button>
+<button>Membership<button>
+<button>Executive Committee<button>
+<button>All Committees<button>
+<button>Chapters<button>
+<button>Awards<button>
+<button>Volunteer History<button>
+<button>Upcoming Conferences<button>
+<button>Conference History<button>
+<button>Development Fund<button>
+<button>Gary Marsden Travel Awards<button>
+<button>Guides for Authors<button>
+<button>Guides for Organizers<button>
+<button>Meetings<button>
+<button>Announcements<button>
+<button>Newsletters<button>
+<button>Home<button>
+<button>People<button>
+<button>SIGCHI Awards<button>
+<button>Past recipients<button>
+<button>Nomination process<button>
+<button>Guidelines for nominators<button>
+<button>Awards criteria<button>
+<button>Dissertation Award<button>
+<button>Service criteria<button>
+<button>Frequently asked questions<button>
+<button>About<button>
+<button>Chapters<button>
+<button>Calendar<button>
+<button>Updates<button>
+<button>Memberships<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+I need to find information about James Landay's participation in the 2024 ACM SIGCHI Awards series. Since the "Past recipients" button might provide details about previous awardees, I should click on it to explore further.
+
+Action: visit_page
+Action Input: {"button": "Past recipients"}
+
+----- VisitPage -----
+The web information is:
+
+ ! ](
+About
+People
+Conferences
+Resources
+News
+Join Us
+Menu
+About
+People
+Conferences
+Resources
+News
+/
+/
+# Award Recipients
+For award information, you can read about the .
+#### 2026
+Ben Zefeng Zhang
+Outstanding Dissertation
+Brennan Schaffner
+Special Recognition
+Chris Harrison
+SIGCHI Academy
+Cliff Lampe
+Lifetime Service
+Darren Gergle
+SIGCHI Academy
+Eric Paulos
+SIGCHI Academy
+Eunkyung Jo
+Outstanding Dissertation
+Helena Mentis
+Lifetime Service
+Humphrey Curtis
+Outstanding Dissertation
+Jacki O'Neill
+Societal Impact
+Jeffrey Bigham
+SIGCHI Academy
+Jon Froehlich
+Societal Impact
+Joseph Konstan
+Lifetime Research
+Joseph LaViola
+SIGCHI Academy
+Kaj Grønbaek
+SIGCHI Academy
+Katherine Isbister
+SIGCHI Academy
+Kori Inkpen
+SIGCHI Academy
+Kyle Johnson
+Special Recognition
+Laura Dabbish
+SIGCHI Academy
+Liban Hussein
+Special Recognition
+Lorrie Cranor
+Lifetime Research
+Maristella Matera
+Special Recognition
+Martin Feick
+Outstanding Dissertation
+Niklas Elmqvist
+SIGCHI Academy
+Per Ola Kristensson
+SIGCHI Academy
+Phoebe Toups Dugas
+Special Recognition
+Shaimaa Lazem
+Special Recognition
+Sonya Kwak
+Special Recognition
+Sukran Karaosmanoglu
+Outstanding Dissertation
+Vicente Arroyos
+Special Recognition
+Volker Wulf
+Societal Impact
+#### 2025
+Aaron Quigley
+SIGCHI Lifetime Service Award
+Alexis Hiniker
+SIGCHI Societal Impact Award
+Anicia Peters
+SIGCHI Special Recognition
+Antti Oulasvirta
+SIGCHI Academy
+Anupriya Tuli
+SIGCHI Outstanding Dissertation Award
+Carl DiSalvo
+SIGCHI Academy
+Cecilia Aragon
+SIGCHI Special Recognition
+Elizabeth Gerber
+SIGCHI Academy
+Gregory Abowd
+SIGCHI Special Recognition
+Gustavo Lopez
+SIGCHI Special Recognition
+James Fogarty
+SIGCHI Academy
+Jasmine Lu
+SIGCHI Special Recognition
+Joanna McGrenere
+SIGCHI Academy
+Jooyoung Park
+SIGCHI Special Recognition
+Kate Starbird
+SIGCHI Academy
+Katerina Stepanova
+SIGCHI Outstanding Dissertation Award
+Kentaro Toyama
+SIGCHI Academy
+Kentaro Toyama
+SIGCHI Societal Impact Award
+Kia Höök
+SIGCHI Lifetime Service Award
+Leona Holloway
+SIGCHI Outstanding Dissertation Award
+Mark Colley
+SIGCHI Special Recognition
+Martin Wattenberg
+SIGCHI Academy
+Nadia Campo Woytuk
+SIGCHI Special Recognition
+Nadya Peek
+SIGCHI Special Recognition
+Nur Yildirim
+SIGCHI Outstanding Dissertation Award
+Pattie Maes
+SIGCHI Academy
+Pattie Maes
+SIGCHI Lifetime Research Award
+Paul Dourish
+SIGCHI Lifetime Research Award
+The Google/academia Android XR interaction team (Karan Ahuja, Andrea Colaco, Massimiliano Di Luca, Hans Gellersen, Mar Gonzalez-Franco, Eric J. Gonzalez, Ken Pfeuffer, Hasti Seifi)
+SIGCHI Special Recognition
+Tiago Guerreiro
+SIGCHI Societal Impact Award
+Wendy Ju
+SIGCHI Academy
+Wolfgang Stuerzlinger
+SIGCHI Academy
+Yoshifumi Kitamura
+SIGCHI Lifetime Service Award
+Zijie Jay Wang
+SIGCHI Outstanding Dissertation Award
+#### 2024
+Amy Ogan
+SIGCHI Societal Impact Award
+Anna Cox
+SIGCHI Academy
+Azra Ismail
+SIGCHI Outstanding Dissertation Award
+Björn Hartmann
+SIGCHI Academy
+Courtney N. Reed
+SIGCHI Outstanding Dissertation Award
+Elizabeth Churchill
+SIGCHI Lifetime Practice Award
+Gillian R. Hayes
+SIGCHI Academy
+Hans Gellersen
+SIGCHI Academy
+James A. Landay
+SIGCHI Lifetime Research Award
+Jan Gulliksen
+SIGCHI Societal Impact Award
+Jodi Forlizzi
+SIGCHI Lifetime Research Award
+Julie A. Kientz
+SIGCHI Academy
+Karan Ahuja
+SIGCHI Outstanding Dissertation Award
+Kate Starbird
+SIGCHI Societal Impact Award
+Munmun De Choudhury
+SIGCHI Academy
+Nicholas Vincent
+SIGCHI Outstanding Dissertation Award
+Ryen W. White
+SIGCHI Academy
+Shaowen Bardzell
+SIGCHI Academy
+Shwetak Patel
+SIGCHI Academy
+Susanne Bødker
+SIGCHI Lifetime Research Award
+Vassilis Kostakos
+SIGCHI Academy
+Wendy Mackay
+SIGCHI Lifetime Research Award
+Yixin Zou
+SIGCHI Outstanding Dissertation Award
+#### 2023
+Cliff Lampe
+SIGCHI Academy
+Deborah J. Mayhew
+SIGCHI Lifetime Practice Award
+Dhruv "DJ" Jain
+SIGCHI Outstanding Dissertation Award
+Elizabeth Churchill
+SIGCHI Lifetime Service Award
+Florian "Floyd" Mueller
+SIGCHI Academy
+Gregory Abowd
+SIGCHI Lifetime Research Award
+Hrvoje Benko
+SIGCHI Academy
+Kai Lukoff
+SIGCHI Outstanding Dissertation Award
+Loren Terveen
+SIGCHI Lifetime Service Award
+Marc Hassenzahl
+SIGCHI Academy
+Megan Hofmann
+SIGCHI Outstanding Dissertation Award
+Munmun De Choudhury
+SIGCHI Societal Impact Award
+Nicola Dell
+SIGCHI Societal Impact Award
+Phoebe Sengers
+SIGCHI Academy
+Regan Mandryk
+SIGCHI Academy
+Shaowen Bardzell
+SIGCHI Societal Impact Award
+Steve Hodges
+SIGCHI Academy
+Uichin Lee
+SIGCHI Academy
+#### 2022
+Aaditeshwar Seth
+SIGCHI Social Impact Award
+Aakash Gautam
+SIGCHI Outstanding Dissertation Award
+Amy J. Ko
+SIGCHI Academy
+Aniket Kittur
+SIGCHI Academy
+Anna Lisa Martin-Niedecken
+SIGCHI Outstanding Dissertation Award
+Fred Hohman
+SIGCHI Outstanding Dissertation Award
+Geraldine Fitzpatrick
+SIGCHI Lifetime Service Award
+Jaime Teevan
+SIGCHI Academy
+Jennifer Mankoff
+SIGCHI Social Impact Award
+Liz Gerber
+SIGCHI Social Impact Award
+Mark Billinghurst
+SIGCHI Academy
+Norbert A. Streitz
+SIGCHI Academy
+Roel Vertegaal
+SIGCHI Academy
+Steven Pemberton
+Lifetime Practice Award
+Tanzeem Choudhury
+SIGCHI Academy
+Yvonne Rogers
+Lifetime Research Award
+#### 2021
+Allison Woodruff
+SIGCHI Academy
+Andy Dearden
+SIGCHI Social Impact Award
+Arunesh Mathur
+SIGCHI Outstanding Dissertation Award
+Fabio Paternó
+SIGCHI Academy
+Fernanda Viegas
+SIGCHI Academy
+Jeff Heer
+SIGCHI Academy
+John T. Richards
+Lifetime Practice Award
+Jonathan Lazar
+SIGCHI Academy
+Josh Andres
+SIGCHI Outstanding Dissertation Award
+Juan Gilbert
+SIGCHI Social Impact Award
+Maneesh Agrawala
+SIGCHI Academy
+Maria Cecília Calani Baranauskas
+SIGCHI Social Impact Award
+Philippe Palanque 
+SIGCHI Lifetime Service Award
+Qian Yang
+SIGCHI Outstanding Dissertation Award
+Rosalind Picard
+SIGCHI Academy
+Scott Hudson
+SIGCHI Lifetime Research Award
+Wendy Kellogg
+SIGCHI Lifetime Service Award
+#### 2020
+Bonnie Nardi
+SIGCHI Social Impact Award
+Catherine Plaisant
+SIGCHI Lifetime Service Award
+David Canfield Smith
+SIGCHI Lifetime Practice Award
+Gilbert Cockton
+SIGCHI Lifetime Service Award
+Jason Hong
+SIGCHI Academy
+Jean-Daniel Fekete
+SIGCHI Academy
+Kasper Hornbæk
+SIGCHI Academy
+Katta Spiel
+SIGCHI Outstanding Dissertation Award
+Kristina Höök
+SIGCHI Academy
+Meredith Ringel Morris
+SIGCHI Academy
+Paul Strohmeier
+SIGCHI Outstanding Dissertation Award
+Peter Wright
+SIGCHI Academy
+Ronald M. Baecker
+SIGCHI Social Impact Award
+Steven M. Drucker
+SIGCHI Academy
+Sunny Consolvo
+SIGCHI Academy
+Susan T. Dumais
+SIGCHI Lifetime Research Award
+#### 2019
+Anna Maria Feit
+SIGCHI Outstanding Dissertation Award
+Batya Friedman
+SIGCHI Academy
+Bill Hefley
+SIGCHI Lifetime Service Award
+Chris Elsden
+SIGCHI Outstanding Dissertation Award
+Daniel Rosenberg
+SIGCHI Lifetime Practice Award
+George Fitzmaurice
+SIGCHI Academy
+Gillian R. Hayes
+SIGCHI Social Impact Award
+Hiroshi Ishii
+SIGCHI Lifetime Research Award
+Jacob O. Wobbrock
+SIGCHI Academy
+Jennifer Mankoff
+SIGCHI Academy
+Loren G. Terveen
+SIGCHI Academy
+Nuria Oliver
+SIGCHI Academy
+Robert Xiao
+SIGCHI Outstanding Dissertation Award
+Takeo Igarashi
+SIGCHI Academy
+#### 2018
+Albrecht Schmidt
+SIGCHI Academy
+Amy S. Bruckman
+SIGCHI Academy
+Andrew D. Wilson
+SIGCHI Academy
+Arnold M. Lund
+SIGCHI Lifetime Practice Award
+Blase Ur
+SIGCHI Outstanding Dissertation Award
+Ed H. Chi
+SIGCHI Academy
+Jean Scholtz
+SIGCHI Academy
+John C. Thomas
+SIGCHI Lifetime Service Award
+Lorrie Faith Cranor
+SIGCHI Social Impact Award
+Maria Francesca Costabile
+SIGCHI Lifetime Service Award
+Michael Muller
+SIGCHI Academy
+Sheelagh Carpendale
+SIGCHI Academy
+Stefanie Mueller
+SIGCHI Outstanding Dissertation Award
+Steven K. Feiner
+SIGCHI Lifetime Research Award
+Volker Wulf
+SIGCHI Academy
+#### 2017
+Brad A. Myers
+SIGCHI Lifetime Research Award
+Elisabeth André
+SIGCHI Academy
+Ernest Edmonds
+SIGCHI Lifetime Practice Award
+Gloria Mark
+SIGCHI Academy
+Indrani Medhi Thies
+SIGCHI Social Impact Award
+Jacob O. Wobbrock
+SIGCHI Social Impact Award
+Lorrie Faith Cranor
+SIGCHI Academy
+Marti A. Hearst
+SIGCHI Academy
+Paul Resnick
+SIGCHI Academy
+Philippe Palanque
+SIGCHI Academy
+Scott E. Hudson
+SIGCHI Lifetime Service Award
+Thad Eugene Starner
+SIGCHI Academy
+Vicki L. Hanson
+SIGCHI Academy
+Zhengjie Liu
+SIGCHI Lifetime Service Award
+#### 2016
+Allison Druin
+SIGCHI Academy
+Daniel M. Russell
+SIGCHI Academy
+Elizabeth F. Churchill
+SIGCHI Academy
+Gary M. Olson
+SIGCHI Lifetime Service Award
+Gerrit C. Van Der Veer
+SIGCHI Lifetime Service Award
+Jeff A. Johnson
+SIGCHI Lifetime Practice Award
+John Stasko
+SIGCHI Academy
+Jonathan Lazar
+SIGCHI Social Impact Award
+Leysia Palen
+SIGCHI Academy
+Margaret Burnett
+SIGCHI Academy
+Robert E. Kraut
+SIGCHI Lifetime Research Award
+Susan R. Fussell
+SIGCHI Academy
+Yves Guiard
+SIGCHI Academy
+#### 2015
+Andy Cockburn
+SIGCHI Academy
+Anind K. Dey
+SIGCHI Academy
+Bill Verplank
+SIGCHI Academy
+Catherine Plaisant
+SIGCHI Academy
+Ernest Edmonds
+SIGCHI Academy
+Jean Scholtz
+SIGCHI Lifetime Service Award
+Jim Hollan
+SIGCHI Lifetime Research Award
+Leysia Palen
+SIGCHI Social Impact Award
+Michel Beaudoin-Lafon
+SIGCHI Lifetime Service Award
+Scott MacKenzie
+SIGCHI Academy
+Sharon Oviatt
+SIGCHI Academy
+Stephen Brewster
+SIGCHI Academy
+Susan M. Dray
+SIGCHI Lifetime Practice Award
+#### 2014
+Gary Marsden
+SIGCHI Academy
+Gillian Crampton Smith
+SIGCHI Lifetime Practice Award
+Jeff A. Johnson
+SIGCHI Academy
+Jodi Forlizzi
+SIGCHI Academy
+John C. Tang
+SIGCHI Academy
+Ken Hinckley
+SIGCHI Academy
+Richard H.R. Harper
+SIGCHI Academy
+Richard Ladner
+SIGCHI Social Impact Award
+Steve Whittaker
+SIGCHI Lifetime Research Award
+Susan Dray
+SIGCHI Academy
+Ted Nelson
+SIGCHI Special Recognition Award
+Tom Hewett
+SIGCHI Lifetime Service Award
+W. Keith Edwards
+SIGCHI Academy
+Wendy Mackay
+SIGCHI Lifetime Service Award
+#### 2013
+Alan Dix
+SIGCHI Academy 
+Bonnie Nardi
+SIGCHI Academy 
+Clarisse de Souza
+SIGCHI Academy 
+Eric Horvitz
+SIGCHI Academy 
+George G. Robertson
+SIGCHI Lifetime Research Award
+Jakob Nielsen
+SIGCHI Lifetime Practice Award
+Joseph A. Konstan
+SIGCHI Lifetime Service Award
+Patrick Baudisch
+SIGCHI Academy
+Rebecca E. Grinter
+SIGCHI Academy
+Sara J. Czaja
+SIGCHI Social Impact Award
+Thomas S. Tullis
+SIGCHI Academy 
+Victoria Bellotti
+SIGCHI Academy 
+#### 2012
+Alan F. Newell
+SIGCHI Academy
+Batya Friedman
+SIGCHI Social Impact Award
+Benjamin B. Bederson
+SIGCHI Academy
+Carl Gutwin
+SIGCHI Academy
+Dan Olsen
+SIGCHI Lifetime Research Award
+Hugh Dubberly
+SIGCHI Academy
+Joy Mountford
+SIGCHI Academy
+Joy Mountford 
+SIGCHI Lifetime Practice Award
+Kevin Schofield
+SIGCHI Lifetime Service Award
+Michael Atwood
+SIGCHI Lifetime Service Award
+Steve Benford
+SIGCHI Academy
+Yvonne Rogers
+SIGCHI Academy
+#### 2011
+Abi Sellen
+SIGCHI Academy
+Alan Newell
+SIGCHI Social Impact Award
+Arnie Lund
+SIGCHI Lifetime Service Award
+Clayton Lewis
+SIGCHI Social Impact Award
+Dennis Wixon
+SIGCHI Academy
+James Landay
+SIGCHI Academy
+Jenny Preece
+SIGCHI Academy
+Jim Miller
+SIGCHI Lifetime Service Award
+Joseph Konstan
+SIGCHI Academy
+Larry Tesler
+SIGCHI Lifetime Practice Award
+Ravin Balakrishnan
+SIGCHI Academy
+Steven Feiner
+SIGCHI Academy
+Terry Winograd
+SIGCHI Lifetime Research Award
+#### 2010
+Allison Druin
+SIGCHI Social Impact Award
+Arnie Lund
+SIGCHI Academy
+Austin Henderson
+SIGCHI Academy
+Benjamin B. Bederson
+SIGCHI Social Impact Award
+David Kieras
+SIGCHI Academy
+Karen Holtzblatt
+SIGCHI Lifetime Practice Award
+Larry Tesler
+SIGCHI Academy
+Lucy Suchman
+SIGCHI Lifetime Research Award
+Mary Czerwinski
+SIGCHI Lifetime Service Award
+Mary Czerwinski
+SIGCHI Academy
+Shumin Zhai
+SIGCHI Academy
+Susanne Bødker
+SIGCHI Academy
+#### 2009
+Aaron Marcus
+SIGCHI Academy
+Bill Gaver
+SIGCHI Academy
+Clare-Marie Karat
+SIGCHI Lifetime Service Award
+Clayton Lewis
+SIGCHI Academy
+Elizabeth Mynatt
+SIGCHI Academy
+Helen Petrie
+SIGCHI Social Impact Award
+Mark Ackerman
+SIGCHI Academy
+Sara Kiesler
+SIGCHI Lifetime Achievement Award
+Steven Pemberton
+SIGCHI Lifetime Service Award
+Tom Rodden
+SIGCHI Academy
+Wendy Mackay
+SIGCHI Academy
+#### 2008
+Bill Buxton
+SIGCHI Lifetime Achievement Award
+Gregory Abowd
+SIGCHI Academy
+John Karat
+SIGCHI Lifetime Service Award
+Marian Williams
+SIGCHI Lifetime Service Award
+Mary Beth Rosson
+SIGCHI Academy
+Paul Dourish
+SIGCHI Academy
+Randy Pausch
+SIGCHI Academy
+Steve Whittaker
+SIGCHI Academy
+Vicki Hanson
+SIGCHI Social Impact Award
+Wendy Kellogg
+SIGCHI Academy
+#### 2007
+Christopher Schmandt
+SIGCHI Academy
+Gary Marsden
+SIGCHI Social Impact Award
+Gerhard Fischer
+SIGCHI Academy
+Gregory Abowd
+SIGCHI Social Impact Award
+James D. Foley
+SIGCHI Lifetime Achievement Award
+Joëlle Coutaz
+SIGCHI Academy
+Jun Rekimoto
+SIGCHI Academy
+Karen Holtzblatt
+SIGCHI Academy
+Richard I. Anderson
+SIGCHI Lifetime Service Award
+Robert J.K. Jacob
+SIGCHI Academy
+#### 2006
+George Robertson
+SIGCHI Academy
+Hiroshi Ishii
+SIGCHI Academy
+Jakob Nielsen
+SIGCHI Academy
+Judith Olson and Gary Olson
+SIGCHI Lifetime Achievement Award
+Michel Beaudouin-Lafon
+SIGCHI Academy
+Peter L. Pirolli
+SIGCHI Academy
+Scott Hudson
+SIGCHI Academy
+Susan Dray
+SIGCHI Lifetime Service Award
+Ted Henter
+SIGCHI Social Impact Award
+#### 2005
+Andrew Monk
+SIGCHI Academy
+Bonnie John
+SIGCHI Academy
+Don Patterson
+SIGCHI Lifetime Service Award
+Gary Perlman
+SIGCHI Lifetime Service Award
+Gregg Vanderheiden
+SIGCHI Social Impact Award
+John "Scooter" Morris
+SIGCHI Lifetime Service Award
+John Gould
+SIGCHI Academy
+Marilyn Mantei Tremaine
+SIGCHI Lifetime Service Award
+Ron Baecker
+SIGCHI Academy
+Sara Bly
+SIGCHI Lifetime Service Award
+Saul Greenberg
+SIGCHI Academy
+Susan Dumais
+SIGCHI Academy
+Tom Landauer
+SIGCHI Lifetime Achievement Award
+#### 2004
+Brad Myers
+SIGCHI Academy
+Brian Shackel
+SIGCHI Academy
+Dan Olsen
+SIGCHI Academy
+Gene Lynch
+SIGCHI Lifetime Service Award
+George Furnas
+SIGCHI Academy
+Jonathan Grudin
+SIGCHI Academy
+Robin Jeffries
+SIGCHI Lifetime Service Award
+Terry Winograd
+SIGCHI Academy
+Tom Moran
+SIGCHI Lifetime Achievement Award
+William Newman
+SIGCHI Academy
+#### 2003
+Gary M. Olson
+SIGCHI Academy
+James D. Hollan
+SIGCHI Academy
+John M. Carroll
+SIGCHI Lifetime Achievement Award
+Lorraine Borman
+SIGCHI Lifetime Service Award
+Peter G. Polson
+SIGCHI Academy
+Robert E. Kraut
+SIGCHI Academy
+Thomas Green
+SIGCHI Academy
+#### 2002
+Dan R. Olsen Jr
+SIGCHI Lifetime Service Award
+Donald A. Norman
+SIGCHI Lifetime Achievement Award
+Douglas C. Engelbart
+SIGCHI Academy
+John M. Carroll
+SIGCHI Academy
+Lucy A. Suchman
+SIGCHI Academy
+Sara Kiesler
+SIGCHI Academy
+Thomas K. Landauer
+SIGCHI Academy
+William A.S. Buxton
+SIGCHI Academy
+#### 2001
+Austin Henderson
+SIGCHI Lifetime Service Award
+Ben Shneiderman
+SIGCHI Academy
+Ben Shneiderman
+SIGCHI Lifetime Achievement Award
+Donald A. Norman
+SIGCHI Academy
+James D. Foley
+SIGCHI Academy
+Judith S. Olson
+SIGCHI Academy
+Morten Kyng
+SIGCHI Academy
+Stuart K. Card
+SIGCHI Academy
+Thomas P. Moran
+SIGCHI Academy
+#### 2000
+Stuart K. Card
+SIGCHI Lifetime Achievement Award
+#### 1998
+Douglas C. Engelbart
+SIGCHI Special Recognition Award
+!
+!
+© ACM Special Interest Group on Computer-Human Interaction · 2026
+Powered by](
+Back to top
+
+
+Clickable buttons are wrapped in <button> tag
+<button>What is SIGCHI?<button>
+<button>Ethics and Conduct<button>
+<button>Policies<button>
+<button>CARES<button>
+<button>Voting History<button>
+<button>Contact Us<button>
+<button>Membership<button>
+<button>Executive Committee<button>
+<button>All Committees<button>
+<button>Chapters<button>
+<button>Awards<button>
+<button>Volunteer History<button>
+<button>Upcoming Conferences<button>
+<button>Conference History<button>
+<button>Development Fund<button>
+<button>Gary Marsden Travel Awards<button>
+<button>Guides for Authors<button>
+<button>Guides for Organizers<button>
+<button>Meetings<button>
+<button>Announcements<button>
+<button>Newsletters<button>
+<button>Home<button>
+<button>People<button>
+<button>Award Recipients<button>
+<button>SIGCHI Awards and Process<button>
+<button>About<button>
+<button>Chapters<button>
+<button>Calendar<button>
+<button>Updates<button>
+<button>Memberships<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+I have found that James Landay was awarded the **SIGCHI Lifetime Research Award** in 2024. To determine the time he will share his experiences in the 2024 ACM SIGCHI Awards series, I should look for details about the event schedule related to the awards ceremony or any specific sessions involving James Landay.
+
+Action: visit_page
+Action Input: {"button": "SIGCHI Awards and Process"}
+
+----- VisitPage -----
+The web information is:
+
+ ! ](
+About
+People
+Conferences
+Resources
+News
+Join Us
+Menu
+About
+People
+Conferences
+Resources
+News
+/
+/
+# SIGCHI Awards
+The **SIGCHI Awards** identify and honor leaders and shapers of the field of human-computer interaction within SIGCHI. We currently present awards in six categories:
+  * SIGCHI Lifetime Research Award
+  * SIGCHI Lifetime Practice Award
+  * SIGCHI Lifetime Service Award
+  * SIGCHI Societal Impact Award
+  * SIGCHI Outstanding Dissertation Award
+  * Induction into the SIGCHI Academy
+The descriptions and criteria for these awards are given below. Awards typically come with travel support to attend the year’s CHI conference. Awardees are recognized at the conference, and receive two complimentary passes (for themselves and a guest) to attend the annual SIGCHI awards banquet. The following pages contain additional useful information:
+        *  (and special criteria for the )
+    
+With the 2025 cycle, we also started inviting **SIGCHI Special Recognitions** to celebrate and honor individuals who have made exceptional contributions to the field of HCI in ways that may not be fully captured by our existing awards. Special recognitions can be for individuals or groups. Some possible special recognitions include the following, but this is NOT an exhaustive list:
+  * Emerging Researcher Recognition: For students who have completed at least two years of graduate education, have shown passion, enthusiasm, and commitment to impactful HCI research, and demonstrated dedication to building community within SIGCHI, at any level
+  * Excellence in HCI Education: For researchers and practitioners who have made outstanding contributions to HCI curricula or pedagogy that improve the quality and reach of HCI education 
+  * Community Building and Outreach: For researchers and practitioners who have built strong and reciprocal relationships with communities and community-based organizations, through which they have amplified the social impact of their research and/or practice
+  * Significant Contribution to Diversity and Inclusion in HCI: For researchers and practitioners who have shown strong leadership in advancing diversity and inclusion in the SIGCHI community, demonstrated by clear positive impacts on meaningful participation in the field 
+  * Impactful Industry-Academia Collaboration: For researchers and practitioners who have forged strong collaborations between industry and academic organizations towards more impactful, creative, and sustainable HCI research and/or practice 
+  * Lifetime Achievement in HCI Mentorship: For researchers and practitioners who have dedicated significant time, knowledge, and energy to consistent and quality mentorship of early career members of the HCI community, whether through direct relationships or infrastructures that support mentorship
+  * Breakthrough in HCI Theory: For researchers and practitioners who have made outstanding, impactful, and lasting theoretical contributions in HCI research 
+  * Etc.
+These special recognitions will help us identify new permanent awards to propose for future cycles.
+!
+!
+© ACM Special Interest Group on Computer-Human Interaction · 2026
+Powered by](
+Back to top
+
+
+Clickable buttons are wrapped in <button> tag
+<button>What is SIGCHI?<button>
+<button>Ethics and Conduct<button>
+<button>Policies<button>
+<button>CARES<button>
+<button>Voting History<button>
+<button>Contact Us<button>
+<button>Membership<button>
+<button>Executive Committee<button>
+<button>All Committees<button>
+<button>Chapters<button>
+<button>Awards<button>
+<button>Volunteer History<button>
+<button>Upcoming Conferences<button>
+<button>Conference History<button>
+<button>Development Fund<button>
+<button>Gary Marsden Travel Awards<button>
+<button>Guides for Authors<button>
+<button>Guides for Organizers<button>
+<button>Meetings<button>
+<button>Announcements<button>
+<button>Newsletters<button>
+<button>Home<button>
+<button>People<button>
+<button>SIGCHI Awards<button>
+<button>Past recipients<button>
+<button>Nomination process<button>
+<button>Guidelines for nominators<button>
+<button>Awards criteria<button>
+<button>Dissertation Award<button>
+<button>Service criteria<button>
+<button>Frequently asked questions<button>
+<button>About<button>
+<button>Chapters<button>
+<button>Calendar<button>
+<button>Updates<button>
+<button>Memberships<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+I need to find the specific event or session where James Landay will share his experiences. Since the "Past recipients" page mentioned he received the SIGCHI Lifetime Research Award in 2024, I should check the event schedule for that year to find the time and location of the awards ceremony or any related sessions.
+
+Action: visit_page
+Action Input: {"button": "Upcoming Conferences"}
+
+----- VisitPage -----
+The web information is:
+
+ ! ](
+About
+People
+Conferences
+Resources
+News
+Join Us
+Menu
+About
+People
+Conferences
+Resources
+News
+/
+/
+# Upcoming Conferences
+##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### 
+!
+!
+© ACM Special Interest Group on Computer-Human Interaction · 2026
+Powered by](
+Back to top
+
+
+Clickable buttons are wrapped in <button> tag
+<button>What is SIGCHI?<button>
+<button>Ethics and Conduct<button>
+<button>Policies<button>
+<button>CARES<button>
+<button>Voting History<button>
+<button>Contact Us<button>
+<button>Membership<button>
+<button>Executive Committee<button>
+<button>All Committees<button>
+<button>Chapters<button>
+<button>Awards<button>
+<button>Volunteer History<button>
+<button>Upcoming Conferences<button>
+<button>Conference History<button>
+<button>Development Fund<button>
+<button>Gary Marsden Travel Awards<button>
+<button>Guides for Authors<button>
+<button>Guides for Organizers<button>
+<button>Meetings<button>
+<button>Announcements<button>
+<button>Newsletters<button>
+<button>Home<button>
+<button>Conferences<button>
+<button>Upcoming<button>
+<button>Sponsored Conferences<button>
+<button>In-Coop Conferences<button>
+<button>Calendar<button>
+<button>ETRA 2026Grand Mogador Menara, Marrakesh, Morocco·Jun 01, 2026-Jun 04, 2026The 2026 ACM Symposium on Eye Tracking Research & Applications (ETRA) will be held in Marrakesh, Morocco from June 1st to June 4th, 2026. The aim of ETRA is to bring together researchers and practitioners from across fields with the common goal of continuing to move eye tracking research forward. Join us in Marrakesh for ETRA, attend co-located workshops, and participate in exciting discussions.<button>
+<button>UMAP 2026Pedagogen Hus A, Gothenburg, Sweden·Jun 08, 2026-Jun 11, 2026ACM UMAP – User Modeling, Adaptation and Personalization – is the premier international conference for researchers and practitioners working on systems that adapt to individual users, to groups of users, and that collect, represent, and model user information. ACM UMAP is the successor to the biennial User Modeling (UM) and Adaptive Hypermedia and Adaptive Web-based Systems (AH) conferences that were merged in 2009. It is sponsored by ACM SIGCHI and SIGWEB, and organized with User Modeling Inc. as the Steering Committee.<button>
+<button>IMX 2026Sheraton Athlone Hotel, Athlone, Ireland·Jun 09, 2026-Jun 11, 2026The ACM International Conference on Interactive Media Experiences (IMX) is the leading international conference for presentation and discussion of research into interactive media experiences. It brings together researchers and practitioners from a wide range of disciplines, from human-computer interaction, multimedia engineering and design, to media studies, media psychology and sociology.<button>
+<button>DIS 2026National University of Singapore, Singapore·Jun 13, 2026-Jun 17, 2026In the face of climate change, pandemics, economic and political instability, and the accelerating pace of emerging technologies, the responsibilities of designing interactive systems have expanded well beyond the scope of traditional human-computer interaction. Today, interactive systems are entangled with broader sociocultural, political, economic, and ethical dimensions. We are increasingly witnessing how the deployment of new interactive technologies can produce unforeseen ripple effects across diverse domains. This calls for a paradigm shift: from a focus on isolated interactions to an ecosystemic perspective—one that attends to the complex networks surrounding humans and more-than-human actors, and that engages with layered sociotechnical, cultural, political, economic, and ethical concerns.<button>
+<button>IDC 2026Leonardo Royal Hotel, Brighton, United Kingdom·Jun 22, 2026-Jun 25, 2026As a premier worldwide conference for researchers, educators, and practitioners, IDC serves as a platform to share the latest research findings, innovative methodologies, and new technologies in the areas of inclusive child-centered design, learning, and interaction. The conference is hosted by the Delft University of Technology’s Electric Engineering, Mathematics & Computer Science (EEMCS) department.<button>
+<button>EICS 2026University of Patras, Patras, Greece·Jun 30, 2026-Jul 03, 2026EICS 2026 is the eighteenth international ACM SIGCHI conference devoted to engineering interactive computing systems and their user interfaces, addressing one or more software quality factors, such as usability, user experience, reliability, security, etc.<button>
+<button>IH 2026Auditório Francisco de Assis, Porto, Portugal·Jul 05, 2026-Jul 08, 2026The ACM Interactive Health Conference (IH) is a new conference that aims to be the leading venue for presenting work at the intersection of Human-Computer Interaction (HCI) and Health. The conference will welcome all kinds of work in this space, including but not limited to: the study of health practices; the development of methods and theories for engaging users and creating human-centered health technologies; or the design, evaluation, and implementation of health technologies to support health and well-being.<button>
+<button>C&C 2026Central Saint Martins, University of the Arts, London, UK·Jul 13, 2026-Jul 17, 2026The theme of the ACM Creativity and Cognition 2026 conference, Creativity for Change, responds to the rapid pace of change in our world and emphasizes the power of creativity in driving positive transformations. Our conference will explore how creativity can inspire and enable societal transformation, address decolonization, tackle climate action, and support place-making in urban and cultural contexts. We aim to weave the theme of making a better world through creativity throughout the conference program.<button>
+<button>IUI 2026St Raphael Resort & Marina, Limassol, Cyprus·Jul 13, 2026-Jul 16, 2026The 2026 ACM Conference on Intelligent User Interfaces (ACM IUI) is the annual premiere venue, where researchers and practitioners meet and discuss state-of-the-art advances at the intersection of Artificial Intelligence (AI) and Human-Computer Interaction (HCI). Ideal IUI submissions should address practical HCI challenges using machine intelligence and discuss both computational and human-centric aspects of such methodologies, techniques and systems.<button>
+<button>CUI 2026University of Bremen, Bremen, Germany·Jul 21, 2026-Jul 24, 2026We are excited to welcome ACM CUI (pronounced “coo-ee”) to Bremen, Germany, in 2026 from 21st–24th July. The theme of CUI 2026 is: Conversational AI: Agency and Identities! CUI was established in 2018 with the goal of bringing together researchers and professionals from various disciplines who focus on the design and study of speech and language technologies. In late 2022, CUI officially became a part of SIGCHI, the Special Interest Group on Computer-Human Interaction within the Association for Computing Machinery (ACM).<button>
+<button>COMPASS 2026Online·Jul 27, 2026-Jul 31, 2026Sponsored by the ACM Special Interest Group on Computing and Society (SIGCAS) and the ACM Special Interest Group in Computer Human Interaction (SIGCHI), and inspired by the broad agenda of the United Nations Sustainable Development Goals, COMPASS is an international forum for the presentation and publication of original research that supports the growth of sustainable societies worldwide, from disciplines including computer and information sciences, social sciences, environmental sciences, and engineering.<button>
+<button>MobileHCI 2026Swansea University, Wales, United Kingdom·Aug 31, 2026-Sep 03, 2026The ACM International Conference on Mobile Human-Computer Interaction (MobileHCI) brings together people from diverse areas and provides a multidisciplinary forum for academics, hardware and software developers, designers and practitioners to discuss the challenges and potential solutions for effective interaction with and through mobile devices, applications, and services. The conference welcomes contributions that promote the exchange of ideas and rational discourse between academics, researchers, and industries all over the world.<button>
+<button>AutomotiveUI 2026UNI3, Lindholmen, Gothenburg, Sweden·Sep 19, 2026-Sep 22, 2026ACM AutomotiveUI is the premier forum for user interface research in the automotive domain. The conference annually brings together over 200 researchers and practitioners interested in both the technical and the human aspects of in-vehicle user interfaces and applications, to provide a forum for the exchange of technical information concerning research (and practice) and educational activities for motor vehicle user interface development. We have multiple meeting categories in which researchers, practitioners, and other interested parties can take part in our conference and community.<button>
+<button>CI 2026Virginia Tech, Alexandria, VA, USA·Sep 27, 2026-Sep 30, 2026The ACM Collective Intelligence Conference Series is an interdisciplinary event sponsored by SIGCHI that brings together researchers from academia, business, nonprofits, governments and the world at large to share insights and ideas relevant to understanding and designing collective intelligence in its many forms thereby fostering the use of collective intelligence.<button>
+<button>RecSys 2026Marriott City Center, Minneapolis, Minnesota, USA·Sep 28, 2026-Oct 02, 2026The ACM Conference on Recommender Systems (RecSys) is the premier international forum for the presentation of new research results, systems and techniques in the broad field of recommender systems. RecSys brings together the major international research groups working on recommender systems, along with many of the world’s leading companies active in e-commerce and other adjacent domains. It has become the most important annual conference for the presentation and discussion of recommender systems research<button>
+<button>ICMI 2026Royal Continental Hotel, Napoli, Italy·Oct 05, 2026-Oct 09, 2026ICMI is the premier international forum that brings together multimodal artificial intelligence (AI) and social interaction research. Multimodal AI encompasses technical challenges in machine learning and computational modeling such as representations, fusion, data, and systems. The study of social interactions englobes both human-human interactions and human-computer interactions.<button>
+<button>SUI 2026Bari, Italy·Oct 10, 2026-Oct 11, 2026The ACM Symposium on Spatial User Interaction (short: ACM SUI) brings together top researchers and practitioners from around the world who focus on spatial interaction for virtual reality, augmented reality, mixed reality, and for ubiquitous, intelligent/smart and real environments.<button>
+<button>CSCW 2026Marriott City Creek Center, Salt Lake City, Utah, USA·Oct 10, 2026-Oct 14, 2026The ACM Conference on Computer Supported Cooperative Work (CSCW) is a premier venue for presenting research in the design and use of technologies that affect groups, organizations, and communities. The development and application of new technologies continues to enable new ways of working together and coordinating activities.<button>
+<button>UbiComp / ISWC 2026Shanghai, China·Oct 11, 2026-Oct 15, 2026UbiComp / ISWC is a premier interdisciplinary venue in which leading international researchers, designers, developers, and practitioners in the field present and discuss novel results in all aspects of ubiquitous, pervasive and wearable computing. This includes the design, development, and deployment of ubiquitous, pervasive and wearable computing technologies and the understanding of human experiences and social impacts that these technologies facilitate.<button>
+<button>CHI Play 2026York, United Kingdom·Nov 02, 2026-Nov 05, 2026The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) is the international and interdisciplinary conference (by ACM SIGCHI) for researchers and professionals across all areas of play, games and human-computer interaction (HCI).<button>
+<button>UIST 2026Renaissance Center, Detroit, Michigan, USA·Nov 02, 2026-Nov 05, 2026The ACM Symposium on User Interface Software and Technology (UIST) is the premier forum for innovations in human-computer interfaces. Sponsored by ACM SIGCHI and SIGGRAPH, UIST brings together people from diverse areas including graphical & web user interfaces, tangible & ubiquitous computing, virtual & augmented reality, multimedia, new input & output devices, human-centered AI, and CSCW.<button>
+<button>VRST 2026Tohoku University, Sendai, Japan·Nov 16, 2026-Nov 18, 2026The 32nd ACM Symposium on Virtual Reality Software and Technology (VRST) will be held in Sendai, Japan, from Monday-Wednesday, 16-18 November 2026. The VRST is an international forum for the exchange of experience and knowledge among researchers and developers concerned with VR/AR software and technology.<button>
+<button>ISS 2026Politecnico di Torino, Turin, Italy·Nov 23, 2026-Nov 26, 2026ACM Interactive Surfaces and Spaces (ISS) is the premier academic venue for research in the design, development, and use of new and emerging interactive surface technologies and interactive spaces.<button>
+<button>SCF '26University of Tokyo, Japan·Dec 06, 2026-Dec 08, 2026<button>
+<button>GROUP 2027Sea Palms Resort, St. Simons Island, Georgia, USA·Jan 10, 2027-Jan 13, 2027The ACM International Conference on Supporting Group Work (GROUP) is a premier yet intimate and welcoming venue for research on Computer Supported Cooperative Work, Sociotechnical Studies, Practice-Centered Computing, Human Computer Interaction, Computer Supported Collaborative Learning, Open Source Software, and related endeavors.<button>
+<button>TEI 2027Centro Cultural de Belém, Lisbon, Portugal·Jan 24, 2027-Jan 27, 2027TEI'27 is the 21st annual ACM conference presenting the latest research and innovations in tangible, embedded, and embodied interaction. Over the past two decades, the ACM TEI Conference has grown significantly in visibility and impact, showcasing outstanding work from researchers and practitioners around the world. TEI brings together researchers, practitioners, industry professionals, artists, designers and students from diverse disciplines including engineering, interaction design, computer science, product design, media studies and the arts. For 2027 we aim to maintain the intimate, cross-disciplinary spirit of TEI while highlighting new directions in how bodies and space shape interactive systems.<button>
+<button>IUI 2027Paasitorni, Helsinki, Finland·Feb 08, 2027-Feb 11, 2027The 2027 ACM Conference on Intelligent User Interfaces (ACM IUI) is the annual premiere venue, where researchers and practitioners meet and discuss state-of-the-art advances at the intersection of Artificial Intelligence (AI) and Human-Computer Interaction (HCI).<button>
+<button>HRI 2027San Jose, CA, USA·Mar 08, 2027-Mar 12, 2027The ACM/IEEE International Conference on Human-Robot Interaction (HRI) is the premier venue for innovations on human-robot interaction. Sponsored by the ACM special interest groups on computer-human interaction (SIGCHI) and artificial intelligence (SIGAI) as well as the Institute of Electrical and Electronics Engineers (IEEE), HRI brings together researchers spanning robotics, human-computer interaction, human factors, artificial intelligence, engineering, and social and behavioral sciences.<button>
+<button>CHI 2027Pittsburgh, Pennsylvania, USA·May 10, 2027-May 14, 2027The ACM (Association of Computing Machinery) CHI conference on Human Factors in Computing Systems is the premier international conference of Human-Computer Interaction.<button>
+<button>MobileHCI 2027Limassol, Cyprus·Sep 20, 2027-Sep 23, 2027The ACM International Conference on Mobile Human-Computer Interaction (MobileHCI) brings together people from diverse areas and provides a multidisciplinary forum for academics, hardware and software developers, designers and practitioners to discuss the challenges and potential solutions for effective interaction with and through mobile devices, applications, and services. The conference welcomes contributions that promote the exchange of ideas and rational discourse between academics, researchers, and industries all over the world.<button>
+<button>About<button>
+<button>Chapters<button>
+<button>Updates<button>
+<button>Memberships<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+I need to find the specific event or session where James Landay will share his experiences in the 2024 ACM SIGCHI Awards series. Since the "Past recipients" page mentioned he received the SIGCHI Lifetime Research Award in 2024, I should check the event schedule for that year to find the time and location of the awards ceremony or any related sessions.
+
+Action: visit_page
+Action Input: {"button": "Conference History"}
+
+----- VisitPage -----
+The web information is:
+
+ ! ](
+About
+People
+Conferences
+Resources
+News
+Join Us
+Menu
+About
+People
+Conferences
+Resources
+News
+/
+/
+# Conference History
+Selected ConferenceAutoUI C&C CHI CHI Play CI COMPASS CSCW CUI CritiCo DIS EICS ETRA EduCHI GROUP HRI ICMI IDC IH IMX ISS IUI MobileHCI RecSys SCF SUI TEI UIST UMAP UbiComp / ISWC VRST
+### ACM Conference on Human Factors in Computing Systems
+##### Locations
+2025
+Yokohama, Japan
+2024
+Honolulu, Hawaiʻi, United States
+2023
+Hamburg, Germany
+2022
+New Orleans, LA, United States
+2021
+Online
+##### Attendance
+##### Income
+##### Expenses
+For older information about conference history, please visit 
+!
+!
+© ACM Special Interest Group on Computer-Human Interaction · 2026
+Powered by](
+Back to top
+
+
+Clickable buttons are wrapped in <button> tag
+<button>What is SIGCHI?<button>
+<button>Ethics and Conduct<button>
+<button>Policies<button>
+<button>CARES<button>
+<button>Voting History<button>
+<button>Contact Us<button>
+<button>Membership<button>
+<button>Executive Committee<button>
+<button>All Committees<button>
+<button>Chapters<button>
+<button>Awards<button>
+<button>Volunteer History<button>
+<button>Upcoming Conferences<button>
+<button>Conference History<button>
+<button>Development Fund<button>
+<button>Gary Marsden Travel Awards<button>
+<button>Guides for Authors<button>
+<button>Guides for Organizers<button>
+<button>Meetings<button>
+<button>Announcements<button>
+<button>Newsletters<button>
+<button>Home<button>
+<button>Conferences<button>
+<button>History<button>
+<button>About<button>
+<button>Chapters<button>
+<button>Calendar<button>
+<button>Updates<button>
+<button>Memberships<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+I need to find the specific event or session where James Landay will share his experiences in the 2024 ACM SIGCHI Awards series. Since the "Past recipients" page mentioned he received the SIGCHI Lifetime Research Award in 2024, I should check the event schedule for that year to find the time and location of the awards ceremony or any related sessions.
+
+Action: visit_page
+Action Input: {"button": "CHI 2024"}
+
+----- VisitPage -----
+Button not found: CHI 2024
+
+----- WebWalker -----
+The button "CHI 2024" cannot be clicked. I need to find another way to access the event schedule for the year 2024. Since the official website provides information about the awards and past recipients, I should look for any other pages or sections that might contain details about the 2024 ACM SIGCHI Awards series.
+
+Action: visit_page
+Action Input: {"button": "News"}
+
+----- VisitPage -----
+Button not found: News
+
+----- WebWalker -----
+The button "News" cannot be clicked. I need to find another way to access the event schedule for the year 2024. Since the official website provides information about the awards and past recipients, I should look for any other pages or sections that might contain details about the 2024 ACM SIGCHI Awards series.
+
+Action: visit_page
+Action Input: {"button": "Announcements"}
+
+----- VisitPage -----
+The web information is:
+
+ ! ](
+About
+People
+Conferences
+Resources
+News
+Join Us
+Menu
+About
+People
+Conferences
+Resources
+News
+/
+News
+/
+# Announcements
+The hub for latest news and announcements from ACM SIGCHI
+#### SIGCHI @ CHI26
+11 Apr 2026
+The SIGCHI Exec will be holding several initiatives at CHI26 to celebrate our 2026 awardees and special recognition recipients, engage the SIGCHI community on key issues, recognize volunteer efforts, and build connections across local communities! Please see below for more details:
+### Thank a Volunteer!
+We know that SIGCHI flourishes thanks to the efforts of hundreds of volunteers, if not thousands. We encourage you to take the time this CHI to “Thank a Volunteer” and send a note of appreciation their way. We've set up a  you can use to do so. 
+### Events Schedule  
+| **Event**  | **Date/Time**  | **Location**  |  
+| --- | --- | --- |  
+| Opening Remarks  | April 13, 8:30-10:30  | Auditorium  |  
+| SIGCHI Lounge (see below for more details)  | April 13-17  | Exhibit Hall (Area 1+2+3)  |  
+| SIGCHI Academy  | April 13, 16:30-18:00  | Auditorium  |  
+| Outstanding Dissertation Awards  | April 14, 14:15-15:45  | Auditorium  |  
+| Societal Impact Awards  | April 14, 16:30-18:00  | Auditorium  |  
+| SIGCHI Town Hall  | April 15, 12:45-14:15  | Auditorium  |  
+| Codesigning SIGCHI Futures  | April 15, 16:30-18:00  | Auditorium  |  
+| SIGCHI Conference Lunch  | April 16, 12:45-14:15  | Banquet Hall  |  
+| Lifetime Service Awards  | April 16, 14:15-15:45  | Auditorium  |  
+| Lifetime Research Awards  | April 16, 16:30-18:00  | Auditorium  |  
+| SIGCHI Chapters & Regions Breakfast  | April 17, 7:30-9:00  | Banquet Hall  |  
+### **SIGCHI Lounge Schedule**
+The space is shared with the Global Plaza. Chapter meetups are organized with the support of the CHI 26 Global Chairs and the SIGCHI VP for Chapters. 
+**Location** : Exhibit Hall (in the program: Area 1+2+3).  
+| **Date/Time**  | **Activity**  |  
+| --- | --- |  
+| April 13, 10:30-11:15 (coffee break)  | Put a dot on the Chapters Map + Thank-a-volunteer display  |  
+| April 13, 14:15-15:45  | Accessibility & Hybrid conferencing  |  
+| April 13, 15:45-16:30 (coffee break)  | SIGCHI Conferences AMA + Thank-a-volunteer display  |  
+| April 13, 18:00-19:30  | Thank-a-volunteer display + AfriCHI meetup  |  
+| April 14, 10:30-11:15 (coffee break)  | SIGCHI Conferences AMA + Thank-a-volunteer display  |  
+| April 14, 15:45-16:30 (coffee break)  | ACM-Women (hosted by the Global Chairs) and Delft Chapter  |  
+| April 14, 16:30-17:45  | Canada HCI Group  |  
+| April 15, 10:30-11:15 (coffee break)  | Salish Sea Chapter  |  
+| April 15, 15:45-16:30 (coffee break)  | Cyprus Chapter   |  
+| April 15, 16:30-17:00  | London Chapter  |  
+| April 16, 10:30-11:15 (coffee break)  | Netherlands Chapter  |  
+| April 16, 15:45-16:30 (coffee break)  | Austria Chapter   |  
+| April 16, 16:30-17:00  | ArabCHI  |  
+Expand
+#### Voices of SIGCHI: April Issue
+09 Apr 2026
+We're delighted to share the , our quarterly newsletter! In this issue, you’ll find:
+  * A tribute honoring the life of ACM's former CEO and President Vicki L. Hanson
+  * Updates on SIGCHI’s financial health
+  * A retrospective from Judy Olson on the early days of building the HCI community 
+  * Thought-provoking posts from volunteers of ACM Interactive Health, the Research Ethics Committee, and Publications Committee
+  * Reflections on community-building and volunteer efforts around chapters, regions, mentorship, and HCI education
+  * Member spotlights showcasing the people and perspectives that shape SIGCHI
+We hope you enjoy reading, and please be on the lookout for our open call for the July issue. 
+Expand
+#### Peer review at CHI
+24 Mar 2026
+Please see below a note from **Regan Mandryk, Sven Mayer,** and **Anna Cox** , who have been leading a working group of the **CHI Steering Committee** to rethink peer review. Those of you at our recent Town Hall Preview would have heard them present their plans as they move forward. Please see instructions below to give them feedback now, at CHI, or later!
+===
+Since 2024, a working group of the CHI Steering Committee has been working on . We have held community input sessions, had an online feedback forum, and have met regularly over the last 2 years. We created reports on what other conferences (within SIGCHI and the ACM, but also beyond) have been doing. We looked to other review processes (e.g., grants, faculty search, grad school application, University ranking) for inspiration. We used previous CHI submission data to run simulations. We engaged in role-playing exercises where we enacted different review structures and processes. This all culminated in an in-person meeting in January 2026, where we finalized our proposal for CHI full papers review processes moving forward. We sought input and feedback from various stakeholders and discussed it with the CHI Steering Committee and the SIGCHI Executive Committee. 
+Our proposal is a 5-point action plan, with interconnected solutions which can be found . 
+Now, we are reaching out to the larger CHI community for your input and feedback. You may provide feedback in person at **CHI 2026** (Wednesday afternoon at 2:15 in the Auditorium), or via .
+Best wishes, 
+Regan, Sven & Anna
+Expand
+#### Take the SIGCHI membership survey!
+19 Mar 2026
+**Please take our** and help us identify areas where we are doing well, things that we can improve, and where we should develop new initiatives. 
+SIGCHI strives to create an enriching and supportive environment and we want to make sure the SIGCHI member experience is aligned with this goal. We look forward to your responses and to communicating back the results!
+The survey will remain open until **April 5, 2026.**
+Expand
+#### SIGCHI Town Hall Preview (March 23, 2026)
+16 Mar 2026
+Every year, there is a SIGCHI Town Hall at the CHI conference, where we update our members on the state of the SIG, and discuss several issues that are important to our community. 
+This year, given how much is in flux around us, we want to make space for members to raise questions or concerns in advance. To help facilitate this, we are hosting a virtual on **Monday, March 23**.
+All members are welcome to join and participate, and to draw attention to anything they would like to see addressed at the town hall on April 15 in Barcelona. On our end, we will share efforts and initiatives we have been focusing on, and get your input on these as well. 
+**What:** SIGCHI Town Hall Preview
+**When:** Monday, March 23, 7pm UTC ()
+**Where:** <
+Expand
+#### CACM article on Evolving the ACM Digital Library
+04 Mar 2026
+In January 2026, we held a SIGCHI town hall to discuss the Digital Library (DL) changes accompanying the ACM Open transition. This town hall was instrumental in communicating invaluable feedback to the DL Board volunteers and ACM Headquarters. Thank you to those of you who participated! 
+Those of you who are following this conversation, you may like to read this piece that just came out in the CACM: < 
+The article lays out the rationale that was shared by DL Board volunteers (Jack Davidson and Julie Williamson) in our town hall in January. It also lists changes that have been made or are underway. In particular, the use of AI was discussed heavily in the town hall, and an ACM Presidential Task Force (PTF) on the Responsible Use of AI has been set up and is meeting regularly, prioritizing these concerns. 
+SIGCHI President Neha Kumar is a member of this PTF, where she represents the SIGs, and if you have input on the responsible use of AI in the DL, she would like to hear from you. Please reach out at sigchi-president@acm.org to share your thoughts or to engage further. 
+Expand
+#### 2026 ACM SIGCHI Awards and Special Recognitions
+24 Feb 2026
+We are excited to announce this year’s ACM SIGCHI awardees, Academy inductees, and Special Recognition recipients! See our  for the full announcement. The distinctions highlight remarkable achievements in scholarship, service, mentorship, and impact. We look forward to celebrating the recipients at CHI 2026 in Barcelona! A big thank you to the awards committee for reviewing nominations!
+Expand
+#### Announcing ACM Interactive Health!
+23 Feb 2026
+Dear SIGCHI members,
+We’re excited to share about  (IH), a new SIGCHI-sponsored conference taking place this July in Porto, Portugal! We’re delighted that IH will offer a dedicated SIGCHI venue for work at the intersection of HCI and health. Please see the conference's call below for more details, including upcoming submission deadlines. Conveners of the conference have also written an informative  on the scope of IH relative to other venues. 
+**ACM Interactive Health 2026**
+July 5-8, Porto, Portugal
+<
+**About**
+The ACM Interactive Health Conference (IH) is a new conference that aims to be the leading venue for presenting work at the intersection of Human-Computer Interaction (HCI) and Health. The conference will welcome all kinds of work in this space, including but not limited to: the study of health practices; the development of methods and theories for engaging users and creating human-centered health technologies; or the design, evaluation, and implementation of health technologies to support health and well-being.
+**Participate**
+IH 2026 offers various ways to participate. Authors can still submit an extended abstract in the following categories:
+  *  - Presentations for new, emerging, and engaging contributions at the conference as a poster
+  *  - Submissions for on-site demonstrations of interactive technologies
+  *  - Informal meetings of 60–90 minutes for attendees sharing a common interest, without requiring attendees to previously submit a contribution
+  *  - Papers previously published in other conferences or journals with an important message for the community, which will be presented at IH as a poster or short presentation
+  *  - Applications for early career researchers (up to 5 years post-Ph.D.) to attend a one-day event to explore their professional activities and goals, learn from one another, and discuss topics most important to them
+Moreover, the conference will not have a full paper submission track. Paper sessions at the conference will be mostly composed of papers accepted at the .
+**Submission deadlines:**
+  * Short Forms: February 23rd 2026
+  * Demos and Exhibitions: February 26th 2026
+  * Birds of a Feather: March 5th 2026
+  * Related Contributions: March 12th 2026
+  * Early Career Workshop: April 1st 2026
+**Join us!**
+The organising team is extremely excited to bring IH to life. The HCI community has been discussing the possibility of creating a conference bridging HCI and Health for many years at the Special Interest Group on Computer-Human Interaction () of the  – the largest association of computing researchers and professionals.
+We hope you will submit your work and join us at the inaugural ACM Interactive Health Conference in Porto, Portugal. You will be joined by researchers, designers, practitioners, healthcare professionals, and patients to reflect and discuss emerging challenges and opportunities across the social-technical ecosystems of health and well-being.
+For further details about the submissions, review, publication process, or general information about the conference, please go to .
+Expand
+#### Commemorating Vicki Hanson
+12 Feb 2026
+Thank you so much, those who shared your thoughts in remembrance of Vicki. You can find them in our post here: <
+Please note that Vicki’s family is hosting a virtual **Celebration of Life for Vicki Hanson** event on **February 21st at 11:00EST.** If you'd like to attend, please email sigchi-president@acm.org for the Zoom link. If you would like to also speak at the event, you can let Bran Knowles know at b.h.knowles1@lancaster.ac.uk.
+Expand
+#### Remembering Vicki L Hanson
+21 Jan 2026
+It is with great sadness that we must inform you that our former CEO and President, Vicki L. Hanson, passed away on January 20. As no doubt many of you know, Vicki gave many, many years of service to our SIG, until she was elected ACM President in 2016. Then from 2018 to 2025, she served as ACM CEO, and no doubt touched every one of our lives, directly or indirectly. 
+As we remember Vicki and grieve her loss, we invite members of our community—you all—to share a few words of remembrance or condolence. If you feel moved to do so, please send a short message, reflection, or memory of Vicki to sigchi-president@acm.org. We will compile these messages into a community blog post to honor Vicki and reflect the many ways in which her contributions shaped our community. There is no expectation to share—only an open invitation. We are grateful for any care, kindness, and support you would like to extend at this time, in remembrance of Vicki. 
+Expand
+#### Open call for chairing CHI 2028 in South Africa
+19 Jan 2026
+We’re very, very excited to share that **CHI 2028 will be in South Africa** and the CHI Steering Committee has put forth an open call for the **General Chairs and Technical Program Chairs of CHI 2028** (and beyond). 
+They especially welcome volunteer leaders with experience in cultivating participation from the Global South and South Africa in particular. If this is you, _or_ if you would like to nominate a colleague,  by **February 16, 2026.**
+You can find the  on the CHI Steering Committee website for more detail about each role.
+Expand
+#### Announcing new SIGCHI VP for Operations
+19 Jan 2026
+We are delighted to announce our new **SIGCHI VP for Operations: Carla Griggio.** Learn more about her and her vision .
+We thank **Kashyap Todi** for contributing in this role from July 2021 to January 2026. If you are curious: in addition to serving as a voting member of the SIGCHI Executive Committee, from , the VP Ops attends to the following: 
+  * Overseeing all operational aspects of SIGCHI’s electronic infrastructure, including: e-mail lists, web sites, and databases
+  * Serving as, or designating a volunteer to serve as, SIGCHI’s information director and liaison with ACM’s technical staff
+  * Coordinating operational aspects of SIGCHI’s publicity program, outreach activities, and other activities
+  * Recruiting and managing volunteers to maintain SIGCHI’s electronic and physical infrastructure
+  * Overseeing any committees organized to facilitate operations activities. The membership of these committees is subject to approval by the SIGCHI Executive Committee.
+Expand
+#### Town Hall on ACM DL Basic/Premium
+13 Jan 2026
+A very happy new year to you all! 
+You are invited to attend our upcoming **SIGCHI Town Hall** , on **January 16th, 2026** , where we will discuss the recent changes to the ACM Digital Library—the Basic and Premium versions of the DL—that were launched just prior to the launch of ACM Open on January 1, 2026. This is of high relevance for the ACM publishing community and dialogue is essential to ensuring that we are on the same page and moving forward together. Please join us. 
+We will be joined by **Julie Williamson**(DL Board Member)**, Jack Davidson**(DL Board Chair), and **Yannis Ioannidis**(ACM President). **Please read this letter** from the ACM President re: the DL and recent changes: <
+**Date and Time: Friday, Jan 16, 1:30pm UTC** ()
+**Zoom:** <
+**Please use this Slido link** to add any questions/comments you would like to see addressed in this session or after: <
+Expand
+#### New Blog Post on Financial Hardship Waivers
+19 Dec 2025
+We are about **12 days away from the launch of ACM Open**! For most of us, covered through ACM’s agreements with institutions and countries around the world, this is absolutely amazing news. 
+For those not yet covered, we assure you that SIGCHI is committed and prepared as we move into this year of transition, in terms of both volunteer and financial resources, to ensure that all our authors and research make it through smoothly as well. 
+Here is a blog post summarizing key points re: Article Processing Charges and financial hardship waivers as we move forward, for both conference leaders and authors: <
+Even if you are ACM Open-covered, we encourage you to scan the post to keep yourselves updated on how we are navigating this transition as a SIG—especially if you are one of our volunteer leaders. 
+As the post mentions, and on behalf of the SIG, we want to thank the numerous staff and volunteers who have been working hard through this year to make sense of this major transition, and ensure that we are ready to move forward as inclusively as possible. 
+Many thanks to ACM Headquarters for introducing subsidies and implementing complex workflows to offer the SIGs agency in supporting our authors, the SIG Governing Board for providing guidance and financial support, SIGCHI’s Council of Steering Committee Chairs for staying on top of these changes, the SIGCHI Conferences Team for their endless support of conferences, and the SIGCHI APCs Committee that will be ensuring that our authors’ financial hardship waivers are processed and approved. 
+Please email sigchi-apcs@acm.org or reply to this email with any questions.
+Expand
+#### New Issue of Voices of SIGCHI
+18 Dec 2025
+We are excited to share the  of Voices of SIGCHI, our quarterly newsletter that launched earlier this year! This issue features:
+  * An insightful  on the evolving intersection of HCI and AI, by Jonathan Grudin at University of Washington
+  * A new piece for the  column examining how ethics intersects with peer review, by Michael Zimmer, Casey Fiesler, and Jessica Vitak from the SIGCHI Research Ethics Committee
+  * Updates on  from VP Chapters Jeni Paay, and announcement of a , Turkey by Yaman Biçer
+  * Reflections from this year's **SIGCHI-sponsored summer schools** in  (by Asia Committee member Thippaya Chintakovid) and the  (by Mediterranean Committee chair Maristella Matera and colleagues)
+  * Reflections on **SIGCHI Development Fund-supported initiatives** across  (by Evropi Stefanidi and Paweł Woźniak), and  (by Giuliana Vitiello and colleagues)
+If you didn't get a chance to look through **past issues** , some highlights include a retrospective on the earlier  by its editor-in-chief Steven Pemberton, reflections on consent in the  from the Research Ethics Committee,  by VP Membership Adriana Vivacqua, and a piece on  by yours truly. 
+For 2026, we'll be launching **member spotlights** to showcase the incredible people who make up SIGCHI and their passions and contributions. Please reach out at sigchi-vp-communications@acm.org if you want to participate or nominate someone. As always, please also reach out if you have an idea for a new column or article!
+Expand
+#### CHI 2027 Leadership Team and Open Call
+16 Dec 2025
+The CHI Steering Committee and the SIGCHI Exec are pleased to announce the leadership team for CHI 2027 in Pittsburgh, PA, USA! 
+CHI 2027 General Chairs: Amy Ogan (Carnegie Mellon University) and Anind K. Dey (University of Washington)
+CHI 2027 Technical Program Chairs: Rosta Farzan (University of Pittsburgh) and Sven Mayer (TU Dortmund University)
+Please join us in wishing Amy, Anind, Rosta, and Sven well in taking on these leadership roles! 
+On their behalf, we're also sharing the . You're welcome to apply, regardless of experience volunteering or attending CHI. The call will be open until Jan 9, 2026.
+Expand
+#### November Coffee Hour
+17 Nov 2025
+We will be continuing our monthly ! Please join us for open and informal conversation on anything related to conferences, community, and chapters. Details are below:
+**When** : Wednesday, November 19 at 9pm UTC () **Where** : 
+Expand
+#### New Blog Posts: Town Hall Updates + Annual Report
+15 Nov 2025
+We have two new blog posts out on the SIGCHI Medium: 
+First is a  of topics discussed at the quarterly town hall on Nov 13---awards, ACM Open, and accessibility. We thank those who attended, and Kentaro Toyama (Adjunct Chair for Awards) and Dragan Ahmetovic (VP Accessibility) for co-presenting and sharing updates on awards and accessibility. 
+Second is SIGCHI's . Every year, the SIGs submit an annual report to the SIG Governing Board, describing their activities and accomplishments of the year. We submitted ours to the SGB back in August, but thought we could also share these in blog format with you all, particularly to offer an overview to those who keenly follow our SIG and an introduction to those who are new to it.
+Expand
+#### SIGCHI Awards Nominations
+31 Oct 2025
+Nominations for the 2026 cycle of the SIGCHI awards and special recognitions are now open. Please nominate your colleagues and recent Ph.D. graduates! The deadline is **December 13, 2025 (Sat)** , at **11:59pm Anywhere on Earth (AoE)**. 
+Nomination form (requires a Submittable login): 
+Please reach out to the AC for Awards Kentaro Toyama at toyama@umich.edu with any questions. Refer to the call below for more information:
+Please forward this call widely to your HCI-related networks.
+People can't get awards for which they are not nominated, so we hope that you will help by nominating not just your closest colleagues, but also deserving people from institutions and organizations around the world, especially from the Global South. 
+**SIGCHI Awards** identify and honor  of the field of human-computer interaction. We currently present awards in  and have  to oversee their review.As we did last year, we are also inviting **SIGCHI Special Recognitions** to celebrate and honor individuals/groups who have made exceptional contributions to HCI in ways not captured by our existing awards. These can be of any meaningful type, but here are some examples: 
+  * Emerging Researcher
+  * Excellence in HCI Education
+  * Community Building and Outreach
+  * Significant Contribution to Diversity and Inclusion in HCI
+  * Impactful Industry-Academia Collaboration 
+  * Lifetime Achievement in HCI Mentorship
+  * Etc.
+Special recognitions are not awards, but they will help us identify new permanent awards to propose for future cycles.
+Expand
+#### ACM Open + Accessibility + Awards Nov 13 Town Hall
+30 Oct 2025
+Please join us for our upcoming quarterly town hall. We will be discussing ACM Open, accessibility, and awards, while leaving some time at the end for more open-ended feedback and Q&A:
+**1. ACM Open: What’s Next?:** 2026 is the transition year as ACM moves to 100% open access. Most of our authors are already covered through ACM Open agreements. For those who are not yet covered and would like to apply for a Financial Hardship Waiver to cover Article Processing Charges (APCs) through SIG funds, the SIG will be setting up a process for enabling Financial Hardship Waivers. If you have any concerns about whether and how you will be covered, please attend. 
+**2. Accessibility across SIGCHI:** Dragan Ahmetovic, SIGCHI VP Accessibility, will present his vision for accessibility across SIGCHI our conferences, and invites you to attend and discuss where we can do better. If you have been or wanted to be an access chair at any SIGCHI conference, please join. 
+**3. SIGCHI Awards 2026:** With Kentaro Toyama as our new chair (), we are ready to dive into SIGCHI Awards Season. The call for nomiations will go out shortly, and Kentaro will be at the Town Hall to answer any questions about the process. If you are thinking of nominating someone but do not know which category to nominate them under, or how to go about the application process, you are welcome to join! 
+**What:** **When:** November 13, 2025, 2pm UTC () **Where:**
+Expand
+#### ACM Open and APCs in 2026
+29 Oct 2025
+As we get closer to January 1, 2026, we will be sharing more information regarding our SIG's transition to ACM Open. Please keep an eye out for these communications, so we can together ensure that the process of transitioning is smooth as possible for all authors of our SIG. 
+We are setting up a **Financial Hardship Waiver Program for 2026** to ensure that any SIGCHI contributions with authors lacking ACM Open coverage (i.e. through institutional agreements or geographic waivers) and lacking support for covering their APCs will be able to apply for financial hardship waivers. Guidance and workflows for approving these waivers will be shared shortly, as soon as we have worked out these details. Also, any amount that SIGCHI allocates towards covering APCs through 2026 will be matched by the SIG Governing Board, which eases the financial burden on us and we are grateful for the support. 
+Our SIG is estimated to have roughly 600 contributions without ACM Open coverage. The percentage of contributions now covered by an ACM Open institutional agreement across SIGCHI conferences ranges from 70% to 93%, and is continuing to rise. 
+We will be organizing our next virtual town hall in a couple of weeks where we will focus on the ACM Open transition, as well as other topics. Please stay tuned for details, and join us to share your input and/or concerns. 
+Expand
+#### October Coffee Hour
+16 Oct 2025
+We will be continuing our monthly virtual coffee hour on ! Please join us for open and informal conversation on anything related to conferences, community, and chapters. We made a small adjustment in the schedule for this month; details are below:
+**When** : Thursday, October 16 at 1pm UTC () **Where** : 
+Expand
+#### September Coffee Hour
+19 Sep 2025
+We will be continuing our monthly virtual coffee hour on ! Please join us for open and informal conversation on anything related to conferences, community, and chapters. We made a small adjustment in the schedule for this month; details are below:
+**When** : Thursday, September 25 at 11pm UTC () **Where** : 
+Expand
+#### SIGCH Monthly Coffee Hours
+18 Aug 2025
+We’re excited to invite members to our new **monthly coffee hour**! This will be an informal space for open conversation around topics related to **conferences, community, and chapters**. As the community goes through big changes with ACM Open, geopolitical shifts, and more, these gatherings are a chance to share what’s on your mind and connect with us and other members. Some coffee hours may have a theme depending on current events. 
+Our  will be on **ACM Open** : **When** : August 21 at 2pm UTC () **Where** : On 
+We’ll rotate times each month to accommodate different time zones. You can expect email announcements about future coffee hours. Whether you have thoughts or questions to share, or simply want to listen in, we’d love to have you there!
+Expand
+#### SIGCH Open Call for Volunteers 2025
+07 Aug 2025
+Announcing our  (deadline Sept 30th)!
+The SIGCHI Exec is supported by several committees. We are working with current chairs to review how committee remits can best support the SIG. The 16 committees we are currently recruiting for are listed in our call in bold.
+If you are currently a volunteer, you can reaffirm your interest in serving in your role(s) using the form (linked above). If you are not currently a volunteer, but would like to nominate yourself or someone else, please use the same form.
+We will close this call on September 30th, and work with committee chairs to match people to volunteer roles.
+Further details, including committee-specific calls, are in our .
+Please email sigchi-4all@acm.org with any questions.
+Expand
+#### Q&A + Blog Post on ACM Open Transition
+30 May 2025
+As we have been discussing with conference leaders, the ACM Council voted back in March on a transition plan for ACM Open (which kicks off on January 1, 2026) towards ensuring that our conferences and SIG do not lose people as we make the shift to open access. 
+On **Monday** (**June 2, 7pm UTC**), we will be joined by **Scott Delman** , ACM Director of Publications, who will talk to us about the transition and answer any questions we might have. Any members who would like to learn more about our upcoming conference transition to ACM Open is welcome. 
+See the  for the Zoom link.
+You may also wish to read our  published last month on the transition, which outlines details of the plan and answers some frequently asked questions.
+Expand
+#### Seeking Volunteers for (re)presented Initiative
+13 Apr 2025
+SIGCHI is co-sponsoring the (re)presented Initiative, coordinated by community members Rua Williams and Jennifer Mankoff. Please see their message: 
+Over recent months, we have held a series of listening sessions with the larger community of folks affected by travel restrictions for a wide variety of reasons (e.g., disability, parenting, visas). Over and over we have heard that the most challenging impacts travel restrictions have on careers relates to networking and visibility. In that vein, we have proposed a new initiative, to be jointly sponsored by AccessSIGCHI, SIGACCESS, and SIGCHI, focused on creating presentation opportunities for individuals affected by these restrictions. Each of our university and industry partners will be asked to reserve at least one slot per year in their existing seminar series to build a distributed seminar series for the “unrepresented presentations” of our various conferences. We are hoping to launch this fall; in the meantime we need to form an organizing committee and are seeking volunteers.
+If you are interested in helping, please reach out to us through this form:  You are also invited to join our mailing list, ACCESS-COMMUNITY@listserv.acm.org, to hear more about this and related initiatives.
+Expand
+#### Open Sessions on Conference Participation and Contingencies
+31 Mar 2025
+On Thursday, April 3, we will be holding two open sessions on conferences and contingency planning, at 1pm UTC () and 9pm UTC (). Each of them will be ~45 minutes long. 
+We have heard concerns from members of our community regarding ongoing events that are likely to impact conference participation with downstream effects on member and conference wellbeing. In response, we are organizing this forum to make space for concerns, brainstorm contingency plans, and find ways to keep the conversation going. 
+_Session 1_
+When: Thursday, April 3, 1pm UTC
+Zoom: <
+_Session 2_
+When: Thursday, April 3, 9pm UTC
+Zoom: <
+Expand
+#### Zoom discussions on peer review for CHI
+31 Mar 2025
+The CHI Steering Committee will be holding Zoom discussions on peer review for CHI. Details from the committee are below:
+The CHI Steering Committee (SC) wants to hear from the SIGCHI community on future guidelines for minimum qualifications for peer review roles at CHI, to help ensure quality reviews and a process aligned with SIGCHI policies and values. A working group on peer review for CHI has put together these recommendations. Please read the  and join us for synchronous zoom sessions to discuss.
+**CHI: Roles Criteria Meeting 1**
+Tuesday, April 8 8:00 US Pacific time (< for conversion to your timezone)
+Link: <
+Meeting ID: 997 5300 2498
+Passcode: 798421
+**CHI: Roles Criteria Meeting 2**
+Tuesday, April 8 20:00 US Pacific time (< for conversion to your timezone)
+Link: <
+Meeting ID: 914 2057 4901
+Passcode: 719802
+We want to hear from you! The Steering Committee will meet immediately after CHI to consider your feedback before moving forward with recommendations for future CHI conferences.
+We look forward to your input!
+Katherine Isbister and Regan Mandryk on behalf on the CHI Steering Committee and Peer Review Workgroup
+Expand
+#### Announcing the 2025 SIGCHI Awards!
+25 Feb 2025
+We are very pleased to announce the awardees for the 2025 cycle of the ACM SIGCHI Awards! Centrally administered by the SIGCHI Executive Committee (EC), these awards are given annually in several categories recognizing lifetime achievements in research and practice as well as societal impact and outstanding dissertations. Furthermore, the EC also inducts members into the SIGCHI Academy. The awardees will be formally recognized at the upcoming ACM CHI 2025 conference in Yokohama, Japan in April, during which they may give a talk or participate in a panel discussion. Here follow the awardees, organized by award category and then alphabetical order:
+**ACM SIGCHI Lifetime Research Award**
+  * Paul Dourish - University of California, Irvine, USA
+  * Pattie Maes - Massachusetts Institute of Technology, USA
+**ACM SIGCHI Lifetime Service Award**
+  * Kia Höök - KTH Royal Institute of Technology, Sweden
+  * Yoshifumi Kitamura - Tohoku University, Japan
+  * Aaron Quigley - CSIRO Data61, Australia
+**ACM SIGCHI Societal Impact Award**
+  * Tiago Guerreiro - University of Lisbon, Portugal
+  * Alexis Hiniker - University of Washington, USA
+  * Kentaro Toyama - University of Michigan, USA
+**ACM SIGCHI Outstanding Dissertation Award**
+  * Leona Holloway - Monash University, Australia
+  * Katerina Stepanova - KTH Royal Institute of Technology, Sweden
+  * Anupriya Tuli - KTH Royal Institute of Technology, Sweden
+  * Zijie Jay Wang - OpenAI, USA
+  * Nur Yildirim - University of Virginia, USA
+**ACM SIGCHI Academy Class of 2025**
+  * Carl DiSalvo - Georgia Institute of Technology, USA
+  * James Fogarty - University of Washington, USA
+  * Elizabeth Gerber - Northwestern University, USA
+  * Wendy Ju - Cornell Tech, USA
+  * Pattie Maes - Massachusetts Institute of Technology, USA
+  * Joanna McGrenere - University of British Columbia, Canada
+  * Antti Oulasvirta - Aalto University, Finland
+  * Kate Starbird - University of Washington, USA
+  * Wolfgang Stuerzlinger - Simon Fraser University, Canada
+  * Kentaro Toyama - University of Michigan, USA
+  * Martin Wattenberg - Harvard University/Google, USA
+**ACM SIGCHI Special Recognitions** Because of their exploratory nature, each special recognition is given with a citation.
+  * Gregory Abowd - Northeastern University, USA - _For his extraordinary ability to inspire and mentor individuals from diverse backgrounds and his commitment to fostering collaboration, creativity, and impact._
+  * Cecilia Aragon - University of Washington, USA - _For establishing human-centered data science as a new field bridging HCI and data science, demonstrating its impact through applications from astrophysics to energy systems._
+  * Nadia Campo Woytuk - KTH Royal Institute of Technology, Sweden - _For early-career research in intimate body-sensing technologies, developing open-source methods for studying intimate care, and creating inclusive maker spaces that support feminist HCI._
+  * Mark Colley - University College London, UK - _For early-career contributions to inclusive HCI research, extensive community building, and championing open science in automotive user interfaces._
+  * Gustavo Lopez - University of Costa Rica, Costa Rica - _For advancing HCI research and education in Latin America through community leadership, helping to establish regional SIGCHI chapters, and fostering collaboration in HCI._
+  * Jasmine Lu - University of Chicago, USA - _For pioneering research in ecological HCI through novel hardware interfaces and fostering communities around sustainable computing._
+  * Jooyoung Park - KTH Royal Institute of Technology, Sweden - _For early-career contributions to feminist HCI and haptic technology design, advancing methodologies for embodied care technologies, and fostering inclusive research._
+  * Nadya Peek - University of Washington, USA - _For democratizing automation through open-source hardware, building global maker communities, and bridging academic research with grassroots fabrication practices._
+  * Anicia Peters - National Commission of Research, Science and Technology, Namibia - _For pioneering the development of HCI in Africa, transforming HCI education in Namibia, and applying human-centered approaches to critical societal challenges._
+  * Christian Sturm - Technische Hochschule Ingolstadt, Germany - _For sustained contributions to global HCI education, building student communities across Latin America and Africa, and championing inclusive approaches to design competitions._
+  * The Google/academia Android XR interaction team - _For pioneering the interaction framework of Android XR through exemplary industry-academia collaboration, establishing foundational input methods and interaction guidelines for XR operating systems._
+    * Karan Ahuja (Northwestern University)
+    * Andrea Colaco (Google)
+    * Massimiliano Di Luca (University of Birmingham)
+    * Hans Gellersen (Lancaster University)
+    * Mar Gonzalez-Franco (Google)
+    * Eric J. Gonzalez (Google)
+    * Ken Pfeuffer (Aarhus University)
+    * Hasti Seifi (Arizona State University)
+Please see the  for more details. Congratulations to the awardees and thank you to the award committee for identifying these brilliant individuals!
+Expand
+#### ACM Recognizes SIGCHI Members
+14 Feb 2025
+Niklas Elmqvist, our Awards Chair, will very soon be announcing our 2025 awardees and special recognitions (new this year!). Today, we'd like to call your attention to the new ACM Fellows (Niklas among them!) and Distinguished Members with contributions to SIGCHI. Please join us in congratulating: 
+ACM’s 2024 Distinguished Members: **Yunan Chen** , **Magy Seif El-Nasr** , **Nicole Ellison** , **Kim Marriott** , **Florian Schaub** , **Johannes Schöning** , and **Allison Woodruff**
+ACM’s 2024 Fellows: **Susanne Bødker** , **Niklas Elmqvist** , **Jeffrey Heer** , **Scott Hudson** , **Cliff Lampe** , **Claudio T. Silva** , and **Thad Starner**
+And congratulations to **Michel Beaudouin-Lafon** , long time ACM and SIGCHI volunteer leader, for being elected to the French Academy of Sciences!
+SIGCHI is lucky to have you be a part of it! 
+Expand
+#### Statement from ACM Leadership
+14 Feb 2025
+Please see the statement from ACM leadership this week (posted on ) on its commitment to the ACM mission and core values in all its scientific and educational activities!
+If you have any related concerns/suggestions, please reach out to the . 
+Expand
+#### 2025 SIGCHI Awards Deadline Extension
+14 Dec 2024
+We are extending the deadline for SIGCHI award nominations until **Dec 19, midnight AoE**! Please make sure to get your nominations for awards and special recognitions in! More information and the link to the nomination form are on our .
+Expand
+#### 2025 SIGCHI Awards
+25 Nov 2024
+Nominations for the 2025 SIGCHI awards are now open! Please submit nominations by midnight AoE on December 14, 2024. 
+We also newly invite SIGCHI Special Recognitions to honor contributions that may not be fully captured by our existing awards, such as Excellence in HCI Education, Community Building and Outreach, and more! These will help us identify new permanent awards to propose for future cycles.
+See our  for details about the awards and nomination process!
+Expand
+#### Conferences Town Hall
+18 Oct 2024
+We are holding a Conferences Town Hall on Monday, October 28th, 2-3pm UTC (the first of what will be quarterly town halls)! Find details on our . 
+Following the SIGCHI Futures Summit earlier this year, the EC has been focused on supporting our conferences—with logistics, finances, ACM OPEN, and more. Come meet our new Conferences Team, hear key updates about our conferences and publications, and discuss how we can further strengthen support!
+This is open to past/present/future chairs and organizers of any of our conferences, but any attendees of SIGCHI conferences are also invited to listen and provide input.
+Expand
+#### 2023-2024 Annual Report
+29 Aug 2024
+The SIGCHI Exec has submitted our annual report, highlighting SIG developments over the 23-24 fiscal year! We've also  if you'd like to read it. Thank you to the many current and prior members of the Exec who contributed to this!
+Expand
+#### Announcing "Announcements"!
+28 Aug 2024
+We are excited to share that, starting this term, we will be posting announcements here for the SIGCHI community to stay updated on news---big and small---from the SIGCHI Exec! We aim for Announcements to support awareness and transparency of SIGCHI's operations. Stay tuned for updates ranging from new open calls, to decisions made by the Exec, to initiatives from our committees.
+Expand
+!
+!
+© ACM Special Interest Group on Computer-Human Interaction · 2026
+Powered by](
+Back to top
+
+
+Clickable buttons are wrapped in <button> tag
+<button>What is SIGCHI?<button>
+<button>Ethics and Conduct<button>
+<button>Policies<button>
+<button>CARES<button>
+<button>Voting History<button>
+<button>Contact Us<button>
+<button>Membership<button>
+<button>Executive Committee<button>
+<button>All Committees<button>
+<button>Chapters<button>
+<button>Awards<button>
+<button>Volunteer History<button>
+<button>Upcoming Conferences<button>
+<button>Conference History<button>
+<button>Development Fund<button>
+<button>Gary Marsden Travel Awards<button>
+<button>Guides for Authors<button>
+<button>Guides for Organizers<button>
+<button>Meetings<button>
+<button>Announcements<button>
+<button>Newsletters<button>
+<button>Home<button>
+<button>April issue of<button>
+<button>Voices of SIGCHI<button>
+<button>Town Hall Preview<button>
+<button>SIGCHI<button>
+<button>virtual coffee hour on November 19<button>
+<button>leaders and shapers<button>
+<button>six categories<button>
+<button>four awards subcommittees<button>
+<button>Quarterly Town Hall<button>
+<button>October 16<button>
+<button>September 25<button>
+<button>first coffee hour<button>
+<button>event page<button>
+<button>SIGCHI President<button>
+<button>awards webpage<button>
+<button>event page<button>
+<button>About<button>
+<button>Chapters<button>
+<button>Calendar<button>
+<button>Updates<button>
+<button>Memberships<button>
+<button>Privacy Policy<button>

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0285_f8ce7b7460a0",
+  "source_index": 285,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京邮电大学计算机学院于2024年5月8日的学术报告由谁主讲？",
+  "prompt": "南京邮电大学计算机学院于2024年5月8日的学术报告由谁主讲？",
+  "expected_answer": "Jiankang Deng",
+  "root_url": "https://cs.njupt.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njupt.edu.cn/2024/0506/c9224a261891/page.htm"
+    ],
+    "golden_path": [
+      "root->学术组织与交流->2024年5月8日学术报告——Jiankang Deng"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 55.482,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0285_f8ce7b7460a0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0285_f8ce7b7460a0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

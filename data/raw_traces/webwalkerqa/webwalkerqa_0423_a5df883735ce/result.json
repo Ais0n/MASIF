@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0423_a5df883735ce",
+  "source_index": 423,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "郑州大学计算机与人工智能学院在2024年举办的廉政提醒谈话会和博士研究生新生入学教育活动中，分别主持会议的党委书记和发言的副书记是谁？",
+  "prompt": "郑州大学计算机与人工智能学院在2024年举办的廉政提醒谈话会和博士研究生新生入学教育活动中，分别主持会议的党委书记和发言的副书记是谁？",
+  "expected_answer": "商建东和仝宏伟",
+  "root_url": "http://www7.zzu.edu.cn/csai/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www7.zzu.edu.cn/csai/info/1146/2838.htm",
+      "http://www7.zzu.edu.cn/csai/info/1146/2636.htm"
+    ],
+    "golden_path": [
+      "root->我院召开重点领域廉政提醒谈话会",
+      "root->计算机与人工智能学院、软件学院开展博士研究生新生入学教育暨座谈会"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 23.208,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0423_a5df883735ce/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0423_a5df883735ce/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

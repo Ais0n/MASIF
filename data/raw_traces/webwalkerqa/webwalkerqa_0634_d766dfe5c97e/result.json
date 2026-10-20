@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0634_d766dfe5c97e",
+  "source_index": 634,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在长安大学信息工程学院徐志刚教授指导的两篇在《Transportation Research Part C》上发表的交通运输学科论文中，各篇的第一作者分别是谁？",
+  "prompt": "在长安大学信息工程学院徐志刚教授指导的两篇在《Transportation Research Part C》上发表的交通运输学科论文中，各篇的第一作者分别是谁？",
+  "expected_answer": "李金龙 和 张宇琴",
+  "root_url": "https://it.chd.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.chd.edu.cn/2022/1226/c7371a226353/page.htm",
+      "https://it.chd.edu.cn/2022/0704/c7371a221002/page.htm"
+    ],
+    "golden_path": [
+      "root->学术交流-><<上一页->我院徐志刚教授团队在交通运输学科Top期刊TR- C上发表高水平论文",
+      "root->学术交流->尾页->我院博士生张宇琴在交通运输学科国际顶级期刊TR-C发表论文"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 34.793,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0634_d766dfe5c97e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0634_d766dfe5c97e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0208_92c4ebd8d8a1",
+  "source_index": 208,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the deadline for full paper submission and acceptance feedback dates for the 2025 CIGRE Symposium in Trondheim?",
+  "prompt": "What are the deadline for full paper submission and acceptance feedback dates for the 2025 CIGRE Symposium in Trondheim?",
+  "expected_answer": "The deadline for full paper submission is February 3, 2025, and the date for acceptance feedback is March 3, 2025.",
+  "root_url": "https://www.cigre.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.cigre.org/article/GB/events/cigre-symposia/cigre-symposium-2025-in-trondheim-norway"
+    ],
+    "golden_path": [
+      "root->CIGRE Symposia->View More"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 90.249,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0208_92c4ebd8d8a1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0208_92c4ebd8d8a1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

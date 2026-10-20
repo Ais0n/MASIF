@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0576_7a8404a1ae9f",
+  "source_index": 576,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "比较2010年和2023年浙江大学计算机学院硕士研究生考试安排，指出主要变化是什么？",
+  "prompt": "比较2010年和2023年浙江大学计算机学院硕士研究生考试安排，指出主要变化是什么？",
+  "expected_answer": "2010年为笔试形式，安排在11月6日晚上；2023年为上机考试，安排在3月24日下午。主要变化是考试形式和日期的变化。",
+  "root_url": "http://www.cs.zju.edu.cn/csen/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2010/1104/c26994a1203257/page.htm",
+      "http://www.cs.zju.edu.cn/csen/2023/0318/c27010a2730340/page.htm"
+    ],
+    "golden_path": [
+      "root->研究生教育->通知公告->2010春入学计算机技术专业工程硕士数字媒体考试通知",
+      "root->招生就业->硕士招生->浙江大学计算机学院2023年硕士研究生招生上机考试说明（3号通知）(更新)"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 37.507,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0576_7a8404a1ae9f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0576_7a8404a1ae9f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

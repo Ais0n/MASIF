@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0171_4709fea660a7",
+  "source_index": 171,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京航空航天大学计算机科学与技术学院举办的就业嘉年华活动中，包含哪些体验活动，这些活动是在何时举办的？",
+  "prompt": "南京航空航天大学计算机科学与技术学院举办的就业嘉年华活动中，包含哪些体验活动，这些活动是在何时举办的？",
+  "expected_answer": "体验活动包括意识唤醒、逐梦探索、能力成长、实战达成、赋能未来五大板块，活动于2024年11月5日举办。",
+  "root_url": "http://cs.nuaa.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.nuaa.edu.cn/2024/1106/c11624a357795/page.htm"
+    ],
+    "golden_path": [
+      "root->计算文化月 | 学院成功举办“就业逐梦 职击未来”就业嘉年华活动"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 19.53,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0171_4709fea660a7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0171_4709fea660a7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

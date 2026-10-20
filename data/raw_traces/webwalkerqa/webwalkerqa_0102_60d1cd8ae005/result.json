@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0102_60d1cd8ae005",
+  "source_index": 102,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年大连理工大学计算机科学与技术学院举行的两次重要党课活动中，谁担任了主讲及指导角色？",
+  "prompt": "在2024年大连理工大学计算机科学与技术学院举行的两次重要党课活动中，谁担任了主讲及指导角色？",
+  "expected_answer": "葛宏伟",
+  "root_url": "http://cs.dlut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.dlut.edu.cn/info/1076/3719.htm",
+      "http://cs.dlut.edu.cn/info/1076/3459.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->计算机学院第二教工党支部开展党纪学习教育",
+      "root->党建工作->计算机学院开展书记讲党课暨毕业生党员行前教育活动"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 56.303,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0102_60d1cd8ae005/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0102_60d1cd8ae005/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

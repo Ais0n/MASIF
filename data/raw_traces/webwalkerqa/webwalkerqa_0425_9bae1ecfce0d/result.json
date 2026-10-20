@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0425_9bae1ecfce0d",
+  "source_index": 425,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年中国游戏行业年会的金手指奖中，多益网络旗下移动端和端游分别是哪两款游戏荣获了大奖？",
+  "prompt": "在2024年中国游戏行业年会的金手指奖中，多益网络旗下移动端和端游分别是哪两款游戏荣获了大奖？",
+  "expected_answer": "《梦想世界3》手游和《枪火重生》",
+  "root_url": "https://www.duoyi.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.duoyi.com/dyproducts/",
+      "https://www.duoyi.com/news/news_30902.shtm#content-inner"
+    ],
+    "golden_path": [
+      "root->游戏产品了解更多游戏",
+      "root->多益网络旗下产品荣获2024金手指奖两大奖项"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "在2024年中国游戏行业年会的金手指奖中，多益网络旗下端游获得大奖的是《梦想世界3》和《幻唐志》，手游获得大奖的是《梦想世界3手游》和《幻唐志:逍遥外传》。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 54.591,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0425_9bae1ecfce0d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0425_9bae1ecfce0d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: ) and 《枪火重生》 (",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0558_20d95f56834d",
+  "source_index": 558,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "东南大学第十五届党委第五轮巡视工作组长和参与计算机科学拔尖学生培养基地书院空间落成启用仪式的学府高级人物分别是谁？",
+  "prompt": "东南大学第十五届党委第五轮巡视工作组长和参与计算机科学拔尖学生培养基地书院空间落成启用仪式的学府高级人物分别是谁？",
+  "expected_answer": "组长是张志胜，仪式参与的高级人物是东南大学副校长金石。",
+  "root_url": "https://cse.seu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.seu.edu.cn/2024/0517/c49968a490752/page.htm",
+      "https://cse.seu.edu.cn/2024/1114/c22535a511395/page.htm"
+    ],
+    "golden_path": [
+      "root->院长书记信箱->首页->关于东南大学党委第二巡视组巡视计算机科学与工程学院、软...2024-05-17",
+      "root->院长书记信箱->首页->142024-11东南大学计算机科学拔尖学生培养基地书院空间落成启用仪式暨拔尖人才培养研讨会成功举..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "东南大学第十五届党委第五轮巡视工作组长是计算机科学与工程学院、软件学院、人工智能学院的相关领导，但具体姓名未明确提及。参与计算机科学拔尖学生培养基地书院空间落成启用仪式的学府高级人物包括计算机科学与工程学院党委书记杨蕙和院长张敏灵。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 5,
+  "duration_seconds": 44.262,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0558_20d95f56834d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0558_20d95f56834d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

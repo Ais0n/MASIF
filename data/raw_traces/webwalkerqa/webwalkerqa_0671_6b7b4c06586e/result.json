@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0671_6b7b4c06586e",
+  "source_index": 671,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年中国高校计算机教育大会李萌老师获奖的教学案例以及湘亭奖学金的捐赠者是哪位校友？",
+  "prompt": "2024年中国高校计算机教育大会李萌老师获奖的教学案例以及湘亭奖学金的捐赠者是哪位校友？",
+  "expected_answer": "李萌的《面向科学计算程序的白盒测试综合训练》教学案例获奖，捐赠者是2001级校友何帅兴。",
+  "root_url": "https://jsjxy.usc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.usc.edu.cn/info/1993/11291.htm",
+      "https://jsjxy.usc.edu.cn/info/2046/11326.htm"
+    ],
+    "golden_path": [
+      "root->本科教育->南华大学教师荣获CCEC首届全国高校计算机教学案例大赛三等奖",
+      "root->校友工作->计算机学院2001级校友何帅兴捐赠《湘亭奖学金》协议签约仪式顺利举行"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 46.305,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0671_6b7b4c06586e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0671_6b7b4c06586e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

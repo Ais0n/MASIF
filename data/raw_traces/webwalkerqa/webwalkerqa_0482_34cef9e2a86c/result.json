@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0482_34cef9e2a86c",
+  "source_index": 482,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在常州大学阿里云大数据学院分工会知识竞赛和2023年度学院教职工（代表）大会中，由谁作为分工会和学院会议的主要组织者和主持人？",
+  "prompt": "在常州大学阿里云大数据学院分工会知识竞赛和2023年度学院教职工（代表）大会中，由谁作为分工会和学院会议的主要组织者和主持人？",
+  "expected_answer": "王琼和李雪琪",
+  "root_url": "https://bigdata.cczu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://bigdata.cczu.edu.cn/2024/1010/c13838a372513/page.htm",
+      "https://bigdata.cczu.edu.cn/2023/1130/c13838a348313/page.htm"
+    ],
+    "golden_path": [
+      "root->分工会工作->阿里云大数据学院分工会组织分工会干部开展知识竞赛活动",
+      "root->分工会工作->大数据学院召开2023年教职工(代表)大会暨学院工会会员大会"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在常州大学阿里云大数据学院分工会工作会议中，会议由分工会主席王琼主持。因此，王琼是分工会会议的主要组织者和主持人。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 21.318,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0482_34cef9e2a86c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0482_34cef9e2a86c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

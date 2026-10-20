@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0530_9bad30bc2112",
+  "source_index": 530,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2018年12月13日，南京航空航天大学举办的程序设计竞赛与信息安全技能竞赛分别在什么时间开始？",
+  "prompt": "在2018年12月13日，南京航空航天大学举办的程序设计竞赛与信息安全技能竞赛分别在什么时间开始？",
+  "expected_answer": "程序设计竞赛开始时间为2018年12月22日14:00，信息安全技能竞赛开始时间为2018年12月23日13:00。",
+  "root_url": "http://cs.nuaa.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.nuaa.edu.cn/2018/1213/c1977a145134/page.htm",
+      "http://cs.nuaa.edu.cn/2018/1213/c1977a145136/page.htm"
+    ],
+    "golden_path": [
+      "root->教学动态->下一页>>->2018年程序设计竞赛集训队招新选拔赛暨2019年团体程序设计天梯赛校内选拔赛报名通知",
+      "root->教学动态->下一页>>->2018年“补天杯”南京航空航天大学第三届信息安全技能竞赛"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 56.873,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0530_9bad30bc2112/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0530_9bad30bc2112/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

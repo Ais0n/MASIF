@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0350_0e1d53794b99",
+  "source_index": 350,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "认知智能全国重点实验室副主任陈恩红教授于2024年4月几日来西南科技大学计算机科学与技术学院进行学术交流并作报告的？",
+  "prompt": "认知智能全国重点实验室副主任陈恩红教授于2024年4月几日来西南科技大学计算机科学与技术学院进行学术交流并作报告的？",
+  "expected_answer": "2024年4月9日",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0414/c10922a193014/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->6->认知智能全国重点实验室副主任陈恩红教授来院作学术报告2024年4月9日，受西南科技大学计算机科学与技术学院邀请，认知智能全国重点实验室副主任陈恩红教授来院进行学术交流，并作题为“生成式AI赋能自适应学习关键技术研究与应用探索”的学术报告。报告...[2024-04-12]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 74.2,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0350_0e1d53794b99/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0350_0e1d53794b99/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

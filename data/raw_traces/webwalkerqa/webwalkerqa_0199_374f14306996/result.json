@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0199_374f14306996",
+  "source_index": 199,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When should a delegation schedule a meeting with their represented country's Permanent Mission to the UN for the 2025 NMUN conference, and what alternatives exist if a meeting on that day is not possible?",
+  "prompt": "When should a delegation schedule a meeting with their represented country's Permanent Mission to the UN for the 2025 NMUN conference, and what alternatives exist if a meeting on that day is not possible?",
+  "expected_answer": "The delegation should schedule a meeting with the UN mission of their country on Monday before 1 p.m. If that's not possible, they can arrange a virtual meeting before the conference.",
+  "root_url": "https://www.nmun.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.nmun.org/conferences/new-york/register-and-plan-your-trip/plan-your-trip/mission-briefings.html#menu"
+    ],
+    "golden_path": [
+      "root->Mission Briefings->Menu"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 16,
+  "tool_calls": 7,
+  "duration_seconds": 338.011,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0199_374f14306996/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0199_374f14306996/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

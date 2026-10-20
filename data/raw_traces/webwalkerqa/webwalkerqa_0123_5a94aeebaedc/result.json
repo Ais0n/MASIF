@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0123_5a94aeebaedc",
+  "source_index": 123,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "中山大学计算机学院2017年“寻访校友的足迹”活动授旗仪式上，经验分享结束后是谁为18支寻访队伍进行了授旗，同时请给出这个仪式举行的具体日期？",
+  "prompt": "中山大学计算机学院2017年“寻访校友的足迹”活动授旗仪式上，经验分享结束后是谁为18支寻访队伍进行了授旗，同时请给出这个仪式举行的具体日期？",
+  "expected_answer": "陈征宇；2017年7月7日",
+  "root_url": "https://cse.sysu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.sysu.edu.cn/content/3149"
+    ],
+    "golden_path": [
+      "root->我院2017年“寻访校友的足迹”..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 81.544,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0123_5a94aeebaedc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0123_5a94aeebaedc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

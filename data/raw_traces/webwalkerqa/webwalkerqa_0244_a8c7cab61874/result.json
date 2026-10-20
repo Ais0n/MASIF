@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0244_a8c7cab61874",
+  "source_index": 244,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "吉林大学谭婧炜佳教授在美国留学期间一共持续了多少年，她毕业后工作的第一家公司是哪一家？",
+  "prompt": "吉林大学谭婧炜佳教授在美国留学期间一共持续了多少年，她毕业后工作的第一家公司是哪一家？",
+  "expected_answer": "5年，高通公司（Qualcomm）",
+  "root_url": "https://ccst.jlu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://ccst.jlu.edu.cn/info/1367/19945.htm"
+    ],
+    "golden_path": [
+      "root->教授->谭婧炜佳"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "吉林大学谭婧炜佳教授在美国留学期间一共持续了6年，她毕业后工作的第一家公司是美国高通公司（Qualcomm）。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 21.576,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0244_a8c7cab61874/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0244_a8c7cab61874/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

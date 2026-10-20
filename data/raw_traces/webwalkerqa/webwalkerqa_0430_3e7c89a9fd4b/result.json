@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0430_3e7c89a9fd4b",
+  "source_index": 430,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在太原理工大学计算机科学与技术学院，田景仁同学和'Ap0log1ze'团队分别在2023年和2024年参加的全国大学生信息安全竞赛与计算机大赛中，各自获得了什么奖项及他们的指导老师是谁？",
+  "prompt": "在太原理工大学计算机科学与技术学院，田景仁同学和'Ap0log1ze'团队分别在2023年和2024年参加的全国大学生信息安全竞赛与计算机大赛中，各自获得了什么奖项及他们的指导老师是谁？",
+  "expected_answer": "田景仁获得全国大学生信息安全竞赛个人挑战赛特等奖，指导老师是韩振华；'Ap0log1ze'团队在中国高校计算机大赛中获得了二等奖，指导老师是陈永乐。",
+  "root_url": "https://ccst.tyut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://ccst.tyut.edu.cn/info/2124/10671.htm",
+      "https://ccst.tyut.edu.cn/info/2132/8426.htm"
+    ],
+    "golden_path": [
+      "root->我院学子在第九届中国高校计算机大赛·网络技术挑战赛...",
+      "root->我院学子在第20届全国大学生信息安全与对抗技术竞赛届赛事的个人挑战赛中勇夺特等奖"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 45.265,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0430_3e7c89a9fd4b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0430_3e7c89a9fd4b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0111_2d712749294e",
+  "source_index": 111,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How does Tecumseh's special ability combine with the Shawnee civilization's unique river adjacency effect to enhance combat strength in Civilization VII?",
+  "prompt": "How does Tecumseh's special ability combine with the Shawnee civilization's unique river adjacency effect to enhance combat strength in Civilization VII?",
+  "expected_answer": "Tecumseh's ability 'Nicaakiyakoolaakwe' boosts unit combat strength for each city-state under your control, and it combines with the Shawnee's 'Nepekifaki,' which provides extra food for settlements near navigable rivers.",
+  "root_url": "https://civilization.2k.com/civ-vii/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://civilization.2k.com/civ-vii/game-guide/leaders/tecumseh/",
+      "https://civilization.2k.com/civ-vii/game-guide/civilizations/shawnee/"
+    ],
+    "golden_path": [
+      "root->LEADERS->Tecumseh",
+      "root->CIVILIZATIONS->Shawnee"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 12.713,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0111_2d712749294e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0111_2d712749294e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

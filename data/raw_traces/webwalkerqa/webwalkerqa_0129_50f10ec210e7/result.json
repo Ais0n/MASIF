@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0129_50f10ec210e7",
+  "source_index": 129,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "华南师范大学计算机学院2024年第二期毕业论文写作技能及实践课程培训的报名时间是什么时候？",
+  "prompt": "华南师范大学计算机学院2024年第二期毕业论文写作技能及实践课程培训的报名时间是什么时候？",
+  "expected_answer": "2024年9月10日-2024年9月20日",
+  "root_url": "http://cs.scnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.scnu.edu.cn/a/20240910/5734.html"
+    ],
+    "golden_path": [
+      "root->计算机学院2024年第二期毕业论文写作技..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "华南师范大学计算机学院2024年第二期毕业论文写作技能及实践课程培训的报名时间是2024年12月9日。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 22.826,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0129_50f10ec210e7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0129_50f10ec210e7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

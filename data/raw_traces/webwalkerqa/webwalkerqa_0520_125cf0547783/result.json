@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0520_125cf0547783",
+  "source_index": 520,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the registration fee discounts offered for attendees staying at the official hotels of the Pacific PNT and Joint Navigation Conference (JNC) in 2024 and 2025, respectively?",
+  "prompt": "What are the registration fee discounts offered for attendees staying at the official hotels of the Pacific PNT and Joint Navigation Conference (JNC) in 2024 and 2025, respectively?",
+  "expected_answer": "$500 for attendees of Pacific PNT 2024 and $300 for attendees of JNC 2025.",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/pnt/hotel.cfm",
+      "https://www.ion.org/jnc/registration.cfm"
+    ],
+    "golden_path": [
+      "root->Pacific PNT->Hotel",
+      "root->Joint Navigation Conference->Registration"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 116.085,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0520_125cf0547783/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0520_125cf0547783/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

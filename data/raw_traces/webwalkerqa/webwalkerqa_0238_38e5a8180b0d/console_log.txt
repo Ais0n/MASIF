@@ -1,0 +1,838 @@
+----- user -----
+query:
+南京工业大学计算机与信息工程学院（人工智能学院）孟凡旭在东南大学进行博士后研究期间（2021年至2023年），他以第一作者发表了多少篇SCI论文，其中包括了哪些量子计算领域顶级和重要期刊？
+official website:
+https://cise.njtech.edu.cn/
+Observation:website information:
+
+]( "计算机与信息工程学院")
+                                                                                                                                                                                                                                
+]( 
+]( 
+]( 
+]( 
+]( 
+) ) ) ) )
+! 学院新闻 
+](
+](
+](
+](
+) ) ) )
+  *  04-18
+  *  04-16
+  *  04-02
+  *  03-31
+! 通知公告 
+  * 04-14
+2026
+  * 09-23
+2025
+  * 07-08
+2025
+  * 10-16
+2023
+! 人才培养 
+  *  03-24
+  *  03-10
+  *  03-06
+  *  03-05
+  *  12-16
+! 学生工作 
+  *  ]( 05-06
+  *  12-18
+  *  12-18
+  *  12-18
+  *  12-10
+! 党建思政 
+  *  ]( 04-30
+  *  04-28
+  *  04-20
+  *  04-17
+  *  04-15
+! 学术动态 
+  * 21
+2024-10
+  * 11
+2024-10
+  * 23
+2024-07
+  * 04
+2024-07
+  * 04
+2023-12
+! 校友风采 
+  2024-12-12
+姬生利，汉族，1986年4月生，江苏徐州人，工学硕士，现任腾讯云鼎实验室数据安全产品研发负责人。2005年…
+  2024-12-12
+沈天培，汉族，1991年11月生，江苏张家港人，工学学士，现任振电（苏州）医疗科技有限公司CFO职务。沈天…
+  2024-04-15
+杨维滨，汉族，1976年6月生，江苏如皋人。1994年考入南京化工学院自动化与计算机系计算机及应用专业1994…
+! 先进典型 
+  * !
+#### 郁剑—院优秀党务工作者
+郁剑，男，1988年12月出生，2013年12月加入中国共产党，博士，…
+  * !
+#### 徐新艳—院优秀党务工作者
+徐新艳，女，1980年11月出生，2002年6月加入中国共产党，硕士…
+  * !
+#### 蒋帅捷—院优秀党务工作者
+蒋帅捷，男，1996年1月出生，2020年12月加入中国共产党，硕士…
+  *  诚聘英才 ](
+  *  强基创优 ](
+  *  实践教学 ](
+  *  校友工作 ](
+Copyright © 南京工业大学计算机与信息工程学院（人工智能学院） 版权所有 
+地址：江苏省南京市江北新区浦珠南路30号计算机与信息工程学院（人工智能学院） 
+电话：02558139500 邮编：211816
+------ 校内链接 ------ 2020年校研究生教育教学改革课题结题、省优秀研究生工作站校级培育点结题验收公示 2020年案例教学课程建设项目结题公示
+请扫描二维码
+关注官方微信
+!
+
+
+clickable button:
+
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>领导班子及分工<button>
+<button>组织架构<button>
+<button>系（部、中心）简介<button>
+<button>师资队伍<button>
+<button>高级职称<button>
+<button>中级及以下职称<button>
+<button>科学研究<button>
+<button>研究机构<button>
+<button>研究团队<button>
+<button>项目与成果<button>
+<button>纵向项目<button>
+<button>横向项目<button>
+<button>科研成果<button>
+<button>人才培养<button>
+<button>本科生培养<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>实验室建设<button>
+<button>实践基地<button>
+<button>教学成果<button>
+<button>文件下载<button>
+<button>研究生培养<button>
+<button>研究生导师<button>
+<button>培养方案<button>
+<button>课程设置<button>
+<button>文件下载<button>
+<button>党群工作<button>
+<button>理论政策<button>
+<button>规章制度<button>
+<button>党建动态<button>
+<button>工会工作<button>
+<button>统战工作<button>
+<button>关工委工作<button>
+<button>学生工作<button>
+<button>新闻速递<button>
+<button>通知公告<button>
+<button>教育管理<button>
+<button>团学工作<button>
+<button>就业专栏<button>
+<button>榜样力量<button>
+<button>资料下载<button>
+<button>校友工作<button>
+<button>工作动态<button>
+<button>校友风采<button>
+<button>捐资助学<button>
+<button>毕业合影<button>
+<button>合作交流<button>
+<button>国内合作交流<button>
+<button>国际合作交流<button>
+<button>诚聘英才<button>
+<button>人才需求<button>
+<button>人才政策<button>
+<button>计算机与信息工程学院“初心”大讲堂聚焦传统廉洁文化弘扬师德新风尚<button>
+<button>我校成功举办第一届全国量子线路设计自动化研讨会<button>
+<button>我院教师第五党支部、教师第一党支部分别获批全国、全省样板党支部培育建设单位<button>
+<button>教育家精神<button>
+<button>MORE+<button>
+<button>计算机与信息工程学院赴博泰车联网（南京）...<button>
+<button>计算机与信息工程学院召开2026年招生工作会...<button>
+<button>计算机与信息工程学院与东大成贤学院电子与...<button>
+<button>计算机与信息工程学院成功举办2026届信息类...<button>
+<button>筑牢校园安全防线，提升网络安全素养 ——我校成功举办国家安全与...<button>
+<button>计算机与信息工程学院赴博泰车联网（南京）有限公司<button>
+<button>计算机与信息工程学院召开2026年招生工作会议<button>
+<button>MORE+<button>
+<button>关于选聘2025级新生班级班主任的通知<button>
+<button>关于举办第三届计算机与信息工程学院（人工智能学院）课程思政案...<button>
+<button>关于举办计算机与信息工程学院（人工智能学院）课程思政案例设计...<button>
+<button>MORE+<button>
+<button>关于第十七届蓝桥杯大赛电子类校内模…<button>
+<button>学生事务：关于毕业预审、毕业终审的…<button>
+<button>学生事务：结业生常见问题答疑<button>
+<button>关于2026年春季学期计信学院自排考试…<button>
+<button>2025-2026学年第一学期计信学院语言…<button>
+<button>MORE+<button>
+<button>计算机与信息工程学院举办南京工业大…<button>
+<button>“青马工程”暨菁英人才开班仪式<button>
+<button>“艺暖冬日，解压续航”——计信心协…<button>
+<button>这场班会，我们共话学风，同向成长！<button>
+<button>第23届信息科技节|技艺争锋，匠心独…<button>
+<button>MORE+<button>
+<button>计算机与信息工程学院开展第五届春季…<button>
+<button>计算机与信息工程学院携手凤凰新华书…<button>
+<button>计算机与信息工程学院教职工在校第二…<button>
+<button>计算机与信息工程学院开展“国家安全…<button>
+<button>计算机与信息工程学院召开二届六次工…<button>
+<button>MORE+<button>
+<button>学术报告-Reflections on Research: Why? How? What?<button>
+<button>法国十所工程师大学UT-INSA和中国国家留学基金委联合培养博士生项…<button>
+<button>学术报告--时间同步控制方法及在无人系统的应用<button>
+<button>学术报告—EDA的产业和技术发展方向<button>
+<button>学术报告-Revisiting Graph Convolutional Networks: From Paradig…<button>
+<button>MORE+<button>
+<button>校友风采（二十二）姬生利<button>
+<button>校友风采（二十一）沈天培<button>
+<button>校友风采（二十）杨维滨<button>
+<button>MORE+<button>
+<button>强基创优<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到南京工业大学计算机与信息工程学院（人工智能学院）孟凡旭在东南大学进行博士后研究期间（2021年至2023年）发表的SCI论文数量以及这些论文发表在哪些量子计算领域顶级和重要期刊上。首先，我应该访问“科学研究”页面，以获取有关科研成果的信息。
+
+Action: visit_page
+Action Input: {"button": "科学研究"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机与信息工程学院")
+                                                                                                                                                                                                                                
+科学研究 
+研究机构
+研究团队
+项目与成果
+    
+  * 纵向项目
+  * 横向项目
+科研成果
+科学研究  当前位置:  > 
+  *  2021-12-06
+共1条 首页上页1下页尾页
+Copyright © 南京工业大学计算机与信息工程学院（人工智能学院） 版权所有 
+地址：江苏省南京市江北新区浦珠南路30号计算机与信息工程学院（人工智能学院） 
+电话：02558139500 邮编：211816
+------ 校内链接 ------ 2020年校研究生教育教学改革课题结题、省优秀研究生工作站校级培育点结题验收公示 2020年案例教学课程建设项目结题公示
+请扫描二维码
+关注官方微信
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>领导班子及分工<button>
+<button>组织架构<button>
+<button>系（部、中心）简介<button>
+<button>师资队伍<button>
+<button>高级职称<button>
+<button>中级及以下职称<button>
+<button>科学研究<button>
+<button>研究机构<button>
+<button>研究团队<button>
+<button>项目与成果<button>
+<button>纵向项目<button>
+<button>横向项目<button>
+<button>科研成果<button>
+<button>人才培养<button>
+<button>本科生培养<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>实验室建设<button>
+<button>实践基地<button>
+<button>教学成果<button>
+<button>文件下载<button>
+<button>研究生培养<button>
+<button>研究生导师<button>
+<button>培养方案<button>
+<button>课程设置<button>
+<button>文件下载<button>
+<button>党群工作<button>
+<button>理论政策<button>
+<button>规章制度<button>
+<button>党建动态<button>
+<button>工会工作<button>
+<button>统战工作<button>
+<button>关工委工作<button>
+<button>学生工作<button>
+<button>新闻速递<button>
+<button>通知公告<button>
+<button>教育管理<button>
+<button>团学工作<button>
+<button>就业专栏<button>
+<button>榜样力量<button>
+<button>资料下载<button>
+<button>校友工作<button>
+<button>工作动态<button>
+<button>校友风采<button>
+<button>捐资助学<button>
+<button>毕业合影<button>
+<button>合作交流<button>
+<button>国内合作交流<button>
+<button>国际合作交流<button>
+<button>诚聘英才<button>
+<button>人才需求<button>
+<button>人才政策<button>
+<button>学术报告——机器视觉中的特征学习研究<button>
+
+----- WebWalker -----
+Thought: 我需要访问“科研成果”页面，以获取有关孟凡旭发表的SCI论文信息。
+
+Action: visit_page
+Action Input: {"button": "科研成果"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机与信息工程学院")
+                                                                                                                                                                                                                                
+科学研究 
+研究机构
+研究团队
+项目与成果
+    
+  * 纵向项目
+  * 横向项目
+科研成果
+科研成果  当前位置:  >  > 
+  *  2021-01-11
+共1条 首页上页1下页尾页
+Copyright © 南京工业大学计算机与信息工程学院（人工智能学院） 版权所有 
+地址：江苏省南京市江北新区浦珠南路30号计算机与信息工程学院（人工智能学院） 
+电话：02558139500 邮编：211816
+------ 校内链接 ------ 2020年校研究生教育教学改革课题结题、省优秀研究生工作站校级培育点结题验收公示 2020年案例教学课程建设项目结题公示
+请扫描二维码
+关注官方微信
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>领导班子及分工<button>
+<button>组织架构<button>
+<button>系（部、中心）简介<button>
+<button>师资队伍<button>
+<button>高级职称<button>
+<button>中级及以下职称<button>
+<button>科学研究<button>
+<button>研究机构<button>
+<button>研究团队<button>
+<button>项目与成果<button>
+<button>纵向项目<button>
+<button>横向项目<button>
+<button>科研成果<button>
+<button>人才培养<button>
+<button>本科生培养<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>实验室建设<button>
+<button>实践基地<button>
+<button>教学成果<button>
+<button>文件下载<button>
+<button>研究生培养<button>
+<button>研究生导师<button>
+<button>培养方案<button>
+<button>课程设置<button>
+<button>文件下载<button>
+<button>党群工作<button>
+<button>理论政策<button>
+<button>规章制度<button>
+<button>党建动态<button>
+<button>工会工作<button>
+<button>统战工作<button>
+<button>关工委工作<button>
+<button>学生工作<button>
+<button>新闻速递<button>
+<button>通知公告<button>
+<button>教育管理<button>
+<button>团学工作<button>
+<button>就业专栏<button>
+<button>榜样力量<button>
+<button>资料下载<button>
+<button>校友工作<button>
+<button>工作动态<button>
+<button>校友风采<button>
+<button>捐资助学<button>
+<button>毕业合影<button>
+<button>合作交流<button>
+<button>国内合作交流<button>
+<button>国际合作交流<button>
+<button>诚聘英才<button>
+<button>人才需求<button>
+<button>人才政策<button>
+<button>计算机科学与技术学院近五年科研成果奖一览<button>
+
+----- WebWalker -----
+Thought: 看起来“科研成果”页面没有提供足够的信息，我需要访问“项目与成果”页面，以获取更详细的科研成果信息。
+
+Action: visit_page
+Action Input: {"button": "项目与成果"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 页面未找到，我需要返回上一页并尝试其他选项。首先，我应该回到“科学研究”页面，然后查看是否有其他相关按钮可以点击。
+
+Action: visit_page
+Action Input: {"button": "科学研究"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机与信息工程学院")
+                                                                                                                                                                                                                                
+科学研究 
+研究机构
+研究团队
+项目与成果
+    
+  * 纵向项目
+  * 横向项目
+科研成果
+科学研究  当前位置:  > 
+  *  2021-12-06
+共1条 首页上页1下页尾页
+Copyright © 南京工业大学计算机与信息工程学院（人工智能学院） 版权所有 
+地址：江苏省南京市江北新区浦珠南路30号计算机与信息工程学院（人工智能学院） 
+电话：02558139500 邮编：211816
+------ 校内链接 ------ 2020年校研究生教育教学改革课题结题、省优秀研究生工作站校级培育点结题验收公示 2020年案例教学课程建设项目结题公示
+请扫描二维码
+关注官方微信
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>领导班子及分工<button>
+<button>组织架构<button>
+<button>系（部、中心）简介<button>
+<button>师资队伍<button>
+<button>高级职称<button>
+<button>中级及以下职称<button>
+<button>科学研究<button>
+<button>研究机构<button>
+<button>研究团队<button>
+<button>项目与成果<button>
+<button>纵向项目<button>
+<button>横向项目<button>
+<button>科研成果<button>
+<button>人才培养<button>
+<button>本科生培养<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>实验室建设<button>
+<button>实践基地<button>
+<button>教学成果<button>
+<button>文件下载<button>
+<button>研究生培养<button>
+<button>研究生导师<button>
+<button>培养方案<button>
+<button>课程设置<button>
+<button>文件下载<button>
+<button>党群工作<button>
+<button>理论政策<button>
+<button>规章制度<button>
+<button>党建动态<button>
+<button>工会工作<button>
+<button>统战工作<button>
+<button>关工委工作<button>
+<button>学生工作<button>
+<button>新闻速递<button>
+<button>通知公告<button>
+<button>教育管理<button>
+<button>团学工作<button>
+<button>就业专栏<button>
+<button>榜样力量<button>
+<button>资料下载<button>
+<button>校友工作<button>
+<button>工作动态<button>
+<button>校友风采<button>
+<button>捐资助学<button>
+<button>毕业合影<button>
+<button>合作交流<button>
+<button>国内合作交流<button>
+<button>国际合作交流<button>
+<button>诚聘英才<button>
+<button>人才需求<button>
+<button>人才政策<button>
+<button>学术报告——机器视觉中的特征学习研究<button>
+
+----- WebWalker -----
+Thought: “项目与成果”页面未找到，我需要尝试其他选项。考虑到“研究团队”可能包含孟凡旭的信息，我将访问“研究团队”页面。
+
+Action: visit_page
+Action Input: {"button": "研究团队"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机与信息工程学院")
+                                                                                                                                                                                                                                
+科学研究 
+研究机构
+研究团队
+项目与成果
+    
+  * 纵向项目
+  * 横向项目
+科研成果
+研究团队  当前位置:  >  > 
+          
+Copyright © 南京工业大学计算机与信息工程学院（人工智能学院） 版权所有 
+地址：江苏省南京市江北新区浦珠南路30号计算机与信息工程学院（人工智能学院） 
+电话：02558139500 邮编：211816
+------ 校内链接 ------ 2020年校研究生教育教学改革课题结题、省优秀研究生工作站校级培育点结题验收公示 2020年案例教学课程建设项目结题公示
+请扫描二维码
+关注官方微信
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>领导班子及分工<button>
+<button>组织架构<button>
+<button>系（部、中心）简介<button>
+<button>师资队伍<button>
+<button>高级职称<button>
+<button>中级及以下职称<button>
+<button>科学研究<button>
+<button>研究机构<button>
+<button>研究团队<button>
+<button>项目与成果<button>
+<button>纵向项目<button>
+<button>横向项目<button>
+<button>科研成果<button>
+<button>人才培养<button>
+<button>本科生培养<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>实验室建设<button>
+<button>实践基地<button>
+<button>教学成果<button>
+<button>文件下载<button>
+<button>研究生培养<button>
+<button>研究生导师<button>
+<button>培养方案<button>
+<button>课程设置<button>
+<button>文件下载<button>
+<button>党群工作<button>
+<button>理论政策<button>
+<button>规章制度<button>
+<button>党建动态<button>
+<button>工会工作<button>
+<button>统战工作<button>
+<button>关工委工作<button>
+<button>学生工作<button>
+<button>新闻速递<button>
+<button>通知公告<button>
+<button>教育管理<button>
+<button>团学工作<button>
+<button>就业专栏<button>
+<button>榜样力量<button>
+<button>资料下载<button>
+<button>校友工作<button>
+<button>工作动态<button>
+<button>校友风采<button>
+<button>捐资助学<button>
+<button>毕业合影<button>
+<button>合作交流<button>
+<button>国内合作交流<button>
+<button>国际合作交流<button>
+<button>诚聘英才<button>
+<button>人才需求<button>
+<button>人才政策<button>
+<button>生物信息与医疗大数据团队<button>
+<button>网络与云计算技术团队<button>
+<button>智能信息处理团队<button>
+<button>信号处理与智能传感团队<button>
+<button>数字城市与智能建筑团队<button>
+
+----- WebWalker -----
+Thought: 研究团队页面列出了多个研究团队，我需要找到与孟凡旭相关的团队。考虑到孟凡旭在东南大学进行博士后研究，可能与量子计算相关，我将访问“智能信息处理团队”页面。
+
+Action: visit_page
+Action Input: {"button": "智能信息处理团队"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机与信息工程学院")
+                                                                                                                                                                                                                                
+!当前位置：  >  >  > 正文 
+智能信息处理团队
+阅读次数：2833 发布时间：2020-12-17 更新时间：2020-12-17
+**智能信息处理团队**
+  
+智能信息处理团队主要从事软件理论与方法和人工智能两个方面的研究，设有人工智能研究所和计算机应用研究所等。软件理论与方法主要围绕软件分析与测试、软件质量保证、新型软件方法与技术、软件服务工程、领域软件工程等方向开展理论研究和技术开发，人工智能主要围绕机器学习、计算机视觉、图形与图像处理、数据挖掘和分析、智能优化等方向开展理论研究与工程应用。
+本团队现有教授5人，副教授11人，形成了以中青年教授为主、结构合理的研究梯队。近几年，承担了国家自然科学基金、江苏省自然科学基金、江苏省重点研发计划项目等国家与省部级科研项目20余项。研究成果获得省部级科学技术奖8项。
+本团队紧密结合国家和地方经济建设需求，重视科学研究和成果转化，坚持产学研互动发展，研究成果已经在石油化工、公安司法、医疗卫生等领域得到推广应用。
+  
+  
+  
+Copyright © 南京工业大学计算机与信息工程学院（人工智能学院） 版权所有 
+地址：江苏省南京市江北新区浦珠南路30号计算机与信息工程学院（人工智能学院） 
+电话：02558139500 邮编：211816
+------ 校内链接 ------ 2020年校研究生教育教学改革课题结题、省优秀研究生工作站校级培育点结题验收公示 2020年案例教学课程建设项目结题公示
+请扫描二维码
+关注官方微信
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>领导班子及分工<button>
+<button>组织架构<button>
+<button>系（部、中心）简介<button>
+<button>师资队伍<button>
+<button>高级职称<button>
+<button>中级及以下职称<button>
+<button>科学研究<button>
+<button>研究机构<button>
+<button>研究团队<button>
+<button>项目与成果<button>
+<button>纵向项目<button>
+<button>横向项目<button>
+<button>科研成果<button>
+<button>人才培养<button>
+<button>本科生培养<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>实验室建设<button>
+<button>实践基地<button>
+<button>教学成果<button>
+<button>文件下载<button>
+<button>研究生培养<button>
+<button>研究生导师<button>
+<button>培养方案<button>
+<button>课程设置<button>
+<button>文件下载<button>
+<button>党群工作<button>
+<button>理论政策<button>
+<button>规章制度<button>
+<button>党建动态<button>
+<button>工会工作<button>
+<button>统战工作<button>
+<button>关工委工作<button>
+<button>学生工作<button>
+<button>新闻速递<button>
+<button>通知公告<button>
+<button>教育管理<button>
+<button>团学工作<button>
+<button>就业专栏<button>
+<button>榜样力量<button>
+<button>资料下载<button>
+<button>校友工作<button>
+<button>工作动态<button>
+<button>校友风采<button>
+<button>捐资助学<button>
+<button>毕业合影<button>
+<button>合作交流<button>
+<button>国内合作交流<button>
+<button>国际合作交流<button>
+<button>诚聘英才<button>
+<button>人才需求<button>
+<button>人才政策<button>
+
+----- WebWalker -----
+Thought: 智能信息处理团队的介绍中没有提到孟凡旭的具体信息，我需要尝试其他研究团队。考虑到量子计算可能与人工智能相关，我将访问“信号处理与智能传感团队”页面。
+
+Action: visit_page
+Action Input: {"button": "信号处理与智能传感团队"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机与信息工程学院")
+                                                                                                                                                                                                                                
+!当前位置：  >  >  > 正文 
+信号处理与智能传感团队
+阅读次数：2316 发布时间：2020-12-17 更新时间：2020-12-17
+**信号处理与智能传感团队**
+  
+  
+研究团队包括9名教师，其中教授1人、副教授2人、讲师6人，8人具有博士学位，5人具有海外留学或访学经历。团队负责人入选江苏高校“青蓝工程”优秀青年骨干教师及江苏省“六大人才高峰”高层次人才计划，并获得校“师德十佳”称号。团队教师获得校青年教师授课比赛一等奖1次，二等奖2次，获教书育人先进个人荣誉称号2次。团队研究领域包括声信号智能处理、声学超构材料、人体姿态识别、MEMS智能传感、人工智能缺陷检测、5G通信等方面。近几年先后主持了5项国家自然科学基金项目，2项江苏省自然科学基金项目，1项博士后基金及多项来自校企合作横向课题，累积纵向科研到款近300万，发表了30余篇高水平SCI学术论文，申请了10余项国家发明专利，授权5项发明专利。
+  
+  
+Copyright © 南京工业大学计算机与信息工程学院（人工智能学院） 版权所有 
+地址：江苏省南京市江北新区浦珠南路30号计算机与信息工程学院（人工智能学院） 
+电话：02558139500 邮编：211816
+------ 校内链接 ------ 2020年校研究生教育教学改革课题结题、省优秀研究生工作站校级培育点结题验收公示 2020年案例教学课程建设项目结题公示
+请扫描二维码
+关注官方微信
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>领导班子及分工<button>
+<button>组织架构<button>
+<button>系（部、中心）简介<button>
+<button>师资队伍<button>
+<button>高级职称<button>
+<button>中级及以下职称<button>
+<button>科学研究<button>
+<button>研究机构<button>
+<button>研究团队<button>
+<button>项目与成果<button>
+<button>纵向项目<button>
+<button>横向项目<button>
+<button>科研成果<button>
+<button>人才培养<button>
+<button>本科生培养<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>实验室建设<button>
+<button>实践基地<button>
+<button>教学成果<button>
+<button>文件下载<button>
+<button>研究生培养<button>
+<button>研究生导师<button>
+<button>培养方案<button>
+<button>课程设置<button>
+<button>文件下载<button>
+<button>党群工作<button>
+<button>理论政策<button>
+<button>规章制度<button>
+<button>党建动态<button>
+<button>工会工作<button>
+<button>统战工作<button>
+<button>关工委工作<button>
+<button>学生工作<button>
+<button>新闻速递<button>
+<button>通知公告<button>
+<button>教育管理<button>
+<button>团学工作<button>
+<button>就业专栏<button>
+<button>榜样力量<button>
+<button>资料下载<button>
+<button>校友工作<button>
+<button>工作动态<button>
+<button>校友风采<button>
+<button>捐资助学<button>
+<button>毕业合影<button>
+<button>合作交流<button>
+<button>国内合作交流<button>
+<button>国际合作交流<button>
+<button>诚聘英才<button>
+<button>人才需求<button>
+<button>人才政策<button>
+
+----- WebWalker -----
+Thought: 信号处理与智能传感团队的介绍中也没有提到孟凡旭的具体信息，我需要尝试其他研究团队。考虑到量子计算可能涉及人工智能和信号处理，我将访问“生物信息与医疗大数据团队”页面。
+
+Action: visit_page
+Action Input: {"button": "生物信息与医疗大数据团队"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机与信息工程学院")
+                                                                                                                                                                                                                                
+!当前位置：  >  >  > 正文 
+生物信息与医疗大数据团队
+阅读次数：1700 发布时间：2023-01-03 更新时间：2023-01-03
+**生物信息与医疗大数据团队**
+生物信息与医疗大数据团队致力于AI与生物医疗的交叉研究，结合生物医学大数据与深度学习技术，开展智能药物筛选，医学影像分析与精准医学等研究，近年来承担了10余项国家和省部级项目，也获得了教育部高校科学研究优秀成果奖自然科学奖二等奖和江苏省科学技术三等奖等科研奖励。具体研究方向包括：
+² **智能药物设计与筛选**
+围绕抗病毒、抗肿瘤以及复杂疾病的药物需求，融合药物、医学与分子生物学等交叉学科知识，融合大规模药物分子库、药物基因表达谱、药物敏感度时间序列等多源数据，开发与应用表征学习、迁移学习与增强学习等新模型与新算法，解决药物研发过程中的分子属性、药物敏感度、药物靶标与副作用预测等关键技术问题。
+² **智能医学影像分析**
+针对医学影像中三维可视化、组织器官分割、病变区域检测与智能诊断等临床需求，结合使用病理图像、超声、CT/MRI等数据，发展与应用多模态/多尺度学习、小样本学习与可解释性深度学习思路与框架，研究3D医学影像处理、语义分割与智能诊断、病变区域智能检测等临床应用，为人工智能与大数据技术在健康医疗领域中的应用提供技术支撑。
+² **肿瘤精准医学**
+基于人工智能，发展临床肿瘤单细胞多组学、药物基因组学、影像组学等大数据分析的新技术，进行个体肿瘤异质性、免疫微环境与疾病进展、转移以及药物响应之间因果推断与关联分析，挖掘并验证肿瘤分子分型、分子标志物、药物靶点等，实现肿瘤早期发现与诊断，并为临床用药提供建议。
+  
+  
+Copyright © 南京工业大学计算机与信息工程学院（人工智能学院） 版权所有 
+地址：江苏省南京市江北新区浦珠南路30号计算机与信息工程学院（人工智能学院） 
+电话：02558139500 邮编：211816
+------ 校内链接 ------ 2020年校研究生教育教学改革课题结题、省优秀研究生工作站校级培育点结题验收公示 2020年案例教学课程建设项目结题公示
+请扫描二维码
+关注官方微信
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>领导班子及分工<button>
+<button>组织架构<button>
+<button>系（部、中心）简介<button>
+<button>师资队伍<button>
+<button>高级职称<button>
+<button>中级及以下职称<button>
+<button>科学研究<button>
+<button>研究机构<button>
+<button>研究团队<button>
+<button>项目与成果<button>
+<button>纵向项目<button>
+<button>横向项目<button>
+<button>科研成果<button>
+<button>人才培养<button>
+<button>本科生培养<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>实验室建设<button>
+<button>实践基地<button>
+<button>教学成果<button>
+<button>文件下载<button>
+<button>研究生培养<button>
+<button>研究生导师<button>
+<button>培养方案<button>
+<button>课程设置<button>
+<button>文件下载<button>
+<button>党群工作<button>
+<button>理论政策<button>
+<button>规章制度<button>
+<button>党建动态<button>
+<button>工会工作<button>
+<button>统战工作<button>
+<button>关工委工作<button>
+<button>学生工作<button>
+<button>新闻速递<button>
+<button>通知公告<button>
+<button>教育管理<button>
+<button>团学工作<button>
+<button>就业专栏<button>
+<button>榜样力量<button>
+<button>资料下载<button>
+<button>校友工作<button>
+<button>工作动态<button>
+<button>校友风采<button>
+<button>捐资助学<button>
+<button>毕业合影<button>
+<button>合作交流<button>
+<button>国内合作交流<button>
+<button>国际合作交流<button>
+<button>诚聘英才<button>
+<button>人才需求<button>
+<button>人才政策<button>

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0364_330f7312caa2",
+  "source_index": 364,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年6月13日下午西南科技大学计算机科学与技术学院何静媛的报告推进了什么改革措施？",
+  "prompt": "2024年6月13日下午西南科技大学计算机科学与技术学院何静媛的报告推进了什么改革措施？",
+  "expected_answer": "推进了学院课堂教学改革与教学创新。",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0722/c10922a203375/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->4->重庆大学何静媛博士应邀为我院教师作教学专题报告为进一步推动学院教育教学改革，提升教师教学创新能力，推动课堂教学革命，深化成渝地区双城经济圈教育协同发展战略，提升学院本科人才培养质量，6月13日下午，计算机学院邀请第二届全国高校教师教学创...[2024-06-14]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 72.317,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0364_330f7312caa2/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0364_330f7312caa2/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

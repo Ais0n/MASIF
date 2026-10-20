@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0593_3dae6224b228",
+  "source_index": 593,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "《枪火重生》手游在2024年第二十届中国游戏行业年会上获得的奖项名称是什么？此外，这款游戏在最新更新中上线的首位女英雄叫什么名字？",
+  "prompt": "《枪火重生》手游在2024年第二十届中国游戏行业年会上获得的奖项名称是什么？此外，这款游戏在最新更新中上线的首位女英雄叫什么名字？",
+  "expected_answer": "优秀网络游戏，桃",
+  "root_url": "https://www.duoyi.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.duoyi.com/news/news_25976.shtm",
+      "https://www.duoyi.com/news/news_30902.shtm"
+    ],
+    "golden_path": [
+      "root->新闻中心->3->《枪火重生》手游首位女英雄“桃”携轮回模式登场",
+      "root->新闻中心->多益网络旗下产品荣获2024金手指奖两大奖项"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "《枪火重生》手游在2024年第二十届中国游戏行业年会上获得的奖项名称是“优秀网络游戏”。此外，这款游戏在最新更新中上线的首位女英雄叫璃。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 4,
+  "duration_seconds": 67.87,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0593_3dae6224b228/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0593_3dae6224b228/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

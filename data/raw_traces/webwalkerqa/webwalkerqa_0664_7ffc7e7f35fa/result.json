@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0664_7ffc7e7f35fa",
+  "source_index": 664,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "姚期智院士在广州大学作题为《Recent Progress on Simple Multi‐item Auctions》报告的时间与广州大学首次在中国大学生程序设计竞赛获得金牌的年份相差几年？",
+  "prompt": "姚期智院士在广州大学作题为《Recent Progress on Simple Multi‐item Auctions》报告的时间与广州大学首次在中国大学生程序设计竞赛获得金牌的年份相差几年？",
+  "expected_answer": "2年",
+  "root_url": "https://jsj.gzhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsj.gzhu.edu.cn/info/1232/1666.htm",
+      "https://jsj.gzhu.edu.cn/info/1027/2424.htm"
+    ],
+    "golden_path": [
+      "root->图灵奖首位华人学者姚期智院士来校作报告",
+      "root->学术新闻->详细"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "姚期智院士在广州大学作报告的时间是2018年，而广州大学首次在中国大学生程序设计竞赛获得金牌的年份是2002年，两者相差16年。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 4,
+  "duration_seconds": 128.543,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0664_7ffc7e7f35fa/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0664_7ffc7e7f35fa/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer calculates a difference of 16 years, whereas the expected answer is 2 years.\"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0647_72d9c221d5c9",
+  "source_index": 647,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "广州大学2020年7月15日的暑期学生宿舍安全检查中，哪位学院领导主持并积极参与了走访工作，并具体检查了哪些安全事项？",
+  "prompt": "广州大学2020年7月15日的暑期学生宿舍安全检查中，哪位学院领导主持并积极参与了走访工作，并具体检查了哪些安全事项？",
+  "expected_answer": "吕延明，检查宿舍安全隐患并提醒遵守疫情防控要求。",
+  "root_url": "https://jsj.gzhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsj.gzhu.edu.cn/info/1112/2354.htm"
+    ],
+    "golden_path": [
+      "root->计算机学院开展暑期学生宿舍安全检查2020/07/15"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "2020年7月15日，广州大学计算机科学与网络工程学院的学院党委副书记吕延明主持并积极参与了暑期学生宿舍安全检查的走访工作。检查内容包括学生宿舍的安全状况，以确保暑期留校学生的住宿安全。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 6,
+  "duration_seconds": 53.241,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0647_72d9c221d5c9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0647_72d9c221d5c9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

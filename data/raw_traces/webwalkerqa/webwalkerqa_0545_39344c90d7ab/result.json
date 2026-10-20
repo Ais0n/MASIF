@@ -1,0 +1,43 @@
+{
+  "task_id": "webwalkerqa_0545_39344c90d7ab",
+  "source_index": 545,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西南科技大学在2023年主办的智能无人系统与人工智能国际会议和高性能计算研究发展与应用学术交流会中，分别介绍了哪位国际学者的发表演讲内容？",
+  "prompt": "西南科技大学在2023年主办的智能无人系统与人工智能国际会议和高性能计算研究发展与应用学术交流会中，分别介绍了哪位国际学者的发表演讲内容？",
+  "expected_answer": "Danilo Mandic教授演讲于智能无人系统与人工智能国际会议；郑纬民院士演讲于高性能计算研究发展与应用学术交流会。",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0722/c10923a203492/page.htm；https://cs.swust.edu.cn/2024/0722/c10923a203460/page.htm"
+    ],
+    "golden_path": [
+      "root->学术动态->3->庆祝70周年校庆系列学术活动——计算机学院主办2023年智能无人系统与人工智能国际会议（SIUSAI 2023）2023年智能无人系统与人工智能国际会议（SIUSAI2023）2023InternationalSymposiumonIntelligentUnmannedSystemsandArtifi...[2022-09-30]",
+      "root->学术动态->2->科技城人才活动——2023高性能计算研究发展与应用学术交流会会议通知科技城人才活动——2023高性能计算研究发展与应用学术交流会 科技城人才活动——2023高性能计算研究发展与应用学术交流会是西南地区高性能计算领域学术盛会之一。本次大会邀请到了清华...[2023-10-11]"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 53.582,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0545_39344c90d7ab/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0545_39344c90d7ab/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

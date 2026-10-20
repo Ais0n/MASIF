@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0182_a8af601dbf38",
+  "source_index": 182,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "常晓龙受邀参与的“计算机学院举办优秀校友职业经历分享讲座”，有多少本科生和研究生参加，且该讲座是在2024年11月7日之后的哪个具体日期进行的？",
+  "prompt": "常晓龙受邀参与的“计算机学院举办优秀校友职业经历分享讲座”，有多少本科生和研究生参加，且该讲座是在2024年11月7日之后的哪个具体日期进行的？",
+  "expected_answer": "90, 2024年11月9日",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/1202/c10961a209284/page.htm"
+    ],
+    "golden_path": [
+      "root->“从西南科大到字节跳动”——计算机学院举办优秀校友职业经历分享讲座[11-11]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 61.084,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0182_a8af601dbf38/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0182_a8af601dbf38/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

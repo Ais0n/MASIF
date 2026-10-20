@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0280_bf2afa51758b",
+  "source_index": 280,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "重庆邮电大学计算机科学与技术学院/人工智能学院2024年10月16日发布的信息中，哪个专业是被国家评为一流本科专业建设点，并具有博士后科研流动站的优势科研平台？",
+  "prompt": "重庆邮电大学计算机科学与技术学院/人工智能学院2024年10月16日发布的信息中，哪个专业是被国家评为一流本科专业建设点，并具有博士后科研流动站的优势科研平台？",
+  "expected_answer": "智能科学与技术专业",
+  "root_url": "https://cs.cqupt.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.cqupt.edu.cn/info/2243/30743.htm"
+    ],
+    "golden_path": [
+      "root->本科生教育教学->2024-10-16智能科学与技术专业"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 60.511,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0280_bf2afa51758b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0280_bf2afa51758b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

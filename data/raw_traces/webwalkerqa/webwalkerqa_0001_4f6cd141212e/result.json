@@ -1,0 +1,41 @@
+{
+  "task_id": "webwalkerqa_0001_4f6cd141212e",
+  "source_index": 1,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When and where was the ICSE duplicate submission statement agreed upon?",
+  "prompt": "When and where was the ICSE duplicate submission statement agreed upon?",
+  "expected_answer": "November 2002, Charleston, South Carolina.",
+  "root_url": "http://www.icse-conferences.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "http://www.icse-conferences.org/duplicate.html"
+    ],
+    "golden_path": [
+      "root->ORGANIZING ICSE->ICSE Duplicate Submission   Statement"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The ICSE duplicate submission statement was agreed upon at the ICSE steering committee held in Charleston, South Carolina at FSE-10 in November 2002.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 21,
+  "tool_calls": 8,
+  "duration_seconds": 90.388,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0001_4f6cd141212e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0001_4f6cd141212e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "judge failed: cannot import name 'get_skill_self_evolve_prompt' from 'prompts' ([REDACTED_PATH])",
+      "error": "cannot import name 'get_skill_self_evolve_prompt' from 'prompts' ([REDACTED_PATH])"
+    }
+  }
+}

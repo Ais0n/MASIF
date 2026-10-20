@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0219_b3f4f190e3b4",
+  "source_index": 219,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How much did the ILV price change in the Illuvium job posting on October 22 compared to past information, and what are the unique aspects of this job opportunity?",
+  "prompt": "How much did the ILV price change in the Illuvium job posting on October 22 compared to past information, and what are the unique aspects of this job opportunity?",
+  "expected_answer": "The ILV price decreased by $1.53, from $40.17 to $38.64. The job is unique because it is 100% remote and emphasizes autonomy, adaptability, innovation, and core design skills.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/jobs/1888798"
+    ],
+    "golden_path": [
+      "root->Jobs->Game UX/UI Designer"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 9.998,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0219_b3f4f190e3b4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0219_b3f4f190e3b4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

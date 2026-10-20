@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0583_fea106a26483",
+  "source_index": 583,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "长安大学信息工程学院在2022年1月和4月分别在哪两本期刊上发表了对车联网技术和智能交通领域的贡献？",
+  "prompt": "长安大学信息工程学院在2022年1月和4月分别在哪两本期刊上发表了对车联网技术和智能交通领域的贡献？",
+  "expected_answer": "IEEE Transactions on Vehicular Technology和Transportation Research Part C",
+  "root_url": "https://it.chd.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.chd.edu.cn/2023/0512/c7371a230549/page.htm",
+      "https://it.chd.edu.cn/2022/1226/c7371a226353/page.htm"
+    ],
+    "golden_path": [
+      "root->学术交流-><<上一页->我院王威教授团队在中科院Top期刊《IEEE Transactions on Vehicular Technology》、《Remote Sensing》以及计算机ESI期刊上发表论文",
+      "root->学术交流-><<上一页->我院徐志刚教授团队在交通运输学科Top期刊TR- C上发表高水平论文"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 31.47,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0583_fea106a26483/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0583_fea106a26483/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

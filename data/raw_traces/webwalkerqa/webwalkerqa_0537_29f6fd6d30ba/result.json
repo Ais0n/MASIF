@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0537_29f6fd6d30ba",
+  "source_index": 537,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which game contributed significantly to Rovio's revenue in both 2019 and 2022?",
+  "prompt": "Which game contributed significantly to Rovio's revenue in both 2019 and 2022?",
+  "expected_answer": "Angry Birds Dream Blast",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/q1-2019-interim-report-published/",
+      "https://www.rovio.com/articles/rovios-q3-2022-interim-report-published/"
+    ],
+    "golden_path": [
+      "root->Support->Financial Update->Q1 2019 Interim Report published",
+      "root->Support->Financial Update->Rovio’s Q3 2022 Interim report published"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 64.169,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0537_29f6fd6d30ba/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0537_29f6fd6d30ba/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

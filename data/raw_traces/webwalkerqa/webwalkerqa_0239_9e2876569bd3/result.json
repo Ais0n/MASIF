@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0239_9e2876569bd3",
+  "source_index": 239,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "如果一位顾客在2019年6月1日购买了一支雅马哈萨克斯8系列，那么他成为哪种会员，拥有多少次总免费保养的机会？",
+  "prompt": "如果一位顾客在2019年6月1日购买了一支雅马哈萨克斯8系列，那么他成为哪种会员，拥有多少次总免费保养的机会？",
+  "expected_answer": "Custom-VIP会员，五次（四次Custom-VIP会员免费保养加一次普通会员免费保养）。",
+  "root_url": "https://www.yamaha.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.yamaha.com.cn/special/winds_vip/index.html"
+    ],
+    "golden_path": [
+      "root->管乐器・吹奏乐器->加入CUSTOM VIP会员"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "该顾客成为雅马哈管乐器会员，拥有1次总免费保养的机会。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 59.2,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0239_9e2876569bd3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0239_9e2876569bd3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

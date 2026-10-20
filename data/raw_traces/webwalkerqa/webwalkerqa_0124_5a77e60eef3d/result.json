@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0124_5a77e60eef3d",
+  "source_index": 124,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在重庆大学计算机学院的人才引进岗位中，哪类学者的年龄限制是最宽松的，并且限制是多少岁？",
+  "prompt": "在重庆大学计算机学院的人才引进岗位中，哪类学者的年龄限制是最宽松的，并且限制是多少岁？",
+  "expected_answer": "弘深杰出学者，55岁。",
+  "root_url": "http://www.cs.cqu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.cqu.edu.cn/info/1268/5939.htm"
+    ],
+    "golden_path": [
+      "root->重庆大学计算机学院诚邀全球英才加盟"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 5,
+  "duration_seconds": 13.598,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0124_5a77e60eef3d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0124_5a77e60eef3d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0446_7144a44f8dcb",
+  "source_index": 446,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024 and academic activities on October 31st are scheduled?",
+  "prompt": "What international conferences co-hosted by the School of Computer Science and Technology at Shandong University of Finance and Economics in 2024 and academic activities on October 31st are scheduled?",
+  "expected_answer": "The International Conference on Geometric Modeling and Processing (GMP 2024) and an Academic Exchange Session on October 31st.",
+  "root_url": "https://cs.sdufe.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.sdufe.edu.cn/info/1243/7693.htm",
+      "https://cs.sdufe.edu.cn/info/1495/7918.htm"
+    ],
+    "golden_path": [
+      "root->[No.86]International Conference on Geometric Modeling...",
+      "root->学院举办推免生经验分享交流会"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 25.248,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0446_7144a44f8dcb/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0446_7144a44f8dcb/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

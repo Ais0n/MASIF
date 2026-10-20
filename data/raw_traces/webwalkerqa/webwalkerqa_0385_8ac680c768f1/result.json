@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0385_8ac680c768f1",
+  "source_index": 385,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "曹自强在成为苏州大学副教授之前的博士学位是什么时候获得的？根据他的学术论文发布年份顺序，他在该领域从什么时候开始发表作品？",
+  "prompt": "曹自强在成为苏州大学副教授之前的博士学位是什么时候获得的？根据他的学术论文发布年份顺序，他在该领域从什么时候开始发表作品？",
+  "expected_answer": "博士学位在2018年获得。从2016年开始发表作品。",
+  "root_url": "https://scst.suda.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scst.suda.edu.cn/10/3f/c30768a528447/page.htm"
+    ],
+    "golden_path": [
+      "root->导师简介->副教授->曹自强副教授"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "曹自强在成为苏州大学副教授之前的博士学位是在2018年获得的。根据他的学术论文发布年份顺序，他在该领域从2016年开始发表作品。",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\"verdict\":\"match\",\"reason\":\"",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\""
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 4,
+  "duration_seconds": 34.579,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0385_8ac680c768f1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0385_8ac680c768f1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

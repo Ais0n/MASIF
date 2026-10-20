@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0277_2a37022c8a3b",
+  "source_index": 277,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the date when Eliot 'eLbotz' Hong announced his departure from Relic Entertainment?",
+  "prompt": "What is the date when Eliot 'eLbotz' Hong announced his departure from Relic Entertainment?",
+  "expected_answer": "May 13, 2022",
+  "root_url": "https://www.ageofempires.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ageofempires.com/news/a-letter-to-the-community-eliot/"
+    ],
+    "golden_path": [
+      "root->Game Info->Dev SpotlightA Letter to the Community – Eliot"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 56.258,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0277_2a37022c8a3b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0277_2a37022c8a3b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0292_30c71b22796e",
+  "source_index": 292,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which Illuvial line received an Omega damage boost in Illuvium: Arena Beta 3 v0.3.5 patch to effectively counter stronger front-line units?",
+  "prompt": "Which Illuvial line received an Omega damage boost in Illuvium: Arena Beta 3 v0.3.5 patch to effectively counter stronger front-line units?",
+  "expected_answer": "Shoebill Line",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-arena-beta-3-v0-3-5-patch-notes"
+    ],
+    "golden_path": [
+      "root->News->Illuvium: Arena Beta 3 v0.3.5 Patch Notes"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 13.399,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0292_30c71b22796e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0292_30c71b22796e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

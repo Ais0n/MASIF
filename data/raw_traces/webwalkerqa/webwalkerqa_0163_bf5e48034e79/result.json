@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0163_bf5e48034e79",
+  "source_index": 163,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "国机集团承担的哪个项目在2023年7月27日启动？",
+  "prompt": "国机集团承担的哪个项目在2023年7月27日启动？",
+  "expected_answer": "中国工程院战略研究与咨询重点项目《高科技重大基础设施振动控制高标准发展战略研究》",
+  "root_url": "https://www.sinomach.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.sinomach.com.cn/kjcx/kjdt/"
+    ],
+    "golden_path": [
+      "root->科技动态"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 40.891,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0163_bf5e48034e79/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0163_bf5e48034e79/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

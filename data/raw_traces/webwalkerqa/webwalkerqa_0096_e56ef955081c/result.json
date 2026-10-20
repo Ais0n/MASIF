@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0096_e56ef955081c",
+  "source_index": 96,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When do delegations need to start registering for the NMUN conference held in New York from April 6-10 or April 13-17, 2025, and what are the key steps related to applying for a visa?",
+  "prompt": "When do delegations need to start registering for the NMUN conference held in New York from April 6-10 or April 13-17, 2025, and what are the key steps related to applying for a visa?",
+  "expected_answer": "Registration for the NMUN conference starts on 1 September 2024. To apply for a visa, a delegation should register and pay the fee before requesting a visa invitation letter, which can be requested after 1 August 2024.",
+  "root_url": "https://www.nmun.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.nmun.org/conferences/new-york/register-and-plan-your-trip/register-and-key-dates.html#main",
+      "https://www.nmun.org/conferences/washington-dc/register-and-plan-your-trip/plan-your-trip/visa-information.html#main"
+    ],
+    "golden_path": [
+      "root->Register & Key Dates Overview->Close",
+      "root->Visa Information->Close"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "Delegations need to start registering for the NMUN conference held in New York from April 6-10 or April 13-17, 2025, and they should contact the Embassy or Consulate of New Zealand well in advance to apply for a visa. Failure to secure visas before the payment deadline will result in the delegation being withdrawn from the conference. A visa does not guarantee entry, so everyone should have a copy of the letter, travel itinerary, and return plane ticket. To request a letter, the school must register for the conference, pay the registration fee, confirm delegate numbers online, and schedule a visa appointment. Only one letter per school will be issued listing all applicants, and it can be copied for each person's visa application.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 7,
+  "duration_seconds": 113.578,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0096_e56ef955081c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0096_e56ef955081c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

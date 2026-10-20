@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0050_92b48e90dc7a",
+  "source_index": 50,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When does the unique Angry Birds AR experience created by Zappar and Burger King for fans end in the US and Canada?",
+  "prompt": "When does the unique Angry Birds AR experience created by Zappar and Burger King for fans end in the US and Canada?",
+  "expected_answer": "June 20, 2021",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/angry-birds-fly-to-burger-king-with-new-toys-and-augmented-reality-experience/"
+    ],
+    "golden_path": [
+      "root->Support->Brand Partnerships->Angry Birds fly to Burger King with new toys and augmented reality experience!"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The unique Angry Birds AR experience created by Zappar and Burger King for fans ends in the US and Canada on December 31, 2023.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 4,
+  "duration_seconds": 38.685,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0050_92b48e90dc7a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0050_92b48e90dc7a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer provides a completely different date than the expected answer.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

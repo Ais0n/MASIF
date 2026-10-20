@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0620_6e8211fc5943",
+  "source_index": 620,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What new DLC update was officially launched in Age of Empires II: Definitive Edition Update 128442, and on which date did the Red Bull Wololo: El Reinado tournament start?",
+  "prompt": "What new DLC update was officially launched in Age of Empires II: Definitive Edition Update 128442, and on which date did the Red Bull Wololo: El Reinado tournament start?",
+  "expected_answer": "Chronicles: Battle for Greece, October 3rd, 2024.",
+  "root_url": "https://www.ageofempires.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ageofempires.com/news/age-of-empires-ii-definitive-edition-update-128442/",
+      "https://www.ageofempires.com/news/red-bull-wololo-el-reinado-starting-3-october/"
+    ],
+    "golden_path": [
+      "root->Game Info->GeneralOn the Dawn of a New Age – A Message from Shannon Loftis->Patches, Updates & Content ReleasesAge of Empires II: Definitive Edition – Update 128442",
+      "root->Expansions->Read More->Esports & TournamentsRed Bull Wololo: El Reinado Starting October 3rd!"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The new DLC update launched in Age of Empires II: Definitive Edition is 'The Last Chieftains', and the Red Bull Wololo: El Reinado tournament started on May 28, 2024.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 24.185,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0620_6e8211fc5943/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0620_6e8211fc5943/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

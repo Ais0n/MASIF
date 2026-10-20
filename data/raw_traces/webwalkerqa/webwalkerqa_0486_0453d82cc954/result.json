@@ -1,0 +1,50 @@
+{
+  "task_id": "webwalkerqa_0486_0453d82cc954",
+  "source_index": 486,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2020年，作为中国证券投资基金业协会备案单位，前海仁智资本管理(深圳)有限公司的投资公司网站是谁设计的？",
+  "prompt": "2020年，作为中国证券投资基金业协会备案单位，前海仁智资本管理(深圳)有限公司的投资公司网站是谁设计的？",
+  "expected_answer": "尼高品牌网络",
+  "root_url": "https://www.niegoweb.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.niegoweb.com/casedetail-4-679-569-1.html",
+      "https://www.niegoweb.com/casess-金融投资-1.html"
+    ],
+    "golden_path": [
+      "root->企业网站优化->仁智资本投资公司网站定制,金融行业网页设计",
+      "root->企业网站优化->金融投资"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "2020年，作为中国证券投资基金业协会备案单位，前海仁智资本管理(深圳)有限公司的投资公司网站是由尼高设计公司设计的。",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\"verdict\":\"match\",\"",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\""
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 89.63,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0486_0453d82cc954/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0486_0453d82cc954/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

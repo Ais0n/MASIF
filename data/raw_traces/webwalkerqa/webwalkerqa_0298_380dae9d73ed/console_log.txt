@@ -1,0 +1,1169 @@
+----- user -----
+query:
+CloudEngine 16808与CloudEngine 16800-X8型号的交换容量和包转发率分别是多少？
+official website:
+https://e.huawei.com/cn/
+Observation:website information:
+
+!
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。   ](javascript:void\(0\))
+企业业务网站 
+选择区域/语言
+登录   退出登录 
+  * ### 
+企业业务网站
+企业商用产品、解决方案和云服务
+  * ###  
+  * ###  
+  * ###  
+  * ###  
+Huawei Global -  
+  * Africa
+    * Morocco - 
+    * South Africa - 
+Latin America
+    * Brazil - 
+    * Mexico - 
+Middle East
+    * Saudi Arabia - 
+    * United Arab Emirates - 
+  * Asia Pacific
+    * China - 
+    * Australia - 
+    * Hong Kong, China - 
+    * Indonesia - 
+    * Japan - 
+    * Kazakhstan - 
+    * Malaysia - 
+    * Philippines - 
+    * Singapore - 
+    * Thailand - 
+  * Europe
+    * Austria - 
+    * Czech - 
+    * Europe - 
+    * France - 
+    * Germany - 
+    * Greece - 
+    * Hungary - 
+    * Italy - 
+    * Poland - 
+    * Spain - 
+    * Sweden - 
+    * Türkiye - 
+    * Ukraine - 
+ ](
+  * 产品与解决方案 
+  * 学习与技术支持 
+  * 合作伙伴 
+  * 如何购买 
+  * 了解我们 
+企业业务网站
+选择区域/语言
+我的空间
+退出登录
+返回主菜单
+### 产品与解决方案
+  * 产品
+    * 企业网络
+                                                
+    * 企业光网络
+                              
+    * 数据存储
+                                                
+    * 计算
+            
+    * 智能协作
+            
+    * 企业无线
+                  
+    * 企业服务与软件
+                        
+    * 管理系统
+                * 华为云
+      
+    * 华为坤灵系列
+      
+  * 产品组合
+                  * 行业
+                                                    
+返回主菜单
+### 学习与技术支持
+                                      
+  * 产品支持
+                                  * 行业解决方案支持
+                                                          
+返回主菜单
+### 合作伙伴
+  * 成为合作伙伴
+              * 合作政策
+      * 合作伙伴支持
+                      * 业务公告
+                  * 常用工具
+                
+返回主菜单
+### 如何购买
+  * 线上商城
+为确保您的权益得到保障，请通过华为政企授权许可的电商店铺购买华为政企产品，谨防假冒！
+  * 联系华为销售
+热线电话：400-822-9999
+  * 查找经销商
+您可以查找附近的经销商，并直接联系他们
+ 
+返回主菜单
+### 了解我们
+  * 探索更多
+                              * 热点话题
+                  
+搜索
+  * 搜索历史
+  * 热门搜索
+  * 网页直达
+  * 搜索推荐
+  * !
+##  万智互联 跃升行业智能化
+第九届数字中国建设峰会  
+2026年4月28-30日 中国 · 福州 
+[ 解决方案 星河AI高品质  
+中小工厂网络 无线产线、零漫游仓储、IT&OT融合安全 ! ! ](
+ 产品 高性能灵眸Wi-Fi 7 AP 是AP，更是防偷拍卫士；检测全，检测准，全天候 ](
+ 解决方案 金融数据分析存储解决方案 加速数据价值挖掘，迈向数智融合 ](
+ 解决方案 智慧教室解决方案 把数字化教育带入每一间教室 ](
+ 解决方案 Wi-Fi 7仓储零漫游解决方案 专为制造仓储行业量身打造的零中断网络方案 ](
+案例故事
+  *  数智福建  IPv6+筑基福建数字政府新底座 了解更多 ](
+  *  西部机场集团 AI重塑未来航空枢纽 了解更多 ](
+  *  帕杜拉修道院“数字复兴” 华为光网络世界遗产焕发新生  了解更多 ](
+  *  GIGA+ Fibra：光纤“织就”巴西未来 了解更多 ](
+  *  华为F5G光通信助力埃塞俄比亚电力公司迈向数字化 了解更多 ](
+  *  交通银行重塑存储运维范式  基于DataMaster智能体打造韧性IT行业标杆 了解更多 ](
+  *  广汽自动驾驶的“舟与湖”  华为分布式存储助力广汽构建绿色高效、弹力扩展的AI数据湖底座 了解更多 ](
+  *  瑞金医院 AI使能，重塑病理诊断未来 了解更多 ](
+  *  可可豆动画 淬火的哪吒，有属于他的数字“风火轮” 了解更多 ](
+  *  中山肿瘤医院 数理”五羊城，南国当回春 了解更多 ](
+  *  微众银行 拆解数据库的“大脑”与“仓库”，重塑数据库架构 了解更多 ](
+  *  马来西亚丰隆银行 数字化转型重塑银行业 了解更多 ](
+  *  南非艾古莱尼市 华为数据存储助力艾古莱尼市政架起智慧之桥 了解更多 ](
+  * !
+## 100+ 行业智能化转型故事
+点亮灯塔，照亮一片行业
+市场活动
+最新资讯
+ 万智互联 跃升行业智能化 第九届数字中国建设峰会 中国，福州  ](#/home)
+ 华为中国合作伙伴大会2026 因聚而升 融智有为 中国，深圳  ](
+ 华为中国行2025 数智世界 一触即达 中国  ](
+ 因聚而升 融智有为：华为中国合作伙伴大会2026成功启幕 中国，深圳  ](
+ MWC2026｜华为联合客户发布115个全球行业智能化样板点实践案例；联合伙伴发布22个行业智能化解决方案 西班牙，巴塞罗那  ](
+ 华为DCS全栈数据中心解决方案通过ESG权威技术验证 中国，深圳  ](
+  * 关于我们 
+          
+  * 如何购买 
+        
+  * 合作伙伴 
+        
+  * 资源中心 
+            
+  * 快速链接 
+    
+  * !
+华为企业业务 App
+企业业务移动应用
+  * !
+华为坤灵 App
+分销业务数字化平台
+  * !
+华为企业服务 App
+交付和维护移动化平台
+  
+  *  ](javascript:;)
+    
+版权所有 © 华为技术有限公司 1998-2026。 保留一切权利。粤A2-20044005号 
+|
+    
+电话热线
+400 - 822 - 9999
+电话热线
+400 - 822 - 9999
+TOP 
+
+
+clickable button:
+
+<button>Cookies和隐私政策><button>
+<button>我的空间<button>
+<button>简体中文<button>
+<button>交换机<button>
+<button>路由器<button>
+<button>无线局域网<button>
+<button>安全产品与方案<button>
+<button>园区网络<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>网络管控&分析软件<button>
+<button>企业网络首页<button>
+<button>光接入 OptiXaccess<button>
+<button>光传送 OptiXtrans<button>
+<button>光终端 OptiXstar<button>
+<button>光感知 OptiXsense<button>
+<button>企业光网络首页<button>
+<button>全闪存存储<button>
+<button>AI存储<button>
+<button>分布式存储<button>
+<button>数据保护（备份/防勒索）<button>
+<button>超融合基础设施（HCI）<button>
+<button>数据中心虚拟化（DCS）<button>
+<button>智能盘框（OceanDisk）<button>
+<button>数据中心管理（DME）<button>
+<button>数据存储首页<button>
+<button>通用计算<button>
+<button>AI计算<button>
+<button>计算首页<button>
+<button>华为CloudLink云视频<button>
+<button>华为IdeaHub<button>
+<button>智能协作首页<button>
+<button>行业无线<button>
+<button>企业微波<button>
+<button>企业云核<button>
+<button>企业无线首页<button>
+<button>ICT部署与集成服务<button>
+<button>ICT运维与辅助运营服务<button>
+<button>培训与认证服务<button>
+<button>软件平台与服务<button>
+<button>企业服务与软件首页<button>
+<button>eSight ICT统一管理系统<button>
+<button>iMaster NeoSight轻量级融合管理系统<button>
+<button>华为云首页<button>
+<button>华为坤灵系列<button>
+<button>华为坤灵首页<button>
+<button>智慧园区<button>
+<button>数据中心<button>
+<button>数字站点<button>
+<button>广域网络<button>
+<button>金融<button>
+<button>制造<button>
+<button>政府<button>
+<button>教育<button>
+<button>医疗<button>
+<button>交通<button>
+<button>电力<button>
+<button>矿山与冶炼<button>
+<button>油气与化工<button>
+<button>零售<button>
+<button>ISP与传媒<button>
+<button>建筑地产<button>
+<button>商业市场<button>
+<button>新品速递<button>
+<button>查看全部产品与解决方案<button>
+<button>资料中心<button>
+<button>服务热线<button>
+<button>培训认证<button>
+<button>学习<button>
+<button>认证<button>
+<button>华为ICT学院<button>
+<button>华为ICT大赛<button>
+<button>培训伙伴<button>
+<button>企业培训<button>
+<button>成功案例<button>
+<button>DemoCloud<button>
+<button>查看授权网店<button>
+<button>提交项目需求<button>
+<button>华为商业市场数智世界 一触即达<button>
+<button>了解更多购买信息<button>
+<button>关于华为企业业务<button>
+<button>新闻中心<button>
+<button>市场活动<button>
+<button>成功案例<button>
+<button>视频中心<button>
+<button>知识中心<button>
+<button>博客<button>
+<button>100+行业智能化转型故事<button>
+<button>智无不言<button>
+<button>联系我们<button>
+<button>全球服务热线<button>
+<button>分支机构<button>
+<button>解决方案星河AI高品质中小工厂网络无线产线、零漫游仓储、IT&OT融合安全<button>
+<button>产品高性能灵眸Wi-Fi 7 AP是AP，更是防偷拍卫士；检测全，检测准，全天候<button>
+<button>解决方案金融数据分析存储解决方案加速数据价值挖掘，迈向数智融合<button>
+<button>解决方案智慧教室解决方案把数字化教育带入每一间教室<button>
+<button>解决方案Wi-Fi 7仓储零漫游解决方案专为制造仓储行业量身打造的零中断网络方案<button>
+<button>数智福建IPv6+筑基福建数字政府新底座了解更多<button>
+<button>西部机场集团AI重塑未来航空枢纽了解更多<button>
+<button>帕杜拉修道院“数字复兴”华为光网络世界遗产焕发新生了解更多<button>
+<button>GIGA+ Fibra：光纤“织就”巴西未来了解更多<button>
+<button>华为F5G光通信助力埃塞俄比亚电力公司迈向数字化了解更多<button>
+<button>交通银行重塑存储运维范式基于DataMaster智能体打造韧性IT行业标杆了解更多<button>
+<button>广汽自动驾驶的“舟与湖”华为分布式存储助力广汽构建绿色高效、弹力扩展的AI数据湖底座了解更多<button>
+<button>瑞金医院AI使能，重塑病理诊断未来了解更多<button>
+<button>可可豆动画淬火的哪吒，有属于他的数字“风火轮”了解更多<button>
+<button>中山肿瘤医院数理”五羊城，南国当回春了解更多<button>
+<button>微众银行拆解数据库的“大脑”与“仓库”，重塑数据库架构了解更多<button>
+<button>马来西亚丰隆银行数字化转型重塑银行业了解更多<button>
+<button>南非艾古莱尼市华为数据存储助力艾古莱尼市政架起智慧之桥了解更多<button>
+<button>查看更多案例<button>
+<button>了解更多<button>
+<button>更多展会活动<button>
+<button>因聚而升 融智有为：华为中国合作伙伴大会2026成功启幕中国，深圳<button>
+<button>MWC2026｜华为联合客户发布115个全球行业智能化样板点实践案例；联合伙伴发布22个行业智能化解决方案西班牙，巴塞罗那<button>
+<button>华为DCS全栈数据中心解决方案通过ESG权威技术验证中国，深圳<button>
+<button>更多新闻资讯<button>
+<button>关于企业业务<button>
+<button>通过线上商城购买<button>
+<button>隐私保护<button>
+<button>联系销售我们将在1个工作日内联系您<button>
+<button>更多联系方式<button>
+<button>联系销售我们将在1个工作日内联系您<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到关于CloudEngine 16808和CloudEngine 16800-X8型号的交换容量和包转发率的信息。首先，我应该访问华为企业业务网站，并查找与交换机相关的页面。
+
+Action: visit_page
+Action Input: {"button": "交换机"}
+
+----- VisitPage -----
+The web information is:
+
+!
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。   ](javascript:void\(0\))
+企业业务网站 
+选择区域/语言
+登录   退出登录 
+  * ### 
+企业业务网站
+企业商用产品、解决方案和云服务
+  * ###  
+  * ###  
+  * ###  
+  * ###  
+Huawei Global -  
+  * Africa
+    * Morocco - 
+    * South Africa - 
+Latin America
+    * Brazil - 
+    * Mexico - 
+Middle East
+    * Saudi Arabia - 
+    * United Arab Emirates - 
+  * Asia Pacific
+    * China - 
+    * Australia - 
+    * Hong Kong, China - 
+    * Indonesia - 
+    * Japan - 
+    * Kazakhstan - 
+    * Malaysia - 
+    * Philippines - 
+    * Singapore - 
+    * Thailand - 
+  * Europe
+    * Austria - 
+    * Czech - 
+    * Europe - 
+    * France - 
+    * Germany - 
+    * Greece - 
+    * Hungary - 
+    * Italy - 
+    * Poland - 
+    * Spain - 
+    * Sweden - 
+    * Türkiye - 
+    * Ukraine - 
+ ](
+  * 产品与解决方案 
+  * 学习与技术支持 
+  * 合作伙伴 
+  * 如何购买 
+  * 了解我们 
+企业业务网站
+选择区域/语言
+我的空间
+退出登录
+返回主菜单
+### 产品与解决方案
+  * 产品
+    * 企业网络
+                                                
+    * 企业光网络
+                              
+    * 数据存储
+                                                
+    * 计算
+            
+    * 智能协作
+            
+    * 企业无线
+                  
+    * 企业服务与软件
+                        
+    * 管理系统
+                * 华为云
+      
+    * 华为坤灵系列
+      
+  * 产品组合
+                  * 行业
+                                                    
+返回主菜单
+### 学习与技术支持
+                                      
+  * 产品支持
+                                  * 行业解决方案支持
+                                                          
+返回主菜单
+### 合作伙伴
+  * 成为合作伙伴
+              * 合作政策
+      * 合作伙伴支持
+                      * 业务公告
+                  * 常用工具
+                
+返回主菜单
+### 如何购买
+  * 线上商城
+为确保您的权益得到保障，请通过华为政企授权许可的电商店铺购买华为政企产品，谨防假冒！
+  * 联系华为销售
+热线电话：400-822-9999
+  * 查找经销商
+您可以查找附近的经销商，并直接联系他们
+ 
+返回主菜单
+### 了解我们
+  * 探索更多
+                              * 热点话题
+                  
+搜索
+  * 搜索历史
+  * 热门搜索
+  * 网页直达
+  * 搜索推荐
+    * 交换机
+  * !
+#  交换机 
+为规模化、自动化、可编程和实时可见性而打造 
+概述
+  * 概述
+  * 产品
+  * 成功案例
+  * 相关资源
+为什么选择华为交换机 
+![
+                                                            丰富的产品与解决方案
+                                                            
+                                                        ](
+丰富的产品与解决方案 
+华为交换机涵盖数据中心网络和园区产品组合，帮助客户从容面对数字化转型的商业诉求和满足虚拟化、大数据、云等业务快速增长的需要 
+![
+                                                            广泛的客户成功案例
+                                                            
+                                                        ](
+广泛的客户成功案例 
+华为交换机产品已服务于全球150多个国家的企业，在全球金融，互联网，零散，教育，制造，公共服务等行业广泛应用 
+![
+                                                            遍布全球的伙伴和本地化服务
+                                                            
+                                                        ](
+遍布全球的伙伴和本地化服务 
+华为交换机在全球150多个国家拥有数万家合作伙伴，与众多伙伴携手，提供创新的覆盖全行业的交换机解决方案，并提供优质的本地化服务 
+选择适合您的交换机产品 
+!
+!
+### 园区交换机
+面向企业、政府、教育、金融、制造等各行业，打造极简管理、稳定可靠、业务智能的园区网络。
+!
+!
+### 数据中心交换机
+面向云数据中心和高端园区，适用于各种场景和网络规模，为规模化、自动化、可编程和实时可见性而打造。
+!
+!
+### 网络管控&分析软件
+网络管理和分析软件提供网络管理、控制和分析等功能，简化网络管理和运维，实现意图驱动的业务自动化，实时感知网络状态并进行预测性维护，主要应用于数据中心、企业园区、企业专线等场景，让网络更加简单、智慧、开放和安全，加速企业数字化转型和业务创新。
+成功案例 
+[ ![
+                                                                比亚迪：构筑新型智慧工厂，以“品质连接”引领“智造”新时代
+                                                            ]( / 比亚迪：构筑新型智慧工厂，以“品质连接”引领“智造”新时代  全球车企市值排名第三的比亚迪，采用华为高品质万兆园区网络和高运力数据中心网络，提升车企竞争力。  了解更多 ]( [ ![
+                                                                极简架构+光电PoE，打造“智慧龙外”绿色校园网
+                                                            ]( / 极简架构+光电PoE，打造“智慧龙外”绿色校园网  黑龙江外国语学院在校园网升级改造中选择华为小行星低碳智能园区网络方案，引入极简架构及光电PoE两大创新，简化网络部署和管理，减少网络综合布线，成功打造了一张极简，低碳，永续的校园网。  了解更多 ]( [ ![
+                                                                西班牙bonÀrea Agrupa数据中心网络全面升级，按下数字化转型加速键
+                                                            ]( / 西班牙bonÀrea Agrupa数据中心网络全面升级，按下数字化转型加速键  西班牙农产品企业bonÀrea Agrupa选择华为SDN方案全面升级其数据中心网络。  了解更多 ]( [ ![
+                                                                奥地利Mass Response: 升级网络基础设施，为用户提供优质服务
+                                                            ]( / 奥地利Mass Response: 升级网络基础设施，为用户提供优质服务  通过网络升级改造，Mass Response已成功将业务拓展到更多地区，增加PoP接入点，获取更多用户，迎来新机遇。在新型网络基础设施的加持下，Mass Response将继续升级服务，拓宽业务范围。  了解更多 ]( [ ![
+                                                                “网络演进三步曲”华为Wi-Fi 6助力泰国Vejthani医院向智慧医院转型
+                                                            ]( / “网络演进三步曲”华为Wi-Fi 6助力泰国Vejthani医院向智慧医院转型  华为提出软件定义网络架构方案，并规划了“网络演进三步曲”，帮助Vejthani医院向智慧医院转型。  了解更多 ](
+相关资源 
+  * 彩页 
+  * 白皮书/第三方报告 
+  * 视频 
+加载更多
+加载更多
+ 【网络百科】交换机发展史 ](javascript:;)
+ 【网络风向标】总监开讲：华为CloudEngine S5731-H系列全千兆交换机 ](javascript:;)
+ 【网络风向标】华为CloudEngine S5731-L系列交换机远端模块Tolly证言视频 ](javascript:;)
+加载更多
+  * 关于我们 
+          
+  * 如何购买 
+        
+  * 合作伙伴 
+        
+  * 资源中心 
+            
+  * 快速链接 
+    
+  * !
+华为企业业务 App
+企业业务移动应用
+  * !
+华为坤灵 App
+分销业务数字化平台
+  * !
+华为企业服务 App
+交付和维护移动化平台
+  
+  *  ](javascript:;)
+    
+版权所有 © 华为技术有限公司 1998-2026。 保留一切权利。粤A2-20044005号 
+|
+    
+电话热线
+400 - 822 - 9999
+电话热线
+400 - 822 - 9999
+TOP 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Cookies和隐私政策><button>
+<button>我的空间<button>
+<button>简体中文<button>
+<button>交换机<button>
+<button>路由器<button>
+<button>无线局域网<button>
+<button>安全产品与方案<button>
+<button>园区网络<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>网络管控&分析软件<button>
+<button>企业网络首页<button>
+<button>光接入 OptiXaccess<button>
+<button>光传送 OptiXtrans<button>
+<button>光终端 OptiXstar<button>
+<button>光感知 OptiXsense<button>
+<button>企业光网络首页<button>
+<button>全闪存存储<button>
+<button>AI存储<button>
+<button>分布式存储<button>
+<button>数据保护（备份/防勒索）<button>
+<button>超融合基础设施（HCI）<button>
+<button>数据中心虚拟化（DCS）<button>
+<button>智能盘框（OceanDisk）<button>
+<button>数据中心管理（DME）<button>
+<button>数据存储首页<button>
+<button>通用计算<button>
+<button>AI计算<button>
+<button>计算首页<button>
+<button>华为CloudLink云视频<button>
+<button>华为IdeaHub<button>
+<button>智能协作首页<button>
+<button>行业无线<button>
+<button>企业微波<button>
+<button>企业云核<button>
+<button>企业无线首页<button>
+<button>ICT部署与集成服务<button>
+<button>ICT运维与辅助运营服务<button>
+<button>培训与认证服务<button>
+<button>软件平台与服务<button>
+<button>企业服务与软件首页<button>
+<button>eSight ICT统一管理系统<button>
+<button>iMaster NeoSight轻量级融合管理系统<button>
+<button>华为云首页<button>
+<button>华为坤灵系列<button>
+<button>华为坤灵首页<button>
+<button>智慧园区<button>
+<button>数据中心<button>
+<button>数字站点<button>
+<button>广域网络<button>
+<button>金融<button>
+<button>制造<button>
+<button>政府<button>
+<button>教育<button>
+<button>医疗<button>
+<button>交通<button>
+<button>电力<button>
+<button>矿山与冶炼<button>
+<button>油气与化工<button>
+<button>零售<button>
+<button>ISP与传媒<button>
+<button>建筑地产<button>
+<button>商业市场<button>
+<button>新品速递<button>
+<button>查看全部产品与解决方案<button>
+<button>资料中心<button>
+<button>服务热线<button>
+<button>培训认证<button>
+<button>学习<button>
+<button>认证<button>
+<button>华为ICT学院<button>
+<button>华为ICT大赛<button>
+<button>培训伙伴<button>
+<button>企业培训<button>
+<button>成功案例<button>
+<button>DemoCloud<button>
+<button>查看授权网店<button>
+<button>提交项目需求<button>
+<button>华为商业市场数智世界 一触即达<button>
+<button>了解更多购买信息<button>
+<button>关于华为企业业务<button>
+<button>新闻中心<button>
+<button>市场活动<button>
+<button>成功案例<button>
+<button>视频中心<button>
+<button>知识中心<button>
+<button>博客<button>
+<button>100+行业智能化转型故事<button>
+<button>智无不言<button>
+<button>联系我们<button>
+<button>全球服务热线<button>
+<button>分支机构<button>
+<button>首页<button>
+<button>项目咨询<button>
+<button>CloudEngine S16700系列交换机<button>
+<button>CloudEngine S12700H系列交换机<button>
+<button>CloudEngine S8700系列交换机<button>
+<button>CloudEngine S5755-H系列高品质千兆交换机<button>
+<button>CloudEngine S5735-L-V2系列交换机<button>
+<button>了解更多<button>
+<button>查看所有型号<button>
+<button>CloudEngine 16800系列数据中心交换机<button>
+<button>CloudEngine 9800系列数据中心交换机<button>
+<button>CloudEngine 8800系列数据中心交换机<button>
+<button>CloudEngine 6800系列数据中心交换机<button>
+<button>了解更多<button>
+<button>查看所有型号<button>
+<button>iMaster NCE-CampusInsight<button>
+<button>iMaster NCE-FabricInsight<button>
+<button>了解更多<button>
+<button>查看所有型号<button>
+<button>/比亚迪：构筑新型智慧工厂，以“品质连接”引领“智造”新时代全球车企市值排名第三的比亚迪，采用华为高品质万兆园区网络和高运力数据中心网络，提升车企竞争力。了解更多<button>
+<button>/极简架构+光电PoE，打造“智慧龙外”绿色校园网黑龙江外国语学院在校园网升级改造中选择华为小行星低碳智能园区网络方案，引入极简架构及光电PoE两大创新，简化网络部署和管理，减少网络综合布线，成功打造了一张极简，低碳，永续的校园网。了解更多<button>
+<button>/西班牙bonÀrea Agrupa数据中心网络全面升级，按下数字化转型加速键西班牙农产品企业bonÀrea Agrupa选择华为SDN方案全面升级其数据中心网络。了解更多<button>
+<button>/奥地利Mass Response: 升级网络基础设施，为用户提供优质服务通过网络升级改造，Mass Response已成功将业务拓展到更多地区，增加PoP接入点，获取更多用户，迎来新机遇。在新型网络基础设施的加持下，Mass Response将继续升级服务，拓宽业务范围。了解更多<button>
+<button>/“网络演进三步曲”华为Wi-Fi 6助力泰国Vejthani医院向智慧医院转型华为提出软件定义网络架构方案，并规划了“网络演进三步曲”，帮助Vejthani医院向智慧医院转型。了解更多<button>
+<button>华为园区交换机全家福了解更多<button>
+<button>华为 CloudEngine 16800 系列数据中心交换机彩页了解更多<button>
+<button>华为 CloudEngine S16700系列旗舰核心交换机彩页了解更多<button>
+<button>华为 CloudEngine S12700E系列智能交换路由一体机了解更多<button>
+<button>华为 CloudEngine S8700系列交换机彩页了解更多<button>
+<button>华为 S7700系列智能路由交换机彩页了解更多<button>
+<button>华为Flex-channel切片技术白皮书了解更多<button>
+<button>华为智简园区交换机PoE技术白皮书了解更多<button>
+<button>关于企业业务<button>
+<button>通过线上商城购买<button>
+<button>隐私保护<button>
+<button>联系销售我们将在1个工作日内联系您<button>
+<button>更多联系方式<button>
+<button>联系销售我们将在1个工作日内联系您<button>
+
+----- WebWalker -----
+现在我找到了与交换机相关的页面，接下来我需要查找CloudEngine 16808和CloudEngine 16800-X8型号的信息。首先，我可以点击“CloudEngine 16800系列数据中心交换机”按钮。
+
+Action: visit_page
+Action Input: {"button": "CloudEngine 16800系列数据中心交换机"}
+
+----- VisitPage -----
+The web information is:
+
+!
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。   ](javascript:void\(0\))
+企业业务网站 
+选择区域/语言
+登录   退出登录 
+  * ### 
+企业业务网站
+企业商用产品、解决方案和云服务
+  * ###  
+  * ###  
+  * ###  
+  * ###  
+Huawei Global -  
+  * Africa
+    * Morocco - 
+    * South Africa - 
+Latin America
+    * Brazil - 
+    * Mexico - 
+Middle East
+    * Saudi Arabia - 
+    * United Arab Emirates - 
+  * Asia Pacific
+    * China - 
+    * Australia - 
+    * Hong Kong, China - 
+    * Indonesia - 
+    * Japan - 
+    * Kazakhstan - 
+    * Malaysia - 
+    * Philippines - 
+    * Singapore - 
+    * Thailand - 
+  * Europe
+    * Austria - 
+    * Czech - 
+    * Europe - 
+    * France - 
+    * Germany - 
+    * Greece - 
+    * Hungary - 
+    * Italy - 
+    * Poland - 
+    * Spain - 
+    * Sweden - 
+    * Türkiye - 
+    * Ukraine - 
+ ](
+  * 产品与解决方案 
+  * 学习与技术支持 
+  * 合作伙伴 
+  * 如何购买 
+  * 了解我们 
+企业业务网站
+选择区域/语言
+我的空间
+退出登录
+返回主菜单
+### 产品与解决方案
+  * 产品
+    * 企业网络
+                                                
+    * 企业光网络
+                              
+    * 数据存储
+                                                
+    * 计算
+            
+    * 智能协作
+            
+    * 企业无线
+                  
+    * 企业服务与软件
+                        
+    * 管理系统
+                * 华为云
+      
+    * 华为坤灵系列
+      
+  * 产品组合
+                  * 行业
+                                                    
+返回主菜单
+### 学习与技术支持
+                                      
+  * 产品支持
+                                  * 行业解决方案支持
+                                                          
+返回主菜单
+### 合作伙伴
+  * 成为合作伙伴
+              * 合作政策
+      * 合作伙伴支持
+                      * 业务公告
+                  * 常用工具
+                
+返回主菜单
+### 如何购买
+  * 线上商城
+为确保您的权益得到保障，请通过华为政企授权许可的电商店铺购买华为政企产品，谨防假冒！
+  * 联系华为销售
+热线电话：400-822-9999
+  * 查找经销商
+您可以查找附近的经销商，并直接联系他们
+ 
+返回主菜单
+### 了解我们
+  * 探索更多
+                              * 热点话题
+                  
+搜索
+  * 搜索历史
+  * 热门搜索
+  * 网页直达
+  * 搜索推荐
+        * CloudEngine 16800系列数据中心交换机
+  * !
+#  CloudEngine 16800  
+系列数据中心交换机 
+新以太释放新算力 
+概述
+  * 概述
+  * 特性
+  * 技术规格
+  * 相关资源
+  * 技术支持
+!
+!
+CloudEngine 16800系列数据中心交换机
+全新框式交换机，创新无背板CLOS交换架构，丰富的单板选型支撑企业向400GE演进。
+!
+超大容量 
+支持信元交换动态动态负载均衡，支持400GE平滑演进，应对未来数字流量激增需求
+!
+零丢包 
+独创iLossless算法，全网流量实时学习训练，实现网络自适应，自优化。实现网络0丢包与E2Eμs级时延，达到最高吞吐量。
+!
+智能运维 
+毫秒级Telemetry数据采集，为智能运维平台构建数据基础。1-3-5智能运维，90%故障主动预测。
+技术规格
+  * CE16800
+  * CE16800-X
+  * 板卡
+  
+| 型号*  | CE16804  | CE16808  | CE16816  |  
+| --- | --- | --- | --- |  
+| 交换容量  | 903Tbps/2709Tbps  | 1807Tbps/5422Tbps  | 3615Tbps/10844Tbps  |  
+| 包转发率  | 230,400Mpps  | 460,800Mpps  | 921,600Mpps  |  
+| 业务槽位  | 4  | 8  | 16  |  
+| 交换网槽位  | 4~9  |  
+| 交换架构  | Clos交换、信元交换、VoQ  | Clos交换、信元交换、VoQ  | Clos交换、信元交换、VoQ  |  
+| 风道类型  | 标准前后风道  | 标准前后风道  | 标准前后风道  |  
+| 安全可靠  | 精细化微分段安全隔离（IPV4和IPV6）  
+MACsec  | 精细化微分段安全隔离（IPV4和IPV6）  
+MACsec  | 精细化微分段安全隔离（IPV4和IPV6）  
+MACsec  |  
+|   | MACsec  | MACsec  |  
+| 可靠性  | LACP  
+硬件BFD(最小发包间隔3ms)  
+VRRP  
+M-LAG  
+DPFR  
+MoFRR  
+DPCF  | LACP  
+硬件BFD(最小发包间隔3ms)  
+VRRP  
+M-LAG  
+DPFR  
+MoFRR  
+DPCF  | LACP  
+硬件BFD(最小发包间隔3ms)  
+VRRP  
+M-LAG  
+DPFR  
+MoFRR  
+DPCF  |  
+| 智能运维  | Telemetry  
+Netstream  
+sFlow  
+SPAN/RSPAN/ERSPAN增强  
+IPCA，iFIT  
+Packet Event故障根因分析  | Telemetry  
+Netstream  
+sFlow  
+SPAN/RSPAN/ERSPAN增强  
+IPCA，iFIT  
+Packet Event故障根因分析  | Telemetry  
+Netstream  
+sFlow  
+SPAN/RSPAN/ERSPAN增强  
+IPCA，iFIT  
+Packet Event故障根因分析  |  
+| 数据中心特性  | 1588v2  
+RoCE V1/V2  
+VXLAN routing 和 bridging  
+BGP-EVPN  
+PFC，AI ECN  
+支持QinQ access VxLAN  | 1588v2  
+RoCE V1/V2  
+VXLAN routing 和 bridging  
+BGP-EVPN  
+PFC，AI ECN  
+支持QinQ access VxLAN  | 1588v2  
+RoCE V1/V2  
+VXLAN routing 和 bridging  
+BGP-EVPN  
+PFC，AI ECN  
+支持QinQ access VxLAN  |  
+| L2/L3  | 支持VLAN、STP、LACP等二层协议  
+支持静态路由、IPv4/IPv6动态路由协议  
+支持IP分片重组  | 支持VLAN、STP、LACP等二层协议  
+支持静态路由、IPv4/IPv6动态路由协议  
+支持IP分片重组  | 支持VLAN、STP、LACP等二层协议  
+支持静态路由、IPv4/IPv6动态路由协议  
+支持IP分片重组  |  
+| 可编程特性  | 支持NETCONF北向接口  
+支持Ansible自动化配置，Module开源发布  | 支持NETCONF北向接口  
+支持Ansible自动化配置，Module开源发布  | 支持NETCONF北向接口  
+支持Ansible自动化配置，Module开源发布  |  
+| 供电方式  | 2200W直流电源模块：40V DC～-72V DC  
+3000W双输入交流&高压直流电源模块： - 交流（AC）：176V～290V；45Hz～65Hz  
+- 高压直流（HVDC）：188V～288V / 260V~400V  | 2200W直流电源模块：40V DC～-72V DC  
+3000W双输入交流&高压直流电源模块： - 交流（AC）：176V～290V；45Hz～65Hz  
+- 高压直流（HVDC）：188V～288V / 260V~400V  | 2200W直流电源模块：40V DC～-72V DC  
+3000W双输入交流&高压直流电源模块： - 交流（AC）：176V～290V；45Hz～65Hz  
+- 高压直流（HVDC）：188V～288V / 260V~400V  |  
+| 电源冗余  | - 双源输入供电系统：推荐N+1备份  
+- 单源输入供电系统：N+1备份  
+考虑可靠性，推荐双源输入供电  | - 双源输入供电系统：推荐N+1备份  
+- 单源输入供电系统：N+1备份  
+考虑可靠性，推荐双源输入供电  | - 双源输入供电系统：推荐N+1备份  
+- 单源输入供电系统：N+1备份  
+考虑可靠性，推荐双源输入供电  |  
+*详细规格数据请与当地销售团队确认
+  
+| 型号*  | CE16800-X4  | CE16800-X8  | CE16800-X16  |  
+| --- | --- | --- | --- |  
+| 交换容量  | 953Tbps/2859Tbps  | 1906Tbps/5718Tbps  | 3813Tbps/11439Tbps  |  
+| 包转发率  | 230,400Mpps  | 460,800Mpps  | 921,600Mpps  |  
+| 业务槽位  | 4  | 8  | 16  |  
+| 交换网槽位  | 4~9  |  
+| 交换架构  | Clos交换、信元交换、VoQ   | Clos交换、信元交换、VoQ   | Clos交换、信元交换、VoQ   |  
+| 风道类型  | 标准前后风道  | 标准前后风道  | 标准前后风道  |  
+| 安全性  | 精细化微分段安全隔离（IPV4和IPV6）  
+MACsec  | 精细化微分段安全隔离（IPV4和IPV6）  
+MACsec  | 精细化微分段安全隔离（IPV4和IPV6）  
+MACsec  |  
+| 可靠性  | LACP  
+硬件BFD(最小发包间隔3ms)  
+VRRP  
+M-LAG  
+DPFR  
+MoFRR  
+DPCF  | LACP  
+硬件BFD(最小发包间隔3ms)  
+VRRP  
+M-LAG  
+DPFR  
+MoFRR  
+DPCF  | LACP  
+硬件BFD(最小发包间隔3ms)  
+VRRP  
+M-LAG  
+DPFR  
+MoFRR  
+DPCF  |  
+| 智能运维  | Telemetry  
+Netstream  
+sFlow  
+SPAN/RSPAN/ERSPAN增强  
+IFIT  
+Packet Event故障根因分析  | Telemetry  
+Netstream  
+sFlow  
+SPAN/RSPAN/ERSPAN增强  
+IFIT  
+Packet Event故障根因分析  | Telemetry  
+Netstream  
+sFlow  
+SPAN/RSPAN/ERSPAN增强  
+IFIT  
+Packet Event故障根因分析  |  
+| 数据中心特性  | 1588v2  
+RoCE V1/V2  
+VXLAN routing 和 bridging  
+BGP-EVPN  
+PFC、AI ECN  
+支持QinQ access VxLAN  | 1588v2  
+RoCE V1/V2  
+VXLAN routing 和 bridging  
+BGP-EVPN  
+PFC、AI ECN  
+支持QinQ access VxLAN  | 1588v2  
+RoCE V1/V2  
+VXLAN routing 和 bridging  
+BGP-EVPN  
+PFC、AI ECN  
+支持QinQ access VxLAN  |  
+| L2/L3  | 支持VLAN、STP、LACP等二层协议  
+支持静态路由、IPv4/IPv6动态路由协议  | 支持VLAN、STP、LACP等二层协议  
+支持静态路由、IPv4/IPv6动态路由协议  | 支持VLAN、STP、LACP等二层协议  
+支持静态路由、IPv4/IPv6动态路由协议  |  
+| 可编程特性  | 支持NETCONF北向接口  
+支持Ansible自动化配置，Module开源发布  | 支持NETCONF北向接口  
+支持Ansible自动化配置，Module开源发布  | 支持NETCONF北向接口  
+支持Ansible自动化配置，Module开源发布  |  
+| 供电方式  | 2200W直流电源模块：40V DC～-72V DC  
+3000W双输入交流&高压直流电源模块： 交流：176V～290V；45Hz～65Hz；直流：188V～288V / 260V~400V  | 2200W直流电源模块：40V DC～-72V DC  
+3000W双输入交流&高压直流电源模块： 交流：176V～290V；45Hz～65Hz；直流：188V～288V / 260V~400V  | 2200W直流电源模块：40V DC～-72V DC  
+3000W双输入交流&高压直流电源模块： 交流：176V～290V；45Hz～65Hz；直流：188V～288V / 260V~400V  |  
+| 电源冗余  | - 双源输入供电系统：推荐N+1备份  
+- 单源输入供电系统：N+1备份  
+考虑可靠性，推荐双源输入供电  | - 双源输入供电系统：推荐N+1备份  
+- 单源输入供电系统：N+1备份  
+考虑可靠性，推荐双源输入供电  | - 双源输入供电系统：推荐N+1备份  
+- 单源输入供电系统：N+1备份  
+考虑可靠性，推荐双源输入供电  |  
+*详细规格数据请与当地销售团队确认
+  
+| 产品  | CE16800系列  | CE16800-X系列  |  
+| --- | --- | --- |  
+| 系列  | CE-J系列  | CE-E系列  | CEX-J系列  | CEX-J2系列  |  
+| 主控  | D系列主控  | D系列主控  | D系列主控  
+E系列主控  | E系列主控  |  
+| 网板  | G系列交换网板  | D系列主交换网板  | G系列交换网板  | G系列交换网板  |  
+| 400GE/200GE接口板  | 18 x 400GE QSFP-DD  | -  | 18 x 400GE QSFP-DD  | 40 x 400GE QSFP-DD  
+36 x 400GE QSFP-DD 和 2 x 100GE QSFP28  |  
+| 100GE接口板  | 24 x 100GE QSFP28  
+36 x 100GE QSFP28  | 18 x 100GE QSFP28  
+36 x 100GE QSFP28  | 24 x 100GE QSFP28  
+36 x 100GE QSFP28  | 48 x 100GE QSFP28  |  
+| 40GE接口板  | 36 x 40GE QSFP+  | 24 x 40GE QSFP+  
+36 x 40GE QSFP+  | 36 x 40GE QSFP+  | -  |  
+| 25GE接口板  | 48 x 25GE SFP28 和 4 x 100GE QSFP28  
+48 x 25GE SFP28  | -  | 40 x 25GE SFP28 和 4 x 100GE QSFP28  
+48 x 25GE SFP28  | 72 x 25GE SFP28+  
+6 x 100GE QSFP28  |  
+| 10GE接口板  | -  | 24 x 10GE SFP 和 12 x 100GE QSFP28  
+48 x 10GE SFP+  | -  | -  |  
+相关资源 
+技术支持
+! 安装与操作
+! 软件下载
+! 产品公告
+! 技术案例
+  * 关于我们 
+          
+  * 如何购买 
+        
+  * 合作伙伴 
+        
+  * 资源中心 
+            
+  * 快速链接 
+    
+  * !
+华为企业业务 App
+企业业务移动应用
+  * !
+华为坤灵 App
+分销业务数字化平台
+  * !
+华为企业服务 App
+交付和维护移动化平台
+  
+  *  ](javascript:;)
+    
+版权所有 © 华为技术有限公司 1998-2026。 保留一切权利。粤A2-20044005号 
+|
+    
+电话热线
+400 - 822 - 9999
+电话热线
+400 - 822 - 9999
+TOP 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Cookies和隐私政策><button>
+<button>我的空间<button>
+<button>简体中文<button>
+<button>交换机<button>
+<button>路由器<button>
+<button>无线局域网<button>
+<button>安全产品与方案<button>
+<button>园区网络<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>网络管控&分析软件<button>
+<button>企业网络首页<button>
+<button>光接入 OptiXaccess<button>
+<button>光传送 OptiXtrans<button>
+<button>光终端 OptiXstar<button>
+<button>光感知 OptiXsense<button>
+<button>企业光网络首页<button>
+<button>全闪存存储<button>
+<button>AI存储<button>
+<button>分布式存储<button>
+<button>数据保护（备份/防勒索）<button>
+<button>超融合基础设施（HCI）<button>
+<button>数据中心虚拟化（DCS）<button>
+<button>智能盘框（OceanDisk）<button>
+<button>数据中心管理（DME）<button>
+<button>数据存储首页<button>
+<button>通用计算<button>
+<button>AI计算<button>
+<button>计算首页<button>
+<button>华为CloudLink云视频<button>
+<button>华为IdeaHub<button>
+<button>智能协作首页<button>
+<button>行业无线<button>
+<button>企业微波<button>
+<button>企业云核<button>
+<button>企业无线首页<button>
+<button>ICT部署与集成服务<button>
+<button>ICT运维与辅助运营服务<button>
+<button>培训与认证服务<button>
+<button>软件平台与服务<button>
+<button>企业服务与软件首页<button>
+<button>eSight ICT统一管理系统<button>
+<button>iMaster NeoSight轻量级融合管理系统<button>
+<button>华为云首页<button>
+<button>华为坤灵系列<button>
+<button>华为坤灵首页<button>
+<button>智慧园区<button>
+<button>数据中心<button>
+<button>数字站点<button>
+<button>广域网络<button>
+<button>金融<button>
+<button>制造<button>
+<button>政府<button>
+<button>教育<button>
+<button>医疗<button>
+<button>交通<button>
+<button>电力<button>
+<button>矿山与冶炼<button>
+<button>油气与化工<button>
+<button>零售<button>
+<button>ISP与传媒<button>
+<button>建筑地产<button>
+<button>商业市场<button>
+<button>新品速递<button>
+<button>查看全部产品与解决方案<button>
+<button>资料中心<button>
+<button>服务热线<button>
+<button>培训认证<button>
+<button>学习<button>
+<button>认证<button>
+<button>华为ICT学院<button>
+<button>华为ICT大赛<button>
+<button>培训伙伴<button>
+<button>企业培训<button>
+<button>成功案例<button>
+<button>DemoCloud<button>
+<button>查看授权网店<button>
+<button>提交项目需求<button>
+<button>华为商业市场数智世界 一触即达<button>
+<button>了解更多购买信息<button>
+<button>关于华为企业业务<button>
+<button>新闻中心<button>
+<button>市场活动<button>
+<button>成功案例<button>
+<button>视频中心<button>
+<button>知识中心<button>
+<button>博客<button>
+<button>100+行业智能化转型故事<button>
+<button>智无不言<button>
+<button>联系我们<button>
+<button>全球服务热线<button>
+<button>分支机构<button>
+<button>首页<button>
+<button>数据中心交换机<button>
+<button>项目咨询<button>
+<button>查看CE16800完整技术规格<button>
+<button>查看CE16800-X完整技术规格<button>
+<button>彩页华为 CloudEngine 16800 系列数据中心交换机彩页了解更多<button>
+<button>彩页华为 CloudEngine 16800-X 系列数据中心交换机彩页了解更多<button>
+<button>关于企业业务<button>
+<button>通过线上商城购买<button>
+<button>隐私保护<button>
+<button>联系销售我们将在1个工作日内联系您<button>
+<button>更多联系方式<button>
+<button>联系销售我们将在1个工作日内联系您<button>
+
+----- WebWalker -----
+Memory:
+-CloudEngine 16808的交换容量为1807Tbps/5422Tbps，包转发率为460,800Mpps；CloudEngine 16800-X8的交换容量为1906Tbps/5718Tbps，包转发率为460,800Mpps。
+"}
+
+----- WebWalker -----
+Final Answer: CloudEngine 16808的交换容量为1807Tbps/5422Tbps，包转发率为460,800Mpps；CloudEngine 16800-X8的交换容量为1906Tbps/5718Tbps，包转发率同样为460,800Mpps。

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0605_6a4be0a70da4",
+  "source_index": 605,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "《数据科学技术与应用》和《信息系统与数据库技术》两课程中，都在2023年被评为哪一类共同的荣誉？",
+  "prompt": "《数据科学技术与应用》和《信息系统与数据库技术》两课程中，都在2023年被评为哪一类共同的荣誉？",
+  "expected_answer": "国家级一流本科课程",
+  "root_url": "https://cst.dhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cst.dhu.edu.cn/2023/0607/c23324a344231/page.htm",
+      "https://cst.dhu.edu.cn/2023/0607/c23324a344232/page.htm"
+    ],
+    "golden_path": [
+      "root->教学成果->国家一流课程->“数据科学技术与应用“为大学计算机通识教育课程，介绍数据科学的思维方式，实现数据分析的方法。学习本课程将了解数据科学的核心知识，通过数据分析解决实际问题的基本步骤，掌握基于Python方法库实现数据分析的方法，包括数据组织，数据存储、数据清洗、转换与合并、可视化展示、数据汇总和统计、机器学习建模分析及在文本、图像、语音等人工智能前沿领域的应用。课程以培养学生的数据科学素养为目标，使学生建立“数据即生产力...",
+      "root->教学成果->国家一流课程->《信息系统与数据库技术》是一门综合性高阶公共基础课。课程用系统的观点，以数据库技术为核心，融合信息管理、软件工程、程序开发等知识，用解剖麻雀式的教学和实践案例带领学习者快速掌握从信息需求发现到信息系统分析、设计和实现的全过程，培养学生计算机综合应用能力。目前在中国大学MOOC、超星平台、泛亚尔雅等多个平台面向社会开放。课程由刘晓强教授负责，并由上海市多所高校共建共享，本校团队成员有黄雅萍副教授、..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "《数据科学技术与应用》和《信息系统与数据库技术》两门课程在2023年都被评为上海市一流课程。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 21.455,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0605_6a4be0a70da4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0605_6a4be0a70da4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer states the courses were awarded Shanghai first-class courses, whereas the expected answer is National first-class undergraduate courses.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

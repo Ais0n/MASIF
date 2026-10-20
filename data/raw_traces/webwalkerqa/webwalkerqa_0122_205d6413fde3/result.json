@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0122_205d6413fde3",
+  "source_index": 122,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2018年6月11日之前需要完成哪些步骤来报名参加中山大学计算机学院的“‘蓝火计划’博士生工作团”？",
+  "prompt": "在2018年6月11日之前需要完成哪些步骤来报名参加中山大学计算机学院的“‘蓝火计划’博士生工作团”？",
+  "expected_answer": "提交附件1（博士报名工作表）、个人简历和附件2的汇总表到邮箱ruchunp@mail.sysu.edu.cn。",
+  "root_url": "https://cse.sysu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.sysu.edu.cn/content/4050"
+    ],
+    "golden_path": [
+      "root->关于组织博士生参加2018年“‘..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "在2018年6月11日之前报名参加中山大学计算机学院的‘蓝火计划’博士生工作团，需要完成以下步骤：1. 了解招生信息，包括招生专业、导师及招生简章；2. 提交报名申请，并按照要求准备相关材料；3. 参加综合考核，包括面试和导师组面试；4. 根据考核结果确定录取资格。具体细节可参考《中山大学计算机学院2026年博士研究生招生简章》以及相关通知。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 49.625,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0122_205d6413fde3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0122_205d6413fde3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

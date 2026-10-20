@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0066_4c780bad50bb",
+  "source_index": 66,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "华中师范大学计算机学院在2024年第49期预备党员集中培训班与2023年三院联合分党校发展对象培训班中，负责开班典礼的组织者分别是谁？",
+  "prompt": "华中师范大学计算机学院在2024年第49期预备党员集中培训班与2023年三院联合分党校发展对象培训班中，负责开班典礼的组织者分别是谁？",
+  "expected_answer": "2024年：王坤；2023年：庄甲鹏",
+  "root_url": "https://cs.ccnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.ccnu.edu.cn/info/1031/4557.htm",
+      "https://cs.ccnu.edu.cn/info/1031/3665.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->142024-10华中师范大学第49期预备党员集中培训班开班典礼顺利举行（通讯员 王毅婷）10月11日晚，华中师范大学第49期预备党员集中培训班第5教学班级开班典礼在南湖综合楼N201举行。计算机学院党委书记王坤、人工智能教育学部党委副书记邓飞、体育学院副处职组织员胡国良、信息管理学院党委副书记王涛，以及学院带队老师出席开班典礼。计算机学院党委书记王坤作动员讲话。他对参加本次培训的全体学员表示热烈欢迎，希望各位学员能够珍惜此次学习机会，做到端正态度，学有所思，主动学习，学有所...",
+      "root->党建工作->072023-11华中师范大学三院联合分党校发展对象培训班（第六期）开班典礼顺利举行​11月4日上午，华中师范大学计算机学院、信息管理学院、人工智能教育学部三院联合分党校发展对象培训班（第六期）开班典礼在南湖综合楼N319教室顺利举行。信息管理学院党委副书记王涛、人工智能教育学部党委副书记李娜、计算机学院党委副书记庄甲鹏，人工智能教育学部带队老师杨先顺、党务干事田璐，计算机学院带队老师马梦圆出席本次典礼。来自计算机学院、人工智能教育学部、信息管理学院共59名培训班学员参加了典礼。开班典..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 16,
+  "tool_calls": 7,
+  "duration_seconds": 295.0,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0066_4c780bad50bb/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0066_4c780bad50bb/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

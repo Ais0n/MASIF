@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0383_2826ae37dd61",
+  "source_index": 383,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who are the recipients of the inaugural EHA Bilateral Collaborative Grants 2021, and what projects are they working on?",
+  "prompt": "Who are the recipients of the inaugural EHA Bilateral Collaborative Grants 2021, and what projects are they working on?",
+  "expected_answer": "Andrea Ditadi and Eirini Trompouki for 'Dissecting the role of transposable element-mediated inflammation in human hematopoietic stem cell development'; Ashok Kumar Jayavelu and Beat Bornhauser for 'Proteogenomic guidance for the treatment of high-risk acute lymphoblastic leukemia'.",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/organization/newsroom/news-and-updates/eha-congratulates-the-2021-bilateral-collaborative-grant-winners/"
+    ],
+    "golden_path": [
+      "root->News & views->Press releases->Read more"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 442.321,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0383_2826ae37dd61/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0383_2826ae37dd61/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

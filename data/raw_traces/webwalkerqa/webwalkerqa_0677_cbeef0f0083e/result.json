@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0677_cbeef0f0083e",
+  "source_index": 677,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年网易游戏的更新中，内马尔和盘古分别被引入到哪两款游戏中，引得玩家们纷纷参与新赛季及角色活动？",
+  "prompt": "在2024年网易游戏的更新中，内马尔和盘古分别被引入到哪两款游戏中，引得玩家们纷纷参与新赛季及角色活动？",
+  "expected_answer": "实况足球2025赛季和《乱斗西游2》",
+  "root_url": "https://game.163.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://game.163.com/news/2024/11/14/18455_1193573.html",
+      "https://game.163.com/news/2024/11/14/18455_1193575.html"
+    ],
+    "golden_path": [
+      "root->《率土之滨》联动三大博物馆 还原宝物再现三国历史->更真实，才足球！实况2025赛季今日更新，完成开服活动送精选和40抽高光！",
+      "root->《率土之滨》联动三大博物馆 还原宝物再现三国历史->创世之力觉醒！盘古震撼登陆《乱斗西游2》"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 22.811,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0677_cbeef0f0083e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0677_cbeef0f0083e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

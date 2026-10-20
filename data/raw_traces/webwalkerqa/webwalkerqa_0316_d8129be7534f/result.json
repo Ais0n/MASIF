@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0316_d8129be7534f",
+  "source_index": 316,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西南科技大学计算机科学与技术学院在2022年8月5日至7日的MLISE 2022会议中担任联合主办单位，该会议的大会主席是哪一位？",
+  "prompt": "西南科技大学计算机科学与技术学院在2022年8月5日至7日的MLISE 2022会议中担任联合主办单位，该会议的大会主席是哪一位？",
+  "expected_answer": "何刚副教授",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0722/c10923a203510/page.htm"
+    ],
+    "golden_path": [
+      "root->学术动态->4->【会议通知】【我院联合主办】第二届机器学习与智能系统工程国际学术会议（MLISE 2022）会议通知第二届机器学习与智能系统工程国际学术会议（MLISE2022）20222ndInternationalConferenceonMachineLearningandIntelligen...[2022-05-18]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.44,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0316_d8129be7534f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0316_d8129be7534f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

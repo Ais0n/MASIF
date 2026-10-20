@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0278_9864b3b63780",
+  "source_index": 278,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How can a company contact the relevant person to quickly obtain terms for participating in ACR Convergence 2024 advertising campaigns?",
+  "prompt": "How can a company contact the relevant person to quickly obtain terms for participating in ACR Convergence 2024 advertising campaigns?",
+  "expected_answer": "They should contact Hilary Bair, TriStar Senior Media Strategist, at 913-491-4200 or hbair@tristarpub.com.",
+  "root_url": "https://rheumatology.org/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://rheumatology.org/annual-meeting-support-advertising"
+    ],
+    "golden_path": [
+      "root->Industry Engagement->Support & Advertising"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "A company can contact the relevant person by reaching out through the 'Support & Advertising' section under Annual Meeting Industry Engagement to obtain terms for participating in ACR Convergence 2024 advertising campaigns.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 20.378,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0278_9864b3b63780/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0278_9864b3b63780/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

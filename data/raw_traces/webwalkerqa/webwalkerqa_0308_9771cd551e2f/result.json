@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0308_9771cd551e2f",
+  "source_index": 308,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "新疆大学计算机科学与技术学院黄志华主持的新疆自治区自然科学基金面上项目有哪些？2023年在IEEE 发表了什么主题的论文？",
+  "prompt": "新疆大学计算机科学与技术学院黄志华主持的新疆自治区自然科学基金面上项目有哪些？2023年在IEEE 发表了什么主题的论文？",
+  "expected_answer": "主持的项目是基于可懂度感知的自适应语音增强关键技术研究，学术会议主题是2023年IEEE国际声学、语音与信号处理会议(ICASSP)关于COVID-19咳嗽检测。",
+  "root_url": "https://it.xju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.xju.edu.cn/info/1150/2085.htm"
+    ],
+    "golden_path": [
+      "root->师资队伍->教师名录->黄志华"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 51.136,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0308_9771cd551e2f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0308_9771cd551e2f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

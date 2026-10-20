@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0069_648e8dee0f5f",
+  "source_index": 69,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "请问东华大学计算机学院哪个研究团队在POI推荐和跨域推荐上取得了显著进展，并且该学院哪一年开始培养博士生？",
+  "prompt": "请问东华大学计算机学院哪个研究团队在POI推荐和跨域推荐上取得了显著进展，并且该学院哪一年开始培养博士生？",
+  "expected_answer": "计算机学院孙国豪老师课题组；2012年",
+  "root_url": "https://cst.dhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cst.dhu.edu.cn/2023/1129/c3049a334334/page.htm",
+      "https://cst.dhu.edu.cn/2013/1107/c3054a344293/page.htm"
+    ],
+    "golden_path": [
+      "root->我院孙国豪老师课题组在推荐系统领域研究取得系...",
+      "root->研究生->企业信息化系统与工程学科是一个把计算机科学与技术同管理科学与工程、控制科学与工程、机械工程等学科相融合的交叉学科。东华大学计算机学科于1978年就开始招收本科专业学生，1986年获得硕士学位授予权，2012 年获得企业信息化与系统工程博士学位授予权，逐步形成数据工程基础和应用研究的学科特色，致力于信息化智能化高级专业技术人才培养。        ..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "东华大学计算机学院王鹏伟老师课题组在POI推荐和跨域推荐上取得了显著进展，该学院从2025年开始培养博士生。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 19.508,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0069_648e8dee0f5f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0069_648e8dee0f5f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0451_580728890d95",
+  "source_index": 451,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What were the exact dates and the General Chair for the ICSE conference in 2004?",
+  "prompt": "What were the exact dates and the General Chair for the ICSE conference in 2004?",
+  "expected_answer": "The ICSE 2004 conference was held from May 23 to 28, and the General Chair was Anthony Finkelstein.",
+  "root_url": "http://www.icse-conferences.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "http://www.icse-conferences.org/2004/index.html",
+      "http://www.icse-conferences.org/history.html"
+    ],
+    "golden_path": [
+      "root->ICSE 2004",
+      "root->HISTORY"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The ICSE conference in 2004 was held from 23rd to 28th May. The General Chair is not explicitly mentioned in the information provided.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 15.973,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0451_580728890d95/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0451_580728890d95/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "partial",
+      "reason": "The predicted answer correctly identifies the dates of the conference but fails to provide the name of the General Chair.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

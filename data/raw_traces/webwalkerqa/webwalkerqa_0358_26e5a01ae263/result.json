@@ -1,0 +1,47 @@
+{
+  "task_id": "webwalkerqa_0358_26e5a01ae263",
+  "source_index": 358,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who was the chair of the 12th APEC Tourism Ministerial Meeting held in Urubamba on June 9, 2024?",
+  "prompt": "Who was the chair of the 12th APEC Tourism Ministerial Meeting held in Urubamba on June 9, 2024?",
+  "expected_answer": "H.E. Mrs. Elizabeth Galdo Marín",
+  "root_url": "https://www.apec.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.apec.org/meeting-papers/sectoral-ministerial-meetings/tourism/12th-apec-tourism-ministerial-meeting"
+    ],
+    "golden_path": [
+      "root->APEC Tourism Ministers Issue Joint StatementUrubamba, Cusco, Peru, 09 June 2024->Chair's Statement->12th APEC Tourism Ministerial Meeting"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The chair of the 12th APEC Tourism Ministerial Meeting held in Urubamba on June 9, 2024, was H.E. Mrs. Elizabeth Galdo Marín, Minister of Trade and Tourism of Peru.",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer contains the exact expected name along with additional correct context.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 27.767,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0358_26e5a01ae263/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0358_26e5a01ae263/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "The predicted answer contains the exact expected name along with additional correct context.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

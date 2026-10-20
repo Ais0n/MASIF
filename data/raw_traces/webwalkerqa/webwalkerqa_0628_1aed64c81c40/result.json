@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0628_1aed64c81c40",
+  "source_index": 628,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "安徽大学计算机科学与技术学院在2023年拟录取研究生中，电子信息专业排名第一的是哪位学生，他/她的党组织关系转接到哪个支部？",
+  "prompt": "安徽大学计算机科学与技术学院在2023年拟录取研究生中，电子信息专业排名第一的是哪位学生，他/她的党组织关系转接到哪个支部？",
+  "expected_answer": "赵欲苗，中共安徽大学计算机科学与技术学院研究生第五支部委员会",
+  "root_url": "https://cs.ahu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.ahu.edu.cn/2023/0607/c10970a309599/page.htm",
+      "https://cs.ahu.edu.cn/2023/0621/c10970a310681/page.htm"
+    ],
+    "golden_path": [
+      "root->研究生教育-><<上一页->关于2023级拟录取研究生党组织关系转接的通知",
+      "root->研究生教育-><<上一页->计算机科学与技术学院2023年电子信息专业学位博士研究生面试结果..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 29.538,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0628_1aed64c81c40/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0628_1aed64c81c40/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

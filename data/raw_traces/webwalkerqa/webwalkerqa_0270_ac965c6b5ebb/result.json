@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0270_ac965c6b5ebb",
+  "source_index": 270,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "李军辉教授在2023年发表的关于未来智能神经机器翻译的一篇论文中提到的合作作者有哪些，并在哪个会议上发表？",
+  "prompt": "李军辉教授在2023年发表的关于未来智能神经机器翻译的一篇论文中提到的合作作者有哪些，并在哪个会议上发表？",
+  "expected_answer": "合作作者包括Xinglin Lyu, Min Zhang, Chenchen Ding, Hideki Tanaka, 和Masao Utiyama，论文在IEEE/ACM TASLP会议上发表。",
+  "root_url": "https://scst.suda.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scst.suda.edu.cn/11/68/c11250a528744/page.htm"
+    ],
+    "golden_path": [
+      "root->导师简介->李军辉教授"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "李军辉教授在2023年发表的关于未来智能神经机器翻译的一篇论文中的合作作者有张莉，该论文发表于会议'CCF C类会议'。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 26.553,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0270_ac965c6b5ebb/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0270_ac965c6b5ebb/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

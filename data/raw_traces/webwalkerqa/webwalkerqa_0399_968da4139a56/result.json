@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0399_968da4139a56",
+  "source_index": 399,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "匡敏驰在清华大学考博的开始时间到入职新疆大学担任兼职博导，期间共有多少年？",
+  "prompt": "匡敏驰在清华大学考博的开始时间到入职新疆大学担任兼职博导，期间共有多少年？",
+  "expected_answer": "5年",
+  "root_url": "https://it.xju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.xju.edu.cn/info/1327/2794.htm"
+    ],
+    "golden_path": [
+      "root->师资队伍->研究生导师队伍->匡敏驰"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 43.724,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0399_968da4139a56/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0399_968da4139a56/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

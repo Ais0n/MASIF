@@ -1,0 +1,251 @@
+----- user -----
+query:
+What is the topic and schedule of Professor Subbarao Kambhampati's lecture at the ACL 2024 conference?
+official website:
+https://2024.aclweb.org/
+Observation:website information:
+
+]( 
+              
+Toggle menu
+#  The 62nd Annual Meeting of the Association for Computational Linguistics 
+Bangkok, Thailand  
+August 11–16, 2024 
+Photo by  on 
+## Welcome!
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.   
+## News
+** is officially open**
+**Printing order service will be opened for registration until 9 August, 06.00 pm (local time) **  
+| July 28, 2024  | Printing order service is officially open at this .  |  
+| --- | --- |  
+| July 20, 2024  | The application form for  is posted.  |  
+| July 11, 2024  |   is posted.  |  
+| July 9, 2024  | Tourist-MICE (Letter from Thailand Convention and Exhibition Bureau - TCEB) is available in  section  |  
+| July 7, 2024  |   is posted  |  
+| Jun 28, 2024  |   is now open.  |  
+| Jun 28, 2024  |   information has been updated.  |  
+| Jun 17, 2024  |   is posted  |  
+| Jun 13, 2024  | Visa Information is updated  |  
+| Jun 06, 2024  | Information about invitation letter is posted in   |  
+| Jun 04, 2024  |   is posted.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 25, 2024  |   information has been updated.  |  
+| May 25, 2024  |   information has been posted.  |  
+| May 5, 2024  |   updated: The conference will be held at Centara Grand and Bangkok Convention Centre.  |  
+| Apr 27, 2024  |   is posted.  |  
+| Mar 3, 2024  | The information about venue and visa details have been posted.  |  
+| Feb 26, 2024  | Submission link for  is posted.  |  
+| Jan 31, 2024  |   is posted.  |  
+| Jan 24, 2024  |   is posted.  |  
+| Jan 19, 2024  |   is posted.  |  
+| Nov 24, 2023  | The list of accepted workshops and tutorials have been posted.  |  
+| Oct 25, 2023  | The official ACL 2024 website is launched.  |  
+## Important Dates  
+| Tutorials  | Sunday  | August 11, 2024  |  
+| --- | --- | --- |  
+| Main Conference  | Monday – Wednesday  | August 12 – 14, 2024  |  
+| Workshop  | Thursday - Friday  | August 15 -16, 2024  |  
+  
+**All deadlines are 11.59 pm (anywhere on earth).**
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+clickable button:
+
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>link<button>
+<button>Discounted Virtual Registration<button>
+<button>Call for D&I Socials and BoF Sessions<button>
+<button>Visa<button>
+<button>Accepted Main Conference Papers<button>
+<button>Registration<button>
+<button>Accepted Demo Papers<button>
+<button>Visa<button>
+<button>Call for Diversity and Inclusion Subsidies<button>
+<button>Participant<button>
+<button>Venue<button>
+<button>Call for Student Volunteers<button>
+<button>Call for System Demonstration<button>
+<button>Call for Student Research Workshop<button>
+<button>Call for Main Conference Papers<button>
+<button>Feed<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the topic and schedule of Professor Subbarao Kambhampati's lecture at the ACL 2024 conference. The "Program" button is likely to provide the schedule of the conference, including lectures. I will click on the "Program" button to explore further.
+
+Action: visit_page
+Action Input: {"button": "Program"}
+
+----- VisitPage -----
+The web information is:
+
+]( 
+              
+Toggle menu
+  * Programs
+              * Accepted
+                          * Award
+      * Events
+                
+# Conference Overview 
+### Full program on 
+Enhance your event experience by downloading our official app, ensuring you stay informed, connect with fellow attendees, and access exclusive content seamlessly.
+Get our official app,
+!
+ 
+For Blackberry or Windows Phone, 
+For feature details, visit 
+## Saturday, August 10th:  
+| 14:00 – 19:00  | Registration located on Level 22 Centara Grand Convention Center  |  
+| --- | --- |  
+## Sunday, August 11th:  
+| 07:30 – 20:30  | Registration Check in  |  
+| --- | --- |  
+| 09:00 – 12:30  | Tutorials (10:30 – 11:00 - Coffee, Tea and Pastry)  |  
+| 12:30 – 14:00  | Box Lunch Provided  |  
+| 14:00 – 17:30  | Tutorials (15:30 – 16:00 – Coffee, Tea and Biscuits)  |  
+| 18:30 – 21:00  | Welcome Reception (Light canapés &. Drink ticket)  |  
+## Monday, August 12th:  
+| 07:30 – 16:30  | Registration  |  
+| --- | --- |  
+| 09:00 – 10:30  | Session 1: Plenary -   
+**Keynote Speaker: Sunita Sarawagi**   
+_Does In-Context-Learning Offer the Best Tradeoff in Accuracy, Robustness, and Efficiency for Model Adaptation?_  |  
+| 10:30 – 11:00  | Break - Coffee, Tea and Pastry  |  
+| 11:00 – 12:30  | Session 2: Oral’s/Posters/ Demo Presentations A  |  
+| 12:30 – 14:00  | Box Lunch Provided  |  
+| 12:45 – 13:45  | Session 3: Finding Presentations 1  |  
+| 14:00 – 15:30  | Session 4: Oral’s/Posters/ Demo Presentations B  |  
+| 15:30 – 16:00  | Break - Coffee, Tea and Biscuits  |  
+| 16:00 – 17:30  | Session 5: Oral’s/Posters/ Demo Presentations C  |  
+| 17:45 – 18:45  | Session 6: Findings Presentations 2  |  
+## Tuesday, August 13th:  
+| 08:30 – 16:30  | Registration  |  
+| --- | --- |  
+| 09:00 – 10:00  | Session 7: Plenary -   
+**Keynote Speaker: Subbarao Kambhampati**   
+_Can LLMs Reason and Plan?_  |  
+| 10:00 – 10:30  | Break - Coffee, Tea and Pastry  |  
+| 10:30 – 12:00  | Session 8: Oral’s/Posters/ Demo Presentations D  |  
+| 12:00 – 13:00  | Box Lunch provided  |  
+| 12:15 – 13:15  | Session 9: Finding Presentations 3  |  
+| 13:30 – 14:30  | Session 10: Plenary - Business Meeting (all attendees welcome)  |  
+| 14:30 – 15:30  | Session 11: Plenary - Panel Dicussion   
+**Challenges and Opportunities with SEA LLMs**   
+_Sarana Nutanong, VISTEC, Ayu Purwarianti, Bandung Institute of Technology (ITB), Indonesia, William Tjhi, AI Singapore_  |  
+| 15:30 – 16:00  | Break - Coffee, Tea and Biscuits  |  
+| 16:00 – 17:30  | Session 12: Oral’s/Posters/ Demo Presentations E  |  
+| 19:00 – 22:00  | Social Event Dinner (Buffet Dinner & Drink Ticket) located at   |  
+## Wednesday, August 14th:  
+| 08:30 – 16:30  | Registration  |  
+| --- | --- |  
+| 09:00 – 10:00  | Session 13: Plenary **Keynote Speaker: Barbara Plank**   
+_Are LLMs Narrowing Our Horizon? Let’s Embrace Variation in NLP!_  |  
+| 10:00 – 10:30  | Break - Coffee, Tea and Pastry  |  
+| 10:30 – 12:00  | Session 14: Oral’s/Posters/ Demo Presentations F  |  
+| 12:00 – 13:30  | Box Lunch Provided  |  
+| 12:15 – 13:15  | Session 15 - Finding Presentations 4  |  
+| 13:30 – 15:00  | Session 16: Plenary - Lifetime Achievement & ToT Awards  |  
+| 15:00 – 15:30  | Break - Coffee, Tea and Biscuits  |  
+| 15:30 – 17:00  | Session 17: Plenary - Paper Awards  |  
+| 17:00 – 17:30  | Session 17: Plenary - Closing Session  |  
+## Thursday, August 15th:  
+| 08:00 – 16:30  | Registration  |  
+| --- | --- |  
+| 09:00 – 17:30  |   (please see workshop for details schedule)  |  
+| 10:30 – 11:00  | Break - Coffee, Tea and Pastry  |  
+| 12:30 – 14:00  | Box Lunch Available  |  
+| 15:30 – 16:00  | Break - Coffee, Tea and Biscuits  |  
+### Workshop List (Listed in alphabetical order)
+  * Argmining
+  * CMCL
+  * Health
+  * LChange
+  * Human-Centred
+  * IWSLT - Day 1 of 2
+  * KaLLM
+  * Lang + Mol
+  * LoResMT
+  * ML4AL
+  * PrivateNLP
+  * REPL4NLP
+  * Structured
+  * TeachNLP
+  * TextGraphs
+  * TurkicNLP – Day 1 of 2
+  * WASSA
+## Friday, August 16th:  
+| 08:00 – 16:30  | Registration  |  
+| --- | --- |  
+| 09:00 – 17:30  | Workshops (please see workshop for details schedule)  |  
+| 10:30 – 11:00  | Break - Coffee, Tea and pastry  |  
+| 12:30 – 14:00  | Box Lunch Available  |  
+| 15:30 – 16:00  | Break - Coffee, Tea and pastry  |  
+### Workshop List (Listed in alphabetical order)
+  * ArabicNLP
+  * AVLR
+  * BioNLP
+  * C3NLP
+  * Chinese LP
+  * ClimateNLP
+  * CONDA
+  * ConvAI
+  * FieldMatters
+  * Gender Bias
+  * Grounded
+  * IWSLT - Day 2 of 2
+  * Knowledge Augmentation
+  * KnowLLM
+  * SDP
+  * TurkicNLP – Day 2 of 2
+  * Wordplay
+  
+  
+  * **Follow:**
+      
+© 2025 acl. Powered by  & .
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Calls<button>
+<button>Program<button>
+<button>Registration<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>Participants Info<button>
+<button>FAQ<button>
+<button>Conference Overview<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Main Conference Papers<button>
+<button>Findings Papers<button>
+<button>Demo Papers<button>
+<button>TACL Papers<button>
+<button>CL Papers<button>
+<button>SRW Papers<button>
+<button>Best Papers<button>
+<button>Welcome Reception<button>
+<button>Keynotes<button>
+<button>Panel<button>
+<button>Social Gala<button>
+<button>Feed<button>
+
+----- WebWalker -----
+Memory:
+-The topic of Professor Subbarao Kambhampati's lecture at the ACL 2024 conference is 'Can LLMs Reason and Plan?', and it is scheduled for Monday, August 12th, from 09:00 to 10:00.
+"}
+
+----- WebWalker -----
+Final Answer: The topic of Professor Subbarao Kambhampati's lecture at the ACL 2024 conference is 'Can LLMs Reason and Plan?', and it is scheduled for Monday, August 12th, from 09:00 to 10:00.

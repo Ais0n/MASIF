@@ -1,0 +1,272 @@
+----- user -----
+query:
+中南大学计算机学院2021年大学生创新创业项目申报指导会议是在刘逸峰老师的主持下进行的，该会议在计算机学院的哪个具体地点举行？
+official website:
+https://cse.csu.edu.cn/
+Observation:website information:
+
+Toggle navigation .first\(\)\[0\].click\(\))
+ ](javascript:$\('.nav%20li%20a'\).first\(\)\[0\].click\(\))
+  
+        * ;)
+                                              * ;)
+                            * ;)
+                * ;)
+                            * ;)
+                                                                                                                          * ;)
+                                          
+  
+! 
+](
+  * !
+#### 
+  * !
+#### 
+  * !
+#### 
+  * !
+#### 
+! 
+](
+  
+  
+  
+  
+  
+  
+  
+!
+  主讲人: 谢思泓
+时间: 4月25日 10:00
+地点: 管理楼413会议室
+!
+  主讲人: 唐志皓 教授
+时间: 3月30日 10:00
+地点: 信息楼535
+!
+  主讲人: 陈恺、吴保元、廖鑫
+时间: 1月10日 09:40
+地点: 信息楼535
+!
+  主讲人: 唐相儒、尹榛菲
+时间: 1月6日 10:00
+地点: 潇湘校区信息楼535
+! 
+](
+  
+  
+  
+  
+! 
+](
+  
+  
+  
+  
+  * 常用系统： 
+    * |
+    * |
+    * |
+    * |
+地址：湖南省长沙市岳麓区中南大学信息楼 联系方式：0731-88836659
+Copyright ® 2017-2019 中南大学计算机学院 All Rights Reserved.
+
+
+clickable button:
+
+<button>首页<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>教授委员会<button>
+<button>学位评定分委员会<button>
+<button>教学指导委员会<button>
+<button>教师名录<button>
+<button>高层次人才<button>
+<button>研究生导师<button>
+<button>人才招聘<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>学科介绍<button>
+<button>科研成果<button>
+<button>科研动态<button>
+<button>科研文件<button>
+<button>党建动态<button>
+<button>日常党务<button>
+<button>政策文件<button>
+<button>工会活动<button>
+<button>离退休工作<button>
+<button>分党校工作<button>
+<button>下载中心<button>
+<button>学生工作<button>
+<button>组织机构<button>
+<button>队伍建设<button>
+<button>党建与思政教育<button>
+<button>校园文化<button>
+<button>心理健康<button>
+<button>学业服务与发展<button>
+<button>创新创业<button>
+<button>学工动态<button>
+<button>学工通知<button>
+<button>就业信息<button>
+<button>学子风采<button>
+<button>他山之石<button>
+<button>会议纪要<button>
+<button>规章制度<button>
+<button>院长信箱<button>
+<button>文件下载<button>
+<button>信息月报<button>
+<button>院长信箱<button>
+<button>English<button>
+<button>1<button>
+<button>2<button>
+<button>3<button>
+<button>学院新闻<button>
+<button>以路由算法为载体，促思政教育深融合——记计算机网络课程思政示范公开课为深入推进课程思政建设， 强化专业课程与价值引领的深度融合， 4月29日，我院在潇湘校区B座502组织开展课程思政示范公开课。本次公开课由张士庚老师主讲，教学督导及包括青年教师在内的多位教师代表到场观摩。本次课程围绕计算机网络相关内容展开，系统讲解了路由算法。张士庚老师首先从网络的图表示入手，引导学生理解节点与链路的抽象建模方式，在此基础上进一步引入路径优化原则与最短路径问题，逐步构建问题分析框架。随后...<button>
+<button>中南大学计算机学院本科生论文提出弱监督检测新方法近日，中南大学计算机学院徐炜轩（本科三年级学生）完成的研究论文 “Seeing the Whole Through the Parts: Discovering Objects through Semantic Part Mining in Weak Supervision” 被国际信息检索领域重要学术会议 ACM SIGIR 2026（CCF-A类）接收录用。该论文聚焦弱监督目标检测中的实例定位难题，提出了一种基于“由部件推理整体”的新方法 P2WDet。该方法通过挖掘语义部件信息，实现对目标整体的有效建模，为弱标注条件下...<button>
+<button>计算机学院召开全体教职工大会为进一步规范科研管理流程、强化教职工师风师德修养、压实立德树人工作责任，4月27日下午，中南大学计算机学院全体教职工大会在信息楼108报告厅召开。会议围绕科研经费规范使用、师德师风建设、重大学情责任倒查与问责等核心议题开展专题培训。大会由计算机学院党委书记赵晓霞主持，学院全体教职工参会。学院特邀请中南大学审计处戴江宁作科研经费使用专题培训。她基于国家及学校科研经费管理相关政策法规，结合典型审计案例，...<button>
+<button>中南大学计算机学院2026年学科发展论坛暨青年教师发展研讨会成功举办为搭建高水平学术交流与合作平台，以学科建设引领学院高质量发展、助力青年教师成长成才，2026年4月26日，中南大学计算机学院2026年学科发展论坛暨青年教师发展研讨会在信息楼525会议室顺利召开。本次大会特邀浙江大学、南京大学、西安交通大学、中国科学技术大学等国内知名高校的计算机领域专家学者齐聚一堂，共话学术前沿动态，共商学科发展大计，共促青年教师成长，为学院学科建设提质增效注入新动能。中南大学计算机学院党...<button>
+<button>通知公告<button>
+<button>0626-05<button>
+<button>中南大学计算机学院关于组织学生参加第42次CCF-CSP认证的通知<button>
+<button>3026-04<button>
+<button>2025-2026年度计算机学院五四评优拟推名单公示<button>
+<button>2826-04<button>
+<button>关于启动计算机学院2026年课堂教学竞赛的通知<button>
+<button>2726-04<button>
+<button>中国共产主义青年团纪律处分条例（试行）<button>
+<button>2326-04<button>
+<button>计算机学院关于认真做好2026年劳动节假期学生工作的通知<button>
+<button>2326-04<button>
+<button>关于做好中南大学计算机学院2025-2026学年度共青团五四评优的通知<button>
+<button>2326-04<button>
+<button>计算机学院学生会组织2025-2026学年度“优秀共青团干部”名单公示<button>
+<button>学术信息<button>
+<button>从可信图学习到开放世界自主智能体：一种高不确定性环境下的系统集成范式<button>
+<button>带隐藏样本的定价问题<button>
+<button>人工智能安全前沿技术论坛<button>
+<button>计算机学院国际青年学者论坛<button>
+<button>科研动态<button>
+<button>1825-03<button>
+<button>AI引领，思想碰撞|清华大学任炬教授《端侧大模型：趋势与挑战》学术讲座顺利举行<button>
+<button>1325-03<button>
+<button>AI赋能科研，创新驱动未来-李敏教授就人工智能赋能生物与药物研发开展AI创新论坛报告<button>
+<button>1024-04<button>
+<button>中南大学王建新教授团队在二倍体组装研究中取得重要进展<button>
+<button>1024-01<button>
+<button>计算机学院倪鹏博士获2023年ACM中国优博奖<button>
+<button>学工动态<button>
+<button>2926-04<button>
+<button>计算机学院2024级大数据专业年级大会顺利召开<button>
+<button>2726-04<button>
+<button>力拔山河，码到功成——计算机学院2024&2025级拔河比赛圆满落幕<button>
+<button>2426-04<button>
+<button>计算机学院2024级信息安全专业年级大会顺利召开<button>
+<button>2126-04<button>
+<button>计算机学院“受聘于心，担责于行”心理委员受聘大会顺利召开<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到关于“中南大学计算机学院2021年大学生创新创业项目申报指导会议”的具体地点信息。首先，我应该访问“创新创业”页面以获取相关信息。
+
+Action: visit_page
+Action Input: {"button": "创新创业"}
+
+----- VisitPage -----
+The web information is:
+
+Toggle navigation .first\(\)\[0\].click\(\))
+ ](javascript:$\('.nav%20li%20a'\).first\(\)\[0\].click\(\))
+  
+                                                    
+elementnameelementnameelementnameelementname -->
+!
+学生工作
+                        
+! !
+!  >  > 
+创新创业 
+  * 2023-06-20
+  * 2022-03-05
+  * 2021-12-25
+  * 2021-12-25
+  * 2021-12-09
+  * 2021-11-22
+  * 2021-11-18
+  * 2021-11-15
+  * 2021-11-14
+  * 2021-10-27
+  * 2021-10-15
+  * 2021-06-21
+  * 2021-06-08
+  * 2021-05-12
+  * 2021-05-01
+  
+|   
+ | 共33条 1/3   |  首页上页 页  |  
+| --- | --- |  
+ |  
+  * 常用系统： 
+    * |
+    * |
+    * |
+    * |
+地址：湖南省长沙市岳麓区中南大学信息楼 联系方式：0731-88836659
+Copyright ® 2017-2019 中南大学计算机学院 All Rights Reserved.
+
+
+Clickable buttons are wrapped in <button> tag
+<button>组织机构<button>
+<button>队伍建设<button>
+<button>党建与思政教育<button>
+<button>校园文化<button>
+<button>心理健康<button>
+<button>学业服务与发展<button>
+<button>创新创业<button>
+<button>学工动态<button>
+<button>学工通知<button>
+<button>就业信息<button>
+<button>学子风采<button>
+<button>他山之石<button>
+<button>组织机构<button>
+<button>队伍建设<button>
+<button>党建与思政教育<button>
+<button>校园文化<button>
+<button>心理健康<button>
+<button>学业服务与发展<button>
+<button>创新创业<button>
+<button>学工动态<button>
+<button>学工通知<button>
+<button>就业信息<button>
+<button>学子风采<button>
+<button>他山之石<button>
+<button>首页<button>
+<button>学生工作<button>
+<button>关于开放中南大学华为智能基座社团成员注册的通知<button>
+<button>中南大学计算机学院第四届科协第二次全体大会顺利召开<button>
+<button>计算机学院双创基地参观活动总结<button>
+<button>计算机学院双创基地参观活动<button>
+<button>路引前程，书海有径——2020级职业生涯规划分享讲座圆满结束<button>
+<button>计算机学院成功举办2021年度软件创新大赛校赛答辩<button>
+<button>2021级双创委员培训会顺利举行<button>
+<button>中南大学计算机学院科协保研交流会顺利召开<button>
+<button>计算机学院大学生科学技术协会“IT训练营”正式开幕<button>
+<button>如何成长为数字时代下的新青年——华为专家面对面<button>
+<button>国奖系列讲座第一场——“领跑之路”圆满落幕<button>
+<button>关于组织学生参加湖南湘江新区人工智能训练营2021年开营仪式暨“后备军培养计划”项目路演的通知<button>
+<button>计算机学院科协毕业生干部座谈会顺利召开<button>
+<button>计算机学院大学生创新创业年会顺利举行<button>
+<button>IT训练营开幕式圆满结束<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Memory:
+-中南大学计算机学院2021年大学生创新创业项目申报指导会议在中南大学信息楼举行。
+"}
+
+----- WebWalker -----
+Final Answer: 中南大学计算机学院2021年大学生创新创业项目申报指导会议在中南大学信息楼举行。

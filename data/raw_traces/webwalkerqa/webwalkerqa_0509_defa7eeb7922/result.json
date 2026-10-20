@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0509_defa7eeb7922",
+  "source_index": 509,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What was the required launch date for Illuvium Zero according to proposal IIP-39, and when did it actually launch on iOS and Google Play for the testnet?",
+  "prompt": "What was the required launch date for Illuvium Zero according to proposal IIP-39, and when did it actually launch on iOS and Google Play for the testnet?",
+  "expected_answer": "IIP-39 requires Illuvium Zero to launch before Illuvium Overworld. Illuvium Zero Beta went live on iOS and Google Play on July 25, 2024.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-april-2024",
+      "https://illuvium.io/news/illuvium-zero-beta-launch-on-ios-google-play-&-epic-games"
+    ],
+    "golden_path": [
+      "root->News->Illuvium DAO Governance Newsletter - April 2024",
+      "root->News->Illuvium: Zero Beta Launch on iOS, Google Play, & Epic Games"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 15.229,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0509_defa7eeb7922/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0509_defa7eeb7922/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

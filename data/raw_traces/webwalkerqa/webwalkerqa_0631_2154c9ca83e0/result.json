@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0631_2154c9ca83e0",
+  "source_index": 631,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西华大学计算机与软件工程学院2023年春季学期党校入党积极分子、发展对象培训班和第四季度党支部书记工作例会的组织领导者分别是谁？",
+  "prompt": "西华大学计算机与软件工程学院2023年春季学期党校入党积极分子、发展对象培训班和第四季度党支部书记工作例会的组织领导者分别是谁？",
+  "expected_answer": "李欣和杨志松",
+  "root_url": "https://cs.xhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xhu.edu.cn/e1/df/c10301a188895/page.htm",
+      "https://cs.xhu.edu.cn/13/f9/c10301a201721/page.htm"
+    ],
+    "golden_path": [
+      "root->党建学生工作->下一页>>->计算机与软件工程学院2023年春季学期入党积极分子、发展对象培训...",
+      "root->党建学生工作->下一页>>->计算机与软件工程学院党委召开党支部书记工作例会暨党务工作培训..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 59.741,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0631_2154c9ca83e0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0631_2154c9ca83e0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

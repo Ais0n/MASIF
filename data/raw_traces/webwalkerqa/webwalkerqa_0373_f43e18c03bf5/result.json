@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0373_f43e18c03bf5",
+  "source_index": 373,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在此次南京理工大学计算机科学与工程学院团委会议中，重温入团誓词的环节是在个人述职之后进行的吗？",
+  "prompt": "在此次南京理工大学计算机科学与工程学院团委会议中，重温入团誓词的环节是在个人述职之后进行的吗？",
+  "expected_answer": "是",
+  "root_url": "https://cs.njust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njust.edu.cn/c2/09/c11675a311817/page.htm"
+    ],
+    "golden_path": [
+      "root->学生风采->下一页>>->计算机科学与工程学院团委召开2022年组织生活会暨2022-2023学年...2023-01-13"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 39.456,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0373_f43e18c03bf5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0373_f43e18c03bf5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

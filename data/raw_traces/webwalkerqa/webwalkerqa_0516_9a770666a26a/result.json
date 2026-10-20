@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0516_9a770666a26a",
+  "source_index": 516,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "索尼在2024年发布的全画幅微单旗舰Alpha 1 II是如何体现公司在《索尼中国可持续发展报告2024》中阐述的环保承诺的？",
+  "prompt": "索尼在2024年发布的全画幅微单旗舰Alpha 1 II是如何体现公司在《索尼中国可持续发展报告2024》中阐述的环保承诺的？",
+  "expected_answer": "Alpha 1 II的包装使用了由竹子、甘蔗和回收纸的混合材料制成，符合索尼的环保与可持续发展承诺。",
+  "root_url": "https://www.sony.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2024/241120.html.html",
+      "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/corporate/2024/241107-3.html"
+    ],
+    "golden_path": [
+      "root->以科技再攀影像高峰 索尼发布全画幅新旗舰Alpha 1 II及其首款…",
+      "root->新闻中心->索尼连续19年发布《索尼中国可持续发展报告》 以绿色、…"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 61.854,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0516_9a770666a26a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0516_9a770666a26a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

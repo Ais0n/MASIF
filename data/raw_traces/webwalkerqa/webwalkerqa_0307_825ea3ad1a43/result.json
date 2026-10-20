@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0307_825ea3ad1a43",
+  "source_index": 307,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which professor gave a lecture at the 832nd session of the 'Xuecui Forum' at Harbin Engineering University on August 15, 2018, and what innovative solution did they propose?",
+  "prompt": "Which professor gave a lecture at the 832nd session of the 'Xuecui Forum' at Harbin Engineering University on August 15, 2018, and what innovative solution did they propose?",
+  "expected_answer": "Dr. Xiaojiang (James) Du; e-SAFE (Secure, Efficient and Forensics-Enabled Access to Wireless Implantable Medical Devices)",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2018/0824/c6989a264191/page.htm"
+    ],
+    "golden_path": [
+      "root->学工动态->尾页->“学萃讲坛”第832期—e-SAFE: Secure, Efficient and Forensics-Enabled Access to Wireless Imp...2018-08-14"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 72.028,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0307_825ea3ad1a43/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0307_825ea3ad1a43/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

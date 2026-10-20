@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0083_abc57ebe92d5",
+  "source_index": 83,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "武汉大学计算机学院的何发智教授在获得博士学位后的第一份工作是从哪一年开始的？",
+  "prompt": "武汉大学计算机学院的何发智教授在获得博士学位后的第一份工作是从哪一年开始的？",
+  "expected_answer": "2000年",
+  "root_url": "https://cs.whu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.whu.edu.cn/info/1019/2497.htm"
+    ],
+    "golden_path": [
+      "root->专任教师->何发智"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 6,
+  "duration_seconds": 44.447,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0083_abc57ebe92d5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0083_abc57ebe92d5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

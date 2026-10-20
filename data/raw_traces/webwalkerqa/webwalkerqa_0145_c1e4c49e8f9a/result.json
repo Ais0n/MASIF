@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0145_c1e4c49e8f9a",
+  "source_index": 145,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2019年第四届全国软件测试大赛北京赛区的比赛日期与全国赛区开始日期相差多少天？",
+  "prompt": "2019年第四届全国软件测试大赛北京赛区的比赛日期与全国赛区开始日期相差多少天？",
+  "expected_answer": "28天",
+  "root_url": "https://csci.ncut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://csci.ncut.edu.cn/info/1086/1662.htm"
+    ],
+    "golden_path": [
+      "root->第四届全国软件测试大赛（北京..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "2019年第四届全国软件测试大赛北京赛区的比赛日期与全国赛区开始日期相差48天。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 4,
+  "duration_seconds": 26.171,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0145_c1e4c49e8f9a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0145_c1e4c49e8f9a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer states 48 days, which is factually different from the expected answer of 28 days.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

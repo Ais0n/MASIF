@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0321_6e1bfd0f01d4",
+  "source_index": 321,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who participated in the 2022 Riot Games Black History Month panel 'For the Culture: Stories of Creativity from the Black Community'?",
+  "prompt": "Who participated in the 2022 Riot Games Black History Month panel 'For the Culture: Stories of Creativity from the Black Community'?",
+  "expected_answer": "Alton Glass, Jasmine 'CutiePieSensei' James, and Manuel Godoy.",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/news/black-history-month-recap"
+    ],
+    "golden_path": [
+      "root->Diversity & Inclusion->head over to RiotGames.com.->Black History Month Recap"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 59.263,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0321_6e1bfd0f01d4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0321_6e1bfd0f01d4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

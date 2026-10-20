@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0378_bde30d5a170c",
+  "source_index": 378,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What was the theme of Professor Du Xiaojiang's academic report held at Harbin Engineering University on December 19, 2016?",
+  "prompt": "What was the theme of Professor Du Xiaojiang's academic report held at Harbin Engineering University on December 19, 2016?",
+  "expected_answer": "Analysis of Clickjacking Attacks and An Effective Defense Scheme for Android Devices",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2016/1218/c11965a264094/page.htm"
+    ],
+    "golden_path": [
+      "root->科研动态->尾页->杜小江教授学术报告会（学萃讲坛第560期）2016-12-18"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 69.771,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0378_bde30d5a170c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0378_bde30d5a170c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

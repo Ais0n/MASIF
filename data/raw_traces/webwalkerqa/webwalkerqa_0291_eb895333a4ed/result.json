@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0291_eb895333a4ed",
+  "source_index": 291,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年6月2日开启的《万仙逐鹿》测试中的其中一项战斗特性是什么？",
+  "prompt": "在2024年6月2日开启的《万仙逐鹿》测试中的其中一项战斗特性是什么？",
+  "expected_answer": "自动征兵，尽情作战",
+  "root_url": "https://www.duoyi.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.duoyi.com/news/news_27230.shtm#sub-content"
+    ],
+    "golden_path": [
+      "root->多益网络旗下产品荣获2024金手指奖两大奖项->东方神话战略手游《万仙逐鹿》测试火热开启"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 82.445,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0291_eb895333a4ed/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0291_eb895333a4ed/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

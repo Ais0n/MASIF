@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0665_9eb4151e9d68",
+  "source_index": 665,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "电子科技大学计算机科学与工程学院党委在推进主题教育过程中，于2023年举行的中国式现代化道路对话互动式宣讲和“习近平新时代中国特色社会主义思想”主题教育读书班，代表学校理论宣讲团参与的重要人员是谁？",
+  "prompt": "电子科技大学计算机科学与工程学院党委在推进主题教育过程中，于2023年举行的中国式现代化道路对话互动式宣讲和“习近平新时代中国特色社会主义思想”主题教育读书班，代表学校理论宣讲团参与的重要人员是谁？",
+  "expected_answer": "蒋杰教授",
+  "root_url": "https://www.scse.uestc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://www.scse.uestc.edu.cn/info/1142/13764.htm",
+      "https://www.scse.uestc.edu.cn/info/1142/13822.htm"
+    ],
+    "golden_path": [
+      "root->主题教育->【主题教育】计算机（网安）学院党委：学思用贯通、知信行统一，推进主题教育扎实有效开展",
+      "root->主题教育->【主题教育】师生同台开展“中国式现代化道路——开创人类文明新形态”对话互动式宣讲"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 23.33,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0665_9eb4151e9d68/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0665_9eb4151e9d68/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

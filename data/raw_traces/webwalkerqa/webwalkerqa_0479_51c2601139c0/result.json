@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0479_51c2601139c0",
+  "source_index": 479,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在信息技术科研大楼B413会议室先后举办的2023年全球学术前沿系列讲座和2024年研究生三党支部的主题党日活动中，各自讨论的核心主题是什么？",
+  "prompt": "在信息技术科研大楼B413会议室先后举办的2023年全球学术前沿系列讲座和2024年研究生三党支部的主题党日活动中，各自讨论的核心主题是什么？",
+  "expected_answer": "全球学术前沿系列讲座的主题是'Distributed AI: Scalability, Efficiency, and Generalizability'；研究生三党支部主题党日的核心是'《中国共产党不合格党员组织处置办法》专题学习。",
+  "root_url": "http://www.cs.cqu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.cqu.edu.cn/info/1308/8084.htm",
+      "http://www.cs.cqu.edu.cn/info/1270/7475.htm"
+    ],
+    "golden_path": [
+      "root->研究生三党支部开展“强信念以学铸魂，践使命以...",
+      "root->计算机学院全球前沿学科系列讲座第七期暨计算机学院第27期“未来计算”学术前沿论坛成功举办"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 15.977,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0479_51c2601139c0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0479_51c2601139c0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

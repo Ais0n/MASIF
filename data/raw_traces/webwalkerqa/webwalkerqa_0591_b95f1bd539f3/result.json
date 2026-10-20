@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0591_b95f1bd539f3",
+  "source_index": 591,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "巨人网络在2021年通过与哪些国际品牌或IP的合作，显著扩展了其游戏产品线？",
+  "prompt": "巨人网络在2021年通过与哪些国际品牌或IP的合作，显著扩展了其游戏产品线？",
+  "expected_answer": "美团外卖、肯德基和menhera-chan（七濑胡桃）",
+  "root_url": "https://www.ztgame.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ztgame.com/news/1414.html",
+      "https://www.ztgame.com/news/1416.html"
+    ],
+    "golden_path": [
+      "root->上一页->下一页->都是吃的？球球大作战与美团外卖、肯德基展开合作12月25日，巨人网络《球球大作战》正式开启与美团外卖、肯德基三方联动，共同推出《球球大作战》主题套餐与游戏专属定制皮肤，这也是继2018年之后，《球球大作战》与肯德基的二度携手。\n\n\n\n \n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n01 塔坦化身冬日骑士，送上冬日第一桶炸鸡\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n今日，《球球大作战》官方抖音（抖音号：780708615）发布联动视频，波拉哩星球“知名吃货”塔坦化身美团外卖小哥，为玩家送上冬日里第一份肯德基炸鸡桶。\n\n\n\n \n\n\n\n\n\n\n\n\n\n \n\n\n\n即日起至1月3日23:00，在美团外卖APP上任意肯德基宅急送店铺购买肯德基×《球球大作战》系列套餐：球球大作战小龙虾双人餐、球球大作战六味小吃欢享桶，即可获得驯龙团限定礼包，兑换专属定制永久皮肤。美团小车光环、嫩牛五方孢子、动态关键词“出发吧，袋鼠君！”，多重定制外观特效，让球宝们化身亮眼的送餐骑士。\n\n\n\n \n\n\n\n\n\n\n02 新版本初露一角，神秘未知即将破壳而出\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n游戏外三方联动火热开启，游戏内也为玩家准备了惊喜。近日，《球球大作战》公开线上悬念站，塔坦满含笑意地抱着一颗发光的彩色龙蛋，究竟来到波拉哩星球的会是新伙伴，还是新劲敌？神秘的未知即将破壳而出！ \n\n\n\n \n\n\n\n\n\n\n\n\n\n \n\n\n\n新版本初露一角，《球球大作战》又将迎来怎样的新内容，是更加丰富多彩的皮肤，亦或是创意无限的全新游戏模式？更多惊喜还请期待《球球大作战》后续更新。2021-07-09 08:03:57",
+      "root->上一页->《胡桃日记》今日全平台上线，登陆App Store免费榜第一由巨人网络自主研发、腾讯独家代理发行的元气少女治愈陪伴手游《胡桃日记》今日正式全平台上线，首日即登顶App Store免费游戏榜、TapTap热门榜及新品榜。\n\n \n\n\n\n \n\n《胡桃日记》是以七濑胡桃为主角的放置养成类手游，胡桃的世界将24小时与现实同步，模拟真实的陪伴体验，陪你度过轻松美好时光。\n\n \n\n游戏内，玩家可以自由为胡桃增加提升性格属性的“羁绊之语”，是热血、佛系、机智，还是元气、吃货、文艺，你的胡桃由你来养成。此外，还有精美服装、特色主题小屋、旅行闯关等丰富的玩法体验，让胡桃和你共同创造趣味日常。\n\n \n\n\n\n  \n\n《胡桃日记》原型来自日本Joynet旗下知名漫画作品menhera-chan，最初以表情形态在日本上线，迅速成为日本现象级漫画作品，并由爱好者传播入中国，在国内二次元群体中引爆，被粉丝昵称为“menhera酱”。\n\n \n\n    \n\n \n\n巨人网络与日本Joynet株式会社于2018年10月宣布达成合作，获得menhera-chan全部品类的全球独家代理授权。2019年6月，七濑胡桃作为虚拟偶像正式出道，成为二次元领域知名IP形象，并推出各类周边、IP联动、表情包、主题创作大赛等。目前，七濑胡桃全网粉丝超过200万，视频总播放量超过3000万。2021-07-09 08:11:41"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 64.011,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0591_b95f1bd539f3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0591_b95f1bd539f3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

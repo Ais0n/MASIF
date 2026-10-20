@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0608_7d1e6cc9b47f",
+  "source_index": 608,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "摩尔庄园手游何时正式移交给淘米游戏独立运营，并在该日期之后首次发布了什么回归活动？",
+  "prompt": "摩尔庄园手游何时正式移交给淘米游戏独立运营，并在该日期之后首次发布了什么回归活动？",
+  "expected_answer": "2023年3月24日；米米号鉴定活动",
+  "root_url": "https://game.61.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://game.61.com/m/news/content.shtml?pagenum=2019-21650",
+      "https://game.61.com/m/news/content.shtml?pagenum=2019-21571"
+    ],
+    "golden_path": [
+      "root->首页->新闻动态->《摩尔庄园手游》正式回归淘米 黑猫警长、洽洽食品共庆2周年时空交汇，快乐重逢！摩尔庄园手游今日正式回归淘米游戏，老用户回归活动同步启动，我们也携手黑猫警长与洽洽食品共庆2周年，为小摩尔们准备了...【05/26】",
+      "root->首页->新闻动态->《摩尔庄园》手游淘米官网上线 全新内容抢先爆料今日，《摩尔庄园》手游淘米官网正式上线，2023年周年庆版本预约开启，众多回归福利、全新版本内容抢先爆料，期待广大小摩尔们提前入驻！\n...【03/31】"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 196.626,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0608_7d1e6cc9b47f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0608_7d1e6cc9b47f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

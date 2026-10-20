@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0215_03b1cebe14be",
+  "source_index": 215,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which experts explained intermediate and advanced Hodgkin lymphoma cases during the December 15, 2020 guidelines workshop, and when did the interactive discussion start?",
+  "prompt": "Which experts explained intermediate and advanced Hodgkin lymphoma cases during the December 15, 2020 guidelines workshop, and when did the interactive discussion start?",
+  "expected_answer": "Dr. T. Skrypets and Dr. D. Dujmovic explained the cases; the interactive discussion started at 16:00 CET.",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/guidelines/clinical-practice-guidelines/guidelines-workshops-3/hodgkin-lymphoma-2/"
+    ],
+    "golden_path": [
+      "root->Guidelines Workshops->Learn More"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 92.245,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0215_03b1cebe14be/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0215_03b1cebe14be/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

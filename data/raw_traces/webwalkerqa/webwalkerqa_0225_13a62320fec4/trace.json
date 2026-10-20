@@ -1,0 +1,122 @@
+{
+  "events": [
+    {
+      "index": 1,
+      "role": "user",
+      "content": "query:\n在2023年骄傲月期间，哪位音乐艺术家与拳头游戏合作，在全球总决赛中推出了与哪个游戏角色相关的内容？\nofficial website:\nhttps://www.riotgames.com/zh-cn\nObservation:website information:\n\n\nglobeIcon\nburgerNav\nburgerNavClose\n登录\n登录\n!\n!\n# \n2026 赛季//第三幕现已开启\n塑水宗卷土重来、斗牛：晋升赛开启、地图池迎来更新 更多精彩内容，尽在第三幕！\n## 最新动态\n 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告 新闻 ](\n  * ### \n  * ### \n  * ### \n  * ### \n## 我们的游戏\n ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\") ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\") ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\")\n## 电子竞技&娱乐\n! ]( ]( ]( ]( ](\n## 加入我们！\n加入拳头，开启全新征程，铸造难以忘怀的玩家经历\n!\n      \n              \nCookie Preferences\n\n\nclickable button:\n\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>mainLogoRiotFist21<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>展开全部<button>\n<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告新闻<button>\n<button>VCT 2027：每一战，皆决战新闻<button>\n<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片新闻<button>\n<button>【无畏契约】并肩而战//迷核英雄预告新闻<button>\n<button>花开如约 | 2026新春庆典踏雪寻梅遇故知新闻<button>\n<button>181招聘职位<button>\n<button>24地点<button>\n<button>查看所有空缺职位<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n\n\nEach button is wrapped in a <button> tag\n\n",
+      "root_url": "https://www.riotgames.com/zh-cn"
+    },
+    {
+      "index": 2,
+      "role": "WebWalker",
+      "content": "Thought: 我需要找到与2023年骄傲月期间，音乐艺术家与拳头游戏合作，并在《英雄联盟》全球总决赛中推出相关内容的游戏角色。首先，我应该访问拳头游戏的官方网站并查找相关新闻或活动信息。\n\nAction: visit_page\nAction Input: {\"button\": \"新闻\"}"
+    },
+    {
+      "index": 3,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\nglobeIcon\nburgerNav\nburgerNavClose\n登录\n登录\n显示 所有 \n关闭筛选\n筛选 \n  * 所有\n  * 办公室\n  * 部门\n  * 新闻\n  * Riot內部\n  * One-Shot\n  * Tech Blog\n!\n新闻\n2026/04/14\n### 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告\nPabro和Meddler带你了解第2主题季、即将发布的皮肤以及玩法改动。Riot Cadmus和Riot RogueFool揭晓本主题季竞技场的部分更新。还有DashiJador和Riot CallMeKT介绍WASD控制模式登陆排位赛的安排。\n2026/04/14\n!\n新闻\n2026/04/08\n### VCT 2027：每一战，皆决战\n从公开入围赛到杯赛，再到大师赛和全球冠军赛的顶尖赛事舞台，就这么简单。\n2026/04/08\n!\n新闻\n2026/03/27\n### 【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片\n走进星神的圣域！上前来，向神致意，你将获得宇宙之力的恩赐。\n2026/03/27\n!\n新闻\n2026/03/15\n### 【无畏契约】并肩而战//迷核英雄预告\n即将于 2026 赛季//第二幕登场。\n2026/03/15\n!\n新闻\n2026/02/04\n### 花开如约 | 2026新春庆典踏雪寻梅遇故知\n踏雪寻梅遇故知。如期如约，唤醒沉睡在时光中的快乐与友谊 🌸 新春庆典将于26.03版本开启。\n2026/02/04\n!\n新闻\n2026/02/04\n### 幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片\n美食、欢笑和友谊，真是太棒了！天马行空 小马率领小小英雄们展开疯狂的城市飞车，在云顶之弈中迎接至臻 玉剑传说 武剑仙 小小锐雯的到来，并在神话级棋盘 马到成功热闹落地。抓稳扶好，这就出发！去迎接你的开年大胜！\n2026/02/04\n!\n新闻\n2026/02/04\n### 心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片\n家是心之所向。你在之处，便是归宿。\n2026/02/04\n!\n新闻\n2025/12/19\n### 暂离工位 2025年寒假到来\n请放心，反作弊、安全和线上运营团队已经排好值班，确保一切平稳运行。 \n2025/12/19\n!\n新闻\n2025/11/06\n### 寻找你附近的2025全球总决赛观赛派对\n正在寻找英雄联盟全球总决赛的观赛活动？你来对地方了。\n2025/11/06\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>mainLogoRiotFist21<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告<button>\n<button>VCT 2027：每一战，皆决战<button>\n<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片<button>\n<button>【无畏契约】并肩而战//迷核英雄预告<button>\n<button>花开如约 | 2026新春庆典踏雪寻梅遇故知<button>\n<button>幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片<button>\n<button>心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片<button>\n<button>暂离工位 2025年寒假到来<button>\n<button>寻找你附近的2025全球总决赛观赛派对<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "新闻",
+      "url": "https://www.riotgames.com/zh-cn/news",
+      "markdown_chars": 1090,
+      "discovered_buttons": 23
+    },
+    {
+      "index": 4,
+      "role": "WebWalker",
+      "content": "在2023年骄傲月期间，拳头游戏与音乐艺术家合作推出相关内容的新闻可能不在当前的新闻列表中。我需要进一步查找与“骄傲月”和“全球总决赛”相关的具体活动或合作信息。\n\nAction: visit_page\nAction Input: {\"button\": \"寻找你附近的2025全球总决赛观赛派对\"}"
+    },
+    {
+      "index": 5,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n登录\n登录\n新闻\n# 寻找你附近的2025全球总决赛观赛派对\n  * **2025/11/06**\n        * Toggle additional sharing options\n        * 通过电子邮件分享该内容\n            \n!\n本届英雄联盟全球总决赛可谓是高潮迭起，从100T爆冷击败BLG，到AL与T1鏖战五局的惊天对决，自始至终精彩不断。从揭幕战T1对阵IG，到即将于11月9日上演的终极决战，这注定是一届令人难忘的全球总决赛。若您想与同好们相约线下，共同为2025英雄联盟全球总决赛画下圆满句点，我们已为您准备好线下观赛活动的指南。\n本列表收录了部分线下观赛活动，若您附近有观赛派对，请点击对应链接了解参与详情；若未附链接，建议通过当地社群渠道或直接联系场地获取参与方式。\n以下是中国大陆地区的观赛活动列表，以助您快速定位：\n温馨提示：所有活动均由第三方组织，我们无法对活动安排进行调整。各场馆容纳数量有限，恕我们无法为所有活动提供详尽的动态更新。找到您心仪的活动后，如有任何疑问或需要了解具体参与细则，建议直接联系活动对应主办方。\n## Latest News\n!\n新闻\n2026/04/14\n### 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告\nPabro和Meddler带你了解第2主题季、即将发布的皮肤以及玩法改动。Riot Cadmus和Riot RogueFool揭晓本主题季竞技场的部分更新。还有DashiJador和Riot CallMeKT介绍WASD控制模式登陆排位赛的安排。\n2026/04/14\n!\n新闻\n2026/04/08\n### VCT 2027：每一战，皆决战\n从公开入围赛到杯赛，再到大师赛和全球冠军赛的顶尖赛事舞台，就这么简单。\n2026/04/08\n!\n新闻\n2026/03/27\n### 【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片\n走进星神的圣域！上前来，向神致意，你将获得宇宙之力的恩赐。\n2026/03/27\n!\n新闻\n2026/03/15\n### 【无畏契约】并肩而战//迷核英雄预告\n即将于 2026 赛季//第二幕登场。\n2026/03/15\n!\n新闻\n2026/02/04\n### 花开如约 | 2026新春庆典踏雪寻梅遇故知\n踏雪寻梅遇故知。如期如约，唤醒沉睡在时光中的快乐与友谊 🌸 新春庆典将于26.03版本开启。\n2026/02/04\n## Latest News\n!\n新闻\n2026/02/04\n### 幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片\n美食、欢笑和友谊，真是太棒了！天马行空 小马率领小小英雄们展开疯狂的城市飞车，在云顶之弈中迎接至臻 玉剑传说 武剑仙 小小锐雯的到来，并在神话级棋盘 马到成功热闹落地。抓稳扶好，这就出发！去迎接你的开年大胜！\n2026/02/04\n!\n新闻\n2026/02/04\n### 心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片\n家是心之所向。你在之处，便是归宿。\n2026/02/04\n!\n新闻\n2025/12/19\n### 暂离工位 2025年寒假到来\n请放心，反作弊、安全和线上运营团队已经排好值班，确保一切平稳运行。 \n2025/12/19\n!\n新闻\n2025/09/19\n### 庆祝英雄联盟赛事十五周年\n庆祝英雄联盟赛事15周年 全新召唤师奖杯回归 G.E.M.邓紫棋演唱全球总决赛主题曲\n2025/09/19\n!\n新闻\n2025/06/27\n### 这个暑假，出去玩吧\n晒晒太阳，疲倦忘光光\n2025/06/27\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告<button>\n<button>VCT 2027：每一战，皆决战<button>\n<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片<button>\n<button>【无畏契约】并肩而战//迷核英雄预告<button>\n<button>花开如约 | 2026新春庆典踏雪寻梅遇故知<button>\n<button>幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片<button>\n<button>心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片<button>\n<button>暂离工位 2025年寒假到来<button>\n<button>庆祝英雄联盟赛事十五周年<button>\n<button>这个暑假，出去玩吧<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "寻找你附近的2025全球总决赛观赛派对",
+      "url": "https://www.riotgames.com/zh-cn/news/find-a-worlds-2025-watch-party-near-you-zh-cn",
+      "markdown_chars": 1544,
+      "discovered_buttons": 23
+    },
+    {
+      "index": 6,
+      "role": "WebWalker",
+      "content": "在2025年全球总决赛期间，有一条新闻提到了与赛事相关的活动和主题曲。我需要进一步查看这条新闻以获取更多信息。\n\nAction: visit_page\nAction Input: {\"button\": \"庆祝英雄联盟赛事十五周年\"}"
+    },
+    {
+      "index": 7,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n错误号: 412\n由于触发哔哩哔哩安全风控策略，该次访问请求被拒绝。 \nThe request was rejected because of the bilibili security control policy.\n\n\nClickable buttons are wrapped in <button> tag\n",
+      "button": "庆祝英雄联盟赛事十五周年",
+      "url": "https://www.riotgames.com/zh-cn/news/celebrating-15-years-of-lol-esports-zh-cn",
+      "markdown_chars": 110,
+      "discovered_buttons": 0
+    },
+    {
+      "index": 8,
+      "role": "WebWalker",
+      "content": "似乎访问该页面时遇到了问题，可能是由于安全策略限制。我需要尝试其他方法或按钮来查找相关信息。\n\nAction: visit_page\nAction Input: {\"button\": \"新闻\"}"
+    },
+    {
+      "index": 9,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\nglobeIcon\nburgerNav\nburgerNavClose\n登录\n登录\n显示 所有 \n关闭筛选\n筛选 \n  * 所有\n  * 办公室\n  * 部门\n  * 新闻\n  * Riot內部\n  * One-Shot\n  * Tech Blog\n!\n新闻\n2026/04/14\n### 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告\nPabro和Meddler带你了解第2主题季、即将发布的皮肤以及玩法改动。Riot Cadmus和Riot RogueFool揭晓本主题季竞技场的部分更新。还有DashiJador和Riot CallMeKT介绍WASD控制模式登陆排位赛的安排。\n2026/04/14\n!\n新闻\n2026/04/08\n### VCT 2027：每一战，皆决战\n从公开入围赛到杯赛，再到大师赛和全球冠军赛的顶尖赛事舞台，就这么简单。\n2026/04/08\n!\n新闻\n2026/03/27\n### 【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片\n走进星神的圣域！上前来，向神致意，你将获得宇宙之力的恩赐。\n2026/03/27\n!\n新闻\n2026/03/15\n### 【无畏契约】并肩而战//迷核英雄预告\n即将于 2026 赛季//第二幕登场。\n2026/03/15\n!\n新闻\n2026/02/04\n### 花开如约 | 2026新春庆典踏雪寻梅遇故知\n踏雪寻梅遇故知。如期如约，唤醒沉睡在时光中的快乐与友谊 🌸 新春庆典将于26.03版本开启。\n2026/02/04\n!\n新闻\n2026/02/04\n### 幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片\n美食、欢笑和友谊，真是太棒了！天马行空 小马率领小小英雄们展开疯狂的城市飞车，在云顶之弈中迎接至臻 玉剑传说 武剑仙 小小锐雯的到来，并在神话级棋盘 马到成功热闹落地。抓稳扶好，这就出发！去迎接你的开年大胜！\n2026/02/04\n!\n新闻\n2026/02/04\n### 心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片\n家是心之所向。你在之处，便是归宿。\n2026/02/04\n!\n新闻\n2025/12/19\n### 暂离工位 2025年寒假到来\n请放心，反作弊、安全和线上运营团队已经排好值班，确保一切平稳运行。 \n2025/12/19\n!\n新闻\n2025/11/06\n### 寻找你附近的2025全球总决赛观赛派对\n正在寻找英雄联盟全球总决赛的观赛活动？你来对地方了。\n2025/11/06\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>mainLogoRiotFist21<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告<button>\n<button>VCT 2027：每一战，皆决战<button>\n<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片<button>\n<button>【无畏契约】并肩而战//迷核英雄预告<button>\n<button>花开如约 | 2026新春庆典踏雪寻梅遇故知<button>\n<button>幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片<button>\n<button>心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片<button>\n<button>暂离工位 2025年寒假到来<button>\n<button>寻找你附近的2025全球总决赛观赛派对<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "新闻",
+      "url": "https://www.riotgames.com/zh-cn/news",
+      "markdown_chars": 1090,
+      "discovered_buttons": 23
+    },
+    {
+      "index": 10,
+      "role": "WebWalker",
+      "content": "Thought: 在新闻列表中没有找到与2023年骄傲月相关的合作信息。我需要尝试其他方法，比如访问“媒体”部分或查看是否有其他相关页面。\n\nAction: visit_page\nAction Input: {\"button\": \"媒体\"}"
+    },
+    {
+      "index": 11,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n登录\n登录\n# 媒体\n!\n需要媒体素材吗？希望申请采访吗？如有与媒体相关的垂询，请联系我们的公关团队。所有非媒体相关的询问都将不会获得回复。\n所有其它方面的问题，请访问。\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "媒体",
+      "url": "https://www.riotgames.com/zh-cn/press",
+      "markdown_chars": 128,
+      "discovered_buttons": 13
+    },
+    {
+      "index": 12,
+      "role": "WebWalker",
+      "content": "Thought: 媒体页面没有提供足够的信息。我需要回到主页并尝试其他按钮，比如“前往主页”或查看是否有其他相关页面。\n\nAction: visit_page\nAction Input: {\"button\": \"前往主页\"}"
+    },
+    {
+      "index": 13,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\nglobeIcon\nburgerNav\nburgerNavClose\n登录\n登录\n!\n!\n# \n2026 赛季//第三幕现已开启\n塑水宗卷土重来、斗牛：晋升赛开启、地图池迎来更新 更多精彩内容，尽在第三幕！\n## 最新动态\n 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告 新闻 ](\n  * ### \n  * ### \n  * ### \n  * ### \n## 我们的游戏\n ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\") ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\") ! windowsapple ]( \"Drag to explore\") ! windowsmobileplaystationxbox ]( \"Drag to explore\") ! windowsapplemobile ]( \"Drag to explore\") ! mobile ]( \"Drag to explore\") ! windowsmobile ]( \"Drag to explore\") ! windows ]( \"Drag to explore\") ! 敬请期待 ]( \"Drag to explore\")\n## 电子竞技&娱乐\n! ]( ]( ]( ]( ](\n## 加入我们！\n加入拳头，开启全新征程，铸造难以忘怀的玩家经历\n!\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>mainLogoRiotFist21<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>展开全部<button>\n<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告新闻<button>\n<button>VCT 2027：每一战，皆决战新闻<button>\n<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片新闻<button>\n<button>【无畏契约】并肩而战//迷核英雄预告新闻<button>\n<button>花开如约 | 2026新春庆典踏雪寻梅遇故知新闻<button>\n<button>181招聘职位<button>\n<button>24地点<button>\n<button>查看所有空缺职位<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "前往主页",
+      "url": "https://www.riotgames.com/zh-cn#top",
+      "markdown_chars": 1084,
+      "discovered_buttons": 23
+    },
+    {
+      "index": 14,
+      "role": "WebWalker",
+      "content": "Thought: 我需要继续探索其他可能的页面或按钮，以找到与2023年骄傲月期间音乐艺术家与拳头游戏合作的相关信息。我将尝试访问“展开全部”按钮来查看更多内容。\n\nAction: visit_page\nAction Input: {\"button\": \"展开全部\"}"
+    },
+    {
+      "index": 15,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n登录\n登录\n显示 所有 \n关闭筛选\n筛选 \n  * 所有\n  * 办公室\n  * 部门\n  * 新闻\n  * Riot內部\n  * One-Shot\n  * Tech Blog\n!\n新闻\n2026/04/14\n### 【英雄联盟】万魔殿、竞技场及其他 | 开发者报告\nPabro和Meddler带你了解第2主题季、即将发布的皮肤以及玩法改动。Riot Cadmus和Riot RogueFool揭晓本主题季竞技场的部分更新。还有DashiJador和Riot CallMeKT介绍WASD控制模式登陆排位赛的安排。\n2026/04/14\n!\n新闻\n2026/04/08\n### VCT 2027：每一战，皆决战\n从公开入围赛到杯赛，再到大师赛和全球冠军赛的顶尖赛事舞台，就这么简单。\n2026/04/08\n!\n新闻\n2026/03/27\n### 【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片\n走进星神的圣域！上前来，向神致意，你将获得宇宙之力的恩赐。\n2026/03/27\n!\n新闻\n2026/03/15\n### 【无畏契约】并肩而战//迷核英雄预告\n即将于 2026 赛季//第二幕登场。\n2026/03/15\n!\n新闻\n2026/02/04\n### 花开如约 | 2026新春庆典踏雪寻梅遇故知\n踏雪寻梅遇故知。如期如约，唤醒沉睡在时光中的快乐与友谊 🌸 新春庆典将于26.03版本开启。\n2026/02/04\n!\n新闻\n2026/02/04\n### 幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片\n美食、欢笑和友谊，真是太棒了！天马行空 小马率领小小英雄们展开疯狂的城市飞车，在云顶之弈中迎接至臻 玉剑传说 武剑仙 小小锐雯的到来，并在神话级棋盘 马到成功热闹落地。抓稳扶好，这就出发！去迎接你的开年大胜！\n2026/02/04\n!\n新闻\n2026/02/04\n### 心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片\n家是心之所向。你在之处，便是归宿。\n2026/02/04\n!\n新闻\n2025/12/19\n### 暂离工位 2025年寒假到来\n请放心，反作弊、安全和线上运营团队已经排好值班，确保一切平稳运行。 \n2025/12/19\n!\n新闻\n2025/11/06\n### 寻找你附近的2025全球总决赛观赛派对\n正在寻找英雄联盟全球总决赛的观赛活动？你来对地方了。\n2025/11/06\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>【英雄联盟】万魔殿、竞技场及其他 | 开发者报告<button>\n<button>VCT 2027：每一战，皆决战<button>\n<button>【云顶之弈】星神 - 祝你拥有超“神”的一天！｜赛季影片<button>\n<button>【无畏契约】并肩而战//迷核英雄预告<button>\n<button>花开如约 | 2026新春庆典踏雪寻梅遇故知<button>\n<button>幸运飞车 | 至臻 玉剑传说 武剑仙 小小锐雯短片<button>\n<button>心之所向 | 2026马年限定“蕊雪盈春”系列皮肤宣传片<button>\n<button>暂离工位 2025年寒假到来<button>\n<button>寻找你附近的2025全球总决赛观赛派对<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "展开全部",
+      "url": "https://www.riotgames.com/zh-cn/news",
+      "markdown_chars": 1055,
+      "discovered_buttons": 22
+    },
+    {
+      "index": 16,
+      "role": "WebWalker",
+      "content": "Thought: 在新闻列表中没有找到与2023年骄傲月相关的合作信息。我需要尝试其他方法，比如访问“媒体”部分或查看是否有其他相关页面。\n\nAction: visit_page\nAction Input: {\"button\": \"媒体\"}\n"
+    },
+    {
+      "index": 17,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n登录\n登录\n# 媒体\n!\n需要媒体素材吗？希望申请采访吗？如有与媒体相关的垂询，请联系我们的公关团队。所有非媒体相关的询问都将不会获得回复。\n所有其它方面的问题，请访问。\n      \n              \nCookie Preferences\n\n\nClickable buttons are wrapped in <button> tag\n<button>Jump to Main Content<button>\n<button>Jump to Primary Navigation<button>\n<button>我们是谁<button>\n<button>与我们共事<button>\n<button>新闻<button>\n<button>媒体<button>\n<button>安全<button>\n<button>玩家支持<button>\n<button>E-Verify<button>\n<button>无障碍环境<button>\n<button>年度报告<button>\n<button>社区公约<button>\n<button>前往主页<button>\n",
+      "button": "媒体",
+      "url": "https://www.riotgames.com/zh-cn/press",
+      "markdown_chars": 128,
+      "discovered_buttons": 13
+    }
+  ]
+}

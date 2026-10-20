@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0253_1637fe7a2883",
+  "source_index": 253,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which Italian professor gave an overview presentation of the guidelines at the EHA-organized workshop on mild to moderate inherited bleeding disorders held on April 20, 2021, and what was their specific role?",
+  "prompt": "Which Italian professor gave an overview presentation of the guidelines at the EHA-organized workshop on mild to moderate inherited bleeding disorders held on April 20, 2021, and what was their specific role?",
+  "expected_answer": "The Italian professor F. Rodeghiero conducted the guidelines overview presentation at the EHA workshop.",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/guidelines/clinical-practice-guidelines/guidelines-workshops-3/bleeding-disorders-2/"
+    ],
+    "golden_path": [
+      "root->Guidelines Workshops->Learn More"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 84.225,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0253_1637fe7a2883/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0253_1637fe7a2883/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

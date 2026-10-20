@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0034_93392bb65279",
+  "source_index": 34,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2022年哈尔滨工程大学计算机科学与技术学院的智汇论坛中，由熊作彬和钟申俊分别带来的报告主题是什么？",
+  "prompt": "在2022年哈尔滨工程大学计算机科学与技术学院的智汇论坛中，由熊作彬和钟申俊分别带来的报告主题是什么？",
+  "expected_answer": "联邦学习中的隐私攻击与隐私保护；脑部白质纤维束成像技术和深度学习的应用",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2022/1103/c12615a300446/page.htm",
+      "http://cstc.hrbeu.edu.cn/2022/1104/c12615a300472/page.htm"
+    ],
+    "golden_path": [
+      "root->学术交流-><<上一页->计算机科学与技术学院举行智汇论坛（第九期）活动2022-11-03",
+      "root->学术交流-><<上一页->计算机科学与技术学院举行智汇论坛（第十期）活动2022-11-04"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 46.638,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0034_93392bb65279/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0034_93392bb65279/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0589_e350296fd495",
+  "source_index": 589,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "华南师范大学计算机学院2023年下半年《计算机信息管理课程实验》考前培训与考核分别安排在哪一天？",
+  "prompt": "华南师范大学计算机学院2023年下半年《计算机信息管理课程实验》考前培训与考核分别安排在哪一天？",
+  "expected_answer": "考前培训安排在2023年10月21日，考核安排在2023年11月12日。",
+  "root_url": "http://cs.scnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.scnu.edu.cn/a/20231017/5577.html",
+      "http://cs.scnu.edu.cn/a/20231012/5572.html"
+    ],
+    "golden_path": [
+      "root->本科教育->新闻通知->2023-10-17计算机学院2023年下半年《计算机信息管理课程实验》考前培训通知",
+      "root->本科教育->新闻通知->2023-10-12计算机学院2023年下半年实践课考核通知"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "华南师范大学计算机学院2023年下半年《计算机信息管理课程实验》的考前培训安排在2023年11月17日，考核安排在2023年6月16日。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 19.861,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0589_e350296fd495/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0589_e350296fd495/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\":",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0559_82fb4971ebf4",
+  "source_index": 559,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "统一企业在2022年哪两次紧急事件中调配物资提供援助，并各自提供了什么具体物资？",
+  "prompt": "统一企业在2022年哪两次紧急事件中调配物资提供援助，并各自提供了什么具体物资？",
+  "expected_answer": "泸定地震（自热食品）和苏州疫情（自热产品、方便面、饮料）",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/news_detail.asp?news_id=795&corp_id=376",
+      "https://www.uni-president.com.cn/news_detail.asp?news_id=701&corp_id=376"
+    ],
+    "golden_path": [
+      "root->新闻专区->下页->心系泸定 统一有情",
+      "root->新闻专区->下页->同心抗疫 我们在行动"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "统一企业在2022年两次紧急事件中调配物资提供援助，分别是：1. 2022年6月21日，华南-广州统一积极捐赠抗洪振灾物资；2. 2022年6月27日，华南-福州统一积极捐赠抗洪振灾物资。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 24.205,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0559_82fb4971ebf4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0559_82fb4971ebf4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict\":",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

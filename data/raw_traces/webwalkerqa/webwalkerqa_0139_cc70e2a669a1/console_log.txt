@@ -1,0 +1,721 @@
+----- user -----
+query:
+南京航空航天大学计算机科学与技术学院2020级本科生第二支部委员会中提到的预备党员转正名单中，唯一一个学号起始数字不是 '162' 的学生的学号是什么？
+official website:
+http://cs.nuaa.edu.cn/
+Observation:website information:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+热点新闻
+                  
+  * _04-30_
+  * _04-22_
+  * _04-21_
+  * _04-20_
+  * _04-19_
+  * _04-17_
+  * _04-03_
+公示
+  * _04-30_
+  *  _01-08_
+  *  _12-15_
+  *  _12-12_
+  * _12-12_
+  * _12-12_
+  * _12-11_
+  * _12-02_
+通知公告
+党委行政
+  * 12.15
+  * 11.26
+  * 06.17
+  * 06.15
+  * 06.04
+人事
+  * 05.12
+  * 03.06
+  * 12.25
+  * 12.11
+  * 12.11
+学科科研
+  * 04.20
+  * 04.12
+  * 04.10
+  * 01.02
+  * 12.27
+本科生培养
+  * 04.20
+  * 04.20
+  * 04.16
+  * 04.16
+  * 03.13
+研究生培养
+  * 04.28
+  * 03.26
+  * 03.24
+  * 03.23
+  * 03.09
+学生工作
+  * 11.28
+  * 11.26
+  * 11.04
+  * 06.27
+  * 06.27
+学术信息
+### Jan
+14
+题目：LLaDA：大语言模型新范式
+报告人：李崇轩
+时间： 1月14日 15:30
+地点：计算机学院505会议室
+### Dec
+15
+题目：面向 6G 网络的内生智能技术
+报告人：吴稳
+时间： 12月15日 9:00
+地点：1号楼9楼会议室
+### Dec
+10
+题目：具身概念对齐中的理论挑战
+报告人：于剑
+时间： 12月10日 15:00
+地点：计算机学院楼113会议室
+### Nov
+26
+题目：面向边缘的去中心化学习：迈向下一代智能系统
+报告人：苏宁馨
+时间： 11月26日 10:00-12:00
+地点：计算机学院楼505会议室
+### Oct
+28
+题目：人工智能大模型落地的六大要素
+报告人：潘毅
+时间： 10月28日 下午2:00-4:00
+地点：计算机学院楼507会议室
+### Oct
+24
+题目：Paraconsistency for the Working Software Engineer
+报告人：Luís Soares Barbosa
+时间： 10月24日 15:00
+地点：计算机学院楼505会议室
+ 新闻网 ](
+ 智慧校园 ](
+ 图书馆 ](
+ 电邮系统 ](
+ 班车时刻 ](
+ OA办公网 ](
+](
+](
+](
+](javascript:void\(0\))
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+clickable button:
+
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>校友与基金工作<button>
+<button>人才引进<button>
+<button>更多>><button>
+<button>工作动态 | 转发：第二届“信息杯”趣味羽毛球赛成功举办<button>
+<button>工作动态 | 学院召开2026年上半年全体教职工大会<button>
+<button>工作动态 | 学院举办“春风和煦润人心，携手奋进向新行”春分节...<button>
+<button>要闻丨抢抓新机遇 实干启新程 中共南京航空航天大学计算机科学...<button>
+<button>工作动态 | 守护 “睛” 彩视界，情暖教职工身心——学院“石榴微...<button>
+<button>工作动态 | 学院召开2026年高质量发展研讨会<button>
+<button>要闻 | 中国科学院院士周志华做客我校“问天科学讲坛”<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 2026全国高校软件工程教育大会...<button>
+<button>工作动态 | 学院召开2026年上半年全体教职...<button>
+<button>工作动态 | 系统谋划，精准发力：学院召开2...<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 学院举办“春风和煦润人心，携...<button>
+<button>更多>><button>
+<button>2025级“卓越工程师教育培养计划”专业 “...<button>
+<button>2025年度教职工考核结果公示<button>
+<button>预备党员转正公示<button>
+<button>院级第四季度教材编写人员政治审查公示<button>
+<button>计算机科学与技术学院2025-2026-2学期研究...<button>
+<button>计算机科学与技术学院/软件学院 2025-2026-...<button>
+<button>学院关于2025年准聘长聘体系教师岗位晋升拟...<button>
+<button>【评选公示】2024-2025学年教学优秀奖拟推...<button>
+<button>更多>><button>
+<button>MORE<button>
+<button>>预备党员转正公示<button>
+<button>>发展党员公示<button>
+<button>>预备党员转正公示<button>
+<button>>预备党员转正公示<button>
+<button>>发展党员公示<button>
+<button>MORE<button>
+<button>>学院诚聘海内外优秀人才<button>
+<button>>学院机关工作人员招聘启事<button>
+<button>>2025年度教职工考核工作安排<button>
+<button>>学院关于2025年准聘长聘体系教师岗位晋升拟...<button>
+<button>>2024年度教职工考核工作安排<button>
+<button>MORE<button>
+<button>>关于组织模式分析与机器智能工业和信息化部...<button>
+<button>>关于组织高安全系统的软件开发与验证技术工...<button>
+<button>>关于组织脑机智能技术教育部重点实验室2024...<button>
+<button>>关于开展第十八届中国青年科技奖候选人提名...<button>
+<button>>关于开展第二十届中国青年女科学家奖和第九...<button>
+<button>MORE<button>
+<button>>【毕业设计】2026届本科生毕业设计（论文）...<button>
+<button>>【毕业设计】关于做好2026届本科生毕业设计...<button>
+<button>>【创新班管理】2025级计算机科学与技术（拔...<button>
+<button>>【卓越计划】2025级“卓越工程师教育培养计...<button>
+<button>>【项目申报】2026年第一季度院级教材项目申...<button>
+<button>MORE<button>
+<button>>【导师】计算机科学与技术学院/软件学院202...<button>
+<button>>【博士答辩】李舒阳 博士答辩公告<button>
+<button>>【优博优硕】拟推荐申报2026年校优秀博士、...<button>
+<button>>【导师】2026年研究生导师招生资格补充公示<button>
+<button>>【博士答辩】滕美艳 博士答辩公告<button>
+<button>MORE<button>
+<button>>工作动态 | 六WEI空间：一场手绘明信片上的...<button>
+<button>>2025年秋季学期发展对象答辩会顺利举行<button>
+<button>>工作动态 | 学院举办“大事小情身边事，法...<button>
+<button>>工作动态 | 学院举办2025届本科毕业生最后...<button>
+<button>>工作动态 | 学院举办第二十期“山湖号”榜...<button>
+<button>【石榴大讲堂】LLaDA：大语言模型新范式<button>
+<button>【石榴大讲堂】面向 6G 网络的内生智能技术<button>
+<button>【石榴大讲堂】具身概念对齐中的理论挑战<button>
+<button>【石榴大讲堂】面向边缘的去中心化学习：迈...<button>
+<button>【石榴大讲堂】人工智能大模型落地的六大要...<button>
+<button>【石榴大讲堂】Paraconsistency for the Wo...<button>
+<button>更多>><button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到南京航空航天大学计算机科学与技术学院2020级本科生第二支部委员会中提到的预备党员转正名单。首先，我应该访问“学生工作”页面，然后查找与“党员发展”或“预备党员转正公示”相关的链接。
+
+Action: visit_page
+Action Input: {"button": "学生工作"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+### 常用下载
+                  
+学生工作
+当前位置：
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>|-安全工作<button>
+<button>|-人事工作<button>
+<button>|-本科生培养<button>
+<button>|-研究生培养<button>
+<button>|-科学研究<button>
+<button>|-学生工作<button>
+<button>|-党建群团<button>
+<button>|-校友工作<button>
+<button>|-学院Logo<button>
+
+----- WebWalker -----
+我需要进入“学生党建”页面，因为这可能与预备党员转正相关。
+
+Action: visit_page
+Action Input: {"button": "学生党建"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+### 学生工作
+            
+学生党建
+当前位置：
+  * 2023-04-30
+  * 2022-11-15
+  * 2018-12-24
+  * 2014-05-06
+  * 2011-05-04
+  * 2010-05-22
+  * 2010-04-29
+  * 2010-04-16
+  * 2009-04-23
+  * 每页  _14_ 记录  总共  _9_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>|-学生活动<button>
+<button>|-研究生会<button>
+<button>|-共青团<button>
+<button>|-学生党建<button>
+<button>|-获奖情况<button>
+<button>|-通知公告<button>
+<button>计算机学院成立先进网络与通信技术纵向党支部<button>
+<button>计算机学院2020级本科生第一党支部与体育部第一党支部开展支部共建活动<button>
+<button>计算机学院举行2018年下半年拟转正预备党员答辩会<button>
+<button>“理想之钟”应长鸣—04103、4（6）学生党支部成员赴中山陵开展党日活动<button>
+<button>我院第41期党校学员参观雨花台烈士陵园<button>
+<button>信息科学与技术学院顺利举行学习吴大观同志先进事迹师生党支部座谈会<button>
+<button>信息科学与技术学院面向家长召开专业介绍座谈会<button>
+<button>学院研究生党支部开展“缅怀英烈、勿忘国耻、理性爱国”主题教育活动<button>
+<button>我院举办学生党员深入学习实践科学发展观活动学习调研阶段成果交流会<button>
+
+----- WebWalker -----
+Thought: 我需要查找与“2020级本科生第二支部委员会”和“预备党员转正名单”相关的公告。我应该点击“通知公告”按钮，查看是否有相关公示。
+
+Action: visit_page
+Action Input: {"button": "通知公告"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+### 学生工作
+            
+通知公告
+当前位置：
+  * 2024-03-20
+  * 2023-06-02
+  * 2023-04-30
+  * 2011-06-13
+  * 2011-05-12
+  * 2011-05-10
+  * 2011-04-11
+  * 2010-09-06
+  * 2010-03-03
+  * 2010-03-02
+  * 2010-03-01
+  * 每页  _14_ 记录  总共  _11_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>|-学生活动<button>
+<button>|-研究生会<button>
+<button>|-共青团<button>
+<button>|-学生党建<button>
+<button>|-获奖情况<button>
+<button>|-通知公告<button>
+<button>访企拓岗促就业 | 计算机学院赴华为技术有限公司开展访企拓岗促就业专项行动<button>
+<button>计算机学院举办第十期“六WEI空间”石榴午餐会<button>
+<button>计算机学院成立先进网络与通信技术纵向党支部<button>
+<button>计算机科学与技术学院第八期科创基金申报通知<button>
+<button>Ubuntu Natty Release Party 古都站（南京）——ubuntu推广及经验交流活动<button>
+<button>我院将与阿里巴巴集团合作举办程序设计竞赛<button>
+<button>校第六届程序设计大赛的通知<button>
+<button>2010年下半年三助岗位招聘通知<button>
+<button>关于举办“江苏软件杯”首届全国大学生软件设计大赛的通知<button>
+<button>三助岗位的申请通知<button>
+<button>关于信息科学与技术学院三助岗位需求的通知<button>
+
+----- WebWalker -----
+Thought: 我需要查找与“2020级本科生第二支部委员会”和“预备党员转正名单”相关的具体公告。我应该点击“预备党员转正公示”按钮，查看是否有相关文件。
+
+Action: visit_page
+Action Input: {"button": "预备党员转正公示"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+### 公示
+公示
+当前位置：
+### 预备党员转正公示
+时间:2025-12-15作者:来源:计算机科学与技术学院点击:1907 次
+  
+经党组织培养考察，姜典等38名同志预备期已满。根据校党委组织部《关于实行发展党员公示制度的意见》精神，党员和群众对以下同志转为中共正式党员如有意见或建议，可采用口头或书面形式于2025年12月22日前向院党委或校党委组织部反映。
+具体公示名单如下：
+  
+中共南京航空航天大学计算机科学与技术学院2022级本科生第一支部委员会:姜典(162220311)
+中共南京航空航天大学计算机科学与技术学院2022级本科生第一支部委员会:刘文俊(162210223)
+中共南京航空航天大学计算机科学与技术学院2022级本科生第一支部委员会:石邢怡(162220304)
+中共南京航空航天大学计算机科学与技术学院2022级本科生第一支部委员会:刘怡麟(162220204)
+中共南京航空航天大学计算机科学与技术学院2022级本科生第一支部委员会:宋灵毓(162210405)
+中共南京航空航天大学计算机科学与技术学院2022级本科生第一支部委员会:阮灿(162210301)
+中共南京航空航天大学计算机科学与技术学院2022级本科生第二支部委员会:徐祥祝(052210619)
+中共南京航空航天大学计算机科学与技术学院2022级本科生第二支部委员会:陆齐嘉(162250206)
+中共南京航空航天大学计算机科学与技术学院2022级本科生第二支部委员会:梁巧欣(162240206)
+中共南京航空航天大学计算机科学与技术学院2022级本科生第二支部委员会:汪清源(162230229)
+中共南京航空航天大学计算机科学与技术学院2022级本科生第二支部委员会:李柄科(162240109)
+中共南京航空航天大学计算机科学与技术学院2023级本科生第一支部委员会:杨焌铃(162320312)
+中共南京航空航天大学计算机科学与技术学院2023级本科生第一支部委员会:李碧鹏(162340120)
+中共南京航空航天大学计算机科学与技术学院2023级本科生第一支部委员会:肖昊哲(162330230)
+中共南京航空航天大学计算机科学与技术学院2023级本科生第一支部委员会:王晓宇(162330104)
+中共南京航空航天大学计算机科学与技术学院2023级本科生第一支部委员会:钱睿(162320301)
+中共南京航空航天大学计算机科学与技术学院2023级本科生第一支部委员会:欧亿(162320112)
+中共南京航空航天大学计算机科学与技术学院智“AI”纵向支部委员会:牛纪龙(SZ2316085)
+中共南京航空航天大学计算机科学与技术学院网络空间安全前沿技术纵向支部委员会:陈吕莹(SZ2316002)
+中共南京航空航天大学计算机科学与技术学院网络空间安全前沿技术纵向支部委员会:吕滴(SX2516133)
+中共南京航空航天大学计算机科学与技术学院网络化无人系统与智能对抗纵向支部委员会:肖典(SE2516010)
+中共南京航空航天大学计算机科学与技术学院2023级硕士生第一支部委员会:祁明宇(SZ2316026)
+中共南京航空航天大学计算机科学与技术学院2023级硕士生第二支部委员会:董泽华(SX2316180)
+中共南京航空航天大学计算机科学与技术学院2023级硕士生第二支部委员会:姜正舵(SZ2316040)
+中共南京航空航天大学计算机科学与技术学院2023级硕士生第二支部委员会:陆炜(SZ2316054)
+中共南京航空航天大学计算机科学与技术学院2023级硕士生第三支部委员会:向磊(SX2316200)
+中共南京航空航天大学计算机科学与技术学院2023级硕士生第四支部委员会:牛荣兵(SZ2316118)
+中共南京航空航天大学计算机科学与技术学院2025级硕士生第一支部委员会:王子欣(SX2516004)
+中共南京航空航天大学计算机科学与技术学院2025级硕士生第一支部委员会:高璇(SX2516046)
+中共南京航空航天大学计算机科学与技术学院2025级硕士生第一支部委员会:吕皖佳(SX2516048)
+中共南京航空航天大学计算机科学与技术学院2025级硕士生第一支部委员会:张晓蕾(SX2516144)
+中共南京航空航天大学计算机科学与技术学院2025级硕士生第二支部委员会:赵子霄(SZ2516047)
+中共南京航空航天大学计算机科学与技术学院2025级硕士生第二支部委员会:孙佳家(SZ2516049)
+中共南京航空航天大学计算机科学与技术学院2025级硕士生第二支部委员会:简豪男(SZ2516060)
+中共南京航空航天大学计算机科学与技术学院2025级硕士生第二支部委员会:徐勍(SZ2516070)
+中共南京航空航天大学计算机科学与技术学院2025级硕士生第三支部委员会:高铭远(SZ2516108)
+中共南京航空航天大学计算机科学与技术学院2025级硕士生第三支部委员会:邓皓琛(SZ2516113)
+中共南京航空航天大学计算机科学与技术学院2024级博士生第一支部委员会:熊佳梅(BX2416301)
+  
+院党委电话：84892885
+信箱号码：计算机学院党委
+电子邮箱：ccstdw@nuaa.edu.cn
+校党委组织部电话：84892249
+信箱号码：363信箱
+电子邮箱：nhzzb@nuaa.edu.cn
+  
+  
+中共南京航空航天大学计算机科学与技术学院委员会
+2025年12月15日
+  
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>公示<button>
+
+----- WebWalker -----
+Memory:
+-学号起始数字不是 '162' 的学生是徐祥祝，其学号为052210619。
+"}
+
+----- WebWalker -----
+Final Answer: 学号起始数字不是 '162' 的学生的学号是052210619。

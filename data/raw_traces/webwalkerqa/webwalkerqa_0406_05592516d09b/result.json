@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0406_05592516d09b",
+  "source_index": 406,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In 'Age of Empires II: Definitive Edition', which historical or cultural figures does the 'Dynasties of India' expansion and 'Chronicles: Battle for Greece' pay tribute to?",
+  "prompt": "In 'Age of Empires II: Definitive Edition', which historical or cultural figures does the 'Dynasties of India' expansion and 'Chronicles: Battle for Greece' pay tribute to?",
+  "expected_answer": "Rajendra Chola and Themistocles.",
+  "root_url": "https://www.ageofempires.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ageofempires.com/games/aoeiide/dynasties-of-india/",
+      "https://www.ageofempires.com/news/building-the-narrative-in-chronicles-battle-for-greece/"
+    ],
+    "golden_path": [
+      "root->Dynasties of India",
+      "root->Dev Spotlight\nGuest BlogBuilding the Narrative of Chronicles: Battle for Greece"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The 'Dynasties of India' expansion pays tribute to historical figures such as Babur, Rajendra Chola, and Devapala. The 'Chronicles: Battle for Greece' expansion likely pays tribute to Greek historical or cultural figures, though specific names are not provided in the given text.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 22.84,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0406_05592516d09b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0406_05592516d09b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0036_1b183356c76a",
+  "source_index": 36,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "方旭明博士和盛胜利教授在2017年分别在哪一天于南京邮电大学仙林校区计算机学科楼327会议室举行了他们的学术报告？",
+  "prompt": "方旭明博士和盛胜利教授在2017年分别在哪一天于南京邮电大学仙林校区计算机学科楼327会议室举行了他们的学术报告？",
+  "expected_answer": "5月24日和6月30日",
+  "root_url": "https://cs.njupt.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njupt.edu.cn/2017/0522/c9224a110631/page.htm",
+      "https://cs.njupt.edu.cn/2017/0627/c9224a110627/page.htm"
+    ],
+    "golden_path": [
+      "root->学术组织与交流->尾页->题目：基于自适应卡尔曼滤波器的WSN定位算法研究时间：5月24日(周三)16.00-17:00地点：仙林校区计算机学科楼327会议室摘要:对于随机部署的无线传感器网络而言，通常不知道采集数据节点的准确位置。因此，定位技术是无线传感器网络研究领域的热点之一。然而，由于无线传感器网络部署环境的复杂性，获得准确的节点位置仍然是...",
+      "root->学术组织与交流->尾页->报告题目：DataQualityandDataMiningwithCrowdsourcing报告人：盛胜利时间：2017年6月30日14:30地点：南邮仙林校区计算机学科楼327会议室主办单位：江苏省大数据安全与智能处理重点实验室报告人简介：盛胜利（VICTORS.SHENG）是美国阿肯色中央大学计算机科学系副教授和数据分析实验室主任，1999年7月于苏州大学获硕士学位，..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 63.478,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0036_1b183356c76a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0036_1b183356c76a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0246_0959e430349e",
+  "source_index": 246,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "华南理工大学计算机科学与工程学院的网络空间安全与软件可靠性保障团队是哪一年发布的？",
+  "prompt": "华南理工大学计算机科学与工程学院的网络空间安全与软件可靠性保障团队是哪一年发布的？",
+  "expected_answer": "2020年",
+  "root_url": "http://www2.scut.edu.cn/cs/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www2.scut.edu.cn/cs/2020/0518/c25656a376731/page.htm"
+    ],
+    "golden_path": [
+      "root->学科团队->网络空间安全与软件可靠性保障团队"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 5,
+  "duration_seconds": 37.002,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0246_0959e430349e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0246_0959e430349e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

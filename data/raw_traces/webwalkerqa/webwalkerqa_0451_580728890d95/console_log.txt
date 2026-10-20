@@ -1,0 +1,245 @@
+----- user -----
+query:
+What were the exact dates and the General Chair for the ICSE conference in 2004?
+official website:
+http://www.icse-conferences.org/
+Observation:website information:
+
+|  !  |   |  **  
+# ICSE
+**  |   |   
+ | !  |  
+| --- |  
+| !  |  
+|   
+ | !  |  
+| --- |  
+| !  |  
+|   |  
+| 
+## International Conference  
+on Software Engineering®
+ |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+|   
+ |   |  
+| --- |  
+|   |  
+|   |  
+|    |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|    
+  
+ |  
+|  [ Last updated  
+Jan 2026](#maintainer)  |  
+| !  |    
+  
+  
+ |  WELCOME ICSE, the International Conference on Software Engineering,® is the premier software engineering conference, providing a forum for researchers, practitioners and educators to present and discuss the most recent innovations, trends, experiences and concerns in the field of software engineering. Note that ICSE: International Conference on Software Engineering® is a registered trademark. On this web site you can find information about the ICSE conference series as well as useful information for organizing a future ICSE conference.  
+CURRENT CONFERENCE : Apr 2026  
+Rio de Janeiro, Brazil  
+  
+FUTURE CONFERENCES ICSE 2027: Apr 2027  
+Dublin, Ireland  
+ICSE 2028: Apr 2028  
+Hawaii, USA  
+ICSE 2029: Apr 2029  
+Tokyo, Japan  
+  
+PAST CONFERENCES : April 26 - May 4 2025  
+Ottawa, Canada : Apr 12-21, 2024  
+Lisbon, Portugal : May 14-20, 2023  
+Melbourne, Australia : May 8-27, 2022  
+Pittsburgh, USA : May 20-30, 2021  
+Madrid, Spain : July 6-11 2020  
+Seoul, Korea : May 25 - June 1, 2019  
+Montréal, Canada : May 27 - June 3, 2018  
+Gothenburg, Sweden : May 20-28, 2017  
+Buenos Aires, Argentina : May 14-22, 2016  
+Austin, Texas, USA : May 16-24, 2015  
+Firenze, Italy : May 31 - June 7, 2014  
+Hyderabad, India  : May 18-26, 2013  
+San Francisco, USA  : June 2-9, 2012  
+Zürich, Switzerland : May 21-28, 2011  
+Honolulu, Hawaii, USA : May 2-8, 2010  
+Cape Town, South Africa : May 16-24, 2009  
+Vancouver, British Columbia, Canada : May 10-18, 2008  
+Leipzig, Germany : May 20-26, 2007  
+Minneapolis, Minnesota, USA : May 20-28, 2006  
+Shanghai, China : May 15-21, 2005  
+St. Louis, Missouri, USA : May 23-28, 2004  
+Edinburgh, Scotland, United Kingdom : May 3-10, 2003  
+Portland, Oregon, USA : May 19-25, 2002  
+Orlando, Florida, USA : May 12-19, 2001  
+Toronto, Ontario, Canada : June 4-11, 2000  
+Limerick, Ireland ICSE 1999: May 16-22, 1999  
+Los Angeles, California, USA ICSE 1998: April 19-25, 1998  
+Kyoto, Japan : May 17-23, 1997  
+Boston, MA, USA ICSE 1996: March 25-30, 1996  
+Berlin, Germany : April 23-30, 1995  
+Seattle, Washington, USA ICSE 1994: May 16-21, 1994  
+Sorrento, Italy ICSE 1993: May 17-21, 1993  
+Baltimore, Maryland, USA ICSE 1992: May 11-15, 1992  
+Melbourne, Australia ICSE 1991: May 13-17, 1991  
+Austin, Texas, USA ICSE 1990: March 26-30, 1990  
+Nice, France ICSE 1989: May 15-18, 1989  
+Pittsburgh, Pennsylvania, USA ICSE 1988: April 11-15, 1988  
+Raffles City, Singapore ICSE 1987: March 30 - April 2, 1987  
+Monterey, California, USA ICSE 1985: August 28-30, 1985  
+London, United Kingdom ICSE 1984: March 26-29, 1984  
+Orlando, Florida, USA ICSE 1982: September 13-16, 1982  
+Tokyo, Japan ICSE 1981: March 9-12, 1981  
+San Diego, California, USA ICSE 1979: September 17-19, 1979  
+Munich, Germany ICSE 1978: May 10-12, 1978  
+Atlanta, Georgia, USA ICSE 1976: October 13-15, 1976  
+San Francisco, California, USA ICSE 1975: September 11-12, 1975  
+Washington DC, USA  |  
+| --- |  
+  
+  
+|   |   
+ |  ](  
+ |  
+| --- |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](~icse2000/)  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|   |  
+!
+
+
+clickable button:
+
+<button>HOME<button>
+<button>News from the SC<button>
+<button>EDI STATEMENT<button>
+<button>CONDUCT & SAFETY<button>
+<button>HISTORY<button>
+<button>PROCEEDINGS<button>
+<button>INFLUENTIAL PAPERS<button>
+<button>ORGANIZING ICSE<button>
+<button>STEERING COMMITTEE<button>
+<button>ICSE SC Documents<button>
+<button>SPONSORS<button>
+<button>CONTACTS<button>
+<button>Last updatedJan 2026<button>
+<button>ICSE 2005<button>
+<button>ICSE 2004<button>
+<button>ICSE 2003<button>
+<button>ICSE 2002<button>
+<button>ICSE 2001<button>
+<button>ICSE 1997<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the exact dates and the General Chair for the ICSE conference in 2004. The "ICSE 2004" button seems relevant, so I will click on it to get more information.
+
+Action: visit_page
+Action Input: {"button": "ICSE 2004"}
+
+----- VisitPage -----
+The web information is:
+
+!
+](  
+| ](  |  
+| --- |  
+| ](  |  
+| ](  |  
+| ](  |  
+| ](  |  
+| ](  |  
+| ](  |  
+| ](  |  
+| ](  |  
+| ](  |  
+| ](  |  
+| ](  |  
+!
+!
+**ICSE** is the premier software engineering conference, providing a forum for researchers, practitioners and educators to present and discuss the most recent innovations, trends, experiences and concerns in the field of software engineering. 
+In 2004, the ancient Scottish city of Edinburgh hosted the **ICSE** conference from 23rd to 28th May. Thanks to all for your participation; we hope to see you at future ICSEs. Preparations for **ICSE 2005** are well underway! Find out more at <
+All original material for ICSE 2004 remains on this website, but it is no longer maintained, so some addresses and links may be out of date. You can download the final program for the conference .
+**You can download pdf's of the ICSE 2004 'WOW' newsletters here:**  
+  
+  
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Memory:
+-The ICSE conference in 2004 was held from 23rd to 28th May, and the General Chair is not explicitly mentioned in the observation.
+"}
+
+----- WebWalker -----
+Final Answer: The ICSE conference in 2004 was held from 23rd to 28th May. The General Chair is not explicitly mentioned in the information provided.

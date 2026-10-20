@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0630_b907faba62b9",
+  "source_index": 630,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What was the prize for Kingdom Rush winning Uruguay's national video game contest, and how was the game's world further expanded in 2012?",
+  "prompt": "What was the prize for Kingdom Rush winning Uruguay's national video game contest, and how was the game's world further expanded in 2012?",
+  "expected_answer": "A trip to the 2012 GDC with an All Access Pass; expanded via the Kingdom Rush comic release.",
+  "root_url": "https://www.ironhidegames.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ironhidegames.com/News/Details/42",
+      "https://www.ironhidegames.com/News/Details/64"
+    ],
+    "golden_path": [
+      "root->Behind the Wand: Meet Stregi!Join Sheepy as they interview the whimsical gnome. It's witch season once again!->Events->Kingdom Rush #1 on Uruguay's national videogame contest",
+      "root->Behind the Wand: Meet Stregi!Join Sheepy as they interview the whimsical gnome. It's witch season once again!->Events->Kingdom Rush comic is out!"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The prize for Kingdom Rush winning Uruguay's national video game contest was a sale of the game on iOS to celebrate a big iOS update featuring Retina Graphics for the new iPad, Heroes characters, new challenges, and Greenmuck the evil Treant in the new Rotten Forest Stage. The game's world was further expanded in 2012 with the release of this update.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 70.943,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0630_b907faba62b9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0630_b907faba62b9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

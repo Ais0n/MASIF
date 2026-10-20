@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0645_6edf3523a8b4",
+  "source_index": 645,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在南京航空航天大学计算机学院，2013年大学生创新训练计划的初期检查截止日期与该学院自2012年以来系统能力培养改革的主要展现活动是什么？",
+  "prompt": "在南京航空航天大学计算机学院，2013年大学生创新训练计划的初期检查截止日期与该学院自2012年以来系统能力培养改革的主要展现活动是什么？",
+  "expected_answer": "截止日期为6月13日；展现活动为2013年暑期高小鹏教授在南航举办的计算机组成原理实践教学课程。",
+  "root_url": "http://cs.nuaa.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.nuaa.edu.cn/2013/0607/c1978a120819/page.htm",
+      "http://cs.nuaa.edu.cn/2015/0413/c1977a134427/page.htm"
+    ],
+    "golden_path": [
+      "root->本科生教学-><<上一页->关于开展2013年度创新训练计划校级项目初期检查工作的通知",
+      "root->教学动态->尾页->我院教师参加“高等院校计算机专业系统能力培养综合改革经验交流与报告会”"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.457,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0645_6edf3523a8b4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0645_6edf3523a8b4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

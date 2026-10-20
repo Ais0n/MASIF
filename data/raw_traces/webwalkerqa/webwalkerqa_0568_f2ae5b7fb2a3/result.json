@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0568_f2ae5b7fb2a3",
+  "source_index": 568,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023年常州大学大数据学院软件工程与人工智能工会小组10月的活动以及2024年迎新年的掼蛋比赛活动分别在何处举行的？",
+  "prompt": "2023年常州大学大数据学院软件工程与人工智能工会小组10月的活动以及2024年迎新年的掼蛋比赛活动分别在何处举行的？",
+  "expected_answer": "2023年10月活动在茅山仙姑村，而2024年迎新年的掼蛋比赛在图文信息中心710举行。",
+  "root_url": "https://bigdata.cczu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://bigdata.cczu.edu.cn/_t1005/2023/1031/c13838a344398/page.htm",
+      "https://bigdata.cczu.edu.cn/_t1005/2024/0102/c13838a351473/page.htm"
+    ],
+    "golden_path": [
+      "root->旧版入口->分工会工作->学院软件工程与人工智能工会小组开展“走进新农村、感受新气象”...",
+      "root->旧版入口->分工会工作->聚力掼今朝 同行启新程——大数据学院分工会举办迎新年教职工掼蛋..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 50.329,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0568_f2ae5b7fb2a3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0568_f2ae5b7fb2a3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

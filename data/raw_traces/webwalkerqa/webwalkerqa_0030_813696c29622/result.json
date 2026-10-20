@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0030_813696c29622",
+  "source_index": 30,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who is more focused on promoting interdisciplinary collaboration between materials science and education in the 2024 MRS Board elections, according to the contributions and statements by Derya Baran and Izabela Szlufarska?",
+  "prompt": "Who is more focused on promoting interdisciplinary collaboration between materials science and education in the 2024 MRS Board elections, according to the contributions and statements by Derya Baran and Izabela Szlufarska?",
+  "expected_answer": "Izabela Szlufarska",
+  "root_url": "https://www.mrs.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.mrs.org/membership/governance/elections/derya-baran",
+      "https://www.mrs.org/membership/governance/elections/izabela-szlufarska"
+    ],
+    "golden_path": [
+      "root->Elections->Derya Baran",
+      "root->Elections->Izabela Szlufarska"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 315.53,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0030_813696c29622/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0030_813696c29622/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

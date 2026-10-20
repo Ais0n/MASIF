@@ -1,0 +1,683 @@
+----- user -----
+query:
+2020年6月16日，南京理工大学计算机学院党委在2010会议室召开党委理论学习中心组专题学习中，谁是主持人？
+official website:
+https://cs.njust.edu.cn/
+Observation:website information:
+
+### 导航
+                                                                                                                                                                                                                                  
+sudyfocus error: Not Found Data!
+](
+!
+!
+!
+!
+!
+<>
+### 导航
+      
+### 导航
+      
+### 导航
+      
+### 导航
+      
+### 导航
+      
+### 学院新闻
+  * 2026-05-06
+  * 2026-05-06
+  * 2026-04-24
+  * 2026-04-14
+  * 2026-04-10
+  * 2026-04-02
+  * 2026-04-02
+  * 2026-03-30
+  * 2026-03-30
+  * 2026-03-30
+### 通知公告
+  * 2026-04-28
+  * 2025-03-21
+  * 2025-03-21
+  * 2025-03-21
+  * 2025-03-21
+  * 2025-03-12
+  * 2025-03-12
+  * 2025-03-12
+  * 2025-03-12
+  * 2023-05-31
+### 学术动态
+  * 2026-04-08
+  * 2026-03-31
+  * 2026-03-25
+  * 2026-01-05
+  * 2025-12-22
+  * 2025-12-19
+  * 2025-10-18
+  * 2025-09-17
+  * 2025-07-09
+  * 2025-07-09
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+!
+
+
+clickable button:
+
+<button>学院概况<button>
+<button>学院简介<button>
+<button>院训释义<button>
+<button>院长致辞<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>历史沿革<button>
+<button>编年纪事<button>
+<button>组织机构<button>
+<button>学院办公室<button>
+<button>计算机科学与技术系<button>
+<button>软件工程与网络技术系<button>
+<button>机器感知与智能系<button>
+<button>智能科学与技术系<button>
+<button>人工智能交叉科学系<button>
+<button>实验教学中心<button>
+<button>师资队伍<button>
+<button>教授<button>
+<button>副教授<button>
+<button>讲师<button>
+<button>实验室系列<button>
+<button>博士后<button>
+<button>教师风采<button>
+<button>科学研究<button>
+<button>学科平台<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>科研成果<button>
+<button>科研底蕴<button>
+<button>教学育人<button>
+<button>本科生教学与培养<button>
+<button>研究生教学与培养<button>
+<button>教学育人成果<button>
+<button>学工资讯<button>
+<button>学工概况<button>
+<button>思政教育<button>
+<button>学风建设<button>
+<button>科创竞赛<button>
+<button>学生风采<button>
+<button>通知公告<button>
+<button>文档下载<button>
+<button>招生就业<button>
+<button>专业介绍<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业创业<button>
+<button>校友专栏<button>
+<button>党群工作<button>
+<button>党建活动<button>
+<button>党支部<button>
+<button>关工委<button>
+<button>工会<button>
+<button>共青团<button>
+<button>交流合作<button>
+<button>学术信息<button>
+<button>国际合作<button>
+<button>招才纳贤<button>
+<button>教师招聘<button>
+<button>博士后<button>
+<button>专职科研人员<button>
+<button>下载专区<button>
+<button>ICIS2024<button>
+<button>{栏目名称}<button>
+<button>更多>><button>
+<button>我校学子在第十一届中国高校计算...<button>
+<button>南京理工大学党委第二巡察组巡察...<button>
+<button>计算机学院与机械学院开展调研交...<button>
+<button>我校举办第十七届“蓝桥杯”全国...<button>
+<button>学院与公务学院联合开展2026届研...<button>
+<button>Nature Machine Intelligence报...<button>
+<button>计算机科学与工程学院“学情大走...<button>
+<button>长沙理工大学人工智能学院来我院...<button>
+<button>健康护航 生命有道——学院联合校...<button>
+<button>以码为刃 以证砺能——学院圆满举...<button>
+<button>更多>><button>
+<button>计算机科学与工程学院2025级学生...<button>
+<button>2024年度南京理工大学0812计算机...<button>
+<button>2023年度南京理工大学0812计算机...<button>
+<button>2022年度南京理工大学0812计算机...<button>
+<button>2021年度南京理工大学0812计算机...<button>
+<button>2024年度南京理工大学0835软件工...<button>
+<button>2023年度南京理工大学0835软件工...<button>
+<button>2022年度南京理工大学0835软件工...<button>
+<button>2021年度南京理工大学0835软件工...<button>
+<button>关于高性能计算中心计算机科学与...<button>
+<button>更多>><button>
+<button>行知论坛310：人的行为分析和运...<button>
+<button>行知论坛309：Mass Spectrometry...<button>
+<button>行知论坛308：脑网络拓扑挖掘方...<button>
+<button>行知论坛307：Recent Results on...<button>
+<button>行知论坛306：By the Time lt Ar...<button>
+<button>行知论坛305：基于元表示的预训...<button>
+<button>行知论坛304：Cloud Computing S...<button>
+<button>行知论坛303：PCU: A Quiet Guid...<button>
+<button>行知论坛302：多模态大模型的高...<button>
+<button>行知论坛301：从数据到解译：基...<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到关于2020年6月16日南京理工大学计算机学院党委理论学习中心组专题学习的主持人信息。首先，我应该访问“党群工作”页面，因为这可能与党委活动相关。
+
+Action: visit_page
+Action Input: {"button": "党群工作"}
+
+----- VisitPage -----
+The web information is:
+
+### 导航
+                                                                                                                                                                                                                                  
+### 导航
+                                                                                                                                                                                                                                  
+!
+党群工作
+### 党群工作
+          
+## 党群工作
+当前位置：
+             
+  * 每页  _14_ 记录  总共  _15_ 记录 
+  * ;) ;)  
+  * 页码  _1_ /_2_ ;)
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院简介<button>
+<button>院训释义<button>
+<button>院长致辞<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>历史沿革<button>
+<button>编年纪事<button>
+<button>组织机构<button>
+<button>学院办公室<button>
+<button>计算机科学与技术系<button>
+<button>软件工程与网络技术系<button>
+<button>机器感知与智能系<button>
+<button>智能科学与技术系<button>
+<button>人工智能交叉科学系<button>
+<button>实验教学中心<button>
+<button>师资队伍<button>
+<button>教授<button>
+<button>副教授<button>
+<button>讲师<button>
+<button>实验室系列<button>
+<button>博士后<button>
+<button>教师风采<button>
+<button>科学研究<button>
+<button>学科平台<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>科研成果<button>
+<button>科研底蕴<button>
+<button>教学育人<button>
+<button>本科生教学与培养<button>
+<button>研究生教学与培养<button>
+<button>教学育人成果<button>
+<button>学工资讯<button>
+<button>学工概况<button>
+<button>思政教育<button>
+<button>学风建设<button>
+<button>科创竞赛<button>
+<button>学生风采<button>
+<button>通知公告<button>
+<button>文档下载<button>
+<button>招生就业<button>
+<button>专业介绍<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业创业<button>
+<button>校友专栏<button>
+<button>党群工作<button>
+<button>党建活动<button>
+<button>党支部<button>
+<button>关工委<button>
+<button>工会<button>
+<button>共青团<button>
+<button>交流合作<button>
+<button>学术信息<button>
+<button>国际合作<button>
+<button>招才纳贤<button>
+<button>教师招聘<button>
+<button>博士后<button>
+<button>专职科研人员<button>
+<button>下载专区<button>
+<button>ICIS2024<button>
+<button>首页<button>
+<button>学院党委举办党纪学习教育教育读书班2024-05-16<button>
+<button>智能科学与技术系教师党支部开展“联学教育家精神，共话专业人才...2023-11-09<button>
+<button>激发学习兴趣，厚植军工精神——马群街道未成年人保护工作站困境儿...2023-08-30<button>
+<button>计算机科学与技术系党支部组织开展联学共建党日活动2023-06-15<button>
+<button>学院开展“弦歌不辍育英才，七秩奋进耀芳华”师德师风专题座谈会2023-06-02<button>
+<button>学院举办“赓续五四精神血脉，谱写七秩献身华章”校庆70周年主题...2023-06-01<button>
+<button>学院党委开展“学思想、强党性、重实践、建新功”主题教育主题党...2023-05-22<button>
+<button>学院获评校级党建工作创新奖1项，最佳党日活动2项2023-05-04<button>
+<button>智能科学与技术系党支部开展专题党课活动2021-06-16<button>
+<button>学院党委理论学习中心组开展2021年第8次集体学习2021-06-01<button>
+<button>学院党委理论学习中心组开展2021年第7次集体学习2021-05-21<button>
+<button>学院党委理论学习中心组开展2021年第6次集体学习2021-05-10<button>
+<button>数学系与数学实验中心联合党支部书记张军教授来学院传授 全国党...2021-05-07<button>
+<button>学院党委理论学习中心组开展2021年第5次集体学习2021-04-13<button>
+<button>下一页>><button>
+<button>尾页<button>
+
+----- WebWalker -----
+在“党群工作”页面中，我发现了与党委理论学习中心组相关的活动记录。其中有一条是“学院党委理论学习中心组开展2021年第8次集体学习”，但日期是2021年6月1日，不是2020年6月16日。我需要进一步查找是否有其他相关记录。
+
+Action: visit_page
+Action Input: {"button": "学院党委理论学习中心组开展2021年第8次集体学习"}
+
+----- VisitPage -----
+Button not found: 学院党委理论学习中心组开展2021年第8次集体学习
+
+----- WebWalker -----
+看起来直接点击该按钮无法访问相关内容，可能是因为该条目是链接而非可点击的按钮。我需要回到“党群工作”页面，尝试其他相关条目。
+
+Action: visit_page
+Action Input: {"button": "党群工作"}
+
+----- VisitPage -----
+The web information is:
+
+### 导航
+                                                                                                                                                                                                                                  
+### 导航
+                                                                                                                                                                                                                                  
+!
+党群工作
+### 党群工作
+          
+## 党群工作
+当前位置：
+             
+  * 每页  _14_ 记录  总共  _15_ 记录 
+  * ;) ;)  
+  * 页码  _1_ /_2_ ;)
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院简介<button>
+<button>院训释义<button>
+<button>院长致辞<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>历史沿革<button>
+<button>编年纪事<button>
+<button>组织机构<button>
+<button>学院办公室<button>
+<button>计算机科学与技术系<button>
+<button>软件工程与网络技术系<button>
+<button>机器感知与智能系<button>
+<button>智能科学与技术系<button>
+<button>人工智能交叉科学系<button>
+<button>实验教学中心<button>
+<button>师资队伍<button>
+<button>教授<button>
+<button>副教授<button>
+<button>讲师<button>
+<button>实验室系列<button>
+<button>博士后<button>
+<button>教师风采<button>
+<button>科学研究<button>
+<button>学科平台<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>科研成果<button>
+<button>科研底蕴<button>
+<button>教学育人<button>
+<button>本科生教学与培养<button>
+<button>研究生教学与培养<button>
+<button>教学育人成果<button>
+<button>学工资讯<button>
+<button>学工概况<button>
+<button>思政教育<button>
+<button>学风建设<button>
+<button>科创竞赛<button>
+<button>学生风采<button>
+<button>通知公告<button>
+<button>文档下载<button>
+<button>招生就业<button>
+<button>专业介绍<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业创业<button>
+<button>校友专栏<button>
+<button>党群工作<button>
+<button>党建活动<button>
+<button>党支部<button>
+<button>关工委<button>
+<button>工会<button>
+<button>共青团<button>
+<button>交流合作<button>
+<button>学术信息<button>
+<button>国际合作<button>
+<button>招才纳贤<button>
+<button>教师招聘<button>
+<button>博士后<button>
+<button>专职科研人员<button>
+<button>下载专区<button>
+<button>ICIS2024<button>
+<button>首页<button>
+<button>学院党委举办党纪学习教育教育读书班2024-05-16<button>
+<button>智能科学与技术系教师党支部开展“联学教育家精神，共话专业人才...2023-11-09<button>
+<button>激发学习兴趣，厚植军工精神——马群街道未成年人保护工作站困境儿...2023-08-30<button>
+<button>计算机科学与技术系党支部组织开展联学共建党日活动2023-06-15<button>
+<button>学院开展“弦歌不辍育英才，七秩奋进耀芳华”师德师风专题座谈会2023-06-02<button>
+<button>学院举办“赓续五四精神血脉，谱写七秩献身华章”校庆70周年主题...2023-06-01<button>
+<button>学院党委开展“学思想、强党性、重实践、建新功”主题教育主题党...2023-05-22<button>
+<button>学院获评校级党建工作创新奖1项，最佳党日活动2项2023-05-04<button>
+<button>智能科学与技术系党支部开展专题党课活动2021-06-16<button>
+<button>学院党委理论学习中心组开展2021年第8次集体学习2021-06-01<button>
+<button>学院党委理论学习中心组开展2021年第7次集体学习2021-05-21<button>
+<button>学院党委理论学习中心组开展2021年第6次集体学习2021-05-10<button>
+<button>数学系与数学实验中心联合党支部书记张军教授来学院传授 全国党...2021-05-07<button>
+<button>学院党委理论学习中心组开展2021年第5次集体学习2021-04-13<button>
+<button>下一页>><button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 在“党群工作”页面中，我注意到有一条记录是“学院党委理论学习中心组开展2021年第8次集体学习”，但日期是2021年6月1日，不是2020年6月16日。我需要继续查找是否有其他相关记录。
+
+Action: visit_page
+Action Input: {"button": "下一页>><button>"}
+
+----- VisitPage -----
+The web information is:
+
+### 导航
+                                                                                                                                                                                                                                  
+### 导航
+                                                                                                                                                                                                                                  
+!
+党群工作
+### 党群工作
+          
+## 党群工作
+当前位置：
+  * 每页  _14_ 记录  总共  _15_ 记录 
+  *   ;) ;)
+  * 页码  _2_ /_2_ ;)
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院简介<button>
+<button>院训释义<button>
+<button>院长致辞<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>历史沿革<button>
+<button>编年纪事<button>
+<button>组织机构<button>
+<button>学院办公室<button>
+<button>计算机科学与技术系<button>
+<button>软件工程与网络技术系<button>
+<button>机器感知与智能系<button>
+<button>智能科学与技术系<button>
+<button>人工智能交叉科学系<button>
+<button>实验教学中心<button>
+<button>师资队伍<button>
+<button>教授<button>
+<button>副教授<button>
+<button>讲师<button>
+<button>实验室系列<button>
+<button>博士后<button>
+<button>教师风采<button>
+<button>科学研究<button>
+<button>学科平台<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>科研成果<button>
+<button>科研底蕴<button>
+<button>教学育人<button>
+<button>本科生教学与培养<button>
+<button>研究生教学与培养<button>
+<button>教学育人成果<button>
+<button>学工资讯<button>
+<button>学工概况<button>
+<button>思政教育<button>
+<button>学风建设<button>
+<button>科创竞赛<button>
+<button>学生风采<button>
+<button>通知公告<button>
+<button>文档下载<button>
+<button>招生就业<button>
+<button>专业介绍<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业创业<button>
+<button>校友专栏<button>
+<button>党群工作<button>
+<button>党建活动<button>
+<button>党支部<button>
+<button>关工委<button>
+<button>工会<button>
+<button>共青团<button>
+<button>交流合作<button>
+<button>学术信息<button>
+<button>国际合作<button>
+<button>招才纳贤<button>
+<button>教师招聘<button>
+<button>博士后<button>
+<button>专职科研人员<button>
+<button>下载专区<button>
+<button>ICIS2024<button>
+<button>首页<button>
+<button>计算机学院举办“先锋党课”活动 ——学习王泽山院士先进事迹专题...2019-12-18<button>
+<button>第一页<button>
+<button><<上一页<button>
+
+----- WebWalker -----
+Thought: 在“党群工作”页面的下一页中，我找到了一条记录：“计算机学院举办‘先锋党课’活动 ——学习王泽山院士先进事迹专题党课2019-12-18”，但这不是2020年6月16日的活动。我需要继续查找是否有其他相关记录。
+
+Action: visit_page
+Action Input: {"button": "<<上一页<button>"}
+
+----- VisitPage -----
+The web information is:
+
+### 导航
+                                                                                                                                                                                                                                  
+### 导航
+                                                                                                                                                                                                                                  
+!
+党群工作
+### 党群工作
+          
+## 党群工作
+当前位置：
+             
+  * 每页  _14_ 记录  总共  _15_ 记录 
+  * ;) ;)  
+  * 页码  _1_ /_2_ ;)
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院简介<button>
+<button>院训释义<button>
+<button>院长致辞<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>历史沿革<button>
+<button>编年纪事<button>
+<button>组织机构<button>
+<button>学院办公室<button>
+<button>计算机科学与技术系<button>
+<button>软件工程与网络技术系<button>
+<button>机器感知与智能系<button>
+<button>智能科学与技术系<button>
+<button>人工智能交叉科学系<button>
+<button>实验教学中心<button>
+<button>师资队伍<button>
+<button>教授<button>
+<button>副教授<button>
+<button>讲师<button>
+<button>实验室系列<button>
+<button>博士后<button>
+<button>教师风采<button>
+<button>科学研究<button>
+<button>学科平台<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>科研成果<button>
+<button>科研底蕴<button>
+<button>教学育人<button>
+<button>本科生教学与培养<button>
+<button>研究生教学与培养<button>
+<button>教学育人成果<button>
+<button>学工资讯<button>
+<button>学工概况<button>
+<button>思政教育<button>
+<button>学风建设<button>
+<button>科创竞赛<button>
+<button>学生风采<button>
+<button>通知公告<button>
+<button>文档下载<button>
+<button>招生就业<button>
+<button>专业介绍<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业创业<button>
+<button>校友专栏<button>
+<button>党群工作<button>
+<button>党建活动<button>
+<button>党支部<button>
+<button>关工委<button>
+<button>工会<button>
+<button>共青团<button>
+<button>交流合作<button>
+<button>学术信息<button>
+<button>国际合作<button>
+<button>招才纳贤<button>
+<button>教师招聘<button>
+<button>博士后<button>
+<button>专职科研人员<button>
+<button>下载专区<button>
+<button>ICIS2024<button>
+<button>首页<button>
+<button>学院党委举办党纪学习教育教育读书班2024-05-16<button>
+<button>智能科学与技术系教师党支部开展“联学教育家精神，共话专业人才...2023-11-09<button>
+<button>激发学习兴趣，厚植军工精神——马群街道未成年人保护工作站困境儿...2023-08-30<button>
+<button>计算机科学与技术系党支部组织开展联学共建党日活动2023-06-15<button>
+<button>学院开展“弦歌不辍育英才，七秩奋进耀芳华”师德师风专题座谈会2023-06-02<button>
+<button>学院举办“赓续五四精神血脉，谱写七秩献身华章”校庆70周年主题...2023-06-01<button>
+<button>学院党委开展“学思想、强党性、重实践、建新功”主题教育主题党...2023-05-22<button>
+<button>学院获评校级党建工作创新奖1项，最佳党日活动2项2023-05-04<button>
+<button>智能科学与技术系党支部开展专题党课活动2021-06-16<button>
+<button>学院党委理论学习中心组开展2021年第8次集体学习2021-06-01<button>
+<button>学院党委理论学习中心组开展2021年第7次集体学习2021-05-21<button>
+<button>学院党委理论学习中心组开展2021年第6次集体学习2021-05-10<button>
+<button>数学系与数学实验中心联合党支部书记张军教授来学院传授 全国党...2021-05-07<button>
+<button>学院党委理论学习中心组开展2021年第5次集体学习2021-04-13<button>
+<button>下一页>><button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 在“党群工作”页面中，我注意到有一条记录是“智能科学与技术系党支部开展专题党课活动2021-06-16”，但这不是党委理论学习中心组的活动。我需要继续查找是否有其他相关记录。
+
+Action: visit_page
+Action Input: {"button": "学院党委理论学习中心组开展2021年第8次集体学习2021-06-01"}
+
+----- VisitPage -----
+The web information is:
+
+# 学院党委理论学习中心组开展2021年第8次集体学习
+作者：张海霞 责任编辑：卞云龙审核人：陆建峰时间：2021-06-01浏览：1424 )
+) )
+)
+5月27日下午，学院党委理论学习中心组在2010会议室开展了2021年第8次集体学习，专题学习了党的十八大以来历史。学习由党委书记张世刚主持。
+!
+  
+首先贾阳带领大家学习了“中国特色社会主义——进入新时代 踏上新征程”十八大以来的历史。他主要从统筹推进“五位一体”总体布局、协调推进“四个全面”战略布局、全面推进国防和军队现代化建设、坚持党的全面领导和提高党的建设质量、国家制度和治理体系建设迈出新步伐、在应对风险挑战中推进各项事业、开启全面建设社会主义现代化国家新征程等方面，全面解读十八大以来的历史和成就。
+陆建峰作重点发言。他谈到自十八大以来，我国在以习近平同志为核心的党中央坚强领导下，开始实现从富起来到强起来的转变，其主要贡献可以概括为两个主要方面：一是继续深化改革开放；二是对改革开放以来出现的问题及时纠正，确保我国改革开放的航向不发生偏差。
+张二华作重点发言。他谈到十八大以来的重要成就有五点：一是以壮士断腕的决心进行反腐，老虎苍蝇一起打，查处了一大批腐败分子，使党和政府重新获得人民的信任，大大增强了人民群众对党的领导、对社会主义制度的信心。二是在党和政府的正确领导下，顶住了美国的打压，展现了中国的硬实力，扩大了中国在国际上的话语权和影响力。三是为中国和世界的未来发展，中国提出了“一带一路”倡议，意义深远。四是在反对帝国主义和霸权主义方面，中国最坚决；在维护国家主权和领土完整方面，中共最坚决。五是新冠肺炎疫情期间，在党和政府强有力的领导下，很快控制了疫情，经济快速恢复，人民群众对党和政府的满意度空前提高，党和政府的凝聚力和号召力进一步提升，人民对中华复兴、对党的领导、对社会主义制度充满有信心。
+肖亮带领大家学习了习近平总书记在清华大学考察时的重要讲话精神，学习了习近平总书记致厦门大学建校100周年的贺信。
+与会人员围绕本次学习主题进行了交流发言。
+  
+) "分享到QQ空间") "分享到新浪微博") "分享到腾讯微博") "分享到人人网") "分享到微信")
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 在“学院党委理论学习中心组开展2021年第8次集体学习”的页面中，我找到了相关信息：该活动由党委书记张世刚主持。然而，这并不是2020年6月16日的活动。我需要继续查找是否有其他相关记录。
+
+Action: visit_page
+Action Input: {"button": "学院党委理论学习中心组开展2021年第7次集体学习2021-05-21"}
+
+----- VisitPage -----
+The web information is:
+
+# 学院党委理论学习中心组开展2021年第7次集体学习
+作者：张海霞 责任编辑：卞云龙审核人：陆建峰时间：2021-05-21浏览：1391 )
+) )
+)
+5月19日下午，学院党委理论学习中心组在2010会议室开展了2021年第7次集体学习，专题学习了改革开放新时期历史。学习由党委书记张世刚主持。
+!
+首先，陆建峰带领大家学习了“中共党史——崭新的篇章”改革开放的历史进程和伟大成就。他回顾了从党的十一届三中全会到中共十八大历程。改革开放是党和人民大踏步赶上时代的重要法宝，是决定当代中国命运的关键，也是决定实现“两个一百年”奋斗目标、实现中华民族伟大复兴中国梦的关键。
+张世刚作重点发言。他谈到两点体会：一是只有党的自我革命才有改革开放。改革必须从党的自身做起，党需要起模范带头作用，这是中国改革开放的真实历史，也是中国改革开放的内在逻辑，没有党的自我革命就没有中国的改革开放。二是改革开放推动党不断进行自我革命。为了人民的幸福和民族的复兴，中国共产党多次拿起手术刀革除自身病症，依靠自己解决自身问题，用自己的力量完善自身建设，从而为改革开放的成功、为中国的快速发展筑牢了坚不可摧的领导力量和组织力量。从这个意义上讲，中国共产党自我革命的精神难能可贵，中国共产党不愧是一个伟大的马克思主义政党。
+贾阳作重点发言。他谈到改革开放是决定当代中国命运的关键抉择，是发展中国特色社会主义、实现中华民族伟大复兴的必由之路。所以，通过学习改革开放新时期历史，我们要敢于迎难而上，突破攻坚，掀起深化改革开放的新热潮，奋力创造新时代改革开放新奇迹。
+肖亮带领学习了《论中国共产党历史》中“正确认识改革开放前和改革开放后两个历史时期”章节。
+与会人员围绕本次学习主题进行了交流发言。
+  
+) "分享到QQ空间") "分享到新浪微博") "分享到腾讯微博") "分享到人人网") "分享到微信")
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 在“学院党委理论学习中心组开展2021年第7次集体学习”的页面中，我注意到该活动同样由党委书记张世刚主持，但日期是2021年5月21日，不是2020年6月16日。我需要继续查找是否有其他相关记录。
+
+Action: visit_page
+Action Input: {"button": "学院党委理论学习中心组开展2021年第6次集体学习2021-05-10"}
+
+----- VisitPage -----
+The web information is:
+
+# 学院党委理论学习中心组开展2021年第6次集体学习
+作者：张海霞 责任编辑：卞云龙审核人：陆建峰时间：2021-05-10浏览：2638 )
+) )
+)
+4月20日下午，学院党委理论学习中心组在2010会议室开展了2021年第6次集体学习，专题学习了社会主义革命和建设时期历史。学习由党委书记张世刚主持。
+!
+首先，肖亮带领大家学习社会主义革命和建设时期历史。他从1949年中华人民共和国成立到1978年党的十一届三中全会召开讲起，这段历史实现了从新民主主义向社会主义的过渡，开始了社会主义建设道路的艰辛探索。回顾奋斗历程，对于正确认识社会主义的形成和发展，坚定中国特色社会主义自信，具有重要的意义。
+张世刚作重点发言。他从社会主义革命和建设时期成就、党的工作在指导方针上出现的错误、社会主义革命和建设贡献等方面，详细分享了学习心得。通过社会主义革命和建设，奠定了基本的制度基础、物质基础，为中国特色社会主义的形成提供有益的借鉴和启示。
+贾阳作重点发言。他回顾了重大事件的时间节点，在社会主义革命和建设时期，中国人民在中国共产党的领导下，实现了从新民主主义向社会主义的过渡，并在此基础上开始了社会主义建设道路的艰辛探索。回顾历史，更加坚定了中国特色社会主义道路自信。
+与会人员围绕本次学习主题进行了交流发言。
+  
+) "分享到QQ空间") "分享到新浪微博") "分享到腾讯微博") "分享到人人网") "分享到微信")
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag

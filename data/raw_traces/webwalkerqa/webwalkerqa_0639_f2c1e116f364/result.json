@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0639_f2c1e116f364",
+  "source_index": 639,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "王红梅分别在哪一年获得了校级优秀教学奖和李成日奖教基金？",
+  "prompt": "王红梅分别在哪一年获得了校级优秀教学奖和李成日奖教基金？",
+  "expected_answer": "2018年和2014年",
+  "root_url": "https://jsjxy.ccut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.ccut.edu.cn/info/1048/1803.htm",
+      "https://jsjxy.ccut.edu.cn/info/1048/1802.htm"
+    ],
+    "golden_path": [
+      "root->师资概况->教学名师",
+      "root->师资概况->李成日奖教基金"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 6,
+  "duration_seconds": 45.141,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0639_f2c1e116f364/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0639_f2c1e116f364/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0062_fda7e82b5aa2",
+  "source_index": 62,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "太原理工大学的窦明亮博士和王彬教授，他们在同一届IEEE国际会议上分别发表过关于药物相互作用和脑网络的研究会议是哪一年举行的？",
+  "prompt": "太原理工大学的窦明亮博士和王彬教授，他们在同一届IEEE国际会议上分别发表过关于药物相互作用和脑网络的研究会议是哪一年举行的？",
+  "expected_answer": "2022年",
+  "root_url": "https://ccst.tyut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://ccst.tyut.edu.cn/info/2129/8701.htm",
+      "https://ccst.tyut.edu.cn/info/2127/10981.htm"
+    ],
+    "golden_path": [
+      "root->讲师->姓名：窦明亮研究领域:生物信息学、自然语言处理",
+      "root->教授->姓名：王彬研究领域:脑科学、脑网络、医学影像人工智能、深度学习、脑机接口"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 54.637,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0062_fda7e82b5aa2/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0062_fda7e82b5aa2/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

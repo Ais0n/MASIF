@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0575_6a810929b9be",
+  "source_index": 575,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "索尼梦想教室在2019年和2024年分别在哪些省份开展了支教活动？",
+  "prompt": "索尼梦想教室在2019年和2024年分别在哪些省份开展了支教活动？",
+  "expected_answer": "云南、四川和河北",
+  "root_url": "https://www.sony.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.sony.com.cn/content/sonyportal_csr/news/20190903.html",
+      "https://www.sony.com.cn/content/sonyportal_csr/news/20240327.html"
+    ],
+    "golden_path": [
+      "root->首页->新闻->2019-9-3在华践行企业社会责任十余载 索尼中国再添行业奖项",
+      "root->首页->新闻->2024-3-27三间“索尼 梦想教室”在河北宽城正式落成，继续赋能下一代追梦者"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 21,
+  "tool_calls": 8,
+  "duration_seconds": 55.356,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0575_6a810929b9be/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0575_6a810929b9be/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

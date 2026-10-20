@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0346_ed061ccc4613",
+  "source_index": 346,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "四川大学计算机学院2024年5月16日上午的党支部书记履职能力提升暨党纪学习教育培训班开班式上，哪位领导主持开班仪式？",
+  "prompt": "四川大学计算机学院2024年5月16日上午的党支部书记履职能力提升暨党纪学习教育培训班开班式上，哪位领导主持开班仪式？",
+  "expected_answer": "赵昱辉",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1212/18383.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->下页->创建“三个一流”党支部书记履职能力提升 暨党纪学习教育培训班成功举行"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 57.556,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0346_ed061ccc4613/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0346_ed061ccc4613/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

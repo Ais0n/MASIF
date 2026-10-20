@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0617_ec13a979799e",
+  "source_index": 617,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "统一企业在2024年11月14日至15日期间，实施了哪些具体的服务项目？",
+  "prompt": "统一企业在2024年11月14日至15日期间，实施了哪些具体的服务项目？",
+  "expected_answer": "饮料无菌线液氮储存设备租赁服务和生活垃圾处置服务",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/news_details.asp?news_id=1215&corp_id=377",
+      "https://www.uni-president.com.cn/news_details.asp?news_id=1207&corp_id=377"
+    ],
+    "golden_path": [
+      "root->招标公告->首页->新疆统一2025年度饮料无菌线液氮储存设备租赁服务项目服务",
+      "root->招标公告->首页->上海统一2024-2026年度一般固废（生活垃圾）处置服务项目"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 68.542,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0617_ec13a979799e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0617_ec13a979799e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

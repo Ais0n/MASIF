@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0107_bb13e7a26366",
+  "source_index": 107,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在四川大学计算机学院中，负责指导学生在AAAI顶级会议发表论文且担任教授委员会成员的是哪位教授？",
+  "prompt": "在四川大学计算机学院中，负责指导学生在AAAI顶级会议发表论文且担任教授委员会成员的是哪位教授？",
+  "expected_answer": "吕建成",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1209/10248.htm",
+      "https://cs.scu.edu.cn/info/1208/10220.htm"
+    ],
+    "golden_path": [
+      "root->学院荣誉->我院学子在国际顶级学术会议AAAI上发表论文",
+      "root->组织机构->四川大学计算机学院（软件学院）教授委员会名单"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在四川大学计算机学院中，负责指导学生在AAAI顶级会议发表论文且担任教授委员会成员的是游志胜教授。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 30.337,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0107_bb13e7a26366/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0107_bb13e7a26366/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer identifies a completely different professor (游志胜) than the expected answer (吕建成).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

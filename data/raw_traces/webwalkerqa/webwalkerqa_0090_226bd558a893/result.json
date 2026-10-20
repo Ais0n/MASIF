@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0090_226bd558a893",
+  "source_index": 90,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西南科技大学计算机学院是在哪一天和成都第八中学共建了“优质生源基地”？",
+  "prompt": "西南科技大学计算机学院是在哪一天和成都第八中学共建了“优质生源基地”？",
+  "expected_answer": "4月14日",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0722/c10922a203355/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->6->计算机学院赴成都八中建设优质生源基地为积极应对新高考改革形势，有效提升我院生源质量，加强本科招生宣传力度，让更多考生和家长了解我院学科建设、专业特色等情况...[2024-04-15]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 41.61,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0090_226bd558a893/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0090_226bd558a893/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

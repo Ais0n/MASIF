@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0384_4bcabfc73e97",
+  "source_index": 384,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在西华大学计算机与软件工程学院2024年中国国际大学生创新大赛院内初赛中，参赛的学生队伍来自多少校区，并且该活动在哪个日期举行？",
+  "prompt": "在西华大学计算机与软件工程学院2024年中国国际大学生创新大赛院内初赛中，参赛的学生队伍来自多少校区，并且该活动在哪个日期举行？",
+  "expected_answer": "2月28日；来自郫都、宜宾两个校区",
+  "root_url": "https://cs.xhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xhu.edu.cn/1c/f6/c10302a204022/page.htm"
+    ],
+    "golden_path": [
+      "root->教学科研工作->下一页>>->计算机与软件工程学院顺利举行2024年中国国际大学生创新大赛院内..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "在西华大学计算机与软件工程学院2024年中国国际大学生创新大赛院内初赛中，参赛的学生队伍来自西华大学成都校区，活动在2026年4月29日举行。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 18.961,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0384_4bcabfc73e97/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0384_4bcabfc73e97/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

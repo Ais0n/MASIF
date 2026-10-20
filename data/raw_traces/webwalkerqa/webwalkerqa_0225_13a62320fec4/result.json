@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0225_13a62320fec4",
+  "source_index": 225,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2023年骄傲月期间，哪位音乐艺术家与拳头游戏合作，在全球总决赛中推出了与哪个游戏角色相关的内容？",
+  "prompt": "在2023年骄傲月期间，哪位音乐艺术家与拳头游戏合作，在全球总决赛中推出了与哪个游戏角色相关的内容？",
+  "expected_answer": "Lil Nas X 和 奎桑提",
+  "root_url": "https://www.riotgames.com/zh-cn",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/zh-cn/news/how-we-celebrated-pride-2023-at-riot-zh-cn"
+    ],
+    "golden_path": [
+      "root->多元与包容->拳头游戏如何庆祝2023骄傲月"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 84.581,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0225_13a62320fec4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0225_13a62320fec4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

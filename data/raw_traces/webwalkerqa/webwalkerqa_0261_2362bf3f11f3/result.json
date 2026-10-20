@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0261_2362bf3f11f3",
+  "source_index": 261,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What was the other workshop held on the same day as the Workshop on Software Quality at ICSE 2002?",
+  "prompt": "What was the other workshop held on the same day as the Workshop on Software Quality at ICSE 2002?",
+  "expected_answer": "Workshop on Architecting Dependable Systems.",
+  "root_url": "http://www.icse-conferences.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "http://www.icse-conferences.org/2002/info/workshops.html"
+    ],
+    "golden_path": [
+      "root->Orlando, Florida, USA->Workshops"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The other workshop held on the same day as the Workshop on Software Quality at ICSE 2002 was the 1st ICSE Workshop on Iterative, Adaptive, and Agile Processes.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 28.485,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0261_2362bf3f11f3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0261_2362bf3f11f3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer names a completely different workshop than the expected answer.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

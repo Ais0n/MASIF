@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0256_dcaa365c378d",
+  "source_index": 256,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2021年，拳头游戏对哪两个非裔和拉丁裔游戏开发者提供了支持？",
+  "prompt": "2021年，拳头游戏对哪两个非裔和拉丁裔游戏开发者提供了支持？",
+  "expected_answer": "Gameheads和ColorStack",
+  "root_url": "https://www.riotgames.com/zh-cn",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/zh-cn/who-we-are/social-impact/racial-equity"
+    ],
+    "golden_path": [
+      "root->社会影响力->种族平等"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 141.507,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0256_dcaa365c378d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0256_dcaa365c378d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

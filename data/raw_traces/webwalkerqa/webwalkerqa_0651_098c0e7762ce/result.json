@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0651_098c0e7762ce",
+  "source_index": 651,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "台安副教授在什么时候入职海南大学的计算机科学与技术学院，且他在哪一年获得了博士学位？",
+  "prompt": "台安副教授在什么时候入职海南大学的计算机科学与技术学院，且他在哪一年获得了博士学位？",
+  "expected_answer": "台安在1998年开始在海南大学工作，获得博士学位是在2013年。",
+  "root_url": "https://cs.hainanu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.hainanu.edu.cn/info/1105/1883.htm"
+    ],
+    "golden_path": [
+      "root->师资队伍->台安"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "台安副教授于1998年7月入职海南大学计算机科学与技术学院，并在2012年获得了博士学位。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 22.856,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0651_098c0e7762ce/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0651_098c0e7762ce/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

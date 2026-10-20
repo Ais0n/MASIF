@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0588_bb08d0cea327",
+  "source_index": 588,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who were the MRS Presidents in 2022 and 2023?",
+  "prompt": "Who were the MRS Presidents in 2022 and 2023?",
+  "expected_answer": "The MRS Presidents were Carolyn Duran in 2022 and Sabrina Sartori in 2023.",
+  "root_url": "https://www.mrs.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.mrs.org/discover-mrs/about-mrs/our-society/annual-reports/2023-annual-report",
+      "https://www.mrs.org/discover-mrs/about-mrs/our-society/annual-reports/2022-annual-report"
+    ],
+    "golden_path": [
+      "root->About MRS->ANNUAL REPORTS->Year In Review",
+      "root->About MRS->ANNUAL REPORTS->Year In Review"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The MRS Presidents for 2022 and 2023 were Eric Stach (Immediate Past President) and Young-Chang Joo, respectively.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 19.619,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0588_bb08d0cea327/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0588_bb08d0cea327/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer provides completely different names for the MRS Presidents compared to the expected answer.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

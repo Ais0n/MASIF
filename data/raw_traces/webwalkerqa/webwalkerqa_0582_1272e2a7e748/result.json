@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0582_1272e2a7e748",
+  "source_index": 582,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在《潜行者2：切尔诺贝利之心》和《黑色国度》这两个游戏项目中，虚幻引擎5分别通过哪项主要功能或技术增强了游戏的沉浸感和真实性？",
+  "prompt": "在《潜行者2：切尔诺贝利之心》和《黑色国度》这两个游戏项目中，虚幻引擎5分别通过哪项主要功能或技术增强了游戏的沉浸感和真实性？",
+  "expected_answer": "《潜行者2：切尔诺贝利之心》通过Nanite和Lumen实现环境沉浸感，而《黑色国度》通过开源自定义和LOD管理实现逼真视觉效果。",
+  "root_url": "https://www.unrealengine.com/zh-CN",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.unrealengine.com/zh-CN/developer-interviews/balancing-nostalgia-with-innovation-in-s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "https://www.unrealengine.com/zh-CN/developer-interviews/turkiye-based-developer-motion-blur-uses-ue5-to-bring-photorealistic-visuals-to-black-state"
+    ],
+    "golden_path": [
+      "root->游戏->新闻->在《潜行者2：切尔诺贝利之心》中实现怀旧与创新的平衡",
+      "root->游戏->查看更多->Motion Blur用UE5为《黑色国度》带来逼真视觉效果"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 6,
+  "duration_seconds": 14.681,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0582_1272e2a7e748/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0582_1272e2a7e748/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

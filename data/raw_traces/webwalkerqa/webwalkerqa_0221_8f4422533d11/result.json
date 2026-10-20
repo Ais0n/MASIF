@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0221_8f4422533d11",
+  "source_index": 221,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What kind of experiment did the IETF start in September 2006, and what method was used to evaluate its effectiveness?",
+  "prompt": "What kind of experiment did the IETF start in September 2006, and what method was used to evaluate its effectiveness?",
+  "expected_answer": "In September 2006, the IETF began an experiment using a 'propose, experiment, evaluate, and establish permanent procedures' model.",
+  "root_url": "https://www.ietf.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ietf.org/about/groups/iesg/process-experiments/"
+    ],
+    "golden_path": [
+      "root->Internet Engineering Steering Group->IESG note about process experiments"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 55.502,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0221_8f4422533d11/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0221_8f4422533d11/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

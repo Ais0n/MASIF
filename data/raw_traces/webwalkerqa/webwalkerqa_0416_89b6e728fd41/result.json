@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0416_89b6e728fd41",
+  "source_index": 416,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the deadline for claiming Continuing Medical Education (CME) credits for ACR Convergence 2024, and in which city will the meeting be held?",
+  "prompt": "What is the deadline for claiming Continuing Medical Education (CME) credits for ACR Convergence 2024, and in which city will the meeting be held?",
+  "expected_answer": "The CME credit claim deadline is November 13, 2025, and the conference will be held in Washington, D.C.",
+  "root_url": "https://rheumatology.org/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://rheumatology.org/annual-meeting-cme-disclosures",
+      "https://rheumatology.org/annual-meeting-hotels"
+    ],
+    "golden_path": [
+      "root->CME & Disclosures",
+      "root->housing"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 24,
+  "tool_calls": 8,
+  "duration_seconds": 193.558,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0416_89b6e728fd41/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0416_89b6e728fd41/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0512_3e248da04792",
+  "source_index": 512,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the two awards Cheryl Gaimon received from POMS in 2009 and 2014?",
+  "prompt": "What are the two awards Cheryl Gaimon received from POMS in 2009 and 2014?",
+  "expected_answer": "POMS Fellows Award (2009) and Sushil K Gupta Award (2014).",
+  "root_url": "https://www.poms.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.poms.org/node/386",
+      "https://www.poms.org/node/406"
+    ],
+    "golden_path": [
+      "root->Sushil K Gupta Distinguished POMS Service Award->view",
+      "root->POMS Fellows Award->view"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "Cheryl Gaimon received the 'Best Management of Technology Paper Award' in 2009 and the 'Best Innovation Paper Award' in 2014 from POMS.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 19.242,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0512_3e248da04792/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0512_3e248da04792/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer lists completely different awards than the expected answer.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

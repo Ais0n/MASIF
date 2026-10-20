@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0411_eabe9745f25a",
+  "source_index": 411,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北京交通大学计算机学院在国家基础学科拔尖人才培养战略行动推进会上，熊轲副院长所汇报的培养模式是什么？同时，该学院的计算机科学学科在2024年进入ESI世界排名多少的行列?",
+  "prompt": "北京交通大学计算机学院在国家基础学科拔尖人才培养战略行动推进会上，熊轲副院长所汇报的培养模式是什么？同时，该学院的计算机科学学科在2024年进入ESI世界排名多少的行列?",
+  "expected_answer": "基于“四通”模式的计算机科学基础拔尖学生培养探索与实践；ESI世界前1‰行列。",
+  "root_url": "https://cs.bjtu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.bjtu.edu.cn/jdxw/202312972.htm",
+      "https://cs.bjtu.edu.cn/sy_kxyj/202311363.htm"
+    ],
+    "golden_path": [
+      "root->计算机学院受邀参加国家基础学科拔尖人才培养战略行动推进会暨“基础学科拔尖学生培养计划”实施十五年工作交流会并在计算机科学分论坛进行专题报告暂无摘要2024-07-11",
+      "root->我校“计算机科学”学科跻身ESI世界前1‰行列"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "北京交通大学计算机学院在国家基础学科拔尖人才培养战略行动推进会上，熊轲副院长所汇报的培养模式是教育部基础学科（计算机科学）拔尖计划2.0和教育部计算机专业改革‘101’计划。同时，该学院的计算机科学学科在2024年首次进入ESI学科排名世界0.8‰。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 15.756,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0411_eabe9745f25a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0411_eabe9745f25a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

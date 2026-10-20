@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0420_5891074ff7fd",
+  "source_index": 420,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "多多自走棋在2023年3月9日和2023年1月12日分别进行了哪些更新公告？",
+  "prompt": "多多自走棋在2023年3月9日和2023年1月12日分别进行了哪些更新公告？",
+  "expected_answer": "2023年3月9日有停服更新公告，多多自走棋于2023年1月12日有开服公告和停服更新公告。",
+  "root_url": "http://ac.dragonest.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "http://ac.dragonest.com/zh-cn/news",
+      "http://ac.dragonest.com/zh-cn/announcement"
+    ],
+    "golden_path": [
+      "root->新闻",
+      "root->公告"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 106.642,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0420_5891074ff7fd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0420_5891074ff7fd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

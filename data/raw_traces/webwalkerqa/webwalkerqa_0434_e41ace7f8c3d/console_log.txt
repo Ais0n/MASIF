@@ -1,0 +1,352 @@
+----- user -----
+query:
+In ACL 2023, who are the Tutorial Chairs and Main Conference Chairs?
+official website:
+https://2023.aclweb.org/
+Observation:website information:
+
+]( 
+              
+Toggle menu
+      
+#  The 61st Annual Meeting of the Association for Computational Linguistics 
+Toronto, Canada  
+July 9-14, 2023 
+## Welcome!
+The 61st Annual Meeting of the Association for Computational Linguistics (ACL’23) will take place in **Toronto, Canada** from **July 9th to July 14th, 2023**. More information will be announced soon.
+All papers in the program must have at least one author registered at the appropriate rate for their presentation modality and status. Please see the  page for more details.
+## News  
+| 2023-06-27  | The link of  is added to the top menu.  |  
+| --- | --- |  
+| 2023-06-27  |   is posted under the _Program_.  |  
+| 2023-06-19  |   is posted under the _Registration_.  |  
+| 2023-06-17  |   is posted under the _Committees_.  |  
+| 2023-06-15  |   is posted under the _Program_.  |  
+| 2023-06-15  |   is posted under the _Program_.  |  
+| 2023-06-15  |   is posted under the _Calls_.  |  
+| 2023-06-12  |   is posted under the _Program_.  |  
+| 2023-06-12  |   is posted under the _Program_.  |  
+| 2023-06-09  |   is posted under the _Program_.  |  
+| 2023-06-09  |   is posted under the _Program_.  |  
+| 2023-06-08  |   is posted under the _Participants_.  |  
+| 2023-06-02  |   is posted under the _Program_.  |  
+| 2023-05-31  |   are posted under the _Program_.  |  
+| 2023-05-24  |   is posted under the _Registration_.  |  
+| 2023-05-16  |   is posted under the _Participants_.  |  
+| 2023-05-16  |   is posted under the _Venue_.  |  
+| 2023-05-15  |   is posted under the _Calls_.  |  
+| 2023-05-15  |   is posted under the _Sponsors_.  |  
+| 2023-05-11  |   is posted under the _Calls_.  |  
+| 2023-05-09  |   is posted under the _Participants_.  |  
+| 2023-05-03  | The accessibility widget is added to the top menu.  |  
+| 2023-02-28  |   is posted under the _Calls_.  |  
+| 2023-02-09  |   is posted under _Program_.  |  
+| 2023-01-30  |   is posted under the _Venue_.  |  
+| 2023-01-24  |   is posted under the _Sponsors_.  |  
+| 2023-01-16  |   are posted under the _Committees_.  |  
+| 2023-01-12  |   is posted under _Program_.  |  
+| 2022-12-20  |   is posted.  |  
+| 2022-12-12  |   is posted.  |  
+| 2022-11-26  |   is posted.  |  
+| 2022-11-03  |   is posted under the _Calls_.  |  
+| 2022-10-28  |   is posted.  |  
+| 2022-10-20  |   is posted.  |  
+| 2022-10-20  |   is posted.  |  
+| 2022-10-07  |   is posted.  |  
+| 2022-09-21  | The official ACL 2023 website is launched.  |  
+## Conference Schedule  
+| Early Registration  | June 18, 2023  |  
+| --- | --- |  
+| Tutorials  | July 9, 2023  |  
+| Conference  | July 10-12, 2023  |  
+| Workshops  | July 13-14, 2023  |  
+  * **Follow:**
+    
+© 2024 ACL. Powered by  & .
+
+
+clickable button:
+
+<button>Program<button>
+<button>Registration<button>
+<button>Venue<button>
+<button>Participants<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>FAQ<button>
+<button>Blog<button>
+<button>Calls<button>
+<button>registration<button>
+<button>Discounted Virtual Registration<button>
+<button>Best Paper Committee<button>
+<button>Accepted Papers for Industry Track<button>
+<button>Accepted Papers for System Demonstration<button>
+<button>Call for D&I Socials and BoF Sessions Organizers<button>
+<button>Tutorial Schedule<button>
+<button>Workshop Schedule<button>
+<button>Accepted Papers for Findings<button>
+<button>Accepted Papers for Main Conference<button>
+<button>Ethical Policies<button>
+<button>Conference Schedule<button>
+<button>Keynotes<button>
+<button>Cancellation Policy<button>
+<button>Conference Venue<button>
+<button>Call for Diversity and Inclusion Subsidies<button>
+<button>List of Sponsors<button>
+<button>Call for Student Volunteers<button>
+<button>Application form for an invitation letter<button>
+<button>ARR Commitment for the Main Conference<button>
+<button>List of Tutorials<button>
+<button>Conference Venue<button>
+<button>Senior Area Chairs<button>
+<button>List of Workshops<button>
+<button>2nd Call for Main Conference Papers<button>
+<button>Call for Student Research Workshop Papers<button>
+<button>Call for Industry Track Papers<button>
+<button>Style Files and Formatting<button>
+<button>Call for System Demonstration Papers<button>
+<button>Call for Tutorial Proposals<button>
+<button>Call for Workshop Proposals<button>
+<button>Call for Main Conference Papers<button>
+<button>Feed<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about the Tutorial Chairs and Main Conference Chairs. The "Committees" button seems like a good starting point as it might list the chairs.
+
+Action: visit_page
+Action Input: {"button": "Committees"}
+
+----- VisitPage -----
+The web information is:
+
+]( 
+              
+Toggle menu
+      
+  * Committees
+            
+# Organizing Committee 
+## General Chair
+!
+###  
+Amazon (USA)
+yangliud@amazon.com
+## Program Chairs
+Contact: acl2023-pc@googlegroups.com
+!
+###  
+University of Maryland (USA)
+jbg@umiacs.umd.edu
+!
+###  
+Tokyo Institute of Technology (Japan)
+okazaki@c.titech.ac.jp
+!
+###  
+IT University of Copenhagen (Denmark)
+arog@itu.dk
+## Workshop Chairs
+!
+###  
+University of Arizona (USA)
+eduardoblanco@arizona.edu
+!
+###  
+Chinese Academy of Sciences (China)
+fengyang@ict.ac.cn
+!
+###  
+Google (UK)
+annielouis@google.com
+## Tutorial Chairs
+!
+###  
+National Taiwan University (Taiwan)
+yvchen@csie.ntu.edu.tw
+!
+###  
+University of Applied Sciences, Darmstadt (Germany)
+margot.mieskes@h-da.de
+!
+###  
+McGill University and Mila (Canada)
+siva.reddy@mila.quebec
+## Demonstration Chairs
+Contact: acl2023demochairs@gmail.com
+!
+###  
+University of Liverpool (UK)
+danushka.bollegala@liverpool.ac.uk
+!
+###  
+Texas A&M University (USA)
+huangrh@cse.tamu.edu
+!
+###  
+Georgia Institute of Technology (USA)
+alan.ritter@cc.gatech.edu
+## Industry Track Chairs
+Contact: acl-2023-industry-track-pcs@googlegroups.com
+!
+###  
+Educational Testing Service (USA)
+bbeigmanklebanov@ets.org
+!
+###  
+Microsoft Research India (India)
+Sunayana.Sitaram@microsoft.com
+!
+###  
+Apple (USA)
+jasondwilliams@gmail.com
+## Student Research Workshop
+### Chairs
+Contact: acl2023.srw@gmail.com
+!
+###  
+University of Edinburgh (UK)
+yao.fu@ed.ac.uk
+!
+###  
+New York University (USA)
+vishakh@nyu.edu
+!
+###  
+University of Melbourne (Australia)
+gvallejo@student.unimelb.edu.au
+### Faculty Advisors
+!
+###  
+University of Cambridge (UK)
+iv250@cam.ac.uk
+!
+###  
+University of Michigan (USA)
+wangluxy@umich.edu
+## Student Volunteer Chairs
+!
+###  
+University of Hong Kong (Hong Kong)
+tyu@cs.hku.hk
+!
+###  
+Johns Hopkins University (USA)
+ayah.zirikly@gmail.com
+## Publication Chairs
+!
+###  
+ETH Zürich (Switzerland)
+rcotterell@inf.ethz.ch
+!
+###  
+Virginia Tech (USA)
+lifuh@vt.edu
+!
+###  
+University of Sheffield (UK)
+c.lin@sheffield.ac.uk
+!
+###  
+Google (USA)
+shulindt@gmail.com
+!
+###  
+University of Southern California (USA)
+jessetho@usc.edu
+## Ethics Chairs
+!
+###  
+Carnegie Mellon University (USA)
+ybisk@cs.cmu.edu
+!
+###  
+Bocconi University (Italy)
+mail@dirkhovy.com
+## Website Chairs
+!
+###  
+Emory University (USA)
+jinho.choi@emory.edu
+!
+###  
+Fudan University (China)
+zywei@fudan.edu.cn
+## Virtual Infrastructure Chairs
+!
+###  
+Meta (USA)
+me@pedro.ai
+!
+###  
+Bayer AG (Germany)
+villalba@7c0h.com
+!
+###  
+Salesforce (USA)
+jiacheng.xu@salesforce.com
+## Publicity and Social Media Chairs
+!
+###  
+Amazon (USA)
+devamanyu@ieee.org
+!
+###  
+Tilburg University (Netherlands)
+E.O.J.Vanmassenhove@tilburguniversity.edu
+!
+###  
+University of Science and Technology of China (China)
+tongxu@ustc.edu.cn
+## Sponsorship Chairs
+!
+###  
+Univeristy of California Santa Barbara (USA)
+leili@cs.ucsb.edu
+!
+###  
+City University of New York (USA)
+arozovskaya@qc.cuny.edu
+## Diversity and Inclusion Chairs
+Contact: acl2023dei@googlegroups.com
+!
+###  
+University of Melbourne (Australia)
+d.beck@unimelb.edu.au
+!
+###  
+Meta (USA)
+maryamfazel@fb.com
+!
+###  
+University of Cambridge (UK)
+ndo24@cam.ac.uk
+  * **Follow:**
+    
+© 2024 ACL. Powered by  & .
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Program<button>
+<button>Registration<button>
+<button>Venue<button>
+<button>Participants<button>
+<button>Committees<button>
+<button>Sponsors<button>
+<button>FAQ<button>
+<button>Blog<button>
+<button>Calls<button>
+<button>Organizing Committee<button>
+<button>Program Committee<button>
+<button>Best Paper Committee<button>
+<button>Feed<button>
+
+----- WebWalker -----
+Memory:
+-The Tutorial Chairs for ACL 2023 are: National Taiwan University (Taiwan) - yvchen@csie.ntu.edu.tw, University of Applied Sciences, Darmstadt (Germany) - margot.mieskes@h-da.de, and McGill University and Mila (Canada) - siva.reddy@mila.quebec. The Main Conference Chairs are: University of Maryland (USA) - jbg@umiacs.umd.edu, Tokyo Institute of Technology (Japan) - okazaki@c.titech.ac.jp, IT University of Copenhagen (Denmark) - arog@itu.dk.
+"}
+
+----- WebWalker -----
+Final Answer: The Tutorial Chairs for ACL 2023 are from National Taiwan University (Taiwan) - yvchen@csie.ntu.edu.tw, University of Applied Sciences, Darmstadt (Germany) - margot.mieskes@h-da.de, and McGill University and Mila (Canada) - siva.reddy@mila.quebec. The Main Conference Chairs are from University of Maryland (USA) - jbg@umiacs.umd.edu, Tokyo Institute of Technology (Japan) - okazaki@c.titech.ac.jp, and IT University of Copenhagen (Denmark) - arog@itu.dk.

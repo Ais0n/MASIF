@@ -1,0 +1,49 @@
+{
+  "task_id": "webwalkerqa_0600_c6af506a3bb4",
+  "source_index": 600,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年11月，常州大学计算机与人工智能学院党委副书记参与的两项活动分别是什么？",
+  "prompt": "2024年11月，常州大学计算机与人工智能学院党委副书记参与的两项活动分别是什么？",
+  "expected_answer": "授党课和“先锋汇”推进大会",
+  "root_url": "https://bigdata.cczu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://bigdata.cczu.edu.cn/_t1005/2024/1111/c13709a376955/page.htm",
+      "https://bigdata.cczu.edu.cn/_t1005/2024/1104/c13837a376233/page.htm"
+    ],
+    "golden_path": [
+      "root->旧版入口->学院党委副书记李雪琪为入党积极分子授党课",
+      "root->旧版入口->党建动态->红色引航 先锋惠企——龙城产业发展“先锋汇”推进大会在我校举行"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "2024年11月，常州大学计算机与人工智能学院党委副书记参与的两项活动分别是：为入党积极分子讲授专题党课，以及参与学院党建动态相关工作。",
+  "judge": {
+    "verdict": "match",
+    "reason": ") -> Match.\n2. Expected",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 23.32,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0600_c6af506a3bb4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0600_c6af506a3bb4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": ") -> Match.\n2. Expected",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

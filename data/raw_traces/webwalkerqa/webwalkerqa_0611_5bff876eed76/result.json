@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0611_5bff876eed76",
+  "source_index": 611,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023年常州大学大数据学院开展的教职工冬季健身活动和2024年意识形态专题培训分别是在哪些时间段举办的？",
+  "prompt": "2023年常州大学大数据学院开展的教职工冬季健身活动和2024年意识形态专题培训分别是在哪些时间段举办的？",
+  "expected_answer": "2023年11月24日至12月15日；2024年11月12日",
+  "root_url": "https://bigdata.cczu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://bigdata.cczu.edu.cn/_t1005/2023/1211/c13838a349388/page.htm",
+      "https://bigdata.cczu.edu.cn/_t1005/2024/1114/c13837a377561/page.htm"
+    ],
+    "golden_path": [
+      "root->旧版入口->分工会工作->凝心聚力共奋进 强健体魄向未来——大数据学院开展教职工冬季健身...",
+      "root->旧版入口->党建动态->学院党委开展意识形态工作专题培训"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "2023年常州大学大数据学院教职工冬季健身活动是在2023年5月25日举办的，2024年意识形态专题培训是在2024年9月6日举办的。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 19.608,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0611_5bff876eed76/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0611_5bff876eed76/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

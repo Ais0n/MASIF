@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0081_61a02a13288f",
+  "source_index": 81,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023年12月21日，统一企业在甘肃临夏州积石山县地震后的救援中共捐赠了多少份方便面？",
+  "prompt": "2023年12月21日，统一企业在甘肃临夏州积石山县地震后的救援中共捐赠了多少份方便面？",
+  "expected_answer": "3.2万余份",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/news_detail.asp?news_id=975&corp_id=376"
+    ],
+    "golden_path": [
+      "root->新闻专区->众志成城  统一企业驰援甘肃抗震一线！"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 39.101,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0081_61a02a13288f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0081_61a02a13288f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

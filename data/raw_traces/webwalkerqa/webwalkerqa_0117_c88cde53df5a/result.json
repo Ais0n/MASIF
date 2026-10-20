@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0117_c88cde53df5a",
+  "source_index": 117,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Web Conference 2024的标志中的'三棵树'象征着新加坡的哪三种官方语言？",
+  "prompt": "Web Conference 2024的标志中的'三棵树'象征着新加坡的哪三种官方语言？",
+  "expected_answer": "Chinese, Malay, Tamil",
+  "root_url": "https://www2024.thewebconf.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www2024.thewebconf.org/about/logo"
+    ],
+    "golden_path": [
+      "root->Logo"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "Web Conference 2024的标志中的'三棵树'象征着新加坡的三种官方语言：中文、马来语和泰米尔语。",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\"verdict\":\"match\",\"reason\":\"The predicted answer correctly identifies the three languages in Chinese, matching the factual content",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer correctly identifies the three languages in Chinese, matching the factual content"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 16.854,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0117_c88cde53df5a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0117_c88cde53df5a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

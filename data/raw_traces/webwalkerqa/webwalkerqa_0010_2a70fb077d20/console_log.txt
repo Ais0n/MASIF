@@ -1,0 +1,530 @@
+----- user -----
+query:
+Which scholars presented the IMPACT project on safety-critical systems and software inspections, reviews, and walkthroughs at the ICSE 2002 conference?
+official website:
+http://www.icse-conferences.org/
+Observation:website information:
+
+|  !  |   |  **  
+# ICSE
+**  |   |   
+ | !  |  
+| --- |  
+| !  |  
+|   
+ | !  |  
+| --- |  
+| !  |  
+|   |  
+| 
+## International Conference  
+on Software Engineering®
+ |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+| !  |  
+|   
+ |   |  
+| --- |  
+|   |  
+|   |  
+|    |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|   |  
+|    
+  
+ |  
+|  [ Last updated  
+Jan 2026](#maintainer)  |  
+| !  |    
+  
+  
+ |  WELCOME ICSE, the International Conference on Software Engineering,® is the premier software engineering conference, providing a forum for researchers, practitioners and educators to present and discuss the most recent innovations, trends, experiences and concerns in the field of software engineering. Note that ICSE: International Conference on Software Engineering® is a registered trademark. On this web site you can find information about the ICSE conference series as well as useful information for organizing a future ICSE conference.  
+CURRENT CONFERENCE : Apr 2026  
+Rio de Janeiro, Brazil  
+  
+FUTURE CONFERENCES ICSE 2027: Apr 2027  
+Dublin, Ireland  
+ICSE 2028: Apr 2028  
+Hawaii, USA  
+ICSE 2029: Apr 2029  
+Tokyo, Japan  
+  
+PAST CONFERENCES : April 26 - May 4 2025  
+Ottawa, Canada : Apr 12-21, 2024  
+Lisbon, Portugal : May 14-20, 2023  
+Melbourne, Australia : May 8-27, 2022  
+Pittsburgh, USA : May 20-30, 2021  
+Madrid, Spain : July 6-11 2020  
+Seoul, Korea : May 25 - June 1, 2019  
+Montréal, Canada : May 27 - June 3, 2018  
+Gothenburg, Sweden : May 20-28, 2017  
+Buenos Aires, Argentina : May 14-22, 2016  
+Austin, Texas, USA : May 16-24, 2015  
+Firenze, Italy : May 31 - June 7, 2014  
+Hyderabad, India  : May 18-26, 2013  
+San Francisco, USA  : June 2-9, 2012  
+Zürich, Switzerland : May 21-28, 2011  
+Honolulu, Hawaii, USA : May 2-8, 2010  
+Cape Town, South Africa : May 16-24, 2009  
+Vancouver, British Columbia, Canada : May 10-18, 2008  
+Leipzig, Germany : May 20-26, 2007  
+Minneapolis, Minnesota, USA : May 20-28, 2006  
+Shanghai, China : May 15-21, 2005  
+St. Louis, Missouri, USA : May 23-28, 2004  
+Edinburgh, Scotland, United Kingdom : May 3-10, 2003  
+Portland, Oregon, USA : May 19-25, 2002  
+Orlando, Florida, USA : May 12-19, 2001  
+Toronto, Ontario, Canada : June 4-11, 2000  
+Limerick, Ireland ICSE 1999: May 16-22, 1999  
+Los Angeles, California, USA ICSE 1998: April 19-25, 1998  
+Kyoto, Japan : May 17-23, 1997  
+Boston, MA, USA ICSE 1996: March 25-30, 1996  
+Berlin, Germany : April 23-30, 1995  
+Seattle, Washington, USA ICSE 1994: May 16-21, 1994  
+Sorrento, Italy ICSE 1993: May 17-21, 1993  
+Baltimore, Maryland, USA ICSE 1992: May 11-15, 1992  
+Melbourne, Australia ICSE 1991: May 13-17, 1991  
+Austin, Texas, USA ICSE 1990: March 26-30, 1990  
+Nice, France ICSE 1989: May 15-18, 1989  
+Pittsburgh, Pennsylvania, USA ICSE 1988: April 11-15, 1988  
+Raffles City, Singapore ICSE 1987: March 30 - April 2, 1987  
+Monterey, California, USA ICSE 1985: August 28-30, 1985  
+London, United Kingdom ICSE 1984: March 26-29, 1984  
+Orlando, Florida, USA ICSE 1982: September 13-16, 1982  
+Tokyo, Japan ICSE 1981: March 9-12, 1981  
+San Diego, California, USA ICSE 1979: September 17-19, 1979  
+Munich, Germany ICSE 1978: May 10-12, 1978  
+Atlanta, Georgia, USA ICSE 1976: October 13-15, 1976  
+San Francisco, California, USA ICSE 1975: September 11-12, 1975  
+Washington DC, USA  |  
+| --- |  
+  
+  
+|   |   
+ |  ](  
+ |  
+| --- |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|  ](~icse2000/)  
+ |  
+|  ](  
+ |  
+|  ](  
+ |  
+|   |  
+!
+
+
+clickable button:
+
+<button>HOME<button>
+<button>News from the SC<button>
+<button>EDI STATEMENT<button>
+<button>CONDUCT & SAFETY<button>
+<button>HISTORY<button>
+<button>PROCEEDINGS<button>
+<button>INFLUENTIAL PAPERS<button>
+<button>ORGANIZING ICSE<button>
+<button>STEERING COMMITTEE<button>
+<button>ICSE SC Documents<button>
+<button>SPONSORS<button>
+<button>CONTACTS<button>
+<button>Last updatedJan 2026<button>
+<button>ICSE 2005<button>
+<button>ICSE 2004<button>
+<button>ICSE 2003<button>
+<button>ICSE 2002<button>
+<button>ICSE 2001<button>
+<button>ICSE 1997<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about the IMPACT project presented at the ICSE 2002 conference. The official website has clickable buttons, and one of them is "ICSE 2002". I should click on that button to get more details about the conference.
+
+Action: visit_page
+Action Input: {"button": "ICSE 2002"}
+
+----- VisitPage -----
+The web information is:
+
+|   
+ | !  |   
+ | !  | 
+## International Conference on Software Engineering  
+Orlando, Florida, USA  
+May 19-25, 2002
+ |  
+| --- | --- |  
+| !  |  
+ |  
+| **Home**  
+Conference Updates  
+  
+**Advance Program**  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+**Call For Participation**  
+  
+  
+  
+**Conference Calendar**  
+  
+  
+  
+**Conference Information**  
+  
+  
+  
+  
+  
+**Registration**  
+  
+  
+**Travel Information and Events**  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+**Related Conferences**  
+  | 
+# Welcome!
+ICSE 2002 is now over! Thanks to all who attended, it was an excellent conference! If you missed the conference, you can get a feel for what it was like by reading issues of the ! Enjoy!
+* * *
+Read a  from Will Tracz, the General Chair of ICSE 2002.    Information is now available!
+* * *
+# Site Updates
+> # May 13, 2002
+>> **Registration:** Pre-Conference Registration is now closed. On-site registration will be available starting at 5:00 PM, Saturday May 18th.
+> # May 13, 2002
+>> **Lunch:** Due to budgetary restrictions, there will only be one lunch (on Wednesday, 22 May 02) provided to conference attendees. If there are any special dietary restrictions we should know about, please let us know in advance so we can plan the right number of vegetarian, etc. meals. We are reviewing registration data and anticipated expenses to see if it is feasible to add another lunch on Thursday. Send your requests to Will Tracz. **Keynotes:** 2) In a break from tradition, keynote speakers will not answer questions from the floor after delivering their addresses. Instead, written questions will be collected during and after the presentation and delivered to the session chair, who will then consolidate, summarize, and paraphrase them for the keynote speaker to answer. Students will be periodically walking up and down the aisles with a small sign indicating they are collecting questions starting approximately 1/2 hour after the beginning of the keynote speaker's address. They will have note cards to write the questions on, or you may submit the question on any note paper.
+> # May 10, 2002
+>> **Please Note:** are still available but order forms can no longer be processed and tickets sent to you by postal mail. Instead, order forms can be sent in and tickets can be picked up at the hotel business center, which is located next to the conference registration area. Tickets can also be purchased directly at the business center.
+> # May 01, 2002
+>> **Music and Free Tango Lessons** Conference attendees may want to adjust their evening social calendar to enjoy the special entertainment that is scheduled for the conference receptions. Wednesday night will feature some light jazz and funk by Columbia Record and Blue Note recording artists Tom Dietz on tenor, Don Scaletta on Keys and Tony Ventuenia on bass. In addition, rumor has it that there will be some special guest celebrity performance around 7:10. On Wednesday night you can enjoy the rhythm of a hot salsa band as well as be entertained by two performances of some very famous . In addition they will be offering a free Tango lesson - at 9:00 after the Reception in the Royal Ballroom!
+> ## April 25, 2002
+>> **Hotel Room Block Reservation Cut-off Date Approaching.** ICSE attendees should be aware that the cut-off date for reserving conference hotel rooms is Friday, 3 May 2002. After this date, the group room rate may not be available. In addition, using the on-line room reservation system is not recommended due to the current "sold-out" status of some days. In order to secure a room (and be automatically placed in the overflow hotel, if necessary) please call the reservation line directly at +1 407 239 4200 (or in the US and Canada 1 800 621 0638).
+> ## April 15, 2002
+>> A registration form for the  at ICSE 2002 is now available! Registrations for this program must be made by May 13, 2002. **Note:** early registration is now closed.
+> ## April 12, 2002
+>> Discount Theme Park Tickets are now !
+> ## April 8, 2002
+>> **Registration News** : The early registration date (April 12th) is rapidly approaching! Also, note, that on-site registration will accept credit cards and cash only.
+> ## April 5, 2002
+>> Program At-A-Glance information is now  for workshops, tutorials, and co-located events.
+> ## April 3, 2002
+>> Please read this  on how to make reservations at the ICSE conference hotel.
+> ## March 28, 2002
+>> ICSE 2002 is pleased to announce a  for the shuttle that runs between the Orlando International Airport and the conference hotel.
+> ## March 20, 2002
+>> Make your hotel reservations soon! See this  for more details!
+> ## March 19, 2002
+>> Rational Software has become a  of ICSE 2002!
+> ## March 13, 2002
+>> Information on  is now available. Information on the  is now available. Registration information for the Spouse program will be posted soon. Information on the  is now available.
+> ## March 7, 2002
+>> **Please Make your Hotel Reservations Early!** The hotel is forecasting to 'sell out' on the 20th, 24th & 25th. If you are using the Marriott online reservation system, you may run into a "rooms unavailable" situation. This is because our room blocks are filling up fast. In order to accommodate the increased number of reservations, we are daily increasing the room block. We ask your patience in this matter. If you have questions, please contact Will Tracz (Will.Tracz@acm.org) and he will be happy to assist you in resolving the matter with the hotel.
+> ## February 20, 2002
+>> ICSE 2002 is now open for business!  is now available.
+> ## February 16, 2002
+>>  for becoming an ICSE 2002 Exhibitor is now available.
+> ## February 12, 2002
+>> Newcomer to ICSE? David Notkin  he gives to his graduate students who are attending ICSE for the first time. The  for the conference has been posted.
+> ## February 9, 2002
+>> Information on discounted air fares to ICSE 2002 is available at the  page.
+> ## February 8, 2002
+>> The posters and demos section has been updated with a list of titles and authors. Information on the second state-of-the-art talk is now available. Abstract and Presenter information for tutorial 13 is now available. Pictures of tutorial presenters are starting to appear.
+> ## February 5, 2002
+>> The travel overview section has been updated with new information on making hotel reservations. In particular, it is now possible to register for hotel rooms on-line.
+> ## February 4, 2002
+>> Major site update in response to moving ICSE 2002 from Buenos Aires, Argentina to Orlando, Florida. The travel section has been updated with new information. Registration information will be available soon! ICSE 2002  to Orlando, Florida, USA.
+> ## January 3, 2002
+>> Happy New Year! Tutorial and Workshop abstracts are now available.
+> ## December 22, 2001
+>> Additional information on industry presentations is now available.
+> ## December 18, 2001
+>> VA Software has become a  of ICSE 2002! Preliminary Information on technical papers is now available.
+> ## December 17, 2001
+>> Preliminary Information on panels is now available. Preliminary Information on industry, state-of-the-art, and IMPACT presentations is now available. Information on three events co-located with ICSE 2002 is now available. Preliminary Tutorial Information is now available. Abstract Information will be available soon. Preliminary Workshop Information is now available. Abstract and Submission Information will be available soon. Advance Program information is now coming on-line. Call for participation information is being moved for archival purposes (e.g. some URLs have changed), since most submission deadlines have passed (except for the Doctoral Consortium). The navigation bar on the left has also changed slightly.
+> ## December 2, 2001
+>> We now have abstracts for all three ICSE 2002 keynote talks. Take a look on our  page. Microsoft Research has become a  of ICSE 2002!
+> ## October 16, 2001
+>> Information on the  is now available.
+ |  
+* * *  
+| !  |  
+| --- |  
+|  ! ! ! !  |  
+| © ACM SIGSOFT, 2000-2002. Website Maintainer: . Last Updated: 06/19/2002; 1:49:35 PM  |
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Overview<button>
+<button>Technical Papers<button>
+<button>Conference Keynotes<button>
+<button>Tutorials<button>
+<button>Workshops<button>
+<button>Industry Presentations<button>
+<button>State-of-the-Art Presentations<button>
+<button>Doctoral Symposium<button>
+<button>IMPACT Presentations<button>
+<button>Panels<button>
+<button>Co-Located Events<button>
+<button>Posters and Demos<button>
+<button>Exhibitors<button>
+<button>Types of Submissions<button>
+<button>Student Volunteers<button>
+<button>Program At-A-Glance!<button>
+<button>Conference Meetings<button>
+<button>Conference Committee<button>
+<button>Program Committee<button>
+<button>Sponsors and Supporters<button>
+<button>Advice for Newcomers<button>
+<button>Overview<button>
+<button>Overview<button>
+<button>Discount Airfares<button>
+<button>Discount Airport Shuttle<button>
+<button>Discount Theme Park Tickets<button>
+<button>Securing a Visa<button>
+<button>Spouse Program<button>
+<button>ICSE 5K Run<button>
+<button>Other ICSE Conferences<button>
+<button>ICSE WOW - ICSE's Window on the World<button>
+<button>message<button>
+<button>Register for ICSE 2002!(Note: early registration is now closed.)<button>
+<button>Program At-A-Glance<button>
+<button>Discount theme park tickets<button>
+<button>spouse program<button>
+<button>available<button>
+<button>available<button>
+<button>update<button>
+<button>discount fare<button>
+<button>announcement<button>
+<button>sponsor<button>
+<button>securing a visa to attend ICSE<button>
+<button>ICSE 2002 Spouse program<button>
+<button>ICSE 2002 5K Fun Run<button>
+<button>Registration information<button>
+<button>Information<button>
+<button>shares the advice<button>
+<button>schedule of events<button>
+<button>Conference Airline<button>
+<button>has moved<button>
+<button>keynotes<button>
+<button>Program Committee meeting<button>
+
+----- WebWalker -----
+Memory:
+-The observation mentions that preliminary information on industry, state-of-the-art, and IMPACT presentations is now available. This indicates that the IMPACT project was presented at ICSE 2002, but it does not provide the names of the scholars who presented it.
+"}
+
+----- WebWalker -----
+The clickable button "IMPACT Presentations" seems relevant to the question about the IMPACT project. I should click on that button to find more information about the presenters of the IMPACT project at ICSE 2002.
+
+Action: visit_page
+Action Input: {"button": "IMPACT Presentations"}
+
+----- VisitPage -----
+The web information is:
+
+|   
+ | !  |   
+ | !  | 
+## International Conference on Software Engineering  
+Orlando, Florida, USA  
+May 19-25, 2002
+ |  
+| --- | --- |  
+| !  |  
+ |  
+| **Home**  
+  
+  
+**Advance Program**  
+  
+  
+  
+  
+  
+  
+  
+  
+IMPACT Presentations  
+  
+  
+  
+  
+  
+**Call For Participation**  
+  
+  
+  
+**Conference Calendar**  
+  
+  
+  
+**Conference Information**  
+  
+  
+  
+  
+  
+**Registration**  
+  
+  
+**Travel Information and Events**  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+**Related Conferences**  
+  | 
+# ICSE 2002 IMPACT Presentations
+ICSE 2002 will feature three presentations from the IMPACT project, a project evaluating the effect software engineering has had on selected research topics. This year's topics include:
+##  S7.3: Software Inspections, Reviews & Walkthroughs
+Session Chairs: _Oliver Laitenberger and Dieter Rombach, Fraunhofer Institute for Experimental Software Engineering_ Contributors:  
+  
+**Marcus Ciolkowski** , University of Kaiserslautern and Fraunhofer Institute for Experimental Software Engineering  
+**Oliver Laitenberger** and **Dieter Rombach** , Fraunhofer Institute for Experimental Software Engineering  
+**Forrest Shull** , Fraunhofer Center for Experimental Software Engineering  
+**Dewayne Perry** , University of Texas, Austin While software has become one of the most valuable products of the past decades, its growing complexity and size is responsible for making it one of the most challenging ones to build and maintain. The challenge stems from the fact that software development belongs to the most labor- and, at the same time, knowledge-intensive processes of today's world. The heavy dependence on knowledgeable human beings may be one reason why software development is often compared to an art or craft rather than to an engineering discipline. However, it has almost become impossible nowadays for a craftsman to produce large software systems according to a given schedule, to a limited budget, and to the quality requirements of a customer at delivery. Hence, researchers as well as practitioners are increasingly obliged to address the question of how to integrate engineering principles into software development. An important one is to perform quality-enhancing activities as early as possible. Despite the simplicity of this principle one can observe in the software industry that the activity of detecting and correcting software problems is often deferred until late in the project. To address this issue, engineering-oriented software organizations have started to implement rigorous inspections, reviews and/or walkthroughs (in this paper all referred to as “inspections”). But still, a large number of organizations do not take full advantage of these approaches, which prevents them from basing their software development approach on engineering grounds. The main objective of the IMPACT project in the area of software inspection is to collect demonstrated success cases, perform root cause analyses as to what contributed to the success cases in terms of research and transfer activities in software engineering, and derive lessons learned to maximize the success in other interested organizations. The research results in the inspection context include both new techniques, methods and tools as well as sound empirical evidence regarding the effectiveness and context dependency of inspections. The results show the importance of methodological and empirical software engineering research.
+##  S8.3: Modern Programming Languages
+Session Chairs: _Mary Lou Soffa, University of Pittsburgh and Barbara Ryder, Rutgers University_ Discussants: _Mary Shaw (CMU), Barbara Liskov (MIT), Michael S. Mahoney (Princeton)_ In this panel, we will discusses the goals, challenges and methodology of our project, which has as its overall goal the documentation of the impact of software engineering research on commonly used programming languages. In accomplishing our overall goal, there are a number of challenges that must be addressed. The synergy between software engineering research and programming language design strengthens both fields, but also renders attribution of some specific contributions difficult. Another challenge is differentiating between the contributions of software engineering research and software engineering practice, since both have influenced the design of programming languages. Finding primary sources to document the influence of software engineering research presents an additional challenge. Not only are research publications needed to determine this impact, but also oral histories of software engineering practice are necessary, since this information is not usually available in written form. Our study will focus on a selected set of currently used languages, including Java, C++, Ada, and Perl - and some of their significant concepts. We will describe the methodology that we have developed for this study. We will also present some of the preliminary results of our work to date.
+##  S10.3: Configuration Management
+Session Chair: _Jacky Estublier, Grenoble University_ Contributors:  
+  
+**Jacky Estublier** , Grenoble University  
+**David Leblang** and **Geoffrey Clemm** , Rational Software  
+**Reider Conradi** , NTNU **André van der Hoek** , University of California, Irvine  
+**Walter Tichy** , University Karlsruhe  
+**Darcy Wiborg-Weber** , Telelogic Software configuration management (SCM) is the discipline of controlling changes in large and complex systems. Its goal is to prevent the chaos caused by numerous corrections, extensions, and adaptations that are applied to any large system over its lifetime. There is no need to demonstrate the success of SCM, which is now an established discipline, considered by all as key for the success of any large software development. As a consequence the market of SCM tools is over 1 Billion dollars and increases pretty fast (23% in 2000). The SCM Impact group is built upon some of the major academic and industrial players in the field for at least the two last decades. The goal of the impact group being to analyse the factors that made SCM a scientific and industrial success with large impact on the everyday software engineer practice; more specifically to asses the role played by research (both academic and corporate research) in this success story. During the preparation of the report, the authors struggled to define what impact and which research to include, but discovered quickly that it is futile to determine who contributed "more", academia or industry. This session gives first an account of the lively debate that occurred among the authors. Then this session, following the full report produced by the group, presents a picture of the major research ideas in SCM and show where the ideas have had, or failed to have, an impact, irrespective of whether the ideas originated in industry or academia.  |  
+* * *  
+| !  |  
+| --- |  
+|  ! ! ! !  |  
+| © ACM SIGSOFT, 2000-2002. Website Maintainer: . Last Updated: 05/10/2002; 8:58:38 AM  |
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Conference Updates<button>
+<button>Overview<button>
+<button>Technical Papers<button>
+<button>Conference Keynotes<button>
+<button>Tutorials<button>
+<button>Workshops<button>
+<button>Industry Presentations<button>
+<button>State-of-the-Art Presentations<button>
+<button>Doctoral Symposium<button>
+<button>Panels<button>
+<button>Co-Located Events<button>
+<button>Posters and Demos<button>
+<button>Exhibitors<button>
+<button>Types of Submissions<button>
+<button>Student Volunteers<button>
+<button>Program At-A-Glance!<button>
+<button>Conference Meetings<button>
+<button>Conference Committee<button>
+<button>Program Committee<button>
+<button>Sponsors and Supporters<button>
+<button>Advice for Newcomers<button>
+<button>Overview<button>
+<button>Overview<button>
+<button>Discount Airfares<button>
+<button>Discount Airport Shuttle<button>
+<button>Discount Theme Park Tickets<button>
+<button>Securing a Visa<button>
+<button>Spouse Program<button>
+<button>ICSE 5K Run<button>
+<button>Other ICSE Conferences<button>
+
+----- WebWalker -----
+Memory:
+The observation mentions that preliminary information on industry, state-of-the-art, and IMPACT presentations is now available. This indicates that the IMPACT project was presented at ICSE 2002, but it does not provide the names of the scholars who presented it.
+-The scholars who presented the IMPACT project on safety-critical systems and software inspections, reviews, and walkthroughs at the ICSE 2002 conference are Marcus Ciolkowski, Oliver Laitenberger, Dieter Rombach, and Forrest Shull.
+"}
+
+----- WebWalker -----
+Final Answer: The scholars who presented the IMPACT project on safety-critical systems and software inspections, reviews, and walkthroughs at the ICSE 2002 conference are Marcus Ciolkowski, Oliver Laitenberger, Dieter Rombach, and Forrest Shull.

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0484_f1a77a8b62ec",
+  "source_index": 484,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "作为北京邮电大学计算机学院副院长，赵东的研究方向包括哪些，并且他作为发明人的某个专利名称是什么？",
+  "prompt": "作为北京邮电大学计算机学院副院长，赵东的研究方向包括哪些，并且他作为发明人的某个专利名称是什么？",
+  "expected_answer": "研究方向：智能物联网和群智感知计算，专利名称：一种安全的主动式图像篡改检测方法及装置",
+  "root_url": "https://scs.bupt.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scs.bupt.edu.cn/info/1009/3657.htm",
+      "https://scs.bupt.edu.cn/info/1027/1797.htm"
+    ],
+    "golden_path": [
+      "root->学院领导->赵 东",
+      "root->科研学术->专利2019-01-24"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "赵东的研究方向包括网络与信息安全、匿名通信与隐私保护、区块链技术、安全软件工程。他作为发明人的某个专利名称是‘一种基于区块链的隐私保护方法及系统’。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 21.778,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0484_f1a77a8b62ec/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0484_f1a77a8b62ec/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: ",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

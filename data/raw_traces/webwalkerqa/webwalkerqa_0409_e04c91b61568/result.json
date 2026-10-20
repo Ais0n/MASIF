@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0409_e04c91b61568",
+  "source_index": 409,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "尼高品牌网络在2024年下半年参与并完成的两个主要合作项目分别是哪两个公司？",
+  "prompt": "尼高品牌网络在2024年下半年参与并完成的两个主要合作项目分别是哪两个公司？",
+  "expected_answer": "深圳市积加跨境网络科技有限公司和广州光达创新科技有限公司",
+  "root_url": "https://www.niegoweb.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.niegoweb.com/newsdetail-5-51-2588-1.html",
+      "https://www.niegoweb.com/newsdetail-5-51-2633-1.html"
+    ],
+    "golden_path": [
+      "root->跨境电商服务网站开发-签约积加官网建设",
+      "root->广州光达创新官网上线-半导体官网建设"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "尼高品牌网络在2024年下半年参与并完成的两个主要合作项目分别是深圳盛齐能源技术有限公司的品牌官网建设项目和中东origin品牌官网建设项目。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 28.613,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0409_e04c91b61568/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0409_e04c91b61568/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

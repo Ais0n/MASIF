@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0142_30ccc8448c49",
+  "source_index": 142,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "武汉理工大学计算机与人工智能学院在2024年10月19日至20日的乒乓球比赛中是以小组第几名出线的，并最终获得了什么奖项？",
+  "prompt": "武汉理工大学计算机与人工智能学院在2024年10月19日至20日的乒乓球比赛中是以小组第几名出线的，并最终获得了什么奖项？",
+  "expected_answer": "小组第二名出线，最终获得乙组冠军",
+  "root_url": "http://cst.whut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cst.whut.edu.cn/xyxw/202410/t20241025_1288445.shtml"
+    ],
+    "golden_path": [
+      "root->【工会活动】计算机与人工智能学院勇夺乒乓球赛乙组冠军"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 5,
+  "duration_seconds": 15.362,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0142_30ccc8448c49/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0142_30ccc8448c49/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

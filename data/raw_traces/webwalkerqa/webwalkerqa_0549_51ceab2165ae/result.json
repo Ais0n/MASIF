@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0549_51ceab2165ae",
+  "source_index": 549,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What was a significant advancement achieved by the Materials Research Society (MRS) under Todd M. Osman's leadership with Sabrina Sartori as president in 2023?",
+  "prompt": "What was a significant advancement achieved by the Materials Research Society (MRS) under Todd M. Osman's leadership with Sabrina Sartori as president in 2023?",
+  "expected_answer": "MRS enhanced its global collaboration efforts and focused on achieving diversity, equity, and inclusion (DEI) goals in 2023.",
+  "root_url": "https://www.mrs.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.mrs.org/discover-mrs/about-mrs/contact-us/executive-staff#Todd M. Osman",
+      "https://www.mrs.org/discover-mrs/about-mrs/our-society/annual-reports/2023-annual-report"
+    ],
+    "golden_path": [
+      "root->About MRS->available here->Todd Osman",
+      "root->About MRS->ANNUAL REPORTS->Year In Review"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "A significant advancement achieved by the Materials Research Society (MRS) under Todd M. Osman's leadership with Sabrina Sartori as president in 2023 was the 2023 MRS Fall Meeting & Exhibit, which marked MRS's 50th anniversary and showcased leading interdisciplinary research in materials science.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 5,
+  "duration_seconds": 72.942,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0549_51ceab2165ae/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0549_51ceab2165ae/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

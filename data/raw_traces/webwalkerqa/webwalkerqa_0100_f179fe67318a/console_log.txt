@@ -1,0 +1,4024 @@
+----- user -----
+query:
+H3C 100W充电器满足哪些国际认证，并且相关的H3CIE-SDN认证课程将在何时举办？
+official website:
+https://www.h3c.com/cn/
+Observation:website information:
+
+登录
+欢迎user
+  *     1. 已有账号
+    2. 还没有账号？
+简体中文
+          
+](
+  * 产品与解决方案
+  * 行业解决方案
+  * 服务
+  * 支持
+  * 合作伙伴
+  * 关于我们
+ ;)
+  * 产品与解决方案 < 返回
+    * 云与智能
+## 
+                                                      ### 热门推荐
+    * 智能联接
+## 
+                        * * *
+                              ### 热门推荐 
+ 智算网络解决方案 ]( 
+    新华三智算网络解决方案通过灵活多样的组网方式与全场景网络调优技术，满足不同规模与场景下日益严苛的智算中心算力互联需求，兼具创新的DDC架构与经典以太架构，全面提升对多元异构算力的网络承载能力。 
+ 新华三全光网络5.0解决方案 ]( 
+    坚持“以太光+PON”融合发展路线，创新引入多通道技术，率先实现以太光与PON在无源架构层的一体化融合。
+    * 智慧计算
+## 
+#### H3C服务器
+                                    * * *
+#### HPE服务器
+                                    ### 热门推荐
+    * 智慧存储
+## 
+#### H3C存储
+                                                * * *
+#### HPE存储
+                                          ### 热门推荐
+    * 商用PC
+## 
+#### 商用台式机
+                                                                                                            #### 商用笔记本
+                                          #### 商用显示器
+                                    #### 配件
+                                  * 主动安全
+## 
+                                                      * * *
+                                                      ### 热门推荐 
+ 智算安全解决方案 ]( 
+    瞄准智算时代全新安全威胁，构建覆盖算力防护、模型安全、数据安全的全栈式安全防护体系，为用户业务变革与产业结构升级提供强劲智能。 
+ 可信数据空间安全解决方案 ]( 
+    严格依据国家标准，聚焦数据场景化流通与应用，打造坚实的数据流通基础设施与运营体系，确保可信数据空间平稳落地及运行。
+    * Aolynk产品
+## 
+    * 统一运维
+## 
+                                    ### 热门推荐
+                              *  
+ AIO一站式运维管理服务 ]( 
+    面向异构ICT基础架构提供一站式运维管理服务，为客户承担对应的IT服务质量和管理绩效，带动客户全面提升IT的整体服务管理水平。
+    * 智能终端
+## 智能终端
+                            * 灵犀智算
+## 
+                                  * 技术解决方案
+## 技术解决方案
+                        * 行业解决方案 < 返回
+    * 行业解决方案
+## 
+                                                                        ### 热门推荐 
+ 如何快速有效提升县域医疗水平? ]( 
+    从县域医院数字化转型需求出发，新华三推出与实际应用场景紧密结合的智慧医院解决方案，提升县医院综合能力，助力县域内医疗资源整合共享。 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+  * 服务 < 返回
+    * **技术服务解决方案**
+## 
+### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 架构咨询
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * H3C TaaS服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 统一运维
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 数据中心
+## 
+            * /)
+                        ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云与智能服务
+## 
+                              ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 安全服务与运营
+## 
+#### 专业安全服务
+                              * * *
+#### 安全运营服务
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * **产品支持服务**
+    * 技术维护服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云软件技术支持服务
+## 
+            ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 智能终端服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 商用终端服务  
+（台式机 笔记本 显示器）
+## [商用终端服务  
+（台式机 笔记本 显示器）](
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+      * 支持 < 返回
+    * 服务支持中心
+## 
+#### 技术支持
+            * [在线技术支持  
+(服务器及存储)](
+      * [商用终端在线客服  
+（台式机及笔记本）](
+                        #### 自助服务
+                                                    ## 
+###  
+ 第15届新华三杯 ]( 
+    ## 
+                  *                                                                                                                                                                                                             ## 
+    ## 
+                                        * 政策动态
+## 
+                                  * 技术博客
+## 
+  * 合作伙伴 < 返回
+    * 成为合作伙伴
+## 
+                        ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 已成为合作伙伴
+## 
+                              ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴资源中心
+## 
+                                    ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴培训与认证
+## 合作伙伴培训与认证
+                  ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 解决方案联盟
+## 
+            ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+      * 关于我们 < 返回
+    * 公司概况
+## 
+                                                    * 公司动态
+## 
+                            * 公司刊物
+## 公司刊物
+          * 联系我们
+## 
+                                              * 加入我们
+## 加入我们
+                                  欢迎user
+  *                 
+# 数字领航智绘未来
+基于DDC架构的  
+新一代无损网络方案
+开放解耦、极致性能、超大规模、极简运维  
+直面万卡级算力互联场景需求，构建100%无阻塞智算网络 
+](
+ ](
+虚拟化替代  
+就选H3C CAS
+H3C CAS一体化算力平台
+](
+LinSeer MegaCube  
+× OpenClaw
+免费预装 | 122B本地大模型 | 数据安全
+](
+H3C UniPoD超节点
+算力×联接全新典范 突破8卡互联桎梏
+](
+基于DDC架构的  
+新一代无损网络方案
+开放解耦、极致性能、超大规模、极简运维  
+直面万卡级算力互联场景需求，构建100%无阻塞智算网络 
+](
+  *  智慧计算 ](
+  *  智能联接 ](
+  *  案例中心 ](
+  *  文档中心 ](
+  *  软件下载 ](
+  * ###  ](
+  * ###  ](
+  * ###  ](
+  
+### 
+  
+### 
+  
+### 
+!
+## 《数字化领航》“智·跃迁”专刊
+解构最前沿的智能体工程核心技术，驱动百行百业价值跃迁与场景进化
+!
+!
+## 《数字化领航》“算力×联接”专刊
+揭秘支持Token高效生产的“智原生”基础设施，深度解析全栈协同的关键技术革新
+!
+!
+## 城市数字化发展指数2025  
+重磅发布
+用数据记录城市数字化变革
+!_1739517_30002_0.jpg)
+  * “智·跃迁”专刊
+  * “算力×联接”专刊
+  * 城市发展指数
+! !
+## 聚合 · 智跃迁
+新华三充分发挥“算力×联接”的乘数效应，以开放创新聚合算力、数据、大模型、生态，全面释放AI效能，让产品和解决方案更智能（AI in ALL），让客户应用更智慧（AI for ALL），加速百行百业智跃迁。
+##### 如何购买
+    
+##### 关于新华三
+          
+  
+##### 联系新华三
+    
+##### 常用链接
+          
+##### 友情链接
+      
+##### 关注新华三
+  * ](
+! 官方微信
+  * ](
+! 视频号
+  * ](
+! 官方头条
+  * ](
+! 官方抖音号：新华三
+  * ](
+! 官方微博
+版权所有 2003-2026 新华三技术有限公司.保留一切权利.  ! 
+        
+!
+;)
+  * ## 联系我们
+  * 售前咨询 
+ 提交项目需求 ](
+ 售前在线咨询 ](
+售后咨询 
+    
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。 ](javascript:void\(0\))
+
+
+clickable button:
+
+<button>新华三<button>
+<button>退出<button>
+<button>登录<button>
+<button>注册<button>
+<button>简体中文<button>
+<button>云与智能<button>
+<button>云操作系统<button>
+<button>虚拟化<button>
+<button>超融合<button>
+<button>桌面云<button>
+<button>大数据<button>
+<button>数据库<button>
+<button>人工智能<button>
+<button>智慧城市<button>
+<button>工业互联网<button>
+<button>智能联接<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>园区网络<button>
+<button>Cloudnet云管网络<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线局域网<button>
+<button>网络管控析软件<button>
+<button>操作系统<button>
+<button>智算网络解决方案<button>
+<button>新华三全光网络5.0解决方案<button>
+<button>智慧计算<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>弹性塑合计算<button>
+<button>关键业务计算<button>
+<button>服务器智能管理平台<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>关键业务计算<button>
+<button>弹性塑合计算<button>
+<button>服务器智能管理平台<button>
+<button>智慧存储<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>分布式存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>存储网络设备<button>
+<button>AI数据平台<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>高密度存储型服务器<button>
+<button>存储网络设备<button>
+<button>商用PC<button>
+<button>H3CDesk X700s G2<button>
+<button>H3CDesk X700t G2<button>
+<button>H3CDesk X500s G2<button>
+<button>H3CDesk X500t G2<button>
+<button>H3CDesk D500s G2<button>
+<button>H3CDesk D500t G2<button>
+<button>H3CDesk X700s<button>
+<button>H3CDesk X700t<button>
+<button>H3CDesk X500s<button>
+<button>H3CDesk X500t<button>
+<button>H3CDesk D500s<button>
+<button>H3CDesk D500t<button>
+<button>H3C D5-030s<button>
+<button>H3C D5-030t<button>
+<button>H3C X5-030s<button>
+<button>H3C X5-030t<button>
+<button>H3C X5-020t<button>
+<button>H3C X7-030s<button>
+<button>H3CBook Ultra 14T G3<button>
+<button>H3CBook Pro 14<button>
+<button>H3CBook Pro 14 G2<button>
+<button>H3CBook Ultra 14<button>
+<button>H3CBook Ultra 14T<button>
+<button>H3CBook 14<button>
+<button>H3C Z6-410<button>
+<button>H3C M8-271U<button>
+<button>H3C M4-271Q<button>
+<button>H3C M4-271F<button>
+<button>H3C M4-221F<button>
+<button>H3C M4-245F<button>
+<button>H3C M4-242FD<button>
+<button>H3CSound D732多功能会议终端<button>
+<button>H71P USB-C多功能扩展坞<button>
+<button>H3C M521W无线双模鼠标<button>
+<button>H3C M721W轻音无线双模鼠标<button>
+<button>H3C 100W快速充电器<button>
+<button>主动安全<button>
+<button>智算安全解决方案<button>
+<button>可信数据空间安全解决方案<button>
+<button>新华三国产化安全<button>
+<button>AD-WAN安全解决方案<button>
+<button>零信任安全解决方案<button>
+<button>云安全解决方案<button>
+<button>商用密码应用安全性评估解决方案<button>
+<button>数据安全解决方案<button>
+<button>安全大脑解决方案<button>
+<button>边界安全<button>
+<button>应用安全<button>
+<button>数据安全<button>
+<button>密码安全<button>
+<button>工控安全<button>
+<button>终端安全<button>
+<button>安全管理<button>
+<button>安全检测与审计<button>
+<button>云安全<button>
+<button>Aolynk产品<button>
+<button>统一运维<button>
+<button>IT服务管理咨询<button>
+<button>AIO一站式运维管理服务<button>
+<button>SDService-NSD网络自服务解决方案<button>
+<button>U-Center统一运维平台<button>
+<button>业务运维服务<button>
+<button>数据中心绿色节能<button>
+<button>TMMi咨询认证服务<button>
+<button>维保服务<button>
+<button>业务连续性和容灾<button>
+<button>数据中心迁移服务<button>
+<button>MegaCube<button>
+<button>MegaBook<button>
+<button>Magic家用网络<button>
+<button>MagicHub云屏<button>
+<button>灵犀智算<button>
+<button>LinSeer Cube一体机<button>
+<button>百业灵犀私域大模型<button>
+<button>灵犀使能平台<button>
+<button>LinSeer ICT智能体<button>
+<button>灵犀AI助手<button>
+<button>SeerFabric智能无损数据中心解决方案<button>
+<button>场站边缘解决方案<button>
+<button>计算存储企业级解决方案<button>
+<button>查看所有<button>
+<button>行业解决方案<button>
+<button>运营商<button>
+<button>零碳智慧园区<button>
+<button>企业<button>
+<button>政府<button>
+<button>金融<button>
+<button>医疗<button>
+<button>交通<button>
+<button>互联网<button>
+<button>教育<button>
+<button>电力能源<button>
+<button>广电<button>
+<button>中小企业<button>
+<button>合作伙伴营销资料平台上线<button>
+<button>技术服务解决方案<button>
+<button>云与智能服务<button>
+<button>微模块解决方案<button>
+<button>架构咨询<button>
+<button>IT基础架构咨询<button>
+<button>网络架构咨询<button>
+<button>数据中心迁移<button>
+<button>业务连续性/容灾咨询<button>
+<button>容灾管理系统<button>
+<button>轻量化服务<button>
+<button>H3C TaaS服务<button>
+<button>测试体系咨询<button>
+<button>测试平台建设<button>
+<button>专业测试服务<button>
+<button>数据中心<button>
+<button>数字化数据中心（BIM）<button>
+<button>咨询<button>
+<button>设计<button>
+<button>实施<button>
+<button>验证及运维<button>
+<button>云集成服务<button>
+<button>云迁移服务<button>
+<button>云运维服务<button>
+<button>云运营服务<button>
+<button>大数据服务<button>
+<button>安全服务与运营<button>
+<button>教育培训<button>
+<button>攻防对抗<button>
+<button>工程实施<button>
+<button>咨询规划<button>
+<button>风险评估<button>
+<button>威胁检测与响应服务MDR<button>
+<button>安全托管服务MSS<button>
+<button>安全SaaS服务<button>
+<button>技术维护服务<button>
+<button>基础技术维护服务<button>
+<button>主动式技术维护服务<button>
+<button>ICT专业技术运维服务<button>
+<button>云软件技术支持服务<button>
+<button>大数据软件技术支持服务<button>
+<button>云计算软件技术支持服务<button>
+<button>智能终端服务<button>
+<button>MegaBook等计算机平板服务<button>
+<button>全屋网络、家庭路由器等网络类产品服务<button>
+<button>云屏产品服务<button>
+<button>商用终端服务（台式机 笔记本 显示器）<button>
+<button>更多服务支持<button>
+<button>产品资料下载<button>
+<button>驱动程序下载<button>
+<button>服务政策查询<button>
+<button>服务产品查询<button>
+<button>服务网点查询<button>
+<button>服务商认证<button>
+<button>服务支持中心<button>
+<button>iService<button>
+<button>在线技术支持(服务器及存储)<button>
+<button>智能终端在线客服<button>
+<button>新华三服务APP<button>
+<button>产品生命周期<button>
+<button>安全通告<button>
+<button>已知问题查询<button>
+<button>软件授权有效期文件<button>
+<button>设备升级码查询<button>
+<button>第15届新华三杯<button>
+<button>文档中心<button>
+<button>高级搜索<button>
+<button>云计算<button>
+<button>大数据<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线<button>
+<button>物联网<button>
+<button>安全<button>
+<button>光模块<button>
+<button>网络管控析软件<button>
+<button>智能运维产品<button>
+<button>服务器<button>
+<button>存储<button>
+<button>PON<button>
+<button>ICG信息通信<button>
+<button>EPCN网关<button>
+<button>License Server<button>
+<button>其它产品<button>
+<button>智能终端<button>
+<button>传输产品<button>
+<button>云简网络<button>
+<button>商用终端<button>
+<button>AIGC<button>
+<button>Aolynk产品<button>
+<button>磐宁NingOS<button>
+<button>移动通信<button>
+<button>软件下载<button>
+<button>工具专区<button>
+<button>H3C个人资料库<button>
+<button>规划设计工具<button>
+<button>安装工具<button>
+<button>配置工具<button>
+<button>维护工具<button>
+<button>政策动态<button>
+<button>服务公告<button>
+<button>服务政策<button>
+<button>服务新闻<button>
+<button>维保服务说明<button>
+<button>合作伙伴服务标准<button>
+<button>技术博客<button>
+<button>成为合作伙伴<button>
+<button>加盟新华三<button>
+<button>星级服务资质认证标准<button>
+<button>售前资质认证标准<button>
+<button>合作伙伴手册<button>
+<button>2026新华三合作伙伴技术大比武正式启幕<button>
+<button>已成为合作伙伴<button>
+<button>合作伙伴查询<button>
+<button>政策与公告<button>
+<button>快易通<button>
+<button>稽核反馈<button>
+<button>合作伙伴资源中心<button>
+<button>产品与方案中心<button>
+<button>营销资料下载中心<button>
+<button>技术服务BOM产品说明书<button>
+<button>技术资料查询<button>
+<button>售前能力认证<button>
+<button>解决方案联盟<button>
+<button>解决方案合作伙伴认证申请<button>
+<button>技术方案联盟<button>
+<button>合作伙伴官网<button>
+<button>公司概况<button>
+<button>公司简介<button>
+<button>总裁寄语<button>
+<button>管理团队<button>
+<button>发展历史<button>
+<button>焦点时刻<button>
+<button>ESG可持续发展<button>
+<button>领航者文化<button>
+<button>公司视频<button>
+<button>公司动态<button>
+<button>公司新闻<button>
+<button>案例中心<button>
+<button>品牌活动<button>
+<button>数字化领航直播间<button>
+<button>《数字化领航》<button>
+<button>联系我们<button>
+<button>公司总部<button>
+<button>集团代表处<button>
+<button>媒体联络<button>
+<button>意见反馈<button>
+<button>采购公告<button>
+<button>如何购买<button>
+<button>在线举报<button>
+<button>查看所有<button>
+<button>案例中心New<button>
+<button>数字化领航直播间<button>
+<button>云上展厅<button>
+<button>登录<button>
+<button>China - 简体中文<button>
+<button>了解详情<button>
+<button>获取免费试用<button>
+<button>了解详情<button>
+<button>了解详情<button>
+<button>灵犀智算解决方案以全栈领先的灵犀智算解决方案，充分发挥算力×联接（算力乘联接）的倍增效应，锚定“1+N”大模型策略，即百业灵犀私域大模型+N个优选生态大模型。<button>
+<button>Aolynk产品新华三Aolynk产品面向中小企业用户，以高效、可靠、简约的产品及网络解决方案，提供用户丝滑极‘简’体验，畅享非‘凡’品质<button>
+<button>灵犀使能平台依托全栈AI能力，通过AI基础服务、数据工程服务、模型训练、模型推理、模型评估、应用服务和数字资产管理构建起覆盖大模型全生命周期的一站式AI业务平台。<button>
+<button>LinSeer Cube大模型一体机“智算-算法-治理”深度耦合的DeepSeek大模型一体机解决方案<button>
+<button>了解更多<button>
+<button>以质立信 智创未来《新华三质量管理方法白皮书》正式发布<button>
+<button>了解更多<button>
+<button>了解更多<button>
+<button>提交项目需求<button>
+<button>隐私政策<button>
+<button>版权声明<button>
+<button>网站地图<button>
+<button>售前在线咨询<button>
+<button>获取更多支持与服务<button>
+<button>网站意见与建议<button>
+<button>Cookies和隐私政策><button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到关于H3C 100W充电器的国际认证信息以及H3CIE-SDN认证课程的举办时间。首先，我应该点击“H3C 100W快速充电器”按钮来获取相关产品信息。
+
+Action: visit_page
+Action Input: {"button": "H3C 100W快速充电器"}
+
+----- VisitPage -----
+The web information is:
+
+登录
+欢迎user
+  *     1. 已有账号
+    2. 还没有账号？
+简体中文
+          
+](
+  * 产品与解决方案
+  * 行业解决方案
+  * 服务
+  * 支持
+  * 合作伙伴
+  * 关于我们
+ ;)
+  * 产品与解决方案 < 返回
+    * 云与智能
+## 
+                                                      ### 热门推荐
+    * 智能联接
+## 
+                        * * *
+                              ### 热门推荐 
+ 智算网络解决方案 ]( 
+    新华三智算网络解决方案通过灵活多样的组网方式与全场景网络调优技术，满足不同规模与场景下日益严苛的智算中心算力互联需求，兼具创新的DDC架构与经典以太架构，全面提升对多元异构算力的网络承载能力。 
+ 新华三全光网络5.0解决方案 ]( 
+    坚持“以太光+PON”融合发展路线，创新引入多通道技术，率先实现以太光与PON在无源架构层的一体化融合。
+    * 智慧计算
+## 
+#### H3C服务器
+                                    * * *
+#### HPE服务器
+                                    ### 热门推荐
+    * 智慧存储
+## 
+#### H3C存储
+                                                * * *
+#### HPE存储
+                                          ### 热门推荐
+    * 商用PC
+## 
+#### 商用台式机
+                                                                                                            #### 商用笔记本
+                                          #### 商用显示器
+                                    #### 配件
+                                  * 主动安全
+## 
+                                                      * * *
+                                                      ### 热门推荐 
+ 智算安全解决方案 ]( 
+    瞄准智算时代全新安全威胁，构建覆盖算力防护、模型安全、数据安全的全栈式安全防护体系，为用户业务变革与产业结构升级提供强劲智能。 
+ 可信数据空间安全解决方案 ]( 
+    严格依据国家标准，聚焦数据场景化流通与应用，打造坚实的数据流通基础设施与运营体系，确保可信数据空间平稳落地及运行。
+    * Aolynk产品
+## 
+    * 统一运维
+## 
+                                    ### 热门推荐
+                              *  
+ AIO一站式运维管理服务 ]( 
+    面向异构ICT基础架构提供一站式运维管理服务，为客户承担对应的IT服务质量和管理绩效，带动客户全面提升IT的整体服务管理水平。
+    * 智能终端
+## 智能终端
+                            * 灵犀智算
+## 
+                                  * 技术解决方案
+## 技术解决方案
+                        * 行业解决方案 < 返回
+    * 行业解决方案
+## 
+                                                                        ### 热门推荐 
+ 如何快速有效提升县域医疗水平? ]( 
+    从县域医院数字化转型需求出发，新华三推出与实际应用场景紧密结合的智慧医院解决方案，提升县医院综合能力，助力县域内医疗资源整合共享。 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+  * 服务 < 返回
+    * **技术服务解决方案**
+## 
+### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 架构咨询
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * H3C TaaS服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 统一运维
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 数据中心
+## 
+            * /)
+                        ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云与智能服务
+## 
+                              ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 安全服务与运营
+## 
+#### 专业安全服务
+                              * * *
+#### 安全运营服务
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * **产品支持服务**
+    * 技术维护服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云软件技术支持服务
+## 
+            ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 智能终端服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 商用终端服务  
+（台式机 笔记本 显示器）
+## [商用终端服务  
+（台式机 笔记本 显示器）](
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+      * 支持 < 返回
+    * 服务支持中心
+## 
+#### 技术支持
+            * [在线技术支持  
+(服务器及存储)](
+      * [商用终端在线客服  
+（台式机及笔记本）](
+                        #### 自助服务
+                                                    ## 
+###  
+ 第15届新华三杯 ]( 
+    ## 
+                  *                                                                                                                                                                                                             ## 
+    ## 
+                                        * 政策动态
+## 
+                                  * 技术博客
+## 
+  * 合作伙伴 < 返回
+    * 成为合作伙伴
+## 
+                        ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 已成为合作伙伴
+## 
+                              ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴资源中心
+## 
+                                    ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴培训与认证
+## 合作伙伴培训与认证
+                  ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 解决方案联盟
+## 
+            ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+      * 关于我们 < 返回
+    * 公司概况
+## 
+                                                    * 公司动态
+## 
+                            * 公司刊物
+## 公司刊物
+          * 联系我们
+## 
+                                              * 加入我们
+## 加入我们
+                                  欢迎user
+  *                 
+! !
+H3C 100W快速充电器（100W MAX）
+## 高效三接口 充电多面手
+  * !强劲输出 
+  * !以一抵三 
+  * !多种协议 
+  * !精巧便携 
+  * 了解产品
+  * 规格参数
+### 规格参数     
+#### 品牌
+H3C     
+#### 输入标称电压
+AC 100-240V     
+#### 输入标称频率
+50/60Hz     
+#### 输出电压/电流/功率
+单口输出：USB-C1/C2：5V⎓3A或9V⎓3A或12V⎓3A或15V⎓3A或20V⎓5A（100W Max）  
+USB-A：5V⎓3A或9V⎓2A或12V⎓1.5A（18W Max）  
+双口输出：C1+C2：60W+20W（80W Max）  
+C1+A：60W+18W（78W Max）  
+C2+A：60W+18W（78W Max）  
+三口输出：C1+C2+A：30W+30W+18W（78W Max）      
+#### 产品尺寸
+65.8 x 67.5 x 29.0mm      
+#### 产品净重 
+216g      
+#### 附件
+USB-C to USB-C（5A）电源线，2米 
+*i5、i7处理器搭载Intel Iris Xe集显 
+*具体配置以实际下单为准。  
+本页面中产品示意图片和描述仅供参考使用。由于产品批次和生产供应因素实时变化，为尽可能提供准确的产品信息和规格参数等信息，我司可能会更改本页面内容，恕不另行通知。 
+GaN（氮化镓）更小、更轻、更高效
+GaN是一种新型半导体材料。具有超强的导热效率、耐高温和耐酸碱等特性，最终令充电器不仅可以做到小体积和轻重量，在充电功率转换上相比同功率充电器（非GaN ）更具优势。 
+!
+GaN（氮化镓）  
+更小、更轻、更高效
+GaN是一种新型半导体材料。具有超强的导热效率、耐高温和耐酸碱等特性，最终令充电器不仅可以做到小体积和轻重量，在充电功率转换上相比同功率充电器（非GaN ）更具优势。 
+!
+双认证
+! !
+!
+CCC认证 
+CCC认证 
+!
+CQC认证 
+CQC认证 
+!
+中国双认证电源 
+中国双认证电源 
+!
+!
+H3C 100W氮化镓充电器通过CCC和CQC双重认证。  
+“双认证”代表更严苛的安全性能。 
+三接口快充 
+澎湃动力助力轻松应对各种挑战  
+多个设备，一充搞定 
+!
+三接口快充 
+澎湃动力助力轻松应对各种挑战  
+多个设备，一充搞定 
+!
+多重安全保护
+智能匹配接入设备电流，  
+呵护电池。  
+全方位保障充电安全，  
+高效更安心。 
+  * ! !
+过压保护 
+  * ! !
+过流保护 
+  * ! !
+短路保护 
+  * ! !
+过功率保护 
+  * ! !
+静电保护 
+  * ! !
+温度保护 
+!
+支持多种快充协议
+智能匹配快充协议，  
+兼容性广。 
+! !
+!
+SAMSUNG5-2A
+!
+SAMSUNG-AFC
+!
+APPLE2.4A
+!
+QC
+!
+PD3.0
+!
+HUAWEI-SCP
+!
+PPS
+精巧外形 便于收纳携带 
+精巧外形  
+便于收纳携带 
+商务办公更高效干练  
+出差旅行更轻松从容 
+!
+精巧外形 便于收纳携带 
+精巧外形  
+便于收纳携带 
+商务办公更高效干练  
+出差旅行更轻松从容 
+!
+标配一条2m 5A充电线
+更长充电线，  
+更人性，  
+更便捷，  
+满足更多场景使用需求。 
+!
+##### 如何购买
+    
+##### 关于新华三
+          
+  
+##### 联系新华三
+    
+##### 常用链接
+          
+##### 友情链接
+      
+##### 关注新华三
+  * ](
+! 官方微信
+  * ](
+! 视频号
+  * ](
+! 官方头条
+  * ](
+! 官方抖音号：新华三
+  * ](
+! 官方微博
+版权所有 2003-2026 新华三技术有限公司.保留一切权利.  ! 
+        
+!
+;)
+  * ## 联系我们
+  * 售前咨询 
+ 提交项目需求 ](
+ 售前在线咨询 ](
+售后咨询 
+    
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。 ](javascript:void\(0\))
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新华三<button>
+<button>退出<button>
+<button>登录<button>
+<button>注册<button>
+<button>简体中文<button>
+<button>云与智能<button>
+<button>云操作系统<button>
+<button>虚拟化<button>
+<button>超融合<button>
+<button>桌面云<button>
+<button>大数据<button>
+<button>数据库<button>
+<button>人工智能<button>
+<button>智慧城市<button>
+<button>工业互联网<button>
+<button>智能联接<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>园区网络<button>
+<button>Cloudnet云管网络<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线局域网<button>
+<button>网络管控析软件<button>
+<button>操作系统<button>
+<button>智算网络解决方案<button>
+<button>新华三全光网络5.0解决方案<button>
+<button>智慧计算<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>弹性塑合计算<button>
+<button>关键业务计算<button>
+<button>服务器智能管理平台<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>关键业务计算<button>
+<button>弹性塑合计算<button>
+<button>服务器智能管理平台<button>
+<button>智慧存储<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>分布式存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>存储网络设备<button>
+<button>AI数据平台<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>高密度存储型服务器<button>
+<button>存储网络设备<button>
+<button>商用PC<button>
+<button>H3CDesk X700s G2<button>
+<button>H3CDesk X700t G2<button>
+<button>H3CDesk X500s G2<button>
+<button>H3CDesk X500t G2<button>
+<button>H3CDesk D500s G2<button>
+<button>H3CDesk D500t G2<button>
+<button>H3CDesk X700s<button>
+<button>H3CDesk X700t<button>
+<button>H3CDesk X500s<button>
+<button>H3CDesk X500t<button>
+<button>H3CDesk D500s<button>
+<button>H3CDesk D500t<button>
+<button>H3C D5-030s<button>
+<button>H3C D5-030t<button>
+<button>H3C X5-030s<button>
+<button>H3C X5-030t<button>
+<button>H3C X5-020t<button>
+<button>H3C X7-030s<button>
+<button>H3CBook Ultra 14T G3<button>
+<button>H3CBook Pro 14<button>
+<button>H3CBook Pro 14 G2<button>
+<button>H3CBook Ultra 14<button>
+<button>H3CBook Ultra 14T<button>
+<button>H3CBook 14<button>
+<button>H3C Z6-410<button>
+<button>H3C M8-271U<button>
+<button>H3C M4-271Q<button>
+<button>H3C M4-271F<button>
+<button>H3C M4-221F<button>
+<button>H3C M4-245F<button>
+<button>H3C M4-242FD<button>
+<button>H3CSound D732多功能会议终端<button>
+<button>H71P USB-C多功能扩展坞<button>
+<button>H3C M521W无线双模鼠标<button>
+<button>H3C M721W轻音无线双模鼠标<button>
+<button>H3C 100W快速充电器<button>
+<button>主动安全<button>
+<button>智算安全解决方案<button>
+<button>可信数据空间安全解决方案<button>
+<button>新华三国产化安全<button>
+<button>AD-WAN安全解决方案<button>
+<button>零信任安全解决方案<button>
+<button>云安全解决方案<button>
+<button>商用密码应用安全性评估解决方案<button>
+<button>数据安全解决方案<button>
+<button>安全大脑解决方案<button>
+<button>边界安全<button>
+<button>应用安全<button>
+<button>数据安全<button>
+<button>密码安全<button>
+<button>工控安全<button>
+<button>终端安全<button>
+<button>安全管理<button>
+<button>安全检测与审计<button>
+<button>云安全<button>
+<button>Aolynk产品<button>
+<button>统一运维<button>
+<button>IT服务管理咨询<button>
+<button>AIO一站式运维管理服务<button>
+<button>SDService-NSD网络自服务解决方案<button>
+<button>U-Center统一运维平台<button>
+<button>业务运维服务<button>
+<button>数据中心绿色节能<button>
+<button>TMMi咨询认证服务<button>
+<button>维保服务<button>
+<button>业务连续性和容灾<button>
+<button>数据中心迁移服务<button>
+<button>MegaCube<button>
+<button>MegaBook<button>
+<button>Magic家用网络<button>
+<button>MagicHub云屏<button>
+<button>灵犀智算<button>
+<button>LinSeer Cube一体机<button>
+<button>百业灵犀私域大模型<button>
+<button>灵犀使能平台<button>
+<button>LinSeer ICT智能体<button>
+<button>灵犀AI助手<button>
+<button>SeerFabric智能无损数据中心解决方案<button>
+<button>场站边缘解决方案<button>
+<button>计算存储企业级解决方案<button>
+<button>查看所有<button>
+<button>行业解决方案<button>
+<button>运营商<button>
+<button>零碳智慧园区<button>
+<button>企业<button>
+<button>政府<button>
+<button>金融<button>
+<button>医疗<button>
+<button>交通<button>
+<button>互联网<button>
+<button>教育<button>
+<button>电力能源<button>
+<button>广电<button>
+<button>中小企业<button>
+<button>合作伙伴营销资料平台上线<button>
+<button>技术服务解决方案<button>
+<button>云与智能服务<button>
+<button>微模块解决方案<button>
+<button>架构咨询<button>
+<button>IT基础架构咨询<button>
+<button>网络架构咨询<button>
+<button>数据中心迁移<button>
+<button>业务连续性/容灾咨询<button>
+<button>容灾管理系统<button>
+<button>轻量化服务<button>
+<button>H3C TaaS服务<button>
+<button>测试体系咨询<button>
+<button>测试平台建设<button>
+<button>专业测试服务<button>
+<button>数据中心<button>
+<button>数字化数据中心（BIM）<button>
+<button>咨询<button>
+<button>设计<button>
+<button>实施<button>
+<button>验证及运维<button>
+<button>云集成服务<button>
+<button>云迁移服务<button>
+<button>云运维服务<button>
+<button>云运营服务<button>
+<button>大数据服务<button>
+<button>安全服务与运营<button>
+<button>教育培训<button>
+<button>攻防对抗<button>
+<button>工程实施<button>
+<button>咨询规划<button>
+<button>风险评估<button>
+<button>威胁检测与响应服务MDR<button>
+<button>安全托管服务MSS<button>
+<button>安全SaaS服务<button>
+<button>技术维护服务<button>
+<button>基础技术维护服务<button>
+<button>主动式技术维护服务<button>
+<button>ICT专业技术运维服务<button>
+<button>云软件技术支持服务<button>
+<button>大数据软件技术支持服务<button>
+<button>云计算软件技术支持服务<button>
+<button>智能终端服务<button>
+<button>MegaBook等计算机平板服务<button>
+<button>全屋网络、家庭路由器等网络类产品服务<button>
+<button>云屏产品服务<button>
+<button>商用终端服务（台式机 笔记本 显示器）<button>
+<button>更多服务支持<button>
+<button>产品资料下载<button>
+<button>驱动程序下载<button>
+<button>服务政策查询<button>
+<button>服务产品查询<button>
+<button>服务网点查询<button>
+<button>服务商认证<button>
+<button>服务支持中心<button>
+<button>iService<button>
+<button>在线技术支持(服务器及存储)<button>
+<button>智能终端在线客服<button>
+<button>新华三服务APP<button>
+<button>产品生命周期<button>
+<button>安全通告<button>
+<button>已知问题查询<button>
+<button>软件授权有效期文件<button>
+<button>设备升级码查询<button>
+<button>第15届新华三杯<button>
+<button>文档中心<button>
+<button>高级搜索<button>
+<button>云计算<button>
+<button>大数据<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线<button>
+<button>物联网<button>
+<button>安全<button>
+<button>光模块<button>
+<button>网络管控析软件<button>
+<button>智能运维产品<button>
+<button>服务器<button>
+<button>存储<button>
+<button>PON<button>
+<button>ICG信息通信<button>
+<button>EPCN网关<button>
+<button>License Server<button>
+<button>其它产品<button>
+<button>智能终端<button>
+<button>传输产品<button>
+<button>云简网络<button>
+<button>商用终端<button>
+<button>AIGC<button>
+<button>Aolynk产品<button>
+<button>磐宁NingOS<button>
+<button>移动通信<button>
+<button>软件下载<button>
+<button>工具专区<button>
+<button>H3C个人资料库<button>
+<button>规划设计工具<button>
+<button>安装工具<button>
+<button>配置工具<button>
+<button>维护工具<button>
+<button>政策动态<button>
+<button>服务公告<button>
+<button>服务政策<button>
+<button>服务新闻<button>
+<button>维保服务说明<button>
+<button>合作伙伴服务标准<button>
+<button>技术博客<button>
+<button>成为合作伙伴<button>
+<button>加盟新华三<button>
+<button>星级服务资质认证标准<button>
+<button>售前资质认证标准<button>
+<button>合作伙伴手册<button>
+<button>2026新华三合作伙伴技术大比武正式启幕<button>
+<button>已成为合作伙伴<button>
+<button>合作伙伴查询<button>
+<button>政策与公告<button>
+<button>快易通<button>
+<button>稽核反馈<button>
+<button>合作伙伴资源中心<button>
+<button>产品与方案中心<button>
+<button>营销资料下载中心<button>
+<button>技术服务BOM产品说明书<button>
+<button>技术资料查询<button>
+<button>售前能力认证<button>
+<button>解决方案联盟<button>
+<button>解决方案合作伙伴认证申请<button>
+<button>技术方案联盟<button>
+<button>合作伙伴官网<button>
+<button>公司概况<button>
+<button>公司简介<button>
+<button>总裁寄语<button>
+<button>管理团队<button>
+<button>发展历史<button>
+<button>焦点时刻<button>
+<button>ESG可持续发展<button>
+<button>领航者文化<button>
+<button>公司视频<button>
+<button>公司动态<button>
+<button>公司新闻<button>
+<button>案例中心<button>
+<button>品牌活动<button>
+<button>数字化领航直播间<button>
+<button>《数字化领航》<button>
+<button>联系我们<button>
+<button>公司总部<button>
+<button>集团代表处<button>
+<button>媒体联络<button>
+<button>意见反馈<button>
+<button>采购公告<button>
+<button>如何购买<button>
+<button>在线举报<button>
+<button>查看所有<button>
+<button>案例中心New<button>
+<button>数字化领航直播间<button>
+<button>云上展厅<button>
+<button>登录<button>
+<button>China - 简体中文<button>
+<button>提交项目需求<button>
+<button>隐私政策<button>
+<button>版权声明<button>
+<button>网站地图<button>
+<button>售前在线咨询<button>
+<button>获取更多支持与服务<button>
+<button>网站意见与建议<button>
+<button>Cookies和隐私政策><button>
+
+----- WebWalker -----
+Memory:
+-H3C 100W充电器通过了CCC认证和CQC认证。关于H3CIE-SDN认证课程的举办时间，观察内容中未提及相关信息。
+"}
+
+----- WebWalker -----
+在H3C 100W快速充电器的页面中，我找到了关于其通过CCC和CQC双重认证的信息。接下来，我需要查找H3CIE-SDN认证课程的举办时间。为此，我可以点击“教育培训”按钮。
+
+Action: visit_page
+Action Input: {"button": "教育培训"}
+
+----- VisitPage -----
+The web information is:
+
+# 新华三安全服务与运营
+登录
+欢迎user
+  *     1. 已有账号
+    2. 还没有账号？
+简体中文
+          
+](
+  * 产品与解决方案
+  * 行业解决方案
+  * 服务
+  * 支持
+  * 合作伙伴
+  * 关于我们
+ ;)
+  * 产品与解决方案 < 返回
+    * 云与智能
+## 
+                                                      ### 热门推荐
+    * 智能联接
+## 
+                        * * *
+                              ### 热门推荐 
+ 智算网络解决方案 ]( 
+    新华三智算网络解决方案通过灵活多样的组网方式与全场景网络调优技术，满足不同规模与场景下日益严苛的智算中心算力互联需求，兼具创新的DDC架构与经典以太架构，全面提升对多元异构算力的网络承载能力。 
+ 新华三全光网络5.0解决方案 ]( 
+    坚持“以太光+PON”融合发展路线，创新引入多通道技术，率先实现以太光与PON在无源架构层的一体化融合。
+    * 智慧计算
+## 
+#### H3C服务器
+                                    * * *
+#### HPE服务器
+                                    ### 热门推荐
+    * 智慧存储
+## 
+#### H3C存储
+                                                * * *
+#### HPE存储
+                                          ### 热门推荐
+    * 商用PC
+## 
+#### 商用台式机
+                                                                                                            #### 商用笔记本
+                                          #### 商用显示器
+                                    #### 配件
+                                  * 主动安全
+## 
+                                                      * * *
+                                                      ### 热门推荐 
+ 智算安全解决方案 ]( 
+    瞄准智算时代全新安全威胁，构建覆盖算力防护、模型安全、数据安全的全栈式安全防护体系，为用户业务变革与产业结构升级提供强劲智能。 
+ 可信数据空间安全解决方案 ]( 
+    严格依据国家标准，聚焦数据场景化流通与应用，打造坚实的数据流通基础设施与运营体系，确保可信数据空间平稳落地及运行。
+    * Aolynk产品
+## 
+    * 统一运维
+## 
+                                    ### 热门推荐
+                              *  
+ AIO一站式运维管理服务 ]( 
+    面向异构ICT基础架构提供一站式运维管理服务，为客户承担对应的IT服务质量和管理绩效，带动客户全面提升IT的整体服务管理水平。
+    * 智能终端
+## 智能终端
+                            * 灵犀智算
+## 
+                                  * 技术解决方案
+## 技术解决方案
+                        * 行业解决方案 < 返回
+    * 行业解决方案
+## 
+                                                                        ### 热门推荐 
+ 如何快速有效提升县域医疗水平? ]( 
+    从县域医院数字化转型需求出发，新华三推出与实际应用场景紧密结合的智慧医院解决方案，提升县医院综合能力，助力县域内医疗资源整合共享。 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+  * 服务 < 返回
+    * **技术服务解决方案**
+## 
+### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 架构咨询
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * H3C TaaS服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 统一运维
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 数据中心
+## 
+            * /)
+                        ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云与智能服务
+## 
+                              ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 安全服务与运营
+## 
+#### 专业安全服务
+                              * * *
+#### 安全运营服务
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * **产品支持服务**
+    * 技术维护服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云软件技术支持服务
+## 
+            ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 智能终端服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 商用终端服务  
+（台式机 笔记本 显示器）
+## [商用终端服务  
+（台式机 笔记本 显示器）](
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+      * 支持 < 返回
+    * 服务支持中心
+## 
+#### 技术支持
+            * [在线技术支持  
+(服务器及存储)](
+      * [商用终端在线客服  
+（台式机及笔记本）](
+                        #### 自助服务
+                                                    ## 
+###  
+ 第15届新华三杯 ]( 
+    ## 
+                  *                                                                                                                                                                                                             ## 
+    ## 
+                                        * 政策动态
+## 
+                                  * 技术博客
+## 
+  * 合作伙伴 < 返回
+    * 成为合作伙伴
+## 
+                        ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 已成为合作伙伴
+## 
+                              ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴资源中心
+## 
+                                    ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴培训与认证
+## 合作伙伴培训与认证
+                  ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 解决方案联盟
+## 
+            ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+      * 关于我们 < 返回
+    * 公司概况
+## 
+                                                    * 公司动态
+## 
+                            * 公司刊物
+## 公司刊物
+          * 联系我们
+## 
+                                              * 加入我们
+## 加入我们
+                                  欢迎user
+  *                 
+! !
+# 安全服务与运营
+让安全更主动、让服务更智能
+!服务!!安全服务与运营
+### 专业安全服务
+  * 服务概述
+  * 服务优势
+  * 专业安全服务
+  * 安全运营服务
+  * 成功案例
+  * 相关资源
+### 安全服务与运营概述
+新华三安全服务立足于客户实际需求，结合新华三整体战斗力、云原生安全能力、新技术能力等“1套安全资源池”，通过“1套智能中枢”（4大安全中心），整合工具、平台、解决方案、管理手段、安全服务及专家经验等能力，运用业务场景化安全思维，面向客户“N个实际智能应用场景”提供多元化、宽领域的“10大安全能力输出”，协助客户构建自身安全能力，达到能力共建的目标。
+!
+点击查看大图 
+### 服务优势
+  * !
+#### 强大的服务与运营团队
+500+人服务团队，40+区域交付中心，拥有完善的服务资质，主导和参与了百余项网络安全领域标准，累计1300+余项网络安全专利技术
+  * !
+#### 丰富的行业实战经验
+贡献CNVD漏洞数累计54600+，连续五年获漏洞报送突出贡献单位奖（数据来源：CNVD），拥有超过千余项大中项目服务经验，为各类重大赛事活动提供网络安全保障服务
+  * !
+#### 多元化的安全服务能力
+借助云端智能中枢，将安全SaaS、安全运营、AI智能分析、威胁情报、专家经验等融合封装，面向客户实际应用场景，提供多元化安全服务能力
+## 专业安全服务
+新华三专业安全服务提供风险评估、咨询规划、工程实施、攻防对抗、教育培训等五大类安全服务，通过覆盖信息系统评估、设计、建设、运行的全生命周期服务，为客户的网络安全全面保驾护航。
+  * ## 风险评估
+  * ## 咨询规划
+  * ## 工程实施
+  * ## 攻防对抗
+  * ## 教育培训
+## 安全评估类
+>风险评估服务
+>新系统上线评估
+>电子银行评估
+>关键基础设施评估
+>无线安全评估
+## 安全监测类
+>漏洞检测服务
+>视频漏洞检测服务
+>基线核查服务
+>渗透测试服务
+>代码审计服务
+>安全众测服务
+## 规划设计类
+>安全规划与架构设计
+>IAM统一身份管理
+>智慧城市咨询设计服务
+## 合规咨询类
+>等保合规咨询
+>安全管理体系咨询
+>数据安全治理咨询
+>SDLC软件安全开发咨询
+>ISO27001合规咨询
+>个人信息安全合规咨询
+>工控安全合规咨询
+>云安全合规咨询
+>商用密码合规咨询
+>网络安全保险服务
+## 安全集成类
+>系统集成服务
+>安全加固服务
+## 安全服务工具类
+>“利剑”全流量威胁分析工具箱
+>“利策”安全策略管理服务工具箱
+>“利规”等级保护全流程服务工具箱
+>“利视”视频安全检查工具箱
+>“利保”重保服务工具箱
+## 攻防对抗类
+>安全应急响应服务
+>安全攻防演练服务
+>重要时期保障服务
+>安全攻防竞赛服务
+## 教育培训类
+>攻防对抗培训
+>安全意识培训
+>安全技能培训
+>安全法律法规培训
+>安全认证培训
+>客户定制化培训
+>安全靶场培训
+## 人才培养类
+>实训室建设服务
+>专业共建服务
+## 安全运营服务
+新华三安全运营中心 
+新华三安全运营中心致力于以云网结合、全面感知、精准防御、智能协同、持续迭代的方式，实现“让安全更主动、让服务更智能”的核心价值。
+!
+点击查看大图 
+  * ## 安全SaaS服务
+  * ## 安全托管服务MSS
+  * ## 威胁检测与响应MDR
+>互联网资产探测服务
+>APP隐私合规服务
+>APP安全检测服务
+>网站安全监测服务
+>Web失陷检测服务
+>远程WAF防护服务
+>远程DDoS防护服务
+>网站安全防护与加速SCDN
+>远程安全设备托管服务
+>安全协维驻场服务
+>安全策略管理服务
+>威胁检测与响应服务
+>政务云安全运营服务
+>智慧城市安全运营服务
+>威胁分析与远程诊断服务
+## 成功案例
+  * !
+### 中国农业银行全行应用安全测试
+新华三协助中国农业银行开展全行应用系统安全测试，以实现应用系统安全测试全覆盖为目标，致力于全面挖掘修复安全漏洞、发现弥补风险点，树立中国农业银行金融大行标杆，成为应用安全测试的行业先行者。
+  * !
+### 紫光云网络安全等级保护(四级)认证
+新华三深耕等级保护领域，鼎力推进“紫光云战略”落地，以大数据云平台四级等保合规作为安全建设实施的第一驱动力，助力紫光云四级等保实施，推动企业用户云上等保安全能力建设，构建主动防御体系。
+  * !
+### 一汽大众ISO27001管理体系咨询
+新华三以管理体系四层架构与工作场景相融合为理念，以业务流程架构为基础，对标全生命周期的管理体系建设，全面显著提高信息安全管理体系的成熟度，有效控制信息化建设风险，增强信息安全的可信度。
+## 相关资源
+  * 青丘安全运营中心介绍折页](
+##### 如何购买
+    
+##### 关于新华三
+          
+  
+##### 联系新华三
+    
+##### 常用链接
+          
+##### 友情链接
+      
+##### 关注新华三
+  * ](
+! 官方微信
+  * ](
+! 视频号
+  * ](
+! 官方头条
+  * ](
+! 官方抖音号：新华三
+  * ](
+! 官方微博
+版权所有 2003-2026 新华三技术有限公司.保留一切权利.  ! 
+        
+!
+;)
+  * ## 联系我们
+  * 售前咨询 
+ 提交项目需求 ](
+ 售前在线咨询 ](
+售后咨询 
+    
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。 ](javascript:void\(0\))
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新华三<button>
+<button>退出<button>
+<button>登录<button>
+<button>注册<button>
+<button>简体中文<button>
+<button>云与智能<button>
+<button>云操作系统<button>
+<button>虚拟化<button>
+<button>超融合<button>
+<button>桌面云<button>
+<button>大数据<button>
+<button>数据库<button>
+<button>人工智能<button>
+<button>智慧城市<button>
+<button>工业互联网<button>
+<button>智能联接<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>园区网络<button>
+<button>Cloudnet云管网络<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线局域网<button>
+<button>网络管控析软件<button>
+<button>操作系统<button>
+<button>智算网络解决方案<button>
+<button>新华三全光网络5.0解决方案<button>
+<button>智慧计算<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>弹性塑合计算<button>
+<button>关键业务计算<button>
+<button>服务器智能管理平台<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>关键业务计算<button>
+<button>弹性塑合计算<button>
+<button>服务器智能管理平台<button>
+<button>智慧存储<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>分布式存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>存储网络设备<button>
+<button>AI数据平台<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>高密度存储型服务器<button>
+<button>存储网络设备<button>
+<button>商用PC<button>
+<button>H3CDesk X700s G2<button>
+<button>H3CDesk X700t G2<button>
+<button>H3CDesk X500s G2<button>
+<button>H3CDesk X500t G2<button>
+<button>H3CDesk D500s G2<button>
+<button>H3CDesk D500t G2<button>
+<button>H3CDesk X700s<button>
+<button>H3CDesk X700t<button>
+<button>H3CDesk X500s<button>
+<button>H3CDesk X500t<button>
+<button>H3CDesk D500s<button>
+<button>H3CDesk D500t<button>
+<button>H3C D5-030s<button>
+<button>H3C D5-030t<button>
+<button>H3C X5-030s<button>
+<button>H3C X5-030t<button>
+<button>H3C X5-020t<button>
+<button>H3C X7-030s<button>
+<button>H3CBook Ultra 14T G3<button>
+<button>H3CBook Pro 14<button>
+<button>H3CBook Pro 14 G2<button>
+<button>H3CBook Ultra 14<button>
+<button>H3CBook Ultra 14T<button>
+<button>H3CBook 14<button>
+<button>H3C Z6-410<button>
+<button>H3C M8-271U<button>
+<button>H3C M4-271Q<button>
+<button>H3C M4-271F<button>
+<button>H3C M4-221F<button>
+<button>H3C M4-245F<button>
+<button>H3C M4-242FD<button>
+<button>H3CSound D732多功能会议终端<button>
+<button>H71P USB-C多功能扩展坞<button>
+<button>H3C M521W无线双模鼠标<button>
+<button>H3C M721W轻音无线双模鼠标<button>
+<button>H3C 100W快速充电器<button>
+<button>主动安全<button>
+<button>智算安全解决方案<button>
+<button>可信数据空间安全解决方案<button>
+<button>新华三国产化安全<button>
+<button>AD-WAN安全解决方案<button>
+<button>零信任安全解决方案<button>
+<button>云安全解决方案<button>
+<button>商用密码应用安全性评估解决方案<button>
+<button>数据安全解决方案<button>
+<button>安全大脑解决方案<button>
+<button>边界安全<button>
+<button>应用安全<button>
+<button>数据安全<button>
+<button>密码安全<button>
+<button>工控安全<button>
+<button>终端安全<button>
+<button>安全管理<button>
+<button>安全检测与审计<button>
+<button>云安全<button>
+<button>Aolynk产品<button>
+<button>统一运维<button>
+<button>IT服务管理咨询<button>
+<button>AIO一站式运维管理服务<button>
+<button>SDService-NSD网络自服务解决方案<button>
+<button>U-Center统一运维平台<button>
+<button>业务运维服务<button>
+<button>数据中心绿色节能<button>
+<button>TMMi咨询认证服务<button>
+<button>维保服务<button>
+<button>业务连续性和容灾<button>
+<button>数据中心迁移服务<button>
+<button>MegaCube<button>
+<button>MegaBook<button>
+<button>Magic家用网络<button>
+<button>MagicHub云屏<button>
+<button>灵犀智算<button>
+<button>LinSeer Cube一体机<button>
+<button>百业灵犀私域大模型<button>
+<button>灵犀使能平台<button>
+<button>LinSeer ICT智能体<button>
+<button>灵犀AI助手<button>
+<button>SeerFabric智能无损数据中心解决方案<button>
+<button>场站边缘解决方案<button>
+<button>计算存储企业级解决方案<button>
+<button>查看所有<button>
+<button>行业解决方案<button>
+<button>运营商<button>
+<button>零碳智慧园区<button>
+<button>企业<button>
+<button>政府<button>
+<button>金融<button>
+<button>医疗<button>
+<button>交通<button>
+<button>互联网<button>
+<button>教育<button>
+<button>电力能源<button>
+<button>广电<button>
+<button>中小企业<button>
+<button>合作伙伴营销资料平台上线<button>
+<button>技术服务解决方案<button>
+<button>云与智能服务<button>
+<button>微模块解决方案<button>
+<button>架构咨询<button>
+<button>IT基础架构咨询<button>
+<button>网络架构咨询<button>
+<button>数据中心迁移<button>
+<button>业务连续性/容灾咨询<button>
+<button>容灾管理系统<button>
+<button>轻量化服务<button>
+<button>H3C TaaS服务<button>
+<button>测试体系咨询<button>
+<button>测试平台建设<button>
+<button>专业测试服务<button>
+<button>数据中心<button>
+<button>数字化数据中心（BIM）<button>
+<button>咨询<button>
+<button>设计<button>
+<button>实施<button>
+<button>验证及运维<button>
+<button>云集成服务<button>
+<button>云迁移服务<button>
+<button>云运维服务<button>
+<button>云运营服务<button>
+<button>大数据服务<button>
+<button>安全服务与运营<button>
+<button>教育培训<button>
+<button>攻防对抗<button>
+<button>工程实施<button>
+<button>咨询规划<button>
+<button>风险评估<button>
+<button>威胁检测与响应服务MDR<button>
+<button>安全托管服务MSS<button>
+<button>安全SaaS服务<button>
+<button>技术维护服务<button>
+<button>基础技术维护服务<button>
+<button>主动式技术维护服务<button>
+<button>ICT专业技术运维服务<button>
+<button>云软件技术支持服务<button>
+<button>大数据软件技术支持服务<button>
+<button>云计算软件技术支持服务<button>
+<button>智能终端服务<button>
+<button>MegaBook等计算机平板服务<button>
+<button>全屋网络、家庭路由器等网络类产品服务<button>
+<button>云屏产品服务<button>
+<button>商用终端服务（台式机 笔记本 显示器）<button>
+<button>更多服务支持<button>
+<button>产品资料下载<button>
+<button>驱动程序下载<button>
+<button>服务政策查询<button>
+<button>服务产品查询<button>
+<button>服务网点查询<button>
+<button>服务商认证<button>
+<button>服务支持中心<button>
+<button>iService<button>
+<button>在线技术支持(服务器及存储)<button>
+<button>智能终端在线客服<button>
+<button>新华三服务APP<button>
+<button>产品生命周期<button>
+<button>安全通告<button>
+<button>已知问题查询<button>
+<button>软件授权有效期文件<button>
+<button>设备升级码查询<button>
+<button>第15届新华三杯<button>
+<button>文档中心<button>
+<button>高级搜索<button>
+<button>云计算<button>
+<button>大数据<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线<button>
+<button>物联网<button>
+<button>安全<button>
+<button>光模块<button>
+<button>网络管控析软件<button>
+<button>智能运维产品<button>
+<button>服务器<button>
+<button>存储<button>
+<button>PON<button>
+<button>ICG信息通信<button>
+<button>EPCN网关<button>
+<button>License Server<button>
+<button>其它产品<button>
+<button>智能终端<button>
+<button>传输产品<button>
+<button>云简网络<button>
+<button>商用终端<button>
+<button>AIGC<button>
+<button>Aolynk产品<button>
+<button>磐宁NingOS<button>
+<button>移动通信<button>
+<button>软件下载<button>
+<button>工具专区<button>
+<button>H3C个人资料库<button>
+<button>规划设计工具<button>
+<button>安装工具<button>
+<button>配置工具<button>
+<button>维护工具<button>
+<button>政策动态<button>
+<button>服务公告<button>
+<button>服务政策<button>
+<button>服务新闻<button>
+<button>维保服务说明<button>
+<button>合作伙伴服务标准<button>
+<button>技术博客<button>
+<button>成为合作伙伴<button>
+<button>加盟新华三<button>
+<button>星级服务资质认证标准<button>
+<button>售前资质认证标准<button>
+<button>合作伙伴手册<button>
+<button>2026新华三合作伙伴技术大比武正式启幕<button>
+<button>已成为合作伙伴<button>
+<button>合作伙伴查询<button>
+<button>政策与公告<button>
+<button>快易通<button>
+<button>稽核反馈<button>
+<button>合作伙伴资源中心<button>
+<button>产品与方案中心<button>
+<button>营销资料下载中心<button>
+<button>技术服务BOM产品说明书<button>
+<button>技术资料查询<button>
+<button>售前能力认证<button>
+<button>解决方案联盟<button>
+<button>解决方案合作伙伴认证申请<button>
+<button>技术方案联盟<button>
+<button>合作伙伴官网<button>
+<button>公司概况<button>
+<button>公司简介<button>
+<button>总裁寄语<button>
+<button>管理团队<button>
+<button>发展历史<button>
+<button>焦点时刻<button>
+<button>ESG可持续发展<button>
+<button>领航者文化<button>
+<button>公司视频<button>
+<button>公司动态<button>
+<button>公司新闻<button>
+<button>案例中心<button>
+<button>品牌活动<button>
+<button>数字化领航直播间<button>
+<button>《数字化领航》<button>
+<button>联系我们<button>
+<button>公司总部<button>
+<button>集团代表处<button>
+<button>媒体联络<button>
+<button>意见反馈<button>
+<button>采购公告<button>
+<button>如何购买<button>
+<button>在线举报<button>
+<button>查看所有<button>
+<button>案例中心New<button>
+<button>数字化领航直播间<button>
+<button>云上展厅<button>
+<button>登录<button>
+<button>China - 简体中文<button>
+<button>首页<button>
+<button>提交项目需求<button>
+<button>隐私政策<button>
+<button>版权声明<button>
+<button>网站地图<button>
+<button>售前在线咨询<button>
+<button>获取更多支持与服务<button>
+<button>网站意见与建议<button>
+<button>Cookies和隐私政策><button>
+
+----- WebWalker -----
+在“教育培训”页面中，我找到了与安全相关的培训内容，但没有直接找到H3CIE-SDN认证课程的信息。为了进一步查找，我需要点击“合作伙伴培训与认证”按钮。
+
+Action: visit_page
+Action Input: {"button": "合作伙伴培训与认证"}
+
+----- VisitPage -----
+Button not found: 合作伙伴培训与认证
+
+----- WebWalker -----
+The button "合作伙伴培训与认证" cannot be clicked. I will try other buttons related to training and certification.
+
+Action: visit_page
+Action Input: {"button": "教育培训"}
+
+----- VisitPage -----
+The web information is:
+
+# 新华三安全服务与运营
+登录
+欢迎user
+  *     1. 已有账号
+    2. 还没有账号？
+简体中文
+          
+](
+  * 产品与解决方案
+  * 行业解决方案
+  * 服务
+  * 支持
+  * 合作伙伴
+  * 关于我们
+ ;)
+  * 产品与解决方案 < 返回
+    * 云与智能
+## 
+                                                      ### 热门推荐
+    * 智能联接
+## 
+                        * * *
+                              ### 热门推荐 
+ 智算网络解决方案 ]( 
+    新华三智算网络解决方案通过灵活多样的组网方式与全场景网络调优技术，满足不同规模与场景下日益严苛的智算中心算力互联需求，兼具创新的DDC架构与经典以太架构，全面提升对多元异构算力的网络承载能力。 
+ 新华三全光网络5.0解决方案 ]( 
+    坚持“以太光+PON”融合发展路线，创新引入多通道技术，率先实现以太光与PON在无源架构层的一体化融合。
+    * 智慧计算
+## 
+#### H3C服务器
+                                    * * *
+#### HPE服务器
+                                    ### 热门推荐
+    * 智慧存储
+## 
+#### H3C存储
+                                                * * *
+#### HPE存储
+                                          ### 热门推荐
+    * 商用PC
+## 
+#### 商用台式机
+                                                                                                            #### 商用笔记本
+                                          #### 商用显示器
+                                    #### 配件
+                                  * 主动安全
+## 
+                                                      * * *
+                                                      ### 热门推荐 
+ 智算安全解决方案 ]( 
+    瞄准智算时代全新安全威胁，构建覆盖算力防护、模型安全、数据安全的全栈式安全防护体系，为用户业务变革与产业结构升级提供强劲智能。 
+ 可信数据空间安全解决方案 ]( 
+    严格依据国家标准，聚焦数据场景化流通与应用，打造坚实的数据流通基础设施与运营体系，确保可信数据空间平稳落地及运行。
+    * Aolynk产品
+## 
+    * 统一运维
+## 
+                                    ### 热门推荐
+                              *  
+ AIO一站式运维管理服务 ]( 
+    面向异构ICT基础架构提供一站式运维管理服务，为客户承担对应的IT服务质量和管理绩效，带动客户全面提升IT的整体服务管理水平。
+    * 智能终端
+## 智能终端
+                            * 灵犀智算
+## 
+                                  * 技术解决方案
+## 技术解决方案
+                        * 行业解决方案 < 返回
+    * 行业解决方案
+## 
+                                                                        ### 热门推荐 
+ 如何快速有效提升县域医疗水平? ]( 
+    从县域医院数字化转型需求出发，新华三推出与实际应用场景紧密结合的智慧医院解决方案，提升县医院综合能力，助力县域内医疗资源整合共享。 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+  * 服务 < 返回
+    * **技术服务解决方案**
+## 
+### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 架构咨询
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * H3C TaaS服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 统一运维
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 数据中心
+## 
+            * /)
+                        ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云与智能服务
+## 
+                              ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 安全服务与运营
+## 
+#### 专业安全服务
+                              * * *
+#### 安全运营服务
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * **产品支持服务**
+    * 技术维护服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云软件技术支持服务
+## 
+            ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 智能终端服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 商用终端服务  
+（台式机 笔记本 显示器）
+## [商用终端服务  
+（台式机 笔记本 显示器）](
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+      * 支持 < 返回
+    * 服务支持中心
+## 
+#### 技术支持
+            * [在线技术支持  
+(服务器及存储)](
+      * [商用终端在线客服  
+（台式机及笔记本）](
+                        #### 自助服务
+                                                    ## 
+###  
+ 第15届新华三杯 ]( 
+    ## 
+                  *                                                                                                                                                                                                             ## 
+    ## 
+                                        * 政策动态
+## 
+                                  * 技术博客
+## 
+  * 合作伙伴 < 返回
+    * 成为合作伙伴
+## 
+                        ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 已成为合作伙伴
+## 
+                              ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴资源中心
+## 
+                                    ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴培训与认证
+## 合作伙伴培训与认证
+                  ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 解决方案联盟
+## 
+            ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+      * 关于我们 < 返回
+    * 公司概况
+## 
+                                                    * 公司动态
+## 
+                            * 公司刊物
+## 公司刊物
+          * 联系我们
+## 
+                                              * 加入我们
+## 加入我们
+                                  欢迎user
+  *                 
+! !
+# 安全服务与运营
+让安全更主动、让服务更智能
+!服务!!安全服务与运营
+### 专业安全服务
+  * 服务概述
+  * 服务优势
+  * 专业安全服务
+  * 安全运营服务
+  * 成功案例
+  * 相关资源
+### 安全服务与运营概述
+新华三安全服务立足于客户实际需求，结合新华三整体战斗力、云原生安全能力、新技术能力等“1套安全资源池”，通过“1套智能中枢”（4大安全中心），整合工具、平台、解决方案、管理手段、安全服务及专家经验等能力，运用业务场景化安全思维，面向客户“N个实际智能应用场景”提供多元化、宽领域的“10大安全能力输出”，协助客户构建自身安全能力，达到能力共建的目标。
+!
+点击查看大图 
+### 服务优势
+  * !
+#### 强大的服务与运营团队
+500+人服务团队，40+区域交付中心，拥有完善的服务资质，主导和参与了百余项网络安全领域标准，累计1300+余项网络安全专利技术
+  * !
+#### 丰富的行业实战经验
+贡献CNVD漏洞数累计54600+，连续五年获漏洞报送突出贡献单位奖（数据来源：CNVD），拥有超过千余项大中项目服务经验，为各类重大赛事活动提供网络安全保障服务
+  * !
+#### 多元化的安全服务能力
+借助云端智能中枢，将安全SaaS、安全运营、AI智能分析、威胁情报、专家经验等融合封装，面向客户实际应用场景，提供多元化安全服务能力
+## 专业安全服务
+新华三专业安全服务提供风险评估、咨询规划、工程实施、攻防对抗、教育培训等五大类安全服务，通过覆盖信息系统评估、设计、建设、运行的全生命周期服务，为客户的网络安全全面保驾护航。
+  * ## 风险评估
+  * ## 咨询规划
+  * ## 工程实施
+  * ## 攻防对抗
+  * ## 教育培训
+## 安全评估类
+>风险评估服务
+>新系统上线评估
+>电子银行评估
+>关键基础设施评估
+>无线安全评估
+## 安全监测类
+>漏洞检测服务
+>视频漏洞检测服务
+>基线核查服务
+>渗透测试服务
+>代码审计服务
+>安全众测服务
+## 规划设计类
+>安全规划与架构设计
+>IAM统一身份管理
+>智慧城市咨询设计服务
+## 合规咨询类
+>等保合规咨询
+>安全管理体系咨询
+>数据安全治理咨询
+>SDLC软件安全开发咨询
+>ISO27001合规咨询
+>个人信息安全合规咨询
+>工控安全合规咨询
+>云安全合规咨询
+>商用密码合规咨询
+>网络安全保险服务
+## 安全集成类
+>系统集成服务
+>安全加固服务
+## 安全服务工具类
+>“利剑”全流量威胁分析工具箱
+>“利策”安全策略管理服务工具箱
+>“利规”等级保护全流程服务工具箱
+>“利视”视频安全检查工具箱
+>“利保”重保服务工具箱
+## 攻防对抗类
+>安全应急响应服务
+>安全攻防演练服务
+>重要时期保障服务
+>安全攻防竞赛服务
+## 教育培训类
+>攻防对抗培训
+>安全意识培训
+>安全技能培训
+>安全法律法规培训
+>安全认证培训
+>客户定制化培训
+>安全靶场培训
+## 人才培养类
+>实训室建设服务
+>专业共建服务
+## 安全运营服务
+新华三安全运营中心 
+新华三安全运营中心致力于以云网结合、全面感知、精准防御、智能协同、持续迭代的方式，实现“让安全更主动、让服务更智能”的核心价值。
+!
+点击查看大图 
+  * ## 安全SaaS服务
+  * ## 安全托管服务MSS
+  * ## 威胁检测与响应MDR
+>互联网资产探测服务
+>APP隐私合规服务
+>APP安全检测服务
+>网站安全监测服务
+>Web失陷检测服务
+>远程WAF防护服务
+>远程DDoS防护服务
+>网站安全防护与加速SCDN
+>远程安全设备托管服务
+>安全协维驻场服务
+>安全策略管理服务
+>威胁检测与响应服务
+>政务云安全运营服务
+>智慧城市安全运营服务
+>威胁分析与远程诊断服务
+## 成功案例
+  * !
+### 中国农业银行全行应用安全测试
+新华三协助中国农业银行开展全行应用系统安全测试，以实现应用系统安全测试全覆盖为目标，致力于全面挖掘修复安全漏洞、发现弥补风险点，树立中国农业银行金融大行标杆，成为应用安全测试的行业先行者。
+  * !
+### 紫光云网络安全等级保护(四级)认证
+新华三深耕等级保护领域，鼎力推进“紫光云战略”落地，以大数据云平台四级等保合规作为安全建设实施的第一驱动力，助力紫光云四级等保实施，推动企业用户云上等保安全能力建设，构建主动防御体系。
+  * !
+### 一汽大众ISO27001管理体系咨询
+新华三以管理体系四层架构与工作场景相融合为理念，以业务流程架构为基础，对标全生命周期的管理体系建设，全面显著提高信息安全管理体系的成熟度，有效控制信息化建设风险，增强信息安全的可信度。
+## 相关资源
+  * 青丘安全运营中心介绍折页](
+##### 如何购买
+    
+##### 关于新华三
+          
+  
+##### 联系新华三
+    
+##### 常用链接
+          
+##### 友情链接
+      
+##### 关注新华三
+  * ](
+! 官方微信
+  * ](
+! 视频号
+  * ](
+! 官方头条
+  * ](
+! 官方抖音号：新华三
+  * ](
+! 官方微博
+版权所有 2003-2026 新华三技术有限公司.保留一切权利.  ! 
+        
+!
+;)
+  * ## 联系我们
+  * 售前咨询 
+ 提交项目需求 ](
+ 售前在线咨询 ](
+售后咨询 
+    
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。 ](javascript:void\(0\))
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新华三<button>
+<button>退出<button>
+<button>登录<button>
+<button>注册<button>
+<button>简体中文<button>
+<button>云与智能<button>
+<button>云操作系统<button>
+<button>虚拟化<button>
+<button>超融合<button>
+<button>桌面云<button>
+<button>大数据<button>
+<button>数据库<button>
+<button>人工智能<button>
+<button>智慧城市<button>
+<button>工业互联网<button>
+<button>智能联接<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>园区网络<button>
+<button>Cloudnet云管网络<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线局域网<button>
+<button>网络管控析软件<button>
+<button>操作系统<button>
+<button>智算网络解决方案<button>
+<button>新华三全光网络5.0解决方案<button>
+<button>智慧计算<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>弹性塑合计算<button>
+<button>关键业务计算<button>
+<button>服务器智能管理平台<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>关键业务计算<button>
+<button>弹性塑合计算<button>
+<button>服务器智能管理平台<button>
+<button>智慧存储<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>分布式存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>存储网络设备<button>
+<button>AI数据平台<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>高密度存储型服务器<button>
+<button>存储网络设备<button>
+<button>商用PC<button>
+<button>H3CDesk X700s G2<button>
+<button>H3CDesk X700t G2<button>
+<button>H3CDesk X500s G2<button>
+<button>H3CDesk X500t G2<button>
+<button>H3CDesk D500s G2<button>
+<button>H3CDesk D500t G2<button>
+<button>H3CDesk X700s<button>
+<button>H3CDesk X700t<button>
+<button>H3CDesk X500s<button>
+<button>H3CDesk X500t<button>
+<button>H3CDesk D500s<button>
+<button>H3CDesk D500t<button>
+<button>H3C D5-030s<button>
+<button>H3C D5-030t<button>
+<button>H3C X5-030s<button>
+<button>H3C X5-030t<button>
+<button>H3C X5-020t<button>
+<button>H3C X7-030s<button>
+<button>H3CBook Ultra 14T G3<button>
+<button>H3CBook Pro 14<button>
+<button>H3CBook Pro 14 G2<button>
+<button>H3CBook Ultra 14<button>
+<button>H3CBook Ultra 14T<button>
+<button>H3CBook 14<button>
+<button>H3C Z6-410<button>
+<button>H3C M8-271U<button>
+<button>H3C M4-271Q<button>
+<button>H3C M4-271F<button>
+<button>H3C M4-221F<button>
+<button>H3C M4-245F<button>
+<button>H3C M4-242FD<button>
+<button>H3CSound D732多功能会议终端<button>
+<button>H71P USB-C多功能扩展坞<button>
+<button>H3C M521W无线双模鼠标<button>
+<button>H3C M721W轻音无线双模鼠标<button>
+<button>H3C 100W快速充电器<button>
+<button>主动安全<button>
+<button>智算安全解决方案<button>
+<button>可信数据空间安全解决方案<button>
+<button>新华三国产化安全<button>
+<button>AD-WAN安全解决方案<button>
+<button>零信任安全解决方案<button>
+<button>云安全解决方案<button>
+<button>商用密码应用安全性评估解决方案<button>
+<button>数据安全解决方案<button>
+<button>安全大脑解决方案<button>
+<button>边界安全<button>
+<button>应用安全<button>
+<button>数据安全<button>
+<button>密码安全<button>
+<button>工控安全<button>
+<button>终端安全<button>
+<button>安全管理<button>
+<button>安全检测与审计<button>
+<button>云安全<button>
+<button>Aolynk产品<button>
+<button>统一运维<button>
+<button>IT服务管理咨询<button>
+<button>AIO一站式运维管理服务<button>
+<button>SDService-NSD网络自服务解决方案<button>
+<button>U-Center统一运维平台<button>
+<button>业务运维服务<button>
+<button>数据中心绿色节能<button>
+<button>TMMi咨询认证服务<button>
+<button>维保服务<button>
+<button>业务连续性和容灾<button>
+<button>数据中心迁移服务<button>
+<button>MegaCube<button>
+<button>MegaBook<button>
+<button>Magic家用网络<button>
+<button>MagicHub云屏<button>
+<button>灵犀智算<button>
+<button>LinSeer Cube一体机<button>
+<button>百业灵犀私域大模型<button>
+<button>灵犀使能平台<button>
+<button>LinSeer ICT智能体<button>
+<button>灵犀AI助手<button>
+<button>SeerFabric智能无损数据中心解决方案<button>
+<button>场站边缘解决方案<button>
+<button>计算存储企业级解决方案<button>
+<button>查看所有<button>
+<button>行业解决方案<button>
+<button>运营商<button>
+<button>零碳智慧园区<button>
+<button>企业<button>
+<button>政府<button>
+<button>金融<button>
+<button>医疗<button>
+<button>交通<button>
+<button>互联网<button>
+<button>教育<button>
+<button>电力能源<button>
+<button>广电<button>
+<button>中小企业<button>
+<button>合作伙伴营销资料平台上线<button>
+<button>技术服务解决方案<button>
+<button>云与智能服务<button>
+<button>微模块解决方案<button>
+<button>架构咨询<button>
+<button>IT基础架构咨询<button>
+<button>网络架构咨询<button>
+<button>数据中心迁移<button>
+<button>业务连续性/容灾咨询<button>
+<button>容灾管理系统<button>
+<button>轻量化服务<button>
+<button>H3C TaaS服务<button>
+<button>测试体系咨询<button>
+<button>测试平台建设<button>
+<button>专业测试服务<button>
+<button>数据中心<button>
+<button>数字化数据中心（BIM）<button>
+<button>咨询<button>
+<button>设计<button>
+<button>实施<button>
+<button>验证及运维<button>
+<button>云集成服务<button>
+<button>云迁移服务<button>
+<button>云运维服务<button>
+<button>云运营服务<button>
+<button>大数据服务<button>
+<button>安全服务与运营<button>
+<button>教育培训<button>
+<button>攻防对抗<button>
+<button>工程实施<button>
+<button>咨询规划<button>
+<button>风险评估<button>
+<button>威胁检测与响应服务MDR<button>
+<button>安全托管服务MSS<button>
+<button>安全SaaS服务<button>
+<button>技术维护服务<button>
+<button>基础技术维护服务<button>
+<button>主动式技术维护服务<button>
+<button>ICT专业技术运维服务<button>
+<button>云软件技术支持服务<button>
+<button>大数据软件技术支持服务<button>
+<button>云计算软件技术支持服务<button>
+<button>智能终端服务<button>
+<button>MegaBook等计算机平板服务<button>
+<button>全屋网络、家庭路由器等网络类产品服务<button>
+<button>云屏产品服务<button>
+<button>商用终端服务（台式机 笔记本 显示器）<button>
+<button>更多服务支持<button>
+<button>产品资料下载<button>
+<button>驱动程序下载<button>
+<button>服务政策查询<button>
+<button>服务产品查询<button>
+<button>服务网点查询<button>
+<button>服务商认证<button>
+<button>服务支持中心<button>
+<button>iService<button>
+<button>在线技术支持(服务器及存储)<button>
+<button>智能终端在线客服<button>
+<button>新华三服务APP<button>
+<button>产品生命周期<button>
+<button>安全通告<button>
+<button>已知问题查询<button>
+<button>软件授权有效期文件<button>
+<button>设备升级码查询<button>
+<button>第15届新华三杯<button>
+<button>文档中心<button>
+<button>高级搜索<button>
+<button>云计算<button>
+<button>大数据<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线<button>
+<button>物联网<button>
+<button>安全<button>
+<button>光模块<button>
+<button>网络管控析软件<button>
+<button>智能运维产品<button>
+<button>服务器<button>
+<button>存储<button>
+<button>PON<button>
+<button>ICG信息通信<button>
+<button>EPCN网关<button>
+<button>License Server<button>
+<button>其它产品<button>
+<button>智能终端<button>
+<button>传输产品<button>
+<button>云简网络<button>
+<button>商用终端<button>
+<button>AIGC<button>
+<button>Aolynk产品<button>
+<button>磐宁NingOS<button>
+<button>移动通信<button>
+<button>软件下载<button>
+<button>工具专区<button>
+<button>H3C个人资料库<button>
+<button>规划设计工具<button>
+<button>安装工具<button>
+<button>配置工具<button>
+<button>维护工具<button>
+<button>政策动态<button>
+<button>服务公告<button>
+<button>服务政策<button>
+<button>服务新闻<button>
+<button>维保服务说明<button>
+<button>合作伙伴服务标准<button>
+<button>技术博客<button>
+<button>成为合作伙伴<button>
+<button>加盟新华三<button>
+<button>星级服务资质认证标准<button>
+<button>售前资质认证标准<button>
+<button>合作伙伴手册<button>
+<button>2026新华三合作伙伴技术大比武正式启幕<button>
+<button>已成为合作伙伴<button>
+<button>合作伙伴查询<button>
+<button>政策与公告<button>
+<button>快易通<button>
+<button>稽核反馈<button>
+<button>合作伙伴资源中心<button>
+<button>产品与方案中心<button>
+<button>营销资料下载中心<button>
+<button>技术服务BOM产品说明书<button>
+<button>技术资料查询<button>
+<button>售前能力认证<button>
+<button>解决方案联盟<button>
+<button>解决方案合作伙伴认证申请<button>
+<button>技术方案联盟<button>
+<button>合作伙伴官网<button>
+<button>公司概况<button>
+<button>公司简介<button>
+<button>总裁寄语<button>
+<button>管理团队<button>
+<button>发展历史<button>
+<button>焦点时刻<button>
+<button>ESG可持续发展<button>
+<button>领航者文化<button>
+<button>公司视频<button>
+<button>公司动态<button>
+<button>公司新闻<button>
+<button>案例中心<button>
+<button>品牌活动<button>
+<button>数字化领航直播间<button>
+<button>《数字化领航》<button>
+<button>联系我们<button>
+<button>公司总部<button>
+<button>集团代表处<button>
+<button>媒体联络<button>
+<button>意见反馈<button>
+<button>采购公告<button>
+<button>如何购买<button>
+<button>在线举报<button>
+<button>查看所有<button>
+<button>案例中心New<button>
+<button>数字化领航直播间<button>
+<button>云上展厅<button>
+<button>登录<button>
+<button>China - 简体中文<button>
+<button>首页<button>
+<button>提交项目需求<button>
+<button>隐私政策<button>
+<button>版权声明<button>
+<button>网站地图<button>
+<button>售前在线咨询<button>
+<button>获取更多支持与服务<button>
+<button>网站意见与建议<button>
+<button>Cookies和隐私政策><button>
+
+----- WebWalker -----
+在“教育培训”页面中，我找到了与安全相关的培训内容，但没有直接找到H3CIE-SDN认证课程的信息。为了进一步查找，我需要点击“合作伙伴培训与认证”按钮。
+
+Action: visit_page
+Action Input: {"button": "合作伙伴培训与认证"}
+
+----- VisitPage -----
+Button not found: 合作伙伴培训与认证
+
+----- WebWalker -----
+The button "合作伙伴培训与认证" cannot be clicked. I will try other buttons related to training and certification.
+
+Action: visit_page
+Action Input: {"button": "文档中心"}
+
+----- VisitPage -----
+The web information is:
+
+# 新华三文档中心
+登录
+欢迎user
+  *     1. 已有账号
+    2. 还没有账号？
+简体中文
+          
+](
+  * 产品与解决方案
+  * 行业解决方案
+  * 服务
+  * 支持
+  * 合作伙伴
+  * 关于我们
+ ;)
+  * 产品与解决方案 < 返回
+    * 云与智能
+## 
+                                                      ### 热门推荐
+    * 智能联接
+## 
+                        * * *
+                              ### 热门推荐 
+ 智算网络解决方案 ]( 
+    新华三智算网络解决方案通过灵活多样的组网方式与全场景网络调优技术，满足不同规模与场景下日益严苛的智算中心算力互联需求，兼具创新的DDC架构与经典以太架构，全面提升对多元异构算力的网络承载能力。 
+ 新华三全光网络5.0解决方案 ]( 
+    坚持“以太光+PON”融合发展路线，创新引入多通道技术，率先实现以太光与PON在无源架构层的一体化融合。
+    * 智慧计算
+## 
+#### H3C服务器
+                                    * * *
+#### HPE服务器
+                                    ### 热门推荐
+    * 智慧存储
+## 
+#### H3C存储
+                                                * * *
+#### HPE存储
+                                          ### 热门推荐
+    * 商用PC
+## 
+#### 商用台式机
+                                                                                                            #### 商用笔记本
+                                          #### 商用显示器
+                                    #### 配件
+                                  * 主动安全
+## 
+                                                      * * *
+                                                      ### 热门推荐 
+ 智算安全解决方案 ]( 
+    瞄准智算时代全新安全威胁，构建覆盖算力防护、模型安全、数据安全的全栈式安全防护体系，为用户业务变革与产业结构升级提供强劲智能。 
+ 可信数据空间安全解决方案 ]( 
+    严格依据国家标准，聚焦数据场景化流通与应用，打造坚实的数据流通基础设施与运营体系，确保可信数据空间平稳落地及运行。
+    * Aolynk产品
+## 
+    * 统一运维
+## 
+                                    ### 热门推荐
+                              *  
+ AIO一站式运维管理服务 ]( 
+    面向异构ICT基础架构提供一站式运维管理服务，为客户承担对应的IT服务质量和管理绩效，带动客户全面提升IT的整体服务管理水平。
+    * 智能终端
+## 智能终端
+                            * 灵犀智算
+## 
+                                  * 技术解决方案
+## 技术解决方案
+                        * 行业解决方案 < 返回
+    * 行业解决方案
+## 
+                                                                        ### 热门推荐 
+ 如何快速有效提升县域医疗水平? ]( 
+    从县域医院数字化转型需求出发，新华三推出与实际应用场景紧密结合的智慧医院解决方案，提升县医院综合能力，助力县域内医疗资源整合共享。 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+  * 服务 < 返回
+    * **技术服务解决方案**
+## 
+### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 架构咨询
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * H3C TaaS服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 统一运维
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 数据中心
+## 
+            * /)
+                        ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云与智能服务
+## 
+                              ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 安全服务与运营
+## 
+#### 专业安全服务
+                              * * *
+#### 安全运营服务
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * **产品支持服务**
+    * 技术维护服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云软件技术支持服务
+## 
+            ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 智能终端服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 商用终端服务  
+（台式机 笔记本 显示器）
+## [商用终端服务  
+（台式机 笔记本 显示器）](
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+      * 支持 < 返回
+    * 服务支持中心
+## 
+#### 技术支持
+            * [在线技术支持  
+(服务器及存储)](
+      * [商用终端在线客服  
+（台式机及笔记本）](
+                        #### 自助服务
+                                                    ## 
+###  
+ 第15届新华三杯 ]( 
+    ## 
+                  *                                                                                                                                                                                                             ## 
+    ## 
+                                        * 政策动态
+## 
+                                  * 技术博客
+## 
+  * 合作伙伴 < 返回
+    * 成为合作伙伴
+## 
+                        ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 已成为合作伙伴
+## 
+                              ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴资源中心
+## 
+                                    ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴培训与认证
+## 合作伙伴培训与认证
+                  ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 解决方案联盟
+## 
+            ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+      * 关于我们 < 返回
+    * 公司概况
+## 
+                                                    * 公司动态
+## 
+                                  * 公司刊物
+## 公司刊物
+          * 联系我们
+## 
+                                              * 加入我们
+## 加入我们
+                                  欢迎user
+  *                 
+!支持!文档与软件!文档中心
+文档中心主要提供公司所有产品系列的安装指导、配置指导、用户手册、命令参考等适用于最终用户的服务性文档资料，从而为用户解决在使用中遇到的安装、配置、命令等问题。  
+您可以通过“”，全面了解和高效使用各类产品资料。
+###  ICT知识百科 
+ICT知识百科旨在展示H3C最新、最重要的技术和方案，探究ICT领域的前沿技术，深入浅出地解答用户关注的热点问题。
+###  检索 
+!
+)
+###  按产品检索 
+###  工具专区 
+工具专区集中展示各类规划、安装、配置、维护等工具，提供产品相关信息查询或计算功能，方便用户按需获取和使用。
+更多资料获取方式，随时随地想看就看！
+!
+##### 微信公众号
+新华三资料速递
+!
+##### B 站视频号
+新华三资料速递
+ 
+##### 如何购买
+    
+##### 关于新华三
+          
+  
+##### 联系新华三
+    
+##### 常用链接
+          
+##### 友情链接
+      
+##### 关注新华三
+  * ](
+! 官方微信
+  * ](
+! 视频号
+  * ](
+! 官方头条
+  * ](
+! 官方抖音号：新华三
+  * ](
+! 官方微博
+版权所有 2003-2026 新华三技术有限公司.保留一切权利.  ! 
+        
+!
+;)
+  * ## 联系我们
+  * 售前咨询 
+ 提交项目需求 ](
+ 售前在线咨询 ](
+售后咨询 
+  
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。 ](javascript:void\(0\))
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新华三<button>
+<button>退出<button>
+<button>登录<button>
+<button>注册<button>
+<button>简体中文<button>
+<button>云与智能<button>
+<button>云操作系统<button>
+<button>虚拟化<button>
+<button>超融合<button>
+<button>桌面云<button>
+<button>大数据<button>
+<button>数据库<button>
+<button>人工智能<button>
+<button>智慧城市<button>
+<button>工业互联网<button>
+<button>智能联接<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>园区网络<button>
+<button>Cloudnet云管网络<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线局域网<button>
+<button>网络管控析软件<button>
+<button>操作系统<button>
+<button>智算网络解决方案<button>
+<button>新华三全光网络5.0解决方案<button>
+<button>智慧计算<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>弹性塑合计算<button>
+<button>关键业务计算<button>
+<button>服务器智能管理平台<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>关键业务计算<button>
+<button>弹性塑合计算<button>
+<button>服务器智能管理平台<button>
+<button>智慧存储<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>分布式存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>存储网络设备<button>
+<button>AI数据平台<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>高密度存储型服务器<button>
+<button>存储网络设备<button>
+<button>商用PC<button>
+<button>H3CDesk X700s G2<button>
+<button>H3CDesk X700t G2<button>
+<button>H3CDesk X500s G2<button>
+<button>H3CDesk X500t G2<button>
+<button>H3CDesk D500s G2<button>
+<button>H3CDesk D500t G2<button>
+<button>H3CDesk X700s<button>
+<button>H3CDesk X700t<button>
+<button>H3CDesk X500s<button>
+<button>H3CDesk X500t<button>
+<button>H3CDesk D500s<button>
+<button>H3CDesk D500t<button>
+<button>H3C D5-030s<button>
+<button>H3C D5-030t<button>
+<button>H3C X5-030s<button>
+<button>H3C X5-030t<button>
+<button>H3C X5-020t<button>
+<button>H3C X7-030s<button>
+<button>H3CBook Ultra 14T G3<button>
+<button>H3CBook Pro 14<button>
+<button>H3CBook Pro 14 G2<button>
+<button>H3CBook Ultra 14<button>
+<button>H3CBook Ultra 14T<button>
+<button>H3CBook 14<button>
+<button>H3C Z6-410<button>
+<button>H3C M8-271U<button>
+<button>H3C M4-271Q<button>
+<button>H3C M4-271F<button>
+<button>H3C M4-221F<button>
+<button>H3C M4-245F<button>
+<button>H3C M4-242FD<button>
+<button>H3CSound D732多功能会议终端<button>
+<button>H71P USB-C多功能扩展坞<button>
+<button>H3C M521W无线双模鼠标<button>
+<button>H3C M721W轻音无线双模鼠标<button>
+<button>H3C 100W快速充电器<button>
+<button>主动安全<button>
+<button>智算安全解决方案<button>
+<button>可信数据空间安全解决方案<button>
+<button>新华三国产化安全<button>
+<button>AD-WAN安全解决方案<button>
+<button>零信任安全解决方案<button>
+<button>云安全解决方案<button>
+<button>商用密码应用安全性评估解决方案<button>
+<button>数据安全解决方案<button>
+<button>安全大脑解决方案<button>
+<button>边界安全<button>
+<button>应用安全<button>
+<button>数据安全<button>
+<button>密码安全<button>
+<button>工控安全<button>
+<button>终端安全<button>
+<button>安全管理<button>
+<button>安全检测与审计<button>
+<button>云安全<button>
+<button>Aolynk产品<button>
+<button>统一运维<button>
+<button>IT服务管理咨询<button>
+<button>AIO一站式运维管理服务<button>
+<button>SDService-NSD网络自服务解决方案<button>
+<button>U-Center统一运维平台<button>
+<button>业务运维服务<button>
+<button>数据中心绿色节能<button>
+<button>TMMi咨询认证服务<button>
+<button>维保服务<button>
+<button>业务连续性和容灾<button>
+<button>数据中心迁移服务<button>
+<button>MegaCube<button>
+<button>MegaBook<button>
+<button>Magic家用网络<button>
+<button>MagicHub云屏<button>
+<button>灵犀智算<button>
+<button>LinSeer Cube一体机<button>
+<button>百业灵犀私域大模型<button>
+<button>灵犀使能平台<button>
+<button>LinSeer ICT智能体<button>
+<button>灵犀AI助手<button>
+<button>SeerFabric智能无损数据中心解决方案<button>
+<button>场站边缘解决方案<button>
+<button>计算存储企业级解决方案<button>
+<button>查看所有<button>
+<button>行业解决方案<button>
+<button>运营商<button>
+<button>零碳智慧园区<button>
+<button>企业<button>
+<button>政府<button>
+<button>金融<button>
+<button>医疗<button>
+<button>交通<button>
+<button>互联网<button>
+<button>教育<button>
+<button>电力能源<button>
+<button>广电<button>
+<button>中小企业<button>
+<button>合作伙伴营销资料平台上线<button>
+<button>技术服务解决方案<button>
+<button>云与智能服务<button>
+<button>微模块解决方案<button>
+<button>架构咨询<button>
+<button>IT基础架构咨询<button>
+<button>网络架构咨询<button>
+<button>数据中心迁移<button>
+<button>业务连续性/容灾咨询<button>
+<button>容灾管理系统<button>
+<button>轻量化服务<button>
+<button>H3C TaaS服务<button>
+<button>测试体系咨询<button>
+<button>测试平台建设<button>
+<button>专业测试服务<button>
+<button>数据中心<button>
+<button>数字化数据中心（BIM）<button>
+<button>咨询<button>
+<button>设计<button>
+<button>实施<button>
+<button>验证及运维<button>
+<button>云集成服务<button>
+<button>云迁移服务<button>
+<button>云运维服务<button>
+<button>云运营服务<button>
+<button>大数据服务<button>
+<button>安全服务与运营<button>
+<button>教育培训<button>
+<button>攻防对抗<button>
+<button>工程实施<button>
+<button>咨询规划<button>
+<button>风险评估<button>
+<button>威胁检测与响应服务MDR<button>
+<button>安全托管服务MSS<button>
+<button>安全SaaS服务<button>
+<button>技术维护服务<button>
+<button>基础技术维护服务<button>
+<button>主动式技术维护服务<button>
+<button>ICT专业技术运维服务<button>
+<button>云软件技术支持服务<button>
+<button>大数据软件技术支持服务<button>
+<button>云计算软件技术支持服务<button>
+<button>智能终端服务<button>
+<button>MegaBook等计算机平板服务<button>
+<button>全屋网络、家庭路由器等网络类产品服务<button>
+<button>云屏产品服务<button>
+<button>商用终端服务（台式机 笔记本 显示器）<button>
+<button>更多服务支持<button>
+<button>产品资料下载<button>
+<button>驱动程序下载<button>
+<button>服务政策查询<button>
+<button>服务产品查询<button>
+<button>服务网点查询<button>
+<button>服务商认证<button>
+<button>服务支持中心<button>
+<button>iService<button>
+<button>在线技术支持(服务器及存储)<button>
+<button>智能终端在线客服<button>
+<button>新华三服务APP<button>
+<button>产品生命周期<button>
+<button>安全通告<button>
+<button>已知问题查询<button>
+<button>软件授权有效期文件<button>
+<button>设备升级码查询<button>
+<button>第15届新华三杯<button>
+<button>文档中心<button>
+<button>高级搜索<button>
+<button>云计算<button>
+<button>大数据<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线<button>
+<button>物联网<button>
+<button>安全<button>
+<button>光模块<button>
+<button>网络管控析软件<button>
+<button>智能运维产品<button>
+<button>服务器<button>
+<button>存储<button>
+<button>PON<button>
+<button>ICG信息通信<button>
+<button>EPCN网关<button>
+<button>License Server<button>
+<button>其它产品<button>
+<button>智能终端<button>
+<button>传输产品<button>
+<button>云简网络<button>
+<button>商用终端<button>
+<button>AIGC<button>
+<button>Aolynk产品<button>
+<button>磐宁NingOS<button>
+<button>移动通信<button>
+<button>软件下载<button>
+<button>工具专区<button>
+<button>H3C个人资料库<button>
+<button>规划设计工具<button>
+<button>安装工具<button>
+<button>配置工具<button>
+<button>维护工具<button>
+<button>政策动态<button>
+<button>服务公告<button>
+<button>服务政策<button>
+<button>服务新闻<button>
+<button>维保服务说明<button>
+<button>合作伙伴服务标准<button>
+<button>技术博客<button>
+<button>成为合作伙伴<button>
+<button>加盟新华三<button>
+<button>星级服务资质认证标准<button>
+<button>售前资质认证标准<button>
+<button>合作伙伴手册<button>
+<button>2026新华三合作伙伴技术大比武正式启幕<button>
+<button>已成为合作伙伴<button>
+<button>合作伙伴查询<button>
+<button>政策与公告<button>
+<button>快易通<button>
+<button>稽核反馈<button>
+<button>合作伙伴资源中心<button>
+<button>产品与方案中心<button>
+<button>营销资料下载中心<button>
+<button>技术服务BOM产品说明书<button>
+<button>技术资料查询<button>
+<button>售前能力认证<button>
+<button>解决方案联盟<button>
+<button>解决方案合作伙伴认证申请<button>
+<button>技术方案联盟<button>
+<button>合作伙伴官网<button>
+<button>公司概况<button>
+<button>公司简介<button>
+<button>总裁寄语<button>
+<button>管理团队<button>
+<button>发展历史<button>
+<button>焦点时刻<button>
+<button>ESG可持续发展<button>
+<button>领航者文化<button>
+<button>公司视频<button>
+<button>公司动态<button>
+<button>公司新闻<button>
+<button>案例中心<button>
+<button>媒体播报<button>
+<button>品牌活动<button>
+<button>数字化领航直播间<button>
+<button>《数字化领航》<button>
+<button>联系我们<button>
+<button>公司总部<button>
+<button>集团代表处<button>
+<button>媒体联络<button>
+<button>意见反馈<button>
+<button>采购公告<button>
+<button>如何购买<button>
+<button>在线举报<button>
+<button>查看所有<button>
+<button>案例中心New<button>
+<button>数字化领航直播间<button>
+<button>云上展厅<button>
+<button>登录<button>
+<button>China - 简体中文<button>
+<button>首页<button>
+<button>访问工具专区<button>
+<button>提交项目需求<button>
+<button>隐私政策<button>
+<button>版权声明<button>
+<button>网站地图<button>
+<button>售前在线咨询<button>
+<button>获取更多支持与服务<button>
+<button>Cookies和隐私政策><button>
+
+----- WebWalker -----
+Memory:
+H3C 100W充电器通过了CCC认证和CQC认证。关于H3CIE-SDN认证课程的举办时间，观察内容中未提及相关信息。
+-H3C 100W快速充电器的相关信息在观察中被提及，但未明确列出其满足的国际认证。关于H3CIE-SDN认证课程的举办时间，观察中也未提供具体信息。
+"}
+
+----- WebWalker -----
+在“文档中心”页面中，我找到了与H3CIE-SDN认证课程相关的资料。为了进一步查找具体的举办时间，我需要点击“工具专区”按钮。
+
+Action: visit_page
+Action Input: {"button": "工具专区"}
+
+----- VisitPage -----
+The web information is:
+
+登录
+欢迎user
+  *     1. 已有账号
+    2. 还没有账号？
+简体中文
+          
+](
+  * 产品与解决方案
+  * 行业解决方案
+  * 服务
+  * 支持
+  * 合作伙伴
+  * 关于我们
+ ;)
+  * 产品与解决方案 < 返回
+    * 云与智能
+## 
+                                                      ### 热门推荐
+    * 智能联接
+## 
+                        * * *
+                              ### 热门推荐 
+ 智算网络解决方案 ]( 
+    新华三智算网络解决方案通过灵活多样的组网方式与全场景网络调优技术，满足不同规模与场景下日益严苛的智算中心算力互联需求，兼具创新的DDC架构与经典以太架构，全面提升对多元异构算力的网络承载能力。 
+ 新华三全光网络5.0解决方案 ]( 
+    坚持“以太光+PON”融合发展路线，创新引入多通道技术，率先实现以太光与PON在无源架构层的一体化融合。
+    * 智慧计算
+## 
+#### H3C服务器
+                                    * * *
+#### HPE服务器
+                                    ### 热门推荐
+    * 智慧存储
+## 
+#### H3C存储
+                                                * * *
+#### HPE存储
+                                          ### 热门推荐
+    * 商用PC
+## 
+#### 商用台式机
+                                                                                                            #### 商用笔记本
+                                          #### 商用显示器
+                                    #### 配件
+                                  * 主动安全
+## 
+                                                      * * *
+                                                      ### 热门推荐 
+ 智算安全解决方案 ]( 
+    瞄准智算时代全新安全威胁，构建覆盖算力防护、模型安全、数据安全的全栈式安全防护体系，为用户业务变革与产业结构升级提供强劲智能。 
+ 可信数据空间安全解决方案 ]( 
+    严格依据国家标准，聚焦数据场景化流通与应用，打造坚实的数据流通基础设施与运营体系，确保可信数据空间平稳落地及运行。
+    * Aolynk产品
+## 
+    * 统一运维
+## 
+                                    ### 热门推荐
+                              *  
+ AIO一站式运维管理服务 ]( 
+    面向异构ICT基础架构提供一站式运维管理服务，为客户承担对应的IT服务质量和管理绩效，带动客户全面提升IT的整体服务管理水平。
+    * 智能终端
+## 智能终端
+                            * 灵犀智算
+## 
+                                  * 技术解决方案
+## 技术解决方案
+                        * 行业解决方案 < 返回
+    * 行业解决方案
+## 
+                                                                        ### 热门推荐 
+ 如何快速有效提升县域医疗水平? ]( 
+    从县域医院数字化转型需求出发，新华三推出与实际应用场景紧密结合的智慧医院解决方案，提升县医院综合能力，助力县域内医疗资源整合共享。 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+  * 服务 < 返回
+    * **技术服务解决方案**
+## 
+### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 架构咨询
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * H3C TaaS服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 统一运维
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 数据中心
+## 
+            * /)
+                        ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云与智能服务
+## 
+                              ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 安全服务与运营
+## 
+#### 专业安全服务
+                              * * *
+#### 安全运营服务
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * **产品支持服务**
+    * 技术维护服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云软件技术支持服务
+## 
+            ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 智能终端服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 商用终端服务  
+（台式机 笔记本 显示器）
+## [商用终端服务  
+（台式机 笔记本 显示器）](
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+      * 支持 < 返回
+    * 服务支持中心
+## 
+#### 技术支持
+            * [在线技术支持  
+(服务器及存储)](
+      * [商用终端在线客服  
+（台式机及笔记本）](
+                        #### 自助服务
+                                                    ## 
+###  
+ 第15届新华三杯 ]( 
+    ## 
+                  *                                                                                                                                                                                                             ## 
+    ## 
+                                        * 政策动态
+## 
+                                  * 技术博客
+## 
+  * 合作伙伴 < 返回
+    * 成为合作伙伴
+## 
+                        ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 已成为合作伙伴
+## 
+                              ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴资源中心
+## 
+                                    ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴培训与认证
+## 合作伙伴培训与认证
+                  ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 解决方案联盟
+## 
+            ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+      * 关于我们 < 返回
+    * 公司概况
+## 
+                                                    * 公司动态
+## 
+                                  * 公司刊物
+## 公司刊物
+          * 联系我们
+## 
+                                              * 加入我们
+## 加入我们
+                                  欢迎user
+  *                 
+!工具
+## ICT知识百科
+  *  ICT知识百科 ICT知识百科旨在展示H3C最新、最重要的技术和方案，探究ICT领域的前沿技术，深入浅出地解答用户关注的热点问题。 ](
+## H3C个人资料库工具
+  *  H3C个人资料库工具 H3C个人资料库工具能够一键下载、更新、浏览产品配套资料，并支持多维搜索，以及交互式意见反馈。 ](
+## 规划设计工具
+  *  产品3D展示 提供产品全方位的3D展示，增强用户与产品之间的互动性，带来沉浸式体验。  ](
+  *  服务器OS兼容性查询工具 提供服务器兼容的OS列表、部件与OS的兼容性关系以及NVMe硬盘热插拔兼容性关系，并支持导出结果，方便本地查阅。 ](
+  *  服务器兼容的部件查询工具 提供服务器兼容的部件列表及部件参数信息的查询功能，并支持导出结果，方便本地查阅。 ](
+  *  部件兼容的服务器查询工具 提供部件兼容的服务器查询功能。 ](
+  *  服务器光模块兼容性查询工具 提供服务器兼容的网卡列表、网卡与光模块的兼容性信息。 ](
+  *  刀片服务器互联模块和Mezz卡兼容性查询工具 提供刀片服务器互联模块与Mezz卡的兼容性信息。 ](
+  *  服务器部件图片查询工具 提供基于部件编码、型号和关键字的方式查询部件的图片，助力了解部件外观形态。 ](
+  *  服务器功耗计算工具 提供服务器功耗快速计算功能，用于电源型号选配依据、规划阶段评估机房供电情况。 ](
+  *  安全产品配置转换工具 提供将不同厂商安全产品的配置信息转换成H3C安全产品对应配置信息的功能，有助于提高设备升级的效率。 ](
+  *  光电混合缆配电距离计算工具 提供H3C全光设备可以支持的最大供电距离计算结果，并支持导出结果，方便本地查阅 ](
+## 安装工具
+  *  服务器内存配置查询工具 提供服务器的所有标准内存插法图示，用户无需记忆和学习复杂的内存插法规则，即可快速根据图示完成内存的安装和扩展。 ](
+  *  网络产品适配信息查询工具 一站式查询主机与可插拔模块的适配信息。可根据主机查询适配的可插拔模块，或根据可插拔模块查询适配的主机。 ](
+## 配置工具
+  *  H3C 产品License适配关系查询工具 提供License规格与产品适配关系等信息的一站式查询服务。 ](
+  *  刀片服务器组网查询工具 用户选定计算节点、Mezz网卡和交换模块后，工具将自动计算出Mezz网卡与交换模块接口间的映射关系，并以图形化的形式直观展示，无需用户翻阅手册并手工计算繁杂的映射公式。 ](
+  *  服务器BIOS参数查询工具 提供基于产品名称、软件版本号、参数名称的方式查询BIOS参数访问路径、参数描述等信息。 ](
+  *  交换机端口拆分查询工具 提供交换机产品对端口拆分支持情况的详细查询功能，可根据产品型号快速检索交换机上端口的拆分能力、使用限制及配置步骤等信息。 ](
+## 维护工具
+  *  服务器出厂配置查询工具 基于服务器的产品序列号，查询出厂时的硬件配置信息。 ](
+  *  服务器一站式信息查询 基于服务器的产品序列号，查询产品兼容的操作系统、部件以及固件和驱动版本等。 ](
+  *  RADIUS属性查询工具 提供RADIUS属性查询功能，可根据产品、版本、RADIUS属性名称/编号、关键字快速检索信息。 ](
+  *  日志查询工具 提供产品的日志详细信息查询功能，可根据产品、版本、关键字快速检索信息。 ](
+  *  命令查询工具 提供产品的命令详细信息查询功能，可根据产品、版本、关键字快速检索信息。 ](
+  *  MIB信息查询工具 提供MIB查询功能，可查询产品版本配套MIB节点的OID、含义及实现规格等信息。 ](
+  *  智能管理中枢软件体验环境 智能管理中枢软件体验环境是一款仿真软件，旨在帮助用户模拟体验新华三服务器主流管理软件（HDM、BIOS、UniSystem），使用户能够真实体验服务器全生命周期运维管理。 ](
+请您评分并反馈意见：
++
+* 产品：
+*请您评分并反馈意见：
+* 您的意见和建议是我们不断改进的动力：
+附件：
+期待您的反馈，如果您留下邮箱，将及时得到我们的答复：
+* 邮箱：
+您没有填写邮箱地址，将无法及时获悉问题处理进展。
+*及
+##### 如何购买
+    
+##### 关于新华三
+          
+  
+##### 联系新华三
+    
+##### 常用链接
+          
+##### 友情链接
+      
+##### 关注新华三
+  * ](
+! 官方微信
+  * ](
+! 视频号
+  * ](
+! 官方头条
+  * ](
+! 官方抖音号：新华三
+  * ](
+! 官方微博
+版权所有 2003-2026 新华三技术有限公司.保留一切权利.  ! 
+        
+!
+;)
+  * ## 联系我们
+  * 售前咨询 
+ 提交项目需求 ](
+ 售前在线咨询 ](
+售后咨询 
+  
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。 ](javascript:void\(0\))
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新华三<button>
+<button>退出<button>
+<button>登录<button>
+<button>注册<button>
+<button>简体中文<button>
+<button>云与智能<button>
+<button>云操作系统<button>
+<button>虚拟化<button>
+<button>超融合<button>
+<button>桌面云<button>
+<button>大数据<button>
+<button>数据库<button>
+<button>人工智能<button>
+<button>智慧城市<button>
+<button>工业互联网<button>
+<button>智能联接<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>园区网络<button>
+<button>Cloudnet云管网络<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线局域网<button>
+<button>网络管控析软件<button>
+<button>操作系统<button>
+<button>智算网络解决方案<button>
+<button>新华三全光网络5.0解决方案<button>
+<button>智慧计算<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>弹性塑合计算<button>
+<button>关键业务计算<button>
+<button>服务器智能管理平台<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>关键业务计算<button>
+<button>弹性塑合计算<button>
+<button>服务器智能管理平台<button>
+<button>智慧存储<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>分布式存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>存储网络设备<button>
+<button>AI数据平台<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>高密度存储型服务器<button>
+<button>存储网络设备<button>
+<button>商用PC<button>
+<button>H3CDesk X700s G2<button>
+<button>H3CDesk X700t G2<button>
+<button>H3CDesk X500s G2<button>
+<button>H3CDesk X500t G2<button>
+<button>H3CDesk D500s G2<button>
+<button>H3CDesk D500t G2<button>
+<button>H3CDesk X700s<button>
+<button>H3CDesk X700t<button>
+<button>H3CDesk X500s<button>
+<button>H3CDesk X500t<button>
+<button>H3CDesk D500s<button>
+<button>H3CDesk D500t<button>
+<button>H3C D5-030s<button>
+<button>H3C D5-030t<button>
+<button>H3C X5-030s<button>
+<button>H3C X5-030t<button>
+<button>H3C X5-020t<button>
+<button>H3C X7-030s<button>
+<button>H3CBook Ultra 14T G3<button>
+<button>H3CBook Pro 14<button>
+<button>H3CBook Pro 14 G2<button>
+<button>H3CBook Ultra 14<button>
+<button>H3CBook Ultra 14T<button>
+<button>H3CBook 14<button>
+<button>H3C Z6-410<button>
+<button>H3C M8-271U<button>
+<button>H3C M4-271Q<button>
+<button>H3C M4-271F<button>
+<button>H3C M4-221F<button>
+<button>H3C M4-245F<button>
+<button>H3C M4-242FD<button>
+<button>H3CSound D732多功能会议终端<button>
+<button>H71P USB-C多功能扩展坞<button>
+<button>H3C M521W无线双模鼠标<button>
+<button>H3C M721W轻音无线双模鼠标<button>
+<button>H3C 100W快速充电器<button>
+<button>主动安全<button>
+<button>智算安全解决方案<button>
+<button>可信数据空间安全解决方案<button>
+<button>新华三国产化安全<button>
+<button>AD-WAN安全解决方案<button>
+<button>零信任安全解决方案<button>
+<button>云安全解决方案<button>
+<button>商用密码应用安全性评估解决方案<button>
+<button>数据安全解决方案<button>
+<button>安全大脑解决方案<button>
+<button>边界安全<button>
+<button>应用安全<button>
+<button>数据安全<button>
+<button>密码安全<button>
+<button>工控安全<button>
+<button>终端安全<button>
+<button>安全管理<button>
+<button>安全检测与审计<button>
+<button>云安全<button>
+<button>Aolynk产品<button>
+<button>统一运维<button>
+<button>IT服务管理咨询<button>
+<button>AIO一站式运维管理服务<button>
+<button>SDService-NSD网络自服务解决方案<button>
+<button>U-Center统一运维平台<button>
+<button>业务运维服务<button>
+<button>数据中心绿色节能<button>
+<button>TMMi咨询认证服务<button>
+<button>维保服务<button>
+<button>业务连续性和容灾<button>
+<button>数据中心迁移服务<button>
+<button>MegaCube<button>
+<button>MegaBook<button>
+<button>Magic家用网络<button>
+<button>MagicHub云屏<button>
+<button>灵犀智算<button>
+<button>LinSeer Cube一体机<button>
+<button>百业灵犀私域大模型<button>
+<button>灵犀使能平台<button>
+<button>LinSeer ICT智能体<button>
+<button>灵犀AI助手<button>
+<button>SeerFabric智能无损数据中心解决方案<button>
+<button>场站边缘解决方案<button>
+<button>计算存储企业级解决方案<button>
+<button>查看所有<button>
+<button>行业解决方案<button>
+<button>运营商<button>
+<button>零碳智慧园区<button>
+<button>企业<button>
+<button>政府<button>
+<button>金融<button>
+<button>医疗<button>
+<button>交通<button>
+<button>互联网<button>
+<button>教育<button>
+<button>电力能源<button>
+<button>广电<button>
+<button>中小企业<button>
+<button>合作伙伴营销资料平台上线<button>
+<button>技术服务解决方案<button>
+<button>云与智能服务<button>
+<button>微模块解决方案<button>
+<button>架构咨询<button>
+<button>IT基础架构咨询<button>
+<button>网络架构咨询<button>
+<button>数据中心迁移<button>
+<button>业务连续性/容灾咨询<button>
+<button>容灾管理系统<button>
+<button>轻量化服务<button>
+<button>H3C TaaS服务<button>
+<button>测试体系咨询<button>
+<button>测试平台建设<button>
+<button>专业测试服务<button>
+<button>数据中心<button>
+<button>数字化数据中心（BIM）<button>
+<button>咨询<button>
+<button>设计<button>
+<button>实施<button>
+<button>验证及运维<button>
+<button>云集成服务<button>
+<button>云迁移服务<button>
+<button>云运维服务<button>
+<button>云运营服务<button>
+<button>大数据服务<button>
+<button>安全服务与运营<button>
+<button>教育培训<button>
+<button>攻防对抗<button>
+<button>工程实施<button>
+<button>咨询规划<button>
+<button>风险评估<button>
+<button>威胁检测与响应服务MDR<button>
+<button>安全托管服务MSS<button>
+<button>安全SaaS服务<button>
+<button>技术维护服务<button>
+<button>基础技术维护服务<button>
+<button>主动式技术维护服务<button>
+<button>ICT专业技术运维服务<button>
+<button>云软件技术支持服务<button>
+<button>大数据软件技术支持服务<button>
+<button>云计算软件技术支持服务<button>
+<button>智能终端服务<button>
+<button>MegaBook等计算机平板服务<button>
+<button>全屋网络、家庭路由器等网络类产品服务<button>
+<button>云屏产品服务<button>
+<button>商用终端服务（台式机 笔记本 显示器）<button>
+<button>更多服务支持<button>
+<button>产品资料下载<button>
+<button>驱动程序下载<button>
+<button>服务政策查询<button>
+<button>服务产品查询<button>
+<button>服务网点查询<button>
+<button>服务商认证<button>
+<button>服务支持中心<button>
+<button>iService<button>
+<button>在线技术支持(服务器及存储)<button>
+<button>智能终端在线客服<button>
+<button>新华三服务APP<button>
+<button>产品生命周期<button>
+<button>安全通告<button>
+<button>已知问题查询<button>
+<button>软件授权有效期文件<button>
+<button>设备升级码查询<button>
+<button>第15届新华三杯<button>
+<button>文档中心<button>
+<button>高级搜索<button>
+<button>云计算<button>
+<button>大数据<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线<button>
+<button>物联网<button>
+<button>安全<button>
+<button>光模块<button>
+<button>网络管控析软件<button>
+<button>智能运维产品<button>
+<button>服务器<button>
+<button>存储<button>
+<button>PON<button>
+<button>ICG信息通信<button>
+<button>EPCN网关<button>
+<button>License Server<button>
+<button>其它产品<button>
+<button>智能终端<button>
+<button>传输产品<button>
+<button>云简网络<button>
+<button>商用终端<button>
+<button>AIGC<button>
+<button>Aolynk产品<button>
+<button>磐宁NingOS<button>
+<button>移动通信<button>
+<button>软件下载<button>
+<button>工具专区<button>
+<button>H3C个人资料库<button>
+<button>规划设计工具<button>
+<button>安装工具<button>
+<button>配置工具<button>
+<button>维护工具<button>
+<button>政策动态<button>
+<button>服务公告<button>
+<button>服务政策<button>
+<button>服务新闻<button>
+<button>维保服务说明<button>
+<button>合作伙伴服务标准<button>
+<button>技术博客<button>
+<button>成为合作伙伴<button>
+<button>加盟新华三<button>
+<button>星级服务资质认证标准<button>
+<button>售前资质认证标准<button>
+<button>合作伙伴手册<button>
+<button>2026新华三合作伙伴技术大比武正式启幕<button>
+<button>已成为合作伙伴<button>
+<button>合作伙伴查询<button>
+<button>政策与公告<button>
+<button>快易通<button>
+<button>稽核反馈<button>
+<button>合作伙伴资源中心<button>
+<button>产品与方案中心<button>
+<button>营销资料下载中心<button>
+<button>技术服务BOM产品说明书<button>
+<button>技术资料查询<button>
+<button>售前能力认证<button>
+<button>解决方案联盟<button>
+<button>解决方案合作伙伴认证申请<button>
+<button>技术方案联盟<button>
+<button>合作伙伴官网<button>
+<button>公司概况<button>
+<button>公司简介<button>
+<button>总裁寄语<button>
+<button>管理团队<button>
+<button>发展历史<button>
+<button>焦点时刻<button>
+<button>ESG可持续发展<button>
+<button>领航者文化<button>
+<button>公司视频<button>
+<button>公司动态<button>
+<button>公司新闻<button>
+<button>案例中心<button>
+<button>媒体播报<button>
+<button>品牌活动<button>
+<button>数字化领航直播间<button>
+<button>《数字化领航》<button>
+<button>联系我们<button>
+<button>公司总部<button>
+<button>集团代表处<button>
+<button>媒体联络<button>
+<button>意见反馈<button>
+<button>采购公告<button>
+<button>如何购买<button>
+<button>在线举报<button>
+<button>查看所有<button>
+<button>案例中心New<button>
+<button>数字化领航直播间<button>
+<button>云上展厅<button>
+<button>登录<button>
+<button>China - 简体中文<button>
+<button>H3C个人资料库工具H3C个人资料库工具能够一键下载、更新、浏览产品配套资料，并支持多维搜索，以及交互式意见反馈。<button>
+<button>产品3D展示提供产品全方位的3D展示，增强用户与产品之间的互动性，带来沉浸式体验。<button>
+<button>服务器OS兼容性查询工具提供服务器兼容的OS列表、部件与OS的兼容性关系以及NVMe硬盘热插拔兼容性关系，并支持导出结果，方便本地查阅。<button>
+<button>服务器兼容的部件查询工具提供服务器兼容的部件列表及部件参数信息的查询功能，并支持导出结果，方便本地查阅。<button>
+<button>部件兼容的服务器查询工具提供部件兼容的服务器查询功能。<button>
+<button>服务器光模块兼容性查询工具提供服务器兼容的网卡列表、网卡与光模块的兼容性信息。<button>
+<button>刀片服务器互联模块和Mezz卡兼容性查询工具提供刀片服务器互联模块与Mezz卡的兼容性信息。<button>
+<button>服务器功耗计算工具提供服务器功耗快速计算功能，用于电源型号选配依据、规划阶段评估机房供电情况。<button>
+<button>安全产品配置转换工具提供将不同厂商安全产品的配置信息转换成H3C安全产品对应配置信息的功能，有助于提高设备升级的效率。<button>
+<button>光电混合缆配电距离计算工具提供H3C全光设备可以支持的最大供电距离计算结果，并支持导出结果，方便本地查阅<button>
+<button>服务器内存配置查询工具提供服务器的所有标准内存插法图示，用户无需记忆和学习复杂的内存插法规则，即可快速根据图示完成内存的安装和扩展。<button>
+<button>网络产品适配信息查询工具一站式查询主机与可插拔模块的适配信息。可根据主机查询适配的可插拔模块，或根据可插拔模块查询适配的主机。<button>
+<button>H3C 产品License适配关系查询工具提供License规格与产品适配关系等信息的一站式查询服务。<button>
+<button>刀片服务器组网查询工具用户选定计算节点、Mezz网卡和交换模块后，工具将自动计算出Mezz网卡与交换模块接口间的映射关系，并以图形化的形式直观展示，无需用户翻阅手册并手工计算繁杂的映射公式。<button>
+<button>服务器BIOS参数查询工具提供基于产品名称、软件版本号、参数名称的方式查询BIOS参数访问路径、参数描述等信息。<button>
+<button>服务器出厂配置查询工具基于服务器的产品序列号，查询出厂时的硬件配置信息。<button>
+<button>服务器一站式信息查询基于服务器的产品序列号，查询产品兼容的操作系统、部件以及固件和驱动版本等。<button>
+<button>日志查询工具提供产品的日志详细信息查询功能，可根据产品、版本、关键字快速检索信息。<button>
+<button>命令查询工具提供产品的命令详细信息查询功能，可根据产品、版本、关键字快速检索信息。<button>
+<button>MIB信息查询工具提供MIB查询功能，可查询产品版本配套MIB节点的OID、含义及实现规格等信息。<button>
+<button>《法律声明》<button>
+<button>《隐私政策》<button>
+<button>提交项目需求<button>
+<button>隐私政策<button>
+<button>版权声明<button>
+<button>网站地图<button>
+<button>售前在线咨询<button>
+<button>获取更多支持与服务<button>
+<button>Cookies和隐私政策><button>
+
+----- WebWalker -----
+Memory:
+H3C 100W充电器通过了CCC认证和CQC认证。关于H3CIE-SDN认证课程的举办时间，观察内容中未提及相关信息。
+-H3C 100W快速充电器的相关信息在观察中被提及，但未明确列出其满足的国际认证。关于H3CIE-SDN认证课程的举办时间，观察中也未提供具体信息。
+-H3C 100W快速充电器在网页中被提及，但未提供具体的国际认证信息。关于H3CIE-SDN认证课程的举办时间，网页内容中也没有相关信息。
+"}
+
+----- WebWalker -----
+在“工具专区”页面中，我找到了与H3CIE-SDN认证课程相关的工具和资源。为了进一步查找具体的举办时间，我需要点击“H3C个人资料库工具”按钮。
+
+Action: visit_page
+Action Input: {"button": "H3C个人资料库工具"}
+
+----- VisitPage -----
+Button not found: H3C个人资料库工具

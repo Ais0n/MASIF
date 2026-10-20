@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0604_3aa2d7c998f3",
+  "source_index": 604,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In the IGG's initiatives involving Lords Mobile, name the artist whose piece 'Storm Fox' won the first prize in a competition, and identify the public welfare project that was launched near Tianheng Island in 2023?",
+  "prompt": "In the IGG's initiatives involving Lords Mobile, name the artist whose piece 'Storm Fox' won the first prize in a competition, and identify the public welfare project that was launched near Tianheng Island in 2023?",
+  "expected_answer": "The artist Jiang won first prize with 'Storm Fox'. The public welfare project launched near Tianheng Island in 2023 is called 'Protecting the Azure Ocean'.",
+  "root_url": "https://www.igg.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.igg.com/charity/?pageno=3",
+      "https://www.igg.com/charity/?pageno=1"
+    ],
+    "golden_path": [
+      "root->CHARITY->Next->Prev",
+      "root->CHARITY->Next->First"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 46.501,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0604_3aa2d7c998f3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0604_3aa2d7c998f3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

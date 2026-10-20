@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "masif"
+version = "0.1.1"
+description = "Implementation of counterfactual replay, IF selection, and IF-GRPO"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = ["requests>=2.31"]
+
+[project.optional-dependencies]
+train = ["torch>=2.2", "transformers>=4.51,<5", "accelerate>=0.30"]
+
+[tool.setuptools.packages.find]
+include = ["masif*"]

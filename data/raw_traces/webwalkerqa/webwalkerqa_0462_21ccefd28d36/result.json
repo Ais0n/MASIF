@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0462_21ccefd28d36",
+  "source_index": 462,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who received the Nagesh Murthy Emerging Economies Doctoral Dissertation Award for Asia in 2024 and what role did Nagesh M. Murthy hold within POMS?",
+  "prompt": "Who received the Nagesh Murthy Emerging Economies Doctoral Dissertation Award for Asia in 2024 and what role did Nagesh M. Murthy hold within POMS?",
+  "expected_answer": "Nani Zhou received the Nagesh Murthy Emerging Economies Doctoral Dissertation Award for Asia in 2024. Nagesh M. Murthy is recognized by the Sushil K. Gupta Distinguished POMS Service Award, which he received in 2016.",
+  "root_url": "https://www.poms.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.poms.org/pomsocietyawards/economiesawardforasia",
+      "https://www.poms.org/pomsocietyawards/distinguishedpomsserviceaward"
+    ],
+    "golden_path": [
+      "root->The Nagesh Murthy Award for Asia",
+      "root->Sushil K Gupta Distinguished POMS Service Award"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The recipient of the Nagesh Murthy Emerging Economies Doctoral Dissertation Award for Asia in 2024 is Nani Zhou. Nagesh M. Murthy held the role of Executive Director at POMS.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 18.86,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0462_21ccefd28d36/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0462_21ccefd28d36/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

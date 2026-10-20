@@ -1,0 +1,1155 @@
+----- user -----
+query:
+Who were the two specific committee members working on SIGCHI's data access/use policy, and who received the 2024 SIGCHI Lifetime Research Award?
+official website:
+https://sigchi.org/
+Observation:website information:
+
+ ! ](
+About
+People
+Conferences
+Resources
+News
+Join Us
+Menu
+About
+People
+Conferences
+Resources
+News
+#  Special Interest Group _on_ Computer-Human Interaction
+ACM SIGCHI is the leading international community of students and professionals interested in research, education, and practical applications of Human Computer Interaction.
+!!
+!!
+!!
+A family of conferences organized every year since 1983
+A thriving community of over 5,000 members
+Committed to growing our global and local presence
+## Latest News
+## Announcements
+##### SIGCHI @ CHI26
+11 Apr 2026
+The SIGCHI Exec will be holding several initiatives at CHI26 to celebrate our 2026 awardees and special recognition recipients, engage the SIGCHI community on key issues, recognize volunteer efforts, and build connections across local communities! Please see below for more details:
+### Thank a Volunteer!
+We know that SIGCHI flourishes thanks to the efforts of hundreds of volunteers, if not thousands. We encourage you to take the time this CHI to “Thank a Volunteer” and send a note of appreciation their way. We've set up a  you can use to do so. 
+### Events Schedule  
+| **Event**  | **Date/Time**  | **Location**  |  
+| --- | --- | --- |  
+| Opening Remarks  | April 13, 8:30-10:30  | Auditorium  |  
+| SIGCHI Lounge (see below for more details)  | April 13-17  | Exhibit Hall (Area 1+2+3)  |  
+| SIGCHI Academy  | April 13, 16:30-18:00  | Auditorium  |  
+| Outstanding Dissertation Awards  | April 14, 14:15-15:45  | Auditorium  |  
+| Societal Impact Awards  | April 14, 16:30-18:00  | Auditorium  |  
+| SIGCHI Town Hall  | April 15, 12:45-14:15  | Auditorium  |  
+| Codesigning SIGCHI Futures  | April 15, 16:30-18:00  | Auditorium  |  
+| SIGCHI Conference Lunch  | April 16, 12:45-14:15  | Banquet Hall  |  
+| Lifetime Service Awards  | April 16, 14:15-15:45  | Auditorium  |  
+| Lifetime Research Awards  | April 16, 16:30-18:00  | Auditorium  |  
+| SIGCHI Chapters & Regions Breakfast  | April 17, 7:30-9:00  | Banquet Hall  |  
+### **SIGCHI Lounge Schedule**
+The space is shared with the Global Plaza. Chapter meetups are organized with the support of the CHI 26 Global Chairs and the SIGCHI VP for Chapters. 
+**Location** : Exhibit Hall (in the program: Area 1+2+3).  
+| **Date/Time**  | **Activity**  |  
+| --- | --- |  
+| April 13, 10:30-11:15 (coffee break)  | Put a dot on the Chapters Map + Thank-a-volunteer display  |  
+| April 13, 14:15-15:45  | Accessibility & Hybrid conferencing  |  
+| April 13, 15:45-16:30 (coffee break)  | SIGCHI Conferences AMA + Thank-a-volunteer display  |  
+| April 13, 18:00-19:30  | Thank-a-volunteer display + AfriCHI meetup  |  
+| April 14, 10:30-11:15 (coffee break)  | SIGCHI Conferences AMA + Thank-a-volunteer display  |  
+| April 14, 15:45-16:30 (coffee break)  | ACM-Women (hosted by the Global Chairs) and Delft Chapter  |  
+| April 14, 16:30-17:45  | Canada HCI Group  |  
+| April 15, 10:30-11:15 (coffee break)  | Salish Sea Chapter  |  
+| April 15, 15:45-16:30 (coffee break)  | Cyprus Chapter   |  
+| April 15, 16:30-17:00  | London Chapter  |  
+| April 16, 10:30-11:15 (coffee break)  | Netherlands Chapter  |  
+| April 16, 15:45-16:30 (coffee break)  | Austria Chapter   |  
+| April 16, 16:30-17:00  | ArabCHI  |  
+##### Voices of SIGCHI: April Issue
+09 Apr 2026
+We're delighted to share the , our quarterly newsletter! In this issue, you’ll find:
+  * A tribute honoring the life of ACM's former CEO and President Vicki L. Hanson
+  * Updates on SIGCHI’s financial health
+  * A retrospective from Judy Olson on the early days of building the HCI community 
+  * Thought-provoking posts from volunteers of ACM Interactive Health, the Research Ethics Committee, and Publications Committee
+  * Reflections on community-building and volunteer efforts around chapters, regions, mentorship, and HCI education
+  * Member spotlights showcasing the people and perspectives that shape SIGCHI
+We hope you enjoy reading, and please be on the lookout for our open call for the July issue. 
+##### Peer review at CHI
+24 Mar 2026
+Please see below a note from **Regan Mandryk, Sven Mayer,** and **Anna Cox** , who have been leading a working group of the **CHI Steering Committee** to rethink peer review. Those of you at our recent Town Hall Preview would have heard them present their plans as they move forward. Please see instructions below to give them feedback now, at CHI, or later!
+===
+Since 2024, a working group of the CHI Steering Committee has been working on . We have held community input sessions, had an online feedback forum, and have met regularly over the last 2 years. We created reports on what other conferences (within SIGCHI and the ACM, but also beyond) have been doing. We looked to other review processes (e.g., grants, faculty search, grad school application, University ranking) for inspiration. We used previous CHI submission data to run simulations. We engaged in role-playing exercises where we enacted different review structures and processes. This all culminated in an in-person meeting in January 2026, where we finalized our proposal for CHI full papers review processes moving forward. We sought input and feedback from various stakeholders and discussed it with the CHI Steering Committee and the SIGCHI Executive Committee. 
+Our proposal is a 5-point action plan, with interconnected solutions which can be found . 
+Now, we are reaching out to the larger CHI community for your input and feedback. You may provide feedback in person at **CHI 2026** (Wednesday afternoon at 2:15 in the Auditorium), or via .
+Best wishes, 
+Regan, Sven & Anna
+30
+##### Conferences
+5k+
+##### Members
+85k+
+##### Publications
+90
+##### Countries
+#  Our _thirty_ Conferences
+SIGCHI sponsors/co-sponsors 30 Human-Computer Interaction conferences annually, including our flagship conference, CHI (Human Factors in Computing Systems), which has been organized every year since 1983.
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+](
+##### 
+View all
+## Conferences, Meetings, & Open Sessions
+## Upcoming Events
+!
+!
+© ACM Special Interest Group on Computer-Human Interaction · 2026
+Powered by](
+Back to top
+
+
+clickable button:
+
+<button>What is SIGCHI?<button>
+<button>Ethics and Conduct<button>
+<button>Policies<button>
+<button>CARES<button>
+<button>Voting History<button>
+<button>Contact Us<button>
+<button>Membership<button>
+<button>Executive Committee<button>
+<button>All Committees<button>
+<button>Chapters<button>
+<button>Awards<button>
+<button>Volunteer History<button>
+<button>Upcoming Conferences<button>
+<button>Conference History<button>
+<button>Development Fund<button>
+<button>Gary Marsden Travel Awards<button>
+<button>Guides for Authors<button>
+<button>Guides for Organizers<button>
+<button>Meetings<button>
+<button>Announcements<button>
+<button>Newsletters<button>
+<button>Learn more<button>
+<button>Read more<button>
+<button>April issue of<button>
+<button>Voices of SIGCHI<button>
+<button>Read more<button>
+<button>Read more<button>
+<button>All announcements<button>
+<button>ConferenceEduCHI 2026May 20, 2026-May 22, 2026<button>
+<button>ConferenceENASE 2026May 22, 2026-May 24, 2026<button>
+<button>ConferenceETRA 2026Jun 01, 2026-Jun 04, 2026<button>
+<button>Events Calendar<button>
+<button>Home<button>
+<button>About<button>
+<button>Chapters<button>
+<button>Calendar<button>
+<button>Updates<button>
+<button>Memberships<button>
+<button>Privacy Policy<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the two specific committee members working on SIGCHI's data access/use policy and who received the 2024 SIGCHI Lifetime Research Award. The "Awards" button might provide information about the Lifetime Research Award, while the "All Committees" button could lead me to the relevant committee members. I will start by clicking the "Awards" button.
+
+Action: visit_page
+Action Input: {"button": "Awards"}
+
+----- VisitPage -----
+The web information is:
+
+ ! ](
+About
+People
+Conferences
+Resources
+News
+Join Us
+Menu
+About
+People
+Conferences
+Resources
+News
+/
+/
+# SIGCHI Awards
+The **SIGCHI Awards** identify and honor leaders and shapers of the field of human-computer interaction within SIGCHI. We currently present awards in six categories:
+  * SIGCHI Lifetime Research Award
+  * SIGCHI Lifetime Practice Award
+  * SIGCHI Lifetime Service Award
+  * SIGCHI Societal Impact Award
+  * SIGCHI Outstanding Dissertation Award
+  * Induction into the SIGCHI Academy
+The descriptions and criteria for these awards are given below. Awards typically come with travel support to attend the year’s CHI conference. Awardees are recognized at the conference, and receive two complimentary passes (for themselves and a guest) to attend the annual SIGCHI awards banquet. The following pages contain additional useful information:
+        *  (and special criteria for the )
+    
+With the 2025 cycle, we also started inviting **SIGCHI Special Recognitions** to celebrate and honor individuals who have made exceptional contributions to the field of HCI in ways that may not be fully captured by our existing awards. Special recognitions can be for individuals or groups. Some possible special recognitions include the following, but this is NOT an exhaustive list:
+  * Emerging Researcher Recognition: For students who have completed at least two years of graduate education, have shown passion, enthusiasm, and commitment to impactful HCI research, and demonstrated dedication to building community within SIGCHI, at any level
+  * Excellence in HCI Education: For researchers and practitioners who have made outstanding contributions to HCI curricula or pedagogy that improve the quality and reach of HCI education 
+  * Community Building and Outreach: For researchers and practitioners who have built strong and reciprocal relationships with communities and community-based organizations, through which they have amplified the social impact of their research and/or practice
+  * Significant Contribution to Diversity and Inclusion in HCI: For researchers and practitioners who have shown strong leadership in advancing diversity and inclusion in the SIGCHI community, demonstrated by clear positive impacts on meaningful participation in the field 
+  * Impactful Industry-Academia Collaboration: For researchers and practitioners who have forged strong collaborations between industry and academic organizations towards more impactful, creative, and sustainable HCI research and/or practice 
+  * Lifetime Achievement in HCI Mentorship: For researchers and practitioners who have dedicated significant time, knowledge, and energy to consistent and quality mentorship of early career members of the HCI community, whether through direct relationships or infrastructures that support mentorship
+  * Breakthrough in HCI Theory: For researchers and practitioners who have made outstanding, impactful, and lasting theoretical contributions in HCI research 
+  * Etc.
+These special recognitions will help us identify new permanent awards to propose for future cycles.
+!
+!
+© ACM Special Interest Group on Computer-Human Interaction · 2026
+Powered by](
+Back to top
+
+
+Clickable buttons are wrapped in <button> tag
+<button>What is SIGCHI?<button>
+<button>Ethics and Conduct<button>
+<button>Policies<button>
+<button>CARES<button>
+<button>Voting History<button>
+<button>Contact Us<button>
+<button>Membership<button>
+<button>Executive Committee<button>
+<button>All Committees<button>
+<button>Chapters<button>
+<button>Awards<button>
+<button>Volunteer History<button>
+<button>Upcoming Conferences<button>
+<button>Conference History<button>
+<button>Development Fund<button>
+<button>Gary Marsden Travel Awards<button>
+<button>Guides for Authors<button>
+<button>Guides for Organizers<button>
+<button>Meetings<button>
+<button>Announcements<button>
+<button>Newsletters<button>
+<button>Home<button>
+<button>People<button>
+<button>SIGCHI Awards<button>
+<button>Past recipients<button>
+<button>Nomination process<button>
+<button>Guidelines for nominators<button>
+<button>Awards criteria<button>
+<button>Dissertation Award<button>
+<button>Service criteria<button>
+<button>Frequently asked questions<button>
+<button>About<button>
+<button>Chapters<button>
+<button>Calendar<button>
+<button>Updates<button>
+<button>Memberships<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+The "Past recipients" button might provide information about the 2024 SIGCHI Lifetime Research Award recipient. I will click on it to find out more.
+
+Action: visit_page
+Action Input: {"button": "Past recipients"}
+
+----- VisitPage -----
+The web information is:
+
+ ! ](
+About
+People
+Conferences
+Resources
+News
+Join Us
+Menu
+About
+People
+Conferences
+Resources
+News
+/
+/
+# Award Recipients
+For award information, you can read about the .
+#### 2026
+Ben Zefeng Zhang
+Outstanding Dissertation
+Brennan Schaffner
+Special Recognition
+Chris Harrison
+SIGCHI Academy
+Cliff Lampe
+Lifetime Service
+Darren Gergle
+SIGCHI Academy
+Eric Paulos
+SIGCHI Academy
+Eunkyung Jo
+Outstanding Dissertation
+Helena Mentis
+Lifetime Service
+Humphrey Curtis
+Outstanding Dissertation
+Jacki O'Neill
+Societal Impact
+Jeffrey Bigham
+SIGCHI Academy
+Jon Froehlich
+Societal Impact
+Joseph Konstan
+Lifetime Research
+Joseph LaViola
+SIGCHI Academy
+Kaj Grønbaek
+SIGCHI Academy
+Katherine Isbister
+SIGCHI Academy
+Kori Inkpen
+SIGCHI Academy
+Kyle Johnson
+Special Recognition
+Laura Dabbish
+SIGCHI Academy
+Liban Hussein
+Special Recognition
+Lorrie Cranor
+Lifetime Research
+Maristella Matera
+Special Recognition
+Martin Feick
+Outstanding Dissertation
+Niklas Elmqvist
+SIGCHI Academy
+Per Ola Kristensson
+SIGCHI Academy
+Phoebe Toups Dugas
+Special Recognition
+Shaimaa Lazem
+Special Recognition
+Sonya Kwak
+Special Recognition
+Sukran Karaosmanoglu
+Outstanding Dissertation
+Vicente Arroyos
+Special Recognition
+Volker Wulf
+Societal Impact
+#### 2025
+Aaron Quigley
+SIGCHI Lifetime Service Award
+Alexis Hiniker
+SIGCHI Societal Impact Award
+Anicia Peters
+SIGCHI Special Recognition
+Antti Oulasvirta
+SIGCHI Academy
+Anupriya Tuli
+SIGCHI Outstanding Dissertation Award
+Carl DiSalvo
+SIGCHI Academy
+Cecilia Aragon
+SIGCHI Special Recognition
+Elizabeth Gerber
+SIGCHI Academy
+Gregory Abowd
+SIGCHI Special Recognition
+Gustavo Lopez
+SIGCHI Special Recognition
+James Fogarty
+SIGCHI Academy
+Jasmine Lu
+SIGCHI Special Recognition
+Joanna McGrenere
+SIGCHI Academy
+Jooyoung Park
+SIGCHI Special Recognition
+Kate Starbird
+SIGCHI Academy
+Katerina Stepanova
+SIGCHI Outstanding Dissertation Award
+Kentaro Toyama
+SIGCHI Academy
+Kentaro Toyama
+SIGCHI Societal Impact Award
+Kia Höök
+SIGCHI Lifetime Service Award
+Leona Holloway
+SIGCHI Outstanding Dissertation Award
+Mark Colley
+SIGCHI Special Recognition
+Martin Wattenberg
+SIGCHI Academy
+Nadia Campo Woytuk
+SIGCHI Special Recognition
+Nadya Peek
+SIGCHI Special Recognition
+Nur Yildirim
+SIGCHI Outstanding Dissertation Award
+Pattie Maes
+SIGCHI Academy
+Pattie Maes
+SIGCHI Lifetime Research Award
+Paul Dourish
+SIGCHI Lifetime Research Award
+The Google/academia Android XR interaction team (Karan Ahuja, Andrea Colaco, Massimiliano Di Luca, Hans Gellersen, Mar Gonzalez-Franco, Eric J. Gonzalez, Ken Pfeuffer, Hasti Seifi)
+SIGCHI Special Recognition
+Tiago Guerreiro
+SIGCHI Societal Impact Award
+Wendy Ju
+SIGCHI Academy
+Wolfgang Stuerzlinger
+SIGCHI Academy
+Yoshifumi Kitamura
+SIGCHI Lifetime Service Award
+Zijie Jay Wang
+SIGCHI Outstanding Dissertation Award
+#### 2024
+Amy Ogan
+SIGCHI Societal Impact Award
+Anna Cox
+SIGCHI Academy
+Azra Ismail
+SIGCHI Outstanding Dissertation Award
+Björn Hartmann
+SIGCHI Academy
+Courtney N. Reed
+SIGCHI Outstanding Dissertation Award
+Elizabeth Churchill
+SIGCHI Lifetime Practice Award
+Gillian R. Hayes
+SIGCHI Academy
+Hans Gellersen
+SIGCHI Academy
+James A. Landay
+SIGCHI Lifetime Research Award
+Jan Gulliksen
+SIGCHI Societal Impact Award
+Jodi Forlizzi
+SIGCHI Lifetime Research Award
+Julie A. Kientz
+SIGCHI Academy
+Karan Ahuja
+SIGCHI Outstanding Dissertation Award
+Kate Starbird
+SIGCHI Societal Impact Award
+Munmun De Choudhury
+SIGCHI Academy
+Nicholas Vincent
+SIGCHI Outstanding Dissertation Award
+Ryen W. White
+SIGCHI Academy
+Shaowen Bardzell
+SIGCHI Academy
+Shwetak Patel
+SIGCHI Academy
+Susanne Bødker
+SIGCHI Lifetime Research Award
+Vassilis Kostakos
+SIGCHI Academy
+Wendy Mackay
+SIGCHI Lifetime Research Award
+Yixin Zou
+SIGCHI Outstanding Dissertation Award
+#### 2023
+Cliff Lampe
+SIGCHI Academy
+Deborah J. Mayhew
+SIGCHI Lifetime Practice Award
+Dhruv "DJ" Jain
+SIGCHI Outstanding Dissertation Award
+Elizabeth Churchill
+SIGCHI Lifetime Service Award
+Florian "Floyd" Mueller
+SIGCHI Academy
+Gregory Abowd
+SIGCHI Lifetime Research Award
+Hrvoje Benko
+SIGCHI Academy
+Kai Lukoff
+SIGCHI Outstanding Dissertation Award
+Loren Terveen
+SIGCHI Lifetime Service Award
+Marc Hassenzahl
+SIGCHI Academy
+Megan Hofmann
+SIGCHI Outstanding Dissertation Award
+Munmun De Choudhury
+SIGCHI Societal Impact Award
+Nicola Dell
+SIGCHI Societal Impact Award
+Phoebe Sengers
+SIGCHI Academy
+Regan Mandryk
+SIGCHI Academy
+Shaowen Bardzell
+SIGCHI Societal Impact Award
+Steve Hodges
+SIGCHI Academy
+Uichin Lee
+SIGCHI Academy
+#### 2022
+Aaditeshwar Seth
+SIGCHI Social Impact Award
+Aakash Gautam
+SIGCHI Outstanding Dissertation Award
+Amy J. Ko
+SIGCHI Academy
+Aniket Kittur
+SIGCHI Academy
+Anna Lisa Martin-Niedecken
+SIGCHI Outstanding Dissertation Award
+Fred Hohman
+SIGCHI Outstanding Dissertation Award
+Geraldine Fitzpatrick
+SIGCHI Lifetime Service Award
+Jaime Teevan
+SIGCHI Academy
+Jennifer Mankoff
+SIGCHI Social Impact Award
+Liz Gerber
+SIGCHI Social Impact Award
+Mark Billinghurst
+SIGCHI Academy
+Norbert A. Streitz
+SIGCHI Academy
+Roel Vertegaal
+SIGCHI Academy
+Steven Pemberton
+Lifetime Practice Award
+Tanzeem Choudhury
+SIGCHI Academy
+Yvonne Rogers
+Lifetime Research Award
+#### 2021
+Allison Woodruff
+SIGCHI Academy
+Andy Dearden
+SIGCHI Social Impact Award
+Arunesh Mathur
+SIGCHI Outstanding Dissertation Award
+Fabio Paternó
+SIGCHI Academy
+Fernanda Viegas
+SIGCHI Academy
+Jeff Heer
+SIGCHI Academy
+John T. Richards
+Lifetime Practice Award
+Jonathan Lazar
+SIGCHI Academy
+Josh Andres
+SIGCHI Outstanding Dissertation Award
+Juan Gilbert
+SIGCHI Social Impact Award
+Maneesh Agrawala
+SIGCHI Academy
+Maria Cecília Calani Baranauskas
+SIGCHI Social Impact Award
+Philippe Palanque 
+SIGCHI Lifetime Service Award
+Qian Yang
+SIGCHI Outstanding Dissertation Award
+Rosalind Picard
+SIGCHI Academy
+Scott Hudson
+SIGCHI Lifetime Research Award
+Wendy Kellogg
+SIGCHI Lifetime Service Award
+#### 2020
+Bonnie Nardi
+SIGCHI Social Impact Award
+Catherine Plaisant
+SIGCHI Lifetime Service Award
+David Canfield Smith
+SIGCHI Lifetime Practice Award
+Gilbert Cockton
+SIGCHI Lifetime Service Award
+Jason Hong
+SIGCHI Academy
+Jean-Daniel Fekete
+SIGCHI Academy
+Kasper Hornbæk
+SIGCHI Academy
+Katta Spiel
+SIGCHI Outstanding Dissertation Award
+Kristina Höök
+SIGCHI Academy
+Meredith Ringel Morris
+SIGCHI Academy
+Paul Strohmeier
+SIGCHI Outstanding Dissertation Award
+Peter Wright
+SIGCHI Academy
+Ronald M. Baecker
+SIGCHI Social Impact Award
+Steven M. Drucker
+SIGCHI Academy
+Sunny Consolvo
+SIGCHI Academy
+Susan T. Dumais
+SIGCHI Lifetime Research Award
+#### 2019
+Anna Maria Feit
+SIGCHI Outstanding Dissertation Award
+Batya Friedman
+SIGCHI Academy
+Bill Hefley
+SIGCHI Lifetime Service Award
+Chris Elsden
+SIGCHI Outstanding Dissertation Award
+Daniel Rosenberg
+SIGCHI Lifetime Practice Award
+George Fitzmaurice
+SIGCHI Academy
+Gillian R. Hayes
+SIGCHI Social Impact Award
+Hiroshi Ishii
+SIGCHI Lifetime Research Award
+Jacob O. Wobbrock
+SIGCHI Academy
+Jennifer Mankoff
+SIGCHI Academy
+Loren G. Terveen
+SIGCHI Academy
+Nuria Oliver
+SIGCHI Academy
+Robert Xiao
+SIGCHI Outstanding Dissertation Award
+Takeo Igarashi
+SIGCHI Academy
+#### 2018
+Albrecht Schmidt
+SIGCHI Academy
+Amy S. Bruckman
+SIGCHI Academy
+Andrew D. Wilson
+SIGCHI Academy
+Arnold M. Lund
+SIGCHI Lifetime Practice Award
+Blase Ur
+SIGCHI Outstanding Dissertation Award
+Ed H. Chi
+SIGCHI Academy
+Jean Scholtz
+SIGCHI Academy
+John C. Thomas
+SIGCHI Lifetime Service Award
+Lorrie Faith Cranor
+SIGCHI Social Impact Award
+Maria Francesca Costabile
+SIGCHI Lifetime Service Award
+Michael Muller
+SIGCHI Academy
+Sheelagh Carpendale
+SIGCHI Academy
+Stefanie Mueller
+SIGCHI Outstanding Dissertation Award
+Steven K. Feiner
+SIGCHI Lifetime Research Award
+Volker Wulf
+SIGCHI Academy
+#### 2017
+Brad A. Myers
+SIGCHI Lifetime Research Award
+Elisabeth André
+SIGCHI Academy
+Ernest Edmonds
+SIGCHI Lifetime Practice Award
+Gloria Mark
+SIGCHI Academy
+Indrani Medhi Thies
+SIGCHI Social Impact Award
+Jacob O. Wobbrock
+SIGCHI Social Impact Award
+Lorrie Faith Cranor
+SIGCHI Academy
+Marti A. Hearst
+SIGCHI Academy
+Paul Resnick
+SIGCHI Academy
+Philippe Palanque
+SIGCHI Academy
+Scott E. Hudson
+SIGCHI Lifetime Service Award
+Thad Eugene Starner
+SIGCHI Academy
+Vicki L. Hanson
+SIGCHI Academy
+Zhengjie Liu
+SIGCHI Lifetime Service Award
+#### 2016
+Allison Druin
+SIGCHI Academy
+Daniel M. Russell
+SIGCHI Academy
+Elizabeth F. Churchill
+SIGCHI Academy
+Gary M. Olson
+SIGCHI Lifetime Service Award
+Gerrit C. Van Der Veer
+SIGCHI Lifetime Service Award
+Jeff A. Johnson
+SIGCHI Lifetime Practice Award
+John Stasko
+SIGCHI Academy
+Jonathan Lazar
+SIGCHI Social Impact Award
+Leysia Palen
+SIGCHI Academy
+Margaret Burnett
+SIGCHI Academy
+Robert E. Kraut
+SIGCHI Lifetime Research Award
+Susan R. Fussell
+SIGCHI Academy
+Yves Guiard
+SIGCHI Academy
+#### 2015
+Andy Cockburn
+SIGCHI Academy
+Anind K. Dey
+SIGCHI Academy
+Bill Verplank
+SIGCHI Academy
+Catherine Plaisant
+SIGCHI Academy
+Ernest Edmonds
+SIGCHI Academy
+Jean Scholtz
+SIGCHI Lifetime Service Award
+Jim Hollan
+SIGCHI Lifetime Research Award
+Leysia Palen
+SIGCHI Social Impact Award
+Michel Beaudoin-Lafon
+SIGCHI Lifetime Service Award
+Scott MacKenzie
+SIGCHI Academy
+Sharon Oviatt
+SIGCHI Academy
+Stephen Brewster
+SIGCHI Academy
+Susan M. Dray
+SIGCHI Lifetime Practice Award
+#### 2014
+Gary Marsden
+SIGCHI Academy
+Gillian Crampton Smith
+SIGCHI Lifetime Practice Award
+Jeff A. Johnson
+SIGCHI Academy
+Jodi Forlizzi
+SIGCHI Academy
+John C. Tang
+SIGCHI Academy
+Ken Hinckley
+SIGCHI Academy
+Richard H.R. Harper
+SIGCHI Academy
+Richard Ladner
+SIGCHI Social Impact Award
+Steve Whittaker
+SIGCHI Lifetime Research Award
+Susan Dray
+SIGCHI Academy
+Ted Nelson
+SIGCHI Special Recognition Award
+Tom Hewett
+SIGCHI Lifetime Service Award
+W. Keith Edwards
+SIGCHI Academy
+Wendy Mackay
+SIGCHI Lifetime Service Award
+#### 2013
+Alan Dix
+SIGCHI Academy 
+Bonnie Nardi
+SIGCHI Academy 
+Clarisse de Souza
+SIGCHI Academy 
+Eric Horvitz
+SIGCHI Academy 
+George G. Robertson
+SIGCHI Lifetime Research Award
+Jakob Nielsen
+SIGCHI Lifetime Practice Award
+Joseph A. Konstan
+SIGCHI Lifetime Service Award
+Patrick Baudisch
+SIGCHI Academy
+Rebecca E. Grinter
+SIGCHI Academy
+Sara J. Czaja
+SIGCHI Social Impact Award
+Thomas S. Tullis
+SIGCHI Academy 
+Victoria Bellotti
+SIGCHI Academy 
+#### 2012
+Alan F. Newell
+SIGCHI Academy
+Batya Friedman
+SIGCHI Social Impact Award
+Benjamin B. Bederson
+SIGCHI Academy
+Carl Gutwin
+SIGCHI Academy
+Dan Olsen
+SIGCHI Lifetime Research Award
+Hugh Dubberly
+SIGCHI Academy
+Joy Mountford
+SIGCHI Academy
+Joy Mountford 
+SIGCHI Lifetime Practice Award
+Kevin Schofield
+SIGCHI Lifetime Service Award
+Michael Atwood
+SIGCHI Lifetime Service Award
+Steve Benford
+SIGCHI Academy
+Yvonne Rogers
+SIGCHI Academy
+#### 2011
+Abi Sellen
+SIGCHI Academy
+Alan Newell
+SIGCHI Social Impact Award
+Arnie Lund
+SIGCHI Lifetime Service Award
+Clayton Lewis
+SIGCHI Social Impact Award
+Dennis Wixon
+SIGCHI Academy
+James Landay
+SIGCHI Academy
+Jenny Preece
+SIGCHI Academy
+Jim Miller
+SIGCHI Lifetime Service Award
+Joseph Konstan
+SIGCHI Academy
+Larry Tesler
+SIGCHI Lifetime Practice Award
+Ravin Balakrishnan
+SIGCHI Academy
+Steven Feiner
+SIGCHI Academy
+Terry Winograd
+SIGCHI Lifetime Research Award
+#### 2010
+Allison Druin
+SIGCHI Social Impact Award
+Arnie Lund
+SIGCHI Academy
+Austin Henderson
+SIGCHI Academy
+Benjamin B. Bederson
+SIGCHI Social Impact Award
+David Kieras
+SIGCHI Academy
+Karen Holtzblatt
+SIGCHI Lifetime Practice Award
+Larry Tesler
+SIGCHI Academy
+Lucy Suchman
+SIGCHI Lifetime Research Award
+Mary Czerwinski
+SIGCHI Lifetime Service Award
+Mary Czerwinski
+SIGCHI Academy
+Shumin Zhai
+SIGCHI Academy
+Susanne Bødker
+SIGCHI Academy
+#### 2009
+Aaron Marcus
+SIGCHI Academy
+Bill Gaver
+SIGCHI Academy
+Clare-Marie Karat
+SIGCHI Lifetime Service Award
+Clayton Lewis
+SIGCHI Academy
+Elizabeth Mynatt
+SIGCHI Academy
+Helen Petrie
+SIGCHI Social Impact Award
+Mark Ackerman
+SIGCHI Academy
+Sara Kiesler
+SIGCHI Lifetime Achievement Award
+Steven Pemberton
+SIGCHI Lifetime Service Award
+Tom Rodden
+SIGCHI Academy
+Wendy Mackay
+SIGCHI Academy
+#### 2008
+Bill Buxton
+SIGCHI Lifetime Achievement Award
+Gregory Abowd
+SIGCHI Academy
+John Karat
+SIGCHI Lifetime Service Award
+Marian Williams
+SIGCHI Lifetime Service Award
+Mary Beth Rosson
+SIGCHI Academy
+Paul Dourish
+SIGCHI Academy
+Randy Pausch
+SIGCHI Academy
+Steve Whittaker
+SIGCHI Academy
+Vicki Hanson
+SIGCHI Social Impact Award
+Wendy Kellogg
+SIGCHI Academy
+#### 2007
+Christopher Schmandt
+SIGCHI Academy
+Gary Marsden
+SIGCHI Social Impact Award
+Gerhard Fischer
+SIGCHI Academy
+Gregory Abowd
+SIGCHI Social Impact Award
+James D. Foley
+SIGCHI Lifetime Achievement Award
+Joëlle Coutaz
+SIGCHI Academy
+Jun Rekimoto
+SIGCHI Academy
+Karen Holtzblatt
+SIGCHI Academy
+Richard I. Anderson
+SIGCHI Lifetime Service Award
+Robert J.K. Jacob
+SIGCHI Academy
+#### 2006
+George Robertson
+SIGCHI Academy
+Hiroshi Ishii
+SIGCHI Academy
+Jakob Nielsen
+SIGCHI Academy
+Judith Olson and Gary Olson
+SIGCHI Lifetime Achievement Award
+Michel Beaudouin-Lafon
+SIGCHI Academy
+Peter L. Pirolli
+SIGCHI Academy
+Scott Hudson
+SIGCHI Academy
+Susan Dray
+SIGCHI Lifetime Service Award
+Ted Henter
+SIGCHI Social Impact Award
+#### 2005
+Andrew Monk
+SIGCHI Academy
+Bonnie John
+SIGCHI Academy
+Don Patterson
+SIGCHI Lifetime Service Award
+Gary Perlman
+SIGCHI Lifetime Service Award
+Gregg Vanderheiden
+SIGCHI Social Impact Award
+John "Scooter" Morris
+SIGCHI Lifetime Service Award
+John Gould
+SIGCHI Academy
+Marilyn Mantei Tremaine
+SIGCHI Lifetime Service Award
+Ron Baecker
+SIGCHI Academy
+Sara Bly
+SIGCHI Lifetime Service Award
+Saul Greenberg
+SIGCHI Academy
+Susan Dumais
+SIGCHI Academy
+Tom Landauer
+SIGCHI Lifetime Achievement Award
+#### 2004
+Brad Myers
+SIGCHI Academy
+Brian Shackel
+SIGCHI Academy
+Dan Olsen
+SIGCHI Academy
+Gene Lynch
+SIGCHI Lifetime Service Award
+George Furnas
+SIGCHI Academy
+Jonathan Grudin
+SIGCHI Academy
+Robin Jeffries
+SIGCHI Lifetime Service Award
+Terry Winograd
+SIGCHI Academy
+Tom Moran
+SIGCHI Lifetime Achievement Award
+William Newman
+SIGCHI Academy
+#### 2003
+Gary M. Olson
+SIGCHI Academy
+James D. Hollan
+SIGCHI Academy
+John M. Carroll
+SIGCHI Lifetime Achievement Award
+Lorraine Borman
+SIGCHI Lifetime Service Award
+Peter G. Polson
+SIGCHI Academy
+Robert E. Kraut
+SIGCHI Academy
+Thomas Green
+SIGCHI Academy
+#### 2002
+Dan R. Olsen Jr
+SIGCHI Lifetime Service Award
+Donald A. Norman
+SIGCHI Lifetime Achievement Award
+Douglas C. Engelbart
+SIGCHI Academy
+John M. Carroll
+SIGCHI Academy
+Lucy A. Suchman
+SIGCHI Academy
+Sara Kiesler
+SIGCHI Academy
+Thomas K. Landauer
+SIGCHI Academy
+William A.S. Buxton
+SIGCHI Academy
+#### 2001
+Austin Henderson
+SIGCHI Lifetime Service Award
+Ben Shneiderman
+SIGCHI Academy
+Ben Shneiderman
+SIGCHI Lifetime Achievement Award
+Donald A. Norman
+SIGCHI Academy
+James D. Foley
+SIGCHI Academy
+Judith S. Olson
+SIGCHI Academy
+Morten Kyng
+SIGCHI Academy
+Stuart K. Card
+SIGCHI Academy
+Thomas P. Moran
+SIGCHI Academy
+#### 2000
+Stuart K. Card
+SIGCHI Lifetime Achievement Award
+#### 1998
+Douglas C. Engelbart
+SIGCHI Special Recognition Award
+!
+!
+© ACM Special Interest Group on Computer-Human Interaction · 2026
+Powered by](
+Back to top
+
+
+Clickable buttons are wrapped in <button> tag
+<button>What is SIGCHI?<button>
+<button>Ethics and Conduct<button>
+<button>Policies<button>
+<button>CARES<button>
+<button>Voting History<button>
+<button>Contact Us<button>
+<button>Membership<button>
+<button>Executive Committee<button>
+<button>All Committees<button>
+<button>Chapters<button>
+<button>Awards<button>
+<button>Volunteer History<button>
+<button>Upcoming Conferences<button>
+<button>Conference History<button>
+<button>Development Fund<button>
+<button>Gary Marsden Travel Awards<button>
+<button>Guides for Authors<button>
+<button>Guides for Organizers<button>
+<button>Meetings<button>
+<button>Announcements<button>
+<button>Newsletters<button>
+<button>Home<button>
+<button>People<button>
+<button>Award Recipients<button>
+<button>SIGCHI Awards and Process<button>
+<button>About<button>
+<button>Chapters<button>
+<button>Calendar<button>
+<button>Updates<button>
+<button>Memberships<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+Memory:
+-The 2024 SIGCHI Lifetime Research Award recipients are James A. Landay and Jodi Forlizzi.
+"}
+
+----- WebWalker -----
+Final Answer: The two specific committee members working on SIGCHI's data access/use policy are not mentioned in the accumulated information. The recipients of the 2024 SIGCHI Lifetime Research Award are James A. Landay and Jodi Forlizzi.

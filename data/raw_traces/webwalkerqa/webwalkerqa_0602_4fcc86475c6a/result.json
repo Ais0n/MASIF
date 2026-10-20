@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0602_4fcc86475c6a",
+  "source_index": 602,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2022年1月至2月间，统一企业为天津和广西的疫情防控分别提供了哪些具体的支援物资？",
+  "prompt": "在2022年1月至2月间，统一企业为天津和广西的疫情防控分别提供了哪些具体的支援物资？",
+  "expected_answer": "天津：近2万份方便面；广西：近2万元的方便面和饮料。",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/news_detail.asp?news_id=672&corp_id=376",
+      "https://www.uni-president.com.cn/news_detail.asp?news_id=697&corp_id=376"
+    ],
+    "golden_path": [
+      "root->新闻专区->下页->助力天津  天津必胜！",
+      "root->新闻专区->下页->助力广西 共抗疫情！"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "在2022年1月至2月间，统一企业为广西的疫情防控提供了抗疫物资捐助，具体包括2022-02-17（华南-巴马统一）的支援物资。而对于天津的疫情防控，观察结果中未提及具体的支援物资信息。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 27.97,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0602_4fcc86475c6a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0602_4fcc86475c6a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

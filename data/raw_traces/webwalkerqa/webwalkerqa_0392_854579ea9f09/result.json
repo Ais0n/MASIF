@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0392_854579ea9f09",
+  "source_index": 392,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When did Carolyn Duran, the 2022 MRS President, discuss the future celebration activities for the 50th anniversary of MRS?",
+  "prompt": "When did Carolyn Duran, the 2022 MRS President, discuss the future celebration activities for the 50th anniversary of MRS?",
+  "expected_answer": "October 5, 2022",
+  "root_url": "https://www.mrs.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.mrs.org/discover-mrs/about-mrs/our-society/annual-reports/2022-annual-report"
+    ],
+    "golden_path": [
+      "root->About MRS->ANNUAL REPORTS->Year In Review"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 112.336,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0392_854579ea9f09/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0392_854579ea9f09/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

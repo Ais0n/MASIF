@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0394_c4b2f82a2a07",
+  "source_index": 394,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "浙江大学计算机学院发布的国际合作的交流动态列表中，最早的一次活动日期是什么？",
+  "prompt": "浙江大学计算机学院发布的国际合作的交流动态列表中，最早的一次活动日期是什么？",
+  "expected_answer": "2002-10-22",
+  "root_url": "http://www.cs.zju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/27028/list2.htm"
+    ],
+    "golden_path": [
+      "root->首页->交流动态->下一页>>"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "浙江大学计算机学院发布的国际合作的交流动态列表中，最早的一次活动日期是2025年11月7日。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 33.096,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0394_c4b2f82a2a07/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0394_c4b2f82a2a07/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

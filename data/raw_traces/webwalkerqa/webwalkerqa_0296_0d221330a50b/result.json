@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0296_0d221330a50b",
+  "source_index": 296,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which civilization in Antiquity Age possesses the unique ability called 'Twelve Tables', and what specific cultural output does this ability enhance?",
+  "prompt": "Which civilization in Antiquity Age possesses the unique ability called 'Twelve Tables', and what specific cultural output does this ability enhance?",
+  "expected_answer": "Rome in the Antiquity Age; Adds Culture on Districts in the Capital and City Centers in Towns.",
+  "root_url": "https://civilization.2k.com/civ-vii/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://civilization.2k.com/civ-vii/game-guide/civilizations/rome/"
+    ],
+    "golden_path": [
+      "root->CIVILIZATIONS->Rome's"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 1,
+  "duration_seconds": 11.716,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0296_0d221330a50b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0296_0d221330a50b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

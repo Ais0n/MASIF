@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0155_d9d4590acf74",
+  "source_index": 155,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "华中师范大学计算机学院于哪一天和信息管理学院联合举办的团干培训开班典礼，并且谁发表的致辞？",
+  "prompt": "华中师范大学计算机学院于哪一天和信息管理学院联合举办的团干培训开班典礼，并且谁发表的致辞？",
+  "expected_answer": "2024年10月18日，庄甲鹏",
+  "root_url": "https://cs.ccnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.ccnu.edu.cn/info/1033/4593.htm"
+    ],
+    "golden_path": [
+      "root->初“信”如磐 奋“计”笃行：两院联合团干培训开班典礼顺利举办2024-10-22"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 19.594,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0155_d9d4590acf74/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0155_d9d4590acf74/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

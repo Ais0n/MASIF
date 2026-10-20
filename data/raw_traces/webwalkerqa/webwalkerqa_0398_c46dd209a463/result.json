@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0398_c46dd209a463",
+  "source_index": 398,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the fiscal year prior to FY25, and by how much were the expenses reduced for SIGCHI's budget compared to this fiscal year?",
+  "prompt": "What is the fiscal year prior to FY25, and by how much were the expenses reduced for SIGCHI's budget compared to this fiscal year?",
+  "expected_answer": "The fiscal year prior to FY25 is FY24, and the expenses were reduced by USD 1 million.",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/events/open-session-1-march-12-2024/"
+    ],
+    "golden_path": [
+      "root->Meetings->Past Meetings->Open Sessions: March 12, 2024Mar 12, 2024 - Mar 12, 2024The March 2024 SIGCHI open sessions recapped the Futures Summit and presented the FY25 budget."
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 68.621,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0398_c46dd209a463/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0398_c46dd209a463/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

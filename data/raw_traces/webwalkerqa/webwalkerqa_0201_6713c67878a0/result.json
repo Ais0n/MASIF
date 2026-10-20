@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0201_6713c67878a0",
+  "source_index": 201,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which country's photographer won the first prize in the 2021 APEC Photo Contest for highlighting digitalization as a tool for economic recovery?",
+  "prompt": "Which country's photographer won the first prize in the 2021 APEC Photo Contest for highlighting digitalization as a tool for economic recovery?",
+  "expected_answer": "The Philippines.",
+  "root_url": "https://www.apec.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.apec.org/press/news-releases/2021/winning-photo-of-apec-photo-contest-2021-highlight-digitalization-as-a-tool-for-recovery"
+    ],
+    "golden_path": [
+      "root->APEC Photo Contest->Photo Contest 2021"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 85.124,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0201_6713c67878a0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0201_6713c67878a0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

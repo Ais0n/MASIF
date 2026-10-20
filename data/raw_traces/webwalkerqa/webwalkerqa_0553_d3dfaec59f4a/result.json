@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0553_d3dfaec59f4a",
+  "source_index": 553,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the official launch date of Junkworld on Apple Arcade, and what new feature was introduced in the January 2024 update?",
+  "prompt": "What is the official launch date of Junkworld on Apple Arcade, and what new feature was introduced in the January 2024 update?",
+  "expected_answer": "September 22, 2023; New Daily Rewards feature.",
+  "root_url": "https://www.ironhidegames.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ironhidegames.com/News/Details/307",
+      "https://www.ironhidegames.com/News/Details/329"
+    ],
+    "golden_path": [
+      "root->Behind the Wand: Meet Stregi!Join Sheepy as they interview the whimsical gnome. It's witch season once again!->Junkworld->Junkworld is Coming to Apple Arcade on September 22nd!",
+      "root->Behind the Wand: Meet Stregi!Join Sheepy as they interview the whimsical gnome. It's witch season once again!->Junkworld->New Daily Rewards in Junkworld!"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The official launch date of Junkworld on Apple Arcade is September 22nd, 2023. The January 2024 update introduced 'Underground Part 2' as a new feature.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 34.784,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0553_d3dfaec59f4a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0553_d3dfaec59f4a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

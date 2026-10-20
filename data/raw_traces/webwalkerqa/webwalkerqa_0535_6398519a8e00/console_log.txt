@@ -1,0 +1,1025 @@
+----- user -----
+query:
+Which two scientists who have conducted GNSS-related research at Stanford University received the ION Early Career Achievement Award in 2023 and 2004?
+official website:
+https://www.ion.org/
+Observation:website information:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+! 
+! 
+! ! 
+! !  
+! ! 
+Register for the 2026 Joint Navigation Conference
+Early registration rates end on April 30
+## [ION JNC 2026 June 1-4, 2026  
+Covington, KY ](
+## [ION GNSS+ 2026 September 14-18, 2026  
+Orlando, Florida ](
+## [ITM 2027 January 25-28, 2027  
+Anaheim, CA ](
+## [PTTI 2027 January 25-28, 2027  
+Anaheim, CA ](
+## 
+Search ION's database containing over 19,000 technical articles and papers from _NAVIGATION_ and ION Conferences
+## 
+Your donations help support ION programs that enhance education and the ION professional community.
+## 
+Visit the NAVIGATION open access site to read, download, cite and share papers from _NAVIGATION: Journal of the Institute of Navigation_
+##  
+The _ION Newsletter_ is published quarterly and contains news and articles of interest to the Positioning, Navigation and Timing community
+## 
+Find your next career opportunity with industry-leading organizations
+## 
+Let the ION's directory of member organizations and industry leaders help you advance your area of interest.
+## ION Videos
+  
+  
+  
+](
+## Posts from ION
+> 
+>  (@) • Instagram photos and videos
+## Connect With ION
+  
+Stay connected with the Institute of Navigation through our social media channels for the latest news, updates, and insights from the PNT community.   
+  
+](
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+clickable button:
+
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>View Program and Register Online<button>
+<button>Program and Registration Online<button>
+<button>ITM 2026 Program<button>
+<button>PTTI 2026 Program<button>
+<button>Program and Registration<button>
+<button>Register Online for JNC<button>
+<button>ION JNC 2026June 1-4, 2026Covington, KY<button>
+<button>ION GNSS+ 2026September 14-18, 2026Orlando, Florida<button>
+<button>ITM 2027January 25-28, 2027Anaheim, CA<button>
+<button>PTTI 2027January 25-28, 2027Anaheim, CA<button>
+<button>Find a Paper<button>
+<button>Donate to ION<button>
+<button>ION Newsletter<button>
+<button>CorporateMember Directory<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find information about the ION Early Career Achievement Award recipients from 2023 and 2004. The "Awards and ION Fellows" button seems relevant, so I will click it to explore further.
+
+Action: visit_page
+Action Input: {"button": "Awards and ION Fellows"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## ION Awards
+## ION Awards
+The Institute of Navigation is a scientific, nonprofit organization, founded in 1945. Its programs are directed toward elevating standards of navigation by coordinating the knowledge and achievements of practicing navigators, scientists, and those involved in the development and production of navigation equipment. The Institute sponsors and administers several awards to recognize individuals making significant contributions, or demonstrating outstanding performance relating to navigation.
+### Annual Awards
+The Institute sponsors several major annual awards. Nominations for annual awards may be submitted by anyone except the nominee. All nominations must be in conformance with ION nomination standards. Neither nominees nor nominators need be ION members. Nominations received in correct form by October 15 will be considered. Duplication of nominees in more than one award category is permitted, unless otherwise noted. To be considered in subsequent years, nominees not selected in the current year must be re-submitted. For further information, select an award below or see the .
+#### ION Annual Awards
+                  
+### ION Fellows 
+The Council honors notable members of the Institute who have made outstanding sustained contributions to the art and science of Positioning, Navigation and Timing (PNT) with Fellow awards. Fellow is the Institute’s highest honor. Individuals are nominated for selection as Fellow grade based on their important contributions to the advancement or application of the art and science of PNT. The intent is to select Fellows for sustained contributions through technology, management, practice and teaching, rather than specific accomplishments, for which other awards are more appropriate.  
+### Kepler Award
+The ION Satellite Division sponsors the Johannes Kepler Award to honor an individual for sustained and significant contributions to the development of satellite navigation during their lifetime.   
+### Parkinson Award
+The ION Satellite Division sponsors the Bradford W. Parkinson Award, which honors the leadership of Dr. Parkinson in establishing both the U.S. Global Positioning System and the Satellite Division of the ION, recognizes an outstanding graduate student in the field of Positioning, Navigation and/or Timing (PNT). Professors and faculty are encouraged to submit nominations for deserving graduate students.  
+### Student Awards
+In addition to the major awards, the ION sponsors student awards for navigation excellence. Cash awards are available to outstanding students of navigation selected by the faculty of recognized academies.   
+          Satellite Division   Other  
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Per Enge Early Achievement Award<button>
+<button>Superior Achievement Award<button>
+<button>Burka Award<button>
+<button>Distinguished PTTI Service Award<button>
+<button>Weems Award<button>
+<button>Tycho Brahe Award<button>
+<button>Hays Award<button>
+<button>Thurlow Award<button>
+<button>ION Distinguished Service Award<button>
+<button>2025 Award Recipients<button>
+<button>Fellow Details, Requirements and Nomination Form<button>
+<button>Kepler Award Details, Requirements and Nomination Form<button>
+<button>Parkinson Award Details, Requirements and Nomination Form<button>
+<button>Student Awards Details, Requirements and Application Form<button>
+<button>Annual Awards<button>
+<button>Burka<button>
+<button>Distinguished Service<button>
+<button>Per Enge Early Achievement<button>
+<button>Distinguished PTTI Service<button>
+<button>Hays<button>
+<button>Superior Achievement<button>
+<button>Thurlow<button>
+<button>Tycho Brahe<button>
+<button>Weems<button>
+<button>Kepler<button>
+<button>Parkinson<button>
+<button>ION Fellows<button>
+<button>Student Awards<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+The "2025 Award Recipients" button might provide information about recent award winners, including those who received the ION Early Career Achievement Award. I will click it to check.
+
+Action: visit_page
+Action Input: {"button": "2025 Award Recipients"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## ION Awards
+## 2025 ION Annual Award Recipients
+**Burka Award: Dr. Sharbel Kozhaya, Joe Saroufim, and Dr. Zaher (Zak) M. Kassas  
+** For their paper, "Unveiling Starlink for PNT," published in the Spring 2025 issue of NAVIGATION, Journal of the Institute of Navigation  
+**Hays Award: Francisco Javier Benedicto Ruiz  
+** For visionary leadership and sustained contributions that enabled EGNOS, Galileo, and the definition of  
+next-generation navigation, securing Europe’s global leadership in satellite navigation  
+**Per Enge Early Achievement Award: Dr. Rong Yang  
+** For the advancement of GNSS resilience in challenging environments  
+**PTTI Distinguished Service Award: Dr. James Camparo  
+** For excellence in collaboration and education in addressing technical risk in the application of atomic clocks for space-based position, navigation, and timing  
+**Superior Achievement Award: Captain Celestia P. Holguin  
+** For improved MC-130 student flight training outcomes, and pioneered innovative airdrop procedures  
+**Thurlow Award: Dr. Daniele Borio  
+** For pioneering multidimensional GNSS meta-signal processing using hypercomplex numbers, enabling optimal multi-frequency signal reconstruction, robust measurement techniques adopted by industry, and advancing receiver design  
+**Tycho Brahe Award: Dr. Todd A. Ely  
+** For seminal contributions to the advancement of autonomous space navigation technologies, including the Deep Space Atomic Clock, and one-way uplink radiometric tracking in lunar orbit  
+**Weems Award: Matt Harris  
+** For significant and sustained contributions to the development and standardization of GNSS for aviation applications  
+          Satellite Division   Other  
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>View full award information<button>
+<button>View full award information<button>
+<button>View full award information<button>
+<button>View full award information<button>
+<button>View full award information<button>
+<button>View full award information<button>
+<button>View full award information<button>
+<button>View full award information<button>
+<button>Annual Awards<button>
+<button>Burka<button>
+<button>Distinguished Service<button>
+<button>Per Enge Early Achievement<button>
+<button>Distinguished PTTI Service<button>
+<button>Hays<button>
+<button>Superior Achievement<button>
+<button>Thurlow<button>
+<button>Tycho Brahe<button>
+<button>Weems<button>
+<button>Kepler<button>
+<button>Parkinson<button>
+<button>ION Fellows<button>
+<button>Student Awards<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+The "Per Enge Early Achievement Award" is mentioned, and Dr. Rong Yang received it in 2025. However, the question asks for recipients from 2023 and 2004. I need to explore further to find information about earlier award recipients. I will click on the "Annual Awards" button to access a broader list of award recipients.
+
+Action: visit_page
+Action Input: {"button": "Annual Awards"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## ION Awards
+## ION Awards
+The Institute of Navigation is a scientific, nonprofit organization, founded in 1945. Its programs are directed toward elevating standards of navigation by coordinating the knowledge and achievements of practicing navigators, scientists, and those involved in the development and production of navigation equipment. The Institute sponsors and administers several awards to recognize individuals making significant contributions, or demonstrating outstanding performance relating to navigation.
+### Annual Awards
+The Institute sponsors several major annual awards. Nominations for annual awards may be submitted by anyone except the nominee. All nominations must be in conformance with ION nomination standards. Neither nominees nor nominators need be ION members. Nominations received in correct form by October 15 will be considered. Duplication of nominees in more than one award category is permitted, unless otherwise noted. To be considered in subsequent years, nominees not selected in the current year must be re-submitted. For further information, select an award below or see the .
+#### ION Annual Awards
+                  
+### ION Fellows 
+The Council honors notable members of the Institute who have made outstanding sustained contributions to the art and science of Positioning, Navigation and Timing (PNT) with Fellow awards. Fellow is the Institute’s highest honor. Individuals are nominated for selection as Fellow grade based on their important contributions to the advancement or application of the art and science of PNT. The intent is to select Fellows for sustained contributions through technology, management, practice and teaching, rather than specific accomplishments, for which other awards are more appropriate.  
+### Kepler Award
+The ION Satellite Division sponsors the Johannes Kepler Award to honor an individual for sustained and significant contributions to the development of satellite navigation during their lifetime.   
+### Parkinson Award
+The ION Satellite Division sponsors the Bradford W. Parkinson Award, which honors the leadership of Dr. Parkinson in establishing both the U.S. Global Positioning System and the Satellite Division of the ION, recognizes an outstanding graduate student in the field of Positioning, Navigation and/or Timing (PNT). Professors and faculty are encouraged to submit nominations for deserving graduate students.  
+### Student Awards
+In addition to the major awards, the ION sponsors student awards for navigation excellence. Cash awards are available to outstanding students of navigation selected by the faculty of recognized academies.   
+          Satellite Division   Other  
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Per Enge Early Achievement Award<button>
+<button>Superior Achievement Award<button>
+<button>Burka Award<button>
+<button>Distinguished PTTI Service Award<button>
+<button>Weems Award<button>
+<button>Tycho Brahe Award<button>
+<button>Hays Award<button>
+<button>Thurlow Award<button>
+<button>ION Distinguished Service Award<button>
+<button>2025 Award Recipients<button>
+<button>Fellow Details, Requirements and Nomination Form<button>
+<button>Kepler Award Details, Requirements and Nomination Form<button>
+<button>Parkinson Award Details, Requirements and Nomination Form<button>
+<button>Student Awards Details, Requirements and Application Form<button>
+<button>Annual Awards<button>
+<button>Burka<button>
+<button>Distinguished Service<button>
+<button>Per Enge Early Achievement<button>
+<button>Distinguished PTTI Service<button>
+<button>Hays<button>
+<button>Superior Achievement<button>
+<button>Thurlow<button>
+<button>Tycho Brahe<button>
+<button>Weems<button>
+<button>Kepler<button>
+<button>Parkinson<button>
+<button>ION Fellows<button>
+<button>Student Awards<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+The "Per Enge Early Achievement Award" is listed, but I need to find specific information about recipients from 2023 and 2004. I will click on the "Per Enge Early Achievement Award" button to access details about this particular award.
+
+Action: visit_page
+Action Input: {"button": "Per Enge Early Achievement Award"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## ION Awards
+## Per Enge Early Achievement Award
+### Sponsored by The Institute of Navigation
+#### Purpose
+The purpose of this award is to recognize an individual for an outstanding achievement related to the art and science of positioning, navigation and/or timing early in their career (35 years or younger in the year of the achievement) with highest consideration given to the following criteria in descending order of importance:
+  1. An innovation or invention (which has been successfully demonstrated) or a novel equipment/system development relating to positioning, navigation, or timing.
+  2. An outstanding method for use in positioning, navigation, or timing.
+  3. Outstanding research or study relating to positioning, navigation, or timing.
+#### Memorial
+Given in memory of Prof. Per Enge, a brilliant engineer and teacher, who cheerfully and enthusiastically inspired others through education, advising and mentorship.
+#### Eligibility and Regulations
+  * Preference in selection of the recipient shall be given to persons early in their careers for those contributions that assumed prominence and importance.
+  * Considered nominees shall not be considered for the Thurlow, Tycho Brahe, Hays, Weems or Superior Achievement Award(s) in the same year. The nominee must be age 40 or younger at the time of the scheduled award presentation in order to be considered eligible for the award.
+  * A recipient does not have to be a member of the Institute of Navigation.
+  * Companies, agencies, bureaus, associations, full-time students or groups of individuals are not eligible for consideration.
+  * The award shall be given, at most, once each year. It shall be given only in those years in which an outstanding nominee is considered worthy of such recognition.
+  * Previous recipients are not eligible for consideration.
+#### Nominations
+Nominations for this award may be submitted by anyone, but all nominations must be in conformance with ION nomination standards. Recipients need not be ION members. Nominations received in correct form by October 15 will be considered; submissions received after the closing date will not be considered.
+Nominations can be submitted online at the link above, or by email to mlewis@ion.org.
+#### Award
+The award shall consist of a suitable plaque with appropriate wording.
+#### Presentation
+The presentation of this award is a highlight of the ION International Technical Meeting.
+#### Past Recipients
+2025:   
+2024:   
+2023:   
+2022:   
+2021:   
+2020:   
+2019:   
+2018:   
+2017:   
+2016:   
+2015:   
+2014:   
+2013:   
+2012:   
+2011:   
+2010:   
+2009:   
+2008:   
+2006:   
+2005:   
+2004:   
+2002:   
+2001:   
+2001:   
+2000:   
+2000:   
+1999: Mr. Victor T. Wullschleger  
+1998: Dr. Sam Pullen  
+1997: Bruce DeCleene  
+1997: Dr. Christopher Hegarty
+          Satellite Division   Other  
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Submit a Nomination<button>
+<button>Dr. Rong Yang<button>
+<button>Dr. Jason Gross<button>
+<button>Dr. Tyler Gerald René Reid<button>
+<button>Dr. Li-Ta Hsu<button>
+<button>Dr. Jonathan “JR” Ryan<button>
+<button>Dr. Robert Odolinski<button>
+<button>Dr. Ramsey Faragher<button>
+<button>Dr. Seebany Datta-Barua<button>
+<button>Dr. Zheng Yao<button>
+<button>Dr. Pau Closas<button>
+<button>Dr. Alexander A. Trusov<button>
+<button>Dr. Mathieu Joerger<button>
+<button>Dr. Jacques Georgy<button>
+<button>Mr. Michael D. Bulatowicz<button>
+<button>Dr. Samer Khanafseh<button>
+<button>Dr. Juan Blanch<button>
+<button>Dr. José Ángel Ávila Rodríguez<button>
+<button>Dr. Grace Xingxin Gao<button>
+<button>Dr. Mark G. Petovello<button>
+<button>Dr. Andrey Soloviev<button>
+<button>Dr. Sherman Lo<button>
+<button>Major John F. Raquet, Ph.D.<button>
+<button>Dr. James L. Garrison<button>
+<button>Ms. Karen Van Dyke<button>
+<button>Dr. Todd Walter<button>
+<button>Ms. Barbara Clark<button>
+<button>Annual Awards<button>
+<button>Burka<button>
+<button>Distinguished Service<button>
+<button>Per Enge Early Achievement<button>
+<button>Distinguished PTTI Service<button>
+<button>Hays<button>
+<button>Superior Achievement<button>
+<button>Thurlow<button>
+<button>Tycho Brahe<button>
+<button>Weems<button>
+<button>Kepler<button>
+<button>Parkinson<button>
+<button>ION Fellows<button>
+<button>Student Awards<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+Memory:
+-The observation contains information about the ION Per Enge Early Achievement Award recipients. However, it does not provide specific details about which two scientists who conducted GNSS-related research at Stanford University received the award in 2023 and 2004.
+"}
+
+----- WebWalker -----
+The "Past Recipients" section lists the recipients of the Per Enge Early Achievement Award, including those from 2023 and 2004. I will click on the "2023" button to find the recipient for that year.
+
+Action: visit_page
+Action Input: {"button": "2023"}
+
+----- VisitPage -----
+Button not found: 2023
+
+----- WebWalker -----
+The "2023" button is not clickable, so I will look for other buttons that might provide information about the 2023 recipient. I notice there are buttons for specific recipients, such as "Dr. Rong Yang," who was mentioned as the 2025 recipient. I will click on "Dr. Rong Yang" to see if there is any information about her or others from 2023.
+
+Action: visit_page
+Action Input: {"button": "Dr. Rong Yang"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## ION Awards
+## 2025 Per Enge Early Achievement Award
+**Presented to:** Dr. Rong Yang
+**Citation:** For the advancement of GNSS resilience in challenging environments
+!
+Dr. Rong Yang is an Associate Professor at the School of Aeronautics and Astronautics, Shanghai Jiao Tong University (SJTU), and an internationally recognized contributor to resilient positioning, navigation, and timing (PNT). Her work has fundamentally advanced the GNSS robustness in challenging environments.
+Dr. Yang’s central contribution is the development of a unified space-time-frequency signal processing framework that transforms environmental distortions from liabilities into assets. Conventional GNSS receivers treat multipath, ionospheric scintillation, and interference as separate disturbances that degrade or disrupt carrier-phase measurements. Dr. Yang recognized that these effects often exhibit structured spatialtemporal- frequency coherence. Building on this insight, she developed a generalized state-space model for GNSS signal tracking that formalizes these distortions as coupled processes and redesigns receiver tracking loops to exploit inherent diversity. She also developed spatial signature extraction techniques that map correlation-domain distortions into geometric space features, enabling precise multipath detection in urban canyons where traditional discriminators fail. Her collaborative multi-frequency tracking methods leverage L1/L5 cross-band correlators to isolate multipath, significantly improving navigation continuity in urban canyons.
+Dr. Yang has authored more than 60 publications and chaired multiple sessions at the ION GNSS+ in the past five years. She holds more than 10 patents, including a U.S. patent on interfrequency aiding acquired by the U.S. private industry. As a principal investigator on more than 12 grants (total funding > $700K), she advances urban, maritime, and aerospace navigation. Dr. Yang is an ION member and an IEEE Senior member. Her honors include the Outstanding Youth Paper Award (CSNC 2020), Outstanding Contribution Award as an IEEE TAES Associate Editor in 2022, and the Shanghai Pujiang Talent Plan. She has mentored students to win presentation awards at ION GNSS+ and China’s Satellite Navigation Conference. Dr. Yang received her PhD in Electrical and Electronic Engineering from Nanyang Technological University (NTU), Singapore in 2017.
+          Satellite Division   Other  
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Annual Awards<button>
+<button>Burka<button>
+<button>Distinguished Service<button>
+<button>Per Enge Early Achievement<button>
+<button>Distinguished PTTI Service<button>
+<button>Hays<button>
+<button>Superior Achievement<button>
+<button>Thurlow<button>
+<button>Tycho Brahe<button>
+<button>Weems<button>
+<button>Kepler<button>
+<button>Parkinson<button>
+<button>ION Fellows<button>
+<button>Student Awards<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+The information about Dr. Rong Yang provides details about her work and achievements, but it does not directly answer the question about the 2023 and 2004 recipients. I will now look for other buttons that might provide information about the 2023 recipient. I notice there are buttons for other recipients, such as "Dr. Jason Gross," who might be relevant. I will click on "Dr. Jason Gross" to see if there is any information about him.
+
+Action: visit_page
+Action Input: {"button": "Dr. Jason Gross"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## ION Awards
+## 2024 Per Enge Early Achievement Award
+**Presented to:** Dr. Jason Gross
+**Citation:** For the development and demonstration of resilient navigation system algorithms and methods in degraded GNSS environments
+!
+Dr. Jason N. Gross and his students developed and demonstrated navigation systems aided by coordination among agents in heterogeneous multi-agent teams. The work fuses measurements from a combination of sensors (carrier-phase differential GNSS, inertial sensing, and peer-to-peer ranging radios) to achieve both relative and absolute navigation much more robustly than any agent could manage on its own.
+Dr. Gross and his students developed and demonstrated robust factor graph methods for GNSS-degraded applications, which have since become widely used in GNSS.
+Additionally, Dr. Gross demonstrated and improved effective receiver autonomous GNSS spoofing detection technologies. The work prompted Dr. Gross’ winning a “Big 12” faculty fellowship, to work with Dr. Todd Humphreys at the UT Austin Radionavigation Lab in 2015; and remains one of the simplest and best post-correlation techniques for GNSS spoofing detection.
+Dr. Gross is professor and chair of the Department of Mechanical, Materials and Aerospace Engineering at West Virginia University (WVU) where his research focuses on robotics systems and uncrewed aerial systems with an emphasis on perception and localization. He directs the WVU Navigation Lab, is a coordinator of WVU’s growing robotics program, and was team lead for WVU’s Space Robotics Challenge 2 team. He is past recipient of an NGA New Investigator Program grant; AFOSR Faculty Fellowship; WVU Big XII Faculty Fellowship; and WVU Statler College outstanding teaching, outstanding researcher, and new researcher of the year awards. He is an Associate Fellow of the American Institute of Aeronautics and Astronautics, a Senior Member of the IEEE, and a member of the ION. Dr. Gross received his PhD in Aerospace Engineering from WVU in 2011.
+          Satellite Division   Other  
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Annual Awards<button>
+<button>Burka<button>
+<button>Distinguished Service<button>
+<button>Per Enge Early Achievement<button>
+<button>Distinguished PTTI Service<button>
+<button>Hays<button>
+<button>Superior Achievement<button>
+<button>Thurlow<button>
+<button>Tycho Brahe<button>
+<button>Weems<button>
+<button>Kepler<button>
+<button>Parkinson<button>
+<button>ION Fellows<button>
+<button>Student Awards<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+Memory:
+The observation contains information about the ION Per Enge Early Achievement Award recipients. However, it does not provide specific details about which two scientists who conducted GNSS-related research at Stanford University received the award in 2023 and 2004.
+-Dr. Jason N. Gross received the ION Per Enge Early Achievement Award in 2024. However, the observation does not provide information about any other scientist who received the ION Early Career Achievement Award in 2004 or any other year at Stanford University.
+"}
+
+----- WebWalker -----
+The information about Dr. Jason Gross provides details about his work and achievements, but it does not directly answer the question about the 2023 and 2004 recipients. I will now look for other buttons that might provide information about the 2023 recipient. I notice there are buttons for other recipients, such as "Dr. Tyler Gerald René Reid," who might be relevant. I will click on "Dr. Tyler Gerald René Reid" to see if there is any information about him.
+
+Action: visit_page
+Action Input: {"button": "Dr. Tyler Gerald René Reid"}
+
+----- VisitPage -----
+The web information is:
+
+ ](
+  
+Toggle navigation
+                                                                                                                                                                                
+!
+## ION Awards
+## 2023 Per Enge Early Achievement Award
+**Presented to:** Dr. Tyler Gerald René Reid
+**Citation:** For outstanding innovations in the development of low Earth orbiting satellites for providing an enhanced global positioning service
+!
+Dr. Tyler Gerald René Reid has an extensive history of investigating and enabling a wide variety of orbital classes to support positioning, navigation, and timing. While an undergraduate he investigated the effects of atmospheric drag on the formation-flying of satellites. During his graduate work at Stanford University, he developed efficient methods to describe a wide variety of orbit types for use by Satellite-Based Augmentation Systems (SBASs). His message definitions have been adopted into the aeronautical standards and are currently being implemented in the next generation of SBAS. He also investigated the benefits of using satellites in LEO orbits to provide radio navigation signals including GNSS corrections and integrity data. He demonstrated improved coverage to urban areas and polar regions enabled by these more highly inclined orbits.
+Dr. Reid’s most recent effort focuses on the founding of Xona Space Systems, a pioneering start-up that is working to build its own constellation of LEO satellites specifically to provide an independent positioning service that can operate independently of the existing GNSS core constellations. Xona’s service is designed from the outset to include cybersecurity and to meet stringent safety of life integrity requirements. As the CTO of Xona, Dr. Reid is heavily involved in Xona’s system architecture and continues to lead key pioneering programs within the company making LEO PNT a reality. He has been the primary contributor on two of Xona’s awarded patents and is the primary contributor on many more patents currently under review. Under his leadership, in 2022, Xona launched the first ever commercially funded LEO PNT payload and successfully demonstrated the patented core technology behind Xona’s LEO PNT service.
+Dr. Tyler Gerald René Reid is an accomplished communicator and educator; he helped to update and co-teach the graduate GPS class at Stanford University. He received his MSc (2012) and PhD (2017) in Aeronautics and Astronautics from Stanford University.
+          Satellite Division   Other  
+            
+](  
+_Advancing Positioning, Navigation and Timing (PNT)_
+## Useful Links
+          
+## Contact Us
+The Institute of Navigation  
+8551 Rixlew Lane, Suite 360  
+Manassas, VA 20109  
+Phone: 1-703-366-2723   
+Fax: 1-703-366-2724   
+Email: membership@ion.org
+© 1995-2026, The Institute of Navigation, Inc. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Sign In<button>
+<button>Home<button>
+<button>About ION<button>
+<button>About ION<button>
+<button>News and Announcements<button>
+<button>Governance<button>
+<button>Awards and ION Fellows<button>
+<button>ION Partner Program<button>
+<button>Affiliate Partners<button>
+<button>Contact ION<button>
+<button>Meetings<button>
+<button>International Technical Meeting<button>
+<button>PTTI Systems and Applicatons Meeting<button>
+<button>Pacific PNT<button>
+<button>IEEE/ION PLANS<button>
+<button>Joint Navigation Conference<button>
+<button>ION GNSS+<button>
+<button>Abstract Management Portal (AMP)<button>
+<button>Membership<button>
+<button>Membership Information<button>
+<button>Join or Renew<button>
+<button>Government Fellows<button>
+<button>Regional Sections<button>
+<button>Volunteer with ION<button>
+<button>Corporate Member Directory<button>
+<button>Technical Content<button>
+<button>Search/Browse Publications<button>
+<button>Journal<button>
+<button>Newsletter<button>
+<button>Proceedings<button>
+<button>Other Publications<button>
+<button>Download Subscriptions<button>
+<button>Purchase Publications<button>
+<button>Online Tutorials<button>
+<button>Webinars<button>
+<button>Resources<button>
+<button>Job Board<button>
+<button>Student Programs<button>
+<button>International GNSS Day<button>
+<button>Africa Outreach Program<button>
+<button>Smartphone Decimeter Challenge<button>
+<button>Navigation Lesson Plans<button>
+<button>IEEE REACH: STEM Lesson Module<button>
+<button>IEEE PNT Standard (P1952)<button>
+<button>Annual Awards<button>
+<button>Burka<button>
+<button>Distinguished Service<button>
+<button>Per Enge Early Achievement<button>
+<button>Distinguished PTTI Service<button>
+<button>Hays<button>
+<button>Superior Achievement<button>
+<button>Thurlow<button>
+<button>Tycho Brahe<button>
+<button>Weems<button>
+<button>Kepler<button>
+<button>Parkinson<button>
+<button>ION Fellows<button>
+<button>Student Awards<button>
+<button>Meetings<button>
+<button>Membership<button>
+<button>Publications<button>
+<button>Outreach<button>
+<button>Privacy Policy and Terms of Service<button>
+
+----- WebWalker -----
+Memory:
+The observation contains information about the ION Per Enge Early Achievement Award recipients. However, it does not provide specific details about which two scientists who conducted GNSS-related research at Stanford University received the award in 2023 and 2004.
+-Dr. Jason N. Gross received the ION Per Enge Early Achievement Award in 2024. However, the observation does not provide information about any other scientist who received the ION Early Career Achievement Award in 2004 or any other year at Stanford University.
+-Dr. Tyler Gerald René Reid received the ION Per Enge Early Achievement Award in 2023 for his work in GNSS-related research at Stanford University. However, there is no information provided about a scientist who received the ION Early Career Achievement Award in 2004.
+"}

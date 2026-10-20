@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0670_1ac4c7d56129",
+  "source_index": 670,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在武汉理工大学计算机与人工智能学院，95级校友返校座谈会和“知网研学助力科研能力提升”学术讲座是哪两位教授或高层参与组织的？",
+  "prompt": "在武汉理工大学计算机与人工智能学院，95级校友返校座谈会和“知网研学助力科研能力提升”学术讲座是哪两位教授或高层参与组织的？",
+  "expected_answer": "陈采军和钟忺",
+  "root_url": "http://cst.whut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cst.whut.edu.cn/xyxw/202410/t20241025_1288437.shtml",
+      "http://cst.whut.edu.cn/xyxw/202410/t20241028_1289595.shtml"
+    ],
+    "golden_path": [
+      "root->root->【学院动态】“忆往昔峥嵘岁月稠”—学院举办95级校友返校座谈会",
+      "root->【研学讲堂】学院顺利举办“知网研学助力科研能力提升”学术讲座"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 17.645,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0670_1ac4c7d56129/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0670_1ac4c7d56129/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

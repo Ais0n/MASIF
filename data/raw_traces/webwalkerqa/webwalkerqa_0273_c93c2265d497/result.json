@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0273_c93c2265d497",
+  "source_index": 273,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "吴晓青成为海南大学计算机与网络空间安全学院副教授之前，在哪个研究所担任工程师？",
+  "prompt": "吴晓青成为海南大学计算机与网络空间安全学院副教授之前，在哪个研究所担任工程师？",
+  "expected_answer": "航天科技集团五院504研究所",
+  "root_url": "https://cs.hainanu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.hainanu.edu.cn/info/1105/1885.htm"
+    ],
+    "golden_path": [
+      "root->师资队伍->吴晓青"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "吴晓青在成为海南大学计算机与网络空间安全学院副教授之前，在海南大学计算机科学与技术学院担任工程师。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 14.855,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0273_c93c2265d497/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0273_c93c2265d497/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

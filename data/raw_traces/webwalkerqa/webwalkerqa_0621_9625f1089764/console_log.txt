@@ -1,0 +1,395 @@
+----- user -----
+query:
+What new games were released by Ironhide Game Studio on April 10, 2023, and November 20, 2014?
+official website:
+https://www.ironhidegames.com/
+Observation:website information:
+
+☰ 
+ ](/)
+ 
+           
+  * !
+  * !
+  * # 
+scroll 
+# WELCOME TO  
+OUR HOME
+### WE ARE INDIE GAME  
+DEVELOPERS FROM URUGUAY.
+Nice to meet you
+#  WE MAKE THE GAMES  
+WE'D LOVE TO PLAY!  
+ ](
+ ](
+ ](
+ ](
+ ](
+ ](
+ ](
+ ](/Games/iron-marines)
+ ](/Games/kingdom-rush-origins)
+ ](/Games/kingdom-rush-frontiers)
+ ](/Games/kingdom-rush)
+## 
+## 
+## 
+# Our home
+### a growing family of passionate and fun game developers.
+# our networks
+!
+### Contact us
+We love to hear from you!  
+Let us know what you need and how can we help.
+* * *
+!
+### Join us
+Want to join us?  
+We might be the right team for you.
+      
+      
+Copyright © 2010-2026. Ironhide Game Studio. All rights reserved.
+We use cookies to make our site work. We’d also like to set analytics cookies to help us to improve our website by collecting and reporting information on how you use it.   
+You or a grown up can find out more information about these cookies and how to update your preferences in our .
+Accept Decline 
+
+
+clickable button:
+
+<button>HOME<button>
+<button>ABOUT US<button>
+<button>GAMES<button>
+<button>Kingdom Rush 6: Genesis<button>
+<button>Kingdom Rush Battles<button>
+<button>Kingdom Rush 5: Alliance<button>
+<button>Iron Marines Invasion<button>
+<button>Junkworld<button>
+<button>Legends of Kingdom Rush<button>
+<button>Kingdom Rush Vengeance<button>
+<button>Iron Marines<button>
+<button>Kingdom Rush Origins<button>
+<button>Kingdom Rush Frontiers<button>
+<button>Kingdom Rush<button>
+<button>Clash of the Olympians<button>
+<button>CAREERS<button>
+<button>News<button>
+<button>PRIVACY POLICY<button>
+<button>Contact<button>
+<button>SUPPORT<button>
+<button>Shop<button>
+<button>Wishlist now!<button>
+<button>our games<button>
+<button>Kingdom Rush Battles<button>
+<button>Battles May Patch NotesCheck out all Kingdom Rush Battles Update Changes!<button>
+<button>Kingdom Rush Genesis<button>
+<button>Genesis Devlog #9: The Royal CatapultThis week we're getting heavy. Like, throw-a-boulder-across-the-battlefield heavy. Let's talk about the first artillery tower, the Royal Catapult.<button>
+<button>Genesis Devlog #8: The Foundations of LinireaThis week, we're laying the foundations, literally. We're taking you to Stage 1, the very first battle in the game: the Linirean Citadel.<button>
+<button>meet the team<button>
+<button>Contact us<button>
+<button>View careers<button>
+<button>MANAGE COOKIES<button>
+<button>TERMS OF SERVICE<button>
+<button>cookie policy<button>
+<button>Read the PRIVACY POLICY<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about new games released by Ironhide Game Studio on April 10, 2023, and November 20, 2014. The official website has clickable buttons that can be used to navigate through the site and gather this information. I will start by visiting the "GAMES" section of the website.
+
+Action: visit_page
+Action Input: {"button": "GAMES"}
+
+----- VisitPage -----
+The web information is:
+
+☰ 
+ ](/)
+ 
+           
+# WE MAKE THE _GAMES_  
+WE'D LOVE TO _PLAY_
+### OUR GAMES
+Under development
+RETURN TO WHERE IT ALL BEGAN AND LEAD AN EPIC TOWER DEFENSE QUEST TO CHANGE DESTINY 
+Thursday, October 9, 2025
+The Tower Defense Battles You Love, Now in PvP! 
+Thursday, July 25, 2024
+LEAD AN EPIC TOWER DEFENSE QUEST TO DEFEND THE KINGDOM FROM A COLOSSAL THREAT! 
+Thursday, September 8, 2022
+Prove your RTS expertise while exploring an entire galaxy 
+Friday 22nd, September 2023
+Battle the savage enemies in this fast-paced TD game, set in a hostile, post-apocalyptic world! 
+Friday 11th, June 2021
+Command the most powerful legends fighting on a turn-based grid 
+Thursday 22nd, November 2018
+Lead your dark army to conquer lands old and new! 
+Thursday, September 14, 2017
+Defend your colonies and conquer the galaxy in this fast action casual RTS sci-fi game. 
+Thursday, November 20, 2014
+Unleash the power of the elves with brand new towers and troops! 
+Thursday, June 6, 2013
+Test your tower defense skills against the savage frontiers. 
+Monday 19th, December 2011
+Fantasy tower defense battles with light hearted humor and deep tactics. 
+Friday, August 27, 2010
+Defend your temple against the heathen hordes in this skill based action game. 
+OLDER GAMES 
+our humble beginning 
+      
+!
+### PLAYER SUPPORT
+Are you having trouble with an Ironhide game? Check out our support page for FAQs and contact links.
+* * *
+!
+### Join us
+Want to join us?  
+Check our career options!  
+We might be the right team for you.
+      
+      
+Copyright © 2010-2026. Ironhide Game Studio. All rights reserved.
+We use cookies to make our site work. We’d also like to set analytics cookies to help us to improve our website by collecting and reporting information on how you use it.   
+You or a grown up can find out more information about these cookies and how to update your preferences in our .
+Accept Decline 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>ABOUT US<button>
+<button>GAMES<button>
+<button>Kingdom Rush 6: Genesis<button>
+<button>Kingdom Rush Battles<button>
+<button>Kingdom Rush 5: Alliance<button>
+<button>Iron Marines Invasion<button>
+<button>Junkworld<button>
+<button>Legends of Kingdom Rush<button>
+<button>Kingdom Rush Vengeance<button>
+<button>Iron Marines<button>
+<button>Kingdom Rush Origins<button>
+<button>Kingdom Rush Frontiers<button>
+<button>Kingdom Rush<button>
+<button>Clash of the Olympians<button>
+<button>CAREERS<button>
+<button>News<button>
+<button>PRIVACY POLICY<button>
+<button>Contact<button>
+<button>SUPPORT<button>
+<button>Shop<button>
+<button>Kingdom Rush - free flash version<button>
+<button>SUPPORT PAGE<button>
+<button>View careers<button>
+<button>MANAGE COOKIES<button>
+<button>TERMS OF SERVICE<button>
+<button>cookie policy<button>
+<button>Read the PRIVACY POLICY<button>
+
+----- WebWalker -----
+Memory:
+-On November 20, 2014, Ironhide Game Studio released 'Kingdom Rush' with the description: 'Unleash the power of the elves with brand new towers and troops!'
+"}
+
+----- WebWalker -----
+The web information is:
+
+☰ 
+ ](/)
+ 
+           
+# WE MAKE THE _GAMES_  
+WE'D LOVE TO _PLAY_
+### OUR GAMES
+Under development
+RETURN TO WHERE IT ALL BEGAN AND LEAD AN EPIC TOWER DEFENSE QUEST TO CHANGE DESTINY 
+Thursday, October 9, 2025
+The Tower Defense Battles You Love, Now in PvP! 
+Thursday, July 25, 2024
+LEAD AN EPIC TOWER DEFENSE QUEST TO DEFEND THE KINGDOM FROM A COLOSSAL THREAT! 
+Thursday, September 8, 2022
+Prove your RTS expertise while exploring an entire galaxy 
+Friday 22nd, September 2023
+Battle the savage enemies in this fast-paced TD game, set in a hostile, post-apocalyptic world! 
+Friday 11th, June 2021
+Command the most powerful legends fighting on a turn-based grid 
+Thursday 22nd, November 2018
+Lead your dark army to conquer lands old and new! 
+Thursday, September 14, 2017
+Defend your colonies and conquer the galaxy in this fast action casual RTS sci-fi game. 
+Thursday, November 20, 2014
+Unleash the power of the elves with brand new towers and troops! 
+Thursday, June 6, 2013
+Test your tower defense skills against the savage frontiers. 
+Monday 19th, December 2011
+Fantasy tower defense battles with light hearted humor and deep tactics. 
+Friday, August 27, 2010
+Defend your temple against the heathen hordes in this skill based action game. 
+OLDER GAMES 
+our humble beginning 
+      
+!
+### PLAYER SUPPORT
+Are you having trouble with an Ironhide game? Check out our support page for FAQs and contact links.
+* * *
+!
+### Join us
+Want to join us?  
+Check our career options!  
+We might be the right team for you.
+      
+      
+Copyright © 2010-2026. Ironhide Game Studio. All rights reserved.
+We use cookies to make our site work. We’d also like to set analytics cookies to help us to improve our website by collecting and reporting information on how you use it.   
+You or a grown up can find out more information about these cookies and how to update your preferences in our .
+Accept Decline 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>ABOUT US<button>
+<button>GAMES<button>
+<button>Kingdom Rush 6: Genesis<button>
+<button>Kingdom Rush Battles<button>
+<button>Kingdom Rush 5: Alliance<button>
+<button>Iron Marines Invasion<button>
+<button>Junkworld<button>
+<button>Legends of Kingdom Rush<button>
+<button>Kingdom Rush Vengeance<button>
+<button>Iron Marines<button>
+<button>Kingdom Rush Origins<button>
+<button>Kingdom Rush Frontiers<button>
+<button>Kingdom Rush<button>
+<button>Clash of the Olympians<button>
+<button>CAREERS<button>
+<button>News<button>
+<button>PRIVACY POLICY<button>
+<button>Contact<button>
+<button>SUPPORT<button>
+<button>Shop<button>
+<button>Kingdom Rush - free flash version<button>
+<button>SUPPORT PAGE<button>
+<button>View careers<button>
+<button>MANAGE COOKIES<button>
+<button>TERMS OF SERVICE<button>
+<button>cookie policy<button>
+<button>Read the PRIVACY POLICY<button>
+
+Thought: The "GAMES" section provides a list of games along with their release dates. I need to identify which games were released on April 10, 2023, and November 20, 2014. From the observations, I see that "Thursday, November 20, 2014" corresponds to the game "Unleash the power of the elves with brand new towers and troops!" which is likely "Kingdom Rush Origins." However, there is no direct mention of a game released on April 10, 2023. To confirm, I will click on the "Kingdom Rush Origins" button to get more details about that game.
+
+Action: visit_page
+Action Input: {"button": "Kingdom Rush Origins"}
+
+----- VisitPage -----
+The web information is:
+
+☰ 
+ ](/)
+ 
+           
+!
+watch trailer
+Release date:  
+Thursday, November 20, 2014
+## Unleash the power of the elves with brand new towers and troops!
+# Kingdom Rush Origins
+Three decades before the first Kingdom Rush, a threat rises in the Elven Kingdom.  
+Re-enter the world of Kingdom Rush: visit mysterious elven forests, magical faery realms and even floating ruins of an ancient metropolis!  
+  
+Unleash the power of the elves with brand new towers and troops! Elf Archers, Mystic Mages, Stone Druids and the Elven Infantry make up the backbone of your army.  
+  
+Discover eight new specialized tower upgrades with over 18 abilities! Vanquish your enemies with elven marksmen, runed bears, magic-wielding wizards, and even giant animated trees.
+Available on
+  *  ](
+  *  ](
+  *  ](
+  *  ](
+  *  ](
+  *  ](
+  *  ](
+ ](  ](  ](  ](  ](
+## Heard on the press
+and in the radio... not
+[
+> "Always imitated, never equaled. In the world of mobile tower defense titles, there is Ironhide Game Studio's Kingdom Rush series, and there are all others. Nobody does it better, and they've rounded out their hat trick with the release of Kingdom Rush: Origins." GAMENGUIDE ](/external?url=
+[
+> "Origins has enough action in it to film a new trilogy of Expendables movies." lazygamer ](/external?url=
+[
+> "Kingdom Rush Origins is what you've come to love with its muscles oiled and polished until you can see yourself in them." Jayisgames ](/external?url=
+[
+> "Kingdom Rush Origins is the sort of game anyone with a penchant for tower defence is going to love." Pocketgamer ](/external?url=#x2B;Rush&#x2B;Origins/review.asp?c=62623&target=_blank&returnUrl=
+## Awards
+Almost an oscar 
+  > Best Strategy/Simulation Game Pocketgamer ](/external?url=
+  > Best Latam Game 2016 BIG Festival ](/external?url=
+  > 100 Greatest Mobile Games EVER Pocketgamer ](/external?url=#x2B;Gamer&#x2B;10th&#x2B;Anniversary/feature.asp?c=69663&target=_blank&returnUrl=
+  * !
+> Editor's Choice
+> Appstore
+  * !
+> Editor's Choice
+> Google Play
+!
+### News
+Stay up to date with the  
+Kingdom Rush news.
+* * *
+!
+### Newsletter
+Stay up to date with latest news  
+and information about Kingdom Rush Origins
+Subscribe
+also visit 
+The online home for  
+all things Kingdom Rush Origins!
+      
+      
+Copyright © 2010-2026. Ironhide Game Studio. All rights reserved.
+We use cookies to make our site work. We’d also like to set analytics cookies to help us to improve our website by collecting and reporting information on how you use it.   
+You or a grown up can find out more information about these cookies and how to update your preferences in our .
+Accept Decline 
+‹ › ×
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>ABOUT US<button>
+<button>GAMES<button>
+<button>Kingdom Rush 6: Genesis<button>
+<button>Kingdom Rush Battles<button>
+<button>Kingdom Rush 5: Alliance<button>
+<button>Iron Marines Invasion<button>
+<button>Junkworld<button>
+<button>Legends of Kingdom Rush<button>
+<button>Kingdom Rush Vengeance<button>
+<button>Iron Marines<button>
+<button>Kingdom Rush Origins<button>
+<button>Kingdom Rush Frontiers<button>
+<button>Kingdom Rush<button>
+<button>Clash of the Olympians<button>
+<button>CAREERS<button>
+<button>News<button>
+<button>PRIVACY POLICY<button>
+<button>Contact<button>
+<button>SUPPORT<button>
+<button>Shop<button>
+<button>Always imitated, never equaled. In the world of mobile tower defense titles, there is Ironhide Game Studio's Kingdom Rush series, and there are all others. Nobody does it better, and they've rounded out their hat trick with the release of Kingdom Rush: Origins.GAMENGUIDE<button>
+<button>Origins has enough action in it to film a new trilogy of Expendables movies.lazygamer<button>
+<button>Kingdom Rush Origins is what you've come to love with its muscles oiled and polished until you can see yourself in them.Jayisgames<button>
+<button>Kingdom Rush Origins is the sort of game anyone with a penchant for tower defence is going to love.Pocketgamer<button>
+<button>Best Strategy/Simulation GamePocketgamer<button>
+<button>Best Latam Game 2016BIG Festival<button>
+<button>100 Greatest Mobile Games EVERPocketgamer<button>
+<button>Kingdom Rush news<button>
+<button>MANAGE COOKIES<button>
+<button>TERMS OF SERVICE<button>
+<button>cookie policy<button>
+<button>Read the PRIVACY POLICY<button>
+
+----- WebWalker -----
+Memory:
+On November 20, 2014, Ironhide Game Studio released 'Kingdom Rush' with the description: 'Unleash the power of the elves with brand new towers and troops!'
+-Ironhide Game Studio released the game 'Kingdom Rush Origins' on November 20, 2014. There is no information about any new games released by Ironhide Game Studio on April 10, 2023.
+"}
+
+----- WebWalker -----
+Final Answer: On November 20, 2014, Ironhide Game Studio released 'Kingdom Rush' and 'Kingdom Rush Origins'. There is no information about any new games released by Ironhide Game Studio on April 10, 2023.

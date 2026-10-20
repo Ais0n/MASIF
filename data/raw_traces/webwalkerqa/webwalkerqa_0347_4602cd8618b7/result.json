@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0347_4602cd8618b7",
+  "source_index": 347,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How many countries were represented at the EHA-PTHiT Mini Hematology Tutorial in November 2021?",
+  "prompt": "How many countries were represented at the EHA-PTHiT Mini Hematology Tutorial in November 2021?",
+  "expected_answer": "34",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/organization/newsroom/news-and-updates/eha-and-pthit-successfully-conclude-the-second-joint-virtual-mini-hematology-tutorial/"
+    ],
+    "golden_path": [
+      "root->News & views->Meeting reports->Read more"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 101.947,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0347_4602cd8618b7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0347_4602cd8618b7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

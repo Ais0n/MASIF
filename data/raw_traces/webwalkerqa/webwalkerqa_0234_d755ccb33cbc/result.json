@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0234_d755ccb33cbc",
+  "source_index": 234,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How much money did players raise in 2020 through the Dawnbringer Karma, COVID Support Bundle, and Elderwood Ornn fundraisers?",
+  "prompt": "How much money did players raise in 2020 through the Dawnbringer Karma, COVID Support Bundle, and Elderwood Ornn fundraisers?",
+  "expected_answer": "Over $14 million",
+  "root_url": "https://www.riotgames.com/zh-cn",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/zh-cn/news/2020-social-impact-year-in-review"
+    ],
+    "golden_path": [
+      "root->社会影响力->2020 Social Impact Year in Review"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 31.617,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0234_d755ccb33cbc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0234_d755ccb33cbc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

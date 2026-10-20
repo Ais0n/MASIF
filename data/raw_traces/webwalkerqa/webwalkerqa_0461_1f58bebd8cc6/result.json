@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0461_1f58bebd8cc6",
+  "source_index": 461,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "统一企业在2023年末至2024年初之间分别采取了哪些行动来支持甘肃积石山县地震灾区以及沈阳残疾人就业？",
+  "prompt": "统一企业在2023年末至2024年初之间分别采取了哪些行动来支持甘肃积石山县地震灾区以及沈阳残疾人就业？",
+  "expected_answer": "为甘肃地震灾区提供3.2万份方便面，并在沈阳助力残疾人就业。",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/news_detail.asp?corp_id=376&news_id=975",
+      "https://www.uni-president.com.cn/news_detail.asp?corp_id=376&news_id=1172"
+    ],
+    "golden_path": [
+      "root->众志成城  统一企业驰援甘肃抗震一线！",
+      "root->沈阳统一联手“阳光之家”助力残疾人就业"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 45.411,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0461_1f58bebd8cc6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0461_1f58bebd8cc6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

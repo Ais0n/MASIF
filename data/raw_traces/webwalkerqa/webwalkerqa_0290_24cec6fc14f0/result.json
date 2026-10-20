@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0290_24cec6fc14f0",
+  "source_index": 290,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "On which date does the Hallow's Hearth event for Age of Empires IV's Season Nine update start, and what new game mode is introduced during this event?",
+  "prompt": "On which date does the Hallow's Hearth event for Age of Empires IV's Season Nine update start, and what new game mode is introduced during this event?",
+  "expected_answer": "October 22nd; Full Moon game mode",
+  "root_url": "https://www.ageofempires.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ageofempires.com/news/age-of-empires-iv-season-nine-update-preview-12-0-1974/"
+    ],
+    "golden_path": [
+      "root->Expansions->Patches, Updates & Content ReleasesAge of Empires IV – Season Nine Update Preview 12.0.1974"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 23.813,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0290_24cec6fc14f0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0290_24cec6fc14f0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0207_9cce80c19fe5",
+  "source_index": 207,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "湖北工业大学陈业培主持的国家自然科学基金青年项目的研究起止日期是什么？",
+  "prompt": "湖北工业大学陈业培主持的国家自然科学基金青年项目的研究起止日期是什么？",
+  "expected_answer": "2024.01-2026.12",
+  "root_url": "https://jsjxy.hbut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.hbut.edu.cn/info/1092/4143.htm"
+    ],
+    "golden_path": [
+      "root->专任教师->陈业培"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 14.312,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0207_9cce80c19fe5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0207_9cce80c19fe5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

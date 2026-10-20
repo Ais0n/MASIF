@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0232_d77bb53634a5",
+  "source_index": 232,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2023年10月14日的“龙江计算机青年沙龙”活动中，哈尔滨工程大学计算机科学与技术学院哪位老师进行了多阶图像分割技术的展示？",
+  "prompt": "在2023年10月14日的“龙江计算机青年沙龙”活动中，哈尔滨工程大学计算机科学与技术学院哪位老师进行了多阶图像分割技术的展示？",
+  "expected_answer": "张晓光",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2023/1016/c12615a317674/page.htm"
+    ],
+    "golden_path": [
+      "root->学术交流->学院青年科协协办龙江计算机青年沙龙（第二期）活动2023-10-16"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 72.605,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0232_d77bb53634a5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0232_d77bb53634a5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+----- user -----
+query:
+在中国地质大学（武汉）计算机学院，2024年研究生国家奖学金申请材料的截止提交时间及本科生重新选择专业公示截止日期分别是什么？
+official website:
+https://cs.cug.edu.cn/
+Observation:website information:
+
+
+
+clickable button:
+
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about the 2024 graduate national scholarship application deadline and the undergraduate major reselection announcement deadline on the official website of the School of Computer Science at China University of Geosciences (Wuhan). I will start by visiting the homepage and exploring the available buttons to locate relevant sections.
+
+Action: visit_page
+Action Input: {"button": "首页"}
+
+----- VisitPage -----
+Button not found: 首页
+
+----- WebWalker -----
+The homepage button is not clickable. I will try another button to explore the website further. 
+
+Action: visit_page
+Action Input: {"button": "学院概况"}
+
+----- VisitPage -----
+Button not found: 学院概况
+
+----- WebWalker -----
+The "学院概况" button is not clickable. I will try another button to explore the website further. 
+
+Action: visit_page
+Action Input: {"button": "通知公告"}
+
+----- VisitPage -----
+Button not found: 通知公告
+
+----- WebWalker -----
+The "通知公告" button is not clickable. I will try another button to explore the website further. 
+
+Action: visit_page
+Action Input: {"button": "学院新闻"}
+
+----- VisitPage -----
+Button not found: 学院新闻
+
+----- WebWalker -----
+The "学院新闻" button is not clickable. I will try another button to explore the website further. 
+
+Action: visit_page
+Action Input: {"button": "师资队伍"}
+
+----- VisitPage -----
+Button not found: 师资队伍
+
+----- WebWalker -----
+The "师资队伍" button is not clickable. I will try another button to explore the website further. 
+
+Action: visit_page
+Action Input: {"button": "党建工作"}
+
+----- VisitPage -----
+Button not found: 党建工作
+
+----- WebWalker -----
+The "党建工作" button is not clickable. I will try another button to explore the website further. 
+
+Action: visit_page
+Action Input: {"button": "教学科研"}
+
+----- VisitPage -----
+Button not found: 教学科研
+
+----- WebWalker -----
+The "教学科研" button is not clickable. I will try another button to explore the website further. 
+
+Action: visit_page
+Action Input: {"button": "学生工作"}
+
+----- VisitPage -----
+Button not found: 学生工作

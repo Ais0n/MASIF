@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0442_6fbb390a819b",
+  "source_index": 442,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北京工业大学计算机学院在2024年的高质量发展主题沙龙与改革发展处的调研中，分别是哪两位领导人扮演了关键角色？",
+  "prompt": "北京工业大学计算机学院在2024年的高质量发展主题沙龙与改革发展处的调研中，分别是哪两位领导人扮演了关键角色？",
+  "expected_answer": "韩红桂和杜峰",
+  "root_url": "https://cs.bjut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.bjut.edu.cn/info/1075/2729.htm",
+      "https://cs.bjut.edu.cn/info/1453/2719.htm"
+    ],
+    "golden_path": [
+      "root->【计算机|改革发展】交流研讨 共谋发展——改...",
+      "root->【计算机|沙龙】从上好一堂课到备战青教赛——计算机学院举办“高质量发..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 23,
+  "tool_calls": 8,
+  "duration_seconds": 86.899,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0442_6fbb390a819b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0442_6fbb390a819b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

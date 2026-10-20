@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0577_11a26fba6540",
+  "source_index": 577,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who is the famous Mexican artist behind the True Damage graffiti used for decoration at the 2022 Mexico City World Championship Watch Party, and what natural phenomenon from the Philippines inspired Zeri's design at this event?",
+  "prompt": "Who is the famous Mexican artist behind the True Damage graffiti used for decoration at the 2022 Mexico City World Championship Watch Party, and what natural phenomenon from the Philippines inspired Zeri's design at this event?",
+  "expected_answer": "The True Damage graffiti was created by a famous Mexican graffiti artist, and Zeri's design was inspired by bioluminescent electric eels from the Philippines.",
+  "root_url": "https://www.riotgames.com/zh-cn",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/zh-cn/news/inside-the-house-of-worlds-mexico-citys-premiere-worlds-watch-party-zh-cn",
+      "https://www.riotgames.com/zh-cn/news/champion-insights-zeri"
+    ],
+    "golden_path": [
+      "root->多元与包容->拉美裔传统月：拳头游戏与 Latinx in Gaming 达成合作->墨西哥城在全球总决赛之家举办首次观赛派对",
+      "root->多元与包容->行业->Champion Insights: Zeri"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 66.343,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0577_11a26fba6540/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0577_11a26fba6540/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

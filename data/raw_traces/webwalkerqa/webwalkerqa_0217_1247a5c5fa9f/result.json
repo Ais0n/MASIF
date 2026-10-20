@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0217_1247a5c5fa9f",
+  "source_index": 217,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023年5月，北汽集团开展了什么活动？什么时间开展的？",
+  "prompt": "2023年5月，北汽集团开展了什么活动？什么时间开展的？",
+  "expected_answer": "主题教育；具体开始日期是2023年5月18日。",
+  "root_url": "https://www.baicgroup.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.baicgroup.com.cn/dynamics-of-the-party.html?page=2"
+    ],
+    "golden_path": [
+      "root->党建动态->›"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "2023年5月，北汽集团没有直接提到开展的具体活动。但根据观察结果，北汽集团在2023年4月18日举办了‘探索你的宇宙，新一代全尺寸硬派豪华火星皮卡全球首发仪式’，该活动在上海举行。此外，在2023年11月17日，北汽集团在广州国际车展上展出了极狐阿尔法T5，并在北京汽车展上展示了北京汽车的相关内容。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 7,
+  "duration_seconds": 52.552,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0217_1247a5c5fa9f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0217_1247a5c5fa9f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

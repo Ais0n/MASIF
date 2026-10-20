@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0260_9dc6955451a1",
+  "source_index": 260,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "《多多自走棋》发布的【棋士证书】中，，哪一个新赛季开始的时间与S16赛季棋士证书同时开启，并且新赛季持续多少周？",
+  "prompt": "《多多自走棋》发布的【棋士证书】中，，哪一个新赛季开始的时间与S16赛季棋士证书同时开启，并且新赛季持续多少周？",
+  "expected_answer": "S17新赛季与S16赛季棋士证书的结束时间相同，都在2022年3月14日开始，并且持续12周。",
+  "root_url": "http://ac.dragonest.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "http://ac.dragonest.com/zh-cn/announcement/detail/efb4005ef8a"
+    ],
+    "golden_path": [
+      "root->公告->3月14日停服更新公告多多自走棋2022-03-14"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 96.727,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0260_9dc6955451a1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0260_9dc6955451a1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

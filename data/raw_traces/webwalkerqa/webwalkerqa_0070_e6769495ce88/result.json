@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0070_e6769495ce88",
+  "source_index": 70,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年湖南科技大学计算机科学与工程学院拟推荐的研究生校长奖获得者是谁？并且在同一时间学院与重庆樱花能源科技有限公司开展的合作交流涉及哪些具体技术领域？",
+  "prompt": "2024年湖南科技大学计算机科学与工程学院拟推荐的研究生校长奖获得者是谁？并且在同一时间学院与重庆樱花能源科技有限公司开展的合作交流涉及哪些具体技术领域？",
+  "expected_answer": "拟推荐人员为博士蔡佳洪和叶洪帆，硕士晏紫微；合作涉及分布式清洁能源、可再生能源及智能电气元件等领域。",
+  "root_url": "https://computer.hnust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hnust.edu.cn/tzgg/a596f244093d432787e5acf2ae364f53.htm",
+      "https://computer.hnust.edu.cn/xyxw/4639419828a94c36a08d4026d6966b00.htm"
+    ],
+    "golden_path": [
+      "root->硕士生培养->2024年校长奖拟推荐人员名单公示",
+      "root->硕士生培养->重庆樱花能源科技有限公司领导专家莅临学院交流"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 29.481,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0070_e6769495ce88/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0070_e6769495ce88/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

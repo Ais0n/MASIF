@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0663_afd6a5c72bda",
+  "source_index": 663,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2020年3月西安电子科技大学计算机科学与技术学院 成立的两个联合党支部分别是哪两个？",
+  "prompt": "2020年3月西安电子科技大学计算机科学与技术学院 成立的两个联合党支部分别是哪两个？",
+  "expected_answer": "智能软件与系统新技术研究所本硕博师联合党支部和产教协同基地本硕博师第一联合党支部",
+  "root_url": "https://cs.xidian.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xidian.edu.cn/info/1314/8237.htm",
+      "https://cs.xidian.edu.cn/info/1314/8239.htm"
+    ],
+    "golden_path": [
+      "root->组织机构->智能软件与系统新技术研究所本硕博师联合党支部",
+      "root->组织机构->产教协同基地本硕博师第一联合党支部"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "2020年3月西安电子科技大学计算机科学与技术学院成立的两个联合党支部分别是计算生物信息学研究所本硕博师联合党支部和计算理论与技术研究所本硕博师联合党支部。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 34.351,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0663_afd6a5c72bda/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0663_afd6a5c72bda/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"verdict\":",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0412_a45a8a89e251",
+  "source_index": 412,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南开大学2024年毕业生向中西部基层单位就业奖励金申请的截止日期和2024-2025学年第一学期专业学位硕士研究生提交毕业论文的截止日期分别是什么？",
+  "prompt": "南开大学2024年毕业生向中西部基层单位就业奖励金申请的截止日期和2024-2025学年第一学期专业学位硕士研究生提交毕业论文的截止日期分别是什么？",
+  "expected_answer": "2024年5月27日和2024年10月11日",
+  "root_url": "https://cc.nankai.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cc.nankai.edu.cn/2024/0508/c13293a541818/page.htm",
+      "https://cc.nankai.edu.cn/2024/0913/c13298a550873/page.htm"
+    ],
+    "golden_path": [
+      "root->学院关于2024年毕业生到中西部基层单位就业奖励金申请的通知2024-05-08",
+      "root->【专硕毕业】2024-2025学年第一学期专业学位硕士研究生论文评阅及答辩工作通知2024-09-13"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 52.163,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0412_a45a8a89e251/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0412_a45a8a89e251/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

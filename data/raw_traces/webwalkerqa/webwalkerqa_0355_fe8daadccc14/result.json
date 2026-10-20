@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0355_fe8daadccc14",
+  "source_index": 355,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西华大学计算机与软件工程学院发布的2022-2023年度国家奖学金、国家励志奖学金公告中，总共颁发了多少项奖学金？",
+  "prompt": "西华大学计算机与软件工程学院发布的2022-2023年度国家奖学金、国家励志奖学金公告中，总共颁发了多少项奖学金？",
+  "expected_answer": "100",
+  "root_url": "https://cs.xhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xhu.edu.cn/45/65/c10300a214373/page.htm"
+    ],
+    "golden_path": [
+      "root->通知公告->下一页>>->计算机与软件工程学院2022-2023年度国家奖学金、国家励志奖学金..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 49.689,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0355_fe8daadccc14/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0355_fe8daadccc14/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

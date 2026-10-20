@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0652_ae5a9cff7810",
+  "source_index": 652,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在暨南大学2018级计算机科学与技术专业的课程计划中，基础教育课程的必修课部分，实践学时占总学时的比例是多少？",
+  "prompt": "在暨南大学2018级计算机科学与技术专业的课程计划中，基础教育课程的必修课部分，实践学时占总学时的比例是多少？",
+  "expected_answer": "18.94%",
+  "root_url": "https://xxxy.jnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://xxxy.jnu.edu.cn/2018/0720/c33971a575039/page.htm"
+    ],
+    "golden_path": [
+      "root->本科教学->2018级计算机科学与技术专业本科人才培养方案(内招生)2018-07-20"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.237,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0652_ae5a9cff7810/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0652_ae5a9cff7810/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0360_23b23cc879d8",
+  "source_index": 360,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the pavilion area of France, one of the guest countries, at the 7th China International Import Expo?",
+  "prompt": "What is the pavilion area of France, one of the guest countries, at the 7th China International Import Expo?",
+  "expected_answer": "20,000 square meters",
+  "root_url": "https://www.ciie.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ciie.org/digital/release/news/detail?id=46654"
+    ],
+    "golden_path": [
+      "root->Home->Country Exhibition->CIIE insights: China-France diplomacy and industrial evolution"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "法国作为第七届中国国际进口博览会的主宾国，其参展面积在世界各国中位居前列，但具体 pavilion 面积数据未明确提及。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 4,
+  "duration_seconds": 195.927,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0360_23b23cc879d8/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0360_23b23cc879d8/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer fails to provide the specific area and states it is not mentioned, whereas the expected answer is 20",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

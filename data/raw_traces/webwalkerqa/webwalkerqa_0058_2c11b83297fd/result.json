@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0058_2c11b83297fd",
+  "source_index": 58,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who was introduced as the Adjunct Chair for Equity during the SIGCHI Open Session on October 26, 2022, and what is the email contact for the SIGCHI CARES Co-chairs?",
+  "prompt": "Who was introduced as the Adjunct Chair for Equity during the SIGCHI Open Session on October 26, 2022, and what is the email contact for the SIGCHI CARES Co-chairs?",
+  "expected_answer": "Cale Passmore; sigchi-cares@acm.org",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/events/open-session-october-26-2022/",
+      "https://sigchi.org/about/sigchi-cares/"
+    ],
+    "golden_path": [
+      "root->Calendar->Past Meetings->Open session: October 26, 2022Oct 26, 2022 - Oct 26, 2022The monthly October 2022 SIGCHI Executive Committee open meeting covered a variety of topics.",
+      "root->CARES"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The Adjunct Chair for Equity during the SIGCHI Open Session on October 26, 2022, was Jerry Alan Fails. The email contact for the SIGCHI CARES Co-chairs is sigchi-ec@acm.org.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 5,
+  "duration_seconds": 46.113,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0058_2c11b83297fd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0058_2c11b83297fd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

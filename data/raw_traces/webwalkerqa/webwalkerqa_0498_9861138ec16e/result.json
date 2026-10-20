@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0498_9861138ec16e",
+  "source_index": 498,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which 2024 Midori Prize winner's project aligns with the Nagoya Protocol's model contractual clauses by addressing conservation of migratory animal corridors?",
+  "prompt": "Which 2024 Midori Prize winner's project aligns with the Nagoya Protocol's model contractual clauses by addressing conservation of migratory animal corridors?",
+  "expected_answer": "Vera Voronova (Kazakhstan)",
+  "root_url": "https://www.cbd.int/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.cbd.int/abs/modelclauses.shtml",
+      "https://www.cbd.int/cooperation/midori/"
+    ],
+    "golden_path": [
+      "root->NAGOYA PROTOCOL->Model contractual clauses, codes of conduct, guidelines and best practices and/or standards",
+      "root->Initiatives->Past Winners"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 79.465,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0498_9861138ec16e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0498_9861138ec16e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

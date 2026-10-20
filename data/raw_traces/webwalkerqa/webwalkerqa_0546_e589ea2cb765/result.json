@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0546_e589ea2cb765",
+  "source_index": 546,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在西南交通大学的2024-2025学年中，《人工智能通识》课程的在线上线时间与大学生创新训练计划(SRTP)项目中期检查的截止日期分别是什么时候？",
+  "prompt": "在西南交通大学的2024-2025学年中，《人工智能通识》课程的在线上线时间与大学生创新训练计划(SRTP)项目中期检查的截止日期分别是什么时候？",
+  "expected_answer": "2024年秋季学期；2024年11月22日",
+  "root_url": "https://scai.swjtu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=f5976b69-95a2-401e-96ad-d511a90a9215",
+      "https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=31390bd1-27da-4c7b-888f-f8dd2a9db7fe"
+    ],
+    "golden_path": [
+      "root->首页->学院新闻->告别传统课堂：《人工智能通识》如何用AI学AI？",
+      "root->首页->Mon Nov 11 00:00:00 CST 2024Mon Nov 11 00:00:00 CST 2024【转教务处】关于开展2024年大学生创新训练计划(SRTP)项目中期检查的通知……"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 21,
+  "tool_calls": 8,
+  "duration_seconds": 66.154,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0546_e589ea2cb765/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0546_e589ea2cb765/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

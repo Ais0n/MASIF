@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0426_ff168477c4bc",
+  "source_index": 426,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "During which event did Fall Guys introduce the 'Rubber Chicken' power-up and what thematic feature did the 'Tool Up' update highlight?",
+  "prompt": "During which event did Fall Guys introduce the 'Rubber Chicken' power-up and what thematic feature did the 'Tool Up' update highlight?",
+  "expected_answer": "The 'Rubber Chicken' power-up was introduced during the Scrapyard Stumble Update and the 'Tool Up' update highlighted a winter-themed Skybox.",
+  "root_url": "https://www.fallguys.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.fallguys.com/en-US/news/fall-guys-tool-up-update",
+      "https://www.fallguys.com/en-US/news/scrapyard-stumble-update"
+    ],
+    "golden_path": [
+      "root->Fall Guys ‘Tool Up’ UpdateTeam Fall Guys / November 7, 2023",
+      "root->FALL GUYS SCRAPYARD STUMBLE UPDATETeam Fall Guys / September 3, 2024"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 58.824,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0426_ff168477c4bc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0426_ff168477c4bc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

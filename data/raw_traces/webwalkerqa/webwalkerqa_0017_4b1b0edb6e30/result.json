@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0017_4b1b0edb6e30",
+  "source_index": 17,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which characters are involved in the grand opening of Battle Brewmasters Artisanal Potion Shop in Kingdom Rush 5: Alliance, and what types of hidden treasures can be found in the upcoming Pirate Kings Campaign?",
+  "prompt": "Which characters are involved in the grand opening of Battle Brewmasters Artisanal Potion Shop in Kingdom Rush 5: Alliance, and what types of hidden treasures can be found in the upcoming Pirate Kings Campaign?",
+  "expected_answer": "Characters like Linireans, elves, and dwarves participate in the grand opening. Hidden treasures in the Pirate Kings Campaign include items like Ironhide Games assets, heroes, towers, or DLCs.",
+  "root_url": "https://www.ironhidegames.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ironhidegames.com/News/Details/372",
+      "https://www.ironhidegames.com/News/Details/370"
+    ],
+    "golden_path": [
+      "root->News->A Chat with the Battle Brewmasters!",
+      "root->News->Let the Treasure Hunt Begin!With the Pirate Kings Campaign approaching, rumor has it there be hidden treasures everywhere… so be among the first three to crack the secret codes and claim yer booty!"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 61.385,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0017_4b1b0edb6e30/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0017_4b1b0edb6e30/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

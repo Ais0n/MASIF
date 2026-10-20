@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0305_12b60ea69f3c",
+  "source_index": 305,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "《新斗罗大陆》游戏活动中，哪一个活动是2月19日至2月20日进行的？",
+  "prompt": "《新斗罗大陆》游戏活动中，哪一个活动是2月19日至2月20日进行的？",
+  "expected_answer": "神器好禮：平台累儲加碼送",
+  "root_url": "https://www.tw.gamehours.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.tw.gamehours.com/news/index/cat_id/event/page/11/per-page/12"
+    ],
+    "golden_path": [
+      "root->最新消息->遊戲活動->10"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 75.462,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0305_12b60ea69f3c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0305_12b60ea69f3c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

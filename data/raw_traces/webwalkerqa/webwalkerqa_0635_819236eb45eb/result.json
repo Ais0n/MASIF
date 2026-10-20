@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0635_819236eb45eb",
+  "source_index": 635,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年10月29日广东工业大学计算机学院举办的第十一届青年教师教学竞赛中，共有多少名参赛教师，并有多少名教师被推荐代表学院参加学校复赛？",
+  "prompt": "在2024年10月29日广东工业大学计算机学院举办的第十一届青年教师教学竞赛中，共有多少名参赛教师，并有多少名教师被推荐代表学院参加学校复赛？",
+  "expected_answer": "9名参赛教师，3名教师被推荐参加学校复赛。",
+  "root_url": "https://cs.gdut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.gdut.edu.cn/info/2317/4928.htm"
+    ],
+    "golden_path": [
+      "root->计算机学院成功举办第十一届青年教师教学竞赛"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 44.564,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0635_819236eb45eb/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0635_819236eb45eb/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

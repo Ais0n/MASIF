@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0195_b1f3734def1d",
+  "source_index": 195,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the date when Dr. John Raquet received the Johannes Kepler Award at the ION GNSS+ 2024 conference?",
+  "prompt": "What is the date when Dr. John Raquet received the Johannes Kepler Award at the ION GNSS+ 2024 conference?",
+  "expected_answer": "September 20, 2024",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/news/kepleraward2024.cfm"
+    ],
+    "golden_path": [
+      "root->News->Read More"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "Dr. John Raquet received the Johannes Kepler Award at the ION GNSS+ 2024 conference.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 53.669,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0195_b1f3734def1d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0195_b1f3734def1d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer completely fails to provide the requested date and merely repeats the premise of the question.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

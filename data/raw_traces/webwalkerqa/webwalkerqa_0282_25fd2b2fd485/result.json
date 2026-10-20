@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0282_25fd2b2fd485",
+  "source_index": 282,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "湖北工业大学谢广奇教授在2023年获得何种奖项及其在团队中的排名？",
+  "prompt": "湖北工业大学谢广奇教授在2023年获得何种奖项及其在团队中的排名？",
+  "expected_answer": "测绘科学技术奖一等奖，排名第10。",
+  "root_url": "https://jsjxy.hbut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.hbut.edu.cn/info/1092/4139.htm"
+    ],
+    "golden_path": [
+      "root->专任教师->谢广奇"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 10.33,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0282_25fd2b2fd485/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0282_25fd2b2fd485/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

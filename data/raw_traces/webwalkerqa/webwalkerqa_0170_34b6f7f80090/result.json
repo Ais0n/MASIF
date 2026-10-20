@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0170_34b6f7f80090",
+  "source_index": 170,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "中国地质大学在2024年11月8日和2024年11月11日之间，计算机学院发生了什么会议活动？",
+  "prompt": "中国地质大学在2024年11月8日和2024年11月11日之间，计算机学院发生了什么会议活动？",
+  "expected_answer": "计算机学院于2024年11月8日召开了第七期支部书记研学论坛暨党支部书记工作专题培训会。",
+  "root_url": "https://cs.cug.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.cug.edu.cn/info/1042/6913.htm"
+    ],
+    "golden_path": [
+      "root->计算机学院第七期支部书记研学论坛顺利召开"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 82.151,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0170_34b6f7f80090/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0170_34b6f7f80090/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0135_fb83a51f9b22",
+  "source_index": 135,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "湖南工业大学计算机学院在2024年10月19日下午举办的CCF服务计算专委会活动中，两位教授分别发表了什么主题的演讲？",
+  "prompt": "湖南工业大学计算机学院在2024年10月19日下午举办的CCF服务计算专委会活动中，两位教授分别发表了什么主题的演讲？",
+  "expected_answer": "李兵教授发表了《基金申请书写作漫谈》，俞奎教授发表了《因果驱动的可泛化模型方法》主题演讲。",
+  "root_url": "https://computer.hut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hut.edu.cn/info/1023/11979.htm"
+    ],
+    "golden_path": [
+      "root->计算机学院成功举办CCF服务走进高校第1143期 ——C..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 37.179,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0135_fb83a51f9b22/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0135_fb83a51f9b22/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

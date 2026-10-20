@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0276_3e6b5f6fc0e7",
+  "source_index": 276,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在新疆大学计算机科学与技术学院2020年7月进行过的毕业生相关会议是由谁主持的？",
+  "prompt": "在新疆大学计算机科学与技术学院2020年7月进行过的毕业生相关会议是由谁主持的？",
+  "expected_answer": "买买提江",
+  "root_url": "https://it.xju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.xju.edu.cn/info/1046/2247.htm"
+    ],
+    "golden_path": [
+      "root->学生活动->聚焦学生就业，做好有利帮扶—记我院开展毕业生就业推进会"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 37.124,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0276_3e6b5f6fc0e7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0276_3e6b5f6fc0e7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0164_a50942da5aa5",
+  "source_index": 164,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "请列出潘刚获得的三个荣誉称号，这些称号都与他的职业成就相关。",
+  "prompt": "请列出潘刚获得的三个荣誉称号，这些称号都与他的职业成就相关。",
+  "expected_answer": "中国青年五四奖章、全国五一劳动奖章、CCTV中国经济年度人物",
+  "root_url": "https://www.yili.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.yili.com/about/chairman"
+    ],
+    "golden_path": [
+      "root->董事长简介"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "潘刚获得的三个与职业成就相关的荣誉称号包括：1. '中国青年五四奖章'；2. '全国五一劳动奖章'；3. '第十一届袁宝华企业管理金奖'。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 15.746,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0164_a50942da5aa5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0164_a50942da5aa5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

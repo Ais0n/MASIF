@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0071_7496c77bb3b0",
+  "source_index": 71,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在中国地质大学（武汉）计算机学院中，哪些教师在2022年4月和2023年5月前后相继退休？",
+  "prompt": "在中国地质大学（武汉）计算机学院中，哪些教师在2022年4月和2023年5月前后相继退休？",
+  "expected_answer": "刘文中和郭建秋",
+  "root_url": "https://cs.cug.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.cug.edu.cn/info/1273/6336.htm",
+      "https://cs.cug.edu.cn/info/1273/6331.htm"
+    ],
+    "golden_path": [
+      "root->荣休老师->刘文中",
+      "root->荣休老师->郭建秋"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 77.271,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0071_7496c77bb3b0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0071_7496c77bb3b0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

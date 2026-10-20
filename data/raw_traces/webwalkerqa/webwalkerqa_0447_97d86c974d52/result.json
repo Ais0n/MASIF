@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0447_97d86c974d52",
+  "source_index": 447,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "狼人杀七周年庆典活动与《魔兽世界》联动双形态传奇时装【背叛者之罪】正式上线的开始时间分别是什么时候？",
+  "prompt": "狼人杀七周年庆典活动与《魔兽世界》联动双形态传奇时装【背叛者之罪】正式上线的开始时间分别是什么时候？",
+  "expected_answer": "2024年10月21日和2024年11月13日",
+  "root_url": "https://game.163.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://game.163.com/news/2024/10/21/18455_1188253.html",
+      "https://game.163.com/news/2024/11/11/18455_1192694.html"
+    ],
+    "golden_path": [
+      "root->复生之夜，狼影狂欢！狼人杀七周年线下主题景区联动开启",
+      "root->你们这是自寻死路！《暗黑破坏神：不朽》×《魔兽世界》联动双形态传奇时装【背叛者之罪】化身伊利丹"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 55.629,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0447_97d86c974d52/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0447_97d86c974d52/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

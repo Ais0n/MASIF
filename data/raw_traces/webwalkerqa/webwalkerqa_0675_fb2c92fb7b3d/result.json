@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0675_fb2c92fb7b3d",
+  "source_index": 675,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北京邮电大学计算机学院的名誉院长和应急通信与智能网系统领域的主要领导人分别是谁？",
+  "prompt": "北京邮电大学计算机学院的名誉院长和应急通信与智能网系统领域的主要领导人分别是谁？",
+  "expected_answer": "陈俊亮和王莉",
+  "root_url": "https://scs.bupt.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scs.bupt.edu.cn/info/1009/2212.htm",
+      "https://scs.bupt.edu.cn/info/1009/2217.htm"
+    ],
+    "golden_path": [
+      "root->学院领导->陈俊亮",
+      "root->学院领导->王莉"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 57.254,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0675_fb2c92fb7b3d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0675_fb2c92fb7b3d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

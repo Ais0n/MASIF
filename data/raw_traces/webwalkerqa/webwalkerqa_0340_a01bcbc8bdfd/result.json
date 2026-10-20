@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0340_a01bcbc8bdfd",
+  "source_index": 340,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "新疆大学范永开在2024年发表了几篇论文？",
+  "prompt": "新疆大学范永开在2024年发表了几篇论文？",
+  "expected_answer": "3",
+  "root_url": "https://it.xju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.xju.edu.cn/info/1327/2836.htm"
+    ],
+    "golden_path": [
+      "root->师资队伍->研究生导师队伍->范永开"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 44.582,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0340_a01bcbc8bdfd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0340_a01bcbc8bdfd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

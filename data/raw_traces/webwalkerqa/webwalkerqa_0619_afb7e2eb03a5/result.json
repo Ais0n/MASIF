@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0619_afb7e2eb03a5",
+  "source_index": 619,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2023年，西华大学计算机与软件工程学院招生宣传与党支部书记工作例会中，主要负责各自活动的领导人员分别是谁？",
+  "prompt": "在2023年，西华大学计算机与软件工程学院招生宣传与党支部书记工作例会中，主要负责各自活动的领导人员分别是谁？",
+  "expected_answer": "李欣，杨志松",
+  "root_url": "https://cs.xhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xhu.edu.cn/4d/54/c10303a216404/page.htm",
+      "https://cs.xhu.edu.cn/13/f9/c10301a201721/page.htm"
+    ],
+    "golden_path": [
+      "root->招生就业资讯->下一页>>->【招生宣传】计算机与软件工程学院赴四川巴中多个中学开展招生...",
+      "root->党建学生工作->下一页>>->计算机与软件工程学院党委召开党支部书记工作例会暨党务工作培训..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 32.91,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0619_afb7e2eb03a5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0619_afb7e2eb03a5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

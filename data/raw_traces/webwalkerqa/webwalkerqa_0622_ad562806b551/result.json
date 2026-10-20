@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0622_ad562806b551",
+  "source_index": 622,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北京航空航天大学计算机学院学科建设与科研工作委员会与国际交流与合作工作委员会的主任分别是谁？",
+  "prompt": "北京航空航天大学计算机学院学科建设与科研工作委员会与国际交流与合作工作委员会的主任分别是谁？",
+  "expected_answer": "马殿富和熊璋",
+  "root_url": "https://scse.buaa.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scse.buaa.edu.cn/xyjj/wyh/xkjsykygzwyh.htm",
+      "https://scse.buaa.edu.cn/xyjj/wyh/gjjlyhzgzwyh.htm"
+    ],
+    "golden_path": [
+      "root->组织机构->王蕴红院长北京航空航天大学新主楼G847yhwang@buaa.edu.cn主持学院行政工作->学科建设与科研工作委员会",
+      "root->组织机构->王蕴红院长北京航空航天大学新主楼G847yhwang@buaa.edu.cn主持学院行政工作->国际交流与合作工作委员会"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "北京航空航天大学计算机学院学科建设与科研工作委员会的主任是李帅，而国际交流与合作工作委员会的主任未在提供的信息中明确提及。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 13.469,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0622_ad562806b551/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0622_ad562806b551/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

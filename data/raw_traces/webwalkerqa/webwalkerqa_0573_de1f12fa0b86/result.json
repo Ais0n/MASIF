@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0573_de1f12fa0b86",
+  "source_index": 573,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "索尼在2024年北京举办的‘梦想教室’培训中引入了哪些新的教育内容，这对于索尼在2022年河南商丘开展的‘梦想教室’又有怎样的影响和延续？",
+  "prompt": "索尼在2024年北京举办的‘梦想教室’培训中引入了哪些新的教育内容，这对于索尼在2022年河南商丘开展的‘梦想教室’又有怎样的影响和延续？",
+  "expected_answer": "在2024年的‘梦想教室’中，索尼引入了toio?创意机器人体验课与探梦科学实验课‘吸管乐器-排箫’，继续在学校教育中强化STEAM理念，这一变化是2013年设立以来项目的一次创新。此前在2022年河南商丘，索尼也利用科学实验课程扩展了教育内容。",
+  "root_url": "https://www.sony.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.sony.com.cn/content/sonyportal_csr/news/20241014.html",
+      "https://www.sony.com.cn/content/sonyportal_csr/news/20220923.html"
+    ],
+    "golden_path": [
+      "root->首页->新闻->科技点亮梦想，教育共筑未来  ——第十二届“索尼 梦想教室”大学生培训在京举办",
+      "root->首页->新闻->2022-9-23情暖金秋，科学筑梦—索尼“梦想教室”走进河南商丘民权县"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 39.401,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0573_de1f12fa0b86/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0573_de1f12fa0b86/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

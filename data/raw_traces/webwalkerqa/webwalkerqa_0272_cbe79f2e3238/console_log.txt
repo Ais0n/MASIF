@@ -1,0 +1,563 @@
+----- user -----
+query:
+张学良教授是什么时候开始在内蒙古大学计算机学院担任博士生导师的，并且他在2020年INTERSPEECH大会上担任了什么角色？
+official website:
+https://ccs.imu.edu.cn/
+Observation:website information:
+
+! !
+!
+  *  VPN ]( "VPN")
+  *  内大邮箱 ]( "内大邮箱")
+  *  学院领导信箱 ]( "学院领导信箱")
+! 
+](
+  ](javascript:;)
+  * ### 
+  * ### 
+       
+  * ### 
+    
+  * ### 
+  
+  * ### 
+ 
+  * ### 
+  * ### 
+   
+  * ### 
+ 
+](
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+ ](
+ ](
+ ](
+ ](
+ ](
+  * 1
+  * 2
+  * 3
+#####  学院新闻
+News
+  *  17 2024.12 我校飞龙教授团队荣获中国技术市场协会金桥奖项目二等奖 ](
+  *  19 2025.04 我院张怀文教授课题组在人工智能领域国际顶级期刊TPAMI上发表跨模态检索最新研究成果 ](
+  *  18 2024.12 蒙古文古籍文献数字化保护获评文化和旅游部2024年文化和旅游数字化创新示范优秀案例 ](
+  *  17 2024.12 我校飞龙教授团队荣获中国技术市场协会金桥奖项目二等奖 ](
+  *  19 2025.04 我院张怀文教授课题组在人工智能领域国际顶级期刊TPAMI上发表跨模态检索最新研究成果 ](
+    * 1
+    * 2
+    * 3
+  * !
+  * !
+  * !
+  * !
+  * !
+        
+ ](
+#####  通知公告
+Notice
+        
+#####  学术动态
+Academic
+ 第64届国际计算语言学大会（The 64th Annual Meeting of the Association for Computational Linguistics）将于2026年7月2日至7月7日在美国加州圣地亚哥举办。ACL (Annual Meeting of the Association for Computational Linguistics) 是计算语言学和自然语言处理领域最著名的国际学术会议，由国际计算语言学学会组织，每年召开一次，在人工智能领域享有较高学术声誉，是中国计算机学会CCF推荐的A类国际学术会议，也是国际计算... ](
+ 近日，我院呼德研究员团队在声传感器网络方面的研究取得重要进展，相关论文《Robust Self-Localization of Wireless AcousticSensor Networks in the Presence of TDoAOutliers》发表在IEEE Transactions on Mobile Computing。该刊是CCF-A类期刊，也是中科院一区期刊，最新影响因子为9.2。与传统麦克风阵列相比，声传感器网络（也称声物联网）具备灵活的拓扑结构、较大的空间覆盖率以及分布式计算能力等优势，故被期待成为“下... ](
+ 近日，我院张怀文教授课题组、段智议研究员课题组分别在视觉模型遗忘、视觉语言模型（VLMs）安全防御等方面取得新进展，相关论文“Machine Unlearning via Adaptive Gradient Reweighting and Multi-stage Objective Optimization”“SafeLogo: Turning Your Logos into Jailbreak Shields via Micro-Regional Adversarial Training”被CVPR 2026 (IEEE/CVF Conference on Computer Vision and Pattern Recognition) 会议录用。... ](
+ 近日，人工智能领域的顶级会议The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026) 公布了论文接收结果，我院共有8篇论文成功入选。人工智能国际会议（Association for the Advancement of Artificial Intelligence，简称AAAI）是人工智能领域历史悠久、学术影响力广泛的顶级国际会议之一，也是中国计算机学会（CCF）推荐的A类会议，聚焦智能体、知识表示、机器学习、自然语言处理、计算机视觉等方向的前... ](
+ 近日，我院作为课题负责单位承担的2025年自治区科技“突围”工程2项“揭榜挂帅”项目启动会相继召开，标志着项目正式进入实施阶段，实现了我院参与自治区“揭榜挂帅”项目零的突破，进一步彰显了我院的科研实力。 项目一：“低空立体交通网飞行安全评估和飞行运行保障的技术与示范应用”项目，由内蒙古交通投资（集团）有限责任公司牵头、我院联合揭榜。项目锚定低空立体交通安全，旨在应对未来低空交通网络化运行的挑战，致力... ](
+ 近日，内蒙古大学与内蒙古广播电视台联合研发的“基于深度学习的汉蒙视频字幕译制系统”，荣获第四届广播电视和网络视听人工智能应用创新大赛“智能字幕与译制”赛道三等奖。我院飞龙教授领衔的研发团队，依托深度学习、自然语言处理、视频修复等前沿AI技术，融合蒙古文大模型、蒙汉机器翻译以及蒙古文智能输入法等行业应用软件和通用软件，研发的“基于深度学习的汉蒙视频字幕译制系统”，通过智能化手段有效破解了中文影视新... ](
+ ](
+              
+#####  学生活动
+Student
+  *  我院学子在第五届中国移动“九天·梧桐”杯数智创新大赛中斩获佳绩 3月31日，第五届中国移动“九天·梧桐”杯数智创新大赛AI+数据赛道全国决赛在呼和浩特落幕。本届大赛聚焦大数据与人工智能融合创新，吸引了全国593所高校的1622支队伍参赛。历经省级初赛、决赛及全国初赛的层层筛选，最终来自海内外22所高校的18支团队晋级全国决赛，展开高水平竞技角逐。内蒙古大学“智算先锋队”、清华大学与中南大学联队“清华小分队”、哈尔滨工业大学与太原理工大学联队“地三鲜赛队”、清华大学与香港理工... ](
+  *  我院本科生在2025年全国大学生计算机系统能力大赛操作系统设计赛中斩获佳绩 近日，2025全国大学生计算机系统能力大赛全国总决赛在华中科技大学举行。在我院刘靖教授、范君高级工程师的悉心指导下，2022级本科生曹君泽、孙启源、符植博组成的参赛队斩获操作系统设计赛全国总决赛三等奖。全国大学生计算机系统能力大赛是全国高校计算机教育研究会主办的国家级“白名单”赛事，是国内计算机领域极具影响力和权威性的赛事之一。我院本科生在该项赛事中取得历史最佳成绩，既是学院多年来深耕计算机系统领域教... ](
+  *  我院代表队荣获内蒙古自治区第十八届大学生程序设计竞赛团体一等奖 ](
+## 友情链接：
+                        
+地址：内蒙古呼和浩特市大学西路235号内蒙古大学计算机学院
+版权所有 © 内蒙古大学计算机学院
+!
+!
+官方微信
+!
+
+
+clickable button:
+
+<button>学院领导信箱<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>基层党组织<button>
+<button>行政管理机构<button>
+<button>教学机构<button>
+<button>教授委员会<button>
+<button>教学指导委员会<button>
+<button>群团组织<button>
+<button>师资团队<button>
+<button>正高级<button>
+<button>副高级<button>
+<button>中级<button>
+<button>骏马计划研究员<button>
+<button>人才招聘<button>
+<button>人才培养<button>
+<button>博士生培养<button>
+<button>硕士生培养<button>
+<button>本科教育<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>科研成果与转化<button>
+<button>党团工作<button>
+<button>制度文件<button>
+<button>行政类<button>
+<button>科研类<button>
+<button>教学类<button>
+<button>安全制度<button>
+<button>相关下载<button>
+<button>科研资料<button>
+<button>教学资料<button>
+<button>更多+<button>
+<button>172024.12我校飞龙教授团队荣获中国技术市场协会金桥奖项目二等奖<button>
+<button>192025.04我院张怀文教授课题组在人工智能领域国际顶级期刊TPAMI上发表跨模态检索最新研究成果<button>
+<button>182024.12蒙古文古籍文献数字化保护获评文化和旅游部2024年文化和旅游数字化创新示范优秀案例<button>
+<button>内蒙古大学计算机学院（软件学院）、人工智能学院2026年高层次人才招聘公告162026.04<button>
+<button>“链接产研、智启未来”——中国电子学会计算机分会系列学术活动（青年科学家走进内蒙古大学）成功举办062026.05<button>
+<button>中国工程科技发展战略内蒙古研究院咨询研究项目“内蒙古自治区人工智能与实体经济深度融合发展战略研究”结题验收会顺利召开062026.05<button>
+<button>我院学子在第五届中国移动“九天·梧桐”杯数智创新大赛中斩获佳绩102026.04<button>
+<button>更多+<button>
+<button>022026.04内蒙古大学计算机学院2026年博士“申请－考核”综合考核结果公示序号考生编号考生姓名报考专业代码报考专业名称报考博导姓名思想政治素质和品德考核外语成绩专业笔试成绩专业面试成绩总成绩110******84许德龙0812计算机科学与技术范少华合格84.8088.2087.52210******83齐索东0812计算机科学与技术飞龙合格88.6089.4089.24310******30郭鹏辉0812计算机科学与技术郝利飞合格89.2090.4090.16410******91刘建伟0812计算机科学与技术郝利飞合格83.6083.2083.28510******56杨尚峻0812计算机科学与技...<button>
+<button>162026.03内蒙古大学计算机学院2026年博士“申请－考核”材料审核结果公示序号考生编号考生姓名报考专业代码报考专业名称报考博导姓名材料审核结果110*****984许德龙0812计算机科学与技术范少华合格210*****883齐索东0812计算机科学与技术飞龙合格310*****930郭鹏辉0812计算机科学与技术郝利飞合格410*****891刘建伟0812计算机科学与技术郝利飞合格510*****856杨尚峻0812计算机科学与技术呼德合格610*****995李恩泽0812计算机科学与技术呼德合格710*****433胡丹0812计算机科学与技术黄宝琦合格810*****...<button>
+<button>142026.01内蒙古大学计算机学院2025-2026学年科生转专业考试《专业基础》考试大纲一、考试内容考试内容包括：（1）计算机系统的基本认识以及与程序设计相关的基础概念；（2）数据类型、控制结构、函数、类和对象、文件处理等编程运用；（3）以流程图等形式完成算法分析设计。编程语言可以从如下语言中任选一种作答：C++语言、Java语言、Python语言。二、参考教材1.《Python语言程序设计（第二版）》，巩政主编，西安电子科技大学出版社（2023年）2.《C++程序设计基础（第6版）》，周霭如、林伟健、徐红云编著...<button>
+<button>052026.01内蒙古大学计算机学院2026年硕博连读招考录取工作细则<button>
+<button>更多+<button>
+<button>162026.04我院15篇论文被自然语言处理领域国际顶级会议ACL 2026录用第64届国际计算语言学大会（The 64th Annual Meeting of the Association for Computational Linguistics）将于2026年7月2日至7月7日在美国加州圣地亚哥举办。ACL (Annual Meeting of the Association for Computational Linguistics) 是计算语言学和自然语言处理领域最著名的国际学术会议，由国际计算语言学学会组织，每年召开一次，在人工智能领域享有较高学术声誉，是中国计算机学会CCF推荐的A类国际学术会议，也是国际计算...<button>
+<button>152026.04我院呼德研究员团队最新研究成果发表在IEEE Transactions on Mobile Computing近日，我院呼德研究员团队在声传感器网络方面的研究取得重要进展，相关论文《Robust Self-Localization of Wireless AcousticSensor Networks in the Presence of TDoAOutliers》发表在IEEE Transactions on Mobile Computing。该刊是CCF-A类期刊，也是中科院一区期刊，最新影响因子为9.2。与传统麦克风阵列相比，声传感器网络（也称声物联网）具备灵活的拓扑结构、较大的空间覆盖率以及分布式计算能力等优势，故被期待成为“下...<button>
+<button>262026.02我院张怀文教授课题组、段智议研究员课题组最新研究成果被计算机视觉领域国际顶级会议CVPR2026录用近日，我院张怀文教授课题组、段智议研究员课题组分别在视觉模型遗忘、视觉语言模型（VLMs）安全防御等方面取得新进展，相关论文“Machine Unlearning via Adaptive Gradient Reweighting and Multi-stage Objective Optimization”“SafeLogo: Turning Your Logos into Jailbreak Shields via Micro-Regional Adversarial Training”被CVPR 2026 (IEEE/CVF Conference on Computer Vision and Pattern Recognition) 会议录用。...<button>
+<button>272025.11我院8篇论文被人工智能领域顶级国际会议AAAI2026录用近日，人工智能领域的顶级会议The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026) 公布了论文接收结果，我院共有8篇论文成功入选。人工智能国际会议（Association for the Advancement of Artificial Intelligence，简称AAAI）是人工智能领域历史悠久、学术影响力广泛的顶级国际会议之一，也是中国计算机学会（CCF）推荐的A类会议，聚焦智能体、知识表示、机器学习、自然语言处理、计算机视觉等方向的前...<button>
+<button>182025.11喜报！我院参与揭榜2项2025年自治区科技“突围”工程“揭榜挂帅”项目近日，我院作为课题负责单位承担的2025年自治区科技“突围”工程2项“揭榜挂帅”项目启动会相继召开，标志着项目正式进入实施阶段，实现了我院参与自治区“揭榜挂帅”项目零的突破，进一步彰显了我院的科研实力。 项目一：“低空立体交通网飞行安全评估和飞行运行保障的技术与示范应用”项目，由内蒙古交通投资（集团）有限责任公司牵头、我院联合揭榜。项目锚定低空立体交通安全，旨在应对未来低空交通网络化运行的挑战，致力...<button>
+<button>142025.11我院飞龙教授团队荣获第四届广播电视和网络视听人工智能应用创新大赛三等奖近日，内蒙古大学与内蒙古广播电视台联合研发的“基于深度学习的汉蒙视频字幕译制系统”，荣获第四届广播电视和网络视听人工智能应用创新大赛“智能字幕与译制”赛道三等奖。我院飞龙教授领衔的研发团队，依托深度学习、自然语言处理、视频修复等前沿AI技术，融合蒙古文大模型、蒙汉机器翻译以及蒙古文智能输入法等行业应用软件和通用软件，研发的“基于深度学习的汉蒙视频字幕译制系统”，通过智能化手段有效破解了中文影视新...<button>
+<button>112025.11学术讲座预告|《智启未来-青年学者前沿技术系列讲座》第16期<button>
+<button>我院15篇论文被自然语言处理领域国际顶级会议ACL 2026录用2026.04.16<button>
+<button>我院呼德研究员团队最新研究成果发表在IEEE Transactions on Mobile Computing2026.04.15<button>
+<button>我院张怀文教授课题组、段智议研究员课题组最新研究成果被计算机视觉领域国际顶级会议CVPR2026录用2026.02.26<button>
+<button>我院8篇论文被人工智能领域顶级国际会议AAAI2026录用2025.11.27<button>
+<button>喜报！我院参与揭榜2项2025年自治区科技“突围”工程“揭榜挂帅”项目2025.11.18<button>
+<button>我院飞龙教授团队荣获第四届广播电视和网络视听人工智能应用创新大赛三等奖2025.11.14<button>
+<button>学术讲座预告|《智启未来-青年学者前沿技术系列讲座》第16期2025.11.11<button>
+<button>更多+<button>
+<button>我院学子在第五届中国移动“九天·梧桐”杯数智创新大赛中斩获佳绩3月31日，第五届中国移动“九天·梧桐”杯数智创新大赛AI+数据赛道全国决赛在呼和浩特落幕。本届大赛聚焦大数据与人工智能融合创新，吸引了全国593所高校的1622支队伍参赛。历经省级初赛、决赛及全国初赛的层层筛选，最终来自海内外22所高校的18支团队晋级全国决赛，展开高水平竞技角逐。内蒙古大学“智算先锋队”、清华大学与中南大学联队“清华小分队”、哈尔滨工业大学与太原理工大学联队“地三鲜赛队”、清华大学与香港理工...<button>
+<button>我院本科生在2025年全国大学生计算机系统能力大赛操作系统设计赛中斩获佳绩近日，2025全国大学生计算机系统能力大赛全国总决赛在华中科技大学举行。在我院刘靖教授、范君高级工程师的悉心指导下，2022级本科生曹君泽、孙启源、符植博组成的参赛队斩获操作系统设计赛全国总决赛三等奖。全国大学生计算机系统能力大赛是全国高校计算机教育研究会主办的国家级“白名单”赛事，是国内计算机领域极具影响力和权威性的赛事之一。我院本科生在该项赛事中取得历史最佳成绩，既是学院多年来深耕计算机系统领域教...<button>
+<button>我院代表队荣获内蒙古自治区第十八届大学生程序设计竞赛团体一等奖<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到张学良教授在内蒙古大学计算机学院担任博士生导师的时间以及他在2020年INTERSPEECH大会上的角色。首先，我应该访问“师资团队”页面来查找相关信息。
+
+Action: visit_page
+Action Input: {"button": "师资团队"}
+
+----- VisitPage -----
+The web information is:
+
+! !
+!
+  *  VPN ]( "VPN")
+  *  内大邮箱 ]( "内大邮箱")
+  *  学院领导信箱 ]( "学院领导信箱")
+! 
+](
+  ](javascript:;)
+  * ### 
+  * ### 
+       
+  * ### 
+    
+  * ### 
+  
+  * ### 
+ 
+  * ### 
+  * ### 
+   
+  * ### 
+ 
+](
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+!
+ ](javascript:history.back\(-1\);)
+#  师资团队
+!
+          
+#  师资团队
+          
+当前位置：   
+  *  史振威 教授 ](
+  *  高光来 教授 ](
+  *  李华 教授 ](
+  *  侯宏旭 教授 ](
+  *  周建涛 教授 ](
+  *  李茹 教授 ](
+  *  张俊星 教授 ](
+  *  白翔宇 教授 ](
+  *  黄宝琦 教授 ](
+  *  魏宏喜 教授 ](
+  *  张学良 教授 ](
+  *  刘靖 教授 ](
+  *  飞龙 教授 ](
+  *  王娟 教授 ](
+  *  孙涛 教授 ](
+  *  赵俊峰 教授 ](
+  *  张志斌 教授 ](
+  *  班志杰 教授 ](
+  *  高永强 教授 ](
+  *  贾冰 教授 ](
+共24条 首页上页1 共2页
+## 友情链接：
+                        
+地址：内蒙古呼和浩特市大学西路235号内蒙古大学计算机学院
+版权所有 © 内蒙古大学计算机学院
+!
+!
+官方微信
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院领导信箱<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>基层党组织<button>
+<button>行政管理机构<button>
+<button>教学机构<button>
+<button>教授委员会<button>
+<button>教学指导委员会<button>
+<button>群团组织<button>
+<button>师资团队<button>
+<button>正高级<button>
+<button>副高级<button>
+<button>中级<button>
+<button>骏马计划研究员<button>
+<button>人才招聘<button>
+<button>人才培养<button>
+<button>博士生培养<button>
+<button>硕士生培养<button>
+<button>本科教育<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>科研成果与转化<button>
+<button>党团工作<button>
+<button>制度文件<button>
+<button>行政类<button>
+<button>科研类<button>
+<button>教学类<button>
+<button>安全制度<button>
+<button>相关下载<button>
+<button>科研资料<button>
+<button>教学资料<button>
+<button>史振威 教授<button>
+<button>高光来 教授<button>
+<button>李华 教授<button>
+<button>侯宏旭 教授<button>
+<button>周建涛 教授<button>
+<button>李茹 教授<button>
+<button>张俊星 教授<button>
+<button>白翔宇 教授<button>
+<button>黄宝琦 教授<button>
+<button>魏宏喜 教授<button>
+<button>张学良 教授<button>
+<button>刘靖 教授<button>
+<button>飞龙 教授<button>
+<button>王娟 教授<button>
+<button>孙涛 教授<button>
+<button>赵俊峰 教授<button>
+<button>张志斌 教授<button>
+<button>班志杰 教授<button>
+<button>高永强 教授<button>
+<button>贾冰 教授<button>
+<button>2<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+现在我找到了张学良教授的页面，我需要点击“张学良 教授”按钮来获取他的详细信息。
+
+Action: visit_page
+Action Input: {"button": "张学良 教授"}
+
+----- VisitPage -----
+The web information is:
+
+! !
+!
+  *  VPN ]( "VPN")
+  *  内大邮箱 ]( "内大邮箱")
+  *  学院领导信箱 ]( "学院领导信箱")
+! 
+](
+  ](javascript:;)
+  * ### 
+  * ### 
+       
+  * ### 
+    
+  * ### 
+  
+  * ### 
+ 
+  * ### 
+  * ### 
+   
+  * ### 
+ 
+](
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+  * ### 
+!
+ ](javascript:history.back\(-1\);)
+#  师资团队
+!
+          
+#  师资团队
+          
+当前位置：   
+##### 张学良 教授
+_发布日期：2019-02-25_ _来源：_
+!
+张学良，工学博士，内蒙古大学计算机学院教授，博士生导师
+**联系方式：**
+E-mail: CSZXL [AT] imu [dot] edu [dot] cn; zhangxueliang [AT] imudges [dot] com.
+地址：内蒙古呼和浩特市大学西路235号，计算机学院
+邮编：010021
+个人经历：
+l 1999年-2003年:内蒙古大学，计算机学院，信息管理与信息系统，获学士学位；
+l 2003年-2005年:哈尔滨工业大学，计算机科学与技术系，人工智能与图像处理，获硕士学位；
+l 2006年-2010年:中国科学院自动化研究所，模式识别国家重点实验室语音信号处理，获博士学位；
+l 2010年-2013年；内蒙古大学，计算机学院讲师，硕士生导师；
+l 2013年-2017年；内蒙古大学，计算机学院副教授，博士生导师；
+l 2018年-至今；内蒙古大学，计算机学院教授，博士生导师；
+l 2015年-2016年:美国俄亥俄州立大学访问学者;
+**研究领域：**
+语音信号处理，计算听觉场景分析，语音合成，语音分离
+论文：
+Journal:
+1.Chenggang Zhang, Jiujiang Liu, Hao Li and**Xueliang Zhang** , "Neural Multi-Channel and Multi-Microphone Acousticc Echo Cancellation," in IEEE/ACM Transactions on Audio, Speech and Language Processing, 2023.(Top journal, CCF rank B, SCI IF 5.4).
+2.Kanghao Zhang, Shulin He, Hao Li and**Xueliang Zhang** , "A Dual-branch Convolutional Network Architecture Processing on both Frequency and Time Domain for Single-channel Speech Enhancement", APSIPA Transactions on Signal and Information Processing, 2023.
+3.Heming Wang,**Xueliang Zhang** , DeLiang Wang, "Fusing Bone-Conduction and Air-Conduction Sensors for Complex-Domain Speech Enhancement," IEEE/ACM transactions on audio, speech, and language processing, 2022, 30: 3134-3143.(Top journal, CCF rank B, SCI IF 5.4).
+4.Hao Li, DeLiang Wang,**Xueliang Zhang** and Guanglai Gao, "Recurrent Neural Networks and Acoustic Features for Frame-level Signal-to-noise Ratio Estimation", IEEE/ACM Transactions on Audio, Speech and Language Processing, 2021.(Top journal, CCF rank B, SCI IF 5.4).
+5.Ke Tan,**Xueliang Zhang** and DeLiang Wang, "Deep Learning Based Real-Time Speech Enhancement for Dual-Microphone Mobile Phones", IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021.(Top journal, CCF rank B, SCI IF 5.4).
+6.Zhihao Du,**Xueliang Zhang** and Jiqing Han,“A Joint Framework of Denoising Autoencoder and Generative Vocoder for Monaural Speech Enhancement”, in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020.(Top journal, CCF rank B, SCI IF 5.4).
+7.Zhong-Qiu Wang,**Xueliang Zhang** and DeLiang Wang, "Robust Speaker Localization Guided by Deep Learning-Based Time-Frequency Masking," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 27(1), pp. 178-188, 2019.(Top journal, CCF rank B, SCI IF 5.4).
+8.Shuai Nie, Shan Liang, Wenju Liu,**Xueliang Zhang** and Jianhua Tao, "Deep Learning Based Speech Separation via NMF-Style Reconstructions," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 26(11), pp. 2043-2055, 2018.(Top journal, CCF rank B, SCI IF 5.4).
+9.**Xueliang Zhang** and DeLiang Wang,“Deep Learning Based Binaural Speech Separation in Reverberant Environments,”IEEE/ACM Trans Audio, Speech and Language Processing 25(5): 1075-1084, 2017.(Top journal, CCF rank B, SCI IF 5.4).
+10.张晖，苏红，**张学良** ，高光来，《基于卷积神经网络的鲁棒性基音检测方法》，自动化学报，42(6): 959-964，2016.
+11.聂帅，刘文举，梁山，**张学良** ，《基于深度学习语音分离技术的研究现状与进展》，自动化学报，42(6): 814-833，2016.
+12.**Xueliang Zhang** , Hui Zhang, Shuai Nie, Guanglai Gao and Wenju Liu. "A Pairwise Algorithm Using Deep Stacking Network for Speech Separation and Pitch Estimation," IEEE/ACM Trans. Audio, Speech and Language Processing 24(6): 1066-1078, 2016(Top journal, CCF rank B, SCI IF 5.4).
+13.Wenju Liu,**Xueliang Zhang** , Wei Jiang, et al.“Monaural Voiced Speech Segregation Based On Elaborate Harmonic Grouping Strategies”. Science China Information Sciences, 2011, 54(12): 2471-2480.
+14.**Xueliang Zhang** , Wenju Liu and Bo Xu,“Monaural Voiced Speech Segregation Based On Dynamic Harmonic Function”, In EURASIP Journal On Audio, Speech, And Music Processing, Volume 2010, Article ID 252374, 13 Pages, 2010.
+15.**张学良** ，刘文举，李鹏，徐波，《改进谐波组织规则的单通道浊语音分离系统》，声学学报，36(1): 89-96，2011.
+Conference:
+1.Yulong Wang and**Xueliang Zhang** , "MFT-CRN: Multi-scale Fourier Transform for Monaural Speech Enhancement." Interspeech 2023, Ireland.(Top conference, CCF rank C)
+2.Jinjiang Liu and**Xueliang Zhang** , "ICCRN: Inplace Cepstral Convolutional Recurrent Neural Network for Monaural Speech Enhancement," ICASSP 2023, Greece.(Top conference, CCF rank B)
+3.Jinjiang Liu and**Xueliang Zhang** , "Inplace Cepstral Speech Enhancement System for the ICASSP 2023 Clarity Challenge," ICASSP 2023, Greece.(Top conference, CCF rank B)
+4.Jiahui Pan, Shuai Nie, Hui Zhang, Shulin He, Kanghao Zhang, Shan Liang,**Xueliang Zhang** and Jianhua Tao, "Speaker Recognition-Assisted Robust Audio Deepfake Detection", Interspeech 2022, Korea.(Top conference, CCF rank C)
+5.Peng Zhang, Peng Hu and**Xueliang Zhang** , "Norm-constrained Score-level Ensemble for Spoofing Aware Speaker Verification", Interspeech 2022, Korea.(Top conference, CCF rank C)
+6.Chenggang Zhang, Jinjiang Liu and**Xueliang Zhang** , "A Lightweight Complex Spectral Mapping Framework for Stereophonic Acoustic Echo Cancellation", Interspeech 2022, Korea.(Top conference, CCF rank C)
+7.Zeyuan Wei, Hao Li and**Xueliang Zhang** , "Model Compression by Iterative Pruning with Knowledge Distillation and Its Application to Speech Enhancement", Interspeech 2022, Korea.(Top conference, CCF rank C)
+8.Jinjiang Liu and**Xueliang Zhang** , "DRC-NET: Densely Connected Recurrent Convolutional Neural Network for Speech Dereverberation", ICASSP 2022, Singapore.(Top conference, CCF rank B)
+9.Chenggang Zhang, Jinjiang Liu and**Xueliang Zhang** , "A Complex Spectral Mapping with Inplace Convolution Recurrent Neural Networks for Acoustic Echo Cancellation", ICASSP 2022, Singapore.(Top conference, CCF rank B)
+10.Heming Wang,**Xueliang Zhang** and Deliang Wang, "Attention-based Fusion for Bone-conducted and Air-conducted Speech Enhancement in the Complex Domain", ICASSP 2022, Singapore.(Top conference, CCF rank B)
+11.Yang Yang, Hui Zhang,**Xueliang Zhang** and Huaiwen Zhang, "Alleviating the Loss-Metric Mismatch in Supervised Single-channel Speech Enhancement", ICASSP 2022, Singapore.(Top conference, CCF rank B)
+12.Kanghao Zhang, Shan Liang, Shuai Nie, Shulin He, Jiahui Pan,**Xueliang Zhang** , Xinhao Ma and Jiangyan Yi, "A Robust Deep Audio Splicing Detection Method Via Singularity Detection Feature", ICASSP 2022, Singapore.(Top conference, CCF rank B)
+13.Peng Zhang, Peng Hu and**Xueliang Zhang** , "Investigation of IMU&Elevoc Submission for the Short-duration Speaker Verification Challenge 2021", Interspeech 2021, Brno, Czechia.(Top conference, CCF rank C).
+14.Kanghao Zhang, Shulin He, Hao Li and**Xueliang Zhang** , "DBNet: A Dual-branch Network Architecture Processing on Spectrum and Waveform for Single-channel Speech Enhancement", Interspeech 2021, Brno, Czechia.(Top conference, CCF rank C).
+15.Jinjiang Liu and**Xueliang Zhang** , "Inplace Gated Convolutional Recurrent Neural Network for Dual-channel Speech Enhancement", Interspeech 2021, Brno, Czechia.(Top conference, CCF rank C).
+16.Ke Tan,**Xueliang Zhang** and Deliang Wang, "Real-Time Speech Enhancement for Mobile Communication Based on Dual-Channel Complex Spectral Mapping", ICASSP 2021, Toronto, Canada.(Top conference, CCF rank B).
+17.Yue Gu; Zhihao Du, Hui Zhang and**Xueliang Zhang** , "An Efficient Joint Training Framework for Robust Small-Footprint Keyword Spotting," ICONIP 2020, Bangkok, Thailand.
+18.Hao Li, DeLiang Wang,**Xueliang Zhang** and Guanglai Gao, "Frame-level Signal-to-Noise Ratio Estimation using Deep Learning," INTERSPEECH 2020, Shanghai, China.(Top conference, CCF rank C)
+19.Peng Zhang and**Xueliang Zhang** "Deep Template Matching for Small-footprint and Configurable Keyword Spotting," INTERSPEECH 2020, Shanghai, China.(Top conference, CCF rank C)
+20.Zhihao Du, Jiqing Han and**Xueliang Zhang** , "Double Adversarial Network based Monaural Speech Enhancement for Robust Speech Recognition," INTERSPEECH 2020, Shanghai, China.(Top conference, CCF rank C)
+21.Peng Zhang, Peng Hu and**XueLiang Zhang** , "Deep Embedding Learning for Text-Dependent Speaker Verification," INTERSPEECH 2020, Shanghai, China. (Top conference, CCF rank C)
+22.Chenggang Zhang and**Xueliang Zhang** , "A Robust and Cascaded Acoustic Echo Cancellation Based on Deep Learning," INTERSPEECH 2020, Shanghai, China.(Top conference, CCF rank C)
+23.Tianjiao Xu, Hui Zhang and**Xueliang Zhang** , "Polishing the Classical Likelihood Ratio Test by Supervised Learning for Voice Activity Detection," INTERSPEECH 2020, Shanghai, China.(Top conference, CCF rank C)
+24.Hao Li,**Xueliang Zhang** and Guanglai Gao, "Beamformed Feature for Learning-based Dual-channel Speech Separation," ICASSP 2020, Barcelona, Spain.(Top conference, CCF rank B).
+25.Shulin He, Hao Li and**Xueliang Zhang** , "SpeakerFilter: Deep Learning-Based Target Speaker Extraction Using Anchor Speech," ICASSP 2020, Barcelona, Spain.(Top conference, CCF rank B).
+26.Zhihao Du,**Xueliang Zhang** and Jiqing Han, "Investigation of Monaural Front-End Processing for Robust Speech Recognition without Retraining or Joint-Training," APSIPA ASC 2019, Lanzhou, China.
+27.Tianjiao Xu, Hui Zhang and**Xueliang Zhang** , "Joint Training ResCNN-based Voice Activity Detection with Speech Enhancement," APSIPA ASC 2019, Lanzhou, China.
+28.Jingdong Li, Hui Zhang,**Xueliang Zhang** and Changliang Li, "Single Channel Speech Enhancement Using Temporal Convolutional Recurrent Neural Networks," APSIPA ASC 2019, Lanzhou, China.
+29.Hao Li,**Xueliang Zhang** and Guanglai Gao,“Dynamic-attention based Encoder-decoder model for Speaker Extraction with Anchor speech,”APSIPA ASC 2019, Lanzhou, China.
+30.Tianjiao Xu, Hao Li, Hui Zhang and**Xueliang Zhang** ,“Improve Data Utilization with Two-stage Learning in CNN-LSTM-based Voice Activity Detection,”APSIPA ASC 2019, Lanzhou, China.
+31.Yun Liu, Hui Zhang,**Xueliang Zhang** and Yuhang Cao,“Investigation of Cost Function for Supervised Monaural Speech Separation,”INTERSPEECH 2019, Graz, Austria. (Top conference. CCF rank C)
+32.Ke Tan,**Xueliang Zhang** and DeLiang Wang, "Real-time Speech Enhancement using an Efficient Convolutional Recurrent Network for Dual-Microphone Mobile Phones in Close-talk Scenarios," ICASSP 2019, Brighton, UK.(Top conference, CCF rank B)
+33.Fei Zhao, Hao Li and**Xueliang Zhang** , "A Robust Text-Independent Speaker Verification Method based on Speech Separation and Deep Speaker," ICASSP 2019, Brighton, UK.(Top conference, CCF rank B)
+34.Yun Liu, Hui Zhang,**Xueliang Zhang** and Linju Yang, "Supervised Speech Enhancement with Real Spectrum Approximation," ICASSP 2019, Brighton, UK.(Top conference, CCF rank B)
+35.Jingdong Li, Hui Zhang, Rui Liu,**Xueliang Zhang** and Long Fei, "End-to-End Mongolian Text-to-Speech System," ISCSLP 2018, Taipei, Taiwan.
+36.Yun Liu, Hui Zhang, and**Xueliang Zhang** , "Using Shifted Real Spectrum Mask as Training Target for Supervised Speech Separation," INTERSPEECH 2018, Hyderabad, India.(Top conference, CCF rank C).
+37.Zhong-Qiu Wang,**Xueliang Zhang** and DeLiang Wang, "Robust TDOA Estimation Based on Time-Frequency Masking and Deep Neural Networks", INTERSPEECH 2018, Hyderabad, India.(Top conference, CCF rank C).
+38.Hui Zhang,**Xueliang Zhang** and Guanglai Gao, "Training Supervised Speech Separation System to Improve STOI and PESQ Directly," ICASSP 2018，Calgary, Alberta, Canada.(Top conference, CCF rank B).
+39.Qinglong Li,**Xueliang Zhang** and Hao Li, "Online Direction of Arrival Estimation Based on Deep Learning," ICASSP 2018, Calgary, Alberta, Canada.(Top conference, CCF rank B).
+40.Shasha Xia, Hao Li and**Xueliang Zhang** , "Using Optimal Ratio Mask as Training Target for Supervised Speech Separation", APSIPA ASC 2017, Kuala Lumpur, Malasiya.
+41.**Xueliang Zhang** and DeLiang Wang,“Binaural Reverberant Speech Separation Based on Deep Neural Networks,”INTERSPEECH 2017, Stockholm, Sweden.(Top conference, CCF rank C).
+42.Hui Zhang,**Xueliang Zhang** and Guanglai Gao, "Multi-target Ensemble Learning for Monaural Speech Separation," INTERSPEECH 2017, Stockholm, Sweden.(Top conference, CCF rank C).
+43.**Xueliang Zhang** , Zhong-Qiu Wang and DeLiang Wang, "A speech enhancement algorithm by iterating single- and multi-microphone processing and its application to robust ASR," ICASSP 2017, New Orleans, USA.(Top conference, CCF rank B).
+44.Hui Zhang,**Xueliang Zhang** and Guanglai Gao, "Multi-channel Speech Enhancement Based on Deep Stacking Network," Speech Processing in Everyday Environments (CHiME 2016).
+45.Hao Li, Shuai Nie,**Xueliang Zhang** and Hui Zhang, "Jointly Optimizing Activation Coefficients of Convolutive NMF Using DNN for Speech Separation," INTERSPEECH 2016, San Francisco, USA.(Top conference, CCF rank C).
+46.Hong Su, Hui Zhang,**Xueliang Zhang** and Guanglai Gao. "Convolutional Neural Network for Robust Pitch Determination," ICASSP 2016, Shanghai, China.(Top conference, CCF rank B).
+47.Shuai Nie, Shan Liang, Hao Li,**Xueliang Zhang** , et al. "Exploiting Spectro-Temporal Structures Using NMF For DNN-Based Supervised Speech Separation," ICASSP 2016, Shanghai, China.(Top conference, CCF rank B).
+48.Shuai Nie, Shan Liang, Wei Xue,**Xueliang Zhang** , et al. "Two-Stage Multi-Target Joint Learning for Monaural Speech Separation," INTERSPEECH 2015, Dresden, Germany.(Top conference, CCF rank C).
+49.Shuai Nie, Wei Xue, Shan Liang,**Xueliang Zhang** , et al. "Joint Optimization of Recurrent Networks Exploiting Source Auto-Regression for Source Separation", INTERSPEECH 2015, Dresden, Germany.(Top conference, CCF rank C).
+50.Hui Zhang,**Xueliang Zhang** and Guanglai Gao, "Document Summarization Based on Semantic Representations," IALP 2015, Guangzhou, China.
+51.Hui Zhang,**Xueliang Zhang** , Shuai Nie, et al. "A Pariwise Algorithm for Pitch Estimation and Speech Separation Using Deep Stacking Network", ICASSP 2015, Brisbane, Australia.(Top conference, CCF rank B).
+52.Shuai Nie, Hui Zhang,**Xueliang Zhang** and Wenju Liu, "Deep Stacking Networks with Time Series for Speech Separation", ICASSP 2014, Florence, Italy.(Top conference, CCF rank B).
+53.**Xueliang Zhang** , Hui Zhang and Guanglai Gao, "Missing Feature Reconstruction Methods For Robust Speaker Identification," EUSIPCO 2014, Lisbon, Portugal.
+54.**Xueliang Zhang** , Wenju Liu and Bo Xu, "Multi-Pitch Determination Algorithm Based On Mixture Laplacian Distribution," ICALIP 2010, Shanghai, China.
+55.**Xueliang Zhang** and Wenju Liu, "Monaural Voiced Speech Segregation Based on Pitch and Comb Filter," INTERSPEECH 2011, Florence, Italy.(Top conference, CCF rank C).
+56.**Xueliang Zhang** , Wenju Liu, Peng Li and Bo Xu, "Monaural Voiced Speech Segregation Based On Elaborate Harmonic Grouping Strategy," ICASSP 2009, Taipei, Taiwan.(Top conference, CCF rank B).
+57.**Xueliang Zhang** , Wenju Liu, Peng Li and Bo Xu, "Multipitch Detection Based On Weighted Summary Correlogram," ISCSLP 2008, Kunming, China.
+主持或参与项目：
+l主持，知识引导的深度学习语音降噪研究，国家自然科学基金，2019.1-2022.12
+l主持，计算听觉场景分析中基于统计模型的听觉片段切分研究，国家自然科学基金，2014.1-2017.12
+l主持，蒙古语音合成系统，内蒙古大学高层次人才引进科研启动项目，2010.12-2013.12
+l主持，基于训练模型的蒙古语语音合成研究，自治区自然科学基金，2011.10-2014.10
+（欢迎有志从事语音信号处理的同学报考硕士或者博士研究生）
+在读学生：
+l刘晋江（博士生）（2019-），多通道语音分离
+l潘佳慧（博士生）（2021-），语音增强
+l何树林（博士生）（2021-），语音增强
+l沈鹏杰（博士生）（2022-），语音增强
+l刘鑫（博士生）（2022-），语音识别
+l赵飞（2021-）
+l范海鹏（2021-）
+l武天赐（2021-）
+l王玉龙（2021-）
+l赵丽艳（2021-）
+l白景霖（2022-）
+l方圆（2022-）
+l李璟宸（2022-）
+l赵昌江（2022-）
+l刘原武（2022-）
+L郭振龙（2023-）
+L齐宇轩（2023-）
+L包洪涛（2023-）
+L张文政（2023-）
+L薛紫旋（2023-）
+毕业学生:
+l丁祺（2011-2014），基于隐马尔可夫的石油管道检测(IBM)
+l李婷慧（2012-2014），蒙古文韵律预测算法研究
+l康征（2013-2015），基于深度神经网络语音识别
+l苏红（2013-2016），噪声环境下基音提取(滴滴出行)
+l彭晓腾（2013-2016），听觉感知评估方法
+l石博天（2014-2016），深度神经网络，语音分离(商汤科技)
+l李欢（2014-2016），说话人识别
+l郭亚娜（2014-2016），深度神经网络在语音识别中的应用
+l夏莎莎（2014-2017），语音分离
+l杨冰晴（2015-2017），语音分离（嘉和美康）
+l张子慧（2015-2018），说话人识别
+l李庆龙（2015-2018），声源定位(小米科技)
+l王思蒙（2015-2018），语音端点检测（工商银行山东省分行）
+l李光鹏（2016-2018），语音分离算法DSP实现（招商银行济南分行）
+l毛振苏（2016-2018），单通道语音分离
+l刘允（2016-2019），单通道语音分离（搜狗）
+l赵飞（2016-2019），鲁棒性说话人识别（思必驰）
+l谷悦（2017-2019），语音关键词检测（好未来）
+l刘乐（2017-2019），单通道语音分离
+l李劲东（2017-2020），单通道语音分离（搜狗）
+l许天骄（2017-2020），鲁棒性VAD检测（中国人寿研发中心）
+l张鹏（2018-2021），声纹识别（大象声科）
+l王心恬（2018-2021），语音恢复（好未来）
+l王志杰（2018-2021），频带拓展
+l李号（博士）（2017-2021），麦克风阵列技术（南方科技大学，博士后）
+l马英（2019-2022），单通道语音增强（内蒙古移动）
+l李苗（2019-2022），单通道语音增强（小米）
+l白馨（2019-2022），语音质量评估（字节跳动）
+l何树林（2019-2021），语音分离、目标语音抽取（内蒙古大学，博士在读）
+l杨洋（2019-2021），语音增强（内蒙古大学，博士在读）
+l张成刚（博士）（2018-2022），内蒙古民族大学
+l张康豪（2020-2023），理想汽车
+l张泰龙（2020-2023），自主创业
+l魏泽渊（2020-2023），
+l张雨竹（2020-2023），内蒙古银行
+学术任职：
+INTERSPEECH 2020 session chair, APSIPA 2019 session chair;
+INTERSPEECH, ICASSP, ACM/IEEE Transaction on Audio, Speech and Language Processing，Journal of Selected Topics in Signal Processing, Speech Communication, IEEE Signal Processing Letters, EURASIP Journal on Audio, Speech, and Music Processing, Computational Intelligence and Neuroscience审稿人;
+中国计算机学会（CCF）语音对话与听觉专业组委员。
+上一篇：
+下一篇：
+## 友情链接：
+                        
+地址：内蒙古呼和浩特市大学西路235号内蒙古大学计算机学院
+版权所有 © 内蒙古大学计算机学院
+!
+!
+官方微信
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院领导信箱<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>基层党组织<button>
+<button>行政管理机构<button>
+<button>教学机构<button>
+<button>教授委员会<button>
+<button>教学指导委员会<button>
+<button>群团组织<button>
+<button>师资团队<button>
+<button>正高级<button>
+<button>副高级<button>
+<button>中级<button>
+<button>骏马计划研究员<button>
+<button>人才招聘<button>
+<button>人才培养<button>
+<button>博士生培养<button>
+<button>硕士生培养<button>
+<button>本科教育<button>
+<button>科学研究<button>
+<button>科研平台<button>
+<button>科研成果与转化<button>
+<button>党团工作<button>
+<button>制度文件<button>
+<button>行政类<button>
+<button>科研类<button>
+<button>教学类<button>
+<button>安全制度<button>
+<button>相关下载<button>
+<button>科研资料<button>
+<button>教学资料<button>
+<button>魏宏喜 教授<button>
+<button>刘靖 教授<button>
+
+----- WebWalker -----
+Memory:
+-张学良教授于2013年成为内蒙古大学计算机学院博士生导师，2018年至今继续担任博士生导师。他在2020年INTERSPEECH大会上担任了会议主席（session chair）的角色。
+"}
+
+----- WebWalker -----
+Final Answer: 张学良教授于2013年开始在内蒙古大学计算机学院担任博士生导师，并且他在2020年INTERSPEECH大会上担任了会议主席（session chair）的角色。

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0039_e810e359dafe",
+  "source_index": 39,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "截止到2022年，吉林大学王利民教授参与的最新的科研项目是什么时间开始的？",
+  "prompt": "截止到2022年，吉林大学王利民教授参与的最新的科研项目是什么时间开始的？",
+  "expected_answer": "2020年1月",
+  "root_url": "https://ccst.jlu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://ccst.jlu.edu.cn/info/1367/19262.htm"
+    ],
+    "golden_path": [
+      "root->教授->王利民"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 42.44,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0039_e810e359dafe/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0039_e810e359dafe/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

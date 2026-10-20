@@ -1,0 +1,402 @@
+----- user -----
+query:
+2024年，信息科学技术学院通过哪些重要活动提升了学校在国内的声誉？
+official website:
+https://xxxy.jnu.edu.cn/
+Observation:website information:
+
+](
+ 
+                                                                                  
+    * ;)
+                      * ;)
+                                      * ;)
+                                                                * ;)
+                  * ;)
+              
+        
+              
+            
+          
+      
+#### 友情链接
+     
+学院团委微信平台
+扫一扫关注学院
+                                                                                                                                                                                                                                                                
+!
+
+
+clickable button:
+
+<button>联系我们<button>
+<button>学院概况<button>
+<button>院长致辞<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>院系中心<button>
+<button>师资力量<button>
+<button>高端人才<button>
+<button>师资力量<button>
+<button>人才培养<button>
+<button>本科教学<button>
+<button>研究生教育<button>
+<button>科学研究<button>
+<button>科研项目<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>人才招聘<button>
+<button>学生园地<button>
+<button>党群之窗<button>
+<button>党群动态<button>
+<button>理论学习<button>
+<button>组织工作<button>
+<button>招生就业<button>
+<button>数学系<button>
+<button>电子工程系<button>
+<button>计算机科学系<button>
+<button>计算中心<button>
+<button>培养方案一（信息）<button>
+<button>培养方案二（网安）<button>
+<button>通知公示<button>
+<button>本科各专业课表<button>
+<button>考试安排表<button>
+<button>学位点简介<button>
+<button>招生简章<button>
+<button>通知公告<button>
+<button>常用资料<button>
+<button>MORE +<button>
+<button>MORE +<button>
+<button>我院教师团队斩获第十届华为ICT大赛全国总决赛教学赛一等奖2026-04-28<button>
+<button>04-22迎百廿校庆|信息科学技术学院 “一九零六寻根·暨南薪火相传”：对话丽呈朗誉酒店联合创始人黄健明<button>
+<button>04-22迎百廿校庆|信息科学技术学院 “一九零六寻根·暨南薪火相传”：对话丽呈朗誉酒店联合创始人黄健明<button>
+<button>04-22学院举办研究生导师专题培训 共探理工科育人共赢之道<button>
+<button>04-15迎百廿校庆|信息科学技术学院 “一九零六寻根・暨南薪火相传”：对话侨盛科技董事长叶建忠<button>
+<button>04-13聚力人才引育，破解发展瓶颈 ——邢锋校长莅临信息科学技术学院调研指导工作<button>
+<button>04-12信息科学技术学院计算机科学系数据智能与脑机接口团队在人工智能国际顶级期刊TPAMI发表论文<button>
+<button>04-11迎百廿校庆专访：梁普宇校友从暨南园到澳门立法会的服务之路<button>
+<button>MORE +<button>
+<button>04-2320262026年数学系学术讲座（十）<button>
+<button>03-182026年数学系学术讲座（九）<button>
+<button>03-132026年数学系学术讲座（八）<button>
+<button>03-062026年数学系学术讲座（七）<button>
+<button>03-052026年数学系学术讲座（六）<button>
+<button>01-272026年数学系学术讲座（五）<button>
+<button>MORE +<button>
+<button>追忆先辈足迹，传承红色基因2025-03-29<button>
+<button>知校爱校铭于心，荣校兴校践于行 ——计算机科学系研究生第一党支部开展主题党日活动2024-10-29<button>
+<button>党建引领 共创共赢 | 广州联通国企开放日，新一批暨大IT学子进入国家队2024-10-24<button>
+<button>“建设我们伟大的祖国”——党员理想信念教育活动2024-10-09<button>
+<button>学院召开党委扩大会议暨保密工作专题会议2024-10-08<button>
+<button>在线咨询><button>
+<button>网络空间安全学院<button>
+<button>微电子学院<button>
+<button>密码学院<button>
+<button>暨大图书馆<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到2024年信息科学技术学院通过哪些重要活动提升了学校在国内的声誉。首先，我应该访问“通知公告”按钮以查看是否有相关活动信息。
+
+Action: visit_page
+Action Input: {"button": "通知公告"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                    
+    * ;)
+                      * ;)
+                                      * ;)
+                                                                * ;)
+                  * ;)
+                
+#### 人才培养
+#### 
+                                        
+      
+>>>
+ ](
+2025-03-14 
+                        
+  * 每页  _14_ 记录  总共  _13_ 记录 
+  * ](javascript:void\(0\);) ](javascript:void\(0\);) ](javascript:void\(0\);) ](javascript:void\(0\);)
+  * 页码  _1_ /_1_ ;)
+学院团委微信平台
+扫一扫关注学院
+                                                                                                                                                                                                                                                                  
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>联系我们<button>
+<button>学院概况<button>
+<button>院长致辞<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>院系中心<button>
+<button>师资力量<button>
+<button>高端人才<button>
+<button>师资力量<button>
+<button>人才培养<button>
+<button>本科教学<button>
+<button>研究生教育<button>
+<button>科学研究<button>
+<button>科研项目<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>人才招聘<button>
+<button>学生园地<button>
+<button>党群之窗<button>
+<button>党群动态<button>
+<button>理论学习<button>
+<button>组织工作<button>
+<button>招生就业<button>
+<button>人才引进<button>
+<button>数学系<button>
+<button>电子工程系<button>
+<button>计算机科学系<button>
+<button>计算中心<button>
+<button>培养方案一（信息）<button>
+<button>培养方案二（网安）<button>
+<button>通知公示<button>
+<button>本科各专业课表<button>
+<button>考试安排表<button>
+<button>学位点简介<button>
+<button>招生简章<button>
+<button>通知公告<button>
+<button>常用资料<button>
+<button>在线咨询><button>
+<button>首页<button>
+<button>暨南大学信息科学技术学院2020年学位授权点建设年度报告<button>
+<button>暨南大学信息科学技术学院2021年学位授权点建设年度报告2025-03-14<button>
+<button>暨南大学信息科学技术学院2022年学位授权点建设年度报告2025-03-14<button>
+<button>暨南大学信息科学技术学院2023年学位授权点建设年度报告2025-03-14<button>
+<button>暨南大学信息科学技术学院2024年学位授权点建设年度报告2025-03-14<button>
+<button>2020年博士研究生入学考试科目及推荐参考书目2020-02-27<button>
+<button>2020年学院硕士全国统考总分列表（总分高于270）2020-02-25<button>
+<button>关于研究生转组织关系、户口迁移等相关事项的说明（2018年）2018-05-03<button>
+<button>关于对2018年达到最长学习年限的研究生进行学籍预警的通知2018-04-10<button>
+<button>暨南大学2018届毕业生求职创业补贴名单的公示2018-04-10<button>
+<button>关于2018年度非毕业班体检通知（校本部）2018-04-10<button>
+<button>暨南大学关于2018年学位审核及相关工作安排的通知2018-04-10<button>
+<button>暨大信息学科申报专业学位点自主审核会胜利召开2015-12-22<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+
+----- WebWalker -----
+在“通知公告”页面中，我发现了2024年信息科学技术学院的一些重要活动。接下来，我需要进一步查看这些活动的具体内容以确认它们是否提升了学校在国内的声誉。
+
+Action: visit_page
+Action Input: {"button": "暨南大学信息科学技术学院2024年学位授权点建设年度报告2025-03-14"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                    
+    * ;)
+                      * ;)
+                                      * ;)
+                                                                * ;)
+                  * ;)
+                
+#### 人才培养
+#### 
+                                        
+      
+>>>
+#### 暨南大学信息科学技术学院2024年学位授权点建设年度报告
+发布时间： 2025-03-14 来源： 信息科学技术学院
+学院团委微信平台
+扫一扫关注学院
+                                                                                                                                                                                                                                                                  
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>联系我们<button>
+<button>学院概况<button>
+<button>院长致辞<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>院系中心<button>
+<button>师资力量<button>
+<button>高端人才<button>
+<button>师资力量<button>
+<button>人才培养<button>
+<button>本科教学<button>
+<button>研究生教育<button>
+<button>科学研究<button>
+<button>科研项目<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>人才招聘<button>
+<button>学生园地<button>
+<button>党群之窗<button>
+<button>党群动态<button>
+<button>理论学习<button>
+<button>组织工作<button>
+<button>招生就业<button>
+<button>人才引进<button>
+<button>数学系<button>
+<button>电子工程系<button>
+<button>计算机科学系<button>
+<button>计算中心<button>
+<button>培养方案一（信息）<button>
+<button>培养方案二（网安）<button>
+<button>通知公示<button>
+<button>本科各专业课表<button>
+<button>考试安排表<button>
+<button>学位点简介<button>
+<button>招生简章<button>
+<button>通知公告<button>
+<button>常用资料<button>
+<button>在线咨询><button>
+<button>首页<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+
+----- WebWalker -----
+在“通知公告”页面中，我发现了2024年信息科学技术学院的一些重要活动。接下来，我需要进一步查看这些活动的具体内容以确认它们是否提升了学校在国内的声誉。
+
+Action: visit_page
+Action Input: {"button": "04-12信息科学技术学院计算机科学系数据智能与脑机接口团队在人工智能国际顶级期刊TPAMI发表论文"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                    
+    * ;)
+                      * ;)
+                                      * ;)
+                                                                * ;)
+                  * ;)
+                
+#### 学院动态
+#### 
+      
+>
+#### 信息科学技术学院计算机科学系数据智能与脑机接口团队在人工智能国际顶级期刊TPAMI发表论文
+发布时间： 2026-04-12 来源： 信息科学技术学院
+  
+  
+近日，暨南大学信息科学技术学院计算机科学系数据智能与脑机接口团队在人工智能国际顶级期刊《IEEE Transactions on Pattern Analysis and Machine Intelligence》（CCF-A，一区Top，IF=18.6）在线发表了题为“Local and High-Order Consistency Coding and Adaptation for Cross-Hypergraph Node Classification”的研究论文。暨南大学计算机科学系智能人机交互团队吴汉瑞副教授为第一作者，龙锦益教授为通讯作者，香港浸会大学讲席教授Michael K. Ng（吴国宝）和华南理工大学讲席教授陈俊龙为合作作者。这是团队近年来第三次在该期刊发表论文。
+!
+现有超图节点分类方法通常假设存在少量有标注训练节点。然而，在新形成的超图中，收集标签信息具有挑战性且成本高昂。此外，现有方法主要利用局部一致性关系（即直接邻居信息），而忽略了高阶一致性关系（即高阶邻居信息），限制了特征表示的判别性。为此，团队引入已有标注信息的源超图来辅助新形成目标超图的学习任务，实现跨超图节点分类。具体来说，所提出方法联合利用局部和高阶一致性信息学习判别性特征，并通过对抗域自适应和对比学习得到可迁移性特征。此外，团队从数学理论层面推导出了所提出跨超图滤波器的理论边界。
+!
+超图是一种描述实体高阶结构信息的有效工具，而脑机接口中EEG通道之间具有高阶关联关系。因此，可利用超图构建EEG通道的高阶结构，并利用上述工作处理跨被试的脑电信息分析问题。
+该研究工作得到了国家自然科学基金（62576151, 62206111, 62276115）等项目的支持。
+  
+文章链接：
+  
+学院团委微信平台
+扫一扫关注学院
+                                                                                                                                                                                                                                                                  
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>联系我们<button>
+<button>学院概况<button>
+<button>院长致辞<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>院系中心<button>
+<button>师资力量<button>
+<button>高端人才<button>
+<button>师资力量<button>
+<button>人才培养<button>
+<button>本科教学<button>
+<button>研究生教育<button>
+<button>科学研究<button>
+<button>科研项目<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>人才招聘<button>
+<button>学生园地<button>
+<button>党群之窗<button>
+<button>党群动态<button>
+<button>理论学习<button>
+<button>组织工作<button>
+<button>招生就业<button>
+<button>人才引进<button>
+<button>数学系<button>
+<button>电子工程系<button>
+<button>计算机科学系<button>
+<button>计算中心<button>
+<button>培养方案一（信息）<button>
+<button>培养方案二（网安）<button>
+<button>通知公示<button>
+<button>本科各专业课表<button>
+<button>考试安排表<button>
+<button>学位点简介<button>
+<button>招生简章<button>
+<button>通知公告<button>
+<button>常用资料<button>
+<button>学院动态<button>
+<button>在线咨询><button>
+<button>首页<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+
+----- WebWalker -----
+Memory:
+-2024年，信息科学技术学院通过在人工智能国际顶级期刊《IEEE Transactions on Pattern Analysis and Machine Intelligence》（TPAMI）发表论文，提升了学校在国内的声誉。该论文由信息科学技术学院计算机科学系数据智能与脑机接口团队完成，吴汉瑞副教授为第一作者，龙锦益教授为通讯作者，相关研究工作得到了国家自然科学基金的支持。
+"}
+
+----- WebWalker -----
+Final Answer: 2024年，信息科学技术学院通过在人工智能国际顶级期刊《IEEE Transactions on Pattern Analysis and Machine Intelligence》（TPAMI）发表论文，提升了学校在国内的声誉。该论文由信息科学技术学院计算机科学系数据智能与脑机接口团队完成，吴汉瑞副教授为第一作者，龙锦益教授为通讯作者，相关研究工作得到了国家自然科学基金的支持。

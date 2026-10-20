@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0268_c1a006fc3d29",
+  "source_index": 268,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年4月28日，携程商旅上新了哪两款新功能？",
+  "prompt": "2024年4月28日，携程商旅上新了哪两款新功能？",
+  "expected_answer": "「个人差旅足迹报告」和「航班动态」查询功能",
+  "root_url": "https://ct.ctrip.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://ct.ctrip.com/tag/232"
+    ],
+    "golden_path": [
+      "root->商旅产品功能->差旅系统"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "2024年4月28日，携程商旅上新了两款功能：'火车票“灵活中转+组合选座”' 和 '个人差旅足迹报告'。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 35.144,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0268_c1a006fc3d29/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0268_c1a006fc3d29/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

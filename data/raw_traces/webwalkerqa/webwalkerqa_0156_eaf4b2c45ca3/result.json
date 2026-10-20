@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0156_eaf4b2c45ca3",
+  "source_index": 156,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "玻利维亚乌尤尼碳酸锂工厂项目是在何年何月获得了临时移交证书，并预计在何时出产品？",
+  "prompt": "玻利维亚乌尤尼碳酸锂工厂项目是在何年何月获得了临时移交证书，并预计在何时出产品？",
+  "expected_answer": "2023年7月获得临时移交证书，预计2023年底出产品。",
+  "root_url": "https://www.sinomach.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.sinomach.com.cn/xwzx/mtgz/2023_mtgz/202311/t20231127_425493.html"
+    ],
+    "golden_path": [
+      "root->北京日报报道中设集团玻利维亚乌尤尼碳酸锂工厂项目"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 42.551,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0156_eaf4b2c45ca3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0156_eaf4b2c45ca3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

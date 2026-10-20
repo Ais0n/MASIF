@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0091_660d513ec189",
+  "source_index": 91,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "《拣爱》的原声音乐合集(三)中包含哪四首音乐，这些音乐与游戏中的哪个故事相关联？",
+  "prompt": "《拣爱》的原声音乐合集(三)中包含哪四首音乐，这些音乐与游戏中的哪个故事相关联？",
+  "expected_answer": "《爱情 ? 侦探》故事中包含的四首音乐是14_As Usual、15_Cute Accidence、16_As Promised和17_Flickering Light。",
+  "root_url": "https://www.wegame.com.cn/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.wegame.com.cn/store/2001721"
+    ],
+    "golden_path": [
+      "root->商店->9拣爱¥10->DLC"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 53.132,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0091_660d513ec189/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0091_660d513ec189/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

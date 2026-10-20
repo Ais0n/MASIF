@@ -1,0 +1,1999 @@
+----- user -----
+query:
+What kind of experiment did the IETF start in September 2006, and what method was used to evaluate its effectiveness?
+official website:
+https://www.ietf.org/
+Observation:website information:
+
+
+ ](
+  * About 
+!
+#####  
+    ###### Introduction to the IETF
+                    ###### Structure of the IETF
+                                ###### Legal requests
+        ###### Administration
+                                      * Technologies 
+The IETF works on a broad range of networking technologies that provide the foundation for the Internet's growth and evolution.
+!
+#####  
+                ###### IETF technologies in action
+    ###### IETF technology groups
+        ###### Recent posts about IETF technologies
+                      * Meetings 
+While most IETF work takes place online, meetings and other events such as Hackathons provide in-person opportunities to advance work within the IETF.
+!
+#####  
+                            ###### Participation information
+                                        ###### Organizing meetings
+              * Process 
+The IETF is the premier Internet standards organization. It follows open and well-documented processes for setting these standards. Once published, those standards are made freely available.
+#####  
+                                ###### RFCs
+                                ###### Standards process details
+                      * Participate 
+The global IETF community works together in many different ways to produce high quality, relevant technical documents that influence the way people design, use, and manage the Internet.
+#####  
+            ###### Tools and services
+                        ###### Participation guides
+            ###### Key policies
+                                  * Support us 
+By supporting the IETF today, you are ensuring a free and open Internet exists tomorrow.
+!
+#####  
+            ###### Ways to give
+                ###### Supporting values
+                
+    
+Go
+# Welcome to the IETF
+## IETF 126 Vienna
+Register today to participate in-person or online with more than 1000 leading Internet technologists from around the world during the upcoming IETF 126 meeting 18-24 July 2026.
+## Upcoming events
+  * !
+### 
+IETF 126 starts Saturday 18 July and runs through Friday afternoon, 24 July.
+Vienna, Austria
+  * !
+### 
+IETF 127 starts Saturday 14 November and runs through Friday afternoon, 20 November.
+San Francisco, California
+## What's new?
+  * ###  
+After a number of years of work, the initial rollout of a modern suite of tools for editing and publishing RFCs, including an entirely new rfc-editor.org website, will take place during the week beginning 11 May 2026.
+6 May 2026
+  * ###  
+The IETF 125 Shenzhen meeting was held 14-20 March 2026 and the results of the post-meeting survey are now available.
+29 Apr 2026
+* * *
+## Search the IETF email archive
+Much of the daily work of the IETF is conducted on electronic mailing lists. A new mail archive tool realizing the requirements developed in  is now in use: 
+Go
+## Search IETF Datatracker
+The IETF Datatracker contains data about IETF documents, working groups, meetings, agendas, minutes, presentations, and more: 
+Go
+* * *
+## Next IETF Meeting
+Stay tuned for the latest information on the next IETF meeting scheduled for 18-24 July.
+####  About 
+            
+####  Technologies 
+          
+####  Meetings 
+          
+####  Process 
+      
+####  Participate 
+        
+####  Support us 
+        
+    
+            
+  *[IETF]: Internet Engineering Task Force
+
+
+clickable button:
+
+<button>Skip to main content<button>
+<button>About<button>
+<button>Introduction to the IETF<button>
+<button>Participants<button>
+<button>Mission<button>
+<button>Principles<button>
+<button>The work<button>
+<button>Internet Engineering Steering Group<button>
+<button>Internet Architecture Board<button>
+<button>Internet Research Task Force<button>
+<button>Liaison relationships<button>
+<button>Nominating Committee<button>
+<button>IETF Trust<button>
+<button>RFC Editor<button>
+<button>Independent Submissions Editor<button>
+<button>Legal request procedures<button>
+<button>Legal requests<button>
+<button>IETF Administration LLC<button>
+<button>Administrative announcements<button>
+<button>Administrative reports<button>
+<button>IETF Administration LLC Board<button>
+<button>IETF Administration LLC Staff<button>
+<button>Financial statements<button>
+<button>RFPs and contracts<button>
+<button>Administrative policies and procedures<button>
+<button>IETF LLC transparency report<button>
+<button>Technologies<button>
+<button>Automated network management<button>
+<button>The Internet of Things<button>
+<button>New transport technology<button>
+<button>Security & privacy<button>
+<button>Domain Name System<button>
+<button>IETF Areas<button>
+<button>Working Group keywords<button>
+<button>Agentic AI communications: Identifying the standards we need<button>
+<button>Enabling Publishers to Express Preferences for AI Crawlers: An Update on the AIPREF Working Group<button>
+<button>Preventing Internet Route Hijack with SIDRops Technology<button>
+<button>End-to-end encryption based on the IETF-developed Messaging Layer Security set be used on 100s of millions of mobile devices<button>
+<button>The new GREEN working group gets ready for an energy efficient Internet<button>
+<button>Meetings<button>
+<button>IETF 126 Vienna<button>
+<button>IETF 127 San Francisco<button>
+<button>Upcoming meetings<button>
+<button>Past meetings<button>
+<button>Interim meetings<button>
+<button>IETF Hackathons<button>
+<button>Code Sprint<button>
+<button>Preparing for an IETF Meeting<button>
+<button>Guide to IETF Meetings<button>
+<button>IETF meeting terms and conditions<button>
+<button>New Participants<button>
+<button>IETF Guides program<button>
+<button>Meeting network and technology<button>
+<button>Meetecho guide for participants<button>
+<button>Visas and Letters of Invitation<button>
+<button>Meeting Registration Fee Waivers<button>
+<button>Onsite Childcare<button>
+<button>Meeting planning<button>
+<button>Meeting sponsorship<button>
+<button>Side meetings and private meetings<button>
+<button>Process<button>
+<button>Internet standards process<button>
+<button>Guide to IETF Working Groups<button>
+<button>Birds of a Feather (BOF)<button>
+<button>Protocol registries (IANA)<button>
+<button>Intellectual property rights (IPR)<button>
+<button>Directorates and teams<button>
+<button>Informal guide to IETF process documents<button>
+<button>Bringing new work to the IETF<button>
+<button>About RFCs<button>
+<button>Availability and use<button>
+<button>Publication formats<button>
+<button>Statuses<button>
+<button>Publication streams<button>
+<button>Corrections and errata<button>
+<button>Reporting protocol vulnerabilities to the IETF<button>
+<button>Choosing between Informational and Experimental Status<button>
+<button>The role of the IESG in the Standards process<button>
+<button>IESG ballot procedures<button>
+<button>Participate<button>
+<button>Getting started in the IETF<button>
+<button>Internet-Drafts<button>
+<button>IETF Systers<button>
+<button>Mailing lists<button>
+<button>Tools and services<button>
+<button>Open records<button>
+<button>Roles in the IETF<button>
+<button>Note Well - A reminder of IETF policies<button>
+<button>IETF/IRTF/IAB Privacy Statement<button>
+<button>Support us<button>
+<button>Why we need your support<button>
+<button>IETF financial supporters<button>
+<button>Donate to the IETF<button>
+<button>IETF Endowment<button>
+<button>Other ways to give<button>
+<button>Technical foundations for business<button>
+<button>Running Code<button>
+<button>Sustainability<button>
+<button>Diversity and Inclusion<button>
+<button>Open Internet<button>
+<button>News & blog<button>
+<button>Search<button>
+<button>See more<button>
+<button>All events<button>
+<button>A new suite of modern tools coming for editing and publishing RFCs<button>
+<button>IETF 125 post-meeting survey<button>
+<button>All news<button>
+<button>Visit the IETF 126 Vienna meeting webpage<button>
+<button>Administration<button>
+<button>Privacy and policies<button>
+<button>Contact us<button>
+<button>IETF LLC<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find information about an experiment started by the IETF in September 2006 and its evaluation method. Since the main page does not provide this information directly, I will explore the "Technologies" section to find relevant details.
+
+Action: visit_page
+Action Input: {"button": "Technologies"}
+
+----- VisitPage -----
+The web information is:
+
+
+ ](
+  * About 
+!
+#####  
+    ###### Introduction to the IETF
+                    ###### Structure of the IETF
+                                ###### Legal requests
+        ###### Administration
+                                      * Technologies 
+The IETF works on a broad range of networking technologies that provide the foundation for the Internet's growth and evolution.
+!
+#####  
+                ###### IETF technologies in action
+    ###### IETF technology groups
+        ###### Recent posts about IETF technologies
+                      * Meetings 
+While most IETF work takes place online, meetings and other events such as Hackathons provide in-person opportunities to advance work within the IETF.
+!
+#####  
+                            ###### Participation information
+                                        ###### Organizing meetings
+              * Process 
+The IETF is the premier Internet standards organization. It follows open and well-documented processes for setting these standards. Once published, those standards are made freely available.
+#####  
+                                ###### RFCs
+                                ###### Standards process details
+                      * Participate 
+The global IETF community works together in many different ways to produce high quality, relevant technical documents that influence the way people design, use, and manage the Internet.
+#####  
+            ###### Tools and services
+                        ###### Participation guides
+            ###### Key policies
+                                  * Support us 
+By supporting the IETF today, you are ensuring a free and open Internet exists tomorrow.
+!
+#####  
+            ###### Ways to give
+                ###### Supporting values
+                
+    
+Go
+  1. 
+# Technologies
+The IETF works on a broad range of networking technologies that provide the foundation for the Internet's growth and evolution.
+  *  ](
+## 
+As the individual networks that make up the Internet become larger and more complex, IETF standards help make operating and managing them easier and more efficient.
+  *  ](
+## 
+The Internet of Things is the network of physical objects or "things" embedded with electronics, software, sensors, and connectivity to enable objects to exchange data with the manufacturer, operator and/or other connected devices.
+  *  ](
+## 
+The development of new transport technologies in the IETF provides capabilities that improve the ability of Internet applications to send data over the Internet.
+  *  ](
+## 
+Trust by users in security and privacy on the Internet is a critical part of its success. A range of components, including robust implementations, careful deployment, and appropriate use of security technologies, is required to create a trusted Internet.
+  * ## 
+The IETF divides its work into a number of Areas, each comprised of working groups that relate to that Area's focus.
+  * ## 
+IETF Working Groups have volunteered key words related to technologies they are working on.
+  * ## 
+The IETF and the Domain Name System (DNS) emerged around the same time and in conjunction with one another. The first DNS-related RFC was published in 1983, and the IETF has continued to be intimately involved in the stability and evolution of the DNS.
+####  About 
+            
+####  Technologies 
+          
+####  Meetings 
+          
+####  Process 
+      
+####  Participate 
+        
+####  Support us 
+        
+    
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to main content<button>
+<button>About<button>
+<button>Introduction to the IETF<button>
+<button>Participants<button>
+<button>Mission<button>
+<button>Principles<button>
+<button>The work<button>
+<button>Internet Engineering Steering Group<button>
+<button>Internet Architecture Board<button>
+<button>Internet Research Task Force<button>
+<button>Liaison relationships<button>
+<button>Nominating Committee<button>
+<button>IETF Trust<button>
+<button>RFC Editor<button>
+<button>Independent Submissions Editor<button>
+<button>Legal request procedures<button>
+<button>Legal requests<button>
+<button>IETF Administration LLC<button>
+<button>Administrative announcements<button>
+<button>Administrative reports<button>
+<button>IETF Administration LLC Board<button>
+<button>IETF Administration LLC Staff<button>
+<button>Financial statements<button>
+<button>RFPs and contracts<button>
+<button>Administrative policies and procedures<button>
+<button>IETF LLC transparency report<button>
+<button>Technologies<button>
+<button>Automated network management<button>
+<button>The Internet of Things<button>
+<button>New transport technology<button>
+<button>Security & privacy<button>
+<button>Domain Name System<button>
+<button>IETF Areas<button>
+<button>Working Group keywords<button>
+<button>Agentic AI communications: Identifying the standards we need<button>
+<button>Enabling Publishers to Express Preferences for AI Crawlers: An Update on the AIPREF Working Group<button>
+<button>Preventing Internet Route Hijack with SIDRops Technology<button>
+<button>End-to-end encryption based on the IETF-developed Messaging Layer Security set be used on 100s of millions of mobile devices<button>
+<button>The new GREEN working group gets ready for an energy efficient Internet<button>
+<button>Meetings<button>
+<button>IETF 126 Vienna<button>
+<button>IETF 127 San Francisco<button>
+<button>Upcoming meetings<button>
+<button>Past meetings<button>
+<button>Interim meetings<button>
+<button>IETF Hackathons<button>
+<button>Code Sprint<button>
+<button>Preparing for an IETF Meeting<button>
+<button>Guide to IETF Meetings<button>
+<button>IETF meeting terms and conditions<button>
+<button>New Participants<button>
+<button>IETF Guides program<button>
+<button>Meeting network and technology<button>
+<button>Meetecho guide for participants<button>
+<button>Visas and Letters of Invitation<button>
+<button>Meeting Registration Fee Waivers<button>
+<button>Onsite Childcare<button>
+<button>Meeting planning<button>
+<button>Meeting sponsorship<button>
+<button>Side meetings and private meetings<button>
+<button>Process<button>
+<button>Internet standards process<button>
+<button>Guide to IETF Working Groups<button>
+<button>Birds of a Feather (BOF)<button>
+<button>Protocol registries (IANA)<button>
+<button>Intellectual property rights (IPR)<button>
+<button>Directorates and teams<button>
+<button>Informal guide to IETF process documents<button>
+<button>Bringing new work to the IETF<button>
+<button>About RFCs<button>
+<button>Availability and use<button>
+<button>Publication formats<button>
+<button>Statuses<button>
+<button>Publication streams<button>
+<button>Corrections and errata<button>
+<button>Reporting protocol vulnerabilities to the IETF<button>
+<button>Choosing between Informational and Experimental Status<button>
+<button>The role of the IESG in the Standards process<button>
+<button>IESG ballot procedures<button>
+<button>Participate<button>
+<button>Getting started in the IETF<button>
+<button>Internet-Drafts<button>
+<button>IETF Systers<button>
+<button>Mailing lists<button>
+<button>Tools and services<button>
+<button>Open records<button>
+<button>Roles in the IETF<button>
+<button>Note Well - A reminder of IETF policies<button>
+<button>IETF/IRTF/IAB Privacy Statement<button>
+<button>Support us<button>
+<button>Why we need your support<button>
+<button>IETF financial supporters<button>
+<button>Donate to the IETF<button>
+<button>IETF Endowment<button>
+<button>Other ways to give<button>
+<button>Technical foundations for business<button>
+<button>Running Code<button>
+<button>Sustainability<button>
+<button>Diversity and Inclusion<button>
+<button>Open Internet<button>
+<button>News & blog<button>
+<button>Search<button>
+<button>Administration<button>
+<button>Privacy and policies<button>
+<button>Contact us<button>
+<button>IETF LLC<button>
+
+----- WebWalker -----
+The "Technologies" section does not directly mention the experiment started by the IETF in September 2006. I will explore the "Recent posts about IETF technologies" section to find more relevant information.
+
+Action: visit_page
+Action Input: {"button": "Recent posts about IETF technologies"}
+
+----- VisitPage -----
+Button not found: Recent posts about IETF technologies
+
+----- WebWalker -----
+The "Recent posts about IETF technologies" section is not accessible through the provided buttons. I will explore other sections related to technologies or experiments to find the required information.
+
+Action: visit_page
+Action Input: {"button": "New transport technology"}
+
+----- VisitPage -----
+The web information is:
+
+
+ ](
+  * About 
+!
+#####  
+    ###### Introduction to the IETF
+                    ###### Structure of the IETF
+                                ###### Legal requests
+        ###### Administration
+                                      * Technologies 
+The IETF works on a broad range of networking technologies that provide the foundation for the Internet's growth and evolution.
+!
+#####  
+                ###### IETF technologies in action
+    ###### IETF technology groups
+        ###### Recent posts about IETF technologies
+                      * Meetings 
+While most IETF work takes place online, meetings and other events such as Hackathons provide in-person opportunities to advance work within the IETF.
+!
+#####  
+                            ###### Participation information
+                                        ###### Organizing meetings
+              * Process 
+The IETF is the premier Internet standards organization. It follows open and well-documented processes for setting these standards. Once published, those standards are made freely available.
+#####  
+                                ###### RFCs
+                                ###### Standards process details
+                      * Participate 
+The global IETF community works together in many different ways to produce high quality, relevant technical documents that influence the way people design, use, and manage the Internet.
+#####  
+            ###### Tools and services
+                        ###### Participation guides
+            ###### Key policies
+                                  * Support us 
+By supporting the IETF today, you are ensuring a free and open Internet exists tomorrow.
+!
+#####  
+            ###### Ways to give
+                ###### Supporting values
+                
+    
+Go
+  1. 
+  2. 
+# New transport technology
+The development of new transport technologies in the IETF provides capabilities that improve the ability of Internet applications to send data over the Internet.
+!
+As the Internet has evolved, there has been a significant amount of work to develop protocols that more effectively and efficiently move data. The central role transport protocols play in how the Internet works is reflected by the fact that Transport Area working groups often include participation by technologists involved in other Areas such as Security and .
+Recently, the  has been developing a UDP-based, stream-multiplexing, encrypted transport protocol, based on pre-standardization implementation and deployment experience. Key goals for QUIC protocol are minimizing latency, improving performance, and providing always-secure transport that uses TLS 1.3 by default.  has been underway since 2016 and the first specifications are expected to be published as RFCs shortly. IETF has already launched multiple working groups to leverage the services that QUIC provides.
+Even well-established transport protocols, such as TCP (Transmission Control Protocol) and UDP (User Datagram Protocol), which have roots that pre-date the IETF itself, continue to be extended and refined to meet the needs of applications and users of the growing global Internet. One example is Low Latency, Low Loss, Scalable Throughput (L4S), which extends the Explicit Congestion Networking (ECN) framework to potentially lower latency by orders of magnitude. Another is TCP RACK, which seeks to modernize the way that TCP detects packet losses to allow faster recovery.
+Another area of work understanding how to best make use of transport protocols to enable networking for devices with differing, and perhaps constrained, connectivity. For example, the DTN () Working Group specifies mechanisms for data communications in the presence of long delays and/or intermittent connectivity. More broadly, the TAPS () Working Group is aiming to define how applications interface with underlying transport protocols to improve their ability to use available networking. The IPPM () Working Group creates standards for operators to safely measure the characteristics of their network. More information about work underway is available in this .
+## 
+        
+####  About 
+            
+####  Technologies 
+          
+####  Meetings 
+          
+####  Process 
+      
+####  Participate 
+        
+####  Support us 
+        
+    
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to main content<button>
+<button>About<button>
+<button>Introduction to the IETF<button>
+<button>Participants<button>
+<button>Mission<button>
+<button>Principles<button>
+<button>The work<button>
+<button>Internet Engineering Steering Group<button>
+<button>Internet Architecture Board<button>
+<button>Internet Research Task Force<button>
+<button>Liaison relationships<button>
+<button>Nominating Committee<button>
+<button>IETF Trust<button>
+<button>RFC Editor<button>
+<button>Independent Submissions Editor<button>
+<button>Legal request procedures<button>
+<button>Legal requests<button>
+<button>IETF Administration LLC<button>
+<button>Administrative announcements<button>
+<button>Administrative reports<button>
+<button>IETF Administration LLC Board<button>
+<button>IETF Administration LLC Staff<button>
+<button>Financial statements<button>
+<button>RFPs and contracts<button>
+<button>Administrative policies and procedures<button>
+<button>IETF LLC transparency report<button>
+<button>Technologies<button>
+<button>Automated network management<button>
+<button>The Internet of Things<button>
+<button>New transport technology<button>
+<button>Security & privacy<button>
+<button>Domain Name System<button>
+<button>IETF Areas<button>
+<button>Working Group keywords<button>
+<button>Agentic AI communications: Identifying the standards we need<button>
+<button>Enabling Publishers to Express Preferences for AI Crawlers: An Update on the AIPREF Working Group<button>
+<button>Preventing Internet Route Hijack with SIDRops Technology<button>
+<button>End-to-end encryption based on the IETF-developed Messaging Layer Security set be used on 100s of millions of mobile devices<button>
+<button>The new GREEN working group gets ready for an energy efficient Internet<button>
+<button>Meetings<button>
+<button>IETF 126 Vienna<button>
+<button>IETF 127 San Francisco<button>
+<button>Upcoming meetings<button>
+<button>Past meetings<button>
+<button>Interim meetings<button>
+<button>IETF Hackathons<button>
+<button>Code Sprint<button>
+<button>Preparing for an IETF Meeting<button>
+<button>Guide to IETF Meetings<button>
+<button>IETF meeting terms and conditions<button>
+<button>New Participants<button>
+<button>IETF Guides program<button>
+<button>Meeting network and technology<button>
+<button>Meetecho guide for participants<button>
+<button>Visas and Letters of Invitation<button>
+<button>Meeting Registration Fee Waivers<button>
+<button>Onsite Childcare<button>
+<button>Meeting planning<button>
+<button>Meeting sponsorship<button>
+<button>Side meetings and private meetings<button>
+<button>Process<button>
+<button>Internet standards process<button>
+<button>Guide to IETF Working Groups<button>
+<button>Birds of a Feather (BOF)<button>
+<button>Protocol registries (IANA)<button>
+<button>Intellectual property rights (IPR)<button>
+<button>Directorates and teams<button>
+<button>Informal guide to IETF process documents<button>
+<button>Bringing new work to the IETF<button>
+<button>About RFCs<button>
+<button>Availability and use<button>
+<button>Publication formats<button>
+<button>Statuses<button>
+<button>Publication streams<button>
+<button>Corrections and errata<button>
+<button>Reporting protocol vulnerabilities to the IETF<button>
+<button>Choosing between Informational and Experimental Status<button>
+<button>The role of the IESG in the Standards process<button>
+<button>IESG ballot procedures<button>
+<button>Participate<button>
+<button>Getting started in the IETF<button>
+<button>Internet-Drafts<button>
+<button>IETF Systers<button>
+<button>Mailing lists<button>
+<button>Tools and services<button>
+<button>Open records<button>
+<button>Roles in the IETF<button>
+<button>Note Well - A reminder of IETF policies<button>
+<button>IETF/IRTF/IAB Privacy Statement<button>
+<button>Support us<button>
+<button>Why we need your support<button>
+<button>IETF financial supporters<button>
+<button>Donate to the IETF<button>
+<button>IETF Endowment<button>
+<button>Other ways to give<button>
+<button>Technical foundations for business<button>
+<button>Running Code<button>
+<button>Sustainability<button>
+<button>Diversity and Inclusion<button>
+<button>Open Internet<button>
+<button>News & blog<button>
+<button>Search<button>
+<button>Work on QUIC<button>
+<button>Administration<button>
+<button>Privacy and policies<button>
+<button>Contact us<button>
+<button>IETF LLC<button>
+
+----- WebWalker -----
+The "New transport technology" section mentions the development of a UDP-based, stream-multiplexing, encrypted transport protocol called QUIC. This protocol aims to minimize latency, improve performance, and provide always-secure transport using TLS 1.3 by default. The work on QUIC has been underway since 2016, and the first specifications are expected to be published as RFCs shortly. However, this information does not directly mention an experiment started in September 2006. I will explore other sections related to experiments or specific working groups to find more relevant information.
+
+Action: visit_page
+Action Input: {"button": "Security & privacy"}
+
+----- VisitPage -----
+The web information is:
+
+
+ ](
+  * About 
+!
+#####  
+    ###### Introduction to the IETF
+                    ###### Structure of the IETF
+                                ###### Legal requests
+        ###### Administration
+                                      * Technologies 
+The IETF works on a broad range of networking technologies that provide the foundation for the Internet's growth and evolution.
+!
+#####  
+                ###### IETF technologies in action
+    ###### IETF technology groups
+        ###### Recent posts about IETF technologies
+                      * Meetings 
+While most IETF work takes place online, meetings and other events such as Hackathons provide in-person opportunities to advance work within the IETF.
+!
+#####  
+                            ###### Participation information
+                                        ###### Organizing meetings
+              * Process 
+The IETF is the premier Internet standards organization. It follows open and well-documented processes for setting these standards. Once published, those standards are made freely available.
+#####  
+                                ###### RFCs
+                                ###### Standards process details
+                      * Participate 
+The global IETF community works together in many different ways to produce high quality, relevant technical documents that influence the way people design, use, and manage the Internet.
+#####  
+            ###### Tools and services
+                        ###### Participation guides
+            ###### Key policies
+                                  * Support us 
+By supporting the IETF today, you are ensuring a free and open Internet exists tomorrow.
+!
+#####  
+            ###### Ways to give
+                ###### Supporting values
+                
+    
+Go
+  1. 
+  2. 
+# Security & privacy
+Trust by users in security and privacy on the Internet is a critical part of its success. A range of components, including robust implementations, careful deployment, and appropriate use of security technologies, is required to create a trusted Internet.
+!
+Technical standards and Best Current Practice documents developed in the IETF provide important foundational elements for security and privacy on the Internet. IETF standards strive to be resilient against a host of known and emerging threats. Internet security has long been an integral part of the process of developing Internet standards: for more than 20 years, all RFCs have been required to include a section that discusses the security considerations of the protocol or procedures that are the main topic of the RFC.  
+The , with more than 20 , provides a focal point for security-related technical work in the IETF. Their work includes:
+  * enabling secure and privacy-preserving communications;   
+  * helping collect, verify, understand, and update the state of network end-points; and  
+  * providing protocols and applications the means to handle the authentication, authorization, and accounting of users, applications, and devices.
+The , consisting of the Working Group Chairs of the Security Area and selected individuals chosen for their technical knowledge in security, work with other groups within the IETF to help ensure IETF protocols provide an appropriate level of security for their intended usage.
+A few recent and current efforts underway in the IETF are described below:
+  * The latest version of the Transport Layer Security protocol, TLS 1.3, . TLS 1.3 delivers superior privacy, security, and performance over previous versions. This capability is a foundation of online commerce, medicine, and other sensitive transactions. For these and many other uses it is critical that transmitted information not be tampered with, forged, or read by anyone other than the sender and receiver. These features have been a key part of the Internet’s growth and are critical to many uses today. Importantly, given the significant improvements TLS 1.3 provides, its adoption rate since publication as a standard is increasing five times faster than the previous version.
+  * The Automated Certificate Management Environment () protocol, recently published as RFC 8555, lets you set up a secure website in just a few seconds. When you connect to your bank or your health care provider over the Internet, you need to know that you’re actually talking to them, and not a bad actor who is impersonating them and might steal your information or tamper with the transaction. Security protocols such as  provide encryption that protects you from everyone except the other side of the connection, but don’t themselves allow you to verify who that person is. ACME automates all the steps needed to verify that the other side of a secure connection is who you think it is, unlocking the potential for universal encryption on the Internet.
+  * As an evolution of existing technologies for secure two-party communication, development of the emerging Messaging Layering Security (MLS) protocol has seen strong participation by significant industry players. MLS aims to provide a standards-based approach for message protection within groups, potentially very large ones. MLS aims to ensure message confidentiality, integrity and forward secrecy, which ensures previously sent messages remain confidential even if the system is compromised at some point in the future. Several widely-deployed applications have developed their own protocols to meet these kinds of needs. While these independently-developed protocols are similar, no two are close enough to interoperate at a cryptographic level. The MLS Working Group is following the approach used in the development of TLS 1.3, benefiting from broad participation by industry and cryptographic researchers to implement and verify the protocol as it works towards standardization.
+## 
+        
+####  About 
+            
+####  Technologies 
+          
+####  Meetings 
+          
+####  Process 
+      
+####  Participate 
+        
+####  Support us 
+        
+    
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to main content<button>
+<button>About<button>
+<button>Introduction to the IETF<button>
+<button>Participants<button>
+<button>Mission<button>
+<button>Principles<button>
+<button>The work<button>
+<button>Internet Engineering Steering Group<button>
+<button>Internet Architecture Board<button>
+<button>Internet Research Task Force<button>
+<button>Liaison relationships<button>
+<button>Nominating Committee<button>
+<button>IETF Trust<button>
+<button>RFC Editor<button>
+<button>Independent Submissions Editor<button>
+<button>Legal request procedures<button>
+<button>Legal requests<button>
+<button>IETF Administration LLC<button>
+<button>Administrative announcements<button>
+<button>Administrative reports<button>
+<button>IETF Administration LLC Board<button>
+<button>IETF Administration LLC Staff<button>
+<button>Financial statements<button>
+<button>RFPs and contracts<button>
+<button>Administrative policies and procedures<button>
+<button>IETF LLC transparency report<button>
+<button>Technologies<button>
+<button>Automated network management<button>
+<button>The Internet of Things<button>
+<button>New transport technology<button>
+<button>Security & privacy<button>
+<button>Domain Name System<button>
+<button>IETF Areas<button>
+<button>Working Group keywords<button>
+<button>Agentic AI communications: Identifying the standards we need<button>
+<button>Enabling Publishers to Express Preferences for AI Crawlers: An Update on the AIPREF Working Group<button>
+<button>Preventing Internet Route Hijack with SIDRops Technology<button>
+<button>End-to-end encryption based on the IETF-developed Messaging Layer Security set be used on 100s of millions of mobile devices<button>
+<button>The new GREEN working group gets ready for an energy efficient Internet<button>
+<button>Meetings<button>
+<button>IETF 126 Vienna<button>
+<button>IETF 127 San Francisco<button>
+<button>Upcoming meetings<button>
+<button>Past meetings<button>
+<button>Interim meetings<button>
+<button>IETF Hackathons<button>
+<button>Code Sprint<button>
+<button>Preparing for an IETF Meeting<button>
+<button>Guide to IETF Meetings<button>
+<button>IETF meeting terms and conditions<button>
+<button>New Participants<button>
+<button>IETF Guides program<button>
+<button>Meeting network and technology<button>
+<button>Meetecho guide for participants<button>
+<button>Visas and Letters of Invitation<button>
+<button>Meeting Registration Fee Waivers<button>
+<button>Onsite Childcare<button>
+<button>Meeting planning<button>
+<button>Meeting sponsorship<button>
+<button>Side meetings and private meetings<button>
+<button>Process<button>
+<button>Internet standards process<button>
+<button>Guide to IETF Working Groups<button>
+<button>Birds of a Feather (BOF)<button>
+<button>Protocol registries (IANA)<button>
+<button>Intellectual property rights (IPR)<button>
+<button>Directorates and teams<button>
+<button>Informal guide to IETF process documents<button>
+<button>Bringing new work to the IETF<button>
+<button>About RFCs<button>
+<button>Availability and use<button>
+<button>Publication formats<button>
+<button>Statuses<button>
+<button>Publication streams<button>
+<button>Corrections and errata<button>
+<button>Reporting protocol vulnerabilities to the IETF<button>
+<button>Choosing between Informational and Experimental Status<button>
+<button>The role of the IESG in the Standards process<button>
+<button>IESG ballot procedures<button>
+<button>Participate<button>
+<button>Getting started in the IETF<button>
+<button>Internet-Drafts<button>
+<button>IETF Systers<button>
+<button>Mailing lists<button>
+<button>Tools and services<button>
+<button>Open records<button>
+<button>Roles in the IETF<button>
+<button>Note Well - A reminder of IETF policies<button>
+<button>IETF/IRTF/IAB Privacy Statement<button>
+<button>Support us<button>
+<button>Why we need your support<button>
+<button>IETF financial supporters<button>
+<button>Donate to the IETF<button>
+<button>IETF Endowment<button>
+<button>Other ways to give<button>
+<button>Technical foundations for business<button>
+<button>Running Code<button>
+<button>Sustainability<button>
+<button>Diversity and Inclusion<button>
+<button>Open Internet<button>
+<button>News & blog<button>
+<button>Search<button>
+<button>updates the most important security protocol on the Internet<button>
+<button>ACME<button>
+<button>TLS 1.3<button>
+<button>Administration<button>
+<button>Privacy and policies<button>
+<button>Contact us<button>
+<button>IETF LLC<button>
+
+----- WebWalker -----
+The "Security & privacy" section discusses various security protocols and initiatives, but it does not mention an experiment started in September 2006. I will explore other sections related to experiments or specific working groups to find more relevant information.
+
+Action: visit_page
+Action Input: {"button": "Domain Name System"}
+
+----- VisitPage -----
+The web information is:
+
+
+ ](
+  * About 
+!
+#####  
+    ###### Introduction to the IETF
+                    ###### Structure of the IETF
+                                ###### Legal requests
+        ###### Administration
+                                      * Technologies 
+The IETF works on a broad range of networking technologies that provide the foundation for the Internet's growth and evolution.
+!
+#####  
+                ###### IETF technologies in action
+    ###### IETF technology groups
+        ###### Recent posts about IETF technologies
+                      * Meetings 
+While most IETF work takes place online, meetings and other events such as Hackathons provide in-person opportunities to advance work within the IETF.
+!
+#####  
+                            ###### Participation information
+                                        ###### Organizing meetings
+              * Process 
+The IETF is the premier Internet standards organization. It follows open and well-documented processes for setting these standards. Once published, those standards are made freely available.
+#####  
+                                ###### RFCs
+                                ###### Standards process details
+                      * Participate 
+The global IETF community works together in many different ways to produce high quality, relevant technical documents that influence the way people design, use, and manage the Internet.
+#####  
+            ###### Tools and services
+                        ###### Participation guides
+            ###### Key policies
+                                  * Support us 
+By supporting the IETF today, you are ensuring a free and open Internet exists tomorrow.
+!
+#####  
+            ###### Ways to give
+                ###### Supporting values
+                
+    
+Go
+  1. 
+  2. 
+# Domain Name System
+The IETF and the Domain Name System (DNS) emerged around the same time and in conjunction with one another. The first DNS-related RFC was published in 1983, and the IETF has continued to be intimately involved in the stability and evolution of the DNS.
+> _Without the IETF, there is no Domain Name System. The value of the Internet is that we’re connected world wide. The value of the IETF is to make that possible, to come up with the standards of interoperability._  
+>  —Roy Arends, principal research scientist at ICANN
+The global DNS is a core part of the Internet experience for billions of people around the world, handling more than one million queries per second every second of every day. The IETF’s freely-available standards, and the processes by which they are developed, ensure the DNS is open, globally interoperable, reliable, and secure. Anyone can implement IETF standards because they are freely available. Major innovations and expansions developed in the IETF during the past three decades have made the DNS more responsive, secure, and straightforward to extend, and have given it the ability to accommodate domain names in languages used around the world.
+### Constant protocol maintenance, improvement, and evolution
+DNS scalability and the capacity to add features have remained top of mind in the IETF. Participants have discussed proposals for future functionality at every IETF meeting, and multiple DNS-related working groups are active at any given time. Recent and current work includes: 
+**DNS Operations (DNSOP)** – Chartered in 1999, this is the main IETF DNS working group that has published over 70 RFCs. 
+**DNS Delegation (DELEG) –** This working group aims to enhance the basic signal of a domain delegation in the DNS by providing a richer set of information about how to contact the delegated zone’s nameservers.
+**DNS Security Extensions (DNSSEC) –** Published in 2023, RFC 9364 gathers in one place all the DNS Security Extensions specified in previous RFCs and identifies DNSSEC as the best current practice for origin authentication of DNS data.
+**DNS PRIVate Exchange (DPRIVE) –** The DPRIVE working group, which develops mechanisms to provide confidentiality to DNS transactions, recently laid out steps DNS servers can take unilaterally to defend DNS query privacy against a passive network monitor.
+**Extensions for Scalable DNS Service Discovery (DNSSD)** – In an effort to find a solution for extended, scalable DNS-SD, this working group is considering the tradeoffs between reusing or extending existing protocols and developing new ones. 
+**Adaptive DNS Discovery (ADD)** – The ADD working group is focusing on how DNS clients in a variety of networking environments can select a DNS recursive resolver that meets their needs or constraints. 
+**Registration Protocols Extensions (REGEXT)** – A group that coordinates efforts for standards track Extensible Provisioning Protocol (EPP) extensions, REGEXT is working on, among other things, a standard describing best practices for deletion of domain and host objects in the EPP.
+Beyond working groups, work on DNS technologies takes place in venues such as IETF Hackathons, where developers and subject matter experts collaborate and develop utilities, ideas, sample code and solutions that show practical implementations of IETF standards.
+### The foundation of an industry
+> _“DNS is an IETF protocol. In a very real and historically specific sense, the entire domain name industry is a spinoff from the IETF."_  
+>  —Suzanne Woolf, senior director of technical community engagement for Public Interest Registry
+The DNS industry has grown into a market worth billions of dollars and comprised of thousands of companies. The reason the IETF’s collaborative, bottom-up model for creating standards works is because the DNS industry participates. Individuals volunteer their time, employers often fund individuals’ participation in in-person meetings, and organizations sponsor the IETF’s efforts.
+In return for active participation and support, the DNS industry reaps the benefits of a stable, reliable, always-improving DNS. Being involved in the IETF’s DNS-related work keeps individuals and organizations in touch with changing technologies – and gives them a hand in developing those technologies. Support for the IETF helps ensure a global community and open processes that produce technically excellent standards.
+### IETF and DNS by the Numbers
+  * 1983 – The first DNS RFC is published
+  * 26 – Number of RFCs that define the DNS protocol
+  * 1999 – DNS Operations (DNSOP) working group established
+  * 70 – Number of RFCs created by DNSOP 
+  * 10.9 million – Number of registered .org domain names (as of July 2024)
+  * 157.6 million – Number of registered .com domain names (as of July 2024)
+  * 362.4 million – Number of domain name registrations across all top-level domains (as of July 2024)
+## 
+        
+####  About 
+            
+####  Technologies 
+          
+####  Meetings 
+          
+####  Process 
+      
+####  Participate 
+        
+####  Support us 
+        
+    
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to main content<button>
+<button>About<button>
+<button>Introduction to the IETF<button>
+<button>Participants<button>
+<button>Mission<button>
+<button>Principles<button>
+<button>The work<button>
+<button>Internet Engineering Steering Group<button>
+<button>Internet Architecture Board<button>
+<button>Internet Research Task Force<button>
+<button>Liaison relationships<button>
+<button>Nominating Committee<button>
+<button>IETF Trust<button>
+<button>RFC Editor<button>
+<button>Independent Submissions Editor<button>
+<button>Legal request procedures<button>
+<button>Legal requests<button>
+<button>IETF Administration LLC<button>
+<button>Administrative announcements<button>
+<button>Administrative reports<button>
+<button>IETF Administration LLC Board<button>
+<button>IETF Administration LLC Staff<button>
+<button>Financial statements<button>
+<button>RFPs and contracts<button>
+<button>Administrative policies and procedures<button>
+<button>IETF LLC transparency report<button>
+<button>Technologies<button>
+<button>Automated network management<button>
+<button>The Internet of Things<button>
+<button>New transport technology<button>
+<button>Security & privacy<button>
+<button>Domain Name System<button>
+<button>IETF Areas<button>
+<button>Working Group keywords<button>
+<button>Agentic AI communications: Identifying the standards we need<button>
+<button>Enabling Publishers to Express Preferences for AI Crawlers: An Update on the AIPREF Working Group<button>
+<button>Preventing Internet Route Hijack with SIDRops Technology<button>
+<button>End-to-end encryption based on the IETF-developed Messaging Layer Security set be used on 100s of millions of mobile devices<button>
+<button>The new GREEN working group gets ready for an energy efficient Internet<button>
+<button>Meetings<button>
+<button>IETF 126 Vienna<button>
+<button>IETF 127 San Francisco<button>
+<button>Upcoming meetings<button>
+<button>Past meetings<button>
+<button>Interim meetings<button>
+<button>IETF Hackathons<button>
+<button>Code Sprint<button>
+<button>Preparing for an IETF Meeting<button>
+<button>Guide to IETF Meetings<button>
+<button>IETF meeting terms and conditions<button>
+<button>New Participants<button>
+<button>IETF Guides program<button>
+<button>Meeting network and technology<button>
+<button>Meetecho guide for participants<button>
+<button>Visas and Letters of Invitation<button>
+<button>Meeting Registration Fee Waivers<button>
+<button>Onsite Childcare<button>
+<button>Meeting planning<button>
+<button>Meeting sponsorship<button>
+<button>Side meetings and private meetings<button>
+<button>Process<button>
+<button>Internet standards process<button>
+<button>Guide to IETF Working Groups<button>
+<button>Birds of a Feather (BOF)<button>
+<button>Protocol registries (IANA)<button>
+<button>Intellectual property rights (IPR)<button>
+<button>Directorates and teams<button>
+<button>Informal guide to IETF process documents<button>
+<button>Bringing new work to the IETF<button>
+<button>About RFCs<button>
+<button>Availability and use<button>
+<button>Publication formats<button>
+<button>Statuses<button>
+<button>Publication streams<button>
+<button>Corrections and errata<button>
+<button>Reporting protocol vulnerabilities to the IETF<button>
+<button>Choosing between Informational and Experimental Status<button>
+<button>The role of the IESG in the Standards process<button>
+<button>IESG ballot procedures<button>
+<button>Participate<button>
+<button>Getting started in the IETF<button>
+<button>Internet-Drafts<button>
+<button>IETF Systers<button>
+<button>Mailing lists<button>
+<button>Tools and services<button>
+<button>Open records<button>
+<button>Roles in the IETF<button>
+<button>Note Well - A reminder of IETF policies<button>
+<button>IETF/IRTF/IAB Privacy Statement<button>
+<button>Support us<button>
+<button>Why we need your support<button>
+<button>IETF financial supporters<button>
+<button>Donate to the IETF<button>
+<button>IETF Endowment<button>
+<button>Other ways to give<button>
+<button>Technical foundations for business<button>
+<button>Running Code<button>
+<button>Sustainability<button>
+<button>Diversity and Inclusion<button>
+<button>Open Internet<button>
+<button>News & blog<button>
+<button>Search<button>
+<button>Administration<button>
+<button>Privacy and policies<button>
+<button>Contact us<button>
+<button>IETF LLC<button>
+
+----- WebWalker -----
+The "Domain Name System" section discusses the evolution and standards related to DNS, but it does not mention an experiment started in September 2006. I will explore other sections related to experiments or specific working groups to find more relevant information.
+
+Action: visit_page
+Action Input: {"button": "IETF Areas"}
+
+----- VisitPage -----
+The web information is:
+
+
+ ](
+  * About 
+!
+#####  
+    ###### Introduction to the IETF
+                    ###### Structure of the IETF
+                                ###### Legal requests
+        ###### Administration
+                                      * Technologies 
+The IETF works on a broad range of networking technologies that provide the foundation for the Internet's growth and evolution.
+!
+#####  
+                ###### IETF technologies in action
+    ###### IETF technology groups
+        ###### Recent posts about IETF technologies
+                      * Meetings 
+While most IETF work takes place online, meetings and other events such as Hackathons provide in-person opportunities to advance work within the IETF.
+!
+#####  
+                            ###### Participation information
+                                        ###### Organizing meetings
+              * Process 
+The IETF is the premier Internet standards organization. It follows open and well-documented processes for setting these standards. Once published, those standards are made freely available.
+#####  
+                                ###### RFCs
+                                ###### Standards process details
+                      * Participate 
+The global IETF community works together in many different ways to produce high quality, relevant technical documents that influence the way people design, use, and manage the Internet.
+#####  
+            ###### Tools and services
+                        ###### Participation guides
+            ###### Key policies
+                                  * Support us 
+By supporting the IETF today, you are ensuring a free and open Internet exists tomorrow.
+!
+#####  
+            ###### Ways to give
+                ###### Supporting values
+                
+    
+Go
+  1. 
+  2. 
+# IETF Areas
+The IETF divides its work into a number of Areas, each comprised of working groups that relate to that Area's focus.
+The area structure is defined by the IESG, and the IESG can add areas, redefine areas, merge areas, change the number of Area Directors (ADs) assigned to an area, or close down areas. Changes to the area structure affect the IETF in many ways; decisions to change the area structure are taken in consultation with the community. When changing the area structure, the IESG can decide which members are responsible for new and changed areas, including making one sitting AD responsible for multiple areas, but the IESG can only add new members through the  process.
+The primary task of area management is handled by one, two, or three Area Directors per area. An AD may be advised by one or more directorates, which are created, selected, chaired and if necessary disbanded by the AD. Directorates may be specific to an area, specific to a technology, or chartered in some other fashion.
+The ADs for an area are jointly responsible for making sure the WGs in the area are well coordinated, that there is coverage for the technologies needed in the area, and that the challenges most important to the Internet in that area are indeed being worked on. **A full list of active working groups, sorted by area, may be found at the** **.**
+The IESG decides which areas working groups belong to. The charter of each Area is listed below. For more information about the role of the IESG in areas and working groups, please see RFC 3710 ("An IESG charter"), section 6 and RFC 2418 ("IETF Working Group Guidelines and Procedures").
+## Applications and Real-Time Area ()
+The ART area develops application protocols and architectures in the IETF. The work in the area falls into roughly three categories, with blurry distinctions between them. One category consists of protocols and architectures specifically designed to support delay-sensitive interpersonal communications via voice, video, instant messaging, presence, and other means, otherwise known as "real-time" applications and services. A second category consists of protocols and architectures to support applications that may be more tolerant of delay, email, and FTP. The third category consists of building blocks that are designed for use across a wide variety of applications and may be employed by both real-time and non-real-time applications, such as URI schemes, MIME types, authentication mechanisms, data formats, metrics, and codecs.
+## General Area ()
+The General Area consists of a few IETF WGs and other activities focused on supporting, updating and maintaining the IETF standards development process. As General AD, the IETF Chair manages the General Area Review Team (Gen-ART) and other IETF-wide directorates.
+## Internet Area ()
+The primary technical topics covered by the Internet Area include IP layer (both IPv4 and IPv6), implications of IPv4 address depletion, co-existence between the IP versions, DNS, DHCP, host and router configuration, mobility, multihoming, identifier-locator separation, VPNs and pseudowires along with related MPLS issues, and various link layer technologies. The Internet Area is also responsible for specifying how IP will run over new link layer protocols. Learn more from this  presented at a recent IETF meeting.
+## Operations and Management Area ()
+The primary technical areas covered by the Operations & Management (OPS) Area include: Network Management, AAA, and various operational issues facing the Internet such as DNS operations, IPv6 operations, operational security and Routing operations.
+Unlike most IETF areas, the Operations & Management area is logically divided into two separate functions: Network Management and Operations.
+The Network Management function covers Internet management and AAA, and the related protocols, including but not limited to NETCONF, SNMP, RADIUS, Diameter, and CAPWAP, and of data modeling and data modeling languages used in management such as SMI and YANG. Another important role of the Management function is to identify potential or actual management issues regarding IETF protocols and documents in all areas, and to work with the other areas to resolve those issues.
+The Operations function is largely responsible for soliciting operator feedback and input regarding IETF work. Another important role of the Operations function is to identify potential or actual operational issues regarding IETF protocols and documents in all areas, and to work with the other areas to resolve those issues.
+The OPS area intersects most often with the Routing, Internet and Security areas. 
+## Routing Area ()
+The Routing Area is responsible for facilitating the operation of the Internet routing system by maintaining and improving the scalability and stability characteristics of the existing routing protocols and developing new protocols, extensions, and bug fixes. Forwarding methods (such as destination-based unicast and multicast forwarding, MPLS, and pseudowire) as well as associated routing and signaling protocols (such as OSPF, IS-IS, BGP, RSVP-TE, LDP, PIM, RPL, and VPNs at Layer 2 and Layer 3), and both centralized and distributed routing architectures (to address, for example, virtualization, service chaining, traffic engineering, and data center routing) are within the scope of the Routing Area. The interactions of routing systems with configuration and orchestration platforms (for example, routing-related YANG models and path computation engines) are handled in the Routing Area as well. 
+The Routing Area also works on Generalized MPLS used in the control plane of optical networks, and the security and manageability aspects of the routing system. The  cover a wide range of data plane technologies (Layer 1, Layer 2, Layer 3) and control protocols. 
+The Routing Area intersects most frequently with the Internet Area, the Operations and Management Area, and the Security Area. Interaction with the Internet Area concentrates mainly on IP forwarding and encapsulation. Ongoing work with the Operations and Management Area is on developing YANG models and considering the management and operation of the routing infrastructure. With the Security Area, the ongoing focus is on routing protocol security and its impact on the Internet's infrastructure security.
+Work in the Routing Area often overlaps with work in other standards development organizations (SDOs). In particular, there have been interactions with Broadband Forum, IEEE, and ITU-T.
+## Security Area ()
+The Security Area is the home for working groups focused on security protocols. They provide one or more of the security services: integrity, authentication, non-repudiation, confidentiality, and access control. Since many of the security mechanisms needed to provide these security services employ cryptography, key management is also vital.
+The Security Area intersects with all other IETF Areas, and the participants are frequently involved with activities in the working groups from other areas. This involvement focuses upon practical application of Security Area protocols and technologies to the protocols of other Areas.
+## Web and Internet Transport Area ()
+The Web and Internet Transport (wit) area covers protocols that provide the functions of the Transport Layer of the Internet, such as QUIC, TCP, UDP, SCTP, and DCCP, including congestion control and queue management. It also has responsibility for protocols that implement the World Wide Web (like HTTP) and adjacent technologies.
+## 
+        
+####  About 
+            
+####  Technologies 
+          
+####  Meetings 
+          
+####  Process 
+      
+####  Participate 
+        
+####  Support us 
+        
+    
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to main content<button>
+<button>About<button>
+<button>Introduction to the IETF<button>
+<button>Participants<button>
+<button>Mission<button>
+<button>Principles<button>
+<button>The work<button>
+<button>Internet Engineering Steering Group<button>
+<button>Internet Architecture Board<button>
+<button>Internet Research Task Force<button>
+<button>Liaison relationships<button>
+<button>Nominating Committee<button>
+<button>IETF Trust<button>
+<button>RFC Editor<button>
+<button>Independent Submissions Editor<button>
+<button>Legal request procedures<button>
+<button>Legal requests<button>
+<button>IETF Administration LLC<button>
+<button>Administrative announcements<button>
+<button>Administrative reports<button>
+<button>IETF Administration LLC Board<button>
+<button>IETF Administration LLC Staff<button>
+<button>Financial statements<button>
+<button>RFPs and contracts<button>
+<button>Administrative policies and procedures<button>
+<button>IETF LLC transparency report<button>
+<button>Technologies<button>
+<button>Automated network management<button>
+<button>The Internet of Things<button>
+<button>New transport technology<button>
+<button>Security & privacy<button>
+<button>Domain Name System<button>
+<button>IETF Areas<button>
+<button>Working Group keywords<button>
+<button>Agentic AI communications: Identifying the standards we need<button>
+<button>Enabling Publishers to Express Preferences for AI Crawlers: An Update on the AIPREF Working Group<button>
+<button>Preventing Internet Route Hijack with SIDRops Technology<button>
+<button>End-to-end encryption based on the IETF-developed Messaging Layer Security set be used on 100s of millions of mobile devices<button>
+<button>The new GREEN working group gets ready for an energy efficient Internet<button>
+<button>Meetings<button>
+<button>IETF 126 Vienna<button>
+<button>IETF 127 San Francisco<button>
+<button>Upcoming meetings<button>
+<button>Past meetings<button>
+<button>Interim meetings<button>
+<button>IETF Hackathons<button>
+<button>Code Sprint<button>
+<button>Preparing for an IETF Meeting<button>
+<button>Guide to IETF Meetings<button>
+<button>IETF meeting terms and conditions<button>
+<button>New Participants<button>
+<button>IETF Guides program<button>
+<button>Meeting network and technology<button>
+<button>Meetecho guide for participants<button>
+<button>Visas and Letters of Invitation<button>
+<button>Meeting Registration Fee Waivers<button>
+<button>Onsite Childcare<button>
+<button>Meeting planning<button>
+<button>Meeting sponsorship<button>
+<button>Side meetings and private meetings<button>
+<button>Process<button>
+<button>Internet standards process<button>
+<button>Guide to IETF Working Groups<button>
+<button>Birds of a Feather (BOF)<button>
+<button>Protocol registries (IANA)<button>
+<button>Intellectual property rights (IPR)<button>
+<button>Directorates and teams<button>
+<button>Informal guide to IETF process documents<button>
+<button>Bringing new work to the IETF<button>
+<button>About RFCs<button>
+<button>Availability and use<button>
+<button>Publication formats<button>
+<button>Statuses<button>
+<button>Publication streams<button>
+<button>Corrections and errata<button>
+<button>Reporting protocol vulnerabilities to the IETF<button>
+<button>Choosing between Informational and Experimental Status<button>
+<button>The role of the IESG in the Standards process<button>
+<button>IESG ballot procedures<button>
+<button>Participate<button>
+<button>Getting started in the IETF<button>
+<button>Internet-Drafts<button>
+<button>IETF Systers<button>
+<button>Mailing lists<button>
+<button>Tools and services<button>
+<button>Open records<button>
+<button>Roles in the IETF<button>
+<button>Note Well - A reminder of IETF policies<button>
+<button>IETF/IRTF/IAB Privacy Statement<button>
+<button>Support us<button>
+<button>Why we need your support<button>
+<button>IETF financial supporters<button>
+<button>Donate to the IETF<button>
+<button>IETF Endowment<button>
+<button>Other ways to give<button>
+<button>Technical foundations for business<button>
+<button>Running Code<button>
+<button>Sustainability<button>
+<button>Diversity and Inclusion<button>
+<button>Open Internet<button>
+<button>News & blog<button>
+<button>Search<button>
+<button>Administration<button>
+<button>Privacy and policies<button>
+<button>Contact us<button>
+<button>IETF LLC<button>
+
+----- WebWalker -----
+The "IETF Areas" section provides an overview of the different working groups and their focuses but does not mention an experiment started in September 2006. I will explore other sections related to experiments or specific working groups to find more relevant information.
+
+Action: visit_page
+Action Input: {"button": "Working Group keywords"}
+
+----- VisitPage -----
+The web information is:
+
+
+ ](
+  * About 
+!
+#####  
+    ###### Introduction to the IETF
+                    ###### Structure of the IETF
+                                ###### Legal requests
+        ###### Administration
+                                      * Technologies 
+The IETF works on a broad range of networking technologies that provide the foundation for the Internet's growth and evolution.
+!
+#####  
+                ###### IETF technologies in action
+    ###### IETF technology groups
+        ###### Recent posts about IETF technologies
+                      * Meetings 
+While most IETF work takes place online, meetings and other events such as Hackathons provide in-person opportunities to advance work within the IETF.
+!
+#####  
+                            ###### Participation information
+                                        ###### Organizing meetings
+              * Process 
+The IETF is the premier Internet standards organization. It follows open and well-documented processes for setting these standards. Once published, those standards are made freely available.
+#####  
+                                ###### RFCs
+                                ###### Standards process details
+                      * Participate 
+The global IETF community works together in many different ways to produce high quality, relevant technical documents that influence the way people design, use, and manage the Internet.
+#####  
+            ###### Tools and services
+                        ###### Participation guides
+            ###### Key policies
+                                  * Support us 
+By supporting the IETF today, you are ensuring a free and open Internet exists tomorrow.
+!
+#####  
+            ###### Ways to give
+                ###### Supporting values
+                
+    
+Go
+  1. 
+  2. 
+# Working Group keywords
+IETF Working Groups have volunteered key words related to technologies they are working on.
+This page provides a summary set of keywords contributed by Working Group chairs on a volunteer basis. This is intended to help find specific efforts underway within the IETF related to a particular topic. Work in the IETF covers a broad range of technologies, including those which may not be referenced here. Please review the  for further information.
+  * **3x3-Matrix** - 
+  * **464XLAT** - 
+  * **6LR** - 
+  * **6LoWPAN** - 
+  * **6p** - 
+  * **802.15.4** - 
+  * **AAA** - , , 
+  * **ACP** - 
+  * **AH** - 
+  * **AKA** - 
+  * **AKE** - , , 
+  * **ALT** - 
+  * **AMT** - 
+  * **API** - 
+  * **ARC** - 
+  * **Abuse** - 
+  * **Ad-Hoc Networking** - , 
+  * **Airport-WiFi** - 
+  * **Append-Only Log** - 
+  * **Archival** - 
+  * **Assessment** - 
+  * **Attestation** - 
+  * **Authentication** - , , , , , , 
+  * **Authorization** - , , 
+  * **Autonomic Control Plane** - 
+  * **Autonomic Networking** - 
+  * **Aviation** - 
+  * **BFD** - 
+  * **BGP** - , , , 
+  * **BGP FlowSpec** - 
+  * **BGP services** - 
+  * **BGP-LS** - 
+  * **BGPSEC** - 
+  * **BIER** - 
+  * **BLE** - 
+  * **BRSKI** - 
+  * **Babel** - 
+  * **Bellman-Ford** - 
+  * **Benchmarking** - 
+  * **Bier** - 
+  * **Binary** - 
+  * **Bonjour** - 
+  * **Bundle Protocol** - 
+  * **CABForum** - 
+  * **CBOR** - , 
+  * **CDDL** - 
+  * **CDN** - , , 
+  * **CMC** - 
+  * **CMP** - , 
+  * **CMS** - , 
+  * **COSE** - , 
+  * **CPE** - 
+  * **CWT** - 
+  * **Calendar** - , 
+  * **Captive Portal** - 
+  * **Certficates** - 
+  * **Certificate** - 
+  * **Certificate Authority** - 
+  * **Certificate Transparency** - 
+  * **Certificates** - , 
+  * **Chacha/Poly** - 
+  * **Chacha20/Poly1305** - 
+  * **Chaining** - 
+  * **Characterization** - 
+  * **Circuit Emulation** - 
+  * **CoAP** - 
+  * **Codec** - 
+  * **Coffee Shop Wifi** - 
+  * **Conference** - 
+  * **Confidentiality** - , , , 
+  * **Congestion Control** - , , , 
+  * **Connectivity Verification** - 
+  * **Constrained Environments** - , , , , 
+  * **Content Delivery** - 
+  * **Cookie** - 
+  * **Cryptographic Algorithms** - 
+  * **Cryptography** - , , , 
+  * **Curve25519** - 
+  * **DC** - , 
+  * **DCCP** - 
+  * **DDOS** - 
+  * **DDT** - 
+  * **DHCP** - 
+  * **DKIM** - 
+  * **DLEP** - 
+  * **DMARC** - 
+  * **DNS** - , , , 
+  * **DNS Privacy** - 
+  * **DNS discovery** - 
+  * **DNS-over-HTTPS** - 
+  * **DNSSEC** - 
+  * **DODAG** - 
+  * **DTLS** - 
+  * **Data Model** - 
+  * **Data-Center** - 
+  * **Decoding** - 
+  * **Delay Tolerant Networking** - 
+  * **Denial of Service** - 
+  * **Deterministic** - , , 
+  * **Diameter** - 
+  * **DiffServ** - 
+  * **Distributed** - 
+  * **DoH** - 
+  * **DoQ** - 
+  * **DoT** - , 
+  * **Domains** - 
+  * **Drone** - 
+  * **Dual-Isp** - 
+  * **EAP** - , 
+  * **EAP-FAST** - 
+  * **EAP-TLS** - 
+  * **EAT** - 
+  * **ECC** - 
+  * **ECN** - 
+  * **EDHOC** - 
+  * **EPP** - 
+  * **ESNI** - 
+  * **ESP** - 
+  * **EST** - 
+  * **EVPN** - 
+  * **Ebml** - 
+  * **Email** - , , 
+  * **Embedded Systems** - 
+  * **Emergency** - 
+  * **Encoding** - 
+  * **Encryption** - , , , 
+  * **End-Point Security** - , , , 
+  * **Federation** - 
+  * **Ffmpeg** - 
+  * **File System** - 
+  * **Filtering** - , 
+  * **Firewall** - , 
+  * **Firmware** - 
+  * **Flac** - 
+  * **Fragmentation** - , , 
+  * **GSS-API** - 
+  * **Gaming** - 
+  * **Geneve** - 
+  * **Gmpls** - 
+  * **Group Communication** - 
+  * **HIP** - , 
+  * **HIT** - 
+  * **HTTP** - , , , 
+  * **HTTP/3** - 
+  * **Header Compression** - 
+  * **Header compression** - 
+  * **Home Router** - 
+  * **Hotels** - 
+  * **ICANN** - 
+  * **ICE** - 
+  * **IDevID** - 
+  * **IGMP** - , 
+  * **IKEv2** - 
+  * **IMAP** - 
+  * **IOAM** - 
+  * **IODEF** - 
+  * **IP FastReroute** - 
+  * **IP addressing** - 
+  * **IPSEC** - 
+  * **IPv6** - , , , 
+  * **IS-IS** - 
+  * **Identification** - 
+  * **Identifier** - 
+  * **Incident Reports** - 
+  * **Incident Response** - 
+  * **Indicators** - 
+  * **Industrial** - , 
+  * **Ingest** - 
+  * **Intent** - 
+  * **Internet** - 
+  * **Internet routing** - , 
+  * **Interplentary Network** - 
+  * **IoT** - , , , , , , , , , , , , 
+  * **IoT authorization** - 
+  * **IoT security** - , , , , 
+  * **JWT** - , 
+  * **KDC** - 
+  * **Kerberos** - 
+  * **Key Agreement** - , 
+  * **Key Exchange** - 
+  * **LCAF** - 
+  * **LDP** - 
+  * **LDevID** - 
+  * **LSP control** - 
+  * **Lab-test** - 
+  * **Label** - 
+  * **Label Distribution Protocol** - 
+  * **Label Switched Path** - 
+  * **Label Switching Router** - 
+  * **Latency** - , , , 
+  * **Layer 2 VPN** - 
+  * **Layer 3 VPN** - 
+  * **Lets Encrypt** - 
+  * **Lightweight** - 
+  * **Link Local** - 
+  * **Link State Routing** - , 
+  * **Locator** - 
+  * **Low-Power** - , , 
+  * **Lsvr** - 
+  * **MAP-E** - 
+  * **MASA** - 
+  * **MLD** - , 
+  * **MPL** - 
+  * **MPLS** - 
+  * **MSF** - 
+  * **MUD** - 
+  * **MVPN** - 
+  * **Mail** - , , 
+  * **Manifest** - 
+  * **Mapping** - 
+  * **Matroska** - 
+  * **Mdns** - 
+  * **Measurement** - , 
+  * **Measurements** - 
+  * **Media** - , , , , 
+  * **Media Container** - 
+  * **Merkle Tree** - 
+  * **Mesh** - 
+  * **Mesh Networking** - , 
+  * **Message Protection** - 
+  * **Metrics** - 
+  * **Mobility** - , 
+  * **Mpls** - 
+  * **Multi-home** - 
+  * **Multicast** - , , , 
+  * **Multicast Vpn** - 
+  * **NAI** - 
+  * **NAT** - , 
+  * **NAT64** - 
+  * **ND** - , 
+  * **NETCONF** - 
+  * **NFV** - 
+  * **NTP** - 
+  * **Naming** - , 
+  * **Neighbor Discovery** - , 
+  * **Network Management** - , , 
+  * **Network Security Functions** - 
+  * **New Proposals** - , 
+  * **New Work** - , 
+  * **Nickname** - 
+  * **OAM** - , 
+  * **OAUTH** - 
+  * **OAuth** - 
+  * **OLSR** - 
+  * **OSCORE** - , 
+  * **OSPF** - 
+  * **OWAMP** - 
+  * **Oam** - 
+  * **Object Security** - 
+  * **OpenID Connect** - 
+  * **Operations** - , , , , , , 
+  * **OtrP** - 
+  * **Out-of-band Control** - 
+  * **Overlay** - 
+  * **P2P** - , , 
+  * **PCAP-NG** - 
+  * **PCC** - 
+  * **PCEP** - 
+  * **PEAP** - 
+  * **PIM** - , 
+  * **PKI** - , , , 
+  * **PKINIT** - 
+  * **PKIX** - , , , 
+  * **PTP** - 
+  * **Packet Loss** - 
+  * **Path Computation** - 
+  * **Path provisioning** - 
+  * **Path-Aware Networking** - 
+  * **Performance** - 
+  * **Phishing** - 
+  * **Portal** - 
+  * **Posture** - 
+  * **Prefix-Delegation** - 
+  * **Privacy** - , , , , , , 
+  * **Proof Of Possession** - , 
+  * **Protection Switching** - 
+  * **Pseudowire** - 
+  * **QoS** - 
+  * **RA** - 
+  * **RADIUS** - 
+  * **RDAP** - 
+  * **RDMA** - 
+  * **REST** - 
+  * **RESTCONF** - 
+  * **RPC** - 
+  * **RPKI** - 
+  * **RPL** - 
+  * **RTCP** - 
+  * **RTP** - 
+  * **RTSP** - 
+  * **Radio** - , 
+  * **Rbridge** - 
+  * **Real-Time** - , , , 
+  * **Real-time** - , 
+  * **Realtime** - 
+  * **Recursive** - 
+  * **Registrar** - 
+  * **Registry** - 
+  * **Relay** - 
+  * **Remote Access** - 
+  * **Renumber** - 
+  * **Replay** - 
+  * **Residential networks** - 
+  * **Resolver** - 
+  * **Rift** - 
+  * **Robocalling** - 
+  * **Root** - 
+  * **Router** - 
+  * **Routing** - , , 
+  * **Routing Protocl** - 
+  * **Routing Protocol** - , , , , , 
+  * **S/MIME** - , 
+  * **SAML** - 
+  * **SASL** - 
+  * **SCTP** - 
+  * **SDN** - , , , 
+  * **SDN-control-channels** - 
+  * **SDP** - 
+  * **SGX** - 
+  * **SIEVE** - 
+  * **SIP** - , , 
+  * **SLAAC** - 
+  * **SPF** - 
+  * **SR-MPLS** - 
+  * **SRT** - 
+  * **SRv6** - 
+  * **SSH** - 
+  * **SSL** - 
+  * **SSM** - 
+  * **STAMP** - 
+  * **STAR** - 
+  * **STUN** - 
+  * **Scheduling** - 
+  * **Scrubbing** - 
+  * **Secure Boot** - 
+  * **Secure Communication** - , 
+  * **Secure Messaging** - 
+  * **Security** - , , , , , , , , , , , , , , , , , , , , , , , , , , 
+  * **Security Event Token** - 
+  * **Segment Routing** - 
+  * **Service** - 
+  * **Service Discovery** - 
+  * **Signalling** - 
+  * **Signing** - 
+  * **Sleepy** - 
+  * **Source Routing** - 
+  * **Spam** - , 
+  * **Storage** - 
+  * **Streaming** - , 
+  * **Syncronization** - 
+  * **TCG** - 
+  * **TCP** - 
+  * **TDM** - 
+  * **TE** - , 
+  * **TEAP** - 
+  * **TEE** - 
+  * **TLS** - , , , 
+  * **TURN** - 
+  * **TWAMP** - 
+  * **Threat Mitigation** - , 
+  * **Throughput** - , 
+  * **Time** - , 
+  * **Token Introspection** - 
+  * **Traffic Engineering** - 
+  * **Transition** - 
+  * **Transport** - , , , , , 
+  * **Transport-independent API** - 
+  * **Traversal** - 
+  * **Trill** - 
+  * **TrustZone** - 
+  * **Trusted Boot** - 
+  * **Trusted Execution** - 
+  * **Tunnel** - , , 
+  * **Tunnels** - 
+  * **UDP** - , , 
+  * **ULA** - 
+  * **Upgrades** - 
+  * **V2V** - 
+  * **V2X** - 
+  * **VCCV** - 
+  * **VOD** - 
+  * **VPN** - 
+  * **Vcard** - 
+  * **Vehicle** - 
+  * **Video** - , , , 
+  * **Video Distribution** - 
+  * **Virtual Circuit** - 
+  * **Virtualization** - , 
+  * **Vlc** - 
+  * **Voip** - , , , 
+  * **Web** - 
+  * **Web Applications** - 
+  * **Web Services** - , 
+  * **Webm** - 
+  * **Where To Go Next** - 
+  * **WiFi** - 
+  * **Wireless** - , , 
+  * **X.509** - , , , 
+  * **YANG** - , , 
+_updated 20240422_
+## 
+        
+####  About 
+            
+####  Technologies 
+          
+####  Meetings 
+          
+####  Process 
+      
+####  Participate 
+        
+####  Support us 
+        
+    
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to main content<button>
+<button>About<button>
+<button>Introduction to the IETF<button>
+<button>Participants<button>
+<button>Mission<button>
+<button>Principles<button>
+<button>The work<button>
+<button>Internet Engineering Steering Group<button>
+<button>Internet Architecture Board<button>
+<button>Internet Research Task Force<button>
+<button>Liaison relationships<button>
+<button>Nominating Committee<button>
+<button>IETF Trust<button>
+<button>RFC Editor<button>
+<button>Independent Submissions Editor<button>
+<button>Legal request procedures<button>
+<button>Legal requests<button>
+<button>IETF Administration LLC<button>
+<button>Administrative announcements<button>
+<button>Administrative reports<button>
+<button>IETF Administration LLC Board<button>
+<button>IETF Administration LLC Staff<button>
+<button>Financial statements<button>
+<button>RFPs and contracts<button>
+<button>Administrative policies and procedures<button>
+<button>IETF LLC transparency report<button>
+<button>Technologies<button>
+<button>Automated network management<button>
+<button>The Internet of Things<button>
+<button>New transport technology<button>
+<button>Security & privacy<button>
+<button>Domain Name System<button>
+<button>IETF Areas<button>
+<button>Working Group keywords<button>
+<button>Agentic AI communications: Identifying the standards we need<button>
+<button>Enabling Publishers to Express Preferences for AI Crawlers: An Update on the AIPREF Working Group<button>
+<button>Preventing Internet Route Hijack with SIDRops Technology<button>
+<button>End-to-end encryption based on the IETF-developed Messaging Layer Security set be used on 100s of millions of mobile devices<button>
+<button>The new GREEN working group gets ready for an energy efficient Internet<button>
+<button>Meetings<button>
+<button>IETF 126 Vienna<button>
+<button>IETF 127 San Francisco<button>
+<button>Upcoming meetings<button>
+<button>Past meetings<button>
+<button>Interim meetings<button>
+<button>IETF Hackathons<button>
+<button>Code Sprint<button>
+<button>Preparing for an IETF Meeting<button>
+<button>Guide to IETF Meetings<button>
+<button>IETF meeting terms and conditions<button>
+<button>New Participants<button>
+<button>IETF Guides program<button>
+<button>Meeting network and technology<button>
+<button>Meetecho guide for participants<button>
+<button>Visas and Letters of Invitation<button>
+<button>Meeting Registration Fee Waivers<button>
+<button>Onsite Childcare<button>
+<button>Meeting planning<button>
+<button>Meeting sponsorship<button>
+<button>Side meetings and private meetings<button>
+<button>Process<button>
+<button>Internet standards process<button>
+<button>Guide to IETF Working Groups<button>
+<button>Birds of a Feather (BOF)<button>
+<button>Protocol registries (IANA)<button>
+<button>Intellectual property rights (IPR)<button>
+<button>Directorates and teams<button>
+<button>Informal guide to IETF process documents<button>
+<button>Bringing new work to the IETF<button>
+<button>About RFCs<button>
+<button>Availability and use<button>
+<button>Publication formats<button>
+<button>Statuses<button>
+<button>Publication streams<button>
+<button>Corrections and errata<button>
+<button>Reporting protocol vulnerabilities to the IETF<button>
+<button>Choosing between Informational and Experimental Status<button>
+<button>The role of the IESG in the Standards process<button>
+<button>IESG ballot procedures<button>
+<button>Participate<button>
+<button>Getting started in the IETF<button>
+<button>Internet-Drafts<button>
+<button>IETF Systers<button>
+<button>Mailing lists<button>
+<button>Tools and services<button>
+<button>Open records<button>
+<button>Roles in the IETF<button>
+<button>Note Well - A reminder of IETF policies<button>
+<button>IETF/IRTF/IAB Privacy Statement<button>
+<button>Support us<button>
+<button>Why we need your support<button>
+<button>IETF financial supporters<button>
+<button>Donate to the IETF<button>
+<button>IETF Endowment<button>
+<button>Other ways to give<button>
+<button>Technical foundations for business<button>
+<button>Running Code<button>
+<button>Sustainability<button>
+<button>Diversity and Inclusion<button>
+<button>Open Internet<button>
+<button>News & blog<button>
+<button>Search<button>
+<button>Administration<button>
+<button>Privacy and policies<button>
+<button>Contact us<button>
+<button>IETF LLC<button>
+
+----- WebWalker -----
+The "Working Group keywords" section lists various keywords related to IETF working groups but does not mention an experiment started in September 2006. I will explore other sections related to experiments or specific working groups to find more relevant information.
+
+Action: visit_page
+Action Input: {"button": "Meetings"}
+
+----- VisitPage -----
+The web information is:
+
+
+ ](
+  * About 
+!
+#####  
+    ###### Introduction to the IETF
+                    ###### Structure of the IETF
+                                ###### Legal requests
+        ###### Administration
+                                      * Technologies 
+The IETF works on a broad range of networking technologies that provide the foundation for the Internet's growth and evolution.
+!
+#####  
+                ###### IETF technologies in action
+    ###### IETF technology groups
+        ###### Recent posts about IETF technologies
+                      * Meetings 
+While most IETF work takes place online, meetings and other events such as Hackathons provide in-person opportunities to advance work within the IETF.
+!
+#####  
+                            ###### Participation information
+                                        ###### Organizing meetings
+              * Process 
+The IETF is the premier Internet standards organization. It follows open and well-documented processes for setting these standards. Once published, those standards are made freely available.
+#####  
+                                ###### RFCs
+                                ###### Standards process details
+                      * Participate 
+The global IETF community works together in many different ways to produce high quality, relevant technical documents that influence the way people design, use, and manage the Internet.
+#####  
+            ###### Tools and services
+                        ###### Participation guides
+            ###### Key policies
+                                  * Support us 
+By supporting the IETF today, you are ensuring a free and open Internet exists tomorrow.
+!
+#####  
+            ###### Ways to give
+                ###### Supporting values
+                
+    
+Go
+  1. 
+# Meetings
+While most IETF work takes place online, meetings and other events such as Hackathons provide in-person opportunities to advance work within the IETF.
+  * !
+## 
+IETF Meetings are held three times per year around the world to promote in-person attendance by IETF participants. Interim meetings are organized between IETF meetings to focus on specific issues
+  * !
+## 
+The work of the IETF is largely conducted over mailing lists; however, some working groups also occasionally hold "interim" meetings, either face-to-face or virtually.
+  * !
+## 
+List of all previous IETF plenary meetings, records of the proceedings and post-meeting surveys. The 'Proceedings' of a meeting is where you find links to the agenda, minutes, presentations, video …
+  * !
+## 
+A detailed guide to IETF meetings, how they work, what to expect, and how to get the best from them.
+  * !
+## 
+We use a variety of technologies to support meetings which we recommend participants are familiar with to get the most from the meetings.
+  * !
+## 
+The IETF provides limited support for meetings held during IETF meetings that are not part of the official agenda.
+  * !
+## 
+Information about how we plan where and when to hold our meetings, the community requirements that we aim to fulfill in venue selection, and policies regarding meeting planning.
+## Upcoming events
+  * ### 
+Vienna, Austria
+  * ### 
+San Francisco, California
+####  About 
+            
+####  Technologies 
+          
+####  Meetings 
+          
+####  Process 
+      
+####  Participate 
+        
+####  Support us 
+        
+    
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Skip to main content<button>
+<button>About<button>
+<button>Introduction to the IETF<button>
+<button>Participants<button>
+<button>Mission<button>
+<button>Principles<button>
+<button>The work<button>
+<button>Internet Engineering Steering Group<button>
+<button>Internet Architecture Board<button>
+<button>Internet Research Task Force<button>
+<button>Liaison relationships<button>
+<button>Nominating Committee<button>
+<button>IETF Trust<button>
+<button>RFC Editor<button>
+<button>Independent Submissions Editor<button>
+<button>Legal request procedures<button>
+<button>Legal requests<button>
+<button>IETF Administration LLC<button>
+<button>Administrative announcements<button>
+<button>Administrative reports<button>
+<button>IETF Administration LLC Board<button>
+<button>IETF Administration LLC Staff<button>
+<button>Financial statements<button>
+<button>RFPs and contracts<button>
+<button>Administrative policies and procedures<button>
+<button>IETF LLC transparency report<button>
+<button>Technologies<button>
+<button>Automated network management<button>
+<button>The Internet of Things<button>
+<button>New transport technology<button>
+<button>Security & privacy<button>
+<button>Domain Name System<button>
+<button>IETF Areas<button>
+<button>Working Group keywords<button>
+<button>Agentic AI communications: Identifying the standards we need<button>
+<button>Enabling Publishers to Express Preferences for AI Crawlers: An Update on the AIPREF Working Group<button>
+<button>Preventing Internet Route Hijack with SIDRops Technology<button>
+<button>End-to-end encryption based on the IETF-developed Messaging Layer Security set be used on 100s of millions of mobile devices<button>
+<button>The new GREEN working group gets ready for an energy efficient Internet<button>
+<button>Meetings<button>
+<button>IETF 126 Vienna<button>
+<button>IETF 127 San Francisco<button>
+<button>Upcoming meetings<button>
+<button>Past meetings<button>
+<button>Interim meetings<button>
+<button>IETF Hackathons<button>
+<button>Code Sprint<button>
+<button>Preparing for an IETF Meeting<button>
+<button>Guide to IETF Meetings<button>
+<button>IETF meeting terms and conditions<button>
+<button>New Participants<button>
+<button>IETF Guides program<button>
+<button>Meeting network and technology<button>
+<button>Meetecho guide for participants<button>
+<button>Visas and Letters of Invitation<button>
+<button>Meeting Registration Fee Waivers<button>
+<button>Onsite Childcare<button>
+<button>Meeting planning<button>
+<button>Meeting sponsorship<button>
+<button>Side meetings and private meetings<button>
+<button>Process<button>
+<button>Internet standards process<button>
+<button>Guide to IETF Working Groups<button>
+<button>Birds of a Feather (BOF)<button>
+<button>Protocol registries (IANA)<button>
+<button>Intellectual property rights (IPR)<button>
+<button>Directorates and teams<button>
+<button>Informal guide to IETF process documents<button>
+<button>Bringing new work to the IETF<button>
+<button>About RFCs<button>
+<button>Availability and use<button>
+<button>Publication formats<button>
+<button>Statuses<button>
+<button>Publication streams<button>
+<button>Corrections and errata<button>
+<button>Reporting protocol vulnerabilities to the IETF<button>
+<button>Choosing between Informational and Experimental Status<button>
+<button>The role of the IESG in the Standards process<button>
+<button>IESG ballot procedures<button>
+<button>Participate<button>
+<button>Getting started in the IETF<button>
+<button>Internet-Drafts<button>
+<button>IETF Systers<button>
+<button>Mailing lists<button>
+<button>Tools and services<button>
+<button>Open records<button>
+<button>Roles in the IETF<button>
+<button>Note Well - A reminder of IETF policies<button>
+<button>IETF/IRTF/IAB Privacy Statement<button>
+<button>Support us<button>
+<button>Why we need your support<button>
+<button>IETF financial supporters<button>
+<button>Donate to the IETF<button>
+<button>IETF Endowment<button>
+<button>Other ways to give<button>
+<button>Technical foundations for business<button>
+<button>Running Code<button>
+<button>Sustainability<button>
+<button>Diversity and Inclusion<button>
+<button>Open Internet<button>
+<button>News & blog<button>
+<button>Search<button>
+<button>Administration<button>
+<button>Privacy and policies<button>
+<button>Contact us<button>
+<button>IETF LLC<button>

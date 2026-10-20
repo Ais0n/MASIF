@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0658_ef33ad873b19",
+  "source_index": 658,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年6月底，西华大学计算机与软件工程学院计算机科学与技术专业本科生第二党支部邀请哪位干部为其讲解党课？",
+  "prompt": "在2024年6月底，西华大学计算机与软件工程学院计算机科学与技术专业本科生第二党支部邀请哪位干部为其讲解党课？",
+  "expected_answer": "西华大学教务处副处长付成华",
+  "root_url": "https://cs.xhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xhu.edu.cn/56/c1/c10301a218817/page.htm"
+    ],
+    "golden_path": [
+      "root->党建学生工作->下一页>>->计算机与软件工程学院计算机科学与技术专业本科生第二党支部联系..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 49.866,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0658_ef33ad873b19/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0658_ef33ad873b19/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

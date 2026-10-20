@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0345_5edc7e2ddd8b",
+  "source_index": 345,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在安徽大学计算机科学与技术学院2020级英才班选拔考试中，高等数学后的哪项考试是在博学南楼B201进行的？",
+  "prompt": "在安徽大学计算机科学与技术学院2020级英才班选拔考试中，高等数学后的哪项考试是在博学南楼B201进行的？",
+  "expected_answer": "英语",
+  "root_url": "https://cs.ahu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.ahu.edu.cn/2021/0918/c10982a269533/page.htm"
+    ],
+    "golden_path": [
+      "root->教学通知-><<上一页->2020级计算机科学与技术学院英才班选拔考试名单及考试安排"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 6,
+  "duration_seconds": 44.822,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0345_5edc7e2ddd8b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0345_5edc7e2ddd8b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

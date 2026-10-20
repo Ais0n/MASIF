@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0192_2a13a218c89c",
+  "source_index": 192,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the two primary reasons the IIP-49 proposal was declined and the IIP-51 proposal was approved by the Illuvium Council?",
+  "prompt": "What are the two primary reasons the IIP-49 proposal was declined and the IIP-51 proposal was approved by the Illuvium Council?",
+  "expected_answer": "IIP-49 was declined for focusing on non-core features, overlapping with existing systems, and inefficiency, whereas IIP-51 was approved for effectively addressing community concerns, improving participant incentives, and demonstrating strong DAO collaboration.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-may-2024"
+    ],
+    "golden_path": [
+      "root->News->Illuvium DAO Governance Newsletter - May 2024"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 13.824,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0192_2a13a218c89c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0192_2a13a218c89c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

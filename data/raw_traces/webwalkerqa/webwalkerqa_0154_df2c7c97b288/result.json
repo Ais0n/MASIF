@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0154_df2c7c97b288",
+  "source_index": 154,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "索尼在中国连续多少个财年实现100%可再生能源用电的目标？",
+  "prompt": "索尼在中国连续多少个财年实现100%可再生能源用电的目标？",
+  "expected_answer": "四个",
+  "root_url": "https://www.sony.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/corporate/2024/241107-3.html.html"
+    ],
+    "golden_path": [
+      "root->索尼连续19年发布《索尼中国可持续发展报告》 以绿色、感动、责任共筑…"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 22,
+  "tool_calls": 8,
+  "duration_seconds": 65.291,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0154_df2c7c97b288/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0154_df2c7c97b288/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

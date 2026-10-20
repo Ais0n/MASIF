@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0175_24573b2ce92c",
+  "source_index": 175,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "广州大学计算机科学与网络工程学院2019年5月14日，加拿大阿尔伯塔大学的哪位教授在广州大学的行政西楼前座428会议室进行了主题为“Graduate Studies and Research”的学术报告，其主要研究方向涉及哪些领域？",
+  "prompt": "广州大学计算机科学与网络工程学院2019年5月14日，加拿大阿尔伯塔大学的哪位教授在广州大学的行政西楼前座428会议室进行了主题为“Graduate Studies and Research”的学术报告，其主要研究方向涉及哪些领域？",
+  "expected_answer": "Witold Pedrycz教授；计算智能、模糊建模、粒计算和数据挖掘",
+  "root_url": "https://jsj.gzhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsj.gzhu.edu.cn/info/1232/1671.htm"
+    ],
+    "golden_path": [
+      "root->加拿大阿尔伯塔大学Witold Pedrycz教授应邀来我院..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 73.942,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0175_24573b2ce92c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0175_24573b2ce92c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

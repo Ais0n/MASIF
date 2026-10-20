@@ -1,0 +1,983 @@
+----- user -----
+query:
+在2024年10月29日广东工业大学计算机学院举办的第十一届青年教师教学竞赛中，共有多少名参赛教师，并有多少名教师被推荐代表学院参加学校复赛？
+official website:
+https://cs.gdut.edu.cn/
+Observation:website information:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+  * !
+  * !
+  * !
+  * !
+学院新闻
+ 
+]( 
+     
+2026.04.22 
+]( 
+     
+2026.04.13      
+2026.04.30      
+2026.04.30      
+2026.04.27      
+2026.04.21
+学院通知
+                            
+  
+学工动态
+  *  04-24
+  *  04-22
+  *  04-13
+  *  03-09
+  *  03-09
+  *  12-29
+  *  12-12
+  *  12-10
+  *  12-09
+  *  12-09
+  *  11-19
+  *  11-17
+  *  11-12
+  *  11-07
+招生就业
+  *  04-18
+  *  04-18
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  04-11
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  *  03-29
+  
+焦点展示
+  
+  
+  
+|   
+ |   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+|   
+ |   
+ | ]( |  
+| --- |  
+再创佳绩！计算机学院获校足球...
+|   
+ | ]( |  
+| --- |  
+计算机学院在第十八届“挑战杯...
+|   
+ | ]( |  
+| --- |  
+学校ACM队首进CCPC全国四强 刷...
+|   
+ | ]( |  
+| --- |  
+新学期，首篇Nature子刊来啦！
+|   
+ | ]( |  
+| --- |  
+历史新突破！主赛道首金，强势...
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院学子在2023年...
+|   
+ | ]( |  
+| --- |  
+全群保研！7个广工娃的逐梦之旅！
+|   
+ | ]( |  
+| --- |  
+喜报！计算机学院新增博士后科...
+|   
+ | ]( |  
+| --- |  
+历史新突破！计算机学院党员学...
+|   
+ | ]( |  
+| --- |  
+蝉联冠军！计算机学院创新创业...
+ |  
+ |  
+ |  
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+clickable button:
+
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>Previous<button>
+<button>Next<button>
+<button>更多+<button>
+<button>计算机学院举办中国国际大学生创新大赛（2026）院级选拔赛<button>
+<button>越秀校友会到计算机学院调研交流<button>
+<button>计算机学院办公室与实验室党支部开展《讲述家乡红色故事·凝聚砥砺...<button>
+<button>对话·成长·担当——计算机学院开展新学期“书记院长下午茶”活动<button>
+<button>计算机学院赴深圳开展访企拓岗与校友走访活动<button>
+<button>计算机学院党委书记、院长为学生讲授“思政第一课”<button>
+<button>更多+<button>
+<button>关于公布2026年接收转入计算机类第一轮笔试名单、ACM队员直接进入第二轮面...<button>
+<button>关于开展“励行领航者计划”出国研学项目申报工作的通知<button>
+<button>计算机学院2026年硕博连读及申请考核博士研究生招生综合考核结果公示<button>
+<button>2026年计算机学院报考博士研究生通过学院资格初审名单公示<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（二）<button>
+<button>​计算机学院转专业实施办法（2026年）<button>
+<button>广东工业大学计算机学院硕士研究生招生调剂通知（第1批）<button>
+<button>计算机学院2026年硕士研究生招生复试成绩公示（一）<button>
+<button>计算机学院2026年硕士研究生招生复试工作方案<button>
+<button>计算机学院2026年计算机科学与技术专业 博士研究生招生实施细则<button>
+<button>计算机学院2026年“电子信息”专业型博士研究生招生细则<button>
+<button>计算机学院2026年1月临时困难资助公示<button>
+<button>计算机学院“澳硕班”2025年招生拟录取名单公示（二）<button>
+<button>2025年“绿盟公益基金-教育奖助学金” 获奖名单公示<button>
+<button>更多+<button>
+<button>赓续红色薪火·智创科技未来｜计算机学院第二十六届电脑文化节系列活动...<button>
+<button>践行优良学风，建设美丽校园 | 计算机学院举行“凝心聚力创一流，强国...<button>
+<button>学工部领导带队调研指导计算机学院“三进三促”工作<button>
+<button>【心海计划】计算机学院召开心委寒假返校工作会议<button>
+<button>计算机学院召开新学期学生工作研讨会<button>
+<button>计算机学院多维联动织密学风建设网 推动“强学风·树新风”专项行动走...<button>
+<button>IT青年“开放麦”开讲啦|计算机学院顺利举办第三届实践育人成果报告会<button>
+<button>暖心护航，“计”刻上岸——计算机学院开展考研送温暖活动<button>
+<button>四院联合举办2026届毕业生秋季校园招聘会圆满收官<button>
+<button>广工IT“小海豚”集合啦！以青春之名，赴全运之约！<button>
+<button>职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选...<button>
+<button>计算机学院组织学工队伍及学生骨干参观华南人民抗战历史专题展<button>
+<button>计算机学院研究生会功能型团支部成立并开展第一次主题团日活动​<button>
+<button>计算机学院赴沪宁高校调研教育部辅导员名师工作室建设<button>
+<button>更多+<button>
+<button>企业招聘信息汇编（一百一十）<button>
+<button>企业招聘信息汇编（一百零九）<button>
+<button>企业招聘信息汇编（一百零八）<button>
+<button>企业招聘信息汇编（一百零七）<button>
+<button>企业招聘信息汇编（一百零六）<button>
+<button>企业招聘信息汇编（一百零五）<button>
+<button>企业招聘信息汇编（一百零四）<button>
+<button>企业招聘信息汇编（一百零三）<button>
+<button>企业招聘信息汇编（一百零二）<button>
+<button>企业招聘信息汇编（一百零一）<button>
+<button>企业招聘信息汇编（一百）<button>
+<button>企业招聘信息汇编（九十九）<button>
+<button>企业招聘信息汇编（九十八）<button>
+<button>企业招聘信息汇编（九十七）<button>
+<button>更多+<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到关于2024年10月29日广东工业大学计算机学院第十一届青年教师教学竞赛的相关信息，包括参赛教师人数和被推荐参加学校复赛的教师人数。首先，我应该访问学院新闻页面，查看是否有相关公告或新闻。
+
+Action: visit_page
+Action Input: {"button": "学院新闻"}
+
+----- VisitPage -----
+Button not found: 学院新闻
+
+----- WebWalker -----
+Thought: 看来“学院新闻”按钮无法点击，我需要尝试其他可能的按钮来找到相关信息。考虑到竞赛信息通常会出现在新闻或通知页面，我会尝试访问“学院通知”页面。
+
+Action: visit_page
+Action Input: {"button": "学院通知"}
+
+----- VisitPage -----
+Button not found: 学院通知
+
+----- WebWalker -----
+Thought: “学院通知”按钮也无法点击，我需要尝试其他可能的页面。考虑到竞赛信息可能出现在新闻或公告中，我会尝试访问“本科教育”页面，因为教学竞赛通常与教学相关。
+
+Action: visit_page
+Action Input: {"button": "本科教育"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+本科教育
+      
+###  本科招生
+当前位置:  >>  >> 
+**计算创造未来**
+**——博学、笃行、求变**
+**一、学院介绍**
+广东工业大学于1984年创办“计算机应用专业”。计算机科学与技术学科自1997年连续四轮被评为广东省重点学科，2012年被评为第九轮广东省优势重点学科（全省4所高校之一）。2021年计算机学院获批“计算机科学与技术”一级学科博士点，2023年获批博士后流动站，每年招收硕、博士研究生超400名。计算机科学ESI排名全球前1‰，全国第35位；第五轮学科评估连续攀撑两级。2024年，计算机科学与技术专业作为全校唯一的工科专业，入选广东省“长基计划”种子专业，现建有全校唯一的长基计划拔尖创新人才培养实验区。2025年，计算机学院获批全国首批工业软件专业。
+**二、专业培养**
+依托智能制造信息物理融合集成技术国家地方联合工程研究中心等11个国省级重大科研平台，从本科开始培养能解决“卡脖子技术”难题的未来高级工程师、科学家与企业家。
+  
+!
+图1重大科研平台牵引人才培养
+2025年，计算机学院招生分两类，第一类是人工智能创新班、第二类是计算机类。计算机类所有学生第一年大类培养，第二学期由学生根据自己的兴趣、爱好填报平行志愿，再根据学生第一学期成绩和志愿，从第二学年秋季学期开始选择各专业学习发展。计算机类分流包括：计算机科学与技术伏羲班、软件工程卓越班、网络空间安全强国班三个特色班，以及计算机科学与技术、软件工程两个国家一流专业的平行班。特色班按照绩点优先原则报名选拔（不报不录），平行班选拔第一学期绩点3.0以上学生可任选专业。
+  
+**三、特色班级**
+  * **人工智能创新班**
+人工智能创新班（简称：仝创）采取高考直招方式，每年度招生35人，小班制、导师制培养。在奖学金、研究生推免、产教融合与科教融合培养等方面，依学校政策给予倾斜。同时，设立退出机制，如前两学年学生因故无法坚持创新班学习，可自愿选择转至计算机学院其他专业的平行班继续学习。
+  * **计算机科学与技术伏羲班**
+计算机科学与技术伏羲班（简称：伏羲）进校后通过计算机类分流产生，是我校为服务国家战略、服务粤港澳大湾区单列设立的特色班级，与创新班共同对接“华为智能基座产教协同育人计划”。伏羲班取名自伏羲易学，取义为：不忘初心，牢记使命，始于中华文化之源，开拓自强之路。
+  * **软件工程卓越班**
+软件工程卓越班（简称：卓越）进校后通过计算机类分流产生，依托广东工业大学工业软件产业学院（省示范性现代产业学院），与华为云计算技术有限公司、广东省工业软件学会深度合作，联合培养从事国产自主可控的工艺知识自动化、工业软件组件化等领域的国产工业软件生态人才。
+  * **网络空间安全强国班**
+网络空间安全强国班（简称：强国）进校后通过计算机类分流产生，与360、奇安信等知名安全企业对接、注重实操，以“强实战”、“强实习”的姿态全面强化对网络空间安全人才培养，毕业后优先面向国家政法机关输送。
+  
+**  
+**
+!
+图2华为昇腾/鲲鹏生态课程体系
+  * **软件工程（3+1国际班）**
+高考直招，采用“3+1”模式在大学城计算机学院直接培养。即学生前3年在我校软件工程专业学习，第4年可选择到英国东英吉利大学攻读硕士（QS Ranking全球第332，在英国130所高校中位列第21名），可选择专业包括：软件工程、计算机、人工智能、网络安全等，四年修完本硕课程。
+说明：本科广工文凭，硕士外方文凭。英硕班除每年6,850元学费外，前3年每年加收33,800元国际化培养费，第4年留在大学城校区按国际化培养模式完成专业学习的学生，加收48,000元国际化培养费（出国则不收取）。在合作方高校就读，费用由对方收取，中介服务费用约228,00元。英方出国要求前三年课程均分75分及以上，雅思6.0及以上。建议海外升学，去留可选。
+  * **计算机科学与技术（澳硕班）**
+非高考直招，进校后第1学期（每年11-12月）从全校选考含物理科目的新生中选拔（选拔过程不另加考试，仅以高考排名为准），采用“3+1+X”模式在大学城计算机学院直接培养。即学生前3年在我校计算机科学与技术专业学习，第4年可选择到合作方澳大利亚的高校攻读预硕，第X年攻读合作方高校硕士。澳方的合作院校为：新南威尔士大学（QS全球第19，学制：3+1+2）、悉尼科技大学（QS全球第88，学制3+1+1）。
+说明：本科广工文凭，硕士外方文凭。澳硕班除每年6,850元学费外，前3年每年加收38,000元国际化培养费，具体收费从第二学期开始计算（第二学期记作半学年，收费19,000元），合计收取95,000国际化培养费。第四学年无论学生出国与否，不再加收国际化培养费，如出国则按项目合作高校收费标准执行（费用由对方收取），中介服务费用约8,000元。澳方为均分76及以上，雅思6.5及以上。建议海外升学，去留可选。
+**特殊说明：** 澳洲高校海外合作计划，计算机学院除英硕班外的其他学生达到相应条件，在大学三年级均可自主选择参与，不另加收国际化培养费。
+**四、学生风采**
+学院科研成果使用贯穿教学全过程，由此建立“双向四维”平台，协同“科教融合、产教融合”双向，打通“教师维/学生维/企业维/产业维”四维，培养学生实战创新能力，解决人才培养和产业需求不对称问题。
+  
+**学院学子三次杀入****ACM ICPC 全球Final（2010/2018/2019），2018****年****全球第 31名****，力压号称全球软件工程排名第一的卡耐基梅隆大学； 2019年全国唯一地方院校，杀入全球总决赛。**
+!
+图3学以致用创新为魂
+学院近五年国家级和省级大创项目立项110项，总数连续多年位列全校前茅，学生创新活动和科技竞赛成果显著，累计获省级以上奖项 1842项，其中国家级奖项 754 项，包括“挑战杯”全国大学生课外学术科技作品竞赛国赛专项赛特等奖、中国国际大学生创新大赛国赛金奖、中国机器人大赛冠军的最高荣誉。2024 年发布的“2012-2023 年全国普通高校大学生计算机类竞赛状态数据”中，**排名全国并列第 12位，位列TOP3%**。学院紧跟学校发展步伐，在高校学科竞赛方面不断刷新纪录。学校在全国学科竞赛排行榜名列全国第14位，**其中计算机学院自 2016年起连续8年贡献率超50%。**
+**五、就业深造**
+**对标行业：** 公务员及事业单位、新一代信息技术与软件服务业。
+**职业发展标签：** 算法工程师、AI工程师、数据工程师、全栈工程师、软件工程师、算法开发工程师、AI开发工程师、数据开发工程师、网络安全工程师等。  
+**就业单位：** 机关事业单位、华为、百度、阿里巴巴、腾讯、字节跳动、一张网、两桶油、三大运营商、四大行等。建有全校唯一的两大就业平台：教育部-腾讯就业实习基地/人力资源提升计划、教育部-字节跳动就业实习基地/人力资源提升计划。
+**深造院校：** 广工、清华、北大、中科院、复旦、港科大、卡耐基梅隆大学、美国东北大学、罗彻斯特理工、约翰霍普金斯大学等中外知名大学。
+****六、优秀代表学子****  
+| !  |    
+王敬超，2021级人工智能专业，毕业于广州市天河中学 主要成就：在本科学习期间，荣获科创奖学金，以第一作者身份，共发表CCF A类会议论文3篇、中科院JCR一区论文2篇、IEEE Trans.论文1篇。 毕业去向：保研北京大学（直博）   
+ |  
+| --- | --- |  
+| !  |    
+陈俊仰,2021级人工智能专业,毕业于茂名市第一中学 主要成就：在本科学习期间，获得广东工业大学奖学金2次和“优秀共青团员”称号，以第一作者身份，发表中科院JCR一区论文1篇（医工结合方向）、CCF A类顶会论文1篇。 毕业去向：保研至清华大学   
+ |  
+| !  |    
+徐永祺,2021级计算机科学与技术（伏羲班）,毕业于广州市真光中学 主要成就：在本科学习期间，获得多次优秀学生奖学金，华为智能基座奖学金、明动优秀学生奖学金等。共发表了9篇论文，包括：CCF A类顶会论文2篇、中科院JCR一区论文3篇，并申请发明专利2项，以实验室负责人身份主持了国家级、省级大创项目多项。 毕业去向：保研至北京大学   
+ |  
+****七、******招生咨询**  
+①学院招生QQ群：
+  
+!!
+  
+  
+②学院网址：
+③学院官方微信公众号：
+!
+  
+④咨询电话020-39322287或致电刘冬宁博士/教授/博导、副院长15322378506 
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+
+----- WebWalker -----
+Thought: 本科教育页面没有找到与青年教师教学竞赛相关的信息，我需要尝试访问“科学研究”页面，因为教学竞赛可能与科研活动有关。
+
+Action: visit_page
+Action Input: {"button": "科学研究"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+科学研究
+          
+###  科研概况
+当前位置:  >>  >> 
+计算机学院现有专任教师117人，其中教授28人、副教授41人，享受国务院特殊津贴专家4人，科研师资队伍雄厚。
+多年来，学院重视科研团队建设，现有“智能调度与可信计算团队”、”信息物理融合系统团队”、 “数据挖掘与信息检索团队” 、“高性能计算与数据科学团队”、 “网络信息安全团队”、“智能医学计算团队”等一批年富力强的、高水平的科研团队，承担了一批国家和省级的重大专项项目，积极为地方经济发展服务，大力发展产学研合作，成效显著。
+近五年来，计算机学院教师承担科研项目451项，其中纵向项目217项，横向项目234项；科研经费近2亿元，科研经费逐年提高；发表SCI期刊论文469篇；专利授权477件，著作权233项，获“广东省科学技术奖一等奖”等省市级以上奖项10多项。
+代表性科研项目  
+| **序号**  | **项目名称**  | **主持人**  | **经费(万元)**  | **项目来源**  | **下达单位、时间**  |  
+| --- | --- | --- | --- | --- | --- |  
+| 1  | 工业软件组件通用模型、理论及其应用方法研究  | 程良伦  | 1579  | 国家自然科学基金  | 2021.01-2024.12  |  
+| 2  | 因果推理与决策理论模型研究  | 蔡瑞初  | 500  | 国家重点研发计划  | 2021.12-2025.11  |  
+| 3  | 供应链大数据全域建模与知识库构建技术  | 程良伦  | 331  | 国家重点研发计划  | 2019.12-2022.12  |  
+| 4  | 课堂流媒体跨模态知识元协同解析与评估方法  | 胡钦太  | 279  | 国家自然科学基金  | 2023.01-2027.12  |  
+| 5  | 产业链协作企业群群体智能理论和服务方法  | 刘冬宁  | 239  | 国家重点研发计划  | 2022.11-2025.10  |  
+| 6  | 高维异构数据因果推断理论与方法  | 蔡瑞初  | 200  | 国家自然科学基金  | 2022.01-2025.12  |  
+| 7  | 基于群智感知的分布式智能制造决策优化理论与方法  | 刘建圻  | 85  | 国家自然科学基金  | 2022.01-2025.12  |  
+| 8  | 数字化促进中国式教育现代化研究  | 胡钦太  | 50  | 国家社会科学基金  | 2024.01-2027.12  |  
+| 9  | 基于忆阻逻辑的三值忆阻神经网络原位训练架构设计及优化  | 刘鹏  | 55  | 国家自然科学基金  | 2024.01-2027.12  |  
+| 10  | 无线供能边缘网络中基于信息年龄的能量与数据协同调度算法研究  | 陈权  | 50  | 国家自然科学基金  | 2024.01-2027.12  |  
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+
+----- WebWalker -----
+Thought: 科学研究页面也没有找到与青年教师教学竞赛相关的信息，我需要尝试访问“学生工作”页面，因为教学竞赛可能与教师的教学能力有关。
+
+Action: visit_page
+Action Input: {"button": "学生工作"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+学生工作
+          
+###  学工动态
+当前位置:  >>  >> 
+  *  2026-04-24 
+  *  2026-04-22 
+  *  2026-04-13 
+  *  2026-03-09 
+  *  2026-03-09 
+  *  2025-12-29 
+  *  2025-12-12 
+  *  2025-12-10 
+  *  2025-12-09 
+  *  2025-12-09 
+  *  2025-11-19 
+  *  2025-11-17 
+  *  2025-11-12 
+  *  2025-11-07 
+  *  2025-11-06 
+  
+共395条 首页上页1...
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>赓续红色薪火·智创科技未来｜计算机学院第二十六届电脑文化节系列活动圆满落幕<button>
+<button>践行优良学风，建设美丽校园 | 计算机学院举行“凝心聚力创一流，强国兴校勇担当”升国旗主题教育活动<button>
+<button>学工部领导带队调研指导计算机学院“三进三促”工作<button>
+<button>【心海计划】计算机学院召开心委寒假返校工作会议<button>
+<button>计算机学院召开新学期学生工作研讨会<button>
+<button>计算机学院多维联动织密学风建设网 推动“强学风·树新风”专项行动走深走实<button>
+<button>IT青年“开放麦”开讲啦|计算机学院顺利举办第三届实践育人成果报告会<button>
+<button>暖心护航，“计”刻上岸——计算机学院开展考研送温暖活动<button>
+<button>四院联合举办2026届毕业生秋季校园招聘会圆满收官<button>
+<button>广工IT“小海豚”集合啦！以青春之名，赴全运之约！<button>
+<button>职规赛进行 | 计算机学院顺利举办第三届全国大学生职业规划大赛院级选拔赛<button>
+<button>计算机学院组织学工队伍及学生骨干参观华南人民抗战历史专题展<button>
+<button>计算机学院研究生会功能型团支部成立并开展第一次主题团日活动​<button>
+<button>计算机学院赴沪宁高校调研教育部辅导员名师工作室建设<button>
+<button>计算机学院举行“铭记历史当自强，奋勇逐梦谱华章”升国旗主题教育活动<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>27<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 学工动态页面显示了学生工作的相关活动，但没有直接提到青年教师教学竞赛。我需要尝试访问“规章制度”页面，因为教学竞赛可能与教学相关的规定有关。
+
+Action: visit_page
+Action Input: {"button": "规章制度"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+实验室建设
+                                            
+###  规章制度
+当前位置:  >>  >> 
+  *  2023-07-07 
+  
+共1条 首页上页1下页尾页
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>实验课程<button>
+<button>教学实验室<button>
+<button>实验研究项目<button>
+<button>实验研究获奖<button>
+<button>实验教改论文<button>
+<button>实验知识产权<button>
+<button>平台列表<button>
+<button>规章制度<button>
+
+----- WebWalker -----
+Thought: 规章制度页面也没有找到相关信息，我需要尝试访问“实验竞赛”页面，因为教学竞赛可能与实验或教学活动有关。
+
+Action: visit_page
+Action Input: {"button": "实验竞赛"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 实验竞赛页面未找到，我需要尝试访问“教师队伍”页面，因为教学竞赛通常与教师相关。
+
+Action: visit_page
+Action Input: {"button": "教师队伍"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ |  | !
+                                                                                                                                                                                                    
+教师队伍
+            
+###  师资概览
+当前位置:  >>  >> 
+# 教职员工名单
+                                                                                                                                                                                                                                                                                                                        
+ ](
+广州市番禺区广州大学城外环西路100号(510006)
+## 联系我们
+电话：020-39322279
+邮箱：jsj@gdut.edu.cn
+邮编：510006
+扫一扫
+  * ! !
+官方微信
+  * ! !
+官方微博
+  * ! !
+官方抖音
+  * ! !
+官方网站
+
+
+Clickable buttons are wrapped in <button> tag
+<button>English<button>
+<button>首页<button>
+<button>学院简介<button>
+<button>学院概况<button>
+<button>领导班子<button>
+<button>机构设置<button>
+<button>发展沿革<button>
+<button>人才招聘<button>
+<button>教师队伍<button>
+<button>师资概览<button>
+<button>高层次人才<button>
+<button>正高<button>
+<button>副高<button>
+<button>中级及以下<button>
+<button>教辅行政<button>
+<button>党建工作<button>
+<button>组织架构<button>
+<button>党务通知<button>
+<button>党建动态<button>
+<button>支部生活<button>
+<button>学习园地<button>
+<button>本科教育<button>
+<button>本科招生<button>
+<button>工程认证<button>
+<button>专业介绍<button>
+<button>研究生教育<button>
+<button>学科与学位点<button>
+<button>培养方案<button>
+<button>导师风采<button>
+<button>联合培养基地<button>
+<button>科学研究<button>
+<button>科研概况<button>
+<button>学科建设<button>
+<button>科研团队<button>
+<button>科研平台<button>
+<button>科研成果<button>
+<button>实验室建设<button>
+<button>中心简介<button>
+<button>实验教学<button>
+<button>实验教改<button>
+<button>实验设备<button>
+<button>实验平台<button>
+<button>实验安全<button>
+<button>实验竞赛<button>
+<button>规章制度<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>学生组织<button>
+<button>学子风采<button>
+<button>创新创业<button>
+<button>就业指南<button>
+<button>校友之窗<button>
+<button>校友会<button>
+<button>校友风采<button>
+<button>校友活动<button>
+<button>曾颖<button>
+<button>曾孜<button>
+<button>柴媛<button>
+<button>陈万德（博士后）<button>
+<button>陈伟霖（博士后）<button>
+<button>陈章雯<button>
+<button>崔洪刚<button>
+<button>邓诗雨<button>
+<button>刁嘉程<button>
+<button>丁国芳<button>
+<button>冯永晋<button>
+<button>付志鹏<button>
+<button>龚怡<button>
+<button>郝彦军<button>
+<button>侯文邦<button>
+<button>胡贵敏<button>
+<button>胡静（党委副书记）<button>
+<button>胡宇<button>
+<button>黄家乐（博士后）<button>
+<button>黄剑锋<button>
+<button>黄锴瀚<button>
+<button>江志文<button>
+<button>蒋骞<button>
+<button>蒋艳荣<button>
+<button>柯婷<button>
+<button>李风环<button>
+<button>李敏<button>
+<button>李小妹<button>
+<button>李峥<button>
+<button>梁路<button>
+<button>廖朝辉<button>
+<button>林放<button>
+<button>林志毅<button>
+<button>刘敬勇<button>
+<button>刘添添<button>
+<button>卢晓梅<button>
+<button>罗剑杰<button>
+<button>罗雯娜<button>
+<button>骆文君<button>
+<button>吕銮<button>
+<button>明俊峰<button>
+<button>庞书杰<button>
+<button>彭重嘉<button>
+<button>乔杰<button>
+<button>申建芳<button>
+<button>宋玮<button>
+<button>孙宣东<button>
+<button>孙宇婷<button>
+<button>谭帅帅<button>
+<button>汪明慧<button>
+<button>王秋杰<button>
+<button>王文兵<button>
+<button>魏鹏飞<button>
+<button>吴嘉鑫（博士后）<button>
+<button>吴朝锐（博士后）<button>
+<button>谢良<button>
+<button>谢敏珊<button>
+<button>谢锐<button>
+<button>许柏炎<button>
+<button>杨博<button>
+<button>杨劲涛<button>
+<button>杨凯茜<button>
+<button>杨文新 （党委书记）<button>
+<button>姚廉（博士后）<button>
+<button>叶林锋<button>
+<button>余乐<button>
+<button>袁茜茜<button>
+<button>袁雪<button>
+<button>张澄洋<button>
+<button>张金泉<button>
+<button>张荣跃<button>
+<button>张鑫祺<button>
+<button>张奕聪<button>
+<button>张宇华<button>
+<button>赵靖亮<button>
+<button>赵锐<button>
+<button>赵世慧<button>
+<button>周俭铁<button>
+<button>朱明耀<button>
+<button>朱盈<button>
+<button>Abdul Rasheed（博士后）<button>
+<button>Asad Mubarak（博士后）<button>

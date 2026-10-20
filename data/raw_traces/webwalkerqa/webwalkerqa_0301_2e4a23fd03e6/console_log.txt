@@ -1,0 +1,1029 @@
+----- user -----
+query:
+How many CCF-B level conference papers did Associate Professor Chen Chen from the Nankai University School of Computer Science publish between 2021 and 2023?
+official website:
+https://cc.nankai.edu.cn/
+Observation:website information:
+
+*{ -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: gray; } 
+! !
+!
+首页导航
+  * )
+  * )
+                                  * )
+          * )
+                                  * )
+                  * )
+          * )
+          * )
+      * )
+                                      * )
+          * )
+用户名：
+密码：
+验证码：!
+信 息 检 索
+  
+ ](javascript:void\(0\))  ](javascript:void\(0\))  ](javascript:void\(0\))  ](javascript:void\(0\))  ](javascript:void\(0\))  ](javascript:void\(0\))
+      
+     
+)
+        
+)
+     
+   
+   
+   
+   
+   
+ 2026-05-06 ](   
+   
+   
+Copyright © 2018 - 2020 南开大学计算机学院. All Rights Reserved 浏览次数: 1000
+!
+
+
+clickable button:
+
+<button>学院概况<button>
+<button>学院领导<button>
+<button>学院党委<button>
+<button>学科学术分委会<button>
+<button>学位评定分委会<button>
+<button>教代会、工会委员会<button>
+<button>专业技术职务评审分委员会<button>
+<button>学科结构<button>
+<button>计算机科学与技术学科<button>
+<button>人才计划<button>
+<button>教授/研究员<button>
+<button>副教授/副研究员<button>
+<button>讲师<button>
+<button>实验教学队伍<button>
+<button>博士后<button>
+<button>兼职教授<button>
+<button>退休人员<button>
+<button>本科教育<button>
+<button>研究生教育<button>
+<button>硕士生导师<button>
+<button>博士生导师<button>
+<button>系所中心<button>
+<button>学术团队<button>
+<button>合作院校分布<button>
+<button>联合培养项目<button>
+<button>招聘岗位<button>
+<button>最新动态<button>
+<button>学院公告<button>
+<button>学生工作通知<button>
+<button>科研信息<button>
+<button>本科生教学<button>
+<button>党团园地<button>
+<button>研究生招生<button>
+<button>研究生教学<button>
+<button>境外交流<button>
+<button>院长信箱<button>
+<button>计算机科学与技术系<button>
+<button>公共计算机基础教学部<button>
+<button>实验教学中心<button>
+<button>国家级虚拟仿真实验教学中心<button>
+<button>大数据技术研究所<button>
+<button>机器智能研究所<button>
+<button>系统与网络研究所<button>
+<button>“赓续‘豪密’红色基因 增强国家安全意识”联合主题党日活动成功举办04-27<button>
+<button>全国首届密码工程技术人员国家职业师资培训研讨班在南开大学开班04-27<button>
+<button>我院程明明教授牵头获得天津市自然科学一等奖04-24<button>
+<button>我院成功举办方班示范班第149期研讨厅现场课04-20<button>
+<button>2026年计算机学院、密码与网络空间安全学院转专业考核拟录取名单公示04-17<button>
+<button>教育部<button>
+<button>科技部<button>
+<button>中国科协<button>
+<button>国家自然科学基金委<button>
+<button>学信网<button>
+<button>南开大学计算机学院 密码与网络空间安全学院 劳务派遣制人员招聘公告2026-04-20<button>
+<button>讲座教授聘期考核公告2025-04-08<button>
+<button>人才聘期考核公告2025-04-08<button>
+<button>南开大学第二十届“特色宿舍”暨第九届“文明宿舍”评选的报名通知2026-04-22<button>
+<button>【补充通知】关于2024年秋季学期校际交换项目报名的补充通知2024-03-06<button>
+<button>【2026考研】关于延长我校第二批次“申请-考核”制博士研究生网上报名时间的通知2026-04-21<button>
+<button>【2026考研】密码与网络空间安全学院2026年硕士研究生招生考试少数民族高层次骨干计划（南疆高校教师专项）调剂复试结果公示（第二批次）2026-04-21<button>
+<button>【2026考研】密码与网络空间安全学院2026年硕士研究生招生考试进入少数民族高层次骨干人才计划（南疆高校教师专项）调剂复试考生名单公示（第二批次）2026-04-17<button>
+<button>【2026考研】密码与网络空间安全学院关于2026年硕士研究生少数民族高层次骨干人才计划（南疆高校教师专项）接收调剂公告（第二批次）2026-04-15<button>
+<button>【答辩公示】计算机学院、密码与网络空间安全学院研究生论文答辩公示（持续更新）2026-05-06<button>
+<button>【答辩公示】计网答辩公示2025-11-19<button>
+<button>【答辩公示】计算机学院 2025-2026 1年度 毕业答辩安排公示(持续更新)2025-11-18<button>
+<button>我院师生赴恩智浦人工智能应用创新中心参访 对话校友赴成长之约2026-04-21<button>
+<button>致敬永不消逝的红色电波 4·15全民国家安全教育日活动开展2026-04-20<button>
+<button>中国网络空间安全学会青年工作委员会成立仪式南开举行2026-04-14<button>
+<button>学院研究生学术沙龙剖析OpenClaw 智能体系统的工作原理与安全风险2026-04-07<button>
+<button>【转自交流处】“全球南开”公能人才全球成长计划｜ 马来西亚人文交流项目申请通知2026-03-27<button>
+<button>【转自交流处】应届本科生--关于2026年国家留学基金委国家建设高水平大学公派研究生项目的补充通知2026-03-24<button>
+<button>【转自交流处】关于2026年春季世界名校海外学习计划项目报名的通知2025-12-15<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the page where I can access information about Associate Professor Chen Chen's academic publications. A good starting point is to visit the "教授/研究员" (Professor/Researcher) section, which likely contains faculty profiles.
+
+Action: visit_page
+Action Input: {"button": "教授/研究员"}
+
+----- VisitPage -----
+The web information is:
+
+! !
+!
+首页导航
+  * )
+  * )
+                                  * )
+          * )
+                                  * )
+                  * )
+          * )
+          * )
+      * )
+                                      * )
+        
+师资队伍
+                
+!
+senchen@nankai.edu.cn
+软件安全
+!
+85358570
+人工智能、计算机视觉、图像视频大数据分析、计算机图形学
+!
+chengrh@nankai.edu.cn
+数据库技术及应用,大数据工程方法，智能控制与检测系统，软件性能工程
+!
+dingdan@nankai.edu.cn
+抗量子密码、全同态加密、计算机视觉、机器学习（深度学习）和神经网络、具身智能和机器人、人工智能芯片和密码芯片
+!
+人工智能、计算机视觉、认知计算、AI+科学计算、AI+生物医药、智能医学影像分析
+!
+gongxiaoli@nankai.edu.cn
+操作系统，物联网，异构计算系统
+!
+qing.guo@nankai.edu.cn
+可靠感知；AI安全；对抗攻击与防御；
+!
+cfjia@nankai.edu.cn
+网络与信息安全；可信计算与软件安全；恶意代码分析; 密码应用技术
+!
+liqicheng@nankai.edu.cn
+自然语言处理、虚拟现实、人机交互
+!
+Liqch@nankai.edu.cn
+嵌入式操作系统与信息安全
+!
+23506776
+litao@nankai.edu.cn
+异构计算, 智能物联网, 区块链系统, 人工智能
+!
+liyusen@nbjl.nankai.edu.cn
+并行与分布式系统，计算机系统结构
+!
+lichongyi@nankai.edu.cn
+计算机视觉、图像处理、计算成像
+!
+chengwei.liu@nankai.edu.cn
+软件安全，软件供应链安全，开源安全，智能软件安全
+!
+jianliu@nankai.edu.cn
+人工智能、IT+BT、生物医药大数据、生物信息学、精准医学
+!
+23504780
+liuxg74@hotmail.com
+云存储 搜索引擎 区块链系统 云计算/大数据平台 计算经济学
+!
+liuyun@nankai.edu.cn
+人工智能，计算机视觉，多模态大模型
+!
+liuzheli@nankai.edu.cn
+数据安全；人工智能安全
+!
+luye@nankai.edu.cn
+智能处理器芯片及系统，高性能嵌入式，异构计算
+!
+bo.ning@nankai.edu.cn
+算法的数学基础（图论中的核心问题）、组合优化、密码学
+!
+wenyl@nankai.edu.cn
+数据库系统实现、信息检索、知识图谱、信息系统集成
+!
+13501265572
+qinyong@nankai.edu.cn
+语音识别、语音合成、多模态人机交互、多模态情感计算、脑电波事件检测、自然语言处理、人脸和姿态合成
+!
+85358095
+rb@nankai.edu.cn
+计算机图形学，计算机视觉，人工智能
+!
+23509121
+shaoxl@nankai.edu.cn
+人工智能、数据分析、智能系统、CSCW协同控制
+!
+shenwei@nankai.edu.cn
+数据融合、自然语言处理、知识图谱、大语言模型
+!
+guolei.sun@nankai.edu.cn
+多模态大模型，大模型量化压缩，底层视觉，长视频理解
+!
+wangding@pku.edu.cn
+wangding@nankai.edu.cn
+公钥密码学，数字身份安全，人工智能安全
+!
+13612109237
+wgzwp@163.com
+海量信息存储、并行与分布式计算
+!
+wangjinwei@nankai.edu.cn
+人工智能安全、多媒体取证、信息隐藏
+!
+wangk@nankai.edu.cn
+人工智能，机器学习，工业大数据智能计算，计算机视觉
+!
+weijm@nankai.edu.cn;
+机器学习，数据挖掘，生物信息学, 生物医药及营养健康大数据
+!
+xujd@nankai.edu.cn
+计算机网络、移动边缘计算、视频传输、软件定义网络、网络安全等
+!
+yangjufeng@nankai.edu.cn
+计算机视觉、机器学习、多媒体计算
+!
+yangyl@nankai.edu.cn
+并行与分布式处理，系统结构，可重构系统，网格计算
+!
+85358477
+yangzl@nankai.edu.cn
+人工智能，数据挖掘，信息检索
+!
+23509175
+yuanxj@nankai.edu.cn
+数据库、知识工程、大数据技术、机器学习、Web检索与挖掘
+!
+zhangjz@nankai.edu.cn
+网络大数据分析，网络安全，移动计算，软件定义网络，边缘智能
+!
+zhang.jian@nankai.edu.cn
+网络安全、数据安全、人工智能安全、恶意代码防治、云安全、电子数据取证、网络犯罪打击防范
+!
+nkzhangjin@nankai.edu.cn
+人工智能;认知科学与脑计算;物联网与云计算;
+!
+人工智能、机器学习、大数据知识挖掘、概率图模型表示与推理、Deep Learning、精密感知与智能控制、三维数字物理仿真、嵌入式视频图像处理
+!
+yingzhang@nankai.edu.cn
+跨媒体分析推理、自然语言处理、人工智能、数据挖掘、机器学习
+!
+zhaoh@nankai.edu.cn
+智能计算及应用、应用系统开发
+!
+yzhou@nankai.edu.cn
+计算机视觉、多模态人工智能、具身智能、大模型、自然语言处理与深度学习等
+Copyright © 2018 - 2019 南开大学计算机学院. All Rights Reserved 浏览次数: 1369236 
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院领导<button>
+<button>学院党委<button>
+<button>学科学术分委会<button>
+<button>学位评定分委会<button>
+<button>教代会、工会委员会<button>
+<button>专业技术职务评审分委员会<button>
+<button>学科结构<button>
+<button>计算机科学与技术学科<button>
+<button>人才计划<button>
+<button>教授/研究员<button>
+<button>副教授/副研究员<button>
+<button>讲师<button>
+<button>实验教学队伍<button>
+<button>博士后<button>
+<button>兼职教授<button>
+<button>退休人员<button>
+<button>本科教育<button>
+<button>研究生教育<button>
+<button>硕士生导师<button>
+<button>博士生导师<button>
+<button>系所中心<button>
+<button>学术团队<button>
+<button>合作院校分布<button>
+<button>联合培养项目<button>
+<button>招聘岗位<button>
+<button>最新动态<button>
+<button>学院公告<button>
+<button>学生工作通知<button>
+<button>科研信息<button>
+<button>本科生教学<button>
+<button>党团园地<button>
+<button>研究生招生<button>
+<button>研究生教学<button>
+<button>境外交流<button>
+<button>院长信箱<button>
+<button>陈森 教授<button>
+<button>程明明 教授<button>
+<button>程仁洪 教授<button>
+<button>丁丹 教授<button>
+<button>范登平 教授<button>
+<button>宫晓利 教授<button>
+<button>郭青 教授<button>
+<button>贾春福 教授<button>
+<button>李起成 教授<button>
+<button>李庆诚 教授<button>
+<button>李涛 教授<button>
+<button>李雨森 教授<button>
+<button>李重仪 教授<button>
+<button>刘承威 教授<button>
+<button>刘健 教授<button>
+<button>刘晓光 教授<button>
+<button>刘云 教授<button>
+<button>刘哲理 教授<button>
+<button>卢冶 教授<button>
+<button>宁博 教授<button>
+<button>温延龙 教授<button>
+<button>秦勇 教授<button>
+<button>任博 教授<button>
+<button>邵秀丽 教授<button>
+<button>沈玮 教授<button>
+<button>孙国磊 教授<button>
+<button>汪定 教授<button>
+<button>王刚（计） 教授<button>
+<button>王金伟 教授<button>
+<button>王恺 教授<button>
+<button>卫金茂 教授<button>
+<button>徐敬东 教授<button>
+<button>杨巨峰 教授<button>
+<button>杨愚鲁 教授<button>
+<button>杨征路 教授<button>
+<button>袁晓洁 教授<button>
+<button>张建忠 教授<button>
+<button>张健（男） 教授<button>
+<button>张金 教授<button>
+<button>张文生 讲座教授<button>
+<button>张莹 教授<button>
+<button>赵宏 教授<button>
+<button>周宇 教授<button>
+
+----- WebWalker -----
+Thought: I need to find the page for Associate Professor Chen Chen. From the list of professors, I can see "陈森 教授" (Professor Chen Sen), "程明明 教授" (Professor Cheng Mingming), and others. Since the question is about "Chen Chen," I should look for a professor with a similar name. "陈森 教授" seems like a possible match. I will visit his profile to check if he is the correct person and gather more information.
+
+Action: visit_page
+Action Input: {"button": "陈森 教授"}
+
+----- VisitPage -----
+The web information is:
+
+! !
+!
+首页导航
+  * )
+  * )
+                                  * )
+          * )
+                                  * )
+                  * )
+          * )
+          * )
+      * )
+                                      * )
+          * )
+###  基本信息 
+姓 名 ：  陈森
+性 别 ：  男
+所属部门：  信息安全系
+行政职务：  无
+职 称 ：  教授
+学 历 ：  博士后
+所学专业：  计算机科学与技术
+办公电话： 
+电子邮件：  senchen@nankai.edu.cn
+研究方向：  软件安全
+!
+###  个人简介： 
+陈森是南开大学密码与网络空间安全学院的教授，软件安全实验室（）或课题组负责人， 刘哲理教授科研团队成员。曾获得2026年度**ACM SIGSOFT Early Career Researcher Award** （亚洲高校首位），入选斯坦福2025全球前2%顶尖科学家榜单。
+  
+研究方向为**软件安全** ，主要关注**智能体软件安全与软件供应链安全** 。 发表高水平论文100余篇，获得CCF-A类国际顶级会议**杰出论文奖7项** 。 参与国家科技重大专项，承担国家重点研发计划重点专项子课题、重点项目课题、国自然面上和青年项目、天津市科技发展重大专项课题、华为胡杨林基金系统软件专项等项目10余项， 相关理论研究在国家电网、中汽研、华为等企业落地应用，参与获得省部级科技进步一等奖1项。
+  
+Copyright © 2018 - 2019 南开大学计算机学院. All Rights Reserved 浏览次数: 1369236 
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院领导<button>
+<button>学院党委<button>
+<button>学科学术分委会<button>
+<button>学位评定分委会<button>
+<button>教代会、工会委员会<button>
+<button>专业技术职务评审分委员会<button>
+<button>学科结构<button>
+<button>计算机科学与技术学科<button>
+<button>人才计划<button>
+<button>教授/研究员<button>
+<button>副教授/副研究员<button>
+<button>讲师<button>
+<button>实验教学队伍<button>
+<button>博士后<button>
+<button>兼职教授<button>
+<button>退休人员<button>
+<button>本科教育<button>
+<button>研究生教育<button>
+<button>硕士生导师<button>
+<button>博士生导师<button>
+<button>系所中心<button>
+<button>学术团队<button>
+<button>合作院校分布<button>
+<button>联合培养项目<button>
+<button>招聘岗位<button>
+<button>最新动态<button>
+<button>学院公告<button>
+<button>学生工作通知<button>
+<button>科研信息<button>
+<button>本科生教学<button>
+<button>党团园地<button>
+<button>研究生招生<button>
+<button>研究生教学<button>
+<button>境外交流<button>
+<button>院长信箱<button>
+
+----- WebWalker -----
+Thought: The information provided does not mention Associate Professor Chen Chen, but it does mention "陈森 教授" (Professor Chen Sen). Since the name is similar, I will check if this is the correct person. If not, I will continue searching for other professors with similar names.
+
+Action: visit_page
+Action Input: {"button": "程明明 教授"}
+
+----- VisitPage -----
+The web information is:
+
+! !
+!
+首页导航
+  * )
+  * )
+                                  * )
+          * )
+                                  * )
+                  * )
+          * )
+          * )
+      * )
+                                      * )
+          * )
+###  基本信息 
+姓 名 ：  程明明
+性 别 ：  男
+所属部门：  计算机科学与技术系
+行政职务：  系主任
+职 称 ：  教授
+学 历 ：  博士
+所学专业：  计算机科学与技术
+办公电话：  85358570
+电子邮件：  
+研究方向：  人工智能、计算机视觉、图像视频大数据分析、计算机图形学
+!
+###  个人简介： 
+程明明，1985年出生于陕西乾县，现任南开大学杰出教授，计算机系主任。主持承担了国家杰出青年科学基金、优秀青年科学基金项目、科技部重大项目课题等。他的主要研究方向是计算机视觉和计算机图形学，在SCI一区/CCF A类刊物上发表学术论文100余篇（含IEEE TPAMI论文30余篇），h-index为77，论文谷歌引用4万余次，单篇最高引用4600余次，多次入选和。技术成果被应用于华为、国家减灾中心等多个单位的旗舰产品。获得教育部自然科学一等奖2项、其他省部级科技奖2项。培养的3名博士生获得省部级优秀博士论文奖。现担任中国图象图形学学会副秘书长、天津市人工智能学会副理事长和顶级期刊IEEE TPAMI, IEEE TIP和《中国科学：信息科学》编委。通常每年8月中下旬招满下一年度入学的研究生，建议查看个人主页确认还有名额再联系：
+Copyright © 2018 - 2019 南开大学计算机学院. All Rights Reserved 浏览次数: 1369236 
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院领导<button>
+<button>学院党委<button>
+<button>学科学术分委会<button>
+<button>学位评定分委会<button>
+<button>教代会、工会委员会<button>
+<button>专业技术职务评审分委员会<button>
+<button>学科结构<button>
+<button>计算机科学与技术学科<button>
+<button>人才计划<button>
+<button>教授/研究员<button>
+<button>副教授/副研究员<button>
+<button>讲师<button>
+<button>实验教学队伍<button>
+<button>博士后<button>
+<button>兼职教授<button>
+<button>退休人员<button>
+<button>本科教育<button>
+<button>研究生教育<button>
+<button>硕士生导师<button>
+<button>博士生导师<button>
+<button>系所中心<button>
+<button>学术团队<button>
+<button>合作院校分布<button>
+<button>联合培养项目<button>
+<button>招聘岗位<button>
+<button>最新动态<button>
+<button>学院公告<button>
+<button>学生工作通知<button>
+<button>科研信息<button>
+<button>本科生教学<button>
+<button>党团园地<button>
+<button>研究生招生<button>
+<button>研究生教学<button>
+<button>境外交流<button>
+<button>院长信箱<button>
+
+----- WebWalker -----
+Thought: The information provided does not mention Associate Professor Chen Chen, but it does mention "程明明 教授" (Professor Cheng Mingming). Since the name is similar, I will check if this is the correct person. If not, I will continue searching for other professors with similar names.
+
+Action: visit_page
+Action Input: {"button": "刘哲理 教授"}
+
+----- VisitPage -----
+The web information is:
+
+! !
+!
+首页导航
+  * )
+  * )
+                                  * )
+          * )
+                                  * )
+                  * )
+          * )
+          * )
+      * )
+                                      * )
+          * )
+###  基本信息 
+姓 名 ：  刘哲理
+性 别 ：  男
+所属部门：  信息安全系
+行政职务：  副院长
+职 称 ：  教授
+学 历 ：  博士
+所学专业：  信息安全
+办公电话： 
+电子邮件：  liuzheli@nankai.edu.cn
+研究方向：  数据安全；人工智能安全
+!
+###  个人简介： 
+刘哲理，博士（后），计算机学院院长、密码与网络空间安全学院常务副院长，国家高层次人才，数据与智能系统安全教育部重点实验室主任，宝钢优秀教师，中国新一代人工智能发展战略研究院智能网络安全研究中心主任，中国中文信息学会大数据安全与隐私计算专委会秘书长，南开大学百名青年学科带头人、天津市中青年科技领军人才**，** 教授，博士生导师。近五年，发表Usenix Security、CCS、NDSS、S&P、Eurocrypt、VLDB、ASE、ISSTA、IEEE TDSC、IEEE TKDE、IEEE TIFS、IEEE TC、IEEE TSC、IEEE INFOCOM等顶级期刊论文和会议40余篇，有11篇ESI高被引论文、2篇热点论文。主要研究方向为数据安全、人工智能安全等。
+目前主持国家自然科学基金重点项目、国家重点研发计划项目、国家密码科学基金重点项目、国防科技创新项目重点、工信部工业互联网创新工程等纵向课题10余项，与多家知名信息安全企业建立了合作关系，**是华为数据库、腾讯广告的紧密合作伙伴，** 建立了“数据安全联合实验室”，主持智能卡操作系统、信息安全相关的横向课题20多项。获评天津市科技进步一等奖2项、二等奖3项，1项中国密码学会密码创新奖。  
+  
+目前主要在研的课题如下：   
+1、**基于密码学的数据隐私保护研究** ：访问行为模式保护ORAM、密态数据集合运算、差分隐私等。   
+2、**密态数据库** ：可搜索加密、SGX与密态数据计算等。   
+3、**人工智能安全** ：人工智能后门攻击，联邦机器学习及隐私保护的机器学习算法研究。   
+  
+目前与腾讯、华为开展密文集合运算、数据脱敏、密态数据库的应用研究。 我有足够的科研经费、也盛产高水平论文，如果你对我的课题感兴趣并有志于从事信息安全方面的研究工作，欢迎与我联系（地址在计算机学院606、627），提前进入实验室实习。  
+**目前研究生指标充裕，有意向者可以和我联系。**
+  
+**典型论文** ：
+35. Baolei Zhang, et al. Traceback of Poisoning Attacks to Retrieval-Augmented Generation. WWW _,_ 2025, **CCF-A**. 
+34. Junjian Shi, et al. SMPCache: Towards More Efficient SQL Queries in Multi-Party Collaborative Data Analysis. _IEEE Transactions on Knowledge and Data Engineering_. 2025. **CCF-A**.
+33. Peizhao Zhou, Xiaojie Guo, Pinzhi Chen, et al. Shortcut: Making MPC-based Collaborative Analytics Efficient on Dynamic Databases. _ACM CCS,_ 2024, **CCF-A**. 
+32. Jingyu Jia, et al. ABSyn: An Accurate Differentially Private Data Synthesis Scheme With Adaptive Selection and Batch Processes. _IEEE Transactions on Information Forensics & Security_. 2024, **CCF-A**. 
+31. Yu Wei, et al. Distributed Differential Privacy via Shuffling Versus Aggregation: A Curious Study. _IEEE Transactions on Information Forensics & Security_. 2024, **CCF-A**. 
+30. Siyi Lv, Yanyu Huang, Xinhao Li,Tong Li*, Liang Guo, Xiaofeng Chen, Zheli Liu. LUNA: Efficient Backward-private Dynamic Symmetric Searchable Encryption Scheme with Secure Deletion in Encrypted Database. _IEEE Transactions on Knowledge and Data Engineering_. 2023. **CCF-A**.
+29. Xiaojie Guo, Kang Yang∗, Xiao Wang, Wenhao Zhang, Xiang Xie, Jiang Zhang, Zheli Liu∗. Half-Tree: Halving the Cost of Tree Expansion in COT and DPF. _Eurocrypt_. 2023. **CCF-A. 密码学领域顶级会议**
+28. Yijing Liu, Yan Jia∗, Qingyin Tan, Zheli Liu∗, Luyi Xing. How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion. _USENIX Security_. 2022. **CCF-A. 信息安全领域顶级会议**
+27. Xiaojie Guo, Ye Han, Zheli Liu∗, Ding Wang, Yan Jia∗, Jin Li. Birds of a Feather Flock Together: How Set Bias Helps to Deanonymize You via Revealed Intersection Sizes. _USENIX Security_. 2022. **CCF-A. 信息安全领域顶级会议**
+26. Xu, Sihan; Gao, Ya; Fan, Lingling; Liu, Zheli; Liu, Yang; Ji, Hua. License Incompatibility Detection for Open Source Software. _ACMTransactions on Software Engineering and Methodology_. 2022, **CCF-A.**
+25. Guohua Tian, Yunhan Hu, Jianghong Wei, Zheli Liu, Xinyi Huang, Xiaofeng Chen, Willy Susilo. Blockchain-based secure deduplication and shared auditing in decentralized storage. _IEEE_ _Transactions on Dependable and Secure Computing_ , 2022, **CCF-A.**
+24. Zijie Pan, Li Hu, Weixuan Tang, Jin Li, Yi He, Zheli Liu. Privacy-Preserving Multi-Granular Federated Neural Architecture Search A General Framework. _IEEE Transactions on Knowledge and Data Engineering_. 2022. **CCF-A**.
+23. Jiqiang Gao, Baolei Zhang, Xiaojie Guo, Thar Baker, Min Li, Zheli Liu∗. Secure Partial Aggregation: Making Federated Learning More Robust for Industry 4.0 Applications. _IEEE Transactions on Industrial Informatics_. 2022, **SCI一区.**
+22. Xu Ma, Xiaoqian Sun, Yuduo Wu, Zheli Liu, Xiaofeng Chen, Changyu Dong. Differentially Private Byzantine-robust Federated Learning. _IEEE Transactions on Parallel and Distributed Systems_. 2022, **CCF-A.**
+21. Jiqiang Gao, Boyu Hou, Xiaojie Guo, Zheli Liu∗, Ying Zhang, Kai Chen, Jin Li. Secure Aggregation is Insecure: Category Inference Attack on Federated Learning, _IEEE_ _Transactions on Dependable and Secure Computing_ , 2021, **CCF-A.**
+20. Dongjie Li, Siyi Lv, Yanyu Huang, Yijing Liu,Tong Li*, Zheli Liu∗, Liang Guo. Frequency-Hiding Order-Preserving Encryption with Small Client Storage. _VLDB_. 2021. **CCF-A. 数据库领域顶级会议**
+19. Changhui Hu, Jin Li, Zheli Liu*, Xiaojie Guo, Yu Wei, Xuan Guang, Grigorios Loukides, Changyu Dong. How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free. _USENIX Security_. 2021. **CCF-A. 信息安全领域顶级会议**
+18. Zheli Liu, Yanyu Huang, Xiangfu Song*, Bo Li, Jin Li, Yali Yuan, Changyu Dong. Eurus: Towards an Efficient Searchable Symmetric Encryption with Size Pattern Protection. _IEEE Transactions on Dependable and Secure Comp_ uting. 2020, **CCF-A.**
+17. Xiaojie Guo, Jiqiang Gao, Boyu Hou, Zheli Liu*, Jin Li, etc. VERIFL: Communication-efficient and Fast Verifiable Aggregation for Federated Learning. _IEEE Transactions on Information Forensics & Security_. 2020, **CCF-A**. DOI:10.1109/TIFS.2020.3043139.
+16. Zheli Liu, Siyi Lv, Jin Li, Yanyu Huang, Liang Guo, Yali Yuan and Changyu Dong. EncodeORE: Reducing Leakage and Preserving Practicality in Order-Revealing Encryption. _IEEE Transactions on Dependable and Secure Comp_ uting. 2020, **CCF-A.** DOI:10.1109/TDSC.2020.3029845. 
+15. Yanyu Huang, Siyi Lv, Zheli Liu*, Xiangfu Song, Jin Li, Yali Yuan and Changyu Dong. Cetus: an efficient Symmetric Searchable Encryption against File-injection Attack with SGX.  _SCIENCE CHINA Information Sciences_. 2020. **CCF-B，国内顶级期刊**.
+14. Xiaojie Guo, Jin Li*, Zheli Liu*, Yu Wei, Xiao Zhang, Changyu Dong. Labrador: Towards Fair and Auditable Data Sharing in Cloud Computing with Long-term Privacy.  _SCIENCE CHINA Information Sciences_. 2020. **CCF-B，国内顶级期刊**.
+13. Xianmin Wang, Xiaohui Kuang, Jin Li, Xiaofeng Chen, Zheli Liu. Oblivious Transfer for Privacy-Preserving in VANET's Feature Matching.  _IEEE Transactions on Intelligent Transportation Systems_. 2020. **SCI一区**. DOI: 10.1109/TITS.2020.2973738
+12. Tong Li, Jin Li, Xiaofeng Chen, Zheli Liu, Wenjing Lou, Thomas Hou. NPMML: A Framework for Non-interactive Privacy-preserving Multi-party Machine Learning. _IEEE Transactions on Dependable and Secure Computing_. 2020, DOI:10.1109/TDSC.2020.2971598, **CCF-A**
+11. Yanyu Huang, Bo Li, Zheli Liu*, Jin Li, etc. ThinORAM: Towards Practical Oblivious Data Access in Fog Computing Environment. _IEEE Transactions on Service Computing_. 2020, **SCI一区**. DOI: 10.1109/TSC.2019.2962110.
+10. Yali Yuan, Sripriya Srikant Adhatarao, Mingkai Li, Yachao Yuan, Zheli Liu, Xiaoming Fu. ADA: Adaptive Deep Log Anomaly Detector._INFOCOM_ 2020.**CCF-A.**
+9. Yu Wei, Siyi Lv, Xiaojie Guo, Zheli Liu*, Yanyu Huang, Bo Li. FSSE: Forward Secure Searchable Encryption with Keyed-block Chains. _Information Sciences_. 2019. **SCI一区**. 
+8. Jin Li, Yanyu Huang, Yu Wei, Siyi Lv, Zheli Liu*, Changyu Dong, Wenjing Lou. Searchable Symmetric Encryption with Forward Search Privacy._IEEE Transactions on Dependable and Secure Comp_ uting. 2019, **CCF-A.** DOI:10.1109/TDSC.2019.2894411.
+7. Zheli Liu, Bo Li, Yanyu Huang, Jin Li, Yang Xiang, WitoldPedrycz. NewMCOS: Towards a Practical Multi-cloud Oblivious Storage Scheme. _IEEE Transactions on Knowledge and Data Engineering_. 2019. **CCF-A**. DOI:10.1109/TKDE.2019.2891581.
+6. Zheli Liu, Zhendong Wu, Tong Li, Jin Li, Chao Shen. GMM and CNN Hybrid Method for Short Utterance Speaker Recognition. _IEEE Transactions Industrial Informatic_ _s_. 2018. **SCI一区**.
+5. Baojiang Cui, Zheli Liu*, Lingyu Wang. Key-Aggregate Searchable Encryption (KASE) for Group Data Sharing via Cloud Storage. _IEEE Transactions on Computers_. 2016. **CCF-A**.
+  
+  
+**典型科研项目** ：
+15. ***大模型安全***. 2024-2029 **GUOFANG创新重点项目**
+14. 基于数据胶囊的数据交易流通技术. 2025-2030 **国家自然科学基金重点项目**
+13. 安全多方计算协议优化. 2025-2029 **国家密码基金重点项目（首批）**
+12. 密态数据库XX. 2024-2029 **国家自然科学基金重点项目**
+11. ***计算项目(二期) 2022-2024 **华为技术有限公司**
+**10.** XXXX 2021-2023 **国防科技创新重点项目**
+**9.** 两端模式密态数据库安全计算理论及关键技术研究 2021-2025 **国家自然科学基金重点项目**
+**8.** 面向区块链关键机制的安全分析与增强技术 2021-2023 **国家重点研发计划项目**
+7. ***计算项目 2020-2021 **华为技术有限公司**
+6. 数据库****合作项目 2019-2020 **华为技术有限公司**
+5. 数据发布安全性量化评估模型研究 2019-2020 深圳市**腾讯** 计算机系统有限公司
+4. 隐私集合交集算法研究 2018-2019 **腾讯** 科技(北京)有限公司
+3. 数据动态脱敏与溯源关键技术研究 2018-2019 教育部-中移动联合基金
+2. 面向金融领域实时交易的区块链平台关键技术研究 2019-2021 天津市人工智能重大专项
+1. 保留格式及查询能力的云加密方案研究 2017-2020 国家自然科学基金项目
+  
+**奖励** ： 
+11. 《软件安全》 国家一流线上金课， 2025
+10. 天津市优秀青年研究生指导教师，2023
+9. 天津市高等教育本科教学成果奖特等奖，2022，主持
+8. 中国密码学会密码创新奖，2022
+7. 天津市科技进步二等奖，2020，主持
+6. 中国网络空间安全协会首届十大数据安全典型实践案例，《隐私保护的多平台联合广告推荐业务》，2020
+5. 天津市线下一流本科建设课程，《漏洞利用及渗透测试基础》，2020
+4. 天津市虚拟仿真实验建设项目，《面向校园网虚实结合的整站攻击实验》，2019
+3. 天津市科技进步一等奖，2019
+2. 本科课程《数据结构与算法》在南开大学2013年课程数字资源建设工作中被评为“优秀课程”
+1. 《融合工程伦理教育的网络空间安全专业思政课程建设探讨》，荣获“安全人才与人才安全”第二届高校网络空间安全人才培养思想政治工作研讨会优秀论文.2019年
+  
+**最佳论文** ：
+SPNCE2016、ICA3PP2018(CCF-C)
+Copyright © 2018 - 2019 南开大学计算机学院. All Rights Reserved 浏览次数: 1369236 
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院领导<button>
+<button>学院党委<button>
+<button>学科学术分委会<button>
+<button>学位评定分委会<button>
+<button>教代会、工会委员会<button>
+<button>专业技术职务评审分委员会<button>
+<button>学科结构<button>
+<button>计算机科学与技术学科<button>
+<button>人才计划<button>
+<button>教授/研究员<button>
+<button>副教授/副研究员<button>
+<button>讲师<button>
+<button>实验教学队伍<button>
+<button>博士后<button>
+<button>兼职教授<button>
+<button>退休人员<button>
+<button>本科教育<button>
+<button>研究生教育<button>
+<button>硕士生导师<button>
+<button>博士生导师<button>
+<button>系所中心<button>
+<button>学术团队<button>
+<button>合作院校分布<button>
+<button>联合培养项目<button>
+<button>招聘岗位<button>
+<button>最新动态<button>
+<button>学院公告<button>
+<button>学生工作通知<button>
+<button>科研信息<button>
+<button>本科生教学<button>
+<button>党团园地<button>
+<button>研究生招生<button>
+<button>研究生教学<button>
+<button>境外交流<button>
+<button>院长信箱<button>
+
+----- WebWalker -----
+Thought: The information provided for "刘哲理 教授" (Professor Liu ZheLi) includes a list of his publications, with several marked as CCF-A and CCF-B. However, the question is about Associate Professor Chen Chen, not Professor Liu ZheLi. I need to continue searching for other professors with similar names or who might have relevant information.
+
+Action: visit_page
+Action Input: {"button": "李涛 教授"}
+
+----- VisitPage -----
+The web information is:
+
+! !
+!
+首页导航
+  * )
+  * )
+                                  * )
+          * )
+                                  * )
+                  * )
+          * )
+          * )
+      * )
+                                      * )
+          * )
+###  基本信息 
+姓 名 ：  李涛
+性 别 ：  男
+所属部门：  物联网工程系
+行政职务：  副院长
+职 称 ：  教授
+学 历 ：  博士
+所学专业：  计算机科学与技术
+办公电话：  23506776
+电子邮件：  litao@nankai.edu.cn
+研究方向：  异构计算, 智能物联网, 区块链系统, 人工智能
+!
+###  个人简介： 
+南开大学计算机学院、密码与网络空间安全学院教授/博导，国家环境保护城市空气颗粒物污染防治重点实验室博士后，明尼苏达大学计算机科学与工程系访问学者。
+现任南开大学新一代人工智能发展战略研究院副院长，先进计算与关键软件（信创）海河实验室副主任，南开大学智能物联网教学团队负责人，计算机系统能力培养改革建设高校（南开大学）负责人，南开大学物联网工程专业首届主任，天津市教学名师奖后备人选，入选全国高校计算机专业优秀教师奖励计划、网信创新人才，天津市优秀科技特派员，天津科普大使，天津市中青年科技创新领军人才。
+现为中国计算机学会（CCF）杰出会员、体系结构专委会副主任，CCF南开大学学生分会督导主任，ACM会员，IEEE会员，中国电子学会高级会员，中国人工智能学会会员；中国计算机学会通讯《计算》编委；中国科技辅导员协会人工智能普及教育专委会委员，中国医学装备协会眼科专业委员会委员。曾担任南开大学计算机与控制工程学院、软件学院院长助理，科学技术处副处长，党委网信办、大数据管理中心副主任，天津市青少年科技教育协会副理事长，天津市津南区科协常委，CCF理事、天津分部副主席，YOCSEF天津分论坛主席。
+2014年建立南开大学智能计算系统研究室（），2017年9月发起并推动成立网络空间安全学院，2018年推动成功申报天津市网络与数据安全技术重点实验室。研究兴趣主要包括异构计算、智能物联网、区块链系统、人工智能、数字健康等领域，特别是计算机系统与人工智能交叉领域，主讲本科生专业必修课《计算机组成原理》《智能计算系统》《物联网前沿技术》等和研究生《高级计算机系统结构》《计算机控制技术》《神经网络工程》等课程，主持20多项国家和省部级基金项目以及校企合作项目，主持和参与获得天津市教学成果特等奖1项、天津市科技进步一等奖2项和二等奖1项、中国产学研合作科技创新二等奖1项，南开大学教学成果奖多项，多次指导大学生参加创新创业和竞赛活动并获得国家和省部级奖项，在TC、TPDS、TMC、INFOCOM、NeurIPS、AAAI、ACM Mulitimedia、MICCAI、计算机学报、软件学报、计算机研究与发展等期刊和会议上发表SCI/EI论文100余篇，出版和翻译教材著作10余部，申请专利和软件著作权10余项，专利和软著成果转化2项。
+欢迎优秀同学报考硕士和博士研究生，欢迎硕博士毕业生联系南开大学新一代人工智能发展战略研究院（）和信创海河实验室（）的博士后和专业技术岗位。
+Copyright © 2018 - 2019 南开大学计算机学院. All Rights Reserved 浏览次数: 1369236 
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院领导<button>
+<button>学院党委<button>
+<button>学科学术分委会<button>
+<button>学位评定分委会<button>
+<button>教代会、工会委员会<button>
+<button>专业技术职务评审分委员会<button>
+<button>学科结构<button>
+<button>计算机科学与技术学科<button>
+<button>人才计划<button>
+<button>教授/研究员<button>
+<button>副教授/副研究员<button>
+<button>讲师<button>
+<button>实验教学队伍<button>
+<button>博士后<button>
+<button>兼职教授<button>
+<button>退休人员<button>
+<button>本科教育<button>
+<button>研究生教育<button>
+<button>硕士生导师<button>
+<button>博士生导师<button>
+<button>系所中心<button>
+<button>学术团队<button>
+<button>合作院校分布<button>
+<button>联合培养项目<button>
+<button>招聘岗位<button>
+<button>最新动态<button>
+<button>学院公告<button>
+<button>学生工作通知<button>
+<button>科研信息<button>
+<button>本科生教学<button>
+<button>党团园地<button>
+<button>研究生招生<button>
+<button>研究生教学<button>
+<button>境外交流<button>
+<button>院长信箱<button>
+
+----- WebWalker -----
+Thought: The information provided for "李涛 教授" (Professor Li Tao) does not mention Associate Professor Chen Chen. I need to continue searching for other professors with similar names or who might have relevant information.
+
+Action: visit_page
+Action Input: {"button": "刘健 教授"}
+
+----- VisitPage -----
+The web information is:
+
+! !
+!
+首页导航
+  * )
+  * )
+                                  * )
+          * )
+                                  * )
+                  * )
+          * )
+          * )
+      * )
+                                      * )
+          * )
+###  基本信息 
+姓 名 ：  刘健
+性 别 ：  男
+所属部门：  计算机科学与技术系
+行政职务：  副所长
+职 称 ：  教授
+学 历 ：  博士
+所学专业：  计算机应用技术
+办公电话： 
+电子邮件：  jianliu@nankai.edu.cn
+研究方向：  人工智能、IT+BT、生物医药大数据、生物信息学、精准医学
+!
+###  个人简介： 
+刘健，教授，博士生导师，南开大学大数据技术研究所副所长、药物化学生物学全国重点实验室PI。
+研究方向：
+长期从事人工智能、生物医药大数据、生物信息学等IT+BT交叉领域研究，近年来主要聚焦于肿瘤细胞图谱构建与多组学解析、肿瘤智能筛查与风险评估、肿瘤微生物组鉴定及人体微生物-宿主互作研究。
+工作经历：
+2014年-2019年 哈尔滨工业大学 计算机学院 讲师、副教授
+2019至今 南开大学 计算机学院 教授
+国家级/省部级重要科研项目：
+近年来完成/承担国家863计划、国家重大专项、国家重点研发计划、国家自然科学基金、天津市重点项目等科研项目10余项：
+**1、国家863计划重大项目，生物大数据表述索引、搜索与存储访问关键技术研发（2007万）**
+**2、国家重大专项项目，新药信息化技术平台研究（544万）**
+**3、国家重点研发计划项目，微生物大数据分析技术与关键算法研发（329万）**
+**4、国家重点研发计划项目，面向合成生物系统的人工智能算法研究与应用（277万）**
+5、国家自然科学基金项目，海量变异数据管理关键技术研究
+6、国家自然科学基金项目，人体微生物精细鉴定、注释可视化与多组学整合分析关键技术研究
+  
+人才培养：
+近年来在**Cell子刊、****Nature Communications****、Advanced Science、Nucleic Acids Research、****Signal Transduction and Targeted Therapy、****IEEE Transactions** 系列期刊等发表高水平论文60余篇，培养硕士、博士研究生以及国际留学生多人。
+招收计划：
+每年计划招收博士后1-2人，博士生2人，硕士生3人，硕博联合培养研究生1-2人。具有充足的科研经费支持，根据科研需要鼓励和资助参与国内外学术交流以及赴海外合作课题组进修。
+**2026研究生推免招生名额所剩有限** ，欢迎对人工智能、IT+BT、生物医药大数据、生物信息学等感兴趣的计算机软件相关专业同学尽早与我联系**（jianliu@nankai.edu.cn)** ，联系地址：天津市津南区海河教育园区同砚路38号南开大学计算机学院518、522室。详情请见中心主页：**
+Copyright © 2018 - 2019 南开大学计算机学院. All Rights Reserved 浏览次数: 1369236 
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院领导<button>
+<button>学院党委<button>
+<button>学科学术分委会<button>
+<button>学位评定分委会<button>
+<button>教代会、工会委员会<button>
+<button>专业技术职务评审分委员会<button>
+<button>学科结构<button>
+<button>计算机科学与技术学科<button>
+<button>人才计划<button>
+<button>教授/研究员<button>
+<button>副教授/副研究员<button>
+<button>讲师<button>
+<button>实验教学队伍<button>
+<button>博士后<button>
+<button>兼职教授<button>
+<button>退休人员<button>
+<button>本科教育<button>
+<button>研究生教育<button>
+<button>硕士生导师<button>
+<button>博士生导师<button>
+<button>系所中心<button>
+<button>学术团队<button>
+<button>合作院校分布<button>
+<button>联合培养项目<button>
+<button>招聘岗位<button>
+<button>最新动态<button>
+<button>学院公告<button>
+<button>学生工作通知<button>
+<button>科研信息<button>
+<button>本科生教学<button>
+<button>党团园地<button>
+<button>研究生招生<button>
+<button>研究生教学<button>
+<button>境外交流<button>
+<button>院长信箱<button>
+
+----- WebWalker -----
+Thought: The information provided for "刘健 教授" (Professor Liu Jian) does not mention Associate Professor Chen Chen. I need to continue searching for other professors with similar names or who might have relevant information.
+
+Action: visit_page
+Action Input: {"button": "王金伟 教授"}
+
+----- VisitPage -----
+The web information is:
+
+! !
+!
+首页导航
+  * )
+  * )
+                                  * )
+          * )
+                                  * )
+                  * )
+          * )
+          * )
+      * )
+                                      * )
+          * )
+###  基本信息 
+姓 名 ：  王金伟
+性 别 ：  男
+所属部门：  密码科学与技术系
+行政职务：  无
+职 称 ：  教授
+学 历 ：  博士
+所学专业：  控制科学与工程
+办公电话： 
+电子邮件：  wangjinwei@nankai.edu.cn
+研究方向：  人工智能安全、多媒体取证、信息隐藏
+!
+###  个人简介： 
+王金伟，教授，博导，南开大学网络空间安全学院，入选国家高层次人才和江苏省“333高层次”人才。研究方向包括人工智能安全、多媒体取证、信息隐藏等，现聚焦于AIGC鉴伪、NSFW检测、对抗取证、大模型鲁棒水印等。现主持和参与国家自然科学基金面上项目、企业联合重点项目等8项，省部级项目10余项，发表论文100余篇，其中SCI收录60余篇。
+  
+荣获2023年河南省自然科学奖一等奖一项，2022年隐者联盟杰出论文，ChinaMFS2023年优秀论文，CIHW2023年优秀论文，ChinaMFS2024年优秀论文。
+  
+曾担任人工智能与安全国际会议（ICAIS2020）程序委员会主席、CSIG中国取证与安全大会（ChinaMFS）宣传主席和程序委员会主席。现任中国图象图形学学会数字媒体取证与安全专委会副主任委员（兼任专委会党工作小组副组长）、江苏省网络空间全学会仿真与推演专委会秘书长（兼任专委会党建小组组长）、中国通信学会高级会员，CSIG高级会员。
+Copyright © 2018 - 2019 南开大学计算机学院. All Rights Reserved 浏览次数: 1369236 
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院领导<button>
+<button>学院党委<button>
+<button>学科学术分委会<button>
+<button>学位评定分委会<button>
+<button>教代会、工会委员会<button>
+<button>专业技术职务评审分委员会<button>
+<button>学科结构<button>
+<button>计算机科学与技术学科<button>
+<button>人才计划<button>
+<button>教授/研究员<button>
+<button>副教授/副研究员<button>
+<button>讲师<button>
+<button>实验教学队伍<button>
+<button>博士后<button>
+<button>兼职教授<button>
+<button>退休人员<button>
+<button>本科教育<button>
+<button>研究生教育<button>
+<button>硕士生导师<button>
+<button>博士生导师<button>
+<button>系所中心<button>
+<button>学术团队<button>
+<button>合作院校分布<button>
+<button>联合培养项目<button>
+<button>招聘岗位<button>
+<button>最新动态<button>
+<button>学院公告<button>
+<button>学生工作通知<button>
+<button>科研信息<button>
+<button>本科生教学<button>
+<button>党团园地<button>
+<button>研究生招生<button>
+<button>研究生教学<button>
+<button>境外交流<button>
+<button>院长信箱<button>
+
+----- WebWalker -----
+Thought: The information provided for "王金伟 教授" (Professor Wang Jinwei) does not mention Associate Professor Chen Chen. I need to continue searching for other professors with similar names or who might have relevant information.
+
+Action: visit_page
+Action Input: {"button": "张健（男） 教授"}
+
+----- VisitPage -----
+The web information is:
+
+! !
+!
+首页导航
+  * )
+  * )
+                                  * )
+          * )
+                                  * )
+                  * )
+          * )
+          * )
+      * )
+                                      * )
+          * )
+###  基本信息 
+姓 名 ：  张健（男）
+性 别 ：  男
+所属部门：  信息安全系
+行政职务：  无
+职 称 ：  教授
+学 历 ：  博士
+所学专业：  计算机应用技术
+办公电话： 
+电子邮件：  zhang.jian@nankai.edu.cn
+研究方向：  网络安全、数据安全、人工智能安全、恶意代码防治、云安全、电子数据取证、网络犯罪打击防范
+!
+###  个人简介： 
+博士，南开大学密码与网络空间安全学院、计算机学院教授、博导，天津市网络与数据安全技术重点实验室副主任。兼任中国网络空间安全协会理事、副秘书长，中国网络空间安全协会竞评演练工作委员会副主任委员、中国计算机学会计算机安全专委会委员、天津市网络空间安全协会理事长等。曾任国家计算机病毒应急处理中心和计算机病毒防治产品检验中心常务副主任、亚洲反病毒者协会（AVAR）副主席，天津理工大学网络空间安全研究院院长等。长期从事我国计算机病毒防治、监测预警、应急处理技术、数据安全、人工智能安全的研究和网络犯罪打击防范工作，曾代表病毒中心向胡锦涛同志汇报我国计算机病毒防治工作。先后主持19项国家重点研发计划网络空间安全专项、国家“863”、国家发改委信息安全专项等国家和省部级项目。在TIFS、NeurIPS、ICASSP、EMNLP、Computers & Security等会议和期刊发表近50篇论文，先后主持多个国家和公安部行业标准编制工作，获得多项国家发明专利和软件著作权。曾获得公安部科学技术二等奖，“中国软件行业杰出青年”提名奖，天津市青年科技人才奖，天津市五一劳动奖章，天津市教学成果二等奖等。
+详细个人介绍和招生信息：
+Copyright © 2018 - 2019 南开大学计算机学院. All Rights Reserved 浏览次数: 1369236 
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院领导<button>
+<button>学院党委<button>
+<button>学科学术分委会<button>
+<button>学位评定分委会<button>
+<button>教代会、工会委员会<button>
+<button>专业技术职务评审分委员会<button>
+<button>学科结构<button>
+<button>计算机科学与技术学科<button>
+<button>人才计划<button>
+<button>教授/研究员<button>
+<button>副教授/副研究员<button>
+<button>讲师<button>
+<button>实验教学队伍<button>
+<button>博士后<button>
+<button>兼职教授<button>
+<button>退休人员<button>
+<button>本科教育<button>
+<button>研究生教育<button>
+<button>硕士生导师<button>
+<button>博士生导师<button>
+<button>系所中心<button>
+<button>学术团队<button>
+<button>合作院校分布<button>
+<button>联合培养项目<button>
+<button>招聘岗位<button>
+<button>最新动态<button>
+<button>学院公告<button>
+<button>学生工作通知<button>
+<button>科研信息<button>
+<button>本科生教学<button>
+<button>党团园地<button>
+<button>研究生招生<button>
+<button>研究生教学<button>
+<button>境外交流<button>
+<button>院长信箱<button>

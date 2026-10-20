@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0648_95133592c9f3",
+  "source_index": 648,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在南京理工大学2023年11月8日下午与智能科学与技术系教师党支部开展联学共建主题党日活动的计算机院学院领导是哪位？",
+  "prompt": "在南京理工大学2023年11月8日下午与智能科学与技术系教师党支部开展联学共建主题党日活动的计算机院学院领导是哪位？",
+  "expected_answer": "陆建峰",
+  "root_url": "https://cs.njust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njust.edu.cn/17/20/c1766a333600/page.htm"
+    ],
+    "golden_path": [
+      "root->党群工作->智能科学与技术系教师党支部开展“联学教育家精神，共话专业人才...2023-11-09"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 43.079,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0648_95133592c9f3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0648_95133592c9f3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

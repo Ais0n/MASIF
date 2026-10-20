@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0041_0cf4d7440719",
+  "source_index": 41,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "《蛋仔派对》计划在10月25日更新的内容中，与新地图“幽影小镇”相关的新增元素有哪些？",
+  "prompt": "《蛋仔派对》计划在10月25日更新的内容中，与新地图“幽影小镇”相关的新增元素有哪些？",
+  "expected_answer": "彩旗、旋转木马、追逃路线",
+  "root_url": "https://game.163.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://game.163.com/news/2024/10/24/18455_1188980.html"
+    ],
+    "golden_path": [
+      "root->追逃升级，万圣狂欢！《蛋仔派对》“南瓜入侵”玩法更新，重磅来袭！"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 21,
+  "tool_calls": 8,
+  "duration_seconds": 55.836,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0041_0cf4d7440719/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0041_0cf4d7440719/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

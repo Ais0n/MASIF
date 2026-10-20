@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0554_93998751c46e",
+  "source_index": 554,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "《梦想世界3》电脑版在'夏日萌动'更新上线后的推荐新服开放日期与《永恒魔法》'快乐永恒'新服开放的具体时间分别是什么？",
+  "prompt": "《梦想世界3》电脑版在'夏日萌动'更新上线后的推荐新服开放日期与《永恒魔法》'快乐永恒'新服开放的具体时间分别是什么？",
+  "expected_answer": "7月15日和5月25日12:00",
+  "root_url": "https://www.duoyi.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.duoyi.com/news/news_25989.shtm",
+      "https://www.duoyi.com/news/news_10779.shtm"
+    ],
+    "golden_path": [
+      "root->新闻中心->3->《梦想世界3》电脑版“夏日萌动”清爽来袭",
+      "root->新闻中心->尾页->《永恒魔法》5.25周年庆 狂欢活动劲爆来袭"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 140.681,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0554_93998751c46e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0554_93998751c46e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

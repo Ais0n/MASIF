@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0380_79a1528e8a4c",
+  "source_index": 380,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which leaders attended the postgraduate entrance examination mobilization meeting for the 2025 graduates at the School of Computer Science and Technology, Southwest University of Science and Technology, and who chaired the meeting?",
+  "prompt": "Which leaders attended the postgraduate entrance examination mobilization meeting for the 2025 graduates at the School of Computer Science and Technology, Southwest University of Science and Technology, and who chaired the meeting?",
+  "expected_answer": "The meeting was attended by Party Secretary Chen Yufang, Dean Zhang Hui, Vice Deans Jia Xiaolin and Huang Xiaofang, and Executive Deputy Director of the Elderly Workers Committee Lei Quanshui. It was hosted by Party Committee Deputy Secretary Xie Changyong.",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cslab.swust.edu.cn/2024/0512/c11243a194925/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->6->计算机科学与技术学院顺利举办2025届毕业生考研动员会为进一步加强学院学风建设，提升人才培养质量，调动学生考研的积极性，计算机学院于4月19日在行政楼学术报告厅面向2025届毕业生召开考研动员会。学院党委书记陈玉芳，院长张晖，副院长贾小林、黄晓...[2024-04-22]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 1,
+  "duration_seconds": 65.844,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0380_79a1528e8a4c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0380_79a1528e8a4c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

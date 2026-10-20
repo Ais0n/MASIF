@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0329_a48bdb4d8764",
+  "source_index": 329,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who from the CHI Steering Committee expressed interest in moving forward with one of the cities at the September 25, 2023 EC Working meeting?",
+  "prompt": "Who from the CHI Steering Committee expressed interest in moving forward with one of the cities at the September 25, 2023 EC Working meeting?",
+  "expected_answer": "Cliff Lampe",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/events/ec-working-september-25-2023/"
+    ],
+    "golden_path": [
+      "root->Meetings->Past Meetings->EC Working, September 25, 2023Sep 25, 2023 - Sep 25, 2023The monthly SIGCHI EC working meeting for September 2023 was focused on CHI 2026."
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 70.213,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0329_a48bdb4d8764/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0329_a48bdb4d8764/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

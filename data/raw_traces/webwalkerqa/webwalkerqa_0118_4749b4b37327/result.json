@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0118_4749b4b37327",
+  "source_index": 118,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "EHA为早期职业研究人员提供哪种专注于计算和定量生物学方面的培训项目？",
+  "prompt": "EHA为早期职业研究人员提供哪种专注于计算和定量生物学方面的培训项目？",
+  "expected_answer": "Computational Biology Training in Hematology",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/research/research-trainings/"
+    ],
+    "golden_path": [
+      "root->Research trainings"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "EHA为早期职业研究人员提供的专注于计算和定量生物学方面的培训项目包括EHA-EMBO Lab Leadership Course和Research training programs。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 23.103,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0118_4749b4b37327/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0118_4749b4b37327/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer lists",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

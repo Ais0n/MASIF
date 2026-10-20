@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0492_26d33df85d57",
+  "source_index": 492,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "During the ACR Convergence 2024, when is the Pediatric Rheumatology Residents Program scheduled, and does it coincide with the Global Rheumatology Summit?",
+  "prompt": "During the ACR Convergence 2024, when is the Pediatric Rheumatology Residents Program scheduled, and does it coincide with the Global Rheumatology Summit?",
+  "expected_answer": "The Pediatric Rheumatology Residents Program is scheduled for November 16, coinciding with the Global Rheumatology Summit on the same day.",
+  "root_url": "https://rheumatology.org/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://rheumatology.org/annual-meeting-registration",
+      "https://rheumatology.org/annual-meeting-program"
+    ],
+    "golden_path": [
+      "root->Attendees->ACR Convergence",
+      "root->Program"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 4,
+  "duration_seconds": 30.201,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0492_26d33df85d57/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0492_26d33df85d57/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

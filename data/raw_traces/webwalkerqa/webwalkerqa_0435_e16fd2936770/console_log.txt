@@ -1,0 +1,617 @@
+----- user -----
+query:
+2024年“家国计”就业洽谈会和杭州校友日活动上，哪位清华大学计算机系的现任领导发表了欢迎致辞，并在两场合中都参与互动？
+official website:
+https://www.cs.tsinghua.edu.cn/
+Observation:website information:
+
+]( "计算机科学与技术系")
+                                                                                                                                                                                                          
+!
+第五届全球计算机学科发展论坛 2025年4月12日，第五届全球计算机学科发展论坛通过线上线下相结合的方式在清华大学自强科技楼1号楼13层多功能厅举行。第十二届全国政协副主席陈元，清华大学交叉信息研究院院长、图灵奖获得者姚期智，清华大学党委副书记、副校长白本锋分别致辞。
+!
+清华大学百川楼启用仪式举行 2025年12月20日，清华大学百川楼启用仪式举行。校务委员会副主任杨斌，校务委员会副主任、校友总会副会长王岩，百川智能创始人兼CEO、计算机系1996级校友王小川等出席仪式。计算机系主任尹霞主持仪式。
+!
+计算机系召开2025年毕业典礼 2025年6月21日下午，计算机系2025年毕业典礼在主楼后厅召开。系主任尹霞、系党委书记贾珈、校友代表张钹院士，教师代表汪东升，副系主任徐恪、李国良、刘洋、薛巍，系党委副书记赵颖，以及毕业班班主任、2025届全体毕业生参加了此次典礼。典礼由系党委副书记韩文弢主持。
+!
+第五届全球计算机学科发展论坛 2025年4月12日，第五届全球计算机学科发展论坛通过线上线下相结合的方式在清华大学自强科技楼1号楼13层多功能厅举行。第十二届全国政协副主席陈元，清华大学交叉信息研究院院长、图灵奖获得者姚期智，清华大学党委副书记、副校长白本锋分别致辞。
+!
+清华大学百川楼启用仪式举行 2025年12月20日，清华大学百川楼启用仪式举行。校务委员会副主任杨斌，校务委员会副主任、校友总会副会长王岩，百川智能创始人兼CEO、计算机系1996级校友王小川等出席仪式。计算机系主任尹霞主持仪式。
+##### 新闻动态
+  *  03 2026-05 计算机系举办115周年校庆系列活动! 在清华大学建校115周年之际，计算机系组织了9场校友秩年活动，覆盖了从1966届至2012级入学及毕业的各界校友，累计接待返校校友980余人... ]( "计算机系举办115周年校庆系列活动")
+  *  03 2026-05 计算机系举办1976级校友入学50周年纪念活动! 4月25日，计算机系举办1976级校友入学50周年纪念活动。计算机系党委原书记张再兴、杨士强，系主任尹霞，1976级在校学习期间的任课教师... ]( "计算机系举办1976级校友入学50周年纪念活动")
+  *  03 2026-05 计算机系举办2002级校友毕业20周年纪念活动! 4月26日，计算机系举办2002级校友毕业20周年纪念活动。计算机系党委原书记杨士强，以及2002级校友在校学习期间的班主任李涓子，辅导员... ]( "计算机系举办2002级校友毕业20周年纪念活动")
+  *  03 2026-05 计算机系举办2006级校友入学20周年纪念活动! 4月25日，计算机系举办2006级校友入学20周年纪念活动。计算机系党委原书记杨士强，2006级校友在校学习期间的任课老师、时任系党委副书... ]( "计算机系举办2006级校友入学20周年纪念活动")
+##### 通知公告
+                
+##### 学术报告
+ AI for Video Streaming and Health
+  * 2026年4月14日 14:00
+  * Yao Wang
+  * 清华大学FIT楼1-312
+]( "AI for Video Streaming and Health")
+ 面向 AI 时代的工业界网络系统
+  * 2026年4月14 15:20
+  * 翟恩南
+  * 清华大学二教401
+]( "面向 AI 时代的工业界网络系统")
+ 面向异构硬件的系统软件共性优化
+  * 12月16日 14:00
+  * 邵恩
+  * 自强科技楼524会议室
+]( "面向异构硬件的系统软件共性优化")
+ Temporal and Spatio-Temporal Data Management and Analytics – A Retrospective
+  * 12月3日16:00-18:00
+  * Christian S. Jensen
+  * 自强科技一号楼311会议室
+]( "Temporal and Spatio-Temporal Data Management and Analytics – A Retrospective")
+ Rethinking Programming Models for Building Future Data Systems
+  * 2026年4月14日 15:00-16:30
+  * Tianzheng Wang
+  * 自强科技一号楼312A会议室
+]( "Rethinking Programming Models for Building Future Data Systems")
+ AI for Video Streaming and Health
+  * 2026年4月14日 14:00
+  * Yao Wang
+  * 清华大学FIT楼1-312
+]( "AI for Video Streaming and Health")
+ 面向 AI 时代的工业界网络系统
+  * 2026年4月14 15:20
+  * 翟恩南
+  * 清华大学二教401
+]( "面向 AI 时代的工业界网络系统")
+ 面向异构硬件的系统软件共性优化
+  * 12月16日 14:00
+  * 邵恩
+  * 自强科技楼524会议室
+]( "面向异构硬件的系统软件共性优化")
+ Temporal and Spatio-Temporal Data Management and Analytics – A Retrospective
+  * 12月3日16:00-18:00
+  * Christian S. Jensen
+  * 自强科技一号楼311会议室
+]( "Temporal and Spatio-Temporal Data Management and Analytics – A Retrospective")
+ Rethinking Programming Models for Building Future Data Systems
+  * 2026年4月14日 15:00-16:30
+  * Tianzheng Wang
+  * 自强科技一号楼312A会议室
+]( "Rethinking Programming Models for Building Future Data Systems")
+ AI for Video Streaming and Health
+  * 2026年4月14日 14:00
+  * Yao Wang
+  * 清华大学FIT楼1-312
+]( "AI for Video Streaming and Health")
+ 面向 AI 时代的工业界网络系统
+  * 2026年4月14 15:20
+  * 翟恩南
+  * 清华大学二教401
+]( "面向 AI 时代的工业界网络系统")
+ 面向异构硬件的系统软件共性优化
+  * 12月16日 14:00
+  * 邵恩
+  * 自强科技楼524会议室
+]( "面向异构硬件的系统软件共性优化")
+](
+    
+地址：北京市海淀区双清路30号清华大学 100084
+综合办公室电话：010-62782467
+Copyright 2010~2024 清华大学 All Rights Reserved.
+!
+
+
+clickable button:
+
+<button>首页<button>
+<button>院系简介<button>
+<button>院系概况<button>
+<button>历史沿革<button>
+<button>历任领导<button>
+<button>委员会<button>
+<button>机构设置<button>
+<button>研究所/实验室<button>
+<button>基础与实验教学部<button>
+<button>顾问委员会<button>
+<button>委员会名单<button>
+<button>委员会新闻动态<button>
+<button>师资状况<button>
+<button>教职工名录<button>
+<button>杰出人才<button>
+<button>教学名师<button>
+<button>校内兼职教师<button>
+<button>名誉学衔<button>
+<button>党建专栏<button>
+<button>科学研究<button>
+<button>科研方向<button>
+<button>科研获奖<button>
+<button>科研动态<button>
+<button>学术报告<button>
+<button>科研机构<button>
+<button>教务教学<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>教务动态<button>
+<button>教指委动态<button>
+<button>招生招聘<button>
+<button>招生信息<button>
+<button>招聘信息<button>
+<button>联系我们<button>
+<button>学生活动<button>
+<button>团委<button>
+<button>学生会<button>
+<button>学生科协<button>
+<button>宣传中心<button>
+<button>体协<button>
+<button>课程调研委员会<button>
+<button>TMS分会<button>
+<button>学生算协<button>
+<button>研究生团总支<button>
+<button>研究生会<button>
+<button>学生动态<button>
+<button>系友工作<button>
+<button>系友会<button>
+<button>发展基金<button>
+<button>学科论坛<button>
+<button>更多<button>
+<button>60周年系庆<button>
+<button>更多+<button>
+<button>032026-05计算机系举办115周年校庆系列活动在清华大学建校115周年之际，计算机系组织了9场校友秩年活动，覆盖了从1966届至2012级入学及毕业的各界校友，累计接待返校校友980余人...<button>
+<button>032026-05计算机系举办1976级校友入学50周年纪念活动4月25日，计算机系举办1976级校友入学50周年纪念活动。计算机系党委原书记张再兴、杨士强，系主任尹霞，1976级在校学习期间的任课教师...<button>
+<button>032026-05计算机系举办2002级校友毕业20周年纪念活动4月26日，计算机系举办2002级校友毕业20周年纪念活动。计算机系党委原书记杨士强，以及2002级校友在校学习期间的班主任李涓子，辅导员...<button>
+<button>032026-05计算机系举办2006级校友入学20周年纪念活动4月25日，计算机系举办2006级校友入学20周年纪念活动。计算机系党委原书记杨士强，2006级校友在校学习期间的任课老师、时任系党委副书...<button>
+<button>更多+<button>
+<button>15十月Admission to Graduate Programs<button>
+<button>19八月清华大学计算机科学与技术系2026年博士研究生招生综合考核及录取办法<button>
+<button>19八月清华大学计算机科学与技术系2026年硕士推免生考核及录取办法<button>
+<button>10七月二〇二五年十二月计算机系研究生毕业工作流程说明<button>
+<button>03六月清华大学计算机系2025年拟录取研究生党组织关系及档案相关事宜说明<button>
+<button>02一月二〇二五年六月计算机系研究生毕业工作流程说明<button>
+<button>11十二月清华大学计算机系2025年“大中衔接”冬季教学活动<button>
+<button>06九月计算机系2025年硕士推免生考核及录取办法<button>
+<button>更多+<button>
+<button>AI for Video Streaming and Health2026年4月14日 14:00Yao Wang清华大学FIT楼1-312<button>
+<button>面向 AI 时代的工业界网络系统2026年4月14 15:20翟恩南清华大学二教401<button>
+<button>面向异构硬件的系统软件共性优化12月16日 14:00邵恩自强科技楼524会议室<button>
+<button>Temporal and Spatio-Temporal Data Management and Analytics – A Retrospective12月3日16:00-18:00Christian S. Jensen自强科技一号楼311会议室<button>
+<button>Rethinking Programming Models for Building Future Data Systems2026年4月14日 15:00-16:30Tianzheng Wang自强科技一号楼312A会议室<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到2024年“家国计”就业洽谈会和杭州校友日活动的相关信息，以及清华大学计算机系现任领导在这些场合的参与情况。首先，我应该访问“系友工作”或“系友会”页面，以获取与校友活动相关的信息。
+
+Action: visit_page
+Action Input: {"button": "系友工作"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术系")
+                                                                                                                                                                                                          
+!
+ >  >  > 
+##### 计算机系校友办公室介绍
+系友群体是计算机系最宝贵的财富，也是计算机系最可信赖的力量。半个多世纪以来，清华大学计算机系汇集了上万名优秀人才，他们从这里投身到各行各业，走向世界各地，为全球计算机学术领域和互联网发展做出了卓越贡献。
+2012年12月15日，计算机科学与技术系校友会正式揭牌成立，同时也成立了计算机系校友办公室，我们以“联络系友感情，了解系友需求，宣传系友成就，展示系友风采，拓展系友资源，健全系友组织，凝聚系友力量，推动计算机系事业发展”为计算机系校友工作的宗旨，通过建设系友专享的虚拟网络平台，完善安全且使用便捷的系友数据库，每年筹办校庆日系友重聚和系友年会等大型活动，组织讲座、报告、科技成果展会，为广大系友创造继续获取新知、拓展社会资源、共建合作渠道、互助职业发展的机会，助力系友事业成功，鼓励系友为母系做出持续贡献。
+我们相信，经过我们共同的努力，计算机系校友办公室愿成为联系广大系友的桥梁与纽带，和广大系友一起，彼此促进，共创价值！
+清华大学计算机科学与技术系校友办公室
+电话：010-62780542 或 010-62782917
+邮箱：thucs@tsinghua.edu.cn
+地址：北京市海淀区清华大学自强科技楼1号楼202室
+邮编：100084
+官方微博：<
+#####  系友工作
+!
+  *                               
+  *           
+##### 推荐新闻
+](
+    
+地址：北京市海淀区双清路30号清华大学 100084
+综合办公室电话：010-62782467
+Copyright 2010~2024 清华大学 All Rights Reserved.
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>院系简介<button>
+<button>院系概况<button>
+<button>历史沿革<button>
+<button>历任领导<button>
+<button>委员会<button>
+<button>机构设置<button>
+<button>研究所/实验室<button>
+<button>基础与实验教学部<button>
+<button>顾问委员会<button>
+<button>委员会名单<button>
+<button>委员会新闻动态<button>
+<button>师资状况<button>
+<button>教职工名录<button>
+<button>杰出人才<button>
+<button>教学名师<button>
+<button>校内兼职教师<button>
+<button>名誉学衔<button>
+<button>党建专栏<button>
+<button>科学研究<button>
+<button>科研方向<button>
+<button>科研获奖<button>
+<button>科研动态<button>
+<button>学术报告<button>
+<button>科研机构<button>
+<button>教务教学<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>教务动态<button>
+<button>教指委动态<button>
+<button>招生招聘<button>
+<button>招生信息<button>
+<button>招聘信息<button>
+<button>联系我们<button>
+<button>学生活动<button>
+<button>团委<button>
+<button>学生会<button>
+<button>学生科协<button>
+<button>宣传中心<button>
+<button>体协<button>
+<button>课程调研委员会<button>
+<button>TMS分会<button>
+<button>学生算协<button>
+<button>研究生团总支<button>
+<button>研究生会<button>
+<button>学生动态<button>
+<button>系友工作<button>
+<button>系友会<button>
+<button>发展基金<button>
+<button>学科论坛<button>
+<button>更多<button>
+<button>60周年系庆<button>
+<button>系友办介绍<button>
+<button>理事会<button>
+<button>章程<button>
+<button>系友动态<button>
+<button>系友相关活动介绍<button>
+<button>系友通讯<button>
+<button>基金项目<button>
+<button>捐赠指南<button>
+
+----- WebWalker -----
+Thought: 系友工作页面没有直接提到“家国计”就业洽谈会和杭州校友日活动，我需要进一步查找与系友活动相关的详细信息。可以尝试访问“系友会”或“系友动态”页面。
+
+Action: visit_page
+Action Input: {"button": "系友会"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+访问“系友会”页面失败，可能该页面不存在或需要其他方式获取信息。我将尝试访问“系友动态”页面，以查找与校友活动相关的详细信息。
+
+Action: visit_page
+Action Input: {"button": "系友动态"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+访问“系友动态”页面也失败了，可能该页面不存在或需要其他方式获取信息。我将尝试访问“系友相关活动介绍”页面，以查找与校友活动相关的详细信息。
+
+Action: visit_page
+Action Input: {"button": "系友相关活动介绍"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+访问“系友相关活动介绍”页面也失败了，可能该页面不存在或需要其他方式获取信息。我将尝试访问“学科论坛”页面，以查找与校友活动相关的详细信息。
+
+Action: visit_page
+Action Input: {"button": "学科论坛"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术系")
+                                                                                                                                                                                                          
+!
+第五届全球计算机学科发展论坛 2025年4月12日，第五届全球计算机学科发展论坛通过线上线下相结合的方式在清华大学自强科技楼1号楼13层多功能厅举行。第十二届全国政协副主席陈元，清华大学交叉信息研究院院长、图灵奖获得者姚期智，清华大学党委副书记、副校长白本锋分别致辞。
+!
+清华大学百川楼启用仪式举行 2025年12月20日，清华大学百川楼启用仪式举行。校务委员会副主任杨斌，校务委员会副主任、校友总会副会长王岩，百川智能创始人兼CEO、计算机系1996级校友王小川等出席仪式。计算机系主任尹霞主持仪式。
+!
+计算机系召开2025年毕业典礼 2025年6月21日下午，计算机系2025年毕业典礼在主楼后厅召开。系主任尹霞、系党委书记贾珈、校友代表张钹院士，教师代表汪东升，副系主任徐恪、李国良、刘洋、薛巍，系党委副书记赵颖，以及毕业班班主任、2025届全体毕业生参加了此次典礼。典礼由系党委副书记韩文弢主持。
+!
+第五届全球计算机学科发展论坛 2025年4月12日，第五届全球计算机学科发展论坛通过线上线下相结合的方式在清华大学自强科技楼1号楼13层多功能厅举行。第十二届全国政协副主席陈元，清华大学交叉信息研究院院长、图灵奖获得者姚期智，清华大学党委副书记、副校长白本锋分别致辞。
+!
+清华大学百川楼启用仪式举行 2025年12月20日，清华大学百川楼启用仪式举行。校务委员会副主任杨斌，校务委员会副主任、校友总会副会长王岩，百川智能创始人兼CEO、计算机系1996级校友王小川等出席仪式。计算机系主任尹霞主持仪式。
+##### 新闻动态
+  *  03 2026-05 计算机系举办115周年校庆系列活动! 在清华大学建校115周年之际，计算机系组织了9场校友秩年活动，覆盖了从1966届至2012级入学及毕业的各界校友，累计接待返校校友980余人... ]( "计算机系举办115周年校庆系列活动")
+  *  03 2026-05 计算机系举办1976级校友入学50周年纪念活动! 4月25日，计算机系举办1976级校友入学50周年纪念活动。计算机系党委原书记张再兴、杨士强，系主任尹霞，1976级在校学习期间的任课教师... ]( "计算机系举办1976级校友入学50周年纪念活动")
+  *  03 2026-05 计算机系举办2002级校友毕业20周年纪念活动! 4月26日，计算机系举办2002级校友毕业20周年纪念活动。计算机系党委原书记杨士强，以及2002级校友在校学习期间的班主任李涓子，辅导员... ]( "计算机系举办2002级校友毕业20周年纪念活动")
+  *  03 2026-05 计算机系举办2006级校友入学20周年纪念活动! 4月25日，计算机系举办2006级校友入学20周年纪念活动。计算机系党委原书记杨士强，2006级校友在校学习期间的任课老师、时任系党委副书... ]( "计算机系举办2006级校友入学20周年纪念活动")
+##### 通知公告
+                
+##### 学术报告
+ AI for Video Streaming and Health
+  * 2026年4月14日 14:00
+  * Yao Wang
+  * 清华大学FIT楼1-312
+]( "AI for Video Streaming and Health")
+ 面向 AI 时代的工业界网络系统
+  * 2026年4月14 15:20
+  * 翟恩南
+  * 清华大学二教401
+]( "面向 AI 时代的工业界网络系统")
+ 面向异构硬件的系统软件共性优化
+  * 12月16日 14:00
+  * 邵恩
+  * 自强科技楼524会议室
+]( "面向异构硬件的系统软件共性优化")
+ Temporal and Spatio-Temporal Data Management and Analytics – A Retrospective
+  * 12月3日16:00-18:00
+  * Christian S. Jensen
+  * 自强科技一号楼311会议室
+]( "Temporal and Spatio-Temporal Data Management and Analytics – A Retrospective")
+ Rethinking Programming Models for Building Future Data Systems
+  * 2026年4月14日 15:00-16:30
+  * Tianzheng Wang
+  * 自强科技一号楼312A会议室
+]( "Rethinking Programming Models for Building Future Data Systems")
+ AI for Video Streaming and Health
+  * 2026年4月14日 14:00
+  * Yao Wang
+  * 清华大学FIT楼1-312
+]( "AI for Video Streaming and Health")
+ 面向 AI 时代的工业界网络系统
+  * 2026年4月14 15:20
+  * 翟恩南
+  * 清华大学二教401
+]( "面向 AI 时代的工业界网络系统")
+ 面向异构硬件的系统软件共性优化
+  * 12月16日 14:00
+  * 邵恩
+  * 自强科技楼524会议室
+]( "面向异构硬件的系统软件共性优化")
+ Temporal and Spatio-Temporal Data Management and Analytics – A Retrospective
+  * 12月3日16:00-18:00
+  * Christian S. Jensen
+  * 自强科技一号楼311会议室
+]( "Temporal and Spatio-Temporal Data Management and Analytics – A Retrospective")
+ Rethinking Programming Models for Building Future Data Systems
+  * 2026年4月14日 15:00-16:30
+  * Tianzheng Wang
+  * 自强科技一号楼312A会议室
+]( "Rethinking Programming Models for Building Future Data Systems")
+ AI for Video Streaming and Health
+  * 2026年4月14日 14:00
+  * Yao Wang
+  * 清华大学FIT楼1-312
+]( "AI for Video Streaming and Health")
+ 面向 AI 时代的工业界网络系统
+  * 2026年4月14 15:20
+  * 翟恩南
+  * 清华大学二教401
+]( "面向 AI 时代的工业界网络系统")
+ 面向异构硬件的系统软件共性优化
+  * 12月16日 14:00
+  * 邵恩
+  * 自强科技楼524会议室
+]( "面向异构硬件的系统软件共性优化")
+](
+    
+地址：北京市海淀区双清路30号清华大学 100084
+综合办公室电话：010-62782467
+Copyright 2010~2024 清华大学 All Rights Reserved.
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>院系简介<button>
+<button>院系概况<button>
+<button>历史沿革<button>
+<button>历任领导<button>
+<button>委员会<button>
+<button>机构设置<button>
+<button>研究所/实验室<button>
+<button>基础与实验教学部<button>
+<button>顾问委员会<button>
+<button>委员会名单<button>
+<button>委员会新闻动态<button>
+<button>师资状况<button>
+<button>教职工名录<button>
+<button>杰出人才<button>
+<button>教学名师<button>
+<button>校内兼职教师<button>
+<button>名誉学衔<button>
+<button>党建专栏<button>
+<button>科学研究<button>
+<button>科研方向<button>
+<button>科研获奖<button>
+<button>科研动态<button>
+<button>学术报告<button>
+<button>科研机构<button>
+<button>教务教学<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>教务动态<button>
+<button>教指委动态<button>
+<button>招生招聘<button>
+<button>招生信息<button>
+<button>招聘信息<button>
+<button>联系我们<button>
+<button>学生活动<button>
+<button>团委<button>
+<button>学生会<button>
+<button>学生科协<button>
+<button>宣传中心<button>
+<button>体协<button>
+<button>课程调研委员会<button>
+<button>TMS分会<button>
+<button>学生算协<button>
+<button>研究生团总支<button>
+<button>研究生会<button>
+<button>学生动态<button>
+<button>系友工作<button>
+<button>系友会<button>
+<button>发展基金<button>
+<button>学科论坛<button>
+<button>更多<button>
+<button>60周年系庆<button>
+<button>更多+<button>
+<button>032026-05计算机系举办115周年校庆系列活动在清华大学建校115周年之际，计算机系组织了9场校友秩年活动，覆盖了从1966届至2012级入学及毕业的各界校友，累计接待返校校友980余人...<button>
+<button>032026-05计算机系举办1976级校友入学50周年纪念活动4月25日，计算机系举办1976级校友入学50周年纪念活动。计算机系党委原书记张再兴、杨士强，系主任尹霞，1976级在校学习期间的任课教师...<button>
+<button>032026-05计算机系举办2002级校友毕业20周年纪念活动4月26日，计算机系举办2002级校友毕业20周年纪念活动。计算机系党委原书记杨士强，以及2002级校友在校学习期间的班主任李涓子，辅导员...<button>
+<button>032026-05计算机系举办2006级校友入学20周年纪念活动4月25日，计算机系举办2006级校友入学20周年纪念活动。计算机系党委原书记杨士强，2006级校友在校学习期间的任课老师、时任系党委副书...<button>
+<button>更多+<button>
+<button>15十月Admission to Graduate Programs<button>
+<button>19八月清华大学计算机科学与技术系2026年博士研究生招生综合考核及录取办法<button>
+<button>19八月清华大学计算机科学与技术系2026年硕士推免生考核及录取办法<button>
+<button>10七月二〇二五年十二月计算机系研究生毕业工作流程说明<button>
+<button>03六月清华大学计算机系2025年拟录取研究生党组织关系及档案相关事宜说明<button>
+<button>02一月二〇二五年六月计算机系研究生毕业工作流程说明<button>
+<button>11十二月清华大学计算机系2025年“大中衔接”冬季教学活动<button>
+<button>06九月计算机系2025年硕士推免生考核及录取办法<button>
+<button>更多+<button>
+<button>AI for Video Streaming and Health2026年4月14日 14:00Yao Wang清华大学FIT楼1-312<button>
+<button>面向 AI 时代的工业界网络系统2026年4月14 15:20翟恩南清华大学二教401<button>
+<button>面向异构硬件的系统软件共性优化12月16日 14:00邵恩自强科技楼524会议室<button>
+<button>Temporal and Spatio-Temporal Data Management and Analytics – A Retrospective12月3日16:00-18:00Christian S. Jensen自强科技一号楼311会议室<button>
+<button>Rethinking Programming Models for Building Future Data Systems2026年4月14日 15:00-16:30Tianzheng Wang自强科技一号楼312A会议室<button>
+
+----- WebWalker -----
+Memory:
+-清华大学计算机系主任尹霞在2025年6月21日的毕业典礼上担任主持人，并在2025年12月20日的清华大学百川楼启用仪式中主持仪式，表明她在两场合中都参与互动。
+"}
+
+----- WebWalker -----
+Thought: 在“学科论坛”页面中，我看到了一些关于校友活动的新闻动态，但没有直接提到“家国计”就业洽谈会和杭州校友日活动。我需要进一步查找这些活动的具体信息，可以尝试访问“新闻动态”页面。
+
+Action: visit_page
+Action Input: {"button": "新闻动态"}
+
+----- VisitPage -----
+Button not found: 新闻动态
+
+----- WebWalker -----
+Thought: 由于“新闻动态”按钮无法点击，我将尝试访问其他与活动相关的页面，例如“通知公告”或“学术报告”，以寻找可能的线索。
+
+Action: visit_page
+Action Input: {"button": "通知公告"}
+
+----- VisitPage -----
+Button not found: 通知公告
+
+----- WebWalker -----
+Thought: 由于“通知公告”按钮也无法点击，我将尝试访问“学术报告”页面，以寻找可能与活动相关的详细信息。
+
+Action: visit_page
+Action Input: {"button": "学术报告"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术系")
+                                                                                                                                                                                                          
+!
+ >  > 
+                    
+共27条 首页上页1
+#####  科学研究
+!
+          
+##### 推荐新闻
+](
+    
+地址：北京市海淀区双清路30号清华大学 100084
+综合办公室电话：010-62782467
+Copyright 2010~2024 清华大学 All Rights Reserved.
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>院系简介<button>
+<button>院系概况<button>
+<button>历史沿革<button>
+<button>历任领导<button>
+<button>委员会<button>
+<button>机构设置<button>
+<button>研究所/实验室<button>
+<button>基础与实验教学部<button>
+<button>顾问委员会<button>
+<button>委员会名单<button>
+<button>委员会新闻动态<button>
+<button>师资状况<button>
+<button>教职工名录<button>
+<button>杰出人才<button>
+<button>教学名师<button>
+<button>校内兼职教师<button>
+<button>名誉学衔<button>
+<button>党建专栏<button>
+<button>科学研究<button>
+<button>科研方向<button>
+<button>科研获奖<button>
+<button>科研动态<button>
+<button>学术报告<button>
+<button>科研机构<button>
+<button>教务教学<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>教务动态<button>
+<button>教指委动态<button>
+<button>招生招聘<button>
+<button>招生信息<button>
+<button>招聘信息<button>
+<button>联系我们<button>
+<button>学生活动<button>
+<button>团委<button>
+<button>学生会<button>
+<button>学生科协<button>
+<button>宣传中心<button>
+<button>体协<button>
+<button>课程调研委员会<button>
+<button>TMS分会<button>
+<button>学生算协<button>
+<button>研究生团总支<button>
+<button>研究生会<button>
+<button>学生动态<button>
+<button>系友工作<button>
+<button>系友会<button>
+<button>发展基金<button>
+<button>学科论坛<button>
+<button>更多<button>
+<button>60周年系庆<button>
+<button>07四月Rethinking Programming Models for Building Future Data Systems<button>
+<button>07四月AI for Video Streaming and Health<button>
+<button>07四月面向 AI 时代的工业界网络系统<button>
+<button>05九月构建大尺度脑仿真的建模生态系统<button>
+<button>05八月Improving Reliability of Modern Cloud Systems with Verification in the Loop<button>
+<button>21七月AI for data-driven simulations in Physics<button>
+<button>07七月MCLM: A Function-Infused and Synthesis-FriendlyModular Chemical Language Model<button>
+<button>01七月LLM and FM for Time Series Analysis and Applications: from AIOps to EdTech<button>
+<button>13六月MODERN MEDICALAI WITH LARGE.SCALE MODELS<button>
+<button>17三月计算机学科顾问委员会特邀报告-图灵奖得主Avi Wigderson教授<button>
+<button>2<button>
+<button>3<button>
+<button>下页<button>
+<button>尾页<button>

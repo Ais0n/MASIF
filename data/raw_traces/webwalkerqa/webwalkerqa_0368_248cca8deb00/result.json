@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0368_248cca8deb00",
+  "source_index": 368,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What types of proposals had submission deadlines between September 10, 2001, and January 6, 2002?",
+  "prompt": "What types of proposals had submission deadlines between September 10, 2001, and January 6, 2002?",
+  "expected_answer": "Full Paper, Panel Proposals, State of the Art Proposals, Tutorial Proposals, Workshop Proposals, Poster and Demo Proposals.",
+  "root_url": "http://www.icse-conferences.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "http://www.icse-conferences.org/2002/cfp/deadlines.html"
+    ],
+    "golden_path": [
+      "root->ICSE 2002->Types of Submissions->submission deadlines"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The types of proposals that had submission deadlines between September 10, 2001, and January 6, 2002, include Tutorial Proposals, Workshop Proposals, State-Of-The-Art Presentation Proposals, Panel Proposals, Doctoral Symposium Applications, Poster and Informal Research Demonstration Proposals, and Student Volunteer Applications.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 4,
+  "duration_seconds": 40.772,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0368_248cca8deb00/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0368_248cca8deb00/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

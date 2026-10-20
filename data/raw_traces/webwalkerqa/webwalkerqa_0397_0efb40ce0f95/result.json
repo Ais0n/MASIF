@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0397_0efb40ce0f95",
+  "source_index": 397,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年5月15日，在南华大学计算机学院三楼会议室召开的“医+X”班人才培养方案修订研讨会过程中，基础医学院教务办副主任是哪位？",
+  "prompt": "2024年5月15日，在南华大学计算机学院三楼会议室召开的“医+X”班人才培养方案修订研讨会过程中，基础医学院教务办副主任是哪位？",
+  "expected_answer": "尹蔚兰博士",
+  "root_url": "https://jsjxy.usc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.usc.edu.cn/info/1993/11230.htm"
+    ],
+    "golden_path": [
+      "root->更多+->下页->“医+X”班人才培养方案修订研讨会在计算机学院召开"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 37.427,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0397_0efb40ce0f95/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0397_0efb40ce0f95/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

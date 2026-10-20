@@ -1,0 +1,122 @@
+{
+  "events": [
+    {
+      "index": 1,
+      "role": "user",
+      "content": "query:\n2024饥荒双版豪华包包含哪些DLC，并且这些DLC的个别推荐率是多少？\nofficial website:\nhttps://www.wegame.com.cn/\nObservation:website information:\n\n\n      * ;)\n          \n)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n登录\n!\n01\n大作\n02\n焕新\n03\n助手\n04\n开黑\n05\n高校\n下载 3.0 客户端\n下载 Mac 端\n###  请根据Mac芯片选择对应版本 \n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n蛋蛋君已完成高校认证\n三角洲求大佬带飞\n让我看看本校榜一是谁\n这周的福利到手啦\n找个校友一起开黑\n下次一定要打赢隔壁\n蛋蛋君已完成高校认证\n三角洲求大佬带飞\n让我看看本校榜一是谁\n这周的福利到手啦\n找个校友一起开黑\n下次一定要打赢隔壁\n### WeGame \n下载客户端\n     ;);)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型 \n官方渠道\n     微信 !扫描二维码关注微信公众号 !扫描二维码关注微信视频号  \n友情链接\n     \n 粤公网安备 44030502008701号 ](\nCOPYRIGHT © 2017 – 2026 TENCENT. ALL RIGHTS RESERVED. \n\n\nclickable button:\n\n<button>WeGame<button>\n<button>首页<button>\n<button>商店<button>\n<button>视频创作者招募计划<button>\n<button>软件许可及服务协议<button>\n<button>隐私保护指引<button>\n<button>联系我们<button>\n\n\nEach button is wrapped in a <button> tag\n\n",
+      "root_url": "https://www.wegame.com.cn/"
+    },
+    {
+      "index": 2,
+      "role": "WebWalker",
+      "content": "Thought: I need to find the page that contains information about the 2024饥荒双版豪华包 and its DLCs. The first step is to visit the homepage of the official website.\n\nAction: visit_page\nAction Input: {\"button\": \"WeGame\"}\n"
+    },
+    {
+      "index": 3,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n      * ;)\n          \n)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n登录\n!\n01\n大作\n02\n焕新\n03\n助手\n04\n开黑\n05\n高校\n下载 3.0 客户端\n下载 Mac 端\n###  请根据Mac芯片选择对应版本 \n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n蛋蛋君已完成高校认证\n三角洲求大佬带飞\n让我看看本校榜一是谁\n这周的福利到手啦\n找个校友一起开黑\n下次一定要打赢隔壁\n蛋蛋君已完成高校认证\n三角洲求大佬带飞\n让我看看本校榜一是谁\n这周的福利到手啦\n找个校友一起开黑\n下次一定要打赢隔壁\n### WeGame \n下载客户端\n     ;);)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型 \n官方渠道\n     微信 !扫描二维码关注微信公众号 !扫描二维码关注微信视频号  \n友情链接\n     \n 粤公网安备 44030502008701号 ](\nCOPYRIGHT © 2017 – 2026 TENCENT. ALL RIGHTS RESERVED. \n\n\nClickable buttons are wrapped in <button> tag\n<button>WeGame<button>\n<button>首页<button>\n<button>商店<button>\n<button>视频创作者招募计划<button>\n<button>软件许可及服务协议<button>\n<button>隐私保护指引<button>\n<button>联系我们<button>\n",
+      "button": "WeGame",
+      "url": "https://www.wegame.com.cn/home",
+      "markdown_chars": 587,
+      "discovered_buttons": 7
+    },
+    {
+      "index": 4,
+      "role": "WebWalker",
+      "content": "Thought: The homepage of WeGame does not contain the information about the 2024饥荒双版豪华包. I should visit the \"商店\" (Store) page to find game-related information.\n\nAction: visit_page\nAction Input: {\"button\": \"商店\"}"
+    },
+    {
+      "index": 5,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n      * ;)\n          \n)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n登录\n        * ;)\n热门类型\n大型网游\n单机\n动作RPG\n冒险RPG\nMMORPG\nFPS\n二次元\n游戏特性\n端手互通\n云游戏 _免下载秒玩_\n测试专区\n千万不分成\n排行榜\n火爆新品\n预约之星\n最高热度\n本周热销\n口碑佳作\n折扣促销\n最新测试\n新游预告\n轮回修仙路 _最新上线_\n三国：天下归心\n神之一手\n大家都在玩\n三角洲行动\n英雄联盟\n无畏契约\n;)\n!\n版本更新\n开黑季开启！新人送150抽\n首发威刘备、谋黄盖等你拿\n免费开玩\n!\n福利活动\n绝路相逢，斗牛1V1邀你来战\n热度榜 TOP 336.0 万人推荐\n免费开玩\n!\n版本更新\n拉克丝的国风衣橱臻彩上新\n热度榜 TOP 3推荐率 78%\n免费开玩\n!\n版本更新\nTennoCon2026数字礼包已上线\n免费开玩\n!\n新游上线\n轮回百世，以求仙道\n九重天劫，逆天成道\n热销榜 TOP 3火爆榜 TOP 10推荐率 91.6%\n**7** _折_\n**¥ 39.90**~~¥ 57~~\n!\n大版本\n登录领全新匕首-枪娘莱拉\n火爆榜 TOP 3热度榜 TOP 52.8 万人推荐\n免费开玩\n!\n抢先预约\n挂机刷宝 解放双手\n预约拿经典职业套装、翅膀材料\n预约榜 TOP 511.7 万人已预约\n预约\n!\n!\n!\n!\n!\n!\n!\n!\n**三国杀**\n!\n**无畏契约**\n!\n**英雄联盟**\n!\n**星际战甲**\n!\n**轮回修仙路**\n!\n**穿越火线**\n!\n**奇迹MU**\n### WeGame \n下载客户端\n     ;);)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型 \n官方渠道\n     微信 !扫描二维码关注微信公众号 !扫描二维码关注微信视频号  \n友情链接\n     \n 粤公网安备 44030502008701号 ](\nCOPYRIGHT © 2017 – 2026 TENCENT. ALL RIGHTS RESERVED. \n\n\nClickable buttons are wrapped in <button> tag\n<button>WeGame<button>\n<button>首页<button>\n<button>商店<button>\n<button>视频创作者招募计划<button>\n<button>精选<button>\n<button>测试专区<button>\n<button>直播与视频<button>\n<button>0<button>\n<button>软件许可及服务协议<button>\n<button>隐私保护指引<button>\n<button>联系我们<button>\n",
+      "button": "商店",
+      "url": "https://www.wegame.com.cn/store",
+      "markdown_chars": 941,
+      "discovered_buttons": 11
+    },
+    {
+      "index": 6,
+      "role": "WebWalker",
+      "content": "Thought: The \"商店\" (Store) page contains various game-related information, but it does not directly mention the 2024饥荒双版豪华包 or its DLCs. I should look for a more specific section, such as \"精选\" (Featured) or \"测试专区\" (Test Zone), to find detailed information about the game and its content.\n\nAction: visit_page\nAction Input: {\"button\": \"精选\"}"
+    },
+    {
+      "index": 7,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n      * ;)\n          \n)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n登录\n        * ;)\n热门类型\n大型网游\n单机\n动作RPG\n冒险RPG\nMMORPG\nFPS\n二次元\n游戏特性\n端手互通\n云游戏 _免下载秒玩_\n测试专区\n千万不分成\n排行榜\n火爆新品\n预约之星\n最高热度\n本周热销\n口碑佳作\n折扣促销\n最新测试\n新游预告\n轮回修仙路 _最新上线_\n三国：天下归心\n神之一手\n大家都在玩\n三角洲行动\n英雄联盟\n无畏契约\n;)\n!\n版本更新\n开黑季开启！新人送150抽\n首发威刘备、谋黄盖等你拿\n免费开玩\n!\n版本更新\n参与限时下载活动赢旗舰游戏本\n推荐率 75%\n免费开玩\n!\n新游上线\n一念入道，再历轮回\n渡劫飞升，重走仙途\n热销榜 TOP 3火爆榜 TOP 10推荐率 91.6%\n**7** _折_\n**¥ 39.90**~~¥ 57~~\n!\n预约活动\n王者IP策略对战游戏预约中\n42.1 万人已预约\n免费开玩\n!\n福利活动\n绝路相逢，斗牛1V1邀你来战\n热度榜 TOP 336.0 万人推荐\n免费开玩\n!\n版本更新\n拉克丝的国风衣橱臻彩上新\n热度榜 TOP 3推荐率 78%\n免费开玩\n!\n抢先预约\n挂机刷宝 解放双手\n预约拿经典职业套装、翅膀材料\n预约榜 TOP 511.7 万人已预约\n预约\n!\n!\n!\n!\n!\n!\n!\n!\n**三国杀**\n!\n**二重螺旋**\n!\n**轮回修仙路**\n!\n**王者万象棋**\n!\n**无畏契约**\n!\n**英雄联盟**\n!\n**奇迹MU**\n## 预约进行中\n  * !\n### 异人之下\n预约火热进行中\n;)\n219.2万人\n  * !\n### 失控进化 - RUST玩法授权\n送限定枪皮，抽5070显卡\n;)\n174.9万人\n  * !\n### 灰境行者\nPvEvP猎杀夺宝FPS\n;)\n131.2万人\n  * !\n### 彩虹六号：攻势\n国服预约开启，领专属礼\n;)\n85.4万人\n  * !\n### 王者万象棋\n王者荣耀IP英雄策略对战游戏\n;)\n42.1万人\n  * !\n### 伊莫\n软萌预约开启，抽PS5主机\n;)\n35.5万人\n  * !\n### 地下城与勇士：卡赞\nDNF正统单机游戏\n;)\n22.7万人\n  * !\n### 卡厄思梦境\n国服来了，预约上线领连抽\n;)\n21.5万人\n  * !\n### 命运扳机\n领公测限定皮肤\n;)\n17.6万人\n  * !\n### 粒粒的小人国\n预约火热进行中\n;)\n16.2万人\n  * !\n### 奇迹MU\n预约送经典套，抽ipad！\n;)\n11.7万人\n  * !\n### 七界梦谭\n05-15 重大测试\n测试招募开启，参与赢PS5等大奖\n;)\n10.4万人\n  * !\n### 湮灭之潮\n国产单机·骑士幻想·动作冒险\n;)\n8.2万人\n  * !\n### 决战万界山\n首款全自由交易的沙盒宗门网游\n;)\n6.1万人\n  * !\n### 仙境传说：初心\n超值实物大礼\n;)\n5.6万人\n  * !\n### 星际理想国\n科幻开放世界冒险新游\n;)\n3.5万人\n  * !\n### 天堂2：盟约\n史诗重启！天堂2正统续作\n;)\n3.4万人\n  * !\n### 机甲战队\n机甲号召，预约赢5070Ti显卡\n;)\n1.0万人\n  * !\n### 饼干人联盟\n饼干人IP首款3D组队冒险游戏\n;)\n1.0万人\n  * !\n### 盛世天下-女帝篇\n《盛世天下》女帝篇正式开启预约！\n;)\n1887人\n### WeGame \n下载客户端\n     ;);)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型 \n官方渠道\n     微信 !扫描二维码关注微信公众号 !扫描二维码关注微信视频号  \n友情链接\n     \n 粤公网安备 44030502008701号 ](\nCOPYRIGHT © 2017 – 2026 TENCENT. ALL RIGHTS RESERVED. \n\n\nClickable buttons are wrapped in <button> tag\n<button>WeGame<button>\n<button>首页<button>\n<button>商店<button>\n<button>视频创作者招募计划<button>\n<button>精选<button>\n<button>测试专区<button>\n<button>直播与视频<button>\n<button>0<button>\n<button>软件许可及服务协议<button>\n<button>隐私保护指引<button>\n<button>联系我们<button>\n",
+      "button": "精选",
+      "url": "https://www.wegame.com.cn/store",
+      "markdown_chars": 1736,
+      "discovered_buttons": 11
+    },
+    {
+      "index": 8,
+      "role": "WebWalker",
+      "content": "Thought: The \"精选\" (Featured) page contains information about various games and their promotions, but it does not mention the 2024饥荒双版豪华包 or its DLCs. I should check the \"测试专区\" (Test Zone) to find more detailed game-related content.\n\nAction: visit_page\nAction Input: {\"button\": \"测试专区\"}"
+    },
+    {
+      "index": 9,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n      * ;)\n          \n)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n登录\n        * ;)\n热门类型\n大型网游\n单机\n动作RPG\n冒险RPG\nMMORPG\nFPS\n二次元\n游戏特性\n端手互通\n云游戏 _免下载秒玩_\n测试专区\n千万不分成\n排行榜\n火爆新品\n预约之星\n最高热度\n本周热销\n口碑佳作\n折扣促销\n最新测试\n新游预告\n### WeGame \n下载客户端\n     ;);)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型 \n官方渠道\n     微信 !扫描二维码关注微信公众号 !扫描二维码关注微信视频号  \n友情链接\n     \n 粤公网安备 44030502008701号 ](\nCOPYRIGHT © 2017 – 2026 TENCENT. ALL RIGHTS RESERVED. \n\n\nClickable buttons are wrapped in <button> tag\n<button>WeGame<button>\n<button>首页<button>\n<button>商店<button>\n<button>视频创作者招募计划<button>\n<button>精选<button>\n<button>测试专区<button>\n<button>直播与视频<button>\n<button>软件许可及服务协议<button>\n<button>隐私保护指引<button>\n<button>联系我们<button>\n",
+      "button": "测试专区",
+      "url": "https://www.wegame.com.cn/store/testzone/",
+      "markdown_chars": 448,
+      "discovered_buttons": 10
+    },
+    {
+      "index": 10,
+      "role": "WebWalker",
+      "content": "Thought: The \"测试专区\" (Test Zone) page does not contain the information about the 2024饥荒双版豪华包 or its DLCs. I should check other sections of the website, such as the \"首页\" (Homepage) or \"视频创作者招募计划\" (Video Creator Recruitment Plan), to find more relevant information.\n\nAction: visit_page\nAction Input: {\"button\": \"首页\"}"
+    },
+    {
+      "index": 11,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n      * ;)\n          \n)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n登录\n!\n01\n大作\n02\n焕新\n03\n助手\n04\n开黑\n05\n高校\n下载 3.0 客户端\n下载 Mac 端\n###  请根据Mac芯片选择对应版本 \n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n蛋蛋君已完成高校认证\n三角洲求大佬带飞\n让我看看本校榜一是谁\n这周的福利到手啦\n找个校友一起开黑\n下次一定要打赢隔壁\n蛋蛋君已完成高校认证\n三角洲求大佬带飞\n让我看看本校榜一是谁\n这周的福利到手啦\n找个校友一起开黑\n下次一定要打赢隔壁\n### WeGame \n下载客户端\n     ;);)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型 \n官方渠道\n     微信 !扫描二维码关注微信公众号 !扫描二维码关注微信视频号  \n友情链接\n     \n 粤公网安备 44030502008701号 ](\nCOPYRIGHT © 2017 – 2026 TENCENT. ALL RIGHTS RESERVED. \n\n\nClickable buttons are wrapped in <button> tag\n<button>WeGame<button>\n<button>首页<button>\n<button>商店<button>\n<button>视频创作者招募计划<button>\n<button>软件许可及服务协议<button>\n<button>隐私保护指引<button>\n<button>联系我们<button>\n",
+      "button": "首页",
+      "url": "https://www.wegame.com.cn/home",
+      "markdown_chars": 587,
+      "discovered_buttons": 7
+    },
+    {
+      "index": 12,
+      "role": "WebWalker",
+      "content": "Thought: The homepage does not contain the required information. I should check the \"视频创作者招募计划\" (Video Creator Recruitment Plan) page to find more relevant details about games and DLCs.\n\nAction: visit_page\nAction Input: {\"button\": \"视频创作者招募计划\"}"
+    },
+    {
+      "index": 13,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n      * ;)\n          \n)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n登录\n# WeGame视频创作者\n!\n](javascript:void\\(0\\);)\n!!!\n  * !\n_对于WeGame上的游戏，可以任意创作有趣的、大家想看的视频内容  \n只要求WeGame有轻度的展示，不干涉视频的其他内容  \n不进行繁复的大纲、脚本、初稿、二稿 …… 等等的监修和调整_\n  * !\n_基于相对宽松、自由的合作形式，给予合理的合作报酬  \n对于爆款的视频内容，会给到一定的激励奖金，鼓励有趣的创意  \n可以建立相对长期的合作关系，让内容和平台一起成长_\n  * !\n_不拘泥于单款游戏，WeGame有大量热门游戏，有意向的话均可合作  \n建立长期稳定的合作关系后，可以得到游戏测试、体验等额外福利  \n无需每个视频都进行合作，且仍可接受其他商单，没有任何排他要求_\n](javascript:void\\(0\\);)\n!\n!!!!\n### WeGame \n下载客户端\n     ;);)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型 \n官方渠道\n     微信 !扫描二维码关注微信公众号 !扫描二维码关注微信视频号  \n友情链接\n     \n 粤公网安备 44030502008701号 ](\nCOPYRIGHT © 2017 – 2026 TENCENT. ALL RIGHTS RESERVED. \n\n\nClickable buttons are wrapped in <button> tag\n<button>WeGame<button>\n<button>首页<button>\n<button>商店<button>\n<button>视频创作者招募计划<button>\n<button>软件许可及服务协议<button>\n<button>隐私保护指引<button>\n<button>联系我们<button>\n",
+      "button": "视频创作者招募计划",
+      "url": "https://www.wegame.com.cn/events/video-creator-recruitment/",
+      "markdown_chars": 694,
+      "discovered_buttons": 7
+    },
+    {
+      "index": 14,
+      "role": "WebWalker",
+      "content": "Thought: The \"视频创作者招募计划\" (Video Creator Recruitment Plan) page does not contain the required information about the 2024饥荒双版豪华包 or its DLCs. I should return to the \"商店\" (Store) page and explore other sections like \"直播与视频\" (Live Streaming and Video) or check if there is any direct link to the game's page.\n\nAction: visit_page\nAction Input: {\"button\": \"商店\"}"
+    },
+    {
+      "index": 15,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n      * ;)\n          \n)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n登录\n        * ;)\n热门类型\n大型网游\n单机\n动作RPG\n冒险RPG\nMMORPG\nFPS\n二次元\n游戏特性\n端手互通\n云游戏 _免下载秒玩_\n测试专区\n千万不分成\n排行榜\n火爆新品\n预约之星\n最高热度\n本周热销\n口碑佳作\n折扣促销\n最新测试\n新游预告\n轮回修仙路 _最新上线_\n三国：天下归心\n神之一手\n大家都在玩\n三角洲行动\n英雄联盟\n无畏契约\n;)\n!\n版本更新\n开黑季开启！新人送150抽\n首发威刘备、谋黄盖等你拿\n免费开玩\n!\n版本更新\n参与限时下载活动赢旗舰游戏本\n推荐率 75%\n免费开玩\n!\n预约活动\n王者IP策略对战游戏预约中\n42.1 万人已预约\n免费开玩\n!\n福利活动\n绝路相逢，斗牛1V1邀你来战\n热度榜 TOP 336.0 万人推荐\n免费开玩\n!\n大版本\n稀有道具限时返场\n火爆榜 TOP 3热度榜 TOP 52.8 万人推荐\n免费开玩\n!\n抢先预约\n挂机刷宝 解放双手\n预约拿经典职业套装、翅膀材料\n预约榜 TOP 511.7 万人已预约\n预约\n!\n福利活动\n萌新登录送海量资源！\n五一好礼！登录即领高额奖励\n推荐率 90.6%\n免费开玩\n!\n!\n!\n!\n!\n!\n!\n!\n**三国杀**\n!\n**二重螺旋**\n!\n**王者万象棋**\n!\n**无畏契约**\n!\n**穿越火线**\n!\n**奇迹MU**\n!\n**装甲战争**\n### WeGame \n下载客户端\n     ;);)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型 \n官方渠道\n     微信 !扫描二维码关注微信公众号 !扫描二维码关注微信视频号  \n友情链接\n     \n 粤公网安备 44030502008701号 ](\nCOPYRIGHT © 2017 – 2026 TENCENT. ALL RIGHTS RESERVED. \n\n\nClickable buttons are wrapped in <button> tag\n<button>WeGame<button>\n<button>首页<button>\n<button>商店<button>\n<button>视频创作者招募计划<button>\n<button>精选<button>\n<button>测试专区<button>\n<button>直播与视频<button>\n<button>0<button>\n<button>软件许可及服务协议<button>\n<button>隐私保护指引<button>\n<button>联系我们<button>\n",
+      "button": "商店",
+      "url": "https://www.wegame.com.cn/store",
+      "markdown_chars": 896,
+      "discovered_buttons": 11
+    },
+    {
+      "index": 16,
+      "role": "WebWalker",
+      "content": "Thought: The \"商店\" (Store) page still does not contain the required information about the 2024饥荒双版豪华包 or its DLCs. I should check the \"直播与视频\" (Live Streaming and Video) section to find more detailed game-related content.\n\nAction: visit_page\nAction Input: {\"button\": \"直播与视频\"}"
+    },
+    {
+      "index": 17,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n\n      * ;)\n          \n)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型\n登录\n        * ;)\n热门类型\n大型网游\n单机\n动作RPG\n冒险RPG\nMMORPG\nFPS\n二次元\n游戏特性\n端手互通\n云游戏 _免下载秒玩_\n测试专区\n千万不分成\n排行榜\n火爆新品\n预约之星\n最高热度\n本周热销\n口碑佳作\n折扣促销\n最新测试\n新游预告\n轮回修仙路 _最新上线_\n三国：天下归心\n神之一手\n大家都在玩\n三角洲行动\n英雄联盟\n无畏契约\n;)\n!\n!\n4614\n!\n00:00 / 24:14\n2025CFS世界总决赛官方纪录片《初心之上》上\n穿越火线赛事 05-06\n!\n穿越火线\nFPS 战术射击\n4.5万\n!\n00:00 / 06:32\n猛攻节来了，福利就到了！\n三角洲行动 04-30\n!\n三角洲行动\nFPS 军事\n1.5万\n!\n00:00 / 01:37\n安尼姆的无尽旅途「再启程」测试开启\n安尼姆的无尽旅途 04-29\n!\n安尼姆的无尽旅途 单机版\n冒险RPG 生存\n2.8万\n!\n00:00 / 01:29\n威震四方：S3赛季双雄并起\n特种部队集结官方账号 04-29\n!\n特种部队：集结\nFPS TPS\n2.0万\n!\n00:00 / 02:03\n给大孩子的田园童话！生活模拟游戏《星砂岛》温暖发售\n星砂岛 04-29\n!\n星砂岛\n模拟经营 休闲\n1.0万\n!\n00:00 / 00:57\n<创世战车>轻灵之步新版本4月30日上线\n创世战车官方 04-29\n!\n创世战车\n沙盒建造 爽<REDACTED_COMPANY>感\n### 正在热播\n  * 直播\n610\n!\n最快搬砖，两天三亿\n爱搬砖的老虎\n!\n地下城与勇士\nMMORPG 动作冒险\n  * 直播\n214\n!\n【预告】17点WBG vs WE 第二赛段组内赛\n虎牙英雄联盟赛事\n!\n英雄联盟\nMOBA 电子竞技\n  * 直播\n143\n!\n备战5.1，打造强化！账号评估\n今日不服\n!\n地下城与勇士\nMMORPG 动作冒险\n  * 直播\n101\n!\n51套套餐新号回归打造增幅强化\n一Eiji一\n!\n地下城与勇士\nMMORPG 动作冒险\n  * 直播\n100\n!\n直播PK黄金灯管不排队\n全职pk惜别\n!\n地下城与勇士\nMMORPG 动作冒险\n  * 直播\n47\n!\n峡谷冲第一！目前第2！团队无敌发力\n微竞-芜湖神【0172】\n!\n英雄联盟\nMOBA 电子竞技\n  * 直播\n33\n!\n【预告】8号17点 XLG vs EDG VCTCN第一赛段\n虎牙无畏契约赛事\n!\n无畏契约\nFPS 战术射击\n  * 直播\n26\n!\n七年峡谷第一峡谷新赛季冲第一教学\n北枫CC\n!\n英雄联盟\nMOBA 电子竞技\n  * 直播\n20\n!\n群英杯小组赛\nlol云顶之弈赛事\n!\n英雄联盟\nMOBA 电子竞技\n  * 直播\n12\n!\n心脏衰竭和肾衰竭，无法直播了\n十月船长丶\n!\n英雄联盟\nMOBA 电子竞技\n  * 直播\n11\n!\n新皮肤恶魔VN！版本T0英雄教学！\n祈风1v9\n!\n英雄联盟\nMOBA 电子竞技\n  * 直播\n9\n!\n峡谷12天到前十！失败90度开水烫唧唧\n微竞-古手羽\n!\n英雄联盟\nMOBA 电子竞技\n### 本周热门\n  * 4.5万\n!\n00:00 / 06:32\n猛攻节来了，福利就到了！\n**1**\n三角洲行动 04-30\n!\n三角洲行动\nFPS 军事\n  * 5.9万\n!\n00:00 / 00:49\n2025CFS世界总决赛官方纪录片《初心之上》5月3日全网上线！\n**2**\n穿越火线赛事 04-30\n!\n穿越火线\nFPS 战术射击\n  * 2.8万\n!\n00:00 / 01:29\n威震四方：S3赛季双雄并起\n**3**\n特种部队集结官方账号 04-29\n!\n特种部队：集结\nFPS TPS\n  * 1.5万\n!\n00:00 / 01:37\n安尼姆的无尽旅途「再启程」测试开启\n**4**\n安尼姆的无尽旅途 04-29\n!\n安尼姆的无尽旅途 单机版\n冒险RPG 生存\n  * 1.7万\n!\n00:00 / 02:59\n中式田园治愈之旅，生活模拟游戏《星砂岛》温暖发售\n**5**\n星砂岛 04-29\n!\n星砂岛\n模拟经营 休闲\n  * 2.0万\n!\n00:00 / 02:03\n给大孩子的田园童话！生活模拟游戏《星砂岛》温暖发售\n**6**\n星砂岛 04-29\n!\n星砂岛\n模拟经营 休闲\n  * 2.0万\n!\n00:00 / 17:52\n《失控进化》：多端互通，7月上线！\n**7**\n失控进化 04-28\n!\n失控进化 - RUST玩法授权\n生存 沙盒建造\n  * 1.0万\n!\n00:00 / 00:57\n<创世战车>轻灵之步新版本4月30日上线\n**8**\n创世战车官方 04-29\n!\n创世战车\n沙盒建造 爽<REDACTED_COMPANY>感\n### 发现更多\n直播\n视频\n游戏：\n全部\n地下城与勇士：创新世纪\n英雄联盟\n无畏契约\n三角洲行动\n穿越火线\n逆战\n问道\n王者万象棋\n黑色沙漠\n白荆回廊\n饥困荒野\n黑神话：悟空\n逆战：未来\n鸣潮\n归龙潮\n极品飞车：集结高清模拟器\n### WeGame \n下载客户端\n     ;);)\n### 请根据Mac芯片选择对应版本\n下载 Intel 版\n下载 M 系列版\n左上角苹果图标-关于本机-处理器可查看芯片类型 \n官方渠道\n     微信 !扫描二维码关注微信公众号 !扫描二维码关注微信视频号  \n友情链接\n     \n 粤公网安备 44030502008701号 ](\nCOPYRIGHT © 2017 – 2026 TENCENT. ALL RIGHTS RESERVED. \n我的关注\n直播消息提醒\n;)\n暂未关注任何主播\n\n\nClickable buttons are wrapped in <button> tag\n<button>WeGame<button>\n<button>首页<button>\n<button>商店<button>\n<button>视频创作者招募计划<button>\n<button>精选<button>\n<button>测试专区<button>\n<button>直播与视频<button>\n<button>软件许可及服务协议<button>\n<button>隐私保护指引<button>\n<button>联系我们<button>\n",
+      "button": "直播与视频",
+      "url": "https://www.wegame.com.cn/store/game_video.html",
+      "markdown_chars": 2411,
+      "discovered_buttons": 10
+    }
+  ]
+}

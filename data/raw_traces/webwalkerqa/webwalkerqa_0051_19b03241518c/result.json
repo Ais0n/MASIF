@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0051_19b03241518c",
+  "source_index": 51,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who is the chair responsible for accessibility during the ETRA 2025 that will be held at Miraikan, Tokyo?",
+  "prompt": "Who is the chair responsible for accessibility during the ETRA 2025 that will be held at Miraikan, Tokyo?",
+  "expected_answer": "Dragan Ahmetovic",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/events/etra-2025/",
+      "https://sigchi.org/people/committees/accessibility-committee/"
+    ],
+    "golden_path": [
+      "root->Upcoming Conferences->ETRA 2025Miraikan, Tokyo, Japan·May 26, 2025-May 29, 2025The 2025 ACM Symposium on Eye Tracking Research & Applications (ETRA) will be held in Tokyo, Japan from May 26 to May 29, 2025. The aim of ETRA is to bring together researchers and practitioners from across fields with the common goal of continuing to move eye tracking research forward. Join us in Tokyo for ETRA, attend co-located workshops, and participate in exciting discussions.",
+      "root->All Committees->Accessibility Committee"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 39.239,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0051_19b03241518c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0051_19b03241518c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

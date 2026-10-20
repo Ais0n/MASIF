@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0439_0847ac98abfc",
+  "source_index": 439,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the two upcoming games on the PlayStation 5 platform in 2025 that involve Japanese samurai culture?",
+  "prompt": "What are the two upcoming games on the PlayStation 5 platform in 2025 that involve Japanese samurai culture?",
+  "expected_answer": "The two upcoming games involving Japanese samurai culture on the PlayStation 5 platform in 2025 are Ghost of Yōtei and Assassin’s Creed Shadows.",
+  "root_url": "https://www.playstation.com/en-us/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.playstation.com/en-us/games/ghost-of-yotei/",
+      "https://www.playstation.com/en-us/games/assassins-creed-shadows/"
+    ],
+    "golden_path": [
+      "root->Ghost of Yōtei",
+      "root->Assassin's Creed Shadows"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The two upcoming games on the PlayStation 5 platform in 2025 that involve Japanese samurai culture are Ghost of Yōtei and God of War Ragnarök.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 20.546,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0439_0847ac98abfc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0439_0847ac98abfc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

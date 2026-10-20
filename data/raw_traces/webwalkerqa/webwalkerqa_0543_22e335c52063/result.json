@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0543_22e335c52063",
+  "source_index": 543,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年北京工业大学计算机学院中，韩红桂院长和陈奇妍的具体表彰称号分别是什么？",
+  "prompt": "2024年北京工业大学计算机学院中，韩红桂院长和陈奇妍的具体表彰称号分别是什么？",
+  "expected_answer": "韩红桂院长荣获北京市教育系统“教书育人榜样”称号；陈奇妍获评“优秀教育工作者标兵”。",
+  "root_url": "https://cs.bjut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.bjut.edu.cn/info/1462/2743.htm",
+      "https://cs.bjut.edu.cn/info/1462/2744.htm"
+    ],
+    "golden_path": [
+      "root->学院简介->网站首页->优秀教师、优秀教育工作者！这些计算机学院教...",
+      "root->学院简介->网站首页->计算机学院院长韩红桂教授荣获北京市教育系统..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 5,
+  "duration_seconds": 39.519,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0543_22e335c52063/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0543_22e335c52063/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0304_cf4074746c1e",
+  "source_index": 304,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在暨南大学信息科学技术学院2019年国家自然科学基金资助项目中，除了重点项目外，哪一个系获得的项目总数最多？",
+  "prompt": "在暨南大学信息科学技术学院2019年国家自然科学基金资助项目中，除了重点项目外，哪一个系获得的项目总数最多？",
+  "expected_answer": "网络空间安全",
+  "root_url": "https://xxxy.jnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://xxxy.jnu.edu.cn/2019/0903/c27549a574781/page.htm"
+    ],
+    "golden_path": [
+      "root->科研成果->信息科学技术学院/网络空间安全学院2019年国家自然科学基金资助项目再创佳绩2019-09-03"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 43.097,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0304_cf4074746c1e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0304_cf4074746c1e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

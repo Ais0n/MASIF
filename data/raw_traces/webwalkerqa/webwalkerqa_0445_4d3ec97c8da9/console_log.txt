@@ -1,0 +1,694 @@
+----- user -----
+query:
+2024年中，周傲英教授和马晓光教授在四川大学计算机学院的学术讲座分别举办的具体时间是什么？
+official website:
+https://cs.scu.edu.cn/
+Observation:website information:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+  * !
+  * !
+  * ](
+  * !
+  * !
+  * !
+](
+  2026年4月30日，计算机学院（软件学院）2025年度新晋副高教师聘任仪式在四川大学望江校区基础教学楼B314隆重举行。校党委副书记、纪委书记...
+  2026年4月28日上午，IEEE Chengdu Section博士生与青年学者论坛系列首次活动——“AI智能体及其在科研中的应用”学术沙龙在四川大学望江校...
+## 
+  * 04-29
+  * 04-27
+  * 04-01
+  * 03-31
+  * 03-30
+  * 03-19
+  * 09-30
+  * 04-22
+## 
+  * 30 2026-04
+  * 24 2026-04
+  * 17 2026-04
+  * 17 2026-04
+  * 17 2026-04
+  * 11 2026-04
+## 
+  * 28 2025-05
+  * 26 2025-05
+  * 20 2024-11
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+clickable button:
+
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>初心如磐担使命，勇攀高峰启新程——我院举行新晋副...<button>
+<button>IEEE Chengdu Section学术沙龙“AI智能体及其在科研...<button>
+<button>计算机学院（软件学院）2026年上半年硕士研究生毕业论文答辩...<button>
+<button>四川大学计算机学院（软件学院）2026年 博士研究生招生拟录取...<button>
+<button>四川大学计算机学院（软件学院）诚邀全球英才依托申报2026年...<button>
+<button>四川大学计算机学院（软件学院）2026年硕士研究生拟录取名单...<button>
+<button>四川大学计算机学院（软件学院）2026年硕士研究生复试成绩公...<button>
+<button>计算机学院（软件学院） 2026年度硕士研究生招生复试通知<button>
+<button>四川大学计算机学院（软件学院、智能科学与技术学院）诚邀全...<button>
+<button>我院成功举办“砺思·智行”学术大讲堂活动<button>
+<button>四川大学2026年5月4日-5月10日学术讲座论坛及校园文化活动预告<button>
+<button>四川大学2026年4月27日-5月5日学术讲座论坛及校园文化活动预告<button>
+<button>第九届计算机信息科学与应用技术国际学术会议（CISAT 2026）会...<button>
+<button>四川大学2026年4月20日-4月26日学术讲座论坛及校园文化活动预告<button>
+<button>【“智汇川流”学术论坛第11期】人的行为分析和运动建模<button>
+<button>四川大学2026年4月13日-4月19日学术讲座论坛及校园文化活动预告<button>
+<button>计科之星雷宇——博学笃志，格物明德<button>
+<button>计科之星刘杰瑞——为者常成，行者常至<button>
+<button>计科之星郭可欣——逐梦字节，扬帆起航<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到周傲英教授和马晓光教授在2024年中举办的学术讲座的具体时间。首先，我应该访问“学术交流与合作”页面，因为这通常会包含讲座信息。
+
+Action: visit_page
+Action Input: {"button": "学术交流与合作"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+##  学术交流与合作
+      
+ / 
+  * 2026-04-30
+  * 2026-04-24
+  * 2026-04-20
+  * 2026-04-17
+  * 2026-04-17
+  * 2026-04-17
+  * 2026-04-11
+  * 2026-04-09
+  * 2026-04-09
+  * 2026-04-03
+  * 2026-04-02
+  * 2026-04-02
+  * 2026-03-27
+  * 2026-03-24
+  * 2026-03-21
+  * 2026-03-13
+  * 2026-01-23
+  * 2026-01-19
+  * 2026-01-17
+  * 2026-01-13
+共213条 首页上页1... 1/11
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>四川大学2026年5月4日-5月10日学术讲座论坛及校园文化活动预告<button>
+<button>四川大学2026年4月27日-5月5日学术讲座论坛及校园文化活动预告<button>
+<button>英国兰卡斯特大学刘俊教授于我院作学术报告<button>
+<button>第九届计算机信息科学与应用技术国际学术会议（CISAT 2026）会议通知<button>
+<button>四川大学2026年4月20日-4月26日学术讲座论坛及校园文化活动预告<button>
+<button>【“智汇川流”学术论坛第11期】人的行为分析和运动建模<button>
+<button>四川大学2026年4月13日-4月19日学术讲座论坛及校园文化活动预告<button>
+<button>新加坡国立大学王猛博士于我院作学术报告<button>
+<button>新加坡眼科研究中心冯洋琴博士于我院作学术报告<button>
+<button>四川大学2026年4月6日-4月12日学术讲座论坛及校园文化活动预告<button>
+<button>【“智汇川流”学术论坛第10期】迈向可信赖与知识驱动的医学影像多模态基础模型构建<button>
+<button>【“智汇川流”学术论坛第10期】视网膜影像人工智能<button>
+<button>四川大学2026年3月30日-4月5日学术讲座论坛及校园文化活动预告<button>
+<button>【CCF走进高校暨“智汇川流”学术论坛第9期】OpenClaw·高校“龙虾”局<button>
+<button>四川大学2026年3月23日-3月29日学术讲座论坛及校园文化活动预告<button>
+<button>四川大学2026年3月16日-3月22日学术讲座论坛及校园文化活动预告<button>
+<button>四川大学2026年1月24日-2月1日学术讲座论坛及校园文化活动预告<button>
+<button>【“智汇川流”学术论坛第8期】An Outlook on the Future of Communications and Netwo...<button>
+<button>四川大学2026年1月17日-1月25日学术讲座论坛及校园文化活动预告<button>
+<button>“智汇川流”学术论坛第七期成功举办：聚焦人工智能前沿，跨院共探智能未来<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>11<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 学术交流与合作页面显示了多个学术活动的日期，但没有具体提到周傲英教授和马晓光教授的讲座。我需要进一步查看具体的学术讲座预告或动态公告页面。
+
+Action: visit_page
+Action Input: {"button": "动态与公告"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+##  学生工作
+            
+ /  / 
+  * 2026-04-22
+  * 2026-04-16
+  * 2026-03-16
+  * 2025-12-31
+  * 2025-12-22
+  * 2025-11-13
+  * 2025-11-10
+  * 2025-10-27
+  * 2025-09-30
+  * 2025-09-15
+  * 2025-09-05
+  * 2025-09-01
+  * 2025-08-13
+  * 2025-06-23
+  * 2025-06-17
+  * 2025-05-06
+  * 2025-04-14
+  * 2025-03-24
+  * 2025-03-13
+  * 2025-03-11
+共259条 首页上页1... 1/13
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>我院成功举办“砺思·智行”学术大讲堂活动<button>
+<button>计算机学院（软件学院）多形式开展国家安全教育日主题活动<button>
+<button>研途聚力,复试攻坚:学院本科2022级考研复试经验分享会圆满举行<button>
+<button>四川大学计算机学院积极开展“迎新年·齐劳动·展新颜”校园卫生集中清扫活动<button>
+<button>厚植专业根基，勇担时代先锋 ——学院院长思政课顺利开展<button>
+<button>声动江安，风采绽放 计算机学院代表队在合唱比赛中荣获三等奖<button>
+<button>计算机学院“青锋学长寝室行” ——朋辈引航助力新生成长活动顺利开展<button>
+<button>四川大学学子在四川省大学生围棋比赛荣获团体冠军<button>
+<button>青山埋忠骨 鲜花寄哀思 ——计算机学院举行祭英烈活动<button>
+<button>计算机学院（软件学院、智能科学与技术学院）2025级本科生开学典礼隆重举行<button>
+<button>编译青春，链接未来——计算机学院2025级迎新工作顺利开展<button>
+<button>2025年全国大学生物联网设计竞赛折桂 计算机学院学子斩获两项国家级一等奖<button>
+<button>我校学子在第6届 CCF算法精英大赛决赛中斩获佳绩<button>
+<button>四川大学计算机学院（软件学院、智能科学与技术学院）隆重举行2025届本科生毕业典礼暨...<button>
+<button>学院召开2025年就业工作专题会<button>
+<button>我院本科生雷宇荣登《人民日报》国家奖学金代表名录<button>
+<button>“漆彩流风”漆扇体验活动成功举办<button>
+<button>人工智能的哲学起源及研究进展——计算机学院学术大讲堂成功举办<button>
+<button>计算机学院2025年第一期实验室Open day活动圆满举行<button>
+<button>整序架间经纬，守护册页春秋——四川大学计算机学院志愿者开展图书馆志愿服务<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>13<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 动态与公告页面也没有直接提到周傲英教授和马晓光教授的讲座信息。我需要查看具体的学术讲座预告或相关活动页面。
+
+Action: visit_page
+Action Input: {"button": "学术看板"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+##  学术交流与合作
+      
+ /  / 
+  * 2026-04-30
+  * 2026-04-24
+  * 2026-04-17
+  * 2026-04-17
+  * 2026-04-17
+  * 2026-04-11
+  * 2026-04-03
+  * 2026-04-02
+  * 2026-04-02
+  * 2026-03-27
+  * 2026-03-24
+  * 2026-03-21
+  * 2026-03-13
+  * 2026-01-23
+  * 2026-01-19
+  * 2026-01-17
+  * 2026-01-09
+  * 2026-01-08
+  * 2026-01-08
+  * 2026-01-08
+共164条 首页上页1... 1/9
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>四川大学2026年5月4日-5月10日学术讲座论坛及校园文化活动预告<button>
+<button>四川大学2026年4月27日-5月5日学术讲座论坛及校园文化活动预告<button>
+<button>第九届计算机信息科学与应用技术国际学术会议（CISAT 2026）会议通知<button>
+<button>四川大学2026年4月20日-4月26日学术讲座论坛及校园文化活动预告<button>
+<button>【“智汇川流”学术论坛第11期】人的行为分析和运动建模<button>
+<button>四川大学2026年4月13日-4月19日学术讲座论坛及校园文化活动预告<button>
+<button>四川大学2026年4月6日-4月12日学术讲座论坛及校园文化活动预告<button>
+<button>【“智汇川流”学术论坛第10期】迈向可信赖与知识驱动的医学影像多模态基础模型构建<button>
+<button>【“智汇川流”学术论坛第10期】视网膜影像人工智能<button>
+<button>四川大学2026年3月30日-4月5日学术讲座论坛及校园文化活动预告<button>
+<button>【CCF走进高校暨“智汇川流”学术论坛第9期】OpenClaw·高校“龙虾”局<button>
+<button>四川大学2026年3月23日-3月29日学术讲座论坛及校园文化活动预告<button>
+<button>四川大学2026年3月16日-3月22日学术讲座论坛及校园文化活动预告<button>
+<button>四川大学2026年1月24日-2月1日学术讲座论坛及校园文化活动预告<button>
+<button>【“智汇川流”学术论坛第8期】An Outlook on the Future of Communications and Netwo...<button>
+<button>四川大学2026年1月17日-1月25日学术讲座论坛及校园文化活动预告<button>
+<button>四川大学2026年1月10日-1月18日学术讲座论坛及校园文化活动预告<button>
+<button>【“智汇川流”学术论坛第7期】面向垂域的复杂知识推理与决策<button>
+<button>【“智汇川流”学术论坛第7期】医疗领域知识增强与推理：从大语言模型到多智能体<button>
+<button>【“智汇川流”学术论坛第7期】基于扩散技术的域适应研究<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>9<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 学术看板页面仍然没有直接提到周傲英教授和马晓光教授的讲座信息。我需要查看具体的学术讲座预告或相关活动页面，例如“学术讲座论坛及校园文化活动预告”。
+
+Action: visit_page
+Action Input: {"button": "四川大学2026年4月27日-5月5日学术讲座论坛及校园文化活动预告"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+ /  /  / 正文 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+
+----- WebWalker -----
+Thought: 该页面似乎没有具体的讲座信息，我需要查看更详细的活动列表或直接搜索周傲英教授和马晓光教授的讲座信息。
+
+Action: visit_page
+Action Input: {"button": "四川大学2026年4月20日-4月26日学术讲座论坛及校园文化活动预告"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+ /  /  / 正文 
+## 四川大学2026年4月20日-4月26日学术讲座论坛及校园文化活动预告
+日期：2026-04-17 来源：  作者： 浏览：
+!
+!
+!
+!
+  
+上一条：
+下一条：
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>第九届计算机信息科学与应用技术国际学术会议（CISAT 2026）会议通知<button>
+<button>【“智汇川流”学术论坛第11期】人的行为分析和运动建模<button>
+
+----- WebWalker -----
+Thought: 该页面仍然没有具体的讲座信息，我需要查看更详细的活动列表或直接搜索周傲英教授和马晓光教授的讲座信息。
+
+Action: visit_page
+Action Input: {"button": "第九届计算机信息科学与应用技术国际学术会议（CISAT 2026）会议通知"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 页面未找到，我需要返回上一页并尝试其他按钮。  
+Action: visit_page  
+Action Input: {"button": "四川大学2026年4月20日-4月26日学术讲座论坛及校园文化活动预告"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+ /  /  / 正文 
+## 四川大学2026年4月20日-4月26日学术讲座论坛及校园文化活动预告
+日期：2026-04-17 来源：  作者： 浏览：
+!
+!
+!
+!
+  
+上一条：
+下一条：
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>第九届计算机信息科学与应用技术国际学术会议（CISAT 2026）会议通知<button>
+<button>【“智汇川流”学术论坛第11期】人的行为分析和运动建模<button>
+
+----- WebWalker -----
+Thought: 该页面仍然没有具体的讲座信息，我需要查看更详细的活动列表或直接搜索周傲英教授和马晓光教授的讲座信息。
+
+Action: visit_page
+Action Input: {"button": "【“智汇川流”学术论坛第11期】人的行为分析和运动建模"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag

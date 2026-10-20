@@ -1,0 +1,43 @@
+{
+  "task_id": "webwalkerqa_0640_b16c3baf9f38",
+  "source_index": 640,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "湖北工业大学2023年度“南湖学者”岗位评审结果中陈宏伟教授是否被推荐为学术骨干或学术带头人？",
+  "prompt": "湖北工业大学2023年度“南湖学者”岗位评审结果中陈宏伟教授是否被推荐为学术骨干或学术带头人？",
+  "expected_answer": "未被推荐",
+  "root_url": "https://jsjxy.hbut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.hbut.edu.cn/info/1021/1075.htm；https://jsjxy.hbut.edu.cn/info/1021/4144.htm"
+    ],
+    "golden_path": [
+      "root->教师简介->陈宏伟教授简介",
+      "root->通知公告 /Notices->计算机学院2023年度“南湖学者”岗位评审结果公示"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 5,
+  "duration_seconds": 13.227,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0640_b16c3baf9f38/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0640_b16c3baf9f38/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

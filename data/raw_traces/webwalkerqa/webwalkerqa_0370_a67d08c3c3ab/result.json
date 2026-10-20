@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0370_a67d08c3c3ab",
+  "source_index": 370,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2019年苏州大学的权丽君博士在哪个国际会议上发表了一篇论文？",
+  "prompt": "2019年苏州大学的权丽君博士在哪个国际会议上发表了一篇论文？",
+  "expected_answer": "Molecular Biology and Evolution",
+  "root_url": "https://scst.suda.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scst.suda.edu.cn/0e/5f/c30768a527967/page.htm"
+    ],
+    "golden_path": [
+      "root->导师简介->副教授->权丽君省青蓝工程优秀青年骨干教师"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 56.961,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0370_a67d08c3c3ab/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0370_a67d08c3c3ab/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

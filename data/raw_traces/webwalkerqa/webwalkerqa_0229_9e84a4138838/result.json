@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0229_9e84a4138838",
+  "source_index": 229,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "截止到2023年，北方工业大学信息学院的团队在以分布式系统和物联网技术为核心研究方向的项目中，曾获得哪两项大奖？",
+  "prompt": "截止到2023年，北方工业大学信息学院的团队在以分布式系统和物联网技术为核心研究方向的项目中，曾获得哪两项大奖？",
+  "expected_answer": "北京市人民政府科学技术奖二等奖、中国航空工业集团有限公司科学技术二等奖。",
+  "root_url": "https://csci.ncut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://csci.ncut.edu.cn/info/1061/1309.htm"
+    ],
+    "golden_path": [
+      "root->科研团队->分布式智能信息感知技术及应用"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "截止到2023年，北方工业大学信息学院的团队在以分布式系统和物联网技术为核心研究方向的项目中，曾获得北京市科学进步一等奖和中国专利优秀奖两项大奖。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 48.548,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0229_9e84a4138838/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0229_9e84a4138838/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0063_4d8e8a23dd7c",
+  "source_index": 63,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which two Angry Birds games released by Rovio incorporate innovative and environmental themes, one being a mobile AR game from 2019 and the other related to an Earth Day event in 2024?",
+  "prompt": "Which two Angry Birds games released by Rovio incorporate innovative and environmental themes, one being a mobile AR game from 2019 and the other related to an Earth Day event in 2024?",
+  "expected_answer": "Angry Birds AR: Isle of Pigs and Angry Birds Dream Blast.",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/rovio-and-resolution-games-reveal-first-angry-birds-mobile-ar-game-angry-birds-ar-isle-of-pigs/",
+      "https://www.rovio.com/articles/birds-helping-birds-angry-birds-dream-blast-earth-day-campaign/"
+    ],
+    "golden_path": [
+      "root->Angry Birds->Read more",
+      "root->Angry Birds->Birds Helping Birds – Angry Birds Dream Blast Earth Day Campaign"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The two Angry Birds games that incorporate innovative and environmental themes are 'Angry Birds AR: Isle of Pigs' (a mobile AR game from 2019) and 'Angry Birds VR: Isle of Pigs' which is related to an Earth Day event in 2024.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 19.752,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0063_4d8e8a23dd7c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0063_4d8e8a23dd7c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "partial",
+      "reason": "The predicted answer correctly identifies 'Angry Birds AR: Isle of Pigs' but incorrectly lists 'Angry Birds VR: Isle of Pigs' instead of 'Angry Birds Dream Blast'.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

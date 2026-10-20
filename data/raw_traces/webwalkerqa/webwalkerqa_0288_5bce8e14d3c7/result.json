@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0288_5bce8e14d3c7",
+  "source_index": 288,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "计算机（网安）学院在2023年4月26日、5月6日分别进行的活动中，哪一天开展了主题教育读书班集体学习会？",
+  "prompt": "计算机（网安）学院在2023年4月26日、5月6日分别进行的活动中，哪一天开展了主题教育读书班集体学习会？",
+  "expected_answer": "5月6日",
+  "root_url": "https://www.scse.uestc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://www.scse.uestc.edu.cn/info/1142/13764.htm"
+    ],
+    "golden_path": [
+      "root->主题教育->【主题教育】计算机（网安）学院党委：学思用贯通、知信行统一，推进主题教育扎实有效开展"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 53.507,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0288_5bce8e14d3c7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0288_5bce8e14d3c7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0053_2d63408b1d94",
+  "source_index": 53,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2023年4月和2022年9月成为尼高客户的两家深圳公司，分别在技术领域和产业聚焦上有何不同？",
+  "prompt": "在2023年4月和2022年9月成为尼高客户的两家深圳公司，分别在技术领域和产业聚焦上有何不同？",
+  "expected_answer": "北极芯微专注于芯片行业的深度传感和微光成像技术，而脉图精准聚焦于精准医疗和健康产品的代谢组学平台。",
+  "root_url": "https://www.niegoweb.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.niegoweb.com/casedetail-4-41-629-1.html",
+      "https://www.niegoweb.com/casedetail-4-44-615-1.html"
+    ],
+    "golden_path": [
+      "root->企业网站优化->北极芯微芯片行业网站设计,深圳高端网站设计公司,品牌网站建设",
+      "root->企业网站优化->脉图精准代谢组学网站设计,精准医疗官网建设,高端官网定制"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 245.509,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0053_2d63408b1d94/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0053_2d63408b1d94/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

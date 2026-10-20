@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0400_5ab847c71935",
+  "source_index": 400,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2018年度浙江省“互联网+”大学生创新创业大赛中，杭州电子科技大学计算机学院获得省级金奖的软件工程和计算机科学与技术专业总共有几位学生？",
+  "prompt": "在2018年度浙江省“互联网+”大学生创新创业大赛中，杭州电子科技大学计算机学院获得省级金奖的软件工程和计算机科学与技术专业总共有几位学生？",
+  "expected_answer": "4",
+  "root_url": "https://computer.hdu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hdu.edu.cn/2018/1210/c6760a140511/page.htm"
+    ],
+    "golden_path": [
+      "root->学生成果->尾页->计算机学院2018年度“互联网+”创新创业大赛获奖汇总"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 14.659,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0400_5ab847c71935/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0400_5ab847c71935/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

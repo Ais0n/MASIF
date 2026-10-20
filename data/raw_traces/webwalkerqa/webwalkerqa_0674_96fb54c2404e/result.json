@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0674_96fb54c2404e",
+  "source_index": 674,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "赵佳怡是否在2020级人工智能创新班的两个连续学年的考核名单中都被公示过？如果是，请指出是哪两个学年。",
+  "prompt": "赵佳怡是否在2020级人工智能创新班的两个连续学年的考核名单中都被公示过？如果是，请指出是哪两个学年。",
+  "expected_answer": "是，分别是2020-2021学年和2021-2022学年。",
+  "root_url": "http://cs.nuaa.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.nuaa.edu.cn/2022/0926/c1978a293448/page.htm",
+      "http://cs.nuaa.edu.cn/2021/1217/c1978a272687/page.htm"
+    ],
+    "golden_path": [
+      "root->本科生教学->【创新班考核】2021-2022学年2020、2021级人工智能创新班考核名单公示",
+      "root->本科生教学->关于2019、2020级人工智能创新班学年考核的名单公示"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.926,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0674_96fb54c2404e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0674_96fb54c2404e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

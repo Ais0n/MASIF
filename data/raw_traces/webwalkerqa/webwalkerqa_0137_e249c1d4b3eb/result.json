@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0137_e249c1d4b3eb",
+  "source_index": 137,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "广州大学5月14日下午的学术活动中，加拿大阿尔伯塔大学的哪位专家在计算机学院会议室发表了题为“如何进行计算机培养和学习”的学术报告？",
+  "prompt": "广州大学5月14日下午的学术活动中，加拿大阿尔伯塔大学的哪位专家在计算机学院会议室发表了题为“如何进行计算机培养和学习”的学术报告？",
+  "expected_answer": "Witold Pedrycz教授",
+  "root_url": "https://jsj.gzhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsj.gzhu.edu.cn/info/1102/1399.htm"
+    ],
+    "golden_path": [
+      "root->学术报告（Prof.Witold Pedrycz，20..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 45.405,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0137_e249c1d4b3eb/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0137_e249c1d4b3eb/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

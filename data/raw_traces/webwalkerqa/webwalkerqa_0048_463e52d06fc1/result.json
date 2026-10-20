@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0048_463e52d06fc1",
+  "source_index": 48,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "四川大学哪位院领导负责主持四川大学计算机学院2023年3月13日的党委理论学习中心组扩大学习会议？",
+  "prompt": "四川大学哪位院领导负责主持四川大学计算机学院2023年3月13日的党委理论学习中心组扩大学习会议？",
+  "expected_answer": "党委书记蒋斌",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1212/17609.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->4->学院开展党委理论学习中心组扩大学习会议"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 49.247,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0048_463e52d06fc1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0048_463e52d06fc1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

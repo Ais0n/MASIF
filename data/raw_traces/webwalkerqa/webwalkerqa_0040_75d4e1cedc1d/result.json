@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0040_75d4e1cedc1d",
+  "source_index": 40,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "湖南工业大学计算机学院“工作动态”部分中，记录的最早日期是什么？",
+  "prompt": "湖南工业大学计算机学院“工作动态”部分中，记录的最早日期是什么？",
+  "expected_answer": "2021-11-02",
+  "root_url": "https://computer.hut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hut.edu.cn/jygz/gzdt.htm"
+    ],
+    "golden_path": [
+      "root->工作动态"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "湖南工业大学计算机学院“工作动态”部分中，记录的最早日期是2025-04-01。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 15.222,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0040_75d4e1cedc1d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0040_75d4e1cedc1d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted date (2025-04-01",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

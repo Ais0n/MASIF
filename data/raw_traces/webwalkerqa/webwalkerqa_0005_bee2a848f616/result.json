@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0005_bee2a848f616",
+  "source_index": 5,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the final deadline for submitting hotel reservation payments and position papers for the NMUN NYC 2025 conference?",
+  "prompt": "What is the final deadline for submitting hotel reservation payments and position papers for the NMUN NYC 2025 conference?",
+  "expected_answer": "The final deadline for submitting hotel reservation payments is 15 February 2025, and for position papers, it is 1 March 2025.",
+  "root_url": "https://www.nmun.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.nmun.org/conferences/new-york/register-and-plan-your-trip/plan-your-trip/hotel-information.html#main",
+      "https://www.nmun.org/conferences/new-york/prepare-for-committee/position-papers.html#main"
+    ],
+    "golden_path": [
+      "root->Hotel Information->Close",
+      "root->Position Papers->Close"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The final deadline for submitting hotel reservation payments and position papers for the NMUN NYC 2025 conference is 1 October 2027.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 22.117,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0005_bee2a848f616/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0005_bee2a848f616/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer provides a completely incorrect date (1 October 2027) compared to the expected deadlines (15 February 2025 and 1 March 2025).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

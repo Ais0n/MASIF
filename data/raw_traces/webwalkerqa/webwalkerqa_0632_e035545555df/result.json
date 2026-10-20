@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0632_e035545555df",
+  "source_index": 632,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "蒋斌书记在2024年3月4日四川大学计算机学院党支部书记工作例会上提出的党建重点，最早在哪次会议中被提到并详细讨论？",
+  "prompt": "蒋斌书记在2024年3月4日四川大学计算机学院党支部书记工作例会上提出的党建重点，最早在哪次会议中被提到并详细讨论？",
+  "expected_answer": "2023年9月22日的党建工作布置会",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1212/18236.htm",
+      "https://cs.scu.edu.cn/info/1212/17964.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->下页->学院召开党支部书记工作例会",
+      "root->党建工作->3->学院召开党建工作布置会暨党支部书记工作例会"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "蒋斌书记在2024年3月4日四川大学计算机学院党支部书记工作例会上提出的党建重点，最早在2026年春季新学期工作布置会暨师德师风专题教育会中被提到并详细讨论。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 16.603,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0632_e035545555df/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0632_e035545555df/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer provides a completely different meeting and date (2026 spring meeting) compared to the expected answer (September 22",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

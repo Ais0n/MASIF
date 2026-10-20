@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0672_e9d94c063a1e",
+  "source_index": 672,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "沐瞳科技自研欧美CG魔幻塔防策略手游《潮汐守望者》于何时开启全平台预约？同时，沐瞳与哪个中东国家的电竞协会签署了战略合作协议？",
+  "prompt": "沐瞳科技自研欧美CG魔幻塔防策略手游《潮汐守望者》于何时开启全平台预约？同时，沐瞳与哪个中东国家的电竞协会签署了战略合作协议？",
+  "expected_answer": "2024年7月12日；沙特阿拉伯",
+  "root_url": "https://cn.moonton.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://cn.moonton.com/news/31.html",
+      "https://cn.moonton.com/news/36.html"
+    ],
+    "golden_path": [
+      "root->公司新闻上一篇沐瞳2024企业社会责任报告发布->公司新闻下一篇马来西亚SRG战队夺得电竞世界杯决胜巅峰项目冠军->公司新闻下一篇《潮汐守望者》全平台预约正式开启",
+      "root->公司新闻下一篇扎根中东，沐瞳与沙特电竞协会签署合作协议"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.996,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0672_e9d94c063a1e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0672_e9d94c063a1e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

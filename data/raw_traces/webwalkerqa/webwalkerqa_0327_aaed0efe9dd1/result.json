@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0327_aaed0efe9dd1",
+  "source_index": 327,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "浙江大学计算机学院学位管理记录中的最早记录日期是？",
+  "prompt": "浙江大学计算机学院学位管理记录中的最早记录日期是？",
+  "expected_answer": "2004-03-25",
+  "root_url": "http://www.cs.zju.edu.cn/csen/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/26996/list3.htm"
+    ],
+    "golden_path": [
+      "root->研究生教育->学位管理->尾页"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "浙江大学计算机学院学位管理记录中的最早记录日期是2022-01-03。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 18.04,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0327_aaed0efe9dd1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0327_aaed0efe9dd1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted date (2022-01-",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

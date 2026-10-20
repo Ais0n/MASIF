@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0064_d634afa031cc",
+  "source_index": 64,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年7月18日大连理工大学计算机科学与技术学院与甘井子区数据局的共建活动中，学位委员会的哪个成员参与了该活动？",
+  "prompt": "在2024年7月18日大连理工大学计算机科学与技术学院与甘井子区数据局的共建活动中，学位委员会的哪个成员参与了该活动？",
+  "expected_answer": "葛宏伟",
+  "root_url": "http://cs.dlut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.dlut.edu.cn/info/1216/2389.htm",
+      "http://cs.dlut.edu.cn/info/1076/3729.htm"
+    ],
+    "golden_path": [
+      "root->机构组织->学位委员会",
+      "root->党建工作->计算机学院党委与甘井子区数据局开展共建活动"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 61.231,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0064_d634afa031cc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0064_d634afa031cc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

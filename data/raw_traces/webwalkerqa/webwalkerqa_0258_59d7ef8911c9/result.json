@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0258_59d7ef8911c9",
+  "source_index": 258,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "湖南工业大学计算机学院在2023年7月14日的主题教育读书班第4次集中学习暨交流研讨会上，哪些校级领导出席了会议？",
+  "prompt": "湖南工业大学计算机学院在2023年7月14日的主题教育读书班第4次集中学习暨交流研讨会上，哪些校级领导出席了会议？",
+  "expected_answer": "学校副校长范晓阳，校党委主题教育第四巡回指导组领导周伟林、王志强。",
+  "root_url": "https://computer.hut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hut.edu.cn/info/1140/7869.htm"
+    ],
+    "golden_path": [
+      "root->主题教育->计算机学院党委开展主题教育读书班第4次集中学习暨交流研讨会"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在2023年7月14日湖南工业大学计算机学院党委召开的主题教育读书班第4次集中学习暨交流研讨会上，出席的校级领导是范晓阳副校长。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 18.42,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0258_59d7ef8911c9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0258_59d7ef8911c9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

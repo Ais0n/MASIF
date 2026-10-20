@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0126_fb744689b889",
+  "source_index": 126,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2007年，中南大学的哪个学院独立并通过教育部验收评估？",
+  "prompt": "在2007年，中南大学的哪个学院独立并通过教育部验收评估？",
+  "expected_answer": "中南大学国家示范性软件学院",
+  "root_url": "https://cse.csu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.csu.edu.cn/xygk/lsyg.htm"
+    ],
+    "golden_path": [
+      "root->历史沿革"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 73.676,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0126_fb744689b889/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0126_fb744689b889/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

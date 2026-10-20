@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0623_7867df210abd",
+  "source_index": 623,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在《多多自走棋》中，结合6术士羁绊和4巫师羁绊的更新，哪个单个职业的羁绊可以被全部解锁？",
+  "prompt": "在《多多自走棋》中，结合6术士羁绊和4巫师羁绊的更新，哪个单个职业的羁绊可以被全部解锁？",
+  "expected_answer": "术士",
+  "root_url": "http://ac.dragonest.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "http://ac.dragonest.com/zh-cn/developerbase/detail/e9a529f9a6c",
+      "http://ac.dragonest.com/zh-cn/developerbase/detail/e88a558cad4"
+    ],
+    "golden_path": [
+      "root->开发者基地->开发者DEV->【开发者日志】羁绊的新增与调整多多自走棋 ——\n                  48 月前",
+      "root->开发者基地->开发者DEV->开发者日志关于噬魂巫师费用的调整及4巫师羁绊的说明多多自走棋 ——\n                  51 月前"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 69.771,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0623_7867df210abd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0623_7867df210abd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

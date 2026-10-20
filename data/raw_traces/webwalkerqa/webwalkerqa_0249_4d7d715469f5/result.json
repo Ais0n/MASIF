@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0249_4d7d715469f5",
+  "source_index": 249,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "哈尔滨工程大学计算机科学与技术学院举办的智汇论坛第二十四期活动中，Lan Du博士发表了专题讲座，提出在BEMPS中使用哪种方式可以产生鲁棒的采集函数？",
+  "prompt": "哈尔滨工程大学计算机科学与技术学院举办的智汇论坛第二十四期活动中，Lan Du博士发表了专题讲座，提出在BEMPS中使用哪种方式可以产生鲁棒的采集函数？",
+  "expected_answer": "均方误差和对数概率",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2024/0826/c12615a328124/page.htm"
+    ],
+    "golden_path": [
+      "root->学术交流->计算机科学与技术学院举行智汇论坛（第二十四期）活动2024-08-26"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 68.404,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0249_4d7d715469f5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0249_4d7d715469f5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

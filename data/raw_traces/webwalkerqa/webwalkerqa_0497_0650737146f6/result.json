@@ -1,0 +1,50 @@
+{
+  "task_id": "webwalkerqa_0497_0650737146f6",
+  "source_index": 497,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who were the recipients of the POMS Fellows Award in 2005?",
+  "prompt": "Who were the recipients of the POMS Fellows Award in 2005?",
+  "expected_answer": "Hau Lee and Marshall Fisher",
+  "root_url": "https://www.poms.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.poms.org/node/417",
+      "https://www.poms.org/node/415"
+    ],
+    "golden_path": [
+      "root->POMS Fellows Award->view",
+      "root->POMS Fellows Award->view"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The recipients of the POMS Fellows Award in 2005 were Luk Van Wassenhove, Marshall Fisher, Paul Kleindorfer, Hau Lee, Steven C. Wheelwright, Chris Voss, Suresh Sethi, and Robert H. Hayes.",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\"verdict\":\"match\",\"reason\":\"The predicted answer",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 30.274,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0497_0650737146f6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0497_0650737146f6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

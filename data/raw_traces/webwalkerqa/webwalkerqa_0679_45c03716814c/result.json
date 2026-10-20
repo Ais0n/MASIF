@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0679_45c03716814c",
+  "source_index": 679,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年11月15日，同时公布的统一企业涉及福州和杭州的生产劳务外包服务项目分别涵盖哪些年份？",
+  "prompt": "在2024年11月15日，同时公布的统一企业涉及福州和杭州的生产劳务外包服务项目分别涵盖哪些年份？",
+  "expected_answer": "福州：2025-2026年；杭州：2025-2027年",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/news_details.asp?news_id=1217&corp_id=377",
+      "https://www.uni-president.com.cn/news_details.asp?news_id=1216&corp_id=377"
+    ],
+    "golden_path": [
+      "root->招标公告->首页->福州统一2025-2026年生产劳务外包服务项目",
+      "root->招标公告->首页->杭州统一2025-2027年生产劳务外包服务项目"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "在2024年11月15日，同时公布的统一企业涉及福州和杭州的生产劳务外包服务项目分别涵盖的年份为2026-2027年度。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 28.122,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0679_45c03716814c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0679_45c03716814c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer incorrectly states 2026-2027 for both locations, failing to provide the",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0371_d6a7ccd838ce",
+  "source_index": 371,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "苏州大学计算机科学与技术学院程宝雷教授在哪一年首次获得了苏州市自然科学优秀学术论文奖？",
+  "prompt": "苏州大学计算机科学与技术学院程宝雷教授在哪一年首次获得了苏州市自然科学优秀学术论文奖？",
+  "expected_answer": "2014",
+  "root_url": "https://scst.suda.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scst.suda.edu.cn/0d/95/c30767a527765/page.htm"
+    ],
+    "golden_path": [
+      "root->导师简介->教授->程宝雷教授"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "程宝雷教授在2014年首次获得了苏州市自然科学优秀学术论文奖。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer contains the correct year (2014) embedded in a complete sentence.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer contains the correct year (2014) embedded in a complete sentence.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 5,
+  "duration_seconds": 37.427,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0371_d6a7ccd838ce/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0371_d6a7ccd838ce/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

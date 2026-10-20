@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0031_fef186fd6ea3",
+  "source_index": 31,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which documentary by Jean Lemire aligns with the international information exchange goals of Article 17 of the Convention on Biological Diversity?",
+  "prompt": "Which documentary by Jean Lemire aligns with the international information exchange goals of Article 17 of the Convention on Biological Diversity?",
+  "expected_answer": "The Last Continent",
+  "root_url": "https://www.cbd.int/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.cbd.int/convention/articles.shtml?a=cbd-17",
+      "https://www.cbd.int/cooperation/midori/lemire.shtml"
+    ],
+    "golden_path": [
+      "root->BIODIVERSITY CONVENTION->Text of the Convention->Article 17. Exchange of Information",
+      "root->Initiatives->Midori Prize for Biodiversity->Mr. Jean Lemire, biologist, explorer, filmmaker, Canada"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 120.693,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0031_fef186fd6ea3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0031_fef186fd6ea3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

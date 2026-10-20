@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0638_b8d1c89593fb",
+  "source_index": 638,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023年12月在中国饮料工业协会30周年纪念活动中，统一企业获得哪些主要荣誉，而在这一时间附近，公司是否发布了任何涉及股东权益的通知？",
+  "prompt": "2023年12月在中国饮料工业协会30周年纪念活动中，统一企业获得哪些主要荣誉，而在这一时间附近，公司是否发布了任何涉及股东权益的通知？",
+  "expected_answer": "统一企业获得了“中国饮料行业高质量发展领军企业”等多项荣誉，而在2024年8月20日，发布了有关股东权益的通知变更。",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/Circulars.asp",
+      "https://www.uni-president.com.cn/news_detail.asp?corp_id=376&news_id=969"
+    ],
+    "golden_path": [
+      "root->网站地图->通函",
+      "root->统一企业荣膺中国饮料行业多项荣誉"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "2023年12月在中国饮料工业协会30周年纪念活动中，统一企业获得的主要荣誉包括：三款产品荣获‘2023-2024年度方便食品行业创新产品’奖，以及入选《2023胡润中国500强》。此外，在这一时间附近，公司发布了关于提前执行预包装食品标签新版国家标准的声明，但未提及涉及股东权益的通知。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 20.111,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0638_b8d1c89593fb/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0638_b8d1c89593fb/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,201 @@
+----- user -----
+query:
+Which accommodation option ensures maximum convenience for attendees of the Web Conference 2024 and is closest to the venue for a Diamond level sponsor?
+official website:
+https://www2024.thewebconf.org/
+Observation:website information:
+
+](
+                                                                                                                                                                                                                                                                        
+# THE WEB  
+CONFERENCE 2024   
+IN SINGAPORE
+## MAY 13 - 17, 2024 
+Since the invention of the World Wide Web in 1989, The Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) is a yearly international academic conference on the topic of the future direction of the World Wide Web. This conference has been the premier venue to present and discuss progress in research, development, standards, and applications of the topics related to the Web. Over the past three decades, The Web Conference has been the forum where some of the most fundamental Web technologies have been introduced, such as the Anatomy of a Large Scale Web Search Engine in 1998 prefiguring Google, the EigenTrust algorithm in 2003 and the YAGO knowledge base in 2007 (see also the Test of Time Award past recipients). The conference assembles scholars, researchers, policymakers, practitioners, and end-users with one unifying goal: to envision and create the future of the Web. 
+The 2024 ACM Web Conference will offer a high quality program made of research sessions, posters and demonstrations, a PhD symposium for the junior scholars, workshops, tutorials, a resource track for the practitioners as well as thought provoking keynote speakers, panels, special tracks, and colocated special days. 
+The 2024 ACM Web Conference is an in-person conference with rich virtual components including live streaming of keynotes, oral presentations, workshops and tutorials, as well as access to pre-recorded videos of talks, and the Whova platform for interaction with all conference attendees. 
+We thank you for your participation and look forward to seeing you in Singapore!
+|  |  |  | 
+The Web Conference 2024 is organized by the School of Computing and Information Systems at Singapore Management University. 
+**_Server maintenance is scheduled, from 30-May-2023, Tuesday, 09:00 AM to 06:00 PM, GMT+8. Connections to this website will be intermittent._**
+
+
+clickable button:
+
+<button>About<button>
+<button>The Web Conference<button>
+<button>Logo<button>
+<button>Code of Conduct<button>
+<button>Newsletters<button>
+<button>Calls<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Emerging World Symposium<button>
+<button>Seoul Test of Time Award<button>
+<button>Artifact Badging<button>
+<button>Accepted<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Program<button>
+<button>Overview<button>
+<button>Full Schedule<button>
+<button>Keynotes<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Awards<button>
+<button>Special Days<button>
+<button>Social Events<button>
+<button>Attending<button>
+<button>Registration<button>
+<button>Venue<button>
+<button>Accommodation<button>
+<button>Checking In<button>
+<button>Participation<button>
+<button>Presentation<button>
+<button>Visa Information<button>
+<button>NSF Student Travel Awards<button>
+<button>Organization<button>
+<button>Organizing Committee<button>
+<button>Senior Area Chairs<button>
+<button>Area Chairs<button>
+<button>Reviewers of Research Tracks<button>
+<button>Reviewers of Various Tracks<button>
+<button>Sponsors<button>
+<button>Become a Sponsor<button>
+<button>Sponsors and Supporters<button>
+<button>Media<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the accommodation option that ensures maximum convenience for attendees of the Web Conference 2024 and is closest to the venue for a Diamond level sponsor. The best way to do this is to visit the "Accommodation" page on the official website.
+
+Action: visit_page
+Action Input: {"button": "Accommodation"}
+
+----- VisitPage -----
+The web information is:
+
+](
+                                                                                                                                                                                                                                                                        
+# Accommodation
+The conference has negotiated special rates at nearby hotels in Sentosa, namely: Hotel Michael, The Outpost Hotel Sentosa, Village Hotel Sentosa.
+Excellent reasons for staying at one of the conference hotels:
+  * Maximum convenience with conference sessions just a short walk away. No need to travel in and out of the Sentosa island, which may incur additional costs and time.
+  * Better conference experience. A quick trip to get to the program and functions, and just as quick to nip back to your room for a break.
+  * Attractive, highly discounted rates for conference attendees, providing great value especially compared to rack rate or other nearby hotels.
+#### Rates and Booking
+The rates below are subject to additional 10% service charge and 9% GST. These attractive rates are for limited quantity and duration, only via the booking links. To get the best value, secure your rooms now!  
+| Hotel  | Single Occupancy rate per room per night (with breakfast for 1)  | Double/Twin Occupancy per room per night (with breakfasts for 2)  | Booking Instruction  |  
+| --- | --- | --- | --- |  
+| Hotel Michael*  | Stay period: Sunday-Thursday  
+S$390++  | Stay period: Sunday-Thursday  
+S$415++  | Email completed  to groups@rwsentosa.com  |  
+| Stay period: Friday-Saturday  
+S$490++  | Stay period: Friday-Saturday  
+S$515++  |  
+| The Outpost Hotel Sentosa  | S$270++  | S$290++  |  Fully Filled  |  
+| Village Hotel Sentosa  | S$270++  | S$290++  |  Fully Filled  |  
+_* Early bird rates are no longer available at Hotel Michael. The above quoted rates are valid from 18 April 2024 to 22 April 2024. Bookings received after 22 April 2024 will be subject to room availability and possible rate change._
+Booking through these links helps the conference meet our contractual obligations, all while providing a comfortable conference venue, offering quality service and support for workshops, tutorials, plenary sessions, and other activities.
+#### Hotel Michael
+Address: 8 Sentosa Gateway, Hotel Michael, 098269 (5-minute walk to the convention centre, rain or shine)
+This is the most convenient option, as it is located within the Resorts World area and connected to the convention centre where main conference activities take place. Featuring wall murals and designer furniture pieces, Hotel Michael is just a short walk from Universal Studios Singapore, S.E.A. Aquarium™, Adventure Cove Waterpark™.Spacious rooms are fitted with floor-to-ceiling windows that offer views of the harbour.
+!
+#### The Outpost Hotel Sentosa
+Address: 10 Artillery Avenue #03-01 Palawan Ridge, Singapore 099951 (10-minute walk to the convention centre)
+Inspired by the history of Sentosa Island, the hotel's contemporary take on black and white design is just the beginning of an unforgettable sojourn. Floor-to-ceiling windows form the perfect frame for your choice of three striking views. Don't forget pampering pillow mist kits that lull you to sleep and our bespoke tea blends in every room. More, you say? We nudge the boundaries of stylish service even further with a customisable minibar delivered to your room. This hotel caters exclusively to adults and is strictly for guests aged 16 years old and above.
+!
+#### Village Hotel Sentosa
+Address: 10 Artillery Ave, #02-01 Palawan Ridge, Sentosa Island, 099951 (10-minute walk to the convention centre)
+Village Hotel Sentosa delivers a unique experience for families, as well as leisure and meeting groups, providing opportunities to discover the rich culture and heritage of its surroundings. The cosy hotel is decorated in sun-washed hues of nature by the sea. From design, ambience to the choice of furnishings, Village Hotel Sentosa delivers a unique offering on the island with brand new amenities and activities.
+!
+|  |  |  | 
+The Web Conference 2024 is organized by the School of Computing and Information Systems at Singapore Management University. 
+**_Server maintenance is scheduled, from 30-May-2023, Tuesday, 09:00 AM to 06:00 PM, GMT+8. Connections to this website will be intermittent._**
+
+
+Clickable buttons are wrapped in <button> tag
+<button>About<button>
+<button>The Web Conference<button>
+<button>Logo<button>
+<button>Code of Conduct<button>
+<button>Newsletters<button>
+<button>Calls<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Emerging World Symposium<button>
+<button>Seoul Test of Time Award<button>
+<button>Artifact Badging<button>
+<button>Accepted<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Program<button>
+<button>Overview<button>
+<button>Full Schedule<button>
+<button>Keynotes<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Awards<button>
+<button>Special Days<button>
+<button>Social Events<button>
+<button>Attending<button>
+<button>Registration<button>
+<button>Venue<button>
+<button>Accommodation<button>
+<button>Checking In<button>
+<button>Participation<button>
+<button>Presentation<button>
+<button>Visa Information<button>
+<button>NSF Student Travel Awards<button>
+<button>Organization<button>
+<button>Organizing Committee<button>
+<button>Senior Area Chairs<button>
+<button>Area Chairs<button>
+<button>Reviewers of Research Tracks<button>
+<button>Reviewers of Various Tracks<button>
+<button>Sponsors<button>
+<button>Become a Sponsor<button>
+<button>Sponsors and Supporters<button>
+<button>Media<button>
+
+----- WebWalker -----
+Memory:
+-Hotel Michael is the most convenient option for attendees of the Web Conference 2024 as it is located within the Resorts World area and connected to the convention centre where main conference activities take place. It is also just a 5-minute walk from the convention centre.
+"}
+
+----- WebWalker -----
+Final Answer: Hotel Michael ensures maximum convenience for attendees of the Web Conference 2024 as it is located within the Resorts World area, connected to the convention centre, and just a 5-minute walk from the venue.

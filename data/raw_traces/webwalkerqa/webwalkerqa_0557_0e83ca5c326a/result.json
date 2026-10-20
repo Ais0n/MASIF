@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0557_0e83ca5c326a",
+  "source_index": 557,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What were the specific changes passed in IIP-66 regarding the removal of the fuel system by the Illuvium DAO between September and October 2024?",
+  "prompt": "What were the specific changes passed in IIP-66 regarding the removal of the fuel system by the Illuvium DAO between September and October 2024?",
+  "expected_answer": "IIP-66-R passed in October, removing the bonus fuel system and introducing a minimum order size for fuel trades for improved market transparency.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-october-2024",
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-september-2024"
+    ],
+    "golden_path": [
+      "root->News->Illuvium Beyond - Your Next D1SK->Illuvium DAO Governance Newsletter - October 2024",
+      "root->News->Illuvium Beyond - Your Next D1SK->Illuvium DAO Governance Newsletter - September 2024"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 25.216,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0557_0e83ca5c326a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0557_0e83ca5c326a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

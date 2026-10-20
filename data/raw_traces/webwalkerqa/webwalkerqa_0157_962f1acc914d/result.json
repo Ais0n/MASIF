@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0157_962f1acc914d",
+  "source_index": 157,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "谁是山东财经大学计算机与人工智能学院特聘教授中，最早获得国家级荣誉的人？",
+  "prompt": "谁是山东财经大学计算机与人工智能学院特聘教授中，最早获得国家级荣誉的人？",
+  "expected_answer": "汪萌",
+  "root_url": "https://cs.sdufe.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.sdufe.edu.cn/szdw/tpjs.htm"
+    ],
+    "golden_path": [
+      "root->特聘教授"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 52.308,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0157_962f1acc914d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0157_962f1acc914d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

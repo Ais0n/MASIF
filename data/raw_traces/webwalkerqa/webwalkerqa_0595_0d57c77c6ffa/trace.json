@@ -1,0 +1,130 @@
+{
+  "events": [
+    {
+      "index": 1,
+      "role": "user",
+      "content": "query:\n在2022年的淘乐节中，预约过《赛尔计划》的玩家可以获得什么福利，并且这款游戏在哪一天开启了限量安卓删档不计费测试的预下载通道？\nofficial website:\nhttps://game.61.com/\nObservation:website information:\n\n  \n  \n#  !\n    ### 网页游戏\n_H_\n_H_\n_H_\n### 手机游戏\n_H_\n_N_\n_H_\n    \n   \n###  新游推荐\n  1. ](\n#### 赛尔号\n页游经典，数据互通\n  2. ](\n#### 赛尔计划\n赛尔号，全新出发\n  3. ](\n#### 《摩尔庄园》手游\n摩尔庄园，快乐永远\n###  热门游戏\n  1. ](\n赛尔号\n  2. ](\n赛尔号手游\n  3. ](\n小花仙\n###  游戏列表 \n网页游戏 手机游戏 \n    \n  1. ](\n首款科幻类社区养成游戏\n  2. ](\n少女最爱的梦幻乐园\n  3. ](\n弘扬中国功夫探索竞技游戏\n  4. ](\n益智养成互动虚拟社区\n  5. ](\n回合制多精灵对战虚拟社区\n  6. ](\n赛尔号经典续作\n  1. ](\n摩尔庄园，快乐永远\n  2. ](\n赛尔号，全新出发\n  3. ](\n赛尔号官方正版手游\n  4. ](\n宇宙探险 精灵养成\n  5. ](\n经典小花仙 手游再绽放\n    \n  1. _H_ 热门游戏\n  2. _B_ 测试游戏\n  3. _N_ 最新游戏\n  1. ## 客服中心Game Service\n淘米的耳朵，玩家的嘴巴\n  2. ## 合作中心Partners\n市场/商务/品牌/媒体合作\n  3. ## 关于淘米About taomee\n妈妈放心，孩子开心\n](\n _|_ _|_ _|_ _|_ _|_ _|_ _|_ _|_\n上海淘米网络科技有限公司 Copyright©2008-2026 TaoMee Inc. All Rights Reserved\n抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活\n _|_ _|_\n _|_举报邮箱：blxxjb@taomee.com\n!\n工信部网站备案： 沪公网安备：31010402000181号](\n网络文化许可证：互联网出版许可证：\n网上有害信息专区](上海市互联网违法和不良信息举报中心](\n\n\nclickable button:\n\n<button>手机版<button>\n<button>登录<button>\n<button>收藏<button>\n\n\nEach button is wrapped in a <button> tag\n\n",
+      "root_url": "https://game.61.com/"
+    },
+    {
+      "index": 2,
+      "role": "WebWalker",
+      "content": "Thought: 我需要访问手机版页面以获取更多关于《赛尔计划》的信息。\nAction: visit_page\nAction Input: {\"button\": \"手机版\"}"
+    },
+    {
+      "index": 3,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n!\n ](\n          \n ](\n ](\n ](\n ](\n ](\n ](\n###  热门游戏\n  1.  ](\n赛尔号\n  2.  ](\n赛尔号手游\n  3.  ](\n小花仙\n###  游戏列表\n;) ;)\n  1.  ](\n首款科幻类社区养成游戏\n  2.  ](\n少女最爱的梦幻乐园\n  3.  ](\n弘扬中国功夫探索竞技游戏\n  4.  ](\n益智养成互动虚拟社区\n  5.  ](\n回合制多精灵对战虚拟社区\n  6.  ](\n赛尔号经典续作\n;) \n  1.  ](\n摩尔庄园，快乐永远\n  2.  ](\n赛尔号，全新出发\n  3.  ](\n赛尔号官方正版手游\n  4.  ](\n宇宙探险 精灵养成\n  5.  ](\n经典小花仙 手游再绽放\n;) \n  1.  客服中心 Game Service ](\n  2.  合作中心 Partners ](\n  3.  关于淘米 About taomee ](\n[ 返回  \n顶部 ](javascript:scroll\\(0,0\\))\n](\n _|_ _|_ _|_ _|_ _|_ _|_ _|_ _|_\n上海淘米网络科技有限公司 Copyright©2008-2026 TaoMee Inc. All Rights Reserved\n抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活\n _|_ _|_\n _|_举报邮箱：blxxjb@taomee.com\n!\n工信部网站备案： 沪公网安备：31010402000181号](\n网络文化许可证：互联网出版许可证：\n网上有害信息专区](上海市互联网违法和不良信息举报中心](\n\n\nClickable buttons are wrapped in <button> tag\n<button>首页<button>\n<button>合作中心Partners<button>\n",
+      "button": "手机版",
+      "url": "https://game.61.com/m/",
+      "markdown_chars": 724,
+      "discovered_buttons": 2
+    },
+    {
+      "index": 4,
+      "role": "WebWalker",
+      "content": "Thought: 我需要访问合作中心页面以获取更多关于《赛尔计划》的信息。\nAction: visit_page\nAction Input: {\"button\": \"合作中心Partners\"}"
+    },
+    {
+      "index": 5,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n;)\n合作中心\n ](\n              \n# 合作中心\n## Partners\n###  淘米游戏合作\n## 商务合作\n  * 合作方向：渠道联运、产品引进，海外区域授权，产品定制等方向\n  * 联系人：王先生\n  * 邮箱：narney@taomee.com\n  * 联系人：卞小姐\n  * 邮箱：yuanyuan@taomee.com\n## 市场合作\n  * 合作方向：媒体广告、异业合作、市场营销等方向\n  * 联系人：王先生\n  * 邮箱：narney@taomee.com\n  * 联系人：孙小姐\n  * 邮箱：peachsun@taomee.com\n## 媒体合作\n  * 合作方向：游戏媒体采访、信息交流、媒体合作等方向\n  * 联系人：孙小姐\n  * 邮箱：peachsun@taomee.com\n  * 联系人：王小姐\n  * 邮箱：baywang@taomee.com\n  1.  客服中心 Game Service ](\n  2.  合作中心 Partners ](\n  3.  关于淘米 About taomee ](\n[ 返回  \n顶部 ](javascript:scroll\\(0,0\\))\n\n\nClickable buttons are wrapped in <button> tag\n<button>首页<button>\n<button>新闻动态<button>\n<button>合作中心Partners<button>\n",
+      "button": "合作中心Partners",
+      "url": "https://game.61.com/m/coopera/index.html",
+      "markdown_chars": 516,
+      "discovered_buttons": 3
+    },
+    {
+      "index": 6,
+      "role": "WebWalker",
+      "content": "Thought: 我需要访问新闻动态页面以获取关于《赛尔计划》的更多信息。\nAction: visit_page\nAction Input: {\"button\": \"新闻动态\"}"
+    },
+    {
+      "index": 7,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n;)\n新闻动态\n ](\n                \n ](\n ](\n ](\n ](#/main/?game=mxwol/)\n ](\n ](\n ](\n<\n>\n  1.  客服中心 Game Service ](\n  2.  合作中心 Partners ](\n  3.  关于淘米 About taomee ](\n[ 返回  \n顶部 ](javascript:scroll\\(0,0\\))\n\n\nClickable buttons are wrapped in <button> tag\n<button>首页<button>\n<button>新闻动态<button>\n<button>合作中心Partners<button>\n",
+      "button": "新闻动态",
+      "url": "https://game.61.com/m/news/index.html",
+      "markdown_chars": 196,
+      "discovered_buttons": 3
+    },
+    {
+      "index": 8,
+      "role": "WebWalker",
+      "content": "Thought: 我需要访问首页页面以获取更多关于《赛尔计划》的信息。\nAction: visit_page\nAction Input: {\"button\": \"首页\"}\n"
+    },
+    {
+      "index": 9,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n!\n ](\n          \n ](\n ](\n ](\n ](\n ](\n ](\n###  热门游戏\n  1.  ](\n赛尔号\n  2.  ](\n赛尔号手游\n  3.  ](\n小花仙\n###  游戏列表\n;) ;)\n  1.  ](\n首款科幻类社区养成游戏\n  2.  ](\n少女最爱的梦幻乐园\n  3.  ](\n弘扬中国功夫探索竞技游戏\n  4.  ](\n益智养成互动虚拟社区\n  5.  ](\n回合制多精灵对战虚拟社区\n  6.  ](\n赛尔号经典续作\n;) \n  1.  ](\n摩尔庄园，快乐永远\n  2.  ](\n赛尔号，全新出发\n  3.  ](\n赛尔号官方正版手游\n  4.  ](\n宇宙探险 精灵养成\n  5.  ](\n经典小花仙 手游再绽放\n;) \n  1.  客服中心 Game Service ](\n  2.  合作中心 Partners ](\n  3.  关于淘米 About taomee ](\n[ 返回  \n顶部 ](javascript:scroll\\(0,0\\))\n](\n _|_ _|_ _|_ _|_ _|_ _|_ _|_ _|_\n上海淘米网络科技有限公司 Copyright©2008-2026 TaoMee Inc. All Rights Reserved\n抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活\n _|_ _|_\n _|_举报邮箱：blxxjb@taomee.com\n!\n工信部网站备案： 沪公网安备：31010402000181号](\n网络文化许可证：互联网出版许可证：\n网上有害信息专区](上海市互联网违法和不良信息举报中心](\n\n\nClickable buttons are wrapped in <button> tag\n<button>首页<button>\n<button>合作中心Partners<button>\n",
+      "button": "首页",
+      "url": "https://game.61.com/m/",
+      "markdown_chars": 724,
+      "discovered_buttons": 2
+    },
+    {
+      "index": 10,
+      "role": "WebWalker",
+      "content": "Thought: 我需要访问关于淘米页面以获取更多关于《赛尔计划》的信息。\nAction: visit_page\nAction Input: {\"button\": \"关于淘米About taomee\"}\n"
+    },
+    {
+      "index": 11,
+      "role": "VisitPage",
+      "content": "Button not found: 关于淘米About taomee",
+      "button": "关于淘米About taomee",
+      "raw_params": "{\"button\": \"关于淘米About taomee\"}"
+    },
+    {
+      "index": 12,
+      "role": "WebWalker",
+      "content": "Thought: 我需要重新尝试访问其他页面以获取关于《赛尔计划》的信息。\nAction: visit_page\nAction Input: {\"button\": \"首页\"}"
+    },
+    {
+      "index": 13,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n!\n ](\n          \n ](\n ](\n ](\n ](\n ](\n ](\n###  热门游戏\n  1.  ](\n赛尔号\n  2.  ](\n赛尔号手游\n  3.  ](\n小花仙\n###  游戏列表\n;) ;)\n  1.  ](\n首款科幻类社区养成游戏\n  2.  ](\n少女最爱的梦幻乐园\n  3.  ](\n弘扬中国功夫探索竞技游戏\n  4.  ](\n益智养成互动虚拟社区\n  5.  ](\n回合制多精灵对战虚拟社区\n  6.  ](\n赛尔号经典续作\n;) \n  1.  ](\n摩尔庄园，快乐永远\n  2.  ](\n赛尔号，全新出发\n  3.  ](\n赛尔号官方正版手游\n  4.  ](\n宇宙探险 精灵养成\n  5.  ](\n经典小花仙 手游再绽放\n;) \n  1.  客服中心 Game Service ](\n  2.  合作中心 Partners ](\n  3.  关于淘米 About taomee ](\n[ 返回  \n顶部 ](javascript:scroll\\(0,0\\))\n](\n _|_ _|_ _|_ _|_ _|_ _|_ _|_ _|_\n上海淘米网络科技有限公司 Copyright©2008-2026 TaoMee Inc. All Rights Reserved\n抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活\n _|_ _|_\n _|_举报邮箱：blxxjb@taomee.com\n!\n工信部网站备案： 沪公网安备：31010402000181号](\n网络文化许可证：互联网出版许可证：\n网上有害信息专区](上海市互联网违法和不良信息举报中心](\n\n\nClickable buttons are wrapped in <button> tag\n<button>首页<button>\n<button>合作中心Partners<button>\n",
+      "button": "首页",
+      "url": "https://game.61.com/m/",
+      "markdown_chars": 724,
+      "discovered_buttons": 2
+    },
+    {
+      "index": 14,
+      "role": "WebWalker",
+      "content": "Thought: 我需要重新尝试访问其他页面以获取关于《赛尔计划》的信息。\nAction: visit_page\nAction Input: {\"button\": \"合作中心Partners\"}\n"
+    },
+    {
+      "index": 15,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n;)\n合作中心\n ](\n              \n# 合作中心\n## Partners\n###  淘米游戏合作\n## 商务合作\n  * 合作方向：渠道联运、产品引进，海外区域授权，产品定制等方向\n  * 联系人：王先生\n  * 邮箱：narney@taomee.com\n  * 联系人：卞小姐\n  * 邮箱：yuanyuan@taomee.com\n## 市场合作\n  * 合作方向：媒体广告、异业合作、市场营销等方向\n  * 联系人：王先生\n  * 邮箱：narney@taomee.com\n  * 联系人：孙小姐\n  * 邮箱：peachsun@taomee.com\n## 媒体合作\n  * 合作方向：游戏媒体采访、信息交流、媒体合作等方向\n  * 联系人：孙小姐\n  * 邮箱：peachsun@taomee.com\n  * 联系人：王小姐\n  * 邮箱：baywang@taomee.com\n  1.  客服中心 Game Service ](\n  2.  合作中心 Partners ](\n  3.  关于淘米 About taomee ](\n[ 返回  \n顶部 ](javascript:scroll\\(0,0\\))\n\n\nClickable buttons are wrapped in <button> tag\n<button>首页<button>\n<button>新闻动态<button>\n<button>合作中心Partners<button>\n",
+      "button": "合作中心Partners",
+      "url": "https://game.61.com/m/coopera/index.html",
+      "markdown_chars": 516,
+      "discovered_buttons": 3
+    },
+    {
+      "index": 16,
+      "role": "WebWalker",
+      "content": "Thought: 我需要访问新闻动态页面以获取关于《赛尔计划》的更多信息。\nAction: visit_page\nAction Input: {\"button\": \"新闻动态\"}"
+    },
+    {
+      "index": 17,
+      "role": "VisitPage",
+      "content": "The web information is:\n\n;)\n新闻动态\n ](\n                \n ](\n ](\n ](\n ](#/main/?game=mxwol/)\n ](\n ](\n ](\n<\n>\n    *  庄园崩坏 《摩尔庄园》页游穿越版本来袭 今日，《摩尔庄园》手游全新版本“庄园崩坏，时空融合”正式上线，与经典2D页游首次开启梦幻穿越融合，引领摩尔们开... 【08/24】 ](\n    *  积极维护防汛救灾网络秩序倡议书 标题：积极维护防汛救灾网络秩序倡议书 近期，东北、华北、黄淮等地出现极端降雨，多地... 【08/11】 ](\n    *  西瓜JUN倾情献声！《小花仙》塔西角色主题曲发布 标题：西瓜JUN倾情献声！《小花仙》塔西角色主题曲发布 夏日漫语，彼岸听聆。《小花仙》暑期“... 【07/07】 ](\n    *  有淄有味有朋友 摩尔庄园X淄博文旅联动开启 今日，《摩尔庄园》手游与淄博文旅集团以“有淄有味有朋友”为主题正式开启异业联动，联动视频今日首曝。合作双方共同... 【07/06】 ](\n    *  《小花仙》暑期版本曝光！塔西角色主题曲即将发布 夏日漫语，彼岸听聆。《小花仙》暑期“夏日冰雪之城”版本及塔巴斯西蒙角色主题曲将于7月7日正式发布，版本主题站今... 【06/30】 ](\n    *  《摩尔庄园》手游二周年庆典快乐开启！夏日环游季版本上线 在六一儿童节的今天，《摩尔庄园》手游迎来了二周年庆典，周年纪念PV视频同步公开。本次周年版本为摩尔们带来了全新玩法和新颖的游戏体验。同... 【06/01】 ](\n    *  《摩尔庄园手游》正式回归淘米 黑猫警长、洽洽食品共庆2周年 时空交汇，快乐重逢！摩尔庄园手游今日正式回归淘米游戏，老用户回归活动同步启动，我们也携手黑猫警长与洽洽食品共庆2周年，为小摩尔们准备了... 【05/26】 ](\n    *  小花仙13周年庆典璀璨启程！六大福利绽放开启 花梦如初，绚烂新篇！淘米游戏旗下女性向IP《小花仙》迎来13岁生日，品牌周年庆典今日盛大开幕！《小花仙》陪伴着无数怀揣少女梦的玩家度过... 【04/07】 ](\n    *  小花仙13周年限定周边曝光 全网预售开启 花梦如初，好物来袭！淘米游戏旗下女性向IP《小花仙》13周年庆典将于4月7日正式上线，品牌站周边页面今日开启！喜迎13周年，精心打造的... 【04/07】 ](\n    *  小花仙X中国邮政 携手打造13周年文创联名礼盒 十三载花梦如初，《小花仙》是淘米网络旗下唯一的女性IP，与《摩尔庄园》和《赛尔号》有着截然不同的用户定位，《小花仙》页游于2010年正... 【04/04】 ](\n    *  《摩尔庄园》手游淘米官网上线 全新内容抢先爆料 今日，《摩尔庄园》手游淘米官网正式上线，2023年周年庆版本预约开启，众多回归福利、全新版本内容抢先爆料，期待广大小摩尔们提前入驻！ ... 【03/31】 ](\n    *  《小花仙》13周年庆典宣传片重磅发布 品牌站今日上线 花梦如初，姊妹共赴。《小花仙》13周年庆典将于4月7日正式上线，今日开启预热，每天都将为你呈现神秘爆料。如今《小花仙》首次于周年庆典之... 【03/31】 ](\n    *  《摩尔庄园》手游运营主体变动公告 ... 【03/24】 ](\n    *  《赛尔计划》联结测试招募火热进行中！ 本次「联结测试」的测试类型为限量安卓删档不计费测试。 本次测试无须报名，预下载通道将在2023年2月15... 【02/15】 ](\n    *  《小花仙》手游回归活动今日上线 微信红包封面明日开抢 迷迭梦祁贺新春，花香追忆缘起时！《小花仙》春节档回归活动今日正式启动，新年神祈同步上线！新老玩家参与本次春节档回归活动不仅可以获得丰厚... 【01/13】 ](\n    *  《小花仙》新春回归活动今日上线 微信红包封面明日开抢 迷迭梦祁贺新春，花香追忆缘起时！《小花仙》春节档回归活动今日正式启动，新年神祈同步上线！本次春节档回归活动为新老玩家准备了丰富的游戏福... 【01/13】 ](\n    *  2022年淘米游戏年度盛典淘乐节正式开启！ 2022年淘米游戏年度盛典淘乐节于今日上午10点正式开启，共设立三大会场分别是淘米游戏主会场、斗鱼专场、4399分会场，参与主会场活动... 【11/25】 ](\n    *  2022淘乐节即将上线！预约领游戏专属彩蛋福利 2022年淘米游戏年度盛典淘乐节将于11月25日上午10点正式上线，淘乐节预约倒计时今日正式开启！现在参与预约可立即领取一款游戏的淘乐... 【11/18】 ](\n    *  《赛尔号》B站UP主共创计划启动！12万奖金等你瓜分 近日，赛尔号IP系列产品联合哔哩哔哩bilibili发起了UP主共创计划，在2022年11月9日12点正式开启，旨在打造哔哩哔哩平台《... 【11/09】 ](\n    *  【17173转载】《赛尔计划》「唤醒测试」试玩评测：《赛尔号》精神续作，铁甲小宝也玩二次元？ 导语：那个承载无数孩子童年的《赛尔号》，如今也迎来了它的二次元版本。 前言 &nbs... 【10/18】 ](\n; \"<上一页\") \n  1.  客服中心 Game Service ](\n  2.  合作中心 Partners ](\n  3.  关于淘米 About taomee ](\n[ 返回  \n顶部 ](javascript:scroll\\(0,0\\))\n\n\nClickable buttons are wrapped in <button> tag\n<button>首页<button>\n<button>新闻动态<button>\n<button>庄园崩坏 《摩尔庄园》页游穿越版本来袭今日，《摩尔庄园》手游全新版本“庄园崩坏，时空融合”正式上线，与经典2D页游首次开启梦幻穿越融合，引领摩尔们开...【08/24】<button>\n<button>积极维护防汛救灾网络秩序倡议书标题：积极维护防汛救灾网络秩序倡议书 近期，东北、华北、黄淮等地出现极端降雨，多地...【08/11】<button>\n<button>西瓜JUN倾情献声！《小花仙》塔西角色主题曲发布标题：西瓜JUN倾情献声！《小花仙》塔西角色主题曲发布 夏日漫语，彼岸听聆。《小花仙》暑期“...【07/07】<button>\n<button>有淄有味有朋友 摩尔庄园X淄博文旅联动开启今日，《摩尔庄园》手游与淄博文旅集团以“有淄有味有朋友”为主题正式开启异业联动，联动视频今日首曝。合作双方共同...【07/06】<button>\n<button>《小花仙》暑期版本曝光！塔西角色主题曲即将发布夏日漫语，彼岸听聆。《小花仙》暑期“夏日冰雪之城”版本及塔巴斯西蒙角色主题曲将于7月7日正式发布，版本主题站今...【06/30】<button>\n<button>《摩尔庄园》手游二周年庆典快乐开启！夏日环游季版本上线在六一儿童节的今天，《摩尔庄园》手游迎来了二周年庆典，周年纪念PV视频同步公开。本次周年版本为摩尔们带来了全新玩法和新颖的游戏体验。同...【06/01】<button>\n<button>《摩尔庄园手游》正式回归淘米 黑猫警长、洽洽食品共庆2周年时空交汇，快乐重逢！摩尔庄园手游今日正式回归淘米游戏，老用户回归活动同步启动，我们也携手黑猫警长与洽洽食品共庆2周年，为小摩尔们准备了...【05/26】<button>\n<button>小花仙13周年庆典璀璨启程！六大福利绽放开启花梦如初，绚烂新篇！淘米游戏旗下女性向IP《小花仙》迎来13岁生日，品牌周年庆典今日盛大开幕！《小花仙》陪伴着无数怀揣少女梦的玩家度过...【04/07】<button>\n<button>小花仙13周年限定周边曝光 全网预售开启花梦如初，好物来袭！淘米游戏旗下女性向IP《小花仙》13周年庆典将于4月7日正式上线，品牌站周边页面今日开启！喜迎13周年，精心打造的...【04/07】<button>\n<button>小花仙X中国邮政 携手打造13周年文创联名礼盒十三载花梦如初，《小花仙》是淘米网络旗下唯一的女性IP，与《摩尔庄园》和《赛尔号》有着截然不同的用户定位，《小花仙》页游于2010年正...【04/04】<button>\n<button>《摩尔庄园》手游淘米官网上线 全新内容抢先爆料今日，《摩尔庄园》手游淘米官网正式上线，2023年周年庆版本预约开启，众多回归福利、全新版本内容抢先爆料，期待广大小摩尔们提前入驻！ ...【03/31】<button>\n<button>《小花仙》13周年庆典宣传片重磅发布 品牌站今日上线花梦如初，姊妹共赴。《小花仙》13周年庆典将于4月7日正式上线，今日开启预热，每天都将为你呈现神秘爆料。如今《小花仙》首次于周年庆典之...【03/31】<button>\n<button>《摩尔庄园》手游运营主体变动公告...【03/24】<button>\n<button>《赛尔计划》联结测试招募火热进行中！本次「联结测试」的测试类型为限量安卓删档不计费测试。 本次测试无须报名，预下载通道将在2023年2月15...【02/15】<button>\n<button>《小花仙》手游回归活动今日上线 微信红包封面明日开抢迷迭梦祁贺新春，花香追忆缘起时！《小花仙》春节档回归活动今日正式启动，新年神祈同步上线！新老玩家参与本次春节档回归活动不仅可以获得丰厚...【01/13】<button>\n<button>《小花仙》新春回归活动今日上线 微信红包封面明日开抢迷迭梦祁贺新春，花香追忆缘起时！《小花仙》春节档回归活动今日正式启动，新年神祈同步上线！本次春节档回归活动为新老玩家准备了丰富的游戏福...【01/13】<button>\n<button>2022年淘米游戏年度盛典淘乐节正式开启！2022年淘米游戏年度盛典淘乐节于今日上午10点正式开启，共设立三大会场分别是淘米游戏主会场、斗鱼专场、4399分会场，参与主会场活动...【11/25】<button>\n<button>2022淘乐节即将上线！预约领游戏专属彩蛋福利2022年淘米游戏年度盛典淘乐节将于11月25日上午10点正式上线，淘乐节预约倒计时今日正式开启！现在参与预约可立即领取一款游戏的淘乐...【11/18】<button>\n<button>《赛尔号》B站UP主共创计划启动！12万奖金等你瓜分近日，赛尔号IP系列产品联合哔哩哔哩bilibili发起了UP主共创计划，在2022年11月9日12点正式开启，旨在打造哔哩哔哩平台《...【11/09】<button>\n<button>【17173转载】《赛尔计划》「唤醒测试」试玩评测：《赛尔号》精神续作，铁甲小宝也玩二次元？导语：那个承载无数孩子童年的《赛尔号》，如今也迎来了它的二次元版本。 前言 &nbs...【10/18】<button>\n<button>下一页><button>\n<button>合作中心Partners<button>\n<button>查看更多<button>\n",
+      "button": "新闻动态",
+      "url": "https://game.61.com/m/news/index.html",
+      "markdown_chars": 2291,
+      "discovered_buttons": 25
+    },
+    {
+      "index": 18,
+      "role": "WebWalker",
+      "content": "Memory:\n-在2022年的淘乐节中，预约过《赛尔计划》的玩家可以获得游戏专属彩蛋福利。这款游戏在2023年2月15日开启了限量安卓删档不计费测试的预下载通道。\n\"}"
+    },
+    {
+      "index": 19,
+      "role": "WebWalker",
+      "content": "Final Answer: 在2022年的淘乐节中，预约过《赛尔计划》的玩家可以获得游戏专属彩蛋福利。这款游戏在2023年2月15日开启了限量安卓删档不计费测试的预下载通道。"
+    }
+  ]
+}

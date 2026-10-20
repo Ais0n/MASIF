@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0625_325e57ee84e7",
+  "source_index": 625,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What was the specific proposal passed in the October 2024 Illuvium DAO governance regarding the reward structure for Illuvium Beyond, and how does it differ from the Illuvium Creator Rewards Program's reward distribution?",
+  "prompt": "What was the specific proposal passed in the October 2024 Illuvium DAO governance regarding the reward structure for Illuvium Beyond, and how does it differ from the Illuvium Creator Rewards Program's reward distribution?",
+  "expected_answer": "The proposal IIP-69 redesigned the reward structure for Illuvium Beyond, while the Illuvium Creator Rewards Program offers a weekly pool of 100 ILV tokens.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-october-2024",
+      "https://illuvium.io/news/join-the-illuvium-creator-rewards-program"
+    ],
+    "golden_path": [
+      "root->News->Illuvium Beyond - Your Next D1SK->Illuvium DAO Governance Newsletter - October 2024",
+      "root->News->Illuvium Creator Program: The Show Goes On!->here"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 10.718,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0625_325e57ee84e7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0625_325e57ee84e7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

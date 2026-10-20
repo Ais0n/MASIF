@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0088_df5c482e5bb6",
+  "source_index": 88,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In the 2021 Human Rights Campaign Corporate Equality Index, in which category did Riot Games lose points and what is their plan to improve this category's score?",
+  "prompt": "In the 2021 Human Rights Campaign Corporate Equality Index, in which category did Riot Games lose points and what is their plan to improve this category's score?",
+  "expected_answer": "Riot Games lost points in the corporate responsibility category and plans to improve by establishing official documentation.",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/news/the-2021-human-rights-campaign-corporate-equality-index"
+    ],
+    "golden_path": [
+      "root->Diversity & Inclusion->The 2021 Human Rights Campaign Corporate Equality Index"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 21.388,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0088_df5c482e5bb6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0088_df5c482e5bb6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

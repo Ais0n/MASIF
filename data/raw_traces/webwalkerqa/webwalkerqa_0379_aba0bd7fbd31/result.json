@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0379_aba0bd7fbd31",
+  "source_index": 379,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "During 2021, from when to when was the content of the EHA-SWG virtual meeting available?",
+  "prompt": "During 2021, from when to when was the content of the EHA-SWG virtual meeting available?",
+  "expected_answer": "The EHA-SWG virtual meeting content was available from April 22, 2021, to May 29, 2021.",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/organization/newsroom/news-and-updates/archive/2021/5/31"
+    ],
+    "golden_path": [
+      "root->News & views->Meeting reports->May 31 2021"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 106.709,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0379_aba0bd7fbd31/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0379_aba0bd7fbd31/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

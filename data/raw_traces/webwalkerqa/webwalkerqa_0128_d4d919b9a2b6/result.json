@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0128_d4d919b9a2b6",
+  "source_index": 128,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "中南大学计算机学院2021年大学生创新创业项目申报指导会议是在刘逸峰老师的主持下进行的，该会议在计算机学院的哪个具体地点举行？",
+  "prompt": "中南大学计算机学院2021年大学生创新创业项目申报指导会议是在刘逸峰老师的主持下进行的，该会议在计算机学院的哪个具体地点举行？",
+  "expected_answer": "新校区D107",
+  "root_url": "https://cse.csu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.csu.edu.cn/info/1043/4583.htm"
+    ],
+    "golden_path": [
+      "root->立足创造，未来必来  ——创新创业立项申报指导会议顺利举行"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "中南大学计算机学院2021年大学生创新创业项目申报指导会议在中南大学信息楼举行。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 34.512,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0128_d4d919b9a2b6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0128_d4d919b9a2b6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

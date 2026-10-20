@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0293_bf5547936089",
+  "source_index": 293,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京工业大学计算机与信息工程学院万夕里在2020年担任什么职位？",
+  "prompt": "南京工业大学计算机与信息工程学院万夕里在2020年担任什么职位？",
+  "expected_answer": "副院长",
+  "root_url": "https://cise.njtech.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cise.njtech.edu.cn/info/1015/6153.htm"
+    ],
+    "golden_path": [
+      "root->高级职称->万夕里"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "南京工业大学计算机与信息工程学院万夕里在2020年担任的职位是研究生导师。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 19.072,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0293_bf5547936089/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0293_bf5547936089/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer states 'graduate supervisor' while the expected answer is 'Vice Dean' (副院长).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

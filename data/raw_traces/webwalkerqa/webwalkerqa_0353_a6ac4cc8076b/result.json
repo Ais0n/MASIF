@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0353_a6ac4cc8076b",
+  "source_index": 353,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年4月29日，常州大学计算机与人工智能学院举办的党纪学习教育读书班开班仪式活动中，哪位传达了大数据学院党纪学习教育读书班学习安排？",
+  "prompt": "2024年4月29日，常州大学计算机与人工智能学院举办的党纪学习教育读书班开班仪式活动中，哪位传达了大数据学院党纪学习教育读书班学习安排？",
+  "expected_answer": "陆恒",
+  "root_url": "https://bigdata.cczu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://bigdata.cczu.edu.cn/2024/0430/c13837a361512/page.htm"
+    ],
+    "golden_path": [
+      "root->党建动态->下一页>>->计算机与人工智能学院 阿里云大数据学院党委党纪学习教育读书班开班"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 48.298,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0353_a6ac4cc8076b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0353_a6ac4cc8076b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

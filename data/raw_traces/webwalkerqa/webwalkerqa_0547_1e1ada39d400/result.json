@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0547_1e1ada39d400",
+  "source_index": 547,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在浙江农林大学数计学院，哪位教授既从事地理信息系统的研究，又曾在校“钟声杯”教职工乒乓球比赛中获奖？",
+  "prompt": "在浙江农林大学数计学院，哪位教授既从事地理信息系统的研究，又曾在校“钟声杯”教职工乒乓球比赛中获奖？",
+  "expected_answer": "夏凯",
+  "root_url": "https://ie.zafu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://ie.zafu.edu.cn/info/1131/3225.htm",
+      "https://ie.zafu.edu.cn/info/1073/1429.htm"
+    ],
+    "golden_path": [
+      "root->专任教师->夏凯",
+      "root->群团组织->活动剪影->学院喜获第十届校“钟声杯”教职工乒乓球比赛季军11月21日学校举办了浙江农林大学第十届“钟声杯”教职工乒乓球比赛，本次比赛共有19个学院(单位)的21支队伍参赛，是规模最大、参赛队伍最多的一次乒乓球比赛。为增进学院沟通交流，进一步丰富教职工的文体生活，学院工会根据学院教职工乒乓球爱好者的情况，组织了严..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 45.979,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0547_1e1ada39d400/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0547_1e1ada39d400/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

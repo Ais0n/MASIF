@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0324_eb4a0d9e5d51",
+  "source_index": 324,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2022年2月20日南华大学计算机学院组织的新进教师及新开课程预讲活动中，主持此次预讲活动的副院长是谁？",
+  "prompt": "在2022年2月20日南华大学计算机学院组织的新进教师及新开课程预讲活动中，主持此次预讲活动的副院长是谁？",
+  "expected_answer": "何啸峰",
+  "root_url": "https://jsjxy.usc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.usc.edu.cn/info/1993/9976.htm"
+    ],
+    "golden_path": [
+      "root->更多+->5->我院组织新进教师及新开课程预讲"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 44.502,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0324_eb4a0d9e5d51/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0324_eb4a0d9e5d51/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

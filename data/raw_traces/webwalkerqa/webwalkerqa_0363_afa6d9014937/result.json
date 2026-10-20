@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0363_afa6d9014937",
+  "source_index": 363,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2019年3月13日举行的寒假社会实践评比会中，杭州电子科技大学计算机学院共有多少支社会实践队伍参与，并有哪些队伍获得了一等奖？",
+  "prompt": "2019年3月13日举行的寒假社会实践评比会中，杭州电子科技大学计算机学院共有多少支社会实践队伍参与，并有哪些队伍获得了一等奖？",
+  "expected_answer": "共有15支队伍参与，'奉中起杭'和'启梦V小分队'获得了一等奖。",
+  "root_url": "https://computer.hdu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hdu.edu.cn/2019/0315/c6760a140516/page.htm"
+    ],
+    "golden_path": [
+      "root->学生成果->尾页->计算机学院举行2019年寒假社会实践评比会"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 14.757,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0363_afa6d9014937/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0363_afa6d9014937/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

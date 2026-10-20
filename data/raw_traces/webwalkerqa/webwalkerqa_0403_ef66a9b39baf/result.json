@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0403_ef66a9b39baf",
+  "source_index": 403,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "浙江大学计算机学院乔丽清的信息是谁在2019年6月11日上传的？",
+  "prompt": "浙江大学计算机学院乔丽清的信息是谁在2019年6月11日上传的？",
+  "expected_answer": "胡迪斐",
+  "root_url": "http://www.cs.zju.edu.cn/csen/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2019/0611/c27061a1223570/page.htm"
+    ],
+    "golden_path": [
+      "root->教师名录->机关->乔丽清"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "浙江大学计算机学院乔丽清的信息在2019年6月11日由系统上传。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 19.142,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0403_ef66a9b39baf/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0403_ef66a9b39baf/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer states the information was uploaded by the 'system', whereas the expected answer identifies a specific person, '胡迪",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

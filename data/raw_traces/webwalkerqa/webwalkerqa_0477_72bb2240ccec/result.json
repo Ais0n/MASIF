@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0477_72bb2240ccec",
+  "source_index": 477,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023年，携程集团在EcoVadis和MSCI ESG评级中分别获得了什么级别的评级认可？",
+  "prompt": "2023年，携程集团在EcoVadis和MSCI ESG评级中分别获得了什么级别的评级认可？",
+  "expected_answer": "EcoVadis银牌，MSCI A级",
+  "root_url": "https://ct.ctrip.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://ct.ctrip.com/esg",
+      "https://ct.ctrip.com/news"
+    ],
+    "golden_path": [
+      "root->可持续性商旅",
+      "root->商旅资讯动态"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "2023年，携程商旅在EcoVadis企业社会责任评级平台被授予「银牌」等级，等级分数排名在被评估的全球公司中超过85%的企业。此外，携程集团于2023年8月成为亚太地区首家加入SBTi科学碳目标倡议的旅游企业。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 57.335,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0477_72bb2240ccec/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0477_72bb2240ccec/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: ",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

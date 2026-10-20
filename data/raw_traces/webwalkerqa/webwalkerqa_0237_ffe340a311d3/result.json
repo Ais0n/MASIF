@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0237_ffe340a311d3",
+  "source_index": 237,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What were the key bug fixes in the Illuvium: Zero version 1.1.4 released on November 1, 2024, that improved the game's stability?",
+  "prompt": "What were the key bug fixes in the Illuvium: Zero version 1.1.4 released on November 1, 2024, that improved the game's stability?",
+  "expected_answer": "Key bug fixes in Illuvium: Zero version 1.1.4 include warning pop-ups for insufficient storage capacity, extra interaction button issues during initial land transfer, and crash resolutions on iPhones, enhancing game stability.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-zero-patch-notes-1-1-4"
+    ],
+    "golden_path": [
+      "root->News->Illuvium: Zero Patch Notes 1.1.4"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 12.782,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0237_ffe340a311d3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0237_ffe340a311d3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

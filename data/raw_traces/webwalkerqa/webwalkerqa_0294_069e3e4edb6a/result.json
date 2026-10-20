@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0294_069e3e4edb6a",
+  "source_index": 294,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How many consecutive years has Angry Birds 2 contributed proceeds from in-app purchases to SpecialEffect during the One Special Day event by 2024?",
+  "prompt": "How many consecutive years has Angry Birds 2 contributed proceeds from in-app purchases to SpecialEffect during the One Special Day event by 2024?",
+  "expected_answer": "Seven years",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/angry-birds-2-supporting-one-special-day-2024/"
+    ],
+    "golden_path": [
+      "root->Support->Angry Birds 2 – Supporting One Special Day 2024"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 21,
+  "tool_calls": 8,
+  "duration_seconds": 71.505,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0294_069e3e4edb6a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0294_069e3e4edb6a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

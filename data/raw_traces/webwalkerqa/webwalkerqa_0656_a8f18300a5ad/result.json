@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0656_a8f18300a5ad",
+  "source_index": 656,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2021年5月，华南理工大学计算机科学与工程学院是什么时候前往广州市珠海区阿里中心参加Lazada校园招聘Openday的，并该活动的主要目标是什么？",
+  "prompt": "在2021年5月，华南理工大学计算机科学与工程学院是什么时候前往广州市珠海区阿里中心参加Lazada校园招聘Openday的，并该活动的主要目标是什么？",
+  "expected_answer": "2021年5月20日，深化校企合作与解答学生就业疑惑。",
+  "root_url": "http://www2.scut.edu.cn/cs/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www2.scut.edu.cn/cs/2021/0525/c22279a430948/page.htm"
+    ],
+    "golden_path": [
+      "root->学院新闻->尾页->校企联动1+1——我院学生前往阿里中心参加Lazada校园招聘Openday"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 32.444,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0656_a8f18300a5ad/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0656_a8f18300a5ad/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

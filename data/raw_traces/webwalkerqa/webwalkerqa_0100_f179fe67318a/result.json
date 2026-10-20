@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0100_f179fe67318a",
+  "source_index": 100,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "H3C 100W充电器满足哪些国际认证，并且相关的H3CIE-SDN认证课程将在何时举办？",
+  "prompt": "H3C 100W充电器满足哪些国际认证，并且相关的H3CIE-SDN认证课程将在何时举办？",
+  "expected_answer": "CCC和CQC双认证；2024年9月23日至9月27日",
+  "root_url": "https://www.h3c.com/cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.h3c.com/cn/Products_And_Solution/CommercialClientsProduct/Accessories/100W_MAX/",
+      "https://www.h3c.com/cn/Training/Boutique_Activities/open_class_list/H3CIE_SDN_AD/"
+    ],
+    "golden_path": [
+      "root->H3C 100W快速充电器",
+      "root->登录->查看所有->H3CIE-SDN(AD-Campus)-构建AD-Campus网络架构培训形式：杭州面授+在线开课时间：2024年9月23日-9月27日（5天）"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 20,
+  "tool_calls": 8,
+  "duration_seconds": 78.632,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0100_f179fe67318a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0100_f179fe67318a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

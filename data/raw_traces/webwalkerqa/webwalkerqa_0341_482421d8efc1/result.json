@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0341_482421d8efc1",
+  "source_index": 341,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023年常州大学大数据学院分工会包粽子活动在哪一天举办的，谁是活动出席的党委书记？",
+  "prompt": "2023年常州大学大数据学院分工会包粽子活动在哪一天举办的，谁是活动出席的党委书记？",
+  "expected_answer": "活动举办于6月16日，党委书记是陆恒。",
+  "root_url": "https://bigdata.cczu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://bigdata.cczu.edu.cn/2023/0619/c13838a334715/page.htm"
+    ],
+    "golden_path": [
+      "root->分工会工作-><<上一页->大数据学院分工会开展“弘扬传统文化 品味粽情端午”包粽子活动"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 42.346,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0341_482421d8efc1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0341_482421d8efc1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "task_id": "webwalkerqa_0513_58bbed6a2fcb",
+  "source_index": 513,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Was David Notkin a member of the program committee for ICSE 2002 where he gave the keynote speech on 'ArchJava: Connecting Software Architecture to Implementation'?",
+  "prompt": "Was David Notkin a member of the program committee for ICSE 2002 where he gave the keynote speech on 'ArchJava: Connecting Software Architecture to Implementation'?",
+  "expected_answer": "Yes, David Notkin was a member of the ICSE 2002 program committee.",
+  "root_url": "http://www.icse-conferences.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "http://www.icse-conferences.org/2002/info/papers.html",
+      "http://www.icse-conferences.org/2002/info/pcommittee.html"
+    ],
+    "golden_path": [
+      "root->ICSE 2002->Technical Papers",
+      "root->ICSE 2002->Program Committee"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "Yes, David Notkin was a member of the program committee for ICSE 2002, and he gave the keynote speech on 'ArchJava: Connecting Software Architecture to Implementation'.",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer provides the same factual confirmation as the expected answer, with additional context from the question.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 24.784,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0513_58bbed6a2fcb/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0513_58bbed6a2fcb/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "The predicted answer provides the same factual confirmation as the expected answer, with additional context from the question.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

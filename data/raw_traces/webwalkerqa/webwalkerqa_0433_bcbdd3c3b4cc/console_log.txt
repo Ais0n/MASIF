@@ -1,0 +1,1174 @@
+----- user -----
+query:
+Who is the Head of Brand Operations at Rovio responsible for overseeing the Angry Birds brand's activities during its 15th anniversary?
+official website:
+https://www.rovio.com/
+Observation:website information:
+
+
+                                                                                        
+Submit search Close search
+Open navigation
+Open search Close navigation menu
+  * Games 
+                      * Careers 
+                          * About Us 
+                                * Sustainability 
+                      
+Follow us
+          
+Open search Close navigation menu
+Submit search
+  * ### Popular searches
+      
+# >Home
+We craft games entertainment joy.
+Page home
+##  Welcome to Rovio.  We put joy first with our player-focused mobile games.
+## Latest news.
+  *  ](
+    
+The leader of the flock pulls up to the starting line in a souped up car that is a throwback to his racing past. Race as Red and take part in the limited time Angry Birds Festival!
+   
+   
+   
+## Our Games.
+  ###  
+Join the Angry Birds 2 flock to celebrate our new bird: Shade! Master her unique Spinning Slash ability to crush pigs like never before!
+  ###  
+Life is a bubble-popping dream in a new puzzle game with a gameplay style never-before-seen in an Angry Birds game.
+  ###  
+Angry Birds are back! Build your dream flock, master new gameplay and outsmart piggies in all-new Angry Birds experience!
+  ###  
+Master the art of the slingshot and aim for 3-star glory in the eternally fresh classic Angry Birds game. Available to play on your computer!
+## Careers at Rovio.
+Our games are defined by true craftmanship and original characters. Just like our teams. Match your talents with our teams and learn about our career opportunities.
+## Our Offices.
+Rovio’s locations in Finland, Sweden, Denmark, Canada, Spain and its one subsidiary in Turkey, are home to seven game studios, each with their own focus and mission.
+## Meet the Rovians.
+Get to know the heart and soul of Rovio - the people behind our games.
+        
+Previous slide Next slide
+## Newsletter
+Subscribe here for all the news that's fit to fly - delivered straight to your inbox! You can opt out anytime.
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Submit
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Sending An error occured. Thank you for subscribing! We will be in touch. 
+Teams Powered, Games Driven, Fan Fueled. Teams Powered, Games Driven, Fan Fueled. 
+            
+      
+Follow us
+          
+© 2009 - 2026 Rovio Entertainment Ltd. All rights reserved. 
+            
+
+
+clickable button:
+
+<button>Games<button>
+<button>Angry Birds 2<button>
+<button>Angry Birds Dream Blast ↗<button>
+<button>Angry Birds Bounce ↗<button>
+<button>Angry Birds Friends<button>
+<button>Careers<button>
+<button>Open Positions<button>
+<button>Candidate Hub<button>
+<button>Our Offices<button>
+<button>Life At Rovio<button>
+<button>Internship At Rovio<button>
+<button>About Us<button>
+<button>News<button>
+<button>Advertise With Rovio<button>
+<button>License Angry Birds<button>
+<button>Rovio History<button>
+<button>Press Material<button>
+<button>Contact<button>
+<button>Technology<button>
+<button>Sustainability<button>
+<button>DEI Initiatives<button>
+<button>Sustainability News & Blog<button>
+<button>Achievements & Reports<button>
+<button>Investor Archive<button>
+<button>Support<button>
+<button>Angry Birds<button>
+<button>Careers<button>
+<button>Support<button>
+<button>Rovio Blog<button>
+<button>Red Is Now Available in Sonic Racing: CrossWorlds as a playable character!<button>
+<button>Brand Partnerships<button>
+<button>New Collab Alert: SmileyWorld® and Angry Birds to Team Up in 2027<button>
+<button>A hero’s welcome – Angry Birds recognized with “International Classic IP Honor” at 2026 Weibo Gala<button>
+<button>From Tease to Launch: Bringing Shade into the Spotlight in Angry Birds 2<button>
+<button>View all news<button>
+<button>View Game<button>
+<button>Angry Birds Dream Blast<button>
+<button>View Game<button>
+<button>Angry Birds Bounce<button>
+<button>View Game<button>
+<button>View Game<button>
+<button>Explore Careers<button>
+<button>Explore offices<button>
+<button>Meet the RoviansOlli Laamanen<button>
+<button>Meet the RoviansEeva Aaltonen<button>
+<button>Meet the RoviansYumi Oishi<button>
+<button>Meet the RoviansIgnacio Amaya<button>
+<button>view all<button>
+<button>privacy policy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>Code of Conduct<button>
+<button>Unsolicited content and product feedback policy<button>
+<button>Accessibility Statement<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the Head of Brand Operations at Rovio responsible for overseeing the Angry Birds brand's activities during its 15th anniversary. The official website is the best place to start, so I will click on the "About Us" button to get more information.
+
+Action: visit_page
+Action Input: {"button": "About Us"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                        
+Submit search Close search
+Open navigation
+Open search Close navigation menu
+  * Games 
+                      * Careers 
+                          * About Us 
+                                * Sustainability 
+                      
+Follow us
+          
+Open search Close navigation menu
+Submit search
+  * ### Popular searches
+      
+# >About
+This is Rovio.
+Page about
+####  Rovio Entertainment Ltd  is a global mobile-first games company that creates, develops and publishes mobile games, which have been downloaded over 5 billion times. Rovio is best known for the global Angry Birds brand, which started as a popular mobile game in 2009, and has since evolved from games to various entertainment, animations and consumer products in brand licensing. Rovio has produced The Angry Birds Movie (2016), and its sequel, The Angry Birds Movie 2 was released in 2019. The company offers multiple mobile games and has seven game studios. Rovio is owned by SEGA.
+!
+### OUR VISION
+Crafting joyful experiences that connect generations.
+!
+### OUR MISSION
+We craft joy. Our thriving, curious culture enables us to create joyful and captivating experiences that shape the future of entertainment.
+###  The Rovio way is shaped by tangible principles that act as beacons and guide our everyday work.
+**WE CRAFT JOY**
+Happy players stay longer, play deeper, and build meaningful bonds. Great experiences create great value.
+**WE SPARK CREATIVITY THROUGH FUN**
+Good vibes and diverse voices unlock creative thinking. We make the best games when we’re inclusive, passionate and invested in the joy we’re creating.
+**WE KEEP EVOLVING**
+Learning is our favorite Game Mode. We are humble, open-minded and curious, actively seeking feedback and continuously improving.
+**WE LEARN FAST**
+  
+We start with vision and instinct, then test and learn fast. Data and insights sharpen our intuition, turning bold ideas into confident decisions.
+**WE ARE ORIGINAL**
+Same game, different moves. We learn from the market, think creatively, and come up with new strategies. We stay ahead by being authentic and original.
+**WE DIG DEEP, THEN SPRINT**
+Complex problems need deep understanding. We are solution-finders, we dig to build, not to block. Once there, we act with speed and conviction.
+**WE DRIVE IMPACT**
+Autonomy, trust in people before processes, and true ownership drive results, empowering us to take initiative and deliver exceptional outcomes.
+## Tomorrow with Rovio.
+What will games look like 5 years from now? Will the concept of “play” be re-defined and if so, how? If you’re curious (like us) about future trends and wider paradigm shifts in games and entertainment, join Rovio for a series of big, bold discussions with movie directors, academics, games industry veterans and more.
+###  Read more about:
+#### Rovio History
+Rovio has been making games and entertainment since its establishment in 2003.
+#### Sustainability
+Sustainability is at the core of Rovio. Check out our approach to Sustainability.
+#### Our Offices
+Rovio’s locations in Finland, Sweden, Denmark, Canada, Spain and its one subsidiary in Turkey are home to seven game studios, each with their own focus and mission.
+#### Diversity, Equity & Inclusion
+As Rovio, we are committed to weaving diversity, equity and inclusion into how we work and what we make, together with the industry.
+## Newsletter
+Subscribe here for all the news that's fit to fly - delivered straight to your inbox! You can opt out anytime.
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Submit
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Sending An error occured. Thank you for subscribing! We will be in touch. 
+Teams Powered, Games Driven, Fan Fueled. Teams Powered, Games Driven, Fan Fueled. 
+            
+      
+Follow us
+          
+© 2009 - 2026 Rovio Entertainment Ltd. All rights reserved. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Games<button>
+<button>Angry Birds 2<button>
+<button>Angry Birds Dream Blast ↗<button>
+<button>Angry Birds Bounce ↗<button>
+<button>Angry Birds Friends<button>
+<button>Careers<button>
+<button>Open Positions<button>
+<button>Candidate Hub<button>
+<button>Our Offices<button>
+<button>Life At Rovio<button>
+<button>Internship At Rovio<button>
+<button>About Us<button>
+<button>News<button>
+<button>Advertise With Rovio<button>
+<button>License Angry Birds<button>
+<button>Rovio History<button>
+<button>Press Material<button>
+<button>Contact<button>
+<button>Technology<button>
+<button>Sustainability<button>
+<button>DEI Initiatives<button>
+<button>Sustainability News & Blog<button>
+<button>Achievements & Reports<button>
+<button>Investor Archive<button>
+<button>Support<button>
+<button>Angry Birds<button>
+<button>Careers<button>
+<button>Support<button>
+<button>Read more<button>
+<button>Read more<button>
+<button>Read more<button>
+<button>Read more<button>
+<button>Read more<button>
+<button>privacy policy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>Code of Conduct<button>
+<button>Unsolicited content and product feedback policy<button>
+<button>Accessibility Statement<button>
+
+----- WebWalker -----
+The "About Us" page provides general information about Rovio and its mission, but it does not mention specific roles like the Head of Brand Operations. I need to explore further. I will click on the "Rovio History" button to see if there is any relevant information about brand operations or key personnel.
+
+Action: visit_page
+Action Input: {"button": "Rovio History"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                        
+Submit search Close search
+Open navigation
+Open search Close navigation menu
+  * Games 
+                      * Careers 
+                          * About Us 
+                                * Sustainability 
+                      
+Follow us
+          
+Open search Close navigation menu
+Submit search
+  * ### Popular searches
+      
+# >Rovio History
+This is Rovio.
+Page rovio-history
+## Our history.
+Rovio has been making games and entertainment since its establishment in 2003.
+  * ###  2003
+!
+###  2003
+#### The Finnish demoscene sparks Relude
+After winning an Assembly demo competition in 2003, three university students, Niklas Hed, Jarno Väkeväinen and Kim Dikert start a game company called Relude.
+  * ###  2005
+###  2005
+#### From Relude to Rovio.
+The first angel investor steps in, and Relude changes its name to Rovio, which means 'bonfire' in Finnish. They develop dozens of games for early mobile platforms.
+  * ###  2009
+###  2009
+#### The 52nd game
+51 games later, near bankruptcy, and in need of a big hit, Rovio develops its 52nd game, Angry Birds, in eight months. Downloads of the game fly to dizzying heights in a matter of weeks and it becomes one of the biggest mobile games and entertainment brand success stories of all time.
+  * ###  2010
+###  2010
+#### Beyond games
+The first Angry Birds plush toys are introduced, beginning a legacy of licensed products that would put millions of products on store shelves.
+  * ###  2012
+###  2012
+#### Growing wings
+Rovio expands, opening a new studio in Stockholm to develop a top-secret follow-up to the original Angry Birds game.   
+The same year, Angry Birds Friends was launched, becoming a fan favorite that delights players around the globe to this day.  
+  * ###  2013
+###  2013
+#### Getting animated
+Rovio's first animated series, Angry Birds Toons, premieres in its own streaming platform inside the Angry Birds games.
+  * ###  2015
+###  2015
+#### Bigger, badder, birdier.
+Angry Birds 2 is released, building on the slingshot gameplay of the original games. Angry Birds 2 is the inaugural game of Rovio's Stockholm Studio.
+  * ###  2016
+###  2016
+#### Off to Hollywood
+The Angry Birds Movie is realeased, making it the first film to be based on a mobile game. Boasting a star-studded voice cast, it was a blockbuster hit, opening at number 1 in 50 countries.
+  * ###  2018
+###  2018
+#### Dreaming Big!
+The birds were off to never never land in Angry Birds Dream Blast, introducing an all new gameplay style, and some adorable new character designs for the Angry Birds flock along the way.
+  * ###  2019
+###  2019
+#### Sequel success
+The Angry Birds Movie 2 comes to theaters. A fan favorite, the movie becomes the highest-rated video game movie on Rotten Tomatoes, and is later much-loved by Netflix subscribers.
+  * ###  2020
+###  2020
+#### New Horizons
+A new studio is established in Montreal (Lumi) to explore future opportunities around the next paradigm shifts in gaming and entertainment, and Rovio acquires Darkfire Games, establishing Rovio Copenhagen.
+  * ###  2021
+###  2021
+#### Branching Out
+Rovio acquires İzmir, Turkey based game studio, Ruby Games, a studio with expertise in creating high performing hyper-casual games. Elsewhere on the globe, a second Canadian studio is opened in Toronto.
+  * ###  2022
+###  2022
+#### Hatching in New Locations
+A second studio is established in Montreal (Studio 6) with a fast moving and experimental approach to game making. A sister office to Rovio’s Puzzle Studio opens its doors in Barcelona to aid in the creation of new game content.
+  * ###  2023
+###  2023
+####  Red Meets Blue
+Rovio becomes part of the Sega family! Sega Europe makes a bid to acquire over 90% of Rovio’s shares, and the deal is completed in August 2023.
+  * ###  Today
+###  Today
+#### About 500 employees. Over 50 nationalities.
+The Rovio family grows: in portfolio, genre mastery, and with studios across Europe and Canada.
+  * ###  Next
+###  Next
+#### Help us build the future
+## Heritage in tech and gaming
+Rovio is part of a rich heritage of tech and gaming in the Nordics, with the Finnish gaming industry alone generating €3.2 billion in revenue in 2022.
+The gaming industry in the north has shown the world what is possible, not only on mobile devices, but on console, PC, and on emerging technologies like AR and VR.
+## Company Announcements
+   
+   
+   
+## Newsletter
+Subscribe here for all the news that's fit to fly - delivered straight to your inbox! You can opt out anytime.
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Submit
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Sending An error occured. Thank you for subscribing! We will be in touch. 
+Teams Powered, Games Driven, Fan Fueled. Teams Powered, Games Driven, Fan Fueled. 
+            
+      
+Follow us
+          
+© 2009 - 2026 Rovio Entertainment Ltd. All rights reserved. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Games<button>
+<button>Angry Birds 2<button>
+<button>Angry Birds Dream Blast ↗<button>
+<button>Angry Birds Bounce ↗<button>
+<button>Angry Birds Friends<button>
+<button>Careers<button>
+<button>Open Positions<button>
+<button>Candidate Hub<button>
+<button>Our Offices<button>
+<button>Life At Rovio<button>
+<button>Internship At Rovio<button>
+<button>About Us<button>
+<button>News<button>
+<button>Advertise With Rovio<button>
+<button>License Angry Birds<button>
+<button>Rovio History<button>
+<button>Press Material<button>
+<button>Contact<button>
+<button>Technology<button>
+<button>Sustainability<button>
+<button>DEI Initiatives<button>
+<button>Sustainability News & Blog<button>
+<button>Achievements & Reports<button>
+<button>Investor Archive<button>
+<button>Support<button>
+<button>Angry Birds<button>
+<button>Careers<button>
+<button>Support<button>
+<button>Rovio Stockholm studio<button>
+<button>View game<button>
+<button>View Game<button>
+<button>Our Game Studios<button>
+<button>Read more<button>
+<button>See open positions<button>
+<button>Brand Partnerships<button>
+<button>New Collab Alert: SmileyWorld® and Angry Birds to Team Up in 2027<button>
+<button>DEI Blog<button>
+<button>Checking in with The Stockholm DEI Group<button>
+<button>Hold onto your gubbins – The Worlds of Angry Birds and Two Point Museum Collide<button>
+<button>View All<button>
+<button>privacy policy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>Code of Conduct<button>
+<button>Unsolicited content and product feedback policy<button>
+<button>Accessibility Statement<button>
+
+----- WebWalker -----
+The "Rovio History" page provides a timeline of the company's development but does not mention specific roles like the Head of Brand Operations. I need to explore further. I will click on the "Our Game Studios" button to see if there is any relevant information about brand operations or key personnel.
+
+Action: visit_page
+Action Input: {"button": "Our Game Studios"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                        
+Submit search Close search
+Open navigation
+Open search Close navigation menu
+  * Games 
+                      * Careers 
+                          * About Us 
+                                * Sustainability 
+                      
+Follow us
+          
+Open search Close navigation menu
+Submit search
+  * ### Popular searches
+      
+# >Our Offices
+Our Enchanting Offices
+!
+Page game-studios
+##  Embracing Uniqueness: Unified by a Shared Culture!
+              
+## Puzzle Studio
+Rovio’s headquarters is situated in the Helsinki Metropolitan Area in Espoo, about 10 minutes from the city center of Helsinki. Rovio’s Puzzle Studio creates puzzle games that are instantly fun, but dynamic and deep enough to become lasting hobbies. The studio explores new ways to use narrative and character worlds in casual mobile games, with the aim of creating a true emotional connection that stays with players even when they’re not playing.  
+  
+!
+## Rovio Stockholm
+Stockholm Studio is the studio behind Angry Birds 2, a game they have kept exciting and fresh for players through world class live ops since its launch in 2015. The studio is actively crafting new “advanced casual” games with small and nimble teams. Their goal is to create games that are approachable, but retain the deep mechanics that keep players engaged for years.
+  
+## Rovio Copenhagen
+Darkfire Games became Rovio Copenhagen in 2020, joining Rovio’s Nordic sister studios in Sweden and Finland. The studio is actively developing accessible and casual action RPGs with a Nordic twist.
+  
+## Rovio Barcelona
+Rovio Barcelona is a sister office to Rovio’s Puzzle Studio. The Rovio Barcelona studio seeks to support the development and maintenance of Rovio’s puzzle games, creating new game content, as well as developing new games, to keep players engaged with amazing game experiences for years to come. Rovio Barcelona office is strategically situated in the heart of the city, in @22, the bustling tech hub of Barcelona. From the workspace, you’ll be treated to breathtaking, awe-inspiring views.
+  
+## Rovio Toronto
+Rovio Toronto is a studio committed to making casual F2P games that reach millions of players. The studio is using their expertise in deep and engaging experiences, as well as delightful action phases, to leverage the powerful Angry Birds brand in new ways. Their goal is to complement Rovio’s existing portfolio and tap into new avenues to make fan-favorite games that last for decades.
+  
+## Ruby Games
+Located in Izmir, Turkey, Ruby Games joined the Rovio flock in 2021. The Studio has an impressive track record of building hyper-casual games that engage millions of players. By combining their expertise and creativity, they are able to develop games that are simple, but also contain rich content that players love. The studio plans to continue to grow their team and success while maintaining a fun and comfortable environment to work in for the years to come.
+  
+  
+  
+## Rovio Montreal
+Rovio Montreal is home to Studio 6, a team of industry veterans with their sights set on crafting midcore mobile games. Joining Rovio in 2022, the team takes a fast and lean approach to game development, prototyping quickly and market testing early to develop midcore experiences that resonate with players.
+  
+## Newsletter
+Subscribe here for all the news that's fit to fly - delivered straight to your inbox! You can opt out anytime.
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Submit
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Sending An error occured. Thank you for subscribing! We will be in touch. 
+Teams Powered, Games Driven, Fan Fueled. Teams Powered, Games Driven, Fan Fueled. 
+            
+      
+Follow us
+          
+© 2009 - 2026 Rovio Entertainment Ltd. All rights reserved. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Games<button>
+<button>Angry Birds 2<button>
+<button>Angry Birds Dream Blast ↗<button>
+<button>Angry Birds Bounce ↗<button>
+<button>Angry Birds Friends<button>
+<button>Careers<button>
+<button>Open Positions<button>
+<button>Candidate Hub<button>
+<button>Our Offices<button>
+<button>Life At Rovio<button>
+<button>Internship At Rovio<button>
+<button>About Us<button>
+<button>News<button>
+<button>Advertise With Rovio<button>
+<button>License Angry Birds<button>
+<button>Rovio History<button>
+<button>Press Material<button>
+<button>Contact<button>
+<button>Technology<button>
+<button>Sustainability<button>
+<button>DEI Initiatives<button>
+<button>Sustainability News & Blog<button>
+<button>Achievements & Reports<button>
+<button>Investor Archive<button>
+<button>Support<button>
+<button>Angry Birds<button>
+<button>Careers<button>
+<button>Support<button>
+<button>Rovio Finland<button>
+<button>Rovio Stockholm<button>
+<button>Rovio Copenhagen<button>
+<button>Rovio Barcelona<button>
+<button>Rovio Toronto<button>
+<button>Ruby Games, Izmir<button>
+<button>Rovio Montreal<button>
+<button>Life in Finland<button>
+<button>Life in Stockholm<button>
+<button>Life in Copenhagen<button>
+<button>Life in Barcelona<button>
+<button>Life in Toronto<button>
+<button>Life in Montreal<button>
+<button>privacy policy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>Code of Conduct<button>
+<button>Unsolicited content and product feedback policy<button>
+<button>Accessibility Statement<button>
+
+----- WebWalker -----
+The "Our Game Studios" page provides information about Rovio's studios but does not mention specific roles like the Head of Brand Operations. I need to explore further. I will click on the "Rovio Stockholm" button to see if there is any relevant information about brand operations or key personnel.
+
+Action: visit_page
+Action Input: {"button": "Rovio Stockholm"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                        
+Submit search Close search
+Open navigation
+Open search Close navigation menu
+  * Games 
+                      * Careers 
+                          * About Us 
+                                * Sustainability 
+                      
+Follow us
+          
+Open search Close navigation menu
+Submit search
+  * ### Popular searches
+      
+# >Home
+We craft games entertainment joy.
+Page home
+##  Welcome to Rovio.  We put joy first with our player-focused mobile games.
+## Latest news.
+  *  ](
+    
+The leader of the flock pulls up to the starting line in a souped up car that is a throwback to his racing past. Race as Red and take part in the limited time Angry Birds Festival!
+   
+   
+   
+## Our Games.
+  ###  
+Join the Angry Birds 2 flock to celebrate our new bird: Shade! Master her unique Spinning Slash ability to crush pigs like never before!
+  ###  
+Life is a bubble-popping dream in a new puzzle game with a gameplay style never-before-seen in an Angry Birds game.
+  ###  
+Angry Birds are back! Build your dream flock, master new gameplay and outsmart piggies in all-new Angry Birds experience!
+  ###  
+Master the art of the slingshot and aim for 3-star glory in the eternally fresh classic Angry Birds game. Available to play on your computer!
+## Careers at Rovio.
+Our games are defined by true craftmanship and original characters. Just like our teams. Match your talents with our teams and learn about our career opportunities.
+## Our Offices.
+Rovio’s locations in Finland, Sweden, Denmark, Canada, Spain and its one subsidiary in Turkey, are home to seven game studios, each with their own focus and mission.
+## Meet the Rovians.
+Get to know the heart and soul of Rovio - the people behind our games.
+        
+Previous slide Next slide
+## Newsletter
+Subscribe here for all the news that's fit to fly - delivered straight to your inbox! You can opt out anytime.
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Submit
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Sending An error occured. Thank you for subscribing! We will be in touch. 
+Teams Powered, Games Driven, Fan Fueled. Teams Powered, Games Driven, Fan Fueled. 
+            
+      
+Follow us
+          
+© 2009 - 2026 Rovio Entertainment Ltd. All rights reserved. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Games<button>
+<button>Angry Birds 2<button>
+<button>Angry Birds Dream Blast ↗<button>
+<button>Angry Birds Bounce ↗<button>
+<button>Angry Birds Friends<button>
+<button>Careers<button>
+<button>Open Positions<button>
+<button>Candidate Hub<button>
+<button>Our Offices<button>
+<button>Life At Rovio<button>
+<button>Internship At Rovio<button>
+<button>About Us<button>
+<button>News<button>
+<button>Advertise With Rovio<button>
+<button>License Angry Birds<button>
+<button>Rovio History<button>
+<button>Press Material<button>
+<button>Contact<button>
+<button>Technology<button>
+<button>Sustainability<button>
+<button>DEI Initiatives<button>
+<button>Sustainability News & Blog<button>
+<button>Achievements & Reports<button>
+<button>Investor Archive<button>
+<button>Support<button>
+<button>Angry Birds<button>
+<button>Careers<button>
+<button>Support<button>
+<button>Rovio Blog<button>
+<button>Red Is Now Available in Sonic Racing: CrossWorlds as a playable character!<button>
+<button>Brand Partnerships<button>
+<button>New Collab Alert: SmileyWorld® and Angry Birds to Team Up in 2027<button>
+<button>A hero’s welcome – Angry Birds recognized with “International Classic IP Honor” at 2026 Weibo Gala<button>
+<button>From Tease to Launch: Bringing Shade into the Spotlight in Angry Birds 2<button>
+<button>View all news<button>
+<button>View Game<button>
+<button>Angry Birds Dream Blast<button>
+<button>View Game<button>
+<button>Angry Birds Bounce<button>
+<button>View Game<button>
+<button>View Game<button>
+<button>Explore Careers<button>
+<button>Explore offices<button>
+<button>Meet the RoviansOlli Laamanen<button>
+<button>Meet the RoviansEeva Aaltonen<button>
+<button>Meet the RoviansYumi Oishi<button>
+<button>Meet the RoviansIgnacio Amaya<button>
+<button>view all<button>
+<button>privacy policy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>Code of Conduct<button>
+<button>Unsolicited content and product feedback policy<button>
+<button>Accessibility Statement<button>
+
+----- WebWalker -----
+The "Rovio Stockholm" page provides information about the studio but does not mention specific roles like the Head of Brand Operations. I need to explore further. I will click on the "Meet the Rovians" button to see if there is any relevant information about brand operations or key personnel.
+
+Action: visit_page
+Action Input: {"button": "Meet the Rovians"}
+
+----- VisitPage -----
+Button not found: Meet the Rovians
+
+----- WebWalker -----
+The "Meet the Rovians" button is not clickable, so I will try another button. I will click on the "Careers" button to see if there is any relevant information about brand operations or key personnel.
+
+Action: visit_page
+Action Input: {"button": "Careers"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                        
+Submit search Close search
+Open navigation
+Open search Close navigation menu
+  * Games 
+                      * Careers 
+                          * About Us 
+                                * Sustainability 
+                      
+Follow us
+          
+Open search Close navigation menu
+Submit search
+  * ### Popular searches
+      
+# >Search results
+!
+Search results pages Careers
+##  "Careers" 14 results
+#### Sort by:
+Relevance Newest Oldest Relevance 
+  *  ](
+### 
+  *  ](
+### 
+  *  ](
+### 
+  *  ](
+### 
+  *  ](
+### 
+  *  ](
+### 
+  ### 
+  ### 
+   17.09.2020
+### 
+Hear from Rovio UX designer, Gonzalo Vazquez, about the concepts that guide UX design in Rovio’s Puzzle Studio.
+   23.09.2021
+### 
+Rovio’s second games operation in Canada will be headed by mobile games industry veteran Julie Beaug... 
+   27.10.2022
+### 
+Hola a todos! We are excited to announce that Rovio is opening an entity in Barcelona! Rovio is grow... 
+   17.11.2022
+### 
+Formed by six game industry veterans, “Studio 6” will focus on crafting new midcore games at Rovio’s... 
+  ### 
+   04.08.2023
+### 
+      
+## Newsletter
+Subscribe here for all the news that's fit to fly - delivered straight to your inbox! You can opt out anytime.
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Submit
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Sending An error occured. Thank you for subscribing! We will be in touch. 
+Teams Powered, Games Driven, Fan Fueled. Teams Powered, Games Driven, Fan Fueled. 
+            
+      
+Follow us
+          
+© 2009 - 2026 Rovio Entertainment Ltd. All rights reserved. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Games<button>
+<button>Angry Birds 2<button>
+<button>Angry Birds Dream Blast ↗<button>
+<button>Angry Birds Bounce ↗<button>
+<button>Angry Birds Friends<button>
+<button>Careers<button>
+<button>Open Positions<button>
+<button>Candidate Hub<button>
+<button>Our Offices<button>
+<button>Life At Rovio<button>
+<button>Internship At Rovio<button>
+<button>About Us<button>
+<button>News<button>
+<button>Advertise With Rovio<button>
+<button>License Angry Birds<button>
+<button>Rovio History<button>
+<button>Press Material<button>
+<button>Contact<button>
+<button>Technology<button>
+<button>Sustainability<button>
+<button>DEI Initiatives<button>
+<button>Sustainability News & Blog<button>
+<button>Achievements & Reports<button>
+<button>Investor Archive<button>
+<button>Support<button>
+<button>Angry Birds<button>
+<button>Careers<button>
+<button>Support<button>
+<button>Read more<button>
+<button>Home<button>
+<button>Read more<button>
+<button>Rovio Finland<button>
+<button>Read more<button>
+<button>Rovio Stockholm<button>
+<button>Read more<button>
+<button>Rovio Copenhagen<button>
+<button>Read more<button>
+<button>Rovio Toronto<button>
+<button>Read more<button>
+<button>Rovio Montreal<button>
+<button>Read more<button>
+<button>Rovio Barcelona<button>
+<button>Read more<button>
+<button>Rovio Blog<button>
+<button>Mobile Game UX Starts at Game Discovery<button>
+<button>Read more<button>
+<button>Company announcement<button>
+<button>Introducing Rovio Toronto!<button>
+<button>Read more<button>
+<button>Introducing Rovio Barcelona<button>
+<button>Read more<button>
+<button>Rovio introduces a new studio in Montreal<button>
+<button>Read more<button>
+<button>Read more<button>
+<button>Navigating Relocation – How Rovio Supports Employees Moving Across the Globe<button>
+<button>Read more<button>
+<button>privacy policy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>Code of Conduct<button>
+<button>Unsolicited content and product feedback policy<button>
+<button>Accessibility Statement<button>
+
+----- WebWalker -----
+The "Careers" page provides information about job opportunities but does not mention specific roles like the Head of Brand Operations. I need to explore further. I will click on the "Open Positions" button to see if there is any relevant information about brand operations or key personnel.
+
+Action: visit_page
+Action Input: {"button": "Open Positions"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                        
+Submit search Close search
+Open navigation
+Open search Close navigation menu
+  * Games 
+                      * Careers 
+                          * About Us 
+                                * Sustainability 
+                      
+Follow us
+          
+Open search Close navigation menu
+Submit search
+  * ### Popular searches
+      
+# >Open positions
+!
+Open position archive
+Filter by 
+Submit search
+Department
+  * Business/ Professional Services
+  * Data & Analytics
+  * Marketing
+  * Product Management
+  * Quality Assurance
+  * Technology
+Location
+  * Barcelona
+  * Helsinki Metropolitan Area
+  * Izmir
+  * Stockholm
+Commitment
+  * Permanent
+Search
+      * Product Management
+    * Helsinki Metropolitan Area or Barcelona
+    * Permanent
+      * Data & Analytics
+    * Helsinki Metropolitan Area or Barcelona
+    * Permanent
+      * Business/ Professional Services
+    * Izmir
+    * Permanent
+      * Quality Assurance
+    * Helsinki Metropolitan Area
+    * Permanent
+      * Quality Assurance
+    * Helsinki Metropolitan Area or Barcelona
+    * Permanent
+      * Business/ Professional Services
+    * Barcelona
+    * Permanent
+      * Data & Analytics
+    * Stockholm
+    * Permanent
+      * Product Management
+    * Helsinki Metropolitan Area or Stockholm
+    * Permanent
+      * Product Management
+    * Helsinki Metropolitan Area
+    * Permanent
+      * Marketing
+    * Helsinki Metropolitan Area or Barcelona or Stockholm
+    * Permanent
+      * Technology
+    * Stockholm
+    * Permanent
+      * Technology
+    * Stockholm
+    * Permanent
+## Subscribe to job alerts
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time. If you wish to change your craft choices later you can simply resubmit the form.
+Choose your crafts
+  * All
+  * Ad Monetization
+  * Art
+  * Audio
+  * Business Development
+  * Business Professionals & Services
+  * Brand Development & Marketing
+  * Corporate Development
+  * Creative Services
+  * Data Analytics
+  * Design
+  * Human Resources
+  * Game Leadership
+  * Management
+  * Player Community & Support
+  * Product Management
+  * Product Marketing
+  * Production
+  * Quality Assurance
+  * Technology
+  * User Acquisition
+  * User Research
+  * Other
+Submit
+Sending An error occured.  Thank you for subscribing! We will be in touch. 
+## Newsletter
+Subscribe here for all the news that's fit to fly - delivered straight to your inbox! You can opt out anytime.
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Submit
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Sending An error occured. Thank you for subscribing! We will be in touch. 
+Teams Powered, Games Driven, Fan Fueled. Teams Powered, Games Driven, Fan Fueled. 
+            
+      
+Follow us
+          
+© 2009 - 2026 Rovio Entertainment Ltd. All rights reserved. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Games<button>
+<button>Angry Birds 2<button>
+<button>Angry Birds Dream Blast ↗<button>
+<button>Angry Birds Bounce ↗<button>
+<button>Angry Birds Friends<button>
+<button>Careers<button>
+<button>Open Positions<button>
+<button>Candidate Hub<button>
+<button>Our Offices<button>
+<button>Life At Rovio<button>
+<button>Internship At Rovio<button>
+<button>About Us<button>
+<button>News<button>
+<button>Advertise With Rovio<button>
+<button>License Angry Birds<button>
+<button>Rovio History<button>
+<button>Press Material<button>
+<button>Contact<button>
+<button>Technology<button>
+<button>Sustainability<button>
+<button>DEI Initiatives<button>
+<button>Sustainability News & Blog<button>
+<button>Achievements & Reports<button>
+<button>Investor Archive<button>
+<button>Support<button>
+<button>Angry Birds<button>
+<button>Careers<button>
+<button>Support<button>
+<button>Clear filters<button>
+<button>Lead Product Manager, AB Friends<button>
+<button>Senior Data Analyst, a new match-3 game<button>
+<button>Finance Manager<button>
+<button>Lead QA, a new match-3 game<button>
+<button>Lead QA, AB Friends<button>
+<button>General Manager, new football mobile game<button>
+<button>Senior Data Analyst, User Acquisition<button>
+<button>Lead Product Manager, Engage<button>
+<button>Lead Product Manager, Grow<button>
+<button>Strategic Partnerships Lead<button>
+<button>Lead Server Developer<button>
+<button>Senior Game Developer<button>
+<button>privacy policy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>Code of Conduct<button>
+<button>Unsolicited content and product feedback policy<button>
+<button>Accessibility Statement<button>
+
+----- WebWalker -----
+The "Open Positions" page lists various job roles but does not mention the Head of Brand Operations. I need to explore further. I will click on the "Candidate Hub" button to see if there is any relevant information about brand operations or key personnel.
+
+Action: visit_page
+Action Input: {"button": "Candidate Hub"}
+
+----- VisitPage -----
+The web information is:
+
+
+                                                                                        
+Submit search Close search
+Open navigation
+Open search Close navigation menu
+  * Games 
+                      * Careers 
+                          * About Us 
+                                * Sustainability 
+                      
+Follow us
+          
+Open search Close navigation menu
+Submit search
+  * ### Popular searches
+      
+# >Candidate Hub
+!
+Page candidate-hub
+##  Welcome to Rovio’s Candidate Hub!
+Whether you’re just thinking about applying or already deep into the interview process, you’ve come to the right place. This is your go-to resource for everything you need to know about joining Rovio, from understanding how our hiring process works, to tips on how to prepare, and answers to the most common questions. We want you to feel informed, confident and excited every step of the way. 
+              
+###  1. Before applying.
+Have you found a role that sounds exciting but would be interested in learning more before applying? We understand that choosing your next career step is a major decision and you want to be confident that it’s the right fit for you! Here are some helpful pages to help you familiarize yourself with our culture and day-to-day life:
+  * Explore our ways of working: Find out more about Rovio as a company, our vision, culture, offices and our commitment to diversity, equity and inclusion . 
+  * Follow our story: Get a glimpse into our day to day life and stay updated through our channels on social media: , , , . 
+###  2. Tips for your CV.
+Rovio seems like the right fit for you and you want to apply for a role – what next? Let’s start with your CV! Your CV is your first chance to show us who you are, make it count! Here are some tips to help you prepare a strong CV, no matter your background or the role you’re applying for:
+**Tailor your CV to the role**
+Highlight the experience, skills and qualifications that are most relevant. Use real examples and data where possible to back up your impact, whether that’s launching a successful campaign, improving a process**,** or building a product.
+Our hiring teams review every application thoroughly. Focus on showcasing your genuine skills and relevant experience. While keywords are important, adding those that do not accurately reflect your background will not help your application stand out.
+**Keep it clear and concise**
+A longer CV doesn’t mean a stronger one. Stick to what matters, we’re looking for quality, not quantity.
+**Go beyond the technical**
+Don’t just list tools or skills – tell us about the projects you’ve worked on, your role within the team, the scale, and the results. We’re interested in what you did and how it made a difference.
+**New to the working world? That’s okay**
+If you’re a recent graduate or have limited experience, include academic projects, internships**,** or personal work that show your passion, curiosity and potential.
+**Cover letters – optional but welcomed**
+They’re not required and won’t always be reviewed, but they can help add a personal touch. If you include one, use it to tell us a bit about yourself and why this role excites you.
+**Make it easy to read**
+Use a simple layout, clear headings and consistent formatting. Avoid overly designed CVs unless you’re applying for a highly visual role – and even then, clarity wins. To minimize bias in the evaluation and allow your experience to speak for itself, we recommend that you do not include a photograph on your CV.
+**Include links where relevant**
+Whether it’s your portfolio, GitHub, LinkedIn, or a personal website, show us more of your work (as long as it’s relevant and up to date).
+**Add your phone number to your CV**
+Don’t worry, we won’t call you unexpectedly. But in case of any connectivity issues during the interview, it helps us stay in touch and continue the conversation smoothly. It can also help us reach you faster if needed.
+**Review your work**
+Small details matter. Spelling mistakes or formatting issues can distract from your great experience, so double-check before hitting send.
+###  3. Hiring process.
+Once you’ve applied, our Talent Acquisition team will carefully review your application. If your experience and profile match what we’re looking for, we’ll be in touch to move you forward in the interview process. If not, you’ll still hear from us, we’ll always let you know the outcome either way.
+####  Hiring Process.
+* * *
+Our recruitment process is designed to build a foundation of trust and collaboration from the very beginning. We believe in fostering a culture where each team member can master their craft and contribute to creating extraordinary gaming experiences. Our tailored recruitment approach ensures that potential hires not only possess the necessary skills but also share our values and culture. By meeting various team members and engaging in comprehensive interviews, you gain a clear understanding of what it’s like to work here.
+01
+TA Partner Interview
+In this meeting, we’ll learn more about your motivation, experiences, and expectations for the role you applied for. We’ll also share more information about the role and the interview process.
+02
+Hiring Manager Interview
+This interview focuses on your hard skills and professional experiences. You’ll discuss your qualifications in detail and learn more about the specific responsibilities of the role.
+03
+Take-Home Assignment
+To better understand your practical skills, we will provide a take-home assignment relevant to the role. This allows us to see how you approach and solve real-world problems. We also believe this creates a fair and level playing field for all applicants to showcase their abilities.
+04
+Final Round
+In this stage, you’ll meet with potential team members or stakeholders to test your skills and discuss your teamwork and collaboration style. This is also a great opportunity for you to ask questions and get to know your future colleagues.
+* * *
+We embrace innovation and have established a dedicated AI Strategy to guide our use of emerging technologies. Within our Talent Acquisition (TA) team, we use AI to streamline administrative tasks and to enhance efficiency. For transparency, we currently apply AI in two specific areas:  
+**  
+1.** We use Generative AI for creative and operational support. This usage is strictly internal and is not linked to your individual application or candidacy.  
+**2.** We may use AI-driven tools to help identify potential alignments between your unique skills and our open roles.
+While technology helps us stay efficient, we believe hiring is a deeply human endeavor. Every single application at Rovio is reviewed and screened by a member of our Talent Acquisition team. Your journey with us is guided by people.
+###  4. Interview Logistics.
+We want your interview experience with Rovio to be as smooth and comfortable as possible. Here are a few things to keep in mind before your interviews:
+**→ Interviews are usually remote**
+Most of our interviews happen via Google Meet. Make sure you’re in a quiet space with a stable internet connection, your camera is working, and you’re comfortable. If you need any accommodations to feel your best during the conversation, just let us know in advance, we’re here to support you. And if you’d like to blur or change your background with a camera plug-in, that’s completely fine!
+**→ Sometimes, you might be invited onsite**
+If you and your interviewer are based in one of our main locations, we may invite you to meet us in person in one of our studios. Let us know your preference and we’ll do our best to accommodate.
+**→ Dress comfortably, be yourself**
+We’re a gaming company with a casual work culture, so there’s absolutely no need to wear a suit. We just ask that you’re presentable, but more importantly, be yourself.
+**→ We’re here to support you**
+Our Talent team is happy to provide all the information you need ahead of your interviews. If you have any questions or special requests, such as additional breaks in an interview, written guidelines, or sensory accommodations, feel free to reach out to recruitment@rovio.com, and we’ll do our best to assist.
+**→ There’s always time for your questions**
+Interviewers aim to leave about 10 minutes at the end for your questions. Be ready to ask about the team, the role, the company culture or the project you’d be working on; it’s a great way to show your interest and get valuable insights. If you have questions about compensation, benefits**,** or anything related to the interview process itself, it’s best to discuss those directly with your Talent Partner, who’ll be happy to help.
+###  5. Interview preparation tips.
+Your experience, your story! We understand that behavioral or team-fit interviews can sometimes feel a bit vague – but they’re actually one of the best ways for us to understand how you work, collaborate, and approach different situations. Beyond your technical or hands-on skills, we want to learn about your mindset, your values, and how you interact with others.
+In this section, you’ll find guidance on what to expect and how to prepare for this part of the process, so you can approach the conversation with confidence and clarity.
+**→ Read the job ad carefully**
+The job ad gives you valuable insight into what we’re looking for – including the key behaviours, ways of working and values we expect in the role. Use it as a guide to reflect on your own experience and how it aligns.
+**→ Focus on what’s relevant**
+It’s easy to go off track when sharing past experiences. Try to keep your answers focused and meaningful. This part of the interview isn’t about talking more, but about saying what really matters.
+**→ Use the STAR method**
+Structure your answers using the STAR method:  
+**S** ituation – set the context,  
+**T** ask – explain your responsibility or goal,  
+**A** ction – describe what you did,  
+**R** esult – share the outcome and learnings.  
+This helps you tell clear, structured stories and ensures you’re covering the most important parts.
+**→ Take your time**
+There’s no rush, we don’t expect instant answers. It’s perfectly fine to pause, gather your thoughts and respond when you’re ready. Clear thinking is more valuable than fast talking.   
+  
+If you did not understand the question fully, ask the interviewer to rephrase.  
+If you have two examples you cannot pick from, ask the interview team which one they prefer discussing first so you can focus on the most relevant one.  
+**→ Be honest and authentic**
+We’re not looking for ‘perfect’ answers, we’re more interested in your real experiences and how you approach challenges, work with others, and grow from feedback. Be yourself and don’t be afraid to show personality.  
+**→ Expect questions about collaboration**
+Teamwork is a big part of how we work at Rovio. You might be asked how you work with others, handle disagreements, or contribute to a shared goal. Think of a few examples in advance that show your approach.
+**→ Ask questions too**
+This is a two-way conversation. Feel free to ask about the team dynamic, the culture or how success is measured in the role. We love when candidates are curious!
+###  6. Case Assignments.
+Hands-on time! Some of our interview processes may include a technical assignment, case study**,** or art test. These are designed to give us a better sense of your hands-on skills and how you approach real-life challenges relevant to the role. It’s not just about the final result, we’re also interested in how you think, solve problems and communicate your ideas. Below, you’ll find some tips to help you prepare and showcase your strengths in the best possible way.
+**💡 Read the instructions carefully**
+Every assignment comes with a set of instructions, take the time to read them thoroughly (twice if needed!). Make sure you understand the purpose and expectations. We embrace AI in our work and understand these tools are increasingly integrated into modern workflows. We will provide instructions on how these tools may be utilized within the guidelines.  If anything’s unclear, don’t hesitate to reach out to your Talent Partner, we’re here to help before you dive in.
+**💡 We’re flexible with deadlines**
+Most assignments come with a suggested deadline, but we understand that life gets busy. If you need more time, just let us know, we’re happy to accommodate wherever possible.
+**💡 Plan before you start**
+Before jumping into the execution, take a moment to think through your approach and structure. Whether it’s a coding test, a case study, or an art assignment, a clear and organized presentation can really make your work shine.
+**💡 Quality over quantity**
+We’re not looking for lengthy or overly detailed assignments, focus on what’s most relevant. It’s better to submit a clear, well-thought-out solution than to try to cover too much.
+**💡 Time investment matters**
+We value your time and understand you’ve got other commitments. Unless stated otherwise, we don’t expect you to spend more than 4-8 hours on an assignment. You’re not working at Rovio (yet!), and your free time is important too.
+**💡 Mind the format**
+We usually specify the format we’d like to receive the assignment in. If anything’s unclear or if you have a preferred way of sharing your work, check in with your Talent Partner and they’ll make sure you have the right info.
+###  7. Final steps.
+As you are moving to the final round or just after that, we usually like to conduct a reference check and speak to a few people you have worked with in the past to confirm and verify what we have learned about you during the interview process. We will always ask for your consent before calling anyone and will respect your confidentiality. If you know people at Rovio or have past colleagues here, we might ask to speak to them earlier in the process. 
+Once you’ve completed the final interview, your Talent Partner will be working behind the scenes to gather feedback from everyone involved and align on the next steps with the Hiring Manager. This coordination can take a little time, so we appreciate your patience. While every process is different, you can usually expect to hear from us within 24–48 hours after your last interview, even if it’s just to let you know we’re still finalizing things.
+### FAQ
+Can I apply to multiple jobs?
+We encourage candidates to take the time to reflect on what really excites them and where their strengths can make the biggest impact. Applying thoughtfully to the roles that genuinely match your skills and interests is always more effective than applying to everything. It shows us you’re serious about the opportunity – and helps ensure the role is right for you too.
+I interviewed/applied last year and wasn’t selected. Can I reapply?
+If you weren’t selected for a role, you’ll generally need to wait 6 months before reapplying for the same position. That said, every situation is different – so we recommend reaching out to the Talent Partner you were in touch with. They’ll be happy to guide you and let you know if there are other opportunities that might be a better fit or when it would make sense to reapply.
+I don’t live in any of the cities with a Rovio office. Is there an opportunity to work remotely?
+Rovio follows a hybrid working model, which means our roles are tied to our office locations and require regular in-person collaboration. At the moment, we don’t offer fully remote positions.
+Do you offer relocation support?
+Yes – for most of our senior-level roles, we offer relocation support to help make your move as smooth as possible. Your Talent Partner will walk you through the details and explain how Rovio can assist you throughout the process. If relocation support is not provided, it is usually specified in the job ad.
+## Newsletter
+Subscribe here for all the news that's fit to fly - delivered straight to your inbox! You can opt out anytime.
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Submit
+By subscribing, you agree to receive emails from us. Please review our  for more information. You can unsubscribe at any time.
+Sending An error occured. Thank you for subscribing! We will be in touch. 
+Teams Powered, Games Driven, Fan Fueled. Teams Powered, Games Driven, Fan Fueled. 
+            
+      
+Follow us
+          
+© 2009 - 2026 Rovio Entertainment Ltd. All rights reserved. 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Games<button>
+<button>Angry Birds 2<button>
+<button>Angry Birds Dream Blast ↗<button>
+<button>Angry Birds Bounce ↗<button>
+<button>Angry Birds Friends<button>
+<button>Careers<button>
+<button>Open Positions<button>
+<button>Candidate Hub<button>
+<button>Our Offices<button>
+<button>Life At Rovio<button>
+<button>Internship At Rovio<button>
+<button>About Us<button>
+<button>News<button>
+<button>Advertise With Rovio<button>
+<button>License Angry Birds<button>
+<button>Rovio History<button>
+<button>Press Material<button>
+<button>Contact<button>
+<button>Technology<button>
+<button>Sustainability<button>
+<button>DEI Initiatives<button>
+<button>Sustainability News & Blog<button>
+<button>Achievements & Reports<button>
+<button>Investor Archive<button>
+<button>Support<button>
+<button>Angry Birds<button>
+<button>Careers<button>
+<button>Support<button>
+<button>1. Before applying<button>
+<button>2. Tips for your CV<button>
+<button>3. Hiring process<button>
+<button>4. Interview Logistics<button>
+<button>5. Interview preparation tips<button>
+<button>6. Case Assignments<button>
+<button>7. Final steps<button>
+<button>here<button>
+<button>privacy policy<button>
+<button>Terms of Service<button>
+<button>Privacy Notice<button>
+<button>Code of Conduct<button>
+<button>Unsolicited content and product feedback policy<button>
+<button>Accessibility Statement<button>

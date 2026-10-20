@@ -1,0 +1,1289 @@
+----- user -----
+query:
+如果一位顾客在2019年6月1日购买了一支雅马哈萨克斯8系列，那么他成为哪种会员，拥有多少次总免费保养的机会？
+official website:
+https://www.yamaha.com.cn/
+Observation:website information:
+
+](
+ global navigation
+      *       *                                                                                                                               
+      * 产品
+                                                                      
+Search this site 发送
+搜索
+](
+](
+](
+](
+](
+Pause/Play 
+](
+](
+](
+](
+](
+Pause/Play 
+](
+## 产品
+ 钢琴 ](
+ 电子键盘 ](
+ 吉他、贝斯和音箱 ](
+ 鼓乐器 ](
+ 管乐器 · 吹奏乐器 ](
+ 弦乐器 ](
+ 打击乐器 ](
+ 合成器及音乐制作产品 ](
+ 家庭音响 ](
+ 专业音响 ](
+ 会议系统 ](
+ App应用程序 ](
+ 高尔夫 ](
+ 车载音响 ](
+ FA制品/高档车用装饰面板 ](
+## 重点推荐
+](
+###  
+###  
+雅马哈授权经销商查询
+](
+###  
+###  
+注册雅马哈会员，申请调律、维修、保养服务，订阅会员周刊
+](
+###  
+###  
+更多内容，都在雅马哈官方微信、微博、Bilibili账号
+](
+###  
+###  
+雅马哈音乐中心、流行音乐课程、电子键盘星教室
+](
+###  
+###  
+获取雅马哈招聘信息
+](
+###  
+###  
+雅马哈乐器、家庭音响、音乐制作、专业音响、音乐中心等联系方式
+##  新闻活动 
+ 第130期 管乐研修（高级）已经顺利结束 2026年04月08日 第130期 管乐研修（高级）已经顺利结束 ](
+ 软件更新：雅马哈MusicCast功能产品2026年3月软件更新 2026年03月26日 软件更新：雅马哈MusicCast功能产品2026年3月软件更新 ](
+ 关于结束高尔夫用品业务的通知 05.03.2026 雅马哈株式会社（以下简称"本公司"）作为优化经营资源配置及调整业务组合的一环，决定结束高尔夫用品业务，现通知如下。 ](
+ 2026年雅马哈管乐技术者大会圆满落幕：服务创造价值，提高顾客体验 10.02.2026 2026年雅马哈管乐技术者大会圆满落幕：服务创造价值，提高顾客体验 ](
+ 雅马哈钢琴调律师培训班顺利毕业 03.02.2026 雅马哈钢琴调律师培训班顺利毕业 ](
+ 新固件丨全新RIVAGE PM固件完善包含直接沉浸式声像控制等功能在内的沉浸式工作流程与现场控制选项，助力实现更快速、更灵活的工作体验 22.01.2026 直接沉浸式声像控制及更多功能，实现更快速、更灵活的工作体验 ](
+ 雅马哈发布MGX数字调音台系列、URX音频接口系列和CC1 USB控制器 23.01.2026 雅马哈发布MGX数字调音台系列、URX音频接口系列和CC1 USB控制器 ](
+ 展会回顾|雅马哈全品类登陆 2025 广州国际音响唱片展，覆盖家庭娱乐全场景 04.01.2026 2025年12月26日-28日，雅马哈携全系旗舰产品及最新力作亮相中国大酒店紫晶厅，为广大音乐爱好者奉上了一场展现卓越品质与深厚底蕴的听觉盛宴。 ](
+ 新品丨雅马哈推出STAGEPAS 100BTR mkII便携式扩声系统，配备USB/蓝牙音频输入/输出接口 22.12.2025 雅马哈公司很高兴地推出STAGEPAS 100BTR mkII，这款升级版电池供电便携式扩声系统配备了USB/蓝牙音频输入/输出接口及快速充电功能。通过增强灵活性并支持混合音频应用，STAGEPAS 100BTR mkII在高品质音效、多功能表现与卓越便携性之间实现了出色平衡。 ](
+ 雅马哈键盘乐器产品电商渠道购买声明 08.12.2025 雅马哈键盘乐器产品电商渠道购买声明 ](
+## 常见问题Q&A
+您好，钢琴产品注册后，您需要查看一下审核页面信息，需要等待审核通过了，才能看得到其对应的产品证明书。  
+CSP-170/150 上的 USB 端口主要用于连接随附的 USB 无线 LAN 适配器。  
+将 U盘连接到 USB 端口时，无法存储、读取、录制或播放数据
+可以。使用Dante Controller用于Dante跳线。若要从TF系列控制R系列HA，请使用即将发布的R系列V3.11或更高的固件版本。  
+]( "天猫旗舰店") #### 
+]( "雅马哈影音旗舰店") #### 
+]( "加入我们") #### 
+](#enterprise "企业视频") #### 
+]( "可持续发展") #### 
+×
+  *   
+](
+](
+](
+](
+](
+######  
+                            
+######  
+        
+######  
+  
+######  
+  
+###### ;)
+  
+######  ;)
+              
+######  
+    
+  
+        
+Copyright© 2021 雅马哈乐器音响（中国）投资有限公司 版权所有沪公网安备 31010602003422号](
+
+
+clickable button:
+
+<button>My Account<button>
+<button>产品<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他、贝斯和音箱<button>
+<button>鼓乐器<button>
+<button>管乐器・吹奏乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>合成器及音乐制作产品<button>
+<button>家庭音响<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>App应用程序<button>
+<button>高尔夫<button>
+<button>车载音响<button>
+<button>音乐服务<button>
+<button>新闻活动<button>
+<button>经销商查询<button>
+<button>客户服务<button>
+<button>企业用户<button>
+<button>关于雅马哈<button>
+<button>加入我们<button>
+<button>产品<button>
+<button>管乐器<button>
+<button>管乐器 · 吹奏乐器<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>FA制品/高档车用装饰面板<button>
+<button>会员系统<button>
+<button>社交媒体<button>
+<button>加入我们<button>
+<button>联系我们<button>
+<button>第130期 管乐研修（高级）已经顺利结束2026年04月08日第130期 管乐研修（高级）已经顺利结束<button>
+<button>软件更新：雅马哈MusicCast功能产品2026年3月软件更新2026年03月26日软件更新：雅马哈MusicCast功能产品2026年3月软件更新<button>
+<button>关于结束高尔夫用品业务的通知05.03.2026雅马哈株式会社（以下简称"本公司"）作为优化经营资源配置及调整业务组合的一环，决定结束高尔夫用品业务，现通知如下。<button>
+<button>2026年雅马哈管乐技术者大会圆满落幕：服务创造价值，提高顾客体验10.02.20262026年雅马哈管乐技术者大会圆满落幕：服务创造价值，提高顾客体验<button>
+<button>雅马哈钢琴调律师培训班顺利毕业03.02.2026雅马哈钢琴调律师培训班顺利毕业<button>
+<button>新固件丨全新RIVAGE PM固件完善包含直接沉浸式声像控制等功能在内的沉浸式工作流程与现场控制选项，助力实现更快速、更灵活的工作体验22.01.2026直接沉浸式声像控制及更多功能，实现更快速、更灵活的工作体验<button>
+<button>雅马哈发布MGX数字调音台系列、URX音频接口系列和CC1 USB控制器23.01.2026雅马哈发布MGX数字调音台系列、URX音频接口系列和CC1 USB控制器<button>
+<button>展会回顾|雅马哈全品类登陆 2025 广州国际音响唱片展，覆盖家庭娱乐全场景04.01.20262025年12月26日-28日，雅马哈携全系旗舰产品及最新力作亮相中国大酒店紫晶厅，为广大音乐爱好者奉上了一场展现卓越品质与深厚底蕴的听觉盛宴。<button>
+<button>新品丨雅马哈推出STAGEPAS 100BTR mkII便携式扩声系统，配备USB/蓝牙音频输入/输出接口22.12.2025雅马哈公司很高兴地推出STAGEPAS 100BTR mkII，这款升级版电池供电便携式扩声系统配备了USB/蓝牙音频输入/输出接口及快速充电功能。通过增强灵活性并支持混合音频应用，STAGEPAS 100BTR mkII在高品质音效、多功能表现与卓越便携性之间实现了出色平衡。<button>
+<button>雅马哈键盘乐器产品电商渠道购买声明08.12.2025雅马哈键盘乐器产品电商渠道购买声明<button>
+<button>View All<button>
+<button>为什么我新买的钢琴已经注册了，但是查看不到它的产品说明书 呢？<button>
+<button>【CSP-170/150】 我可以使用 U盘 存储吗？是否可以将 U盘连接到 CSP-170/150 的 USB 端口以播放数据？<button>
+<button>【兼容性】TF系列是否可以使用R系列I/O机架？<button>
+<button>View All<button>
+<button>企业视频<button>
+<button>可持续发展<button>
+<button>雅马哈音乐中心<button>
+<button>雅马哈流行音乐课程<button>
+<button>雅马哈双排键电子琴教师俱乐部<button>
+<button>雅马哈电子键盘专用教室<button>
+<button>新闻活动首页<button>
+<button>经销商查询首页<button>
+<button>雅马哈乐器指南<button>
+<button>常见问题（Q&A）<button>
+<button>授权服务中心查询<button>
+<button>雅马哈会员系统<button>
+<button>雅马哈认证技师<button>
+<button>下载与支持<button>
+<button>经销商专区<button>
+<button>雅马哈进口钢琴原产地信息查询<button>
+<button>雅马哈集团<button>
+<button>雅马哈中国<button>
+<button>联系我们<button>
+<button>在线招聘<button>
+<button>使用条款<button>
+<button>隐私政策<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到关于雅马哈会员系统和购买萨克斯后获得的免费保养机会的信息。首先，我应该访问“会员系统”页面。
+
+Action: visit_page
+Action Input: {"button": "雅马哈会员系统"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ global navigation
+      *       *                                                                                                                               
+      * 产品
+                                                                      
+Search this site 发送
+搜索
+雅马哈会员系统
+用户登录
+还没有帐号？
+!
+发送验证码 
+登录
+微信登录
+微信扫码登录
+密码登录
+×
+  *   
+ ](
+ ](
+ ](
+](
+](
+######  
+                            
+######  
+        
+######  
+  
+######  
+  
+###### ;)
+  
+######  ;)
+              
+######  
+    
+  
+        
+Copyright© 2024 雅马哈乐器音响（中国）投资有限公司 版权所有 沪公网安备 31010602003422号](
+
+
+Clickable buttons are wrapped in <button> tag
+<button>My Account<button>
+<button>产品<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他、贝斯和音箱<button>
+<button>鼓乐器<button>
+<button>管乐器・吹奏乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>合成器及音乐制作产品<button>
+<button>家庭音响<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>App应用程序<button>
+<button>高尔夫<button>
+<button>车载音响<button>
+<button>音乐服务<button>
+<button>新闻活动<button>
+<button>经销商查询<button>
+<button>客户服务<button>
+<button>企业用户<button>
+<button>关于雅马哈<button>
+<button>加入我们<button>
+<button>产品<button>
+<button>去注册<button>
+<button>专业音响<button>
+<button>雅马哈音乐中心<button>
+<button>雅马哈流行音乐课程<button>
+<button>雅马哈双排键电子琴教师俱乐部<button>
+<button>雅马哈电子键盘专用教室<button>
+<button>新闻活动首页<button>
+<button>经销商查询首页<button>
+<button>雅马哈乐器指南<button>
+<button>常见问题（Q&A）<button>
+<button>授权服务中心查询<button>
+<button>雅马哈会员系统<button>
+<button>雅马哈认证技师<button>
+<button>下载与支持<button>
+<button>经销商专区<button>
+<button>雅马哈进口钢琴原产地信息查询<button>
+<button>雅马哈集团<button>
+<button>雅马哈中国<button>
+<button>联系我们<button>
+<button>在线招聘<button>
+<button>使用条款<button>
+<button>隐私政策<button>
+
+----- WebWalker -----
+我需要找到关于购买萨克斯后成为哪种会员以及免费保养机会的信息。首先，我应该访问“常见问题（Q&A）”页面以获取更多相关信息。
+
+Action: visit_page
+Action Input: {"button": "常见问题（Q&A）"}
+
+----- VisitPage -----
+The web information is:
+
+](
+global navigation
+      *       *                                                                                                                               
+      * 产品
+                                                                      
+Search this site发送
+搜索
+全站搜索
+Search
+  * ;)
+  1. 
+  2. 
+  3. 
+常见问题(Q&A) 
+##  热门问题 
+                      
+  1. 
+  2. 
+  3. 
+](
+](
+](
+](
+](
+###### 
+                            
+###### 
+        
+###### 
+  
+###### 
+  
+###### ;)
+  
+###### ;)
+              
+###### 
+    
+  
+        
+Copyright© 2024 雅马哈乐器音响（中国）投资有限公司 版权所有沪公网安备 31010602003422号](
+
+
+Clickable buttons are wrapped in <button> tag
+<button>My Account<button>
+<button>产品<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他、贝斯和音箱<button>
+<button>鼓乐器<button>
+<button>管乐器・吹奏乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>合成器及音乐制作产品<button>
+<button>家庭音响<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>App应用程序<button>
+<button>高尔夫<button>
+<button>车载音响<button>
+<button>音乐服务<button>
+<button>新闻活动<button>
+<button>经销商查询<button>
+<button>客户服务<button>
+<button>企业用户<button>
+<button>关于雅马哈<button>
+<button>加入我们<button>
+<button>产品<button>
+<button>管乐器 · 吹奏乐器<button>
+<button>高尔夫<button>
+<button>全部<button>
+<button>客户服务<button>
+<button>常见问题<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他<button>
+<button>爵士鼓<button>
+<button>管乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>合成器和音乐制作产品<button>
+<button>Steinberg产品<button>
+<button>家庭音响<button>
+<button>专业音响<button>
+<button>专业音响<button>
+<button>雅马哈音乐中心<button>
+<button>雅马哈流行音乐课程<button>
+<button>雅马哈双排键电子琴教师俱乐部<button>
+<button>雅马哈电子键盘专用教室<button>
+<button>新闻活动首页<button>
+<button>经销商查询首页<button>
+<button>雅马哈乐器指南<button>
+<button>常见问题（Q&A）<button>
+<button>授权服务中心查询<button>
+<button>雅马哈会员系统<button>
+<button>雅马哈认证技师<button>
+<button>下载与支持<button>
+<button>经销商专区<button>
+<button>雅马哈进口钢琴原产地信息查询<button>
+<button>雅马哈集团<button>
+<button>雅马哈中国<button>
+<button>联系我们<button>
+<button>在线招聘<button>
+<button>使用条款<button>
+<button>隐私条款<button>
+
+----- WebWalker -----
+我需要找到关于购买萨克斯后成为哪种会员以及免费保养机会的具体信息。首先，我应该访问“客户服务”页面以获取更多相关信息。
+
+Action: visit_page
+Action Input: {"button": "客户服务"}
+
+----- VisitPage -----
+The web information is:
+
+](
+global navigation
+      *       *                                                                                                                               
+      * 产品
+                                                                      
+Search this site发送
+搜索
+  1. 
+  2. 客户服务
+# 客户服务
+授权服务中心查询](
+雅马哈会员系统](
+下载与支持](
+常见问题（Q&A）](
+雅马哈认证技师](
+联系我们](
+雅马哈进口钢琴原产地信息查询](
+Clavinova Adviser 高级顾问](
+ProAV专家认证](
+产品保修政策](
+## 相关信息
+  1. 
+  2. 客户服务
+×
+  *   
+](
+](
+](
+](
+](
+###### 
+                            
+###### 
+        
+###### 
+  
+###### 
+  
+###### ;)
+  
+###### ;)
+              
+###### 
+    
+  
+        
+Copyright© 2024 雅马哈乐器音响（中国）投资有限公司 版权所有沪公网安备 31010602003422号](
+
+
+Clickable buttons are wrapped in <button> tag
+<button>My Account<button>
+<button>产品<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他、贝斯和音箱<button>
+<button>鼓乐器<button>
+<button>管乐器・吹奏乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>合成器及音乐制作产品<button>
+<button>家庭音响<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>App应用程序<button>
+<button>高尔夫<button>
+<button>车载音响<button>
+<button>音乐服务<button>
+<button>新闻活动<button>
+<button>经销商查询<button>
+<button>客户服务<button>
+<button>企业用户<button>
+<button>关于雅马哈<button>
+<button>加入我们<button>
+<button>产品<button>
+<button>管乐器<button>
+<button>首页<button>
+<button>授权服务中心查询<button>
+<button>雅马哈会员系统<button>
+<button>下载与支持<button>
+<button>常见问题（Q&A）<button>
+<button>雅马哈认证技师<button>
+<button>联系我们<button>
+<button>雅马哈进口钢琴原产地信息查询<button>
+<button>Clavinova Adviser 高级顾问<button>
+<button>ProAV专家认证<button>
+<button>产品保修政策<button>
+<button>产品中有害物质的名称及含量<button>
+<button>专业音响<button>
+<button>雅马哈音乐中心<button>
+<button>雅马哈流行音乐课程<button>
+<button>雅马哈双排键电子琴教师俱乐部<button>
+<button>雅马哈电子键盘专用教室<button>
+<button>新闻活动首页<button>
+<button>经销商查询首页<button>
+<button>雅马哈乐器指南<button>
+<button>授权服务中心查询<button>
+<button>经销商专区<button>
+<button>雅马哈集团<button>
+<button>雅马哈中国<button>
+<button>联系我们<button>
+<button>在线招聘<button>
+<button>使用条款<button>
+<button>隐私政策<button>
+
+----- WebWalker -----
+我需要找到关于购买萨克斯后成为哪种会员以及免费保养机会的具体信息。首先，我应该访问“产品保修政策”页面以获取更多相关信息。
+
+Action: visit_page
+Action Input: {"button": "产品保修政策"}
+
+----- VisitPage -----
+The web information is:
+
+](
+global navigation
+      *       *                                                                                                                               
+      * 产品
+                                                                      
+Search this site发送
+搜索
+!
+  1. 
+  2. 
+  3. 产品保修政策
+# 产品保修政策
+                  
+产品保修政策
+                  
+### ***特别说明
+1、本产品的保修期起算日期：自产品售出之日（以顾客购买发票记载的日期为准)  
+2、本售后服务政策仅适用于中国大陆地区(不包括香港特别行政区、澳门特别行政区和台湾省)  
+3、实行免费保修服务的条件：以产品保证书为准。  
+4、不属于免费产品保修服务的具体情形：以产品保证书为准。  
+5、不同产品的主要部件或附件名称可能会有差异，具体以产品保证书为准。  
+6、 各类产品的易耗品不适用本保修规定。  
+7、如有与国家相关法律法规不符之处，以国家相关法律法规规定为准。  
+| 钢琴 |  
+| --- |  
+| 产品细分  | 保修期  | 备注  |  
+| 原声系列  | 声学部分 3年，琴凳 1年  |   |  
+| 跨界系列  | 声学部分 3年；电子部分&琴凳 1年  |   |  
+| 电子键盘 |  
+| --- |  
+| 产品细分  | 保修期  | 备注  |  
+| 电子琴、数码钢琴、双排键电子琴  | 1年  |   |  
+| 数码打击板  | 1年  |   |  
+| 吉他、贝斯和音箱；鼓乐器；合成器及音乐制作产品 |  
+| --- |  
+| 产品细分  | 保修期  | 备注  |  
+| 原声吉他/电吉他/电贝司  | 1年  |   |  
+| 吉他音箱  | 1年  |  
+| Line6 & Ampeg  | 1年  |  
+| Steinberg 产品  | 2年  |  
+| 电子鼓、EAD、手指鼓、电鼓监听音响  | 1年  |  
+| 有源监听音响  | 1年  |  
+| 合成器、舞台钢琴、音乐工作站  | 1年  |  
+| 专业音响类、会议系统 |  
+| --- |  
+| 产品细分  | 保修期  | 备注  |  
+| 扬声器、便携扩声系统、卡拉ok系统、耳机、有源监听音响  | 1年  |   |  
+| 调音台、网络系统以及扩声卡、网络交换机、处理器、功放、DAW制作系统、直播游戏  | 2年  |  
+| 会议用麦克风扬声器，视频会议系统、麦克风系统、处理器  | 2年  |  
+| 家庭音响 |  
+| --- |  
+| 产品细分  | 保修期  | 备注  |  
+| 功放、音响等常规  
+(非高端)家庭影院产品  | 整机1年，主要部件2年  |   |  
+| 高端(旗舰)产品  | 整机&主要部件2年（需注册）  | 产品型号详见:官网→雅马哈会员系统→产品注册→家庭音响→  
+<两年期电子延保卡的保修范围>产品列表  |  
+| 入耳式耳机  | 耳机组件, 充电盒 1年  | 详见保修规定  |  
+| 头戴式耳机  | 整机1年  | 详见保修规定  |  
+| 家庭影院  | 整机1年，主要部件2年  | 主要部件: 功放管、IC、10000µ以上大电容。  
+详见保修规定  |  
+| Sound Bars/电视音响  | 整机1年，主要部件2年  | 主要部件: 功放管、IC、10000µ以上大电容。  
+详见保修规定  |  
+| 音箱  | 整机1年，主要部件2年  | 主要部件: 喇叭、分频器  
+详见保修规定  |  
+| HiFi产品  | 整机1年，主要部件2年  | 主要部件: 主轴电机、伺服电机、激光头组件、功放管、IC、10000µ以上大电容。  
+详见保修规定  |  
+| 台式音响  | 整机1年，主要部件2年  | 主要部件: 主轴电机、伺服电机、激光头组件、IC  
+详见保修规定  |  
+| 桌面音响  | 整机1年，主要部件2年  | 主要部件: 主轴电机、伺服电机、激光头组件、IC  
+详见保修规定  |  
+| 管乐器·吹奏乐器 |  
+| --- |  
+| 产品细分  | 保修期  | 备注  |  
+| 原声管乐器（木管/铜管乐器、行进铜管、竖笛、新风管、口风琴等）  | 1年  | 详见“雅马哈原声乐器商品保修规定”  |  
+| 电子管乐器  | 1年  | 详见“雅马哈管弦类电子乐器商品保修规定”  |  
+| 乐队指导用电子琴  | 1年  | 详见“雅马哈管弦类电子乐器商品保修规定”  |  
+| 铜管静音系统  | 1年  | 详见“雅马哈管弦类电子乐器商品保修规定”  |  
+| 弦乐器 |  
+| --- |  
+| 产品细分  | 保修期  | 备注  |  
+| 电小提琴  | 1年  | 详见“雅马哈管弦类电子乐器商品保修规定”  |  
+| 静音系列（静音小提琴、静音低音提琴、静音大提琴等）  | 1年  | 详见“雅马哈管弦类电子乐器商品保修规定”  |  
+| 原声小提琴  | 1年  | 详见“雅马哈原声乐器商品保修规定”  |  
+| 打击乐器 |  
+| --- |  
+| 产品细分  | 保修期  | 备注  |  
+| 木琴、钢片琴、颤音琴、马林巴、铁片琴、定音鼓、大军鼓、小军鼓、嗵嗵鼓、行进打击乐、管钟等  | 1年  | 详见“雅马哈原声乐器商品保修规定”  |  
+  1. 
+  2. 
+  3. 产品保修政策
+×
+  *   
+](
+](
+](
+](
+](
+###### 
+                            
+###### 
+        
+###### 
+  
+###### 
+  
+###### ;)
+  
+###### ;)
+              
+###### 
+    
+  
+        
+Copyright© 2024 雅马哈乐器音响（中国）投资有限公司 版权所有沪公网安备 31010602003422号](
+
+
+Clickable buttons are wrapped in <button> tag
+<button>My Account<button>
+<button>产品<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他、贝斯和音箱<button>
+<button>鼓乐器<button>
+<button>管乐器・吹奏乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>合成器及音乐制作产品<button>
+<button>家庭音响<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>App应用程序<button>
+<button>高尔夫<button>
+<button>车载音响<button>
+<button>音乐服务<button>
+<button>新闻活动<button>
+<button>经销商查询<button>
+<button>客户服务<button>
+<button>企业用户<button>
+<button>关于雅马哈<button>
+<button>加入我们<button>
+<button>产品<button>
+<button>管乐器<button>
+<button>首页<button>
+<button>客户服务<button>
+<button>特别说明<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他、贝斯和音箱；鼓乐器；合成器及音乐制作产品<button>
+<button>专业音响类、会议系统<button>
+<button>家庭音响<button>
+<button>管乐器·吹奏乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>专业音响<button>
+<button>雅马哈音乐中心<button>
+<button>雅马哈流行音乐课程<button>
+<button>雅马哈双排键电子琴教师俱乐部<button>
+<button>雅马哈电子键盘专用教室<button>
+<button>新闻活动首页<button>
+<button>经销商查询首页<button>
+<button>雅马哈乐器指南<button>
+<button>常见问题（Q&A）<button>
+<button>授权服务中心查询<button>
+<button>雅马哈会员系统<button>
+<button>雅马哈认证技师<button>
+<button>下载与支持<button>
+<button>经销商专区<button>
+<button>雅马哈进口钢琴原产地信息查询<button>
+<button>雅马哈集团<button>
+<button>雅马哈中国<button>
+<button>联系我们<button>
+<button>在线招聘<button>
+<button>使用条款<button>
+<button>隐私政策<button>
+
+----- WebWalker -----
+我需要找到关于购买萨克斯后成为哪种会员以及免费保养机会的具体信息。首先，我应该访问“管乐器·吹奏乐器”页面以获取更多相关信息。
+
+Action: visit_page
+Action Input: {"button": "管乐器·吹奏乐器"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ global navigation
+      *       *                                                                                                                               
+      * 产品
+                                                                      
+Search this site 发送
+搜索
+](
+](
+](
+](
+](
+Pause/Play 
+](
+](
+](
+](
+](
+Pause/Play 
+](
+## 产品
+ 钢琴 ](
+ 电子键盘 ](
+ 吉他、贝斯和音箱 ](
+ 鼓乐器 ](
+ 管乐器 · 吹奏乐器 ](
+ 弦乐器 ](
+ 打击乐器 ](
+ 合成器及音乐制作产品 ](
+ 家庭音响 ](
+ 专业音响 ](
+ 会议系统 ](
+ App应用程序 ](
+ 高尔夫 ](
+ 车载音响 ](
+ FA制品/高档车用装饰面板 ](
+## 重点推荐
+](
+###  
+###  
+雅马哈授权经销商查询
+](
+###  
+###  
+注册雅马哈会员，申请调律、维修、保养服务，订阅会员周刊
+](
+###  
+###  
+更多内容，都在雅马哈官方微信、微博、Bilibili账号
+](
+###  
+###  
+雅马哈音乐中心、流行音乐课程、电子键盘星教室
+](
+###  
+###  
+获取雅马哈招聘信息
+](
+###  
+###  
+雅马哈乐器、家庭音响、音乐制作、专业音响、音乐中心等联系方式
+##  新闻活动 
+ 第130期 管乐研修（高级）已经顺利结束 2026年04月08日 第130期 管乐研修（高级）已经顺利结束 ](
+ 软件更新：雅马哈MusicCast功能产品2026年3月软件更新 2026年03月26日 软件更新：雅马哈MusicCast功能产品2026年3月软件更新 ](
+ 关于结束高尔夫用品业务的通知 05.03.2026 雅马哈株式会社（以下简称"本公司"）作为优化经营资源配置及调整业务组合的一环，决定结束高尔夫用品业务，现通知如下。 ](
+ 2026年雅马哈管乐技术者大会圆满落幕：服务创造价值，提高顾客体验 10.02.2026 2026年雅马哈管乐技术者大会圆满落幕：服务创造价值，提高顾客体验 ](
+ 雅马哈钢琴调律师培训班顺利毕业 03.02.2026 雅马哈钢琴调律师培训班顺利毕业 ](
+ 新固件丨全新RIVAGE PM固件完善包含直接沉浸式声像控制等功能在内的沉浸式工作流程与现场控制选项，助力实现更快速、更灵活的工作体验 22.01.2026 直接沉浸式声像控制及更多功能，实现更快速、更灵活的工作体验 ](
+ 雅马哈发布MGX数字调音台系列、URX音频接口系列和CC1 USB控制器 23.01.2026 雅马哈发布MGX数字调音台系列、URX音频接口系列和CC1 USB控制器 ](
+ 展会回顾|雅马哈全品类登陆 2025 广州国际音响唱片展，覆盖家庭娱乐全场景 04.01.2026 2025年12月26日-28日，雅马哈携全系旗舰产品及最新力作亮相中国大酒店紫晶厅，为广大音乐爱好者奉上了一场展现卓越品质与深厚底蕴的听觉盛宴。 ](
+ 新品丨雅马哈推出STAGEPAS 100BTR mkII便携式扩声系统，配备USB/蓝牙音频输入/输出接口 22.12.2025 雅马哈公司很高兴地推出STAGEPAS 100BTR mkII，这款升级版电池供电便携式扩声系统配备了USB/蓝牙音频输入/输出接口及快速充电功能。通过增强灵活性并支持混合音频应用，STAGEPAS 100BTR mkII在高品质音效、多功能表现与卓越便携性之间实现了出色平衡。 ](
+ 雅马哈键盘乐器产品电商渠道购买声明 08.12.2025 雅马哈键盘乐器产品电商渠道购买声明 ](
+## 常见问题Q&A
+注意：1，以音频格式录制和存储的数据可以轻松地在您的计算机或智能手机上播放。  
+音频数据可以上传到视频网站或 SNS，也可以使用计算机制作音乐 CD。
+下管的上部（背面）、喇叭上部（背面）刻有型号、编号，喇叭的正面刻有LOGO。  
+首先查看OPTION→AUTO PWR STDBY的设置，该功能作用：指定时间段内没有任何操作，音响将自动关闭。默认设置是“TIME 8H”（8小时），可以更改为“OFF”，即本机不会自动关闭。  
+]( "天猫旗舰店") #### 
+]( "雅马哈影音旗舰店") #### 
+]( "加入我们") #### 
+](#enterprise "企业视频") #### 
+]( "可持续发展") #### 
+×
+  *   
+](
+](
+](
+](
+](
+######  
+                            
+######  
+        
+######  
+  
+######  
+  
+###### ;)
+  
+######  ;)
+              
+######  
+    
+  
+        
+Copyright© 2021 雅马哈乐器音响（中国）投资有限公司 版权所有沪公网安备 31010602003422号](
+
+
+Clickable buttons are wrapped in <button> tag
+<button>My Account<button>
+<button>产品<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他、贝斯和音箱<button>
+<button>鼓乐器<button>
+<button>管乐器・吹奏乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>合成器及音乐制作产品<button>
+<button>家庭音响<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>App应用程序<button>
+<button>高尔夫<button>
+<button>车载音响<button>
+<button>音乐服务<button>
+<button>新闻活动<button>
+<button>经销商查询<button>
+<button>客户服务<button>
+<button>企业用户<button>
+<button>关于雅马哈<button>
+<button>加入我们<button>
+<button>产品<button>
+<button>管乐器<button>
+<button>管乐器 · 吹奏乐器<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>FA制品/高档车用装饰面板<button>
+<button>会员系统<button>
+<button>社交媒体<button>
+<button>加入我们<button>
+<button>联系我们<button>
+<button>第130期 管乐研修（高级）已经顺利结束2026年04月08日第130期 管乐研修（高级）已经顺利结束<button>
+<button>软件更新：雅马哈MusicCast功能产品2026年3月软件更新2026年03月26日软件更新：雅马哈MusicCast功能产品2026年3月软件更新<button>
+<button>关于结束高尔夫用品业务的通知05.03.2026雅马哈株式会社（以下简称"本公司"）作为优化经营资源配置及调整业务组合的一环，决定结束高尔夫用品业务，现通知如下。<button>
+<button>2026年雅马哈管乐技术者大会圆满落幕：服务创造价值，提高顾客体验10.02.20262026年雅马哈管乐技术者大会圆满落幕：服务创造价值，提高顾客体验<button>
+<button>雅马哈钢琴调律师培训班顺利毕业03.02.2026雅马哈钢琴调律师培训班顺利毕业<button>
+<button>新固件丨全新RIVAGE PM固件完善包含直接沉浸式声像控制等功能在内的沉浸式工作流程与现场控制选项，助力实现更快速、更灵活的工作体验22.01.2026直接沉浸式声像控制及更多功能，实现更快速、更灵活的工作体验<button>
+<button>雅马哈发布MGX数字调音台系列、URX音频接口系列和CC1 USB控制器23.01.2026雅马哈发布MGX数字调音台系列、URX音频接口系列和CC1 USB控制器<button>
+<button>展会回顾|雅马哈全品类登陆 2025 广州国际音响唱片展，覆盖家庭娱乐全场景04.01.20262025年12月26日-28日，雅马哈携全系旗舰产品及最新力作亮相中国大酒店紫晶厅，为广大音乐爱好者奉上了一场展现卓越品质与深厚底蕴的听觉盛宴。<button>
+<button>新品丨雅马哈推出STAGEPAS 100BTR mkII便携式扩声系统，配备USB/蓝牙音频输入/输出接口22.12.2025雅马哈公司很高兴地推出STAGEPAS 100BTR mkII，这款升级版电池供电便携式扩声系统配备了USB/蓝牙音频输入/输出接口及快速充电功能。通过增强灵活性并支持混合音频应用，STAGEPAS 100BTR mkII在高品质音效、多功能表现与卓越便携性之间实现了出色平衡。<button>
+<button>雅马哈键盘乐器产品电商渠道购买声明08.12.2025雅马哈键盘乐器产品电商渠道购买声明<button>
+<button>View All<button>
+<button>[电子钢琴/电子键盘] 我想将我的演奏和歌曲转换为 CD，我想在视频网站和SNS上播放我的音乐。 我想把弹奏和讲故事的演奏成CD。<button>
+<button>【双簧管】型号和编号在哪里看？<button>
+<button>雅马哈音响MCR-B043每天晚上22点开始到凌晨4点，选择循环播放会自己断掉，是故障吗？<button>
+<button>View All<button>
+<button>企业视频<button>
+<button>可持续发展<button>
+<button>雅马哈音乐中心<button>
+<button>雅马哈流行音乐课程<button>
+<button>雅马哈双排键电子琴教师俱乐部<button>
+<button>雅马哈电子键盘专用教室<button>
+<button>新闻活动首页<button>
+<button>经销商查询首页<button>
+<button>雅马哈乐器指南<button>
+<button>常见问题（Q&A）<button>
+<button>授权服务中心查询<button>
+<button>雅马哈会员系统<button>
+<button>雅马哈认证技师<button>
+<button>下载与支持<button>
+<button>经销商专区<button>
+<button>雅马哈进口钢琴原产地信息查询<button>
+<button>雅马哈集团<button>
+<button>雅马哈中国<button>
+<button>联系我们<button>
+<button>在线招聘<button>
+<button>使用条款<button>
+<button>隐私政策<button>
+
+----- WebWalker -----
+Thought: 我需要找到关于购买萨克斯后成为哪种会员以及免费保养机会的具体信息。首先，我应该访问“雅马哈会员系统”页面以获取更多相关信息。
+
+Action: visit_page
+Action Input: {"button": "雅马哈会员系统"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ global navigation
+      *       *                                                                                                                               
+      * 产品
+                                                                      
+Search this site 发送
+搜索
+雅马哈会员系统
+用户登录
+还没有帐号？
+!
+发送验证码 
+登录
+微信登录
+微信扫码登录
+密码登录
+×
+  *   
+ ](
+ ](
+ ](
+](
+](
+######  
+                            
+######  
+        
+######  
+  
+######  
+  
+###### ;)
+  
+######  ;)
+              
+######  
+    
+  
+        
+Copyright© 2024 雅马哈乐器音响（中国）投资有限公司 版权所有 沪公网安备 31010602003422号](
+
+
+Clickable buttons are wrapped in <button> tag
+<button>My Account<button>
+<button>产品<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他、贝斯和音箱<button>
+<button>鼓乐器<button>
+<button>管乐器・吹奏乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>合成器及音乐制作产品<button>
+<button>家庭音响<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>App应用程序<button>
+<button>高尔夫<button>
+<button>车载音响<button>
+<button>音乐服务<button>
+<button>新闻活动<button>
+<button>经销商查询<button>
+<button>客户服务<button>
+<button>企业用户<button>
+<button>关于雅马哈<button>
+<button>加入我们<button>
+<button>产品<button>
+<button>去注册<button>
+<button>专业音响<button>
+<button>雅马哈音乐中心<button>
+<button>雅马哈流行音乐课程<button>
+<button>雅马哈双排键电子琴教师俱乐部<button>
+<button>雅马哈电子键盘专用教室<button>
+<button>新闻活动首页<button>
+<button>经销商查询首页<button>
+<button>雅马哈乐器指南<button>
+<button>常见问题（Q&A）<button>
+<button>授权服务中心查询<button>
+<button>雅马哈会员系统<button>
+<button>雅马哈认证技师<button>
+<button>下载与支持<button>
+<button>经销商专区<button>
+<button>雅马哈进口钢琴原产地信息查询<button>
+<button>雅马哈集团<button>
+<button>雅马哈中国<button>
+<button>联系我们<button>
+<button>在线招聘<button>
+<button>使用条款<button>
+<button>隐私政策<button>
+
+----- WebWalker -----
+Thought: 我需要找到关于购买萨克斯后成为哪种会员以及免费保养机会的具体信息。首先，我应该访问“去注册”页面以获取更多相关信息。
+
+Action: visit_page
+Action Input: {"button": "去注册"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ global navigation
+      *       *                                                                                                                               
+      * 产品
+                                                                      
+Search this site 发送
+搜索
+雅马哈会员系统
+用户注册
+已有帐号？
+微信扫码注册
+ 与 
+×
+  *   
+ ](
+ ](
+ ](
+](
+](
+######  
+                            
+######  
+        
+######  
+  
+######  
+  
+###### ;)
+  
+######  ;)
+              
+######  
+    
+  
+        
+Copyright© 2024 雅马哈乐器音响（中国）投资有限公司 版权所有 沪公网安备 31010602003422号](
+
+
+Clickable buttons are wrapped in <button> tag
+<button>My Account<button>
+<button>产品<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他、贝斯和音箱<button>
+<button>鼓乐器<button>
+<button>管乐器・吹奏乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>合成器及音乐制作产品<button>
+<button>家庭音响<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>App应用程序<button>
+<button>高尔夫<button>
+<button>车载音响<button>
+<button>音乐服务<button>
+<button>新闻活动<button>
+<button>经销商查询<button>
+<button>客户服务<button>
+<button>企业用户<button>
+<button>关于雅马哈<button>
+<button>加入我们<button>
+<button>产品<button>
+<button>去登录<button>
+<button>会员注册协议<button>
+<button>隐私政策<button>
+<button>专业音响<button>
+<button>雅马哈音乐中心<button>
+<button>雅马哈流行音乐课程<button>
+<button>雅马哈双排键电子琴教师俱乐部<button>
+<button>雅马哈电子键盘专用教室<button>
+<button>新闻活动首页<button>
+<button>经销商查询首页<button>
+<button>雅马哈乐器指南<button>
+<button>常见问题（Q&A）<button>
+<button>授权服务中心查询<button>
+<button>雅马哈会员系统<button>
+<button>雅马哈认证技师<button>
+<button>下载与支持<button>
+<button>经销商专区<button>
+<button>雅马哈进口钢琴原产地信息查询<button>
+<button>雅马哈集团<button>
+<button>雅马哈中国<button>
+<button>联系我们<button>
+<button>在线招聘<button>
+<button>使用条款<button>
+<button>隐私政策<button>
+
+----- WebWalker -----
+Thought: 我需要找到关于购买萨克斯后成为哪种会员以及免费保养机会的具体信息。首先，我应该访问“会员注册协议”页面以获取更多相关信息。
+
+Action: visit_page
+Action Input: {"button": "会员注册协议"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ global navigation
+      *       *                                                                                                                               
+      * 产品
+                                                                      
+Search this site 发送
+搜索
+雅马哈会员注册协议
+  * 钢琴
+  * 管乐
+  * 家庭音响
+  * 吉他
+  * 电子键盘
+钢琴
+尊敬的顾客：
+您好，首先感谢您购买雅马哈产品! 请您抽出宝贵时间，完成注册信息，以及对我们的工作提出公正、客观地评价和建议，您的要求和建议是我们改进的方向和动力。谢谢!
+· 本登录系统是以满足雅马哈钢琴用户使用为目的，构筑雅马哈和用户一起长期建立守护乐器关系的随意登录系统。即便不登录对用户的正常保修并无影响和不利。
+· 您所购买的钢琴，可在信息登录后，证明是雅马哈的。
+· 用户信息填写成功，成为我们雅马哈公司的会员后，雅马哈将给予每个用户一个ID帐号，该ID帐号请用户妥善保管。
+· 成为会员的用户绑定雅马哈钢琴信息后，都将获得保养调律电子卡，具体保养次数将以您手中的产品说明书或产品保证书为准。
+· 请正确填写必填内容。如发生误填（地址，电话号码，制造编号等），将可能无法注册申请成功。 目前登录，促销活动正进行。* 注 活动内容因情况变化可能发生更改。
+· 我们会根据有效的联系方式定期对雅马哈钢琴会员用户发放企业和产品保养等信息。
+· 雅马哈尊重并保护所有注册用户的个人隐私权，您的个人信息将只用做您个人登录使用，雅马哈不会向任何无关第三方提供您的个人信息。
+最终解释权归雅马哈乐器音响（中国）投资有限公司所有。
+管乐
+尊敬的顾客：
+您好，首先感谢您购买雅马哈产品! 请您抽出宝贵时间，完成注册信息,以及对我们的工作提出公正、客观地评价和建议，您的要求和建议是我们改进的方向和动力。谢谢! 
+· 本登录系统是以满足雅马哈管乐器用户使用为目的，构筑雅马哈和用户一起长期建立守护乐器关系的登录系统。即便选择不登录对用户的正常保修并无影响和不利。管乐器部分于2010年4月1日开放使用。 
+· **本系统只接受在中国大陆地区雅马哈授权管乐器经销商实体店铺及天猫旗舰店购买雅马哈管乐器的用户注册。**
+· 您可通过注册成为雅马哈会员，验证您购买的管乐器产品为雅马哈正品商品。 
+· 用户信息填写成功，成为我们雅马哈公司的会员后，雅马哈将给予每个用户一个ID帐号，该ID帐号请用户妥善保管。 
+· 前往中国大陆地区雅马哈授权管乐器经销商实体店铺及授权网络经销商处购买雅马哈管乐器的用户，在注册成为会员后，可为您本次购买的乐器赠送一次免费保养服务（自购买之日起一年内有效）。目前仅针对2010年4月1日以后购买管乐器的用户。当您成功注册成为雅马哈会员后，便可查询免费电子保养卡的二维码。用户可凭此二维码及发票等相关证明，联系雅马哈管乐器授权服务中心进行保养服务。 
+雅马哈授权服务中心查询及线上预约网址： 
+· 对于在2009年4月1日起，通过中国大陆地区雅马哈公司授权管乐器经销商购买雅马哈Custom系列管乐器产品的用户，可注册成为雅马哈Custom VIP会员，并享受相应服务。 具体可查看Custom VIP会员说明：<
+· 2022年11月1日前，已收到VIP纸质卡（在有效期内）的用户，仅可使用纸质卡。2022年11月1日(含当日)之后购买VIP产品的用户，需使用三张Custom-VIP电子保养卡进行保养。 
+· 请正确填写必填内容。如发生误填（电话号码，制造编号等），将可能无法成功注册并完成登录。
+· 我们会季节性的根据有效的联系方式对雅马哈管乐器会员用户发放企业、产品和活动信息等。
+· 雅马哈尊重并保护所有注册用户的个人隐私权，您的个人信息将只用做您个人登录使用，雅马哈不会向任何无关第三方提供您的个人信息。
+最终解释权归雅马哈乐器音响（中国）投资有限公司所有。
+家庭音响
+尊敬的顾客：
+您好，首先感谢您购买雅马哈产品!
+· 请您抽出宝贵时间，完成注册信息，成为雅马哈会员。雅马哈将给予每个用户一个ID帐号，该ID帐号请用户妥善保管。
+· 当您成功注册成为雅马哈会员后，使用我们提供的ID账号再次登录，便可查询电子保修卡。用户可凭此电子保修卡联系雅马哈授权维修站，由维修站为您提供完善的售后服务。
+· 其中，对于购买的指定雅马哈家庭音响产品（具体指定型号请见下表*不包含等级品）获得在原有一年保修期上额外延长的一年保修期。完成登录，即可查看到二年延保卡。延保内容详细规定请参考：
+***官方翻新产品不提供会员注册及延保服务。**
+一、三包条款
+1.三包有效期内如用户在正常使用情况下发生故障，请携带电子保修卡前往各地雅马哈公司指定的维修站，按凭证规定进行免费修理（包括零部件更换及人工费）。但不负担修理品的运送费、安装以及拆取等与实际修理无关的费用。
+2.以下情况即使在三包有效期内概不提供免费修理、换货、退货：
+① 无法出示电子保修卡，或本电子保修卡上的信息与修理品的型号和机身编号不一致。
+② 在雅马哈公司指定维修站以外的场所进行修理或改装，并且引起故障和损坏。
+③ 未按使用说明书的要求进行使用、维护、保管、异物进入而造成的故障和损坏。
+④ 由于火灾、地震、水灾、风灾、雷击等自然灾害及异常电压、公害、化学物质的侵蚀而成的故障和损坏。
+⑤ 非本公司所制造的产品而引起的故障，或非经过本公司同意对商品进行的改装。
+⑥ 购买后，由于跌落、移动、运输等非产品质量原因引起的故障和损坏。
+⑦ 一般家庭使用以外的使用场合以及恶劣条件（油烟、灰尘、受潮、直射阳光等）下使用产生的故障。
+⑧ 外壳、面板、按键和旋钮等外观零件以及电池、连接线等附件的更换。（遥控器实施1年期性能故障保修）
+二、三包有效期
+整机为一年，主要部件为二年。（家庭以外目的使用时整机和主要部件为半年。“家庭以外目的使用”以有效购买票据的抬头为准，除真实姓名及”个人”抬头以外的，我司均认定为 “家庭以外目的使用”。如出现上述情况，原一年/二年保修卡，有效期均更正为半年。）
+本“二年延保卡”可提供整机二年的服务。产品发生故障送修时，请直接出示电子卡。
+三、本三包凭证只作为符合本证所列期限条件用户享受三包的凭证，因而不限制用户在法律上的权利。对于换货和退货根据《家用视听商品更换退货责任规定》办理，有关维修事宜如有不明之处， 请向雅马哈公司指定的维修站或雅马哈客服热线咨询。
+两年期电子延保卡的保修范围为：  
+| AVENTAGE  | RX-A8A  |  
+| --- | --- |  
+| RX-A6A  |  
+| RX-A4A  |  
+| MX-A5200  |  
+| HiFi产品  | GT-5000  |  
+| C-5000  |  
+| M-5000  |  
+| A-S3200  |  
+| A-S2200  |  
+| A-S1200  |  
+| R-N2000A  |  
+| R-N1000A  |  
+| CD-S3000  |  
+| 音箱  | NS-5000  |  
+| NS-3000  |  
+| NS-2000A  |  
+| NS-800A  |  
+| NS-600A  |  
+| NS-SW1000  |  
+| 桌面音响  | TSX-N237  |  
+| 耳机  | YH-5000SE  |  
+| YH-4000  |  
+| YH-C3000  |  
+| 耳放  | HA-L7A  |  
+| 回音壁  | SR-X90A SET  |  
+请正确填写必填内容。如发生误填（经销商，电话号码，产品序列号等），将可能无法成功注册并完成登录。
+雅马哈尊重并保护所有注册用户的个人隐私权，您的个人信息将只用做您个人登录使用，雅马哈不会向任何无关第三方提供您的个人信息。
+如在保修卡内容解释上产生歧义，终解释权归雅马哈乐器音响（中国）投资有限公司
+吉他
+尊敬的顾客：
+您好，首先感谢您购买雅马哈产品! 请您抽出宝贵时间，完成注册信息，以及对我们的工作提出公正、客观地评价和建议，您的要求和建议是我们改进的方向和动力。谢谢!
+· 本登录系统是以满足雅马哈吉他用户使用为目的，构筑雅马哈和用户一起长期建立守护乐器关系的随意登录系统。即便不登录对用户的正常保修并无影响和不利。
+· 自2023年12月1日起，产品注册系统不再提供产品审核服务。
+您可通过扫描产品外包装上的唯一防伪码，作为正品判断依据。
+本系统仅用于用户信息的完善，便于向您发放相关产品及活动资讯。
+更多详情，请关注【雅马哈电声乐器】微信公众号。
+· 雅马哈尊重并保护所有注册用户的个人隐私权，您的个人信息将只用做您个人登录使用，雅马哈不会向任何无关第三方提供您的个人信息。
+最终解释权归雅马哈乐器音响（中国）投资有限公司所有。
+电子键盘
+尊敬的顾客：
+您好，首先感谢您购买雅马哈产品! 请您抽出宝贵时间，完成注册信息，以及对我们的工作提出公正、客观地评价和建议，您的要求和建议是我们改进的方向和动力。谢谢!
+· 本登录系统是以满足雅马哈电子键盘用户使用为目的，构筑雅马哈和用户一起长期建立守护乐器关系的随意登录系统。即便不登录对用户的正常保修并无影响和不利。
+· 目前仅针对2019年3月1日以后购买电子键盘产品的用户。
+· 您可通过注册成为雅马哈会员，验证您购买的电子键盘产品。关注“雅马哈电子键盘乐器”微信公众号获取更多售后服务及活动资讯。
+· 用户信息填写成功，成为我们雅马哈公司的会员后，雅马哈将给予每个用户一个ID帐号，该ID帐号请用户妥善保管。
+· 请正确填写必填内容。如发生误填（产品型号，信息，产品编号等），将可能无法成功注册并完成登录。
+· 雅马哈尊重并保护所有注册用户的个人隐私权，您的个人信息将只用做您个人登录使用，雅马哈不会向任何无关第三方提供您的个人信息。
+最终解释权归雅马哈乐器音响（中国）投资有限公司所有。
+×
+  *   
+ ](
+ ](
+ ](
+](
+](
+######  
+                            
+######  
+        
+######  
+  
+######  
+  
+###### ;)
+  
+######  ;)
+              
+######  
+    
+  
+        
+Copyright© 2024 雅马哈乐器音响（中国）投资有限公司 版权所有 沪公网安备 31010602003422号](
+
+
+Clickable buttons are wrapped in <button> tag
+<button>My Account<button>
+<button>产品<button>
+<button>钢琴<button>
+<button>电子键盘<button>
+<button>吉他、贝斯和音箱<button>
+<button>鼓乐器<button>
+<button>管乐器・吹奏乐器<button>
+<button>弦乐器<button>
+<button>打击乐器<button>
+<button>合成器及音乐制作产品<button>
+<button>家庭音响<button>
+<button>专业音响<button>
+<button>会议系统<button>
+<button>App应用程序<button>
+<button>高尔夫<button>
+<button>车载音响<button>
+<button>音乐服务<button>
+<button>新闻活动<button>
+<button>经销商查询<button>
+<button>客户服务<button>
+<button>企业用户<button>
+<button>关于雅马哈<button>
+<button>加入我们<button>
+<button>产品<button>
+<button>点击此处<button>
+<button>https://www.yamaha.com.cn/special/winds_vip/<button>
+<button>专业音响<button>
+<button>雅马哈音乐中心<button>
+<button>雅马哈流行音乐课程<button>
+<button>雅马哈双排键电子琴教师俱乐部<button>
+<button>雅马哈电子键盘专用教室<button>
+<button>新闻活动首页<button>
+<button>经销商查询首页<button>
+<button>雅马哈乐器指南<button>
+<button>常见问题（Q&A）<button>
+<button>授权服务中心查询<button>
+<button>雅马哈会员系统<button>
+<button>雅马哈认证技师<button>
+<button>下载与支持<button>
+<button>经销商专区<button>
+<button>雅马哈进口钢琴原产地信息查询<button>
+<button>雅马哈集团<button>
+<button>雅马哈中国<button>
+<button>联系我们<button>
+<button>在线招聘<button>
+<button>使用条款<button>
+<button>隐私政策<button>
+
+----- WebWalker -----
+Memory:
+-根据观察内容，如果顾客在2019年6月1日购买了一支雅马哈萨克斯8系列，他将成为雅马哈管乐器会员。根据描述，购买管乐器的用户注册成为会员后，可获得一次免费保养服务（自购买之日起一年内有效）。因此，该顾客拥有1次总免费保养的机会。
+"}
+
+----- WebWalker -----
+Final Answer: 该顾客成为雅马哈管乐器会员，拥有1次总免费保养的机会。

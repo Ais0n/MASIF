@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0571_bbc841faa429",
+  "source_index": 571,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "统一企业在合肥地区2025年计划展开的两个不同领域的服务招标项目分别是什么？",
+  "prompt": "统一企业在合肥地区2025年计划展开的两个不同领域的服务招标项目分别是什么？",
+  "expected_answer": "外租仓储及转仓物流服务项目和污泥清运处置服务项目",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/news_details.asp?news_id=1205&corp_id=377",
+      "https://www.uni-president.com.cn/news_details.asp?news_id=1208&corp_id=377"
+    ],
+    "golden_path": [
+      "root->招标公告->下页->合肥统一2025年外租仓储及转仓物流服务项目招标信息",
+      "root->招标公告->首页->合肥统一2025-2026年度污泥清运处置服务项目"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "统一企业在合肥地区2025年计划展开的两个不同领域的服务招标项目分别是污泥处置服务项目和废茶渣清运处置服务项目。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 22.154,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0571_bbc841faa429/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0571_bbc841faa429/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict\":",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

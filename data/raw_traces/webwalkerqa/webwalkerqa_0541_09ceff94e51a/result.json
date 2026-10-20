@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0541_09ceff94e51a",
+  "source_index": 541,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "图灵奖获得者Raj Reddy教授在2016年的专题讲座和2017年浙江大学网络安全研究中心的国际论坛分别在哪里举行？",
+  "prompt": "图灵奖获得者Raj Reddy教授在2016年的专题讲座和2017年浙江大学网络安全研究中心的国际论坛分别在哪里举行？",
+  "expected_answer": "曹光彪东楼502室和曹东502室",
+  "root_url": "http://www.cs.zju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2016/1107/c27029a1296298/page.htm",
+      "http://www.cs.zju.edu.cn/csen/2017/0928/c27028a1297077/page.htm"
+    ],
+    "golden_path": [
+      "root->首页->学术讲座->更新报告时间：【研究生读书报告】图灵奖获得者Raj Reddy教授专题讲座：IoT Intensive...",
+      "root->首页->国际合作->浙江大学网络安全研究中心第一期国际人才论坛圆满落幕"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 55.455,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0541_09ceff94e51a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0541_09ceff94e51a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

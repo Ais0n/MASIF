@@ -1,0 +1,641 @@
+----- user -----
+query:
+南京理工大学计算机学院在2024年暑期实践活动中，7月10日实践团队分别在南京和浙江台州市临海市紫阳街都进行学习，两个地方代表各自省份的历史意义是什么？
+official website:
+https://cs.njust.edu.cn/
+Observation:website information:
+
+### 导航
+                                                                                                                                                                                                                                  
+sudyfocus error: Not Found Data!
+](
+!
+!
+!
+!
+!
+<>
+### 导航
+      
+### 导航
+      
+### 导航
+      
+### 导航
+      
+### 导航
+      
+### 学院新闻
+  * 2026-05-06
+  * 2026-05-06
+  * 2026-04-24
+  * 2026-04-14
+  * 2026-04-10
+  * 2026-04-02
+  * 2026-04-02
+  * 2026-03-30
+  * 2026-03-30
+  * 2026-03-30
+### 通知公告
+  * 2026-04-28
+  * 2025-03-21
+  * 2025-03-21
+  * 2025-03-21
+  * 2025-03-21
+  * 2025-03-12
+  * 2025-03-12
+  * 2025-03-12
+  * 2025-03-12
+  * 2023-05-31
+### 学术动态
+  * 2026-04-08
+  * 2026-03-31
+  * 2026-03-25
+  * 2026-01-05
+  * 2025-12-22
+  * 2025-12-19
+  * 2025-10-18
+  * 2025-09-17
+  * 2025-07-09
+  * 2025-07-09
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+!
+
+
+clickable button:
+
+<button>学院概况<button>
+<button>学院简介<button>
+<button>院训释义<button>
+<button>院长致辞<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>历史沿革<button>
+<button>编年纪事<button>
+<button>组织机构<button>
+<button>学院办公室<button>
+<button>计算机科学与技术系<button>
+<button>软件工程与网络技术系<button>
+<button>机器感知与智能系<button>
+<button>智能科学与技术系<button>
+<button>人工智能交叉科学系<button>
+<button>实验教学中心<button>
+<button>师资队伍<button>
+<button>教授<button>
+<button>副教授<button>
+<button>讲师<button>
+<button>实验室系列<button>
+<button>博士后<button>
+<button>教师风采<button>
+<button>科学研究<button>
+<button>学科平台<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>科研成果<button>
+<button>科研底蕴<button>
+<button>教学育人<button>
+<button>本科生教学与培养<button>
+<button>研究生教学与培养<button>
+<button>教学育人成果<button>
+<button>学工资讯<button>
+<button>学工概况<button>
+<button>思政教育<button>
+<button>学风建设<button>
+<button>科创竞赛<button>
+<button>学生风采<button>
+<button>通知公告<button>
+<button>文档下载<button>
+<button>招生就业<button>
+<button>专业介绍<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业创业<button>
+<button>校友专栏<button>
+<button>党群工作<button>
+<button>党建活动<button>
+<button>党支部<button>
+<button>关工委<button>
+<button>工会<button>
+<button>共青团<button>
+<button>交流合作<button>
+<button>学术信息<button>
+<button>国际合作<button>
+<button>招才纳贤<button>
+<button>教师招聘<button>
+<button>博士后<button>
+<button>专职科研人员<button>
+<button>下载专区<button>
+<button>ICIS2024<button>
+<button>{栏目名称}<button>
+<button>更多>><button>
+<button>我校学子在第十一届中国高校计算...<button>
+<button>南京理工大学党委第二巡察组巡察...<button>
+<button>计算机学院与机械学院开展调研交...<button>
+<button>我校举办第十七届“蓝桥杯”全国...<button>
+<button>学院与公务学院联合开展2026届研...<button>
+<button>Nature Machine Intelligence报...<button>
+<button>计算机科学与工程学院“学情大走...<button>
+<button>长沙理工大学人工智能学院来我院...<button>
+<button>健康护航 生命有道——学院联合校...<button>
+<button>以码为刃 以证砺能——学院圆满举...<button>
+<button>更多>><button>
+<button>计算机科学与工程学院2025级学生...<button>
+<button>2024年度南京理工大学0812计算机...<button>
+<button>2023年度南京理工大学0812计算机...<button>
+<button>2022年度南京理工大学0812计算机...<button>
+<button>2021年度南京理工大学0812计算机...<button>
+<button>2024年度南京理工大学0835软件工...<button>
+<button>2023年度南京理工大学0835软件工...<button>
+<button>2022年度南京理工大学0835软件工...<button>
+<button>2021年度南京理工大学0835软件工...<button>
+<button>关于高性能计算中心计算机科学与...<button>
+<button>更多>><button>
+<button>行知论坛310：人的行为分析和运...<button>
+<button>行知论坛309：Mass Spectrometry...<button>
+<button>行知论坛308：脑网络拓扑挖掘方...<button>
+<button>行知论坛307：Recent Results on...<button>
+<button>行知论坛306：By the Time lt Ar...<button>
+<button>行知论坛305：基于元表示的预训...<button>
+<button>行知论坛304：Cloud Computing S...<button>
+<button>行知论坛303：PCU: A Quiet Guid...<button>
+<button>行知论坛302：多模态大模型的高...<button>
+<button>行知论坛301：从数据到解译：基...<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到关于南京理工大学计算机学院2024年暑期实践活动的详细信息，特别是7月10日实践团队在南京和浙江台州市临海市紫阳街的学习内容。首先，我应该访问学院的“学院新闻”或“通知公告”页面以获取相关信息。
+
+Action: visit_page
+Action Input: {"button": "学院新闻"}
+
+----- VisitPage -----
+Button not found: 学院新闻
+
+----- WebWalker -----
+Thought: "学院新闻"按钮无法点击，可能需要尝试其他相关页面，比如“通知公告”或“学工资讯”，以获取关于暑期实践活动的详细信息。
+
+Action: visit_page
+Action Input: {"button": "通知公告"}
+
+----- VisitPage -----
+The web information is:
+
+### 导航
+                                                                                                                                                                                                                                  
+### 导航
+                                                                                                                                                                                                                                  
+!
+通知公告
+### 学工资讯
+              
+## 通知公告
+当前位置：
+ 
+  * 每页  _14_ 记录  总共  _2_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院简介<button>
+<button>院训释义<button>
+<button>院长致辞<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>历史沿革<button>
+<button>编年纪事<button>
+<button>组织机构<button>
+<button>学院办公室<button>
+<button>计算机科学与技术系<button>
+<button>软件工程与网络技术系<button>
+<button>机器感知与智能系<button>
+<button>智能科学与技术系<button>
+<button>人工智能交叉科学系<button>
+<button>实验教学中心<button>
+<button>师资队伍<button>
+<button>教授<button>
+<button>副教授<button>
+<button>讲师<button>
+<button>实验室系列<button>
+<button>博士后<button>
+<button>教师风采<button>
+<button>科学研究<button>
+<button>学科平台<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>科研成果<button>
+<button>科研底蕴<button>
+<button>教学育人<button>
+<button>本科生教学与培养<button>
+<button>研究生教学与培养<button>
+<button>教学育人成果<button>
+<button>学工资讯<button>
+<button>学工概况<button>
+<button>思政教育<button>
+<button>学风建设<button>
+<button>科创竞赛<button>
+<button>学生风采<button>
+<button>通知公告<button>
+<button>文档下载<button>
+<button>招生就业<button>
+<button>专业介绍<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业创业<button>
+<button>校友专栏<button>
+<button>党群工作<button>
+<button>党建活动<button>
+<button>党支部<button>
+<button>关工委<button>
+<button>工会<button>
+<button>共青团<button>
+<button>交流合作<button>
+<button>学术信息<button>
+<button>国际合作<button>
+<button>招才纳贤<button>
+<button>教师招聘<button>
+<button>博士后<button>
+<button>专职科研人员<button>
+<button>下载专区<button>
+<button>ICIS2024<button>
+<button>首页<button>
+<button>南京理工大学计算机学院2019-2020学年团内评优公示2020-05-20<button>
+<button>关于取消马*丹等4名同学学籍的公告2019-11-20<button>
+
+----- WebWalker -----
+Thought: "通知公告"页面中没有直接提到2024年暑期实践活动的信息，我需要尝试访问“学工资讯”或“学工概况”以获取更多关于学生实践活动的详细信息。
+
+Action: visit_page
+Action Input: {"button": "学工资讯"}
+
+----- VisitPage -----
+The web information is:
+
+### 导航
+                                                                                                                                                                                                                                  
+### 导航
+                                                                                                                                                                                                                                  
+!
+学工资讯
+### 学工资讯
+              
+## 学工资讯
+当前位置：
+ 
+  * 每页  _14_ 记录  总共  _2_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院简介<button>
+<button>院训释义<button>
+<button>院长致辞<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>历史沿革<button>
+<button>编年纪事<button>
+<button>组织机构<button>
+<button>学院办公室<button>
+<button>计算机科学与技术系<button>
+<button>软件工程与网络技术系<button>
+<button>机器感知与智能系<button>
+<button>智能科学与技术系<button>
+<button>人工智能交叉科学系<button>
+<button>实验教学中心<button>
+<button>师资队伍<button>
+<button>教授<button>
+<button>副教授<button>
+<button>讲师<button>
+<button>实验室系列<button>
+<button>博士后<button>
+<button>教师风采<button>
+<button>科学研究<button>
+<button>学科平台<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>科研成果<button>
+<button>科研底蕴<button>
+<button>教学育人<button>
+<button>本科生教学与培养<button>
+<button>研究生教学与培养<button>
+<button>教学育人成果<button>
+<button>学工资讯<button>
+<button>学工概况<button>
+<button>思政教育<button>
+<button>学风建设<button>
+<button>科创竞赛<button>
+<button>学生风采<button>
+<button>通知公告<button>
+<button>文档下载<button>
+<button>招生就业<button>
+<button>专业介绍<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业创业<button>
+<button>校友专栏<button>
+<button>党群工作<button>
+<button>党建活动<button>
+<button>党支部<button>
+<button>关工委<button>
+<button>工会<button>
+<button>共青团<button>
+<button>交流合作<button>
+<button>学术信息<button>
+<button>国际合作<button>
+<button>招才纳贤<button>
+<button>教师招聘<button>
+<button>博士后<button>
+<button>专职科研人员<button>
+<button>下载专区<button>
+<button>ICIS2024<button>
+<button>首页<button>
+<button>计算机学院开展博士生大讲堂2024-11-29<button>
+<button>计算机学院开展2022级新生入学教育系列讲座2022-09-15<button>
+
+----- WebWalker -----
+Thought: "学工资讯"页面中也没有直接提到2024年暑期实践活动的信息，我需要尝试访问“科创竞赛”或“学生风采”以获取更多关于学生实践活动的详细信息。
+
+Action: visit_page
+Action Input: {"button": "科创竞赛"}
+
+----- VisitPage -----
+The web information is:
+
+### 导航
+                                                                                                                                                                                                                                  
+### 导航
+                                                                                                                                                                                                                                  
+!
+科创竞赛
+### 学工资讯
+              
+## 科创竞赛
+当前位置：
+  
+  * 每页  _14_ 记录  总共  _3_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院简介<button>
+<button>院训释义<button>
+<button>院长致辞<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>历史沿革<button>
+<button>编年纪事<button>
+<button>组织机构<button>
+<button>学院办公室<button>
+<button>计算机科学与技术系<button>
+<button>软件工程与网络技术系<button>
+<button>机器感知与智能系<button>
+<button>智能科学与技术系<button>
+<button>人工智能交叉科学系<button>
+<button>实验教学中心<button>
+<button>师资队伍<button>
+<button>教授<button>
+<button>副教授<button>
+<button>讲师<button>
+<button>实验室系列<button>
+<button>博士后<button>
+<button>教师风采<button>
+<button>科学研究<button>
+<button>学科平台<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>科研成果<button>
+<button>科研底蕴<button>
+<button>教学育人<button>
+<button>本科生教学与培养<button>
+<button>研究生教学与培养<button>
+<button>教学育人成果<button>
+<button>学工资讯<button>
+<button>学工概况<button>
+<button>思政教育<button>
+<button>学风建设<button>
+<button>科创竞赛<button>
+<button>学生风采<button>
+<button>通知公告<button>
+<button>文档下载<button>
+<button>招生就业<button>
+<button>专业介绍<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业创业<button>
+<button>校友专栏<button>
+<button>党群工作<button>
+<button>党建活动<button>
+<button>党支部<button>
+<button>关工委<button>
+<button>工会<button>
+<button>共青团<button>
+<button>交流合作<button>
+<button>学术信息<button>
+<button>国际合作<button>
+<button>招才纳贤<button>
+<button>教师招聘<button>
+<button>博士后<button>
+<button>专职科研人员<button>
+<button>下载专区<button>
+<button>ICIS2024<button>
+<button>首页<button>
+<button>计算机学院组织开展线上科创赛事动员大会2020-11-09<button>
+<button>第三届华为“展风华·为人先”计算机能力竞赛颁奖典礼2020-10-23<button>
+<button>我校学子获新加坡—南京5G+XR创新应用大赛一等奖2020-08-14<button>
+
+----- WebWalker -----
+Thought: "科创竞赛"页面中也没有直接提到2024年暑期实践活动的信息，我需要尝试访问“学生风采”或“学工概况”以获取更多关于学生实践活动的详细信息。
+
+Action: visit_page
+Action Input: {"button": "学生风采"}
+
+----- VisitPage -----
+The web information is:
+
+### 导航
+                                                                                                                                                                                                                                  
+### 导航
+                                                                                                                                                                                                                                  
+!
+学生风采
+### 学工资讯
+              
+## 学生风采
+当前位置：
+             
+  * 每页  _14_ 记录  总共  _143_ 记录 
+  * ;) ;)  
+  * 页码  _1_ /_11_ ;)
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院概况<button>
+<button>学院简介<button>
+<button>院训释义<button>
+<button>院长致辞<button>
+<button>现任领导<button>
+<button>历任领导<button>
+<button>历史沿革<button>
+<button>编年纪事<button>
+<button>组织机构<button>
+<button>学院办公室<button>
+<button>计算机科学与技术系<button>
+<button>软件工程与网络技术系<button>
+<button>机器感知与智能系<button>
+<button>智能科学与技术系<button>
+<button>人工智能交叉科学系<button>
+<button>实验教学中心<button>
+<button>师资队伍<button>
+<button>教授<button>
+<button>副教授<button>
+<button>讲师<button>
+<button>实验室系列<button>
+<button>博士后<button>
+<button>教师风采<button>
+<button>科学研究<button>
+<button>学科平台<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>科研成果<button>
+<button>科研底蕴<button>
+<button>教学育人<button>
+<button>本科生教学与培养<button>
+<button>研究生教学与培养<button>
+<button>教学育人成果<button>
+<button>学工资讯<button>
+<button>学工概况<button>
+<button>思政教育<button>
+<button>学风建设<button>
+<button>科创竞赛<button>
+<button>学生风采<button>
+<button>通知公告<button>
+<button>文档下载<button>
+<button>招生就业<button>
+<button>专业介绍<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业创业<button>
+<button>校友专栏<button>
+<button>党群工作<button>
+<button>党建活动<button>
+<button>党支部<button>
+<button>关工委<button>
+<button>工会<button>
+<button>共青团<button>
+<button>交流合作<button>
+<button>学术信息<button>
+<button>国际合作<button>
+<button>招才纳贤<button>
+<button>教师招聘<button>
+<button>博士后<button>
+<button>专职科研人员<button>
+<button>下载专区<button>
+<button>ICIS2024<button>
+<button>首页<button>
+<button>篮火燃青春，逐梦正当时——计算机科学与工程学院开展“青篮杯”篮...2026-04-03<button>
+<button>天使慢飞暖相伴 巧手扎染传温情 —— 计算机学院赴博爱中心开展志...2026-03-20<button>
+<button>计算机学院开展“青春建功新时代，雷锋精神我传承”学子林爱绿、...2026-03-20<button>
+<button>“情系桑梓，智践家乡” —— 码上乡情实践团寒假返家乡实践纪实2026-03-20<button>
+<button>学院召开2025年第二次社团负责人会议2025-12-09<button>
+<button>学院召开2025年第二次社团指导教师管理工作例会2025-11-15<button>
+<button>学院召开2025年第一次社团负责人会议2025-11-12<button>
+<button>学院召开2025年第一次社团指导教师管理工作例会2025-10-25<button>
+<button>学院本科2024级顺利搬迁至南京校区2025-07-24<button>
+<button>学院顺利召开第五届学生代表大会暨研究生代表大会2025-06-03<button>
+<button>学院开展“代码筑梦，心灵护航”5・25心理游园会主题活动2025-05-23<button>
+<button>学院开展“智能时代双引擎：布里斯托大学3+1AMD本硕连读专场”招...2025-05-15<button>
+<button>人人讲安全、个个会应急——学院红十字会开展防灾减灾日主题活动2025-05-14<button>
+<button>学院本科2023级开展”绿色低碳·告白地球“世界地球日系列活动2025-04-30<button>
+<button>下一页>><button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 在“学生风采”页面中，发现了一条关于“情系桑梓，智践家乡” —— 码上乡情实践团寒假返家乡实践纪实的记录，这可能与暑期实践活动有关。我需要进一步点击该按钮以获取详细信息。
+
+Action: visit_page
+Action Input: {"button": "情系桑梓，智践家乡” —— 码上乡情实践团寒假返家乡实践纪实2026-03-20"}
+
+----- VisitPage -----
+Button not found: 情系桑梓，智践家乡” —— 码上乡情实践团寒假返家乡实践纪实2026-03-20
+
+----- WebWalker -----
+Thought: 该按钮无法点击，可能是由于页面结构问题或链接失效。我需要尝试访问“学生风采”页面中的其他相关条目，例如“学院召开2025年第二次社团负责人会议”或“学院召开2025年第一次社团负责人会议”，以寻找与暑期实践活动相关的更多信息。
+
+Action: visit_page
+Action Input: {"button": "学院召开2025年第二次社团负责人会议2025-12-09"}
+
+----- VisitPage -----
+The web information is:
+
+# 学院召开2025年第二次社团负责人会议
+作者：孟晓菡 责任编辑：刘聪审核人：陈杰时间：2025-12-09浏览：118 )
+) )
+)
+  
+12月8日，计算机学院第二次社团负责人会议在学校第四教学楼召开，本次会议由院学生会主席孟晓菡主持召开，主要内容如下：会议首先由孟晓菡总结了近期工作情况，并对社团财务报销流程作了详细说明，同时针对各社团在运营中遇到的问题进行了解答。
+!
+会上，孟晓菡鼓励各社团在策划活动时注重提升质量、勇于创新，并积极融入中华优秀传统文化元素。与会负责人认真听取相关内容，并依次交流了各自的看法与建议。孟晓菡在总结中表示，希望各社团以此次交流为契机，持续加强自身建设。与会负责人纷纷表示收获颇丰，将在后续工作中进一步推动社团健康发展。
+!
+  
+) "分享到QQ空间") "分享到新浪微博") "分享到腾讯微博") "分享到人人网") "分享到微信")
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 该页面内容与社团会议相关，未提及暑期实践活动。我需要继续尝试访问“学生风采”页面中的其他条目，例如“学院本科2024级顺利搬迁至南京校区”或“学院顺利召开第五届学生代表大会暨研究生代表大会”，以寻找与暑期实践活动相关的更多信息。
+
+Action: visit_page
+Action Input: {"button": "学院本科2024级顺利搬迁至南京校区2025-07-24"}
+
+----- VisitPage -----
+The web information is:
+
+# 学院本科2024级顺利搬迁至南京校区
+作者：王淼宇 责任编辑：马湘如审核人：陆建峰时间：2025-07-24浏览：178 )
+) )
+)
+  
+7月22日，在学校的妥善安排下，学院2024级本科生顺利完成从江阴校区到南京校区的整体搬迁工作。学院高度重视此次跨校区搬迁，通过科学规划与细致落实，确保整个过程安全、有序、高效推进。
+为保障搬迁工作顺利开展，学院提前制定了详尽的工作方案。22日上午，在辅导员的统筹组织下，同学们于早上6:30便将行李有序存放至江阴校区致知楼。现场行李摆放整齐、标识清晰，既为下午搬迁车辆准时出发奠定了基础，也有效规避了交通拥堵问题，为搬迁工作的高效推进筑牢了前期根基。​
+!
+与此同时，南京校区的准备工作同步开展。由计算机学院本科生和研究生组成的志愿者团队提前行动，在对应宿舍门口张贴了门牌及心理咨询牌，营造温馨且贴心的住宿氛围。学院还为每位搬迁至南京校区的同学精心准备了小礼品，让同学们在抵达新校区的第一时间便感受到来自学院的关怀。
+!
+!
+22日下午4时，身着橙色志愿者服装的志愿者们在迎新棚整装待发，迎接2024级本科生的到来。学院为每个班级都配备了专门的引导员，针对行李较多的同学，更是安排了一对一的志愿者提供搬运行李服务，全力保障同学们顺利入住。​
+!
+!
+!
+!
+截至下午5时，所有同学均已顺利入住宿舍，标志着本次跨校区搬迁工作圆满收官。
+  
+  
+) "分享到QQ空间") "分享到新浪微博") "分享到腾讯微博") "分享到人人网") "分享到微信")
+南京理工大学版权所有 苏ICP备11035779号 Copyright © 2019 All Rights Reserved
+原图
+!
+
+
+Clickable buttons are wrapped in <button> tag

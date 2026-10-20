@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0551_52c82ddf00b3",
+  "source_index": 551,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which type of privacy invasion discussed in the 2018 'Privacy Leakage in Smart Devices' lecture is related to the issue of data distribution-based privacy attacks in federated learning according to the 2022 seminar?",
+  "prompt": "Which type of privacy invasion discussed in the 2018 'Privacy Leakage in Smart Devices' lecture is related to the issue of data distribution-based privacy attacks in federated learning according to the 2022 seminar?",
+  "expected_answer": "The location privacy leakage through smart device sensor data is related to data distribution-based privacy attacks in federated learning.",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2018/0713/c6988a264193/page.htm",
+      "http://cstc.hrbeu.edu.cn/2022/1103/c12615a300446/page.htm"
+    ],
+    "golden_path": [
+      "root->学生工作->尾页->“学萃讲坛”第817期—Privacy Leakage in Smart Devices Through Seemingly Innocuous Sensory D...2018-07-13",
+      "root->学术交流-><<上一页->计算机科学与技术学院举行智汇论坛（第九期）活动2022-11-03"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 45.168,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0551_52c82ddf00b3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0551_52c82ddf00b3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

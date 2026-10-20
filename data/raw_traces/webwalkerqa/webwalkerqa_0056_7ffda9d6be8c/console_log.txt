@@ -1,0 +1,860 @@
+----- user -----
+query:
+在安徽师范大学的2024年，2021级计算机科学与技术专业班级参赛优秀成果和郑孝遥教授的科研论文之间，两者各自取得的国家级成果是什么？
+official website:
+https://ci.ahnu.edu.cn/
+Observation:website information:
+
+#  ]( "计算机与信息学院\(人工智能学院\)")  
+|   
+ |   
+ |  !  |  
+| --- |  
+ |  
+|   
+ |   
+ |  !  |  
+| --- |  
+ |  
+ |  
+2026年5月6日 PM 2:58:09 
+!  !   
+| 
+                                                                                                                                                                                                                                                                                      
+ |  
+| --- |  
+](
+](
+](
+](
+](
+](
+) ) ) ) ) )
+]( "中国科学院陈国良院士来校指导计信学院（人工智能学院）建设发展工作") ]( "院士领航明方向 学科建设启新程 —— 郑志明、朱美芳院士指导计信学院建设发展工作") ]( "计算机与信息学院召开博士点申报专家指导会") ]( "计信学院2026年“迎新生 迎新年”文艺晚会圆满结束") ]( "计信学院党委赴巢湖监狱开展廉政警示教育活动") ]( "校领导为计信学院师生讲授“形势与政策”课暨思政理论课")
+_1_ _2_ _3_ _4_ _5_ _6_
+! 学院新闻 
+ 计信学院举办“朋辈说”经验分享会   计算机与信息学院（人工智能学院）召开博士点申报专家指导会   计信学院组织研究生消防演练活动   计信学院举办第九届学生会春季培训会   筑牢正确政绩观 激发实干新动能——计信学院认真组织开展树立和践行正确政绩观...   计信学院顺利举办第七届“计时启航”计算机硬件组装大赛   【访企拓岗促就业】计信学院赴芜湖市镜湖区人民政府、芜湖市数字经济产业园（... 
+  *  ](  ](
+  * ! 通知公告 
+    
+  * ! 教学动态 
+    
+  *  ](  ](
+  * ! 科研动态 
+ 【学术预告】计信学院图灵论坛第120讲：Machine learning for Environmental Science: Opportunities, Research Overview, Insights, and Emerging Directions   学院与安徽声云智能科技公司、芜湖大数据建设投资运营有限公司举行交流研讨会   深耕数字安全领域 共筑学术交流高地 —安徽师范大学计算机与信息学院（人工智能学院）联合举办第五届网络大数据与信息安全会议   【学科振兴计划】计信学院许勇教授等人“Inferring Targets from Calibrated Hesitations via Mutual Information Maximization in Multi-Behavior Recommendation”论文被数据挖掘领域CCF A类顶级国际会议ACM SIGIR Conference on Research and Development in Information Retrieval (简称:SIGIR 2026)全文接收 全文接收")  【学术预告】计信学院图灵论坛第119讲：基于物理层感知的隐藏无线摄像头定位 
+  * ! 学工动态 
+ 【中国青年报】大学生用AI“爆改”田间除草   【新华网】安徽师范大学学子为高效除草提供新方案   【科学网】新农人蹚出新农路 激光让“草影无踪”   元宵喜乐，同心启航——计信学院举办庆元宵主题团建活动   计信学院研究生心理辅导讲座通知 
+版权所有＠安徽师范大学 计算机与信息学院2018 技术支持：
+学院地址：安徽省芜湖市弋江区九华南路189号（安徽师范大学花津校区学苑南楼1#楼)
+邮编：241003
+单位：安徽师范大学计算机与信息学院
+! 官网移动版 
+! 学院团委 
+! 会议室预约 
+
+
+clickable button:
+
+<button>联系我们<button>
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院沿革<button>
+<button>学院机构<button>
+<button>机构人员<button>
+<button>办公电话<button>
+<button>现任领导<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>专职教师<button>
+<button>兼职教师<button>
+<button>退休职工<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>实习实训<button>
+<button>创新创业<button>
+<button>质量工程<button>
+<button>学科竞赛<button>
+<button>审核评估<button>
+<button>研究生教育<button>
+<button>学位点介绍<button>
+<button>培养方案<button>
+<button>导师介绍<button>
+<button>教学科研<button>
+<button>科研平台<button>
+<button>工业智能数据安全安徽省重点实验室<button>
+<button>安徽省医疗大数据智能系统工程研究中心<button>
+<button>校级科研平台<button>
+<button>科研项目<button>
+<button>科研成果<button>
+<button>学术论文<button>
+<button>学术专著<button>
+<button>知识产权<button>
+<button>科研奖励<button>
+<button>学术交流<button>
+<button>社会服务<button>
+<button>学历教育<button>
+<button>非学历教育培训<button>
+<button>职业资格考试<button>
+<button>合作研发<button>
+<button>招生就业<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业信息<button>
+<button>党群工作<button>
+<button>组织设置<button>
+<button>组织生活<button>
+<button>关工委<button>
+<button>分党校<button>
+<button>退教协<button>
+<button>先锋模范<button>
+<button>推免工作<button>
+<button>课程清单<button>
+<button>推免办法<button>
+<button>推免资格<button>
+<button>拟推免名单<button>
+<button>校友工作<button>
+<button>校友名录<button>
+<button>校友动态<button>
+<button>毕业留影<button>
+<button>开源基金<button>
+<button>30年系庆<button>
+<button>中国科学院陈国良院士来校指导计信学院（人工智能学院）建设发展工作<button>
+<button>院士领航明方向 学科建设启新程 —— 郑志明、朱美芳院士指导计信学院建设发展工作<button>
+<button>计算机与信息学院召开博士点申报专家指导会<button>
+<button>计信学院2026年“迎新生 迎新年”文艺晚会圆满结束<button>
+<button>计信学院党委赴巢湖监狱开展廉政警示教育活动<button>
+<button>校领导为计信学院师生讲授“形势与政策”课暨思政理论课<button>
+<button>计信学院举办“朋辈说”经验分享会[2026-04-30]<button>
+<button>计算机与信息学院（人工智能学院）召开博士点申报专家指导会[2026-04-27]<button>
+<button>计信学院组织研究生消防演练活动[2026-04-27]<button>
+<button>计信学院举办第九届学生会春季培训会[2026-04-23]<button>
+<button>筑牢正确政绩观 激发实干新动能——计信学院认真组织开展树立和践行正确政绩观...[2026-04-21]<button>
+<button>计信学院顺利举办第七届“计时启航”计算机硬件组装大赛[2026-04-20]<button>
+<button>【访企拓岗促就业】计信学院赴芜湖市镜湖区人民政府、芜湖市数字经济产业园（...[2026-04-17]<button>
+<button>【学院纪委】学院工作监督联系方式[2025-10-09]<button>
+<button>关于开展软件工程专业在校生&毕业生&专业教师&用人单位评价的通知[2026-04-24]<button>
+<button>计算机与信息学院2026年硕士研究生招生复试结果（调剂）[2026-04-13]<button>
+<button>计算机与信息学院2026年硕士研究生招生调剂复试名单[2026-04-09]<button>
+<button>计算机与信息学院2026年硕士研究生招生复试结果（一志愿）[2026-03-30]<button>
+<button>我院召开2026版人才培养方案修订推进会[2026-05-05]<button>
+<button>我院召开2026版人才培养方案修订企业座谈会[2026-04-09]<button>
+<button>关于举办2026年安徽省机器人大赛（算法设计赛道） 校内选拔赛的通知[2026-04-09]<button>
+<button>以教学实践为引擎，助推教师数智化能力进阶[2026-04-02]<button>
+<button>智“汇”计信，赋能发展：学院召开专业建设专家指导会[2026-03-15]<button>
+<button>【学术预告】计信学院图灵论坛第120讲：Machine learning for Environmental Science: Opportunities, Research Overview, Insights, and Emerging Directions[2026-04-24]<button>
+<button>学院与安徽声云智能科技公司、芜湖大数据建设投资运营有限公司举行交流研讨会[2026-04-22]<button>
+<button>深耕数字安全领域 共筑学术交流高地 —安徽师范大学计算机与信息学院（人工智能学院）联合举办第五届网络大数据与信息安全会议[2026-04-19]<button>
+<button>【学科振兴计划】计信学院许勇教授等人“Inferring Targets from Calibrated Hesitations via Mutual Information Maximization in Multi-Behavior Recommendation”论文被数据挖掘领域CCF A类顶级国际会议ACM SIGIR Conference on Research and Development in Information Retrieval (简称:SIGIR 2026)全文接收[2026-04-03]<button>
+<button>【学术预告】计信学院图灵论坛第119讲：基于物理层感知的隐藏无线摄像头定位[2026-03-26]<button>
+<button>【中国青年报】大学生用AI“爆改”田间除草[2025-02-28]<button>
+<button>【新华网】安徽师范大学学子为高效除草提供新方案[2025-02-28]<button>
+<button>【科学网】新农人蹚出新农路 激光让“草影无踪”[2025-02-28]<button>
+<button>元宵喜乐，同心启航——计信学院举办庆元宵主题团建活动[2026-03-04]<button>
+<button>计信学院研究生心理辅导讲座通知[2025-12-05]<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到2024年安徽师范大学计算机科学与技术专业班级的国家级成果以及郑孝遥教授的科研论文的国家级成果。首先，我应该访问“科研成果”页面。
+
+Action: visit_page
+Action Input: {"button": "科研成果"}
+
+----- VisitPage -----
+The web information is:
+
+#  ]( "计算机与信息学院\(人工智能学院\)")  
+|   
+ |   
+ |  !  |  
+| --- |  
+ |  
+|   
+ |   
+ |  !  |  
+| --- |  
+ |  
+ |  
+2026年5月6日 PM 2:58:43 
+!  !   
+| 
+                                                                                                                                                                                                                                                                                      
+ |  
+| --- |  
+#  !
+#  !
+!
+科研成果
+  
+ 
+   
+! 当前位置:  >>  >> 
+共0条 首页上页1下页尾页
+版权所有＠安徽师范大学 计算机与信息学院2018 技术支持：
+学院地址：安徽省芜湖市弋江区九华南路189号（安徽师范大学花津校区学苑南楼1#楼)
+邮编：241003
+单位：安徽师范大学计算机与信息学院
+! 官网移动版 
+! 学院团委 
+! 会议室预约 
+ ](javascript:;)
+版权所有＠安徽师范大学 计算机与信息学院 2018 
+技术支持：
+学院地址：安徽省芜湖市弋江区九华南路189号
+（安徽师范大学花津校区学苑南楼1#楼)
+邮编：241003
+单位：安徽师范大学计算机与信息学院
+! 
+!
+首页
+学院概况
+    
+[
+  * 学院概括]( [
+  * 学院领导]( [
+  * 机构设置]( [
+  * 教授委员会]( [
+  * 规章制度]( [
+  * 联系我们]( 
+党群工作
+    
+[
+  * 组织结构]( [
+  * 党建动态]( [
+  * 关工委](
+  * 退教协
+[
+  * 组织结构]( [
+  * 网上党校]( 
+师资队伍
+    
+[
+  * 教职工名录]( [
+  * 本科专业负责人]( [
+  * 学科带头人]( [
+  * 教工风采](
+  * 研究生导师
+[
+  * 计算机科学技术]( 
+人才培养
+    
+[
+  * 继续教育]( [
+  * 质量工程]( [
+  * 招生工作]( [
+  * 教学督导](
+  * 本科生教育
+[
+  * 专业介绍]( [
+  * 人才培养方案]( [
+  * 教学大纲]( 
+  * 研究生教育
+[
+  * 学位点介绍]( [
+  * 招生就业]( 
+教学科研
+    
+[
+  * 科研项目]( [
+  * 学术论文]( [
+  * 学术专著]( [
+  * 知识产权]( [
+  * 科研奖励]( [
+  * 学术交流]( 
+ 
+招生就业
+    
+[
+  * 招生信息]( [
+  * 就业资讯]( [
+  * 毕业生信息]( 
+ 
+校友工作
+    
+[
+  * 校友名录]( [
+  * 校友动态]( [
+  * 毕业留影]( [
+  * 开源基金]( 
+ 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>联系我们<button>
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院沿革<button>
+<button>学院机构<button>
+<button>机构人员<button>
+<button>办公电话<button>
+<button>现任领导<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>专职教师<button>
+<button>兼职教师<button>
+<button>退休职工<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>实习实训<button>
+<button>创新创业<button>
+<button>质量工程<button>
+<button>学科竞赛<button>
+<button>审核评估<button>
+<button>研究生教育<button>
+<button>学位点介绍<button>
+<button>培养方案<button>
+<button>导师介绍<button>
+<button>教学科研<button>
+<button>科研平台<button>
+<button>工业智能数据安全安徽省重点实验室<button>
+<button>安徽省医疗大数据智能系统工程研究中心<button>
+<button>校级科研平台<button>
+<button>科研项目<button>
+<button>科研成果<button>
+<button>学术论文<button>
+<button>学术专著<button>
+<button>知识产权<button>
+<button>科研奖励<button>
+<button>学术交流<button>
+<button>社会服务<button>
+<button>学历教育<button>
+<button>非学历教育培训<button>
+<button>职业资格考试<button>
+<button>合作研发<button>
+<button>招生就业<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业信息<button>
+<button>党群工作<button>
+<button>组织设置<button>
+<button>组织生活<button>
+<button>关工委<button>
+<button>分党校<button>
+<button>退教协<button>
+<button>先锋模范<button>
+<button>推免工作<button>
+<button>课程清单<button>
+<button>推免办法<button>
+<button>推免资格<button>
+<button>拟推免名单<button>
+<button>校友工作<button>
+<button>校友名录<button>
+<button>校友动态<button>
+<button>毕业留影<button>
+<button>开源基金<button>
+<button>30年系庆<button>
+<button>学院概括<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>教授委员会<button>
+<button>规章制度<button>
+<button>联系我们<button>
+<button>组织结构<button>
+<button>党建动态<button>
+<button>关工委<button>
+<button>组织结构<button>
+<button>教职工名录<button>
+<button>本科专业负责人<button>
+<button>学科带头人<button>
+<button>教工风采<button>
+<button>计算机科学技术<button>
+<button>继续教育<button>
+<button>质量工程<button>
+<button>招生工作<button>
+<button>教学督导<button>
+<button>专业介绍<button>
+<button>人才培养方案<button>
+<button>教学大纲<button>
+<button>学位点介绍<button>
+<button>招生就业<button>
+<button>科研项目<button>
+<button>学术论文<button>
+<button>学术专著<button>
+<button>知识产权<button>
+<button>科研奖励<button>
+<button>学术交流<button>
+<button>招生信息<button>
+<button>就业资讯<button>
+<button>毕业生信息<button>
+<button>校友名录<button>
+<button>校友动态<button>
+<button>毕业留影<button>
+<button>开源基金<button>
+<button>下载专区<button>
+
+----- WebWalker -----
+Thought: 科研成果页面显示没有数据，我需要查看“学术论文”页面以寻找郑孝遥教授的科研论文信息。
+
+Action: visit_page
+Action Input: {"button": "学术论文"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 学术论文页面未找到，我需要回到上一页并尝试其他相关页面，比如“科研奖励”或“科研项目”，以寻找郑孝遥教授的科研成果信息。
+
+Action: visit_page
+Action Input: {"button": "科研奖励"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 科研奖励页面也未找到，我需要回到上一页并尝试其他相关页面，比如“科研项目”或“知识产权”，以寻找郑孝遥教授的科研成果信息。
+
+Action: visit_page
+Action Input: {"button": "科研项目"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 科研项目页面也未找到，我需要回到上一页并尝试其他相关页面，比如“知识产权”或“学术专著”，以寻找郑孝遥教授的科研成果信息。
+
+Action: visit_page
+Action Input: {"button": "知识产权"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 知识产权页面也未找到，我需要回到上一页并尝试其他相关页面，比如“学术专著”或“科研成果”，以寻找郑孝遥教授的科研成果信息。
+
+Action: visit_page
+Action Input: {"button": "学术专著"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 所有科研相关页面似乎都无法访问，我需要回到首页并尝试其他途径，比如直接搜索“郑孝遥教授”或“2024年国家级成果”等关键词。首先，我将返回到学院首页。
+
+Action: visit_page
+Action Input: {"button": "学院首页"}
+
+----- VisitPage -----
+The web information is:
+
+#  ]( "计算机与信息学院\(人工智能学院\)")  
+|   
+ |   
+ |  !  |  
+| --- |  
+ |  
+|   
+ |   
+ |  !  |  
+| --- |  
+ |  
+ |  
+2026年5月6日 PM 2:59:10 
+!  !   
+| 
+                                                                                                                                                                                                                                                                                      
+ |  
+| --- |  
+](
+](
+](
+](
+](
+](
+) ) ) ) ) )
+]( "中国科学院陈国良院士来校指导计信学院（人工智能学院）建设发展工作") ]( "院士领航明方向 学科建设启新程 —— 郑志明、朱美芳院士指导计信学院建设发展工作") ]( "计算机与信息学院召开博士点申报专家指导会") ]( "计信学院2026年“迎新生 迎新年”文艺晚会圆满结束") ]( "计信学院党委赴巢湖监狱开展廉政警示教育活动") ]( "校领导为计信学院师生讲授“形势与政策”课暨思政理论课")
+_1_ _2_ _3_ _4_ _5_ _6_
+! 学院新闻 
+ 计信学院举办“朋辈说”经验分享会   计算机与信息学院（人工智能学院）召开博士点申报专家指导会   计信学院组织研究生消防演练活动   计信学院举办第九届学生会春季培训会   筑牢正确政绩观 激发实干新动能——计信学院认真组织开展树立和践行正确政绩观...   计信学院顺利举办第七届“计时启航”计算机硬件组装大赛   【访企拓岗促就业】计信学院赴芜湖市镜湖区人民政府、芜湖市数字经济产业园（... 
+  *  ](  ](
+  * ! 通知公告 
+    
+  * ! 教学动态 
+    
+  *  ](  ](
+  * ! 科研动态 
+ 【学术预告】计信学院图灵论坛第120讲：Machine learning for Environmental Science: Opportunities, Research Overview, Insights, and Emerging Directions   学院与安徽声云智能科技公司、芜湖大数据建设投资运营有限公司举行交流研讨会   深耕数字安全领域 共筑学术交流高地 —安徽师范大学计算机与信息学院（人工智能学院）联合举办第五届网络大数据与信息安全会议   【学科振兴计划】计信学院许勇教授等人“Inferring Targets from Calibrated Hesitations via Mutual Information Maximization in Multi-Behavior Recommendation”论文被数据挖掘领域CCF A类顶级国际会议ACM SIGIR Conference on Research and Development in Information Retrieval (简称:SIGIR 2026)全文接收 全文接收")  【学术预告】计信学院图灵论坛第119讲：基于物理层感知的隐藏无线摄像头定位 
+  * ! 学工动态 
+ 【中国青年报】大学生用AI“爆改”田间除草   【新华网】安徽师范大学学子为高效除草提供新方案   【科学网】新农人蹚出新农路 激光让“草影无踪”   元宵喜乐，同心启航——计信学院举办庆元宵主题团建活动   计信学院研究生心理辅导讲座通知 
+版权所有＠安徽师范大学 计算机与信息学院2018 技术支持：
+学院地址：安徽省芜湖市弋江区九华南路189号（安徽师范大学花津校区学苑南楼1#楼)
+邮编：241003
+单位：安徽师范大学计算机与信息学院
+! 官网移动版 
+! 学院团委 
+! 会议室预约 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>联系我们<button>
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院沿革<button>
+<button>学院机构<button>
+<button>机构人员<button>
+<button>办公电话<button>
+<button>现任领导<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>专职教师<button>
+<button>兼职教师<button>
+<button>退休职工<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>实习实训<button>
+<button>创新创业<button>
+<button>质量工程<button>
+<button>学科竞赛<button>
+<button>审核评估<button>
+<button>研究生教育<button>
+<button>学位点介绍<button>
+<button>培养方案<button>
+<button>导师介绍<button>
+<button>教学科研<button>
+<button>科研平台<button>
+<button>工业智能数据安全安徽省重点实验室<button>
+<button>安徽省医疗大数据智能系统工程研究中心<button>
+<button>校级科研平台<button>
+<button>科研项目<button>
+<button>科研成果<button>
+<button>学术论文<button>
+<button>学术专著<button>
+<button>知识产权<button>
+<button>科研奖励<button>
+<button>学术交流<button>
+<button>社会服务<button>
+<button>学历教育<button>
+<button>非学历教育培训<button>
+<button>职业资格考试<button>
+<button>合作研发<button>
+<button>招生就业<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业信息<button>
+<button>党群工作<button>
+<button>组织设置<button>
+<button>组织生活<button>
+<button>关工委<button>
+<button>分党校<button>
+<button>退教协<button>
+<button>先锋模范<button>
+<button>推免工作<button>
+<button>课程清单<button>
+<button>推免办法<button>
+<button>推免资格<button>
+<button>拟推免名单<button>
+<button>校友工作<button>
+<button>校友名录<button>
+<button>校友动态<button>
+<button>毕业留影<button>
+<button>开源基金<button>
+<button>30年系庆<button>
+<button>中国科学院陈国良院士来校指导计信学院（人工智能学院）建设发展工作<button>
+<button>院士领航明方向 学科建设启新程 —— 郑志明、朱美芳院士指导计信学院建设发展工作<button>
+<button>计算机与信息学院召开博士点申报专家指导会<button>
+<button>计信学院2026年“迎新生 迎新年”文艺晚会圆满结束<button>
+<button>计信学院党委赴巢湖监狱开展廉政警示教育活动<button>
+<button>校领导为计信学院师生讲授“形势与政策”课暨思政理论课<button>
+<button>计信学院举办“朋辈说”经验分享会[2026-04-30]<button>
+<button>计算机与信息学院（人工智能学院）召开博士点申报专家指导会[2026-04-27]<button>
+<button>计信学院组织研究生消防演练活动[2026-04-27]<button>
+<button>计信学院举办第九届学生会春季培训会[2026-04-23]<button>
+<button>筑牢正确政绩观 激发实干新动能——计信学院认真组织开展树立和践行正确政绩观...[2026-04-21]<button>
+<button>计信学院顺利举办第七届“计时启航”计算机硬件组装大赛[2026-04-20]<button>
+<button>【访企拓岗促就业】计信学院赴芜湖市镜湖区人民政府、芜湖市数字经济产业园（...[2026-04-17]<button>
+<button>【学院纪委】学院工作监督联系方式[2025-10-09]<button>
+<button>关于开展软件工程专业在校生&毕业生&专业教师&用人单位评价的通知[2026-04-24]<button>
+<button>计算机与信息学院2026年硕士研究生招生复试结果（调剂）[2026-04-13]<button>
+<button>计算机与信息学院2026年硕士研究生招生调剂复试名单[2026-04-09]<button>
+<button>计算机与信息学院2026年硕士研究生招生复试结果（一志愿）[2026-03-30]<button>
+<button>我院召开2026版人才培养方案修订推进会[2026-05-05]<button>
+<button>我院召开2026版人才培养方案修订企业座谈会[2026-04-09]<button>
+<button>关于举办2026年安徽省机器人大赛（算法设计赛道） 校内选拔赛的通知[2026-04-09]<button>
+<button>以教学实践为引擎，助推教师数智化能力进阶[2026-04-02]<button>
+<button>智“汇”计信，赋能发展：学院召开专业建设专家指导会[2026-03-15]<button>
+<button>【学术预告】计信学院图灵论坛第120讲：Machine learning for Environmental Science: Opportunities, Research Overview, Insights, and Emerging Directions[2026-04-24]<button>
+<button>学院与安徽声云智能科技公司、芜湖大数据建设投资运营有限公司举行交流研讨会[2026-04-22]<button>
+<button>深耕数字安全领域 共筑学术交流高地 —安徽师范大学计算机与信息学院（人工智能学院）联合举办第五届网络大数据与信息安全会议[2026-04-19]<button>
+<button>【学科振兴计划】计信学院许勇教授等人“Inferring Targets from Calibrated Hesitations via Mutual Information Maximization in Multi-Behavior Recommendation”论文被数据挖掘领域CCF A类顶级国际会议ACM SIGIR Conference on Research and Development in Information Retrieval (简称:SIGIR 2026)全文接收[2026-04-03]<button>
+<button>【学术预告】计信学院图灵论坛第119讲：基于物理层感知的隐藏无线摄像头定位[2026-03-26]<button>
+<button>【中国青年报】大学生用AI“爆改”田间除草[2025-02-28]<button>
+<button>【新华网】安徽师范大学学子为高效除草提供新方案[2025-02-28]<button>
+<button>【科学网】新农人蹚出新农路 激光让“草影无踪”[2025-02-28]<button>
+<button>元宵喜乐，同心启航——计信学院举办庆元宵主题团建活动[2026-03-04]<button>
+<button>计信学院研究生心理辅导讲座通知[2025-12-05]<button>
+
+----- WebWalker -----
+Thought: 我需要直接搜索“郑孝遥教授”或“2024年国家级成果”等关键词，但目前没有直接的搜索功能。我将尝试访问“师资队伍”页面以查找郑孝遥教授的信息。
+
+Action: visit_page
+Action Input: {"button": "师资队伍"}
+
+----- VisitPage -----
+The web information is:
+
+#  ]( "计算机与信息学院\(人工智能学院\)")  
+|   
+ |   
+ |  !  |  
+| --- |  
+ |  
+|   
+ |   
+ |  !  |  
+| --- |  
+ |  
+ |  
+2026年5月6日 PM 2:59:47 
+!  !   
+| 
+                                                                                                                                                                                                                                                                                      
+ |  
+| --- |  
+#  !
+#  !
+!
+师资队伍
+   
+! 当前位置:  >> 
+[
+  * ! 退休教师 
+共1条 首页上页1下页尾页
+版权所有＠安徽师范大学 计算机与信息学院2018 技术支持：
+学院地址：安徽省芜湖市弋江区九华南路189号（安徽师范大学花津校区学苑南楼1#楼)
+邮编：241003
+单位：安徽师范大学计算机与信息学院
+! 官网移动版 
+! 学院团委 
+! 会议室预约 
+ ](javascript:;)
+版权所有＠安徽师范大学 计算机与信息学院 2018 
+技术支持：
+学院地址：安徽省芜湖市弋江区九华南路189号
+（安徽师范大学花津校区学苑南楼1#楼)
+邮编：241003
+单位：安徽师范大学计算机与信息学院
+! 
+!
+首页
+学院概况
+    
+[
+  * 学院概括]( [
+  * 学院领导]( [
+  * 机构设置]( [
+  * 教授委员会]( [
+  * 规章制度]( [
+  * 联系我们]( 
+党群工作
+    
+[
+  * 组织结构]( [
+  * 党建动态]( [
+  * 关工委](
+  * 退教协
+[
+  * 组织结构]( [
+  * 网上党校]( 
+师资队伍
+    
+[
+  * 教职工名录]( [
+  * 本科专业负责人]( [
+  * 学科带头人]( [
+  * 教工风采](
+  * 研究生导师
+[
+  * 计算机科学技术]( 
+人才培养
+    
+[
+  * 继续教育]( [
+  * 质量工程]( [
+  * 招生工作]( [
+  * 教学督导](
+  * 本科生教育
+[
+  * 专业介绍]( [
+  * 人才培养方案]( [
+  * 教学大纲]( 
+  * 研究生教育
+[
+  * 学位点介绍]( [
+  * 招生就业]( 
+教学科研
+    
+[
+  * 科研项目]( [
+  * 学术论文]( [
+  * 学术专著]( [
+  * 知识产权]( [
+  * 科研奖励]( [
+  * 学术交流]( 
+ 
+招生就业
+    
+[
+  * 招生信息]( [
+  * 就业资讯]( [
+  * 毕业生信息]( 
+ 
+校友工作
+    
+[
+  * 校友名录]( [
+  * 校友动态]( [
+  * 毕业留影]( [
+  * 开源基金]( 
+ 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>联系我们<button>
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院沿革<button>
+<button>学院机构<button>
+<button>机构人员<button>
+<button>办公电话<button>
+<button>现任领导<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>专职教师<button>
+<button>兼职教师<button>
+<button>退休职工<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>实习实训<button>
+<button>创新创业<button>
+<button>质量工程<button>
+<button>学科竞赛<button>
+<button>审核评估<button>
+<button>研究生教育<button>
+<button>学位点介绍<button>
+<button>培养方案<button>
+<button>导师介绍<button>
+<button>教学科研<button>
+<button>科研平台<button>
+<button>工业智能数据安全安徽省重点实验室<button>
+<button>安徽省医疗大数据智能系统工程研究中心<button>
+<button>校级科研平台<button>
+<button>科研项目<button>
+<button>科研成果<button>
+<button>学术论文<button>
+<button>学术专著<button>
+<button>知识产权<button>
+<button>科研奖励<button>
+<button>学术交流<button>
+<button>社会服务<button>
+<button>学历教育<button>
+<button>非学历教育培训<button>
+<button>职业资格考试<button>
+<button>合作研发<button>
+<button>招生就业<button>
+<button>本科生招生<button>
+<button>研究生招生<button>
+<button>就业信息<button>
+<button>党群工作<button>
+<button>组织设置<button>
+<button>组织生活<button>
+<button>关工委<button>
+<button>分党校<button>
+<button>退教协<button>
+<button>先锋模范<button>
+<button>推免工作<button>
+<button>课程清单<button>
+<button>推免办法<button>
+<button>推免资格<button>
+<button>拟推免名单<button>
+<button>校友工作<button>
+<button>校友名录<button>
+<button>校友动态<button>
+<button>毕业留影<button>
+<button>开源基金<button>
+<button>30年系庆<button>
+<button>退休教师[2018-06-12]<button>
+<button>学院概括<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>教授委员会<button>
+<button>规章制度<button>
+<button>联系我们<button>
+<button>组织结构<button>
+<button>党建动态<button>
+<button>关工委<button>
+<button>组织结构<button>
+<button>教职工名录<button>
+<button>本科专业负责人<button>
+<button>学科带头人<button>
+<button>教工风采<button>
+<button>计算机科学技术<button>
+<button>继续教育<button>
+<button>质量工程<button>
+<button>招生工作<button>
+<button>教学督导<button>
+<button>专业介绍<button>
+<button>人才培养方案<button>
+<button>教学大纲<button>
+<button>学位点介绍<button>
+<button>招生就业<button>
+<button>科研项目<button>
+<button>学术论文<button>
+<button>学术专著<button>
+<button>知识产权<button>
+<button>科研奖励<button>
+<button>学术交流<button>
+<button>招生信息<button>
+<button>就业资讯<button>
+<button>毕业生信息<button>
+<button>校友名录<button>
+<button>校友动态<button>
+<button>毕业留影<button>
+<button>开源基金<button>
+<button>下载专区<button>

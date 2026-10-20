@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0435_e16fd2936770",
+  "source_index": 435,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年“家国计”就业洽谈会和杭州校友日活动上，哪位清华大学计算机系的现任领导发表了欢迎致辞，并在两场合中都参与互动？",
+  "prompt": "2024年“家国计”就业洽谈会和杭州校友日活动上，哪位清华大学计算机系的现任领导发表了欢迎致辞，并在两场合中都参与互动？",
+  "expected_answer": "尹霞",
+  "root_url": "https://www.cs.tsinghua.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://www.cs.tsinghua.edu.cn/info/1088/6435.htm",
+      "https://www.cs.tsinghua.edu.cn/info/1088/6420.htm"
+    ],
+    "golden_path": [
+      "root->082024-11清华大学计算机系举行第二届“家国计”就业洽谈会为深入推进《清华大学全面贯彻落实党的二十大精神行动方案》，加强重要领域就业引导，推动计算机学科学生就业行业结构进一步优化，11...",
+      "root->282024-10计算机系举办杭州校友日活动10月26日晚，计算机系在长三角地区举办了杭州校友日活动。计算机系主任、清华校友总会计算机系分会会长尹霞，清华大学浙江校友会会长..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 41.995,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0435_e16fd2936770/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0435_e16fd2936770/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

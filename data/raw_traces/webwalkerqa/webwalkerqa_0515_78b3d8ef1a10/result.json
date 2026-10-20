@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0515_78b3d8ef1a10",
+  "source_index": 515,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "At what time and date is the media embargo lifted for the Patient Perspectives Program presentation at ACR Convergence 2024?",
+  "prompt": "At what time and date is the media embargo lifted for the Patient Perspectives Program presentation at ACR Convergence 2024?",
+  "expected_answer": "November 14th at 10:00 AM ET",
+  "root_url": "https://rheumatology.org/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://rheumatology.org/annual-meeting-patient-perspectives",
+      "https://rheumatology.org/annual-meeting-abstract-presentation"
+    ],
+    "golden_path": [
+      "root->Program->Patient Perspectives",
+      "root->Abstracts->Abstract Presentation"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The media embargo for the Patient Perspectives Program presentation at ACR Convergence 2024 is lifted at 10:00 AM ET on November 7.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 20.77,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0515_78b3d8ef1a10/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0515_78b3d8ef1a10/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

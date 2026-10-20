@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0262_c906b46f42ba",
+  "source_index": 262,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在‘AIRS价值增值环’中，哪一增值空间通过将物理空间与数字空间进行价值孪生，凸显其策略为企业微信与客户企业的长期合作？",
+  "prompt": "在‘AIRS价值增值环’中，哪一增值空间通过将物理空间与数字空间进行价值孪生，凸显其策略为企业微信与客户企业的长期合作？",
+  "expected_answer": "共生价值（Symbiosis）",
+  "root_url": "https://work.weixin.qq.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://work.weixin.qq.com/nl/airs?from=wwindex_industry"
+    ],
+    "golden_path": [
+      "root->零售行业客户联系群管理工具客户朋友圈离职继承->AIRS增值环"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在‘AIRS价值增值环’中，通过将物理空间与数字空间进行价值孪生，凸显其策略为企业微信与客户企业的长期合作的增值空间是‘连接微信’中的客户联系、客户群、客户朋友圈等功能。这些功能通过整合微信生态，实现客户关系管理、服务互动和品牌传播，从而增强企业与客户的长期合作关系。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 17.924,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0262_c906b46f42ba/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0262_c906b46f42ba/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

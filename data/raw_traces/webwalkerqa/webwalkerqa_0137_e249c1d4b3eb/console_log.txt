@@ -1,0 +1,615 @@
+----- user -----
+query:
+广州大学5月14日下午的学术活动中，加拿大阿尔伯塔大学的哪位专家在计算机学院会议室发表了题为“如何进行计算机培养和学习”的学术报告？
+official website:
+https://jsj.gzhu.edu.cn/
+Observation:website information:
+
+]( "计算机学院")
+| 
+      
+     
+    
+    
+     
+        
+    
+   
+   
+    
+) )
+#  学院新闻
+  *  从“Debug高手”到“人生导师”，他教学... ]( "从“Debug高手”到“人生导师”，他教学生“写未来代码”")
+  *  张景中院士走进广大附中 | 点燃思维之光... ]( "张景中院士走进广大附中 | 点燃思维之光，共筑科学梦想")
+  *  高考最后3天，你的下一站：广大院士班 ]( "高考最后3天，你的下一站：广大院士班")
+  *  数说广大：计算机科学与网络工程学院研... ]( "数说广大：计算机科学与网络工程学院研究生招生宣传片")
+  *  新学期我院全体教职工首聚黄埔共启发展新篇 ]( "新学期我院全体教职工首聚黄埔共启发展新篇")
+                  
+#  学术活动通知
+  * ")
+  * ")
+  * ")
+  * ")
+  * ")
+  * ")
+  * ")
+  * ")
+  * ")
+!
+学院通知 学工动态 招生考试信息
+                        
+                  
+                  
+学科平台
+ ](  ](  ](
+#  学术新闻
+  *  ]( "中国高等教育学会教育数学专业委员会2024学术年会暨张景中院士从教50周年专题研讨会举行")
+  *  ]( "加拿大阿尔伯塔大学Witold Pedrycz教授应邀来我院作学术交流")
+  *  ]( "Monash  University于江山教授来我院做学术报告")
+  *  ]( "我院举办计算机图形学前沿学术报告会")
+  *  ]( "图灵奖首位华人学者姚期智院士来校作报告")
+校内链接 
+  *  | 
+  *  | 
+  *  | 
+  *  | 
+  *  | 
+  *  | 
+  *  | 
+  *  | 
+  *  | 
+  *  | 
+  *  | 
+  *  | 
+  
+广州大学计算机科学与网络工程学院 地址：行政西楼前座424室  
+学院邮箱：jsj@gzhu.edu.cn 电话：020-39366375 邮编：510006  
+
+
+clickable button:
+
+<button>中文版<button>
+<button>ENGLISH<button>
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织架构<button>
+<button>新闻中心<button>
+<button>学院新闻<button>
+<button>学院通知<button>
+<button>学术新闻<button>
+<button>育人新篇<button>
+<button>学术科研<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>学术活动通知<button>
+<button>师资队伍<button>
+<button>院士专栏<button>
+<button>计算机科学与网络工程学院师资<button>
+<button>行政和教辅人员<button>
+<button>本科教育<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>特色实验班<button>
+<button>本科专业评估<button>
+<button>研究生教育<button>
+<button>硕导简介<button>
+<button>博导简介<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>招生专业目录<button>
+<button>招生考试信息<button>
+<button>学位点建设年度报告<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>表格下载<button>
+<button>联系我们<button>
+<button>招生就业<button>
+<button>招生工作<button>
+<button>就业服务<button>
+<button>党群工作<button>
+<button>规章制度<button>
+<button>工作动态<button>
+<button>实践教学<button>
+<button>实验室<button>
+<button>实践基地<button>
+<button>学科竞赛<button>
+<button>更多>><button>
+<button>数说广大：计算机科学与网络工程学院研...<button>
+<button>新学期我院全体教职工首聚黄埔共启发展新篇<button>
+<button>2026/04/29首战告捷！我院学子在全国首届智能算子测试大赛总决赛斩...<button>
+<button>2026/04/24校企携手共探产教融合新路径 ——深圳鸿云教育有限公司到...<button>
+<button>2026/04/17校企携手 共育英才 ——我院与广东骏思信息科技举行实习...<button>
+<button>2026/04/02深化校企协同 共筑发展新篇 ——腾讯科技有限公司到访我...<button>
+<button>2026/02/06“新一代人工智能”国家科技重大专项项目启动会在广州大...<button>
+<button>2026/01/12张文生院长带队赴金域医学集团探索“AI+医疗”校企合作新...<button>
+<button>2026/01/11又+1！我院与广州联通成功签署党建共建合作协议<button>
+<button>2026/01/08喜报！我院教师团队在2025年全省学校（高等教育）优秀教...<button>
+<button>2025/12/09校企联动共探路 实践育人助成才——张文生院长带领学院师...<button>
+<button>更多>><button>
+<button>学术报告(Dr. Oana GEMAN,2019.11.1...<button>
+<button>学术报告(Dr. Aniello Castiglione,...<button>
+<button>学术报告( Dr. Md Zakirul Alam Bhu...<button>
+<button>学术报告(Prof. Zheng Yan,2019.11....<button>
+<button>学术报告（Prof. Hai Jiang，2019.6...<button>
+<button>学术报告（美国纽约高盛集团Zhiqian...<button>
+<button>学术报告（Prof. Kouichi Sakurai，...<button>
+<button>学术报告（Prof. Wanlei Zhou，2019...<button>
+<button>学术报告（Prof.Witold Pedrycz，20...<button>
+<button>计算机科学与网络工程学院2025级学生第二轮转专业考试《数学》考试大纲2026/04/29<button>
+<button>计算机科学与网络工程学院2024级本科生转专业拟录取名单公示2025/11/19<button>
+<button>计算机科学与网络工程学院关于2024级本科生转专业面试的通知2025/11/14<button>
+<button>计算机科学与网络工程学院关于2026届推荐优秀应届毕业生免试攻读研究生的公示2025/09/10<button>
+<button>计算机科学与网络工程学院2026届推荐优秀应届本科毕业生免试攻读研究生工作方案2025/09/02<button>
+<button>计算机科学与网络工程学院关于对蔡灿东退学处理的公示2024/10/10<button>
+<button>计算机科学与网络工程学院关于2022年研究生国家奖学金、学业奖学金评审结果的公示2022/09/23<button>
+<button>计算机科学与网络工程学院关于2023年推荐优秀应届本科毕业生免试攻读研究生的公示2022/09/15<button>
+<button>计算机科学与网络工程学院关于对陈意翔同学作退学处理的公告2022/05/12<button>
+<button>计算机科学与网络工程学院关于对池芳钰等7名同学作退学处理的公告2022/05/11<button>
+<button>广州大学计算机科学与网络工程学院诚聘海内外英才2022/01/17<button>
+<button>广州大学计算机科学与网络工程学院 2022年博士后招聘简章2022/01/11<button>
+<button>走访巨杉数据库——寻访校友足迹，加强校企合作2022/04/01<button>
+<button>我院学生工作队伍赴韶关学院交流学习2021/12/22<button>
+<button>我院赴湛江生源基地开展招生回访工作2021/11/07<button>
+<button>学院领导走访研究生报到点2021/02/24<button>
+<button>我院荣获广州大学“2020级学生军训先进学院”称号2021/01/26<button>
+<button>大二就发SCI是一种什么体验？这对搭档有话说2020/08/21<button>
+<button>计算机学院开展暑期学生宿舍安全检查2020/07/15<button>
+<button>喜报：我院2020届本科毕业生考研取得佳绩2020/07/03<button>
+<button>计算机科学与网络工程学院近三年各专业就业率统计表2020/04/26<button>
+<button>广州大学计算机科学与网络工程学院2020年硕士研究生第2批和第3批复试结果公布2020/07/06<button>
+<button>广州大学计算机科学与网络工程学院2020年博士研究生拟录取考生名单变更公示2020/07/03<button>
+<button>广州大学计算机科学与网络工程学院2020年博士研究生拟录取考生名单公示2020/06/24<button>
+<button>计算机科学与网络工程学院2020年硕士研究生拟录取考生名单变更公示2020/06/24<button>
+<button>广州大学计算机科学与网络工程学院2020年博士研究生初选结果考生名单2020/06/17<button>
+<button>计算机科学与网络工程学院2020年招收博士研究生初选、复选工作的安排2020/06/15<button>
+<button>广州大学计算机科学与网络工程学院2020年硕士研究生第一批复试结果公布2020/05/22<button>
+<button>2020年广州大学计算机科学与网络工程学院招收硕士研究生复试工作安排2020/05/11<button>
+<button>计算机学院2019年博士研究生拟录取考生名单变更公示2019/05/27<button>
+<button>更多>><button>
+<button>中国高等教育学会教育数学专业委员会2024学术年会...<button>
+<button>加拿大阿尔伯塔大学Witold Pedrycz教授应邀来我院...<button>
+<button>Monash University于江山教授来我院做学术报告<button>
+<button>我院举办计算机图形学前沿学术报告会<button>
+<button>图灵奖首位华人学者姚期智院士来校作报告<button>
+<button>数字广大<button>
+<button>新闻中心<button>
+<button>图书馆<button>
+<button>电子邮箱<button>
+<button>招标信息<button>
+<button>实验教学综合信息应用平台<button>
+<button>校外实践基地<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到关于5月14日下午学术活动的信息，特别是加拿大阿尔伯塔大学的专家在计算机学院会议室发表的报告。首先，我应该访问“学术活动通知”页面。
+
+Action: visit_page
+Action Input: {"button": "学术活动通知"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机学院")
+| 
+      
+     
+    
+    
+     
+        
+    
+   
+   
+    
+!
+##  学术科研
+      
+!  >  > 
+  * ##  ") 2019-11-13
+​题目: Internet of Things -Applications, Challenges and Benefits inBiomedical Engineering and Healthcare时间: 2019年11月15日（星期五）下午5:00-6:00 地点: 广州大学行政西楼前座四楼428会议室报告人: Oana GEMAN 博士、副教授，罗马尼亚斯特凡赛...]
+  * ##  ") 2019-11-13
+​题目: Can the IoT really improve our lives? A wearable and light-weightsolution for our daily safety. 时间: 2019年11月15日（星期五）下午4:00-5:00 地点: 广州大学行政西楼前座四楼428会议室报告人:Aniello Castiglione博士、意大利那不勒斯大学...]
+  * ##  ") 2019-11-10
+​题目: Leveraging Wi-Fi Signals for Human Identification and ActivityMonitoring时间: 2019年11月11日（星期一）上午11:00-12:00 地点: 广州大学行政西楼前座四楼428会议室报告人:Md Zakirul Alam Bhuiyan博士，美国福德汉姆大学（Fordham University...]
+  * ##  ") 2019-11-10
+题目: Digitalizing Trust for Securing Pervasive Social Networking with Privacy Preservation时间: 2019年11月11日（星期一）上午10:00-11:00 地点: 广州大学行政西楼前座四楼428会议室报告人:闫峥 教授，西安电子科技大学（Xidian University） 内容...]
+  * ##  ") 2019-05-25
+报告题目​：TowardsScalable & Unkeyed Secure Data Storage Systems报告人：美国阿肯色州立大学（ArkansasState University, USA）Hai Jiang教授报告时间：2019年6月4日（星期二）下午2：30-4：00报告地点：计算机学院会议室（行政西楼前座428 室）摘要...]
+  * ##  ") 2019-05-22
+报告题目：AnonymousAccess and User Revocation System using ABS in Cloud Environment报告人：美国纽约高盛集团（GoldmanSachs, in New York, USA）Zhiqian Xu报告时间：2019年6月4日（星期二）下午4：00-5：30报告地点：计算机学院会议室（行政西楼前...]
+  * ##  ") 2019-05-20
+报告题目：CyberChain Technology for Trust and Security of Society 5.0报告人：日本九州大学（KyushuUniversity, Japan）Kouichi Sakurai教授报告时间：2019年5月27日（星期一）下午4：00-5：30报告地点：计算机学院会议室（行政西楼前座428 室）摘要：...]
+  * ##  ") 2019-05-11
+报告题目：Answeringdifferentially private queries for continual datasets release报告人：悉尼科技大学（Universityof Technology Sydney, Australia）WanleiZhou教授报告时间：2019年5月15日（星期三）下午4:00-5:30报告地点：计算机学院会议室（行政...]
+  
+|   
+ | 共14条 1/2   |  首页上页 页  |  
+| --- | --- |  
+ |  
+广州大学计算机科学与网络工程学院 地址：行政西楼前座424室  
+学院邮箱：jsj@gzhu.edu.cn 电话：020-39366375 邮编：510006  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>中文版<button>
+<button>ENGLISH<button>
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织架构<button>
+<button>新闻中心<button>
+<button>学院新闻<button>
+<button>学院通知<button>
+<button>学术新闻<button>
+<button>育人新篇<button>
+<button>学术科研<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>学术活动通知<button>
+<button>师资队伍<button>
+<button>院士专栏<button>
+<button>计算机科学与网络工程学院师资<button>
+<button>行政和教辅人员<button>
+<button>本科教育<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>特色实验班<button>
+<button>本科专业评估<button>
+<button>研究生教育<button>
+<button>硕导简介<button>
+<button>博导简介<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>招生专业目录<button>
+<button>招生考试信息<button>
+<button>学位点建设年度报告<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>表格下载<button>
+<button>联系我们<button>
+<button>招生就业<button>
+<button>招生工作<button>
+<button>就业服务<button>
+<button>党群工作<button>
+<button>规章制度<button>
+<button>工作动态<button>
+<button>实践教学<button>
+<button>实验室<button>
+<button>实践基地<button>
+<button>学科竞赛<button>
+<button>学术报告(Dr. Oana GEMAN,2019.11.15,周五)<button>
+<button>详细<button>
+<button>学术报告(Dr. Aniello Castiglione,2019.11.15，周五)<button>
+<button>详细<button>
+<button>学术报告( Dr. Md Zakirul Alam Bhuiyan,2019.11.11,周一)<button>
+<button>详细<button>
+<button>学术报告(Prof. Zheng Yan,2019.11.11,周一)<button>
+<button>详细<button>
+<button>学术报告（Prof. Hai Jiang，2019.6.4，周二)<button>
+<button>详细<button>
+<button>学术报告（美国纽约高盛集团Zhiqian Xu，2019.6.4，周二)<button>
+<button>详细<button>
+<button>学术报告（Prof. Kouichi Sakurai，2019.5.27，周一)<button>
+<button>详细<button>
+<button>学术报告（Prof. Wanlei Zhou，2019.5.15，周三)<button>
+<button>详细<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Memory:
+-2019年5月27日（星期一）下午4:00-5:30，日本九州大学Kouichi Sakurai教授在计算机学院会议室发表了题为“CyberChain Technology for Trust and Security of Society 5.0”的学术报告。
+"}
+
+----- WebWalker -----
+Thought: 我需要查找5月14日下午的学术活动，但当前页面显示的是2019年的报告。我应该访问“学术报告”按钮以查看是否有更近期的信息。
+
+Action: visit_page
+Action Input: {"button": "学术报告(Dr. Oana GEMAN,2019.11.15,周五)"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机学院")
+| 
+      
+     
+    
+    
+     
+        
+    
+   
+   
+    
+!  >  >  > 正文 
+**罗马尼亚斯特凡赛尔马大学（****Stefan cel Mare University, Suceava, Romania****）****Oana GEMAN****副教授学术报告通知**
+###  发布时间：2019-11-13文章来源：  浏览次数：2908
+****题目:** Internet of Things -Applications, Challenges and Benefits in Biomedical Engineering and Healthcare**
+**时间 : **2019年11月15日（星期五）下午5:00-6:00 
+**地点 :** 广州大学行政西楼前座四楼428会议室
+**报告人 :** Oana GEMAN 博士、副教授，罗马尼亚斯特凡赛尔马大学（Stefan cel Mare University, Suceava, Romania）
+**内容简介**
+Internet of Things (IoT) has many applications in the health domain including wearable support system to locate patients and doctors in the hospital, to detect adverse reaction to drugs, or the combination of sensors (Wifi). IoT is coming with useful things in the monitoring of vital functions of the body such as blood pressure, heart rate, temperature, cholesterol etc. Implantable wireless identifiers can be adapted to store health records of patient with chronic disease. IoT applications have a major impact on independent assisted living, support for aging people (things can send out regular alerts, e.g. for the sugar levels or blood pressure), and for rehabilitation. This allows IoT to become more powerful and takes a huge leap to analyze and distribute secure data that can turn into information, knowledge into the insider facts of life.
+**报告人简介**
+Oana GEMAN, is Associate Professor Habilitate in Electronics, Telecommunication and Information Technologies at Stefan cel Mare University from Suceava, Romania. She is Medical Bioengineer, with Ph.D. in Electronics and Telecommunication, and a post-doctoral researcher in Computer Science. She has published six books, and six book chapters, has published over 55 ISI articles with an IF over 25. She has been a director or a member in 10 national and international grants. Her current research interests include: non-invasive measurements of biomedical signals, IoT and wireless sensors, signal processing, and processing information by way of Artificial Intelligence such as nonlinear dynamics analysis, stochastic networks and neuro-fuzzy methods, classification and prediction, Data-Mining, Deep Learning, Intelligent Systems, Bioinformatics and Biostatistics and Biomedical Applications.
+;) )责任编辑：274975 
+广州大学计算机科学与网络工程学院 地址：行政西楼前座424室  
+学院邮箱：jsj@gzhu.edu.cn 电话：020-39366375 邮编：510006  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>中文版<button>
+<button>ENGLISH<button>
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织架构<button>
+<button>新闻中心<button>
+<button>学院新闻<button>
+<button>学院通知<button>
+<button>学术新闻<button>
+<button>育人新篇<button>
+<button>学术科研<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>学术活动通知<button>
+<button>师资队伍<button>
+<button>院士专栏<button>
+<button>计算机科学与网络工程学院师资<button>
+<button>行政和教辅人员<button>
+<button>本科教育<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>特色实验班<button>
+<button>本科专业评估<button>
+<button>研究生教育<button>
+<button>硕导简介<button>
+<button>博导简介<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>招生专业目录<button>
+<button>招生考试信息<button>
+<button>学位点建设年度报告<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>表格下载<button>
+<button>联系我们<button>
+<button>招生就业<button>
+<button>招生工作<button>
+<button>就业服务<button>
+<button>党群工作<button>
+<button>规章制度<button>
+<button>工作动态<button>
+<button>实践教学<button>
+<button>实验室<button>
+<button>实践基地<button>
+<button>学科竞赛<button>
+
+----- WebWalker -----
+Thought: 我需要查看其他学术报告以寻找与5月14日相关的活动。我将访问下一个学术报告页面。
+
+Action: visit_page
+Action Input: {"button": "下页"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 页面未找到，我需要返回上一页并尝试其他学术报告。我将访问“上页”按钮。
+
+Action: visit_page
+Action Input: {"button": "上页"}
+
+----- VisitPage -----
+Button not found: 上页
+
+----- WebWalker -----
+Thought: 上一页无法点击，我需要尝试其他学术报告按钮。我将访问“学术报告(Dr. Aniello Castiglione,2019.11.15，周五)”以查看是否有相关活动。
+
+Action: visit_page
+Action Input: {"button": "学术报告(Dr. Aniello Castiglione,2019.11.15，周五)"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机学院")
+| 
+      
+     
+    
+    
+     
+        
+    
+   
+   
+    
+!  >  >  > 正文 
+**意大利那不勒斯大学（****University of Naples Parthenope, Italy****）****Aniello Castiglione****博士学术报告通知**
+###  发布时间：2019-11-13文章来源：  浏览次数：1927
+**题目:** Can the IoT really improve our lives? A wearable and light-weight solution for our daily safety. 
+**时间 : **2019年11月15日（星期五）下午4:00-5:00 
+**地点 :** 广州大学行政西楼前座四楼428会议室
+**报告人 :**Aniello Castiglione博士、意大利那不勒斯大学（University of Naples Parthenope, Italy）
+**内容简介**
+The need of safety in our daily lives is increasingly important especially in some urban areas or suburbs where there are some social problems and unlawful activities often occur. Several solutions have been proposed and implemented to counteract such threats, such as video-surveillance camera, security staff people, public lighting and so on. But, as it is widely known, such safety precautions are not enough sometimes, especially due to the greatness of the cities and to the lack of economic resources for establishing such countermeasures. To this aim, several personal solutions have been proposed, ranging from pepper spray to self-defense courses. In addition, there also exist a kind of GPS mini-locator equipped with a button to be used to activate an emergency signal/call/message. The latter is recently implemented as a software solution within an app that runs on our mobile phones. Unfortunately, phones strictly depend on the power supplied by the battery and when the battery runs out of charge such security measures cannot be used. So, let’s see if the (so much appointed paradigm of) Internet of Things can help us. In fact, the idea of this talk is to propose the engineering of a wearable device that can fix the deficiencies of the above-mentioned solutions already present on the market. The main problems still in place within the existing solutions (e.g., Nimb, Blinq, mBand, Revolar) are the dependency from the mobile phone and the fact that cannot be easily concealed when it is needed to use them. In fact, all the actual solutions are wearable device that communicates with the mobile phone by means of a short-range low-power communication protocol (mainly Bluetooth 4.2 or 5.0) and let the mobile phone to propagate the emergency signal/call/messages. It is clear that if the mobile phone runs out of battery or if the phone is stolen, such solutions become completely useless. Furthermore, another problem affecting existing solutions is that sometimes it is not easy to hide the request of help because when using such kind of devices that are not so wearable. The talk will propose a solution that satisfies all the above-mentioned requirements and that really improve the security and safety of nowadays citizens. The technological components of the proposed solution are usually adopted in different devices and are some of the building blocks of the emerging IoT applications.
+**报告人简介**
+Aniello Castiglione, Aniello Castiglione received the PhD degree in Computer Science from the University of Salerno, Italy. Actually, he is Assistant Professor at the University of Naples "Parthenope", Italy. He received two Italian national qualifications as Associate Professor in Computer Science. He published around 210 papers in international journals and conferences. He served in the organization (mainly as Program Chair and TPC member) in around 260 international conferences. He served as a reviewer for around 110 international journals and was the Managing Editor of two ISI-ranked international journals. He acted as a Guest Editor in around 20 Special Issues and served as an Editor in around 10 Editorial Boards of international journals. IIn 2014, one of his paper (pub. on IEEE Transactions on Dependable and Secure Computing) has been selected as "Featured Article" in the "IEEE Cybersecurity Initiative", while in 2018 another paper (pub. on IEEE Cloud Computing) has been selected as "Featured Article" in the "IEEE Cloud Computing Initiative". According to the Web of Science "Essential Science Indicators" (by Clarivate Analytics), one of his paper (pub. on IEEE Transactions on Computers) was awarded as "Highly Cited Paper" and "Research Front" paper since it was placed in the top 1% of academic field of Computer Science in the time interval November-December 2017. His current research interests include Information Forensics, Digital Forensics, Security and Privacy on Cloud, Communication Networks, Applied Cryptography and Sustainable Computing. He is a member of several associations, including IEEE and ACM.
+;) )责任编辑：wxb 
+广州大学计算机科学与网络工程学院 地址：行政西楼前座424室  
+学院邮箱：jsj@gzhu.edu.cn 电话：020-39366375 邮编：510006  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>中文版<button>
+<button>ENGLISH<button>
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织架构<button>
+<button>新闻中心<button>
+<button>学院新闻<button>
+<button>学院通知<button>
+<button>学术新闻<button>
+<button>育人新篇<button>
+<button>学术科研<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>学术活动通知<button>
+<button>师资队伍<button>
+<button>院士专栏<button>
+<button>计算机科学与网络工程学院师资<button>
+<button>行政和教辅人员<button>
+<button>本科教育<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>特色实验班<button>
+<button>本科专业评估<button>
+<button>研究生教育<button>
+<button>硕导简介<button>
+<button>博导简介<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>招生专业目录<button>
+<button>招生考试信息<button>
+<button>学位点建设年度报告<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>表格下载<button>
+<button>联系我们<button>
+<button>招生就业<button>
+<button>招生工作<button>
+<button>就业服务<button>
+<button>党群工作<button>
+<button>规章制度<button>
+<button>工作动态<button>
+<button>实践教学<button>
+<button>实验室<button>
+<button>实践基地<button>
+<button>学科竞赛<button>
+
+----- WebWalker -----
+Thought: 我需要继续查找其他学术报告，以寻找与5月14日相关的活动。我将访问下一个学术报告页面。
+
+Action: visit_page
+Action Input: {"button": "下页"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 页面未找到，我需要返回上一页并尝试其他学术报告。我将访问“上页”按钮。
+
+Action: visit_page
+Action Input: {"button": "上页"}
+
+----- VisitPage -----
+Button not found: 上页
+
+----- WebWalker -----
+Thought: 上一页无法点击，我需要尝试其他学术报告按钮。我将访问“学术报告( Dr. Md Zakirul Alam Bhuiyan,2019.11.11,周一)”以查看是否有相关活动。
+
+Action: visit_page
+Action Input: {"button": "学术报告( Dr. Md Zakirul Alam Bhuiyan,2019.11.11,周一)"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机学院")
+| 
+      
+     
+    
+    
+     
+        
+    
+   
+   
+    
+!  >  >  > 正文 
+**美国福德汉姆大学（****Fordham University, USA****）****Md Zakirul Alam Bhuiyan****博士学术报告通知**
+###  发布时间：2019-11-10文章来源：  浏览次数：842
+**题目:** Leveraging Wi-Fi Signals for Human Identification and Activity Monitoring
+**时间 :** 2019年11月11日（星期一）上午11:00-12:00 
+**地点 :** 广州大学行政西楼前座四楼428会议室
+**报告人 :**Md Zakirul Alam Bhuiyan博士，美国福德汉姆大学（Fordham University, USA）
+**内容简介**
+Currently, wireless radio signals are omnipresent and are around us; some pass through us and some reflect off us. Tracking these signals gives the limit of ISM band radiometric detection to a new level, including our motion detection, gesture recognition, etc. In this talk, we will focus on answers to questions, without interrupting the data communication, how can radio signals be leveraged passively for various sensing tasks. For example, just raise your hand and finger-swipe into the air, your lights will power down; swipe your hand left-to-right, your TV channel will be changed; just tap your mobile screen to see your heartbeat. More importantly, can we imagine the signal features can also be leveraged to identify humans, which is, in other words, can be called biometric? These can be easily done through our smart device (such as phone, pad) or router device by their Wi-Fi signals from a remote place. These need no additional sensing devices. We will highlight our preliminary's work on how Wi-Fi can be utilized to identify humans and discuss some basic methods and challenges of how Wi-Fi signals are leveraged.
+**报告人简介**
+Md Zakirul Alam Bhuiyan, PhD (M'09-SM'17), is currently an Assistant Professor of the Department of Computer and Information Sciences at the Fordham University, NY, USA. the Founding Director of Fordham Dependable and Secure System Lab (DependSys). Earlier, he worked as an Assistant Professor at Temple University. His research focuses on dependability, cybersecurity, big data, and IoT/CPS Applications. His work (including 35+ JCR Q1 papers) in these areas published in top-tier venues, such as IEEE (TC, TPDS, TDSC, TII, COMMAG, IoT-J, T-ITS), ACM (TOSN, TAAS, CS), Elsevier (INF, INS, JSA, JNCA, FGCS, ACCESS), and so on. He has served as a guest/associate editor for IEEE (TII, TBD, TCC, IoT-J), ACM (TOMM, TCPS), Elsevier (INS, FGCS, JNCA, JPDC), and so on. Several works of Dr. Bhuiyan have been recognized as “ESI Highly Cited Papers” (since 2018) and two works have been recognized as the “Hot Papers” in the Computer Science field. He has received numerous awards, including the IEEE TCSC Early Career Researcher, the IEEE Outstanding Leadership Award, and IEEE Service Award. He has served as an organizer, general chair, program chair, workshop chair, and TPC member of various international conferences, including IEEE (INFOCOM, ICCCN, COMSAC). He is a senior member of IEEE and a member of ACM.
+;) )责任编辑：wxb 
+广州大学计算机科学与网络工程学院 地址：行政西楼前座424室  
+学院邮箱：jsj@gzhu.edu.cn 电话：020-39366375 邮编：510006  
+
+
+Clickable buttons are wrapped in <button> tag
+<button>中文版<button>
+<button>ENGLISH<button>
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织架构<button>
+<button>新闻中心<button>
+<button>学院新闻<button>
+<button>学院通知<button>
+<button>学术新闻<button>
+<button>育人新篇<button>
+<button>学术科研<button>
+<button>科研平台<button>
+<button>科研团队<button>
+<button>学术活动通知<button>
+<button>师资队伍<button>
+<button>院士专栏<button>
+<button>计算机科学与网络工程学院师资<button>
+<button>行政和教辅人员<button>
+<button>本科教育<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>特色实验班<button>
+<button>本科专业评估<button>
+<button>研究生教育<button>
+<button>硕导简介<button>
+<button>博导简介<button>
+<button>专业介绍<button>
+<button>培养方案<button>
+<button>招生专业目录<button>
+<button>招生考试信息<button>
+<button>学位点建设年度报告<button>
+<button>学生工作<button>
+<button>学工动态<button>
+<button>表格下载<button>
+<button>联系我们<button>
+<button>招生就业<button>
+<button>招生工作<button>
+<button>就业服务<button>
+<button>党群工作<button>
+<button>规章制度<button>
+<button>工作动态<button>
+<button>实践教学<button>
+<button>实验室<button>
+<button>实践基地<button>
+<button>学科竞赛<button>

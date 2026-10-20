@@ -1,0 +1,735 @@
+----- user -----
+query:
+新疆大学计算机科学与技术学院在2020新华三杯全国大学生数字技术大赛和2020华为中国区大学生ICT大赛的新疆赛区中，哪个比赛的结果更能体现学院的协同育人成果？
+official website:
+https://it.xju.edu.cn/
+Observation:website information:
+
+]( "计算机科学与技术学院")
+!
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+!
+!
+!
+!
+搜索
+学院要闻
+ ](
+ ](
+ ](
+ ](
+ ](
+学院要闻
+  * 2025.11.24
+  * 2025.11.17
+  * 2025.08.18
+  * 2025.05.28
+  * 2025.05.28
+通知公告
+            
+党建工作
+!
+2025-07-03
+!
+2025-06-16
+人才培养
+# 信息科学与工程学院本科专业人才培养目标达成评价实施办法
+信息科学与工程学院本科专业人才培养目标达成评价实施办法第一章 总则第一条 根据《教育部关于深化本科教育教学改革全面提高人才培养质量的意见》，为了深化信息科学与工程学院本科教育教学改革，推动高水平人才培养体系，推进学院各专业培养目标达成评价工作规范有序开展，提高人才培养质量，特制定本办法。第二章 责任机构与责任人第二条 学院成立培养目标达成评价工作组（以下简称工作组），负责组织培养目标达成评价工作的...
+ 2022.11.21
+# 通信工程2021版培养方案
+电子信息类（通信工程专业）人才培养方案学科门类：工学（08）专业类：电子信息类（0807） 通信工程专业（0807）一、培养目标本专业以马列主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观和习近平新时代中国特色社会主义思想为指导，坚持立德树人根本任务，培养适应国家发展战略、区域经济社会发展需求，德、智、体、美、劳全面发展，掌握现代通信系统、通信网络、信息传输系统等基本理论和系统实践等基础...
+ 2021.10.08
+# 电子信息工程2021版培养方案
+电子信息类（电子信息工程专业）人才培养方案学科门类：工学（08）专业类：电子信息类（0807） 电子信息工程专业（0807）一、培养目标本专业以马列主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观和习近平新时代中国特色社会主义思想为指导，坚持立德树人根本任务，培养适应国家发展战略、区域经济社会发展需求，德、智、体、美、劳全面发展，掌握信号的获取与处理、电子系统设计、计算机综合应用等基本...
+ 2021.10.08
+# 计算机学院-信息安全专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-网络空间安全专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-通信工程专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-计算机科学与技术专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-电子信息工程专业-2024版培养方案
+ 2025.02.19
+# 信息科学与工程学院本科专业人才培养目标合理性评价实施办法
+信息科学与工程学院本科专业人才培养目标合理性评价实施办法第一章 总则第一条 根据《教育部关于深化本科教育教学改革全面提高人才培养质量的意见》，为了深化信息科学与工程学院本科教育教学改革，推动高水平人才培养体系，推进学院各本科专业培养目标合理性评价工作规范有序开展，为专业培养目标修订提供依据，特制定本办法。第二章 责任机构与责任人第二条 学院成立培养目标合理性评价工作组（以下简称工作组），负责组织培...
+ 2022.11.28
+# 信息科学与工程学院本科专业人才培养目标达成评价实施办法
+信息科学与工程学院本科专业人才培养目标达成评价实施办法第一章 总则第一条 根据《教育部关于深化本科教育教学改革全面提高人才培养质量的意见》，为了深化信息科学与工程学院本科教育教学改革，推动高水平人才培养体系，推进学院各专业培养目标达成评价工作规范有序开展，提高人才培养质量，特制定本办法。第二章 责任机构与责任人第二条 学院成立培养目标达成评价工作组（以下简称工作组），负责组织培养目标达成评价工作的...
+ 2022.11.21
+# 通信工程2021版培养方案
+电子信息类（通信工程专业）人才培养方案学科门类：工学（08）专业类：电子信息类（0807） 通信工程专业（0807）一、培养目标本专业以马列主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观和习近平新时代中国特色社会主义思想为指导，坚持立德树人根本任务，培养适应国家发展战略、区域经济社会发展需求，德、智、体、美、劳全面发展，掌握现代通信系统、通信网络、信息传输系统等基本理论和系统实践等基础...
+ 2021.10.08
+# 电子信息工程2021版培养方案
+电子信息类（电子信息工程专业）人才培养方案学科门类：工学（08）专业类：电子信息类（0807） 电子信息工程专业（0807）一、培养目标本专业以马列主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观和习近平新时代中国特色社会主义思想为指导，坚持立德树人根本任务，培养适应国家发展战略、区域经济社会发展需求，德、智、体、美、劳全面发展，掌握信号的获取与处理、电子系统设计、计算机综合应用等基本...
+ 2021.10.08
+# 计算机学院-信息安全专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-网络空间安全专业-2024版培养方案
+ 2025.02.19
+# 计算机学院-通信工程专业-2024版培养方案
+ 2025.02.19
+123
+科学研究
+  
+学生活动
+实践教学
+01 / 00
+招聘就业
+!
+  * # 23
+2026.03
+  * # 05
+2024.09
+  * # 10
+2023.07
+合作交流
+招纳人才
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+!
+新大官网
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+clickable button:
+
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+<button>教育部丝路多语言认知计算国际合作联合实验室揭牌仪式成功举办<button>
+<button>第七届中国模式识别与计算机视觉大会（PRCV 2024）在乌鲁木齐成功举办<button>
+<button>喜报！计算机科学与技术学院钱育蓉教授团队荣获2024年度新疆维吾尔自治区数字化科学技术进步奖一等奖<button>
+<button>更多<button>
+<button>新疆大学电子信息工程专业喜迎工程教育认证进校考查<button>
+<button>以认证促发展 以培训强准备 —新疆大学电子信息工程专业工程教育认证入校检查筹备工作暨专业教师培训<button>
+<button>“2025年全国《通信原理》教学及通信新技术研讨会”在新疆大学召开<button>
+<button>新疆大学计算机科学与技术学院2024-2025年度科研实践总结暨2025-2026年度科研实践启动会<button>
+<button>新疆大学计算机学子喜获华为ICT大赛2024-2025全球总决赛三等奖两项！<button>
+<button>更多<button>
+<button>212026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生考试复试成绩及拟录取名单递补公示（一志愿考生）<button>
+<button>152026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生考试复试成绩及拟录取名单递补公示（调剂二批考生）（二）<button>
+<button>152026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生考试复试成绩及拟录取名单递补公示（调剂二批考生）<button>
+<button>152026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生考试复试成绩及拟录取名单公示（调剂二批考生）<button>
+<button>142026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生考试进入复试考生名单（调剂2批考生）<button>
+<button>132026.04新疆大学计算机科学与技术学院（网络空间安全学院）2026年硕士研究生招生调剂公告（二）<button>
+<button>更多<button>
+<button>“党旗映天山”主题党日活动2——“党建红”邂逅“生态绿”<button>
+<button>计算机科学与技术学院党委开展 “党旗映天山”主题党日活动<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>MORE<button>
+<button>更多<button>
+<button>182025.09丝路多语言认知计算国际合作联合实验室协同创新种子基金(开放课题)申请<button>
+<button>更多<button>
+<button>新疆大学计算机科学与技术学院（网络空间安全学院） 2026年科研助理岗位招聘公告<button>
+<button>2024年新疆维吾尔自治区重大科技专项科研助理招聘<button>
+<button>【科研助理招聘】新疆维吾尔自治区重点研发任务专项科研助理招聘（2）<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到关于2020新华三杯全国大学生数字技术大赛和2020华为中国区大学生ICT大赛新疆赛区的比赛结果，以比较哪个更能体现学院的协同育人成果。首先，我应该访问“人才培养”页面，然后查看是否有相关比赛的信息。
+
+Action: visit_page
+Action Input: {"button": "人才培养"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术学院")
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+人才培养
+                  
+人才培养
+当前位置:  >> 
+首页上页1下页尾页
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+
+----- WebWalker -----
+在“人才培养”页面中没有直接找到与2020新华三杯全国大学生数字技术大赛和2020华为中国区大学生ICT大赛新疆赛区相关的信息。我需要进一步探索，可能需要访问“学生活动”或“实践教学”页面来寻找比赛结果的相关信息。
+
+Action: visit_page
+Action Input: {"button": "学生活动"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术学院")
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+学生活动
+      
+学生活动
+当前位置:  >> 
+首页上页1下页尾页
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+
+----- WebWalker -----
+在“学生活动”页面中也没有直接找到与2020新华三杯全国大学生数字技术大赛和2020华为中国区大学生ICT大赛新疆赛区相关的信息。我需要进一步探索，可能需要访问“实践教学”或“教务动态”页面来寻找比赛结果的相关信息。
+
+Action: visit_page
+Action Input: {"button": "实践教学"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术学院")
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+实践教学
+                
+通信电子类专业实验室
+当前位置:  >>  >>  >> 
+  首页上页1下页尾页
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+<button>通信电子类专业实验室<button>
+<button>计算机专业实验室<button>
+<button>信息安全专业实验室<button>
+<button>公共教学实验室<button>
+<button>实践教学动态<button>
+<button>大学生竞赛动态<button>
+<button>协同育人<button>
+<button>电工电子实习电工电子实习基地简介： 新疆大学电工电子实习基地承担信息科学与工程学院电子信息类六个本科专业的电工电子实习和通信电信专业实习任务、以及物理学院材料专业及科学技术学院通信工程专业的电工电子实习任务，为保证本科实习教学的正常进行，中心对现有实习项目进行筛选、优化和完善，有效提升电子信息类专业本科学生专业基础知识和能力，为高年级专业学习打下坚实的基础。2013年11月被评为自治区级电工电子实验教学示...2025-09-28<button>
+
+----- WebWalker -----
+在“实践教学”页面中，发现了“大学生竞赛动态”和“协同育人”两个按钮，这可能是获取比赛结果信息的关键。我需要进一步点击这些按钮来查找相关信息。
+
+Action: visit_page
+Action Input: {"button": "大学生竞赛动态"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>
+<button>通信电子类专业实验室<button>
+<button>计算机专业实验室<button>
+<button>信息安全专业实验室<button>
+<button>公共教学实验室<button>
+<button>实践教学动态<button>
+<button>大学生竞赛动态<button>
+<button>协同育人<button>
+<button>电工电子实习<button>
+
+Thought: 
+“大学生竞赛动态”页面不存在，我需要尝试访问“协同育人”按钮来寻找相关信息。
+
+Action: visit_page
+Action Input: {"button": "协同育人"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+"协同育人"页面也不存在，我需要回到之前的页面，尝试其他可能的按钮来寻找与比赛结果相关的信息。例如，“教务动态”或“教学成果”页面可能会有相关信息。
+
+Action: visit_page
+Action Input: {"button": "教务动态"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+"教务动态"页面也不存在，我需要继续探索其他可能的页面。考虑到比赛结果通常会与“学生活动”或“教学成果”相关，我将尝试访问“教学成果”页面。
+
+Action: visit_page
+Action Input: {"button": "教学成果"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+"教学成果"页面也不存在，我需要继续探索其他可能的页面。考虑到比赛结果通常会与“学生活动”或“教务动态”相关，我将尝试访问“学工办”页面。
+
+Action: visit_page
+Action Input: {"button": "学工办"}
+
+----- VisitPage -----
+The web information is:
+
+]( "计算机科学与技术学院")
+!
+!
+          
+      
+       
+         
+          
+    
+    
+      
+          
+      
+       
+         
+          
+    
+    
+      
+!
+学生活动
+      
+学工办
+当前位置:  >>  >> 
+首页上页1下页尾页
+]( "计算机科学与技术学院")
+地址：新疆乌鲁木齐市水磨沟区华瑞街777号  
+电话：8582558 邮编：830046
+Copyright © 2024 新疆大学计算机科学与技术学院 版权所有 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学术委员会<button>
+<button>教学指导委员会<button>
+<button>学位分委员会<button>
+<button>党建工作<button>
+<button>组织建设<button>
+<button>党团发展<button>
+<button>理论学习<button>
+<button>标杆院系建设<button>
+<button>自治区高校双带头人工作室<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>教师名录<button>
+<button>教学名师<button>
+<button>教学能手<button>
+<button>研究生导师队伍<button>
+<button>创新团队<button>
+<button>科学研究<button>
+<button>计算机科学与技术一流学科<button>
+<button>信息与通信工程高原学科<button>
+<button>科研团队<button>
+<button>科学研究成果<button>
+<button>科学研究动态<button>
+<button>省部级实验室<button>
+<button>项目合作<button>
+<button>双一流建设<button>
+<button>人才培养<button>
+<button>本科培养<button>
+<button>硕士培养<button>
+<button>博士培养<button>
+<button>精品课程<button>
+<button>教学改革<button>
+<button>实践教学<button>
+<button>教学成果<button>
+<button>教务动态<button>
+<button>新疆大学创新实验室<button>
+<button>学生活动<button>
+<button>学工办<button>
+<button>团委<button>
+<button>学生会<button>
+<button>招聘就业<button>
+<button>人才引进公告<button>
+<button>本科生就业信息<button>
+<button>研究生就业信息<button>
+<button>博达论坛<button>
+<button>安全管理<button>
+<button>安全领导小组<button>
+<button>安全责任人<button>
+<button>实验室安全管理制度<button>

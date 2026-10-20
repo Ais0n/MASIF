@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0348_b219d097e8b0",
+  "source_index": 348,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在华南师范大学计算机学院2024年自学考试实践考核中，《计算机信息管理课程实验》的考试具体安排是什么时间和地点？",
+  "prompt": "在华南师范大学计算机学院2024年自学考试实践考核中，《计算机信息管理课程实验》的考试具体安排是什么时间和地点？",
+  "expected_answer": "2024年4月20日14:30-16:30，广州市天河区华南师范大学石牌校区计算机学院。",
+  "root_url": "http://cs.scnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.scnu.edu.cn/a/20240402/5689.html"
+    ],
+    "golden_path": [
+      "root->本科教育->新闻通知->2024-04-02关于我院2024年上半年自学考试实践考核考试通知"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 27.12,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0348_b219d097e8b0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0348_b219d097e8b0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

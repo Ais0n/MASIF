@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0395_02ba63b4a02d",
+  "source_index": 395,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "苏州大学计算机科学与技术学院钱忠在2018年发表了多少篇与事件事实性识别相关的论文？",
+  "prompt": "苏州大学计算机科学与技术学院钱忠在2018年发表了多少篇与事件事实性识别相关的论文？",
+  "expected_answer": "1篇",
+  "root_url": "https://scst.suda.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scst.suda.edu.cn/10/3d/c30768a528445/page.htm"
+    ],
+    "golden_path": [
+      "root->导师简介->副教授->钱忠副教授"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 4,
+  "tool_calls": 1,
+  "duration_seconds": 9.627,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0395_02ba63b4a02d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0395_02ba63b4a02d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

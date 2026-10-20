@@ -1,0 +1,47 @@
+{
+  "task_id": "webwalkerqa_0079_0e8e77f63b97",
+  "source_index": 79,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "On which day was the 5K Fun Run event held during the ICSE Conference 2002?",
+  "prompt": "On which day was the 5K Fun Run event held during the ICSE Conference 2002?",
+  "expected_answer": "May 23rd",
+  "root_url": "http://www.icse-conferences.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "http://www.icse-conferences.org/2002/travel/fiveKrun.html"
+    ],
+    "golden_path": [
+      "root->Orlando, Florida, USA->ICSE 5K Run"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The 5K Fun Run event was held on Thursday, May 23rd, 2002.",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer provides the correct date of May 23rd, matching the expected answer despite including additional context.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 4,
+  "duration_seconds": 48.977,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0079_0e8e77f63b97/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0079_0e8e77f63b97/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "The predicted answer provides the correct date of May 23rd, matching the expected answer despite including additional context.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0224_b3b3154fb399",
+  "source_index": 224,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "On what date was the inaugural event for the Asian & Pacific Islander Rioter Inclusion Group held during the AAPI Heritage Month celebrations at Riot, and what was the theme of AAPI Heritage Month 2022?",
+  "prompt": "On what date was the inaugural event for the Asian & Pacific Islander Rioter Inclusion Group held during the AAPI Heritage Month celebrations at Riot, and what was the theme of AAPI Heritage Month 2022?",
+  "expected_answer": "May 26, 2022, Advancing Leaders through Collaboration",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/news/asian-american-and-pacific-islander-heritage-month-recap"
+    ],
+    "golden_path": [
+      "root->Diversity & Inclusion->Asian American and Pacific Islander Heritage Month Recap"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 56.067,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0224_b3b3154fb399/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0224_b3b3154fb399/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

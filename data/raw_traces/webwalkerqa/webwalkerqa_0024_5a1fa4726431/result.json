@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0024_5a1fa4726431",
+  "source_index": 24,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When is the deadline to request an ancillary meeting at the 66th ASH Annual Meeting, and by what date must late-breaking abstract submissions be completed?",
+  "prompt": "When is the deadline to request an ancillary meeting at the 66th ASH Annual Meeting, and by what date must late-breaking abstract submissions be completed?",
+  "expected_answer": "The deadline to request an ancillary meeting at the 66th ASH Annual Meeting is November 22, 2024, and late-breaking abstract submissions must be completed by October 28, 2024.",
+  "root_url": "https://www.hematology.org/meetings/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.hematology.org/meetings/annual-meeting/ancillary-meetings",
+      "https://www.hematology.org/meetings/annual-meeting/abstracts/call-for-late-breaking-abstracts"
+    ],
+    "golden_path": [
+      "root->Ancillary Meeting Room Requests Open",
+      "root->Call for Late-Breaking Abstract Submissions"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 94.74,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0024_5a1fa4726431/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0024_5a1fa4726431/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,165 @@
+----- user -----
+query:
+How can a company contact the relevant person to quickly obtain terms for participating in ACR Convergence 2024 advertising campaigns?
+official website:
+https://rheumatology.org/annual-meeting
+Observation:website information:
+
+  
+Menu
+](
+Search
+  
+  * Clinical Tools & Guidelines
+  * Education & Careers
+  * Patient Resources
+  * Journals & Podcasts
+  * Advocacy & Policy
+  * Practice Support
+  * RISE Registry
+  * Membership
+  * Get Involved
+  * Annual Meeting
+  * Clinical Tools & Guidelines
+  * Education & Careers
+  * Patient Resources
+  * Journals & Podcasts
+  * Advocacy & Policy
+  * Practice Support
+  * RISE Registry
+  * Membership
+  * Get Involved
+  * Annual Meeting
+## Clinical Tools & Guidelines
+## 
+                                  
+## 
+      
+## 
+      
+## 
+  
+Looking to update your profile, access journals, or renew your membership? 
+Close
+# 
+ACR Convergence 2026:
+Call for Abstracts
+Submit your best science to the world's premier rheumatology event by June 9 at noon ET.
+ACR Convergence 2026, the world's premier rheumatology event, will be held November 6–11 in Orlando, Florida: Where Rheumatology Meets. We look forward to seeing you this fall!
+#### ACR Convergence 2026 News
+##### Call For Abstracts Now Open
+The submission site for general abstracts closes on **June 9, noon ET**.
+* * *
+##### Calls for Participation Now Open
+The calls for participation for the Knowledge Bowl, Thieves Market, Image Competition, Patient Perspectives Program, Global Rheumatology Summit, and Social Media Ambassador Program are now open. The submission deadline for these programs is **June 9, noon ET**.
+Attendees
+View important information for annual meeting attendees, including registration, travel, hotels, groups, and press registration.
+Program
+See annual meeting program information, including the Knowledge Bowl, Thieves Market, Image Competition, Patient Perspectives Program, and the Global Rheumatology Summit. 
+Abstracts
+See information about annual meeting abstracts, including abstract submission, presentation, embargo policies, and permissions and reprints. 
+Industry Engagement
+Explore opportunities to showcase your company's advancements in rheumatology during the world's premier rheumatology experience.
+## Need Help?
+If you have questions about ACR Convergence or need help, connect with our Help Desk staff for assistance.
+](
+The Rheumatology Research Foundation is one of the largest private funding sources for rheumatology research and training in the United States. (EIN 58-1654301)
+© 2026 American College of Rheumatology. All rights reserved.
+](
+We use cookies on our website to improve our service to you and for security purposes. By continuing to use our site without changing your browser cookie settings, you agree to our cookie policy and the use of cookies. 
+Accept
+
+
+clickable button:
+
+<button>View Abstract Submission Details<button>
+<button>See Abstracts Details and Submission Information →<button>
+<button>See Program Details and Submission Information →<button>
+<button>Attendees<button>
+<button>Program<button>
+<button>Abstracts<button>
+<button>Industry Engagement<button>
+<button>CME & Disclosures<button>
+<button>Contacts<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find information about how a company can contact the relevant person to obtain terms for participating in ACR Convergence 2024 advertising campaigns. The "Industry Engagement" button seems relevant, so I will click on it.
+
+Action: visit_page
+Action Input: {"button": "Industry Engagement"}
+
+----- VisitPage -----
+The web information is:
+
+  
+Menu
+](
+Search
+  
+  * Clinical Tools & Guidelines
+  * Education & Careers
+  * Patient Resources
+  * Journals & Podcasts
+  * Advocacy & Policy
+  * Practice Support
+  * RISE Registry
+  * Membership
+  * Get Involved
+  * Annual Meeting
+  * Clinical Tools & Guidelines
+  * Education & Careers
+  * Patient Resources
+  * Journals & Podcasts
+  * Advocacy & Policy
+  * Practice Support
+  * RISE Registry
+  * Membership
+  * Get Involved
+  * Annual Meeting
+## Clinical Tools & Guidelines
+## 
+                                  
+## 
+      
+## 
+      
+## 
+  
+# Annual Meeting Industry Engagement
+The ACR Convergence Exhibit Hall is where rheumatology meets to discover the latest advances in biotech, pharmaceuticals, imaging, devices, and services. It brings together attendees and exhibitors to discover, share, innovate. 
+### About ACR Convergence Industry Engagement
+**Save the date!** ACR Convergence 2026 will be held November 6–11 in Orlando, Florida: Where Rheumatology Meets.
+Exhibitor Information
+View information and tools to have a successful exhibiting experience, including exhibitor housing, registration, badge access, affiliate events, official vendors, and the service kit.
+Industry Supported Sessions
+Learn about the opportunity to reach a targeted & diverse group of rheumatologists & health professionals from around the world through industry supported sessions.
+Support & Advertising
+See opportunities to increase visibility during ACR Convergence with exclusive marketing and promotional opportunities.
+Affiliate Events
+See eligibility details and information for organizers of affiliate meetings and events to be held in conjunction with ACR Convergence.
+## Other Industry Engagement Opportunities
+](
+The Rheumatology Research Foundation is one of the largest private funding sources for rheumatology research and training in the United States. (EIN 58-1654301)
+© 2026 American College of Rheumatology. All rights reserved.
+](
+We use cookies on our website to improve our service to you and for security purposes. By continuing to use our site without changing your browser cookie settings, you agree to our cookie policy and the use of cookies. 
+Accept
+ACR Convergence Industry Engagement | American College of Rheumatology
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Exhibitor Information<button>
+<button>Industry Supported Sessions<button>
+<button>Support & Advertising<button>
+<button>Affiliate Events<button>
+
+----- WebWalker -----
+Memory:
+-The observation mentions 'Support & Advertising' as a section under Annual Meeting Industry Engagement, which provides opportunities to increase visibility during ACR Convergence with exclusive marketing and promotional opportunities. This suggests that companies can contact the relevant person through this section to obtain terms for participating in ACR Convergence 2024 advertising campaigns.
+"}
+
+----- WebWalker -----
+Final Answer: A company can contact the relevant person by reaching out through the 'Support & Advertising' section under Annual Meeting Industry Engagement to obtain terms for participating in ACR Convergence 2024 advertising campaigns.

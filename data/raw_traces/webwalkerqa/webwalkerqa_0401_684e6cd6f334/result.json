@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0401_684e6cd6f334",
+  "source_index": 401,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who are the candidates running for President and Executive Vice President in the SIGCHI 2024 elections, and when is their introduction meeting scheduled?",
+  "prompt": "Who are the candidates running for President and Executive Vice President in the SIGCHI 2024 elections, and when is their introduction meeting scheduled?",
+  "expected_answer": "The candidates for the President and Executive Vice President are Neha Kumar and Luigi De Russis, with their introduction scheduled for April 29, 2024, from 7:00 PM to 8:00 PM UTC.",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/events/meet-the-candidates-president-executive-vp1/"
+    ],
+    "golden_path": [
+      "root->Meetings->Past Meetings->Meet the Candidates: President/Executive VP #1Apr 30, 2024 - Apr 30, 2024Meet the President/Executive VP candidates: Neha Kumar/Luigi De Russis"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 7,
+  "duration_seconds": 106.555,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0401_684e6cd6f334/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0401_684e6cd6f334/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

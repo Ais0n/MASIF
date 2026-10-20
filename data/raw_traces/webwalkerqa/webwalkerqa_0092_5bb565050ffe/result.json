@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0092_5bb565050ffe",
+  "source_index": 92,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北汽集团在文教结合的活动中，哪位教师首次参与了援藏支教，并同时有哪些文化活动也在这个时段得到北汽的支持？",
+  "prompt": "北汽集团在文教结合的活动中，哪位教师首次参与了援藏支教，并同时有哪些文化活动也在这个时段得到北汽的支持？",
+  "expected_answer": "裘震首次参与援藏支教；同时，北汽支持了2023年“电影下乡”活动。",
+  "root_url": "https://www.baicgroup.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.baicgroup.com.cn/public-benefit-activities/34.84.html",
+      "https://www.baicgroup.com.cn/public-benefit-activities/34.1128.html"
+    ],
+    "golden_path": [
+      "root->集团公益活动->援藏再接力，北汽教师启程高原支教2021/10/28",
+      "root->集团公益活动->看，北汽开来了“电影大篷车”2023/07/26"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 39.824,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0092_5bb565050ffe/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0092_5bb565050ffe/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

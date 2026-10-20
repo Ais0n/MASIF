@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0428_cb3d24d530f7",
+  "source_index": 428,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年，信息科学技术学院通过哪些重要活动提升了学校在国内的声誉？",
+  "prompt": "2024年，信息科学技术学院通过哪些重要活动提升了学校在国内的声誉？",
+  "expected_answer": "参与广州联通的党建引领活动和在2024中国机器人大赛中的优异成绩。",
+  "root_url": "https://xxxy.jnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://xxxy.jnu.edu.cn/2024/1028/c27467a823968/page.htm",
+      "https://xxxy.jnu.edu.cn/2024/1111/c27467a824972/page.htm"
+    ],
+    "golden_path": [
+      "root->10-24党建引领 共创共赢 | 广州联通国企开放日，新一批暨大IT学子进入国家队",
+      "root->喜讯！我校学子在2024中国机器人大赛中斩获全国冠军、亚军、季军！2024-11-04"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "2024年，信息科学技术学院通过在人工智能国际顶级期刊《IEEE Transactions on Pattern Analysis and Machine Intelligence》（TPAMI）发表论文，提升了学校在国内的声誉。该论文由信息科学技术学院计算机科学系数据智能与脑机接口团队完成，吴汉瑞副教授为第一作者，龙锦益教授为通讯作者，相关研究工作得到了国家自然科学基金的支持。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 37.899,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0428_cb3d24d530f7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0428_cb3d24d530f7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

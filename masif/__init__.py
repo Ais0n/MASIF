@@ -1,0 +1,1 @@
+"""Minimal MASIF reproduction."""

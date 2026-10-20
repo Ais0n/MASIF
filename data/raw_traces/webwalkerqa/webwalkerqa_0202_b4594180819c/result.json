@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0202_b4594180819c",
+  "source_index": 202,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the date for the Fifth Youth Forum at Peking University's School of Computer Science for faculty job applicants who are shortlisted for an interview?",
+  "prompt": "What is the date for the Fifth Youth Forum at Peking University's School of Computer Science for faculty job applicants who are shortlisted for an interview?",
+  "expected_answer": "December 2-3, 2023.",
+  "root_url": "https://cs.pku.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.pku.edu.cn/info/1181/2650.htm"
+    ],
+    "golden_path": [
+      "root->English->Faculty Positions at School of Computer Science, Peking U...2023.09.14"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The Fifth Youth Forum at Peking University's School of Computer Science for faculty job applicants who are shortlisted for an interview is scheduled for Dec. 6-7, 2025.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 5,
+  "duration_seconds": 49.459,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0202_b4594180819c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0202_b4594180819c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted dates and year completely differ from the expected answer.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

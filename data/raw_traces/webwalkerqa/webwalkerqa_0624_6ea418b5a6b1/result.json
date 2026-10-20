@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0624_6ea418b5a6b1",
+  "source_index": 624,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What proposal related to the leaderboard structure and rewards for Illuvium Beyond was passed during the Illuvium DAO meetings in September and October 2024, and what specific changes were announced afterward?",
+  "prompt": "What proposal related to the leaderboard structure and rewards for Illuvium Beyond was passed during the Illuvium DAO meetings in September and October 2024, and what specific changes were announced afterward?",
+  "expected_answer": "IIP-69 proposed a new leaderboard structure and rewards for Illuvium Beyond, and in October, the Leaderboard Ranks were expanded with sales performance incentives.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-september-2024",
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-october-2024"
+    ],
+    "golden_path": [
+      "root->News->Illuvium Beyond - Your Next D1SK->Illuvium DAO Governance Newsletter - September 2024",
+      "root->News->Illuvium Beyond - Your Next D1SK->Illuvium DAO Governance Newsletter - October 2024"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 16,
+  "tool_calls": 7,
+  "duration_seconds": 14.186,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0624_6ea418b5a6b1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0624_6ea418b5a6b1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

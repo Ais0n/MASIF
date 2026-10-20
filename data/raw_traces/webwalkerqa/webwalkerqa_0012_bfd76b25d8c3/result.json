@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0012_bfd76b25d8c3",
+  "source_index": 12,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When is the paper submission deadline for the ACL 2025 Industry Track, and what is the venue address for the conference?",
+  "prompt": "When is the paper submission deadline for the ACL 2025 Industry Track, and what is the venue address for the conference?",
+  "expected_answer": "The paper submission deadline for the ACL 2025 Industry Track is March, 2025. The conference will be held in Bruno-Kreisky-Platz 1.",
+  "root_url": "https://2025.aclweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://2025.aclweb.org/calls/industry_track/",
+      "https://2025.aclweb.org/venue/"
+    ],
+    "golden_path": [
+      "root->call>student_research_workshop",
+      "root->venue"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The paper submission deadline for the ACL 2025 Industry Track is 21 March 2025. The venue address for the conference is not explicitly mentioned, but the main conference dates are 28-30 July 2025.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 18.728,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0012_bfd76b25d8c3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0012_bfd76b25d8c3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

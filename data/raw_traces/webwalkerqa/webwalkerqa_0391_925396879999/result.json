@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0391_925396879999",
+  "source_index": 391,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "浙江大学计算机学院施青松老师讲授“高级计算机系统结构”课程开始的日期是什么？",
+  "prompt": "浙江大学计算机学院施青松老师讲授“高级计算机系统结构”课程开始的日期是什么？",
+  "expected_answer": "2008年5月10日",
+  "root_url": "http://www.cs.zju.edu.cn/csen/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2008/0506/c26996a1202860/page.htm"
+    ],
+    "golden_path": [
+      "root->研究生教育->学位管理->08年春入学工程硕士（计算机技术专业）增补课程通知"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 45.76,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0391_925396879999/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0391_925396879999/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

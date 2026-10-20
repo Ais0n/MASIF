@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0445_4d3ec97c8da9",
+  "source_index": 445,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年中，周傲英教授和马晓光教授在四川大学计算机学院的学术讲座分别举办的具体时间是什么？",
+  "prompt": "2024年中，周傲英教授和马晓光教授在四川大学计算机学院的学术讲座分别举办的具体时间是什么？",
+  "expected_answer": "周傲英教授的报告时间是2024年6月24日15:00，马晓光教授的报告时间是2024年10月30日。",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1237/18466.htm",
+      "https://cs.scu.edu.cn/info/1237/18650.htm"
+    ],
+    "golden_path": [
+      "root->学术报告—人工智能时代，如何改造我们的学习？",
+      "root->东北大学马晓光教授到我院作学术报告"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 48.453,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0445_4d3ec97c8da9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0445_4d3ec97c8da9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

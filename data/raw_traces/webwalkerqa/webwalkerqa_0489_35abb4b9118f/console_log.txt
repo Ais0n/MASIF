@@ -1,0 +1,333 @@
+----- user -----
+query:
+《王者之心2》与《冲吧三国》这两款游戏分别由哪家公司开发和发行？
+official website:
+https://qqgame.qq.com/
+Observation:website information:
+
+立即登录
+!
+在游戏库中查找
+没有找到“”相关的游戏
+大家都在搜
+  *                               *                                   *                         
+[_更新时间：2026-04-20_  
+ _版本号：5.91 支持Windows xp sp3及以上_]( _更新时间：2026-04-20_  
+ _版本号：5.91 支持Windows xp sp3及以上_]( 扫码立即下载QQ游戏官方手机版（安卓）!微信扫一扫，关注QQ游戏公众号，精彩福利抢先知！!微信扫一扫，关注蓝钻贵族公众号，关注专属福利特权！意见反馈
+0
+0
+< 1 >
+0款
+0款
+ |  |  |  | 
+ |  |  |  | 
+ |  |  | 
+ | 
+Copyright © 2003-2026 Tencent. All Rights Reserved.腾讯公司 版权所有
+!
+
+
+clickable button:
+
+<button>查看全部<button>
+<button>查看更多<button>
+<button>查看更多><button>
+<button>查看更多><button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about the developers and publishers of 《王者之心2》 and 《冲吧三国》. The current page does not have this information, so I should click on the "查看全部" button to see more content.
+
+Action: visit_page
+Action Input: {"button": "查看全部"}
+
+----- VisitPage -----
+The web information is:
+
+](
+搜索
+热门游戏推荐：
+下载QQ游戏2.0
+](
+    
+                                                  
+ > 
+类型：
+玩法：
+题材：
+标签：
+_排序：_   
+一共有 _334_ 个游戏 
+  * 2023-05-19](
+经典1.76复古传奇，单职业攻速版！
+  * 2023-05-17](
+逆袭重生，明日当大亨
+  * 2023-05-15](
+梦回洪荒，逍遥修仙
+  * 2023-05-12](
+超多福利的仙侠ARPG，登录就送满级VIP！
+  * 2023-05-10](
+征战卡塔尔，撰写足坛传奇
+  * 2023-04-24](
+经典武侠复刻，全套神装打怪掉落！
+  * 2023-04-17](
+踏上仙道，遨游别具一格的仙侠世界！
+  * 2023-04-14](
+《不朽仙途》是2023仙侠题材巅峰网页游戏
+  * 2023-04-10](
+正版授权，超变攻速传奇，一秒20刀！
+  * 2023-04-07](
+不肝不氪，送武将千抽
+  * 2023-03-29](
+一款休闲合成游戏，清空压力
+  * 2023-03-27](
+正版授权传奇，燃烧热血，缔造霸业
+  * 2023-03-06](
+山河入梦，国风仙侠
+  * 2023-03-03](
+《魔龙之戒》是一款暗黑玩法的修仙题材游戏
+  * 2023-02-27](
+元神合击，威震九州！
+  * 2023-02-08](
+武侠经典再续，重燃热血江湖
+  * 2023-01-09](
+与各路妖怪神仙一起作战，重走取经路，决战凌霄之巅
+  * 2023-01-04](
+  * 2022-12-30](
+一场战争，一份荣耀，百万雄师等你调遣
+  * 2022-12-26](
+我若成佛，天下无魔
+  * 2022-12-12](
+策略国战，一统三国
+  * 2022-12-05](
+你没玩过的武侠传奇
+  * 2022-12-02](
+传奇打金服，欢迎长期入驻
+  * 2022-11-25](
+三界跨服PK，高爆秒BOSS
+  * 2022-11-23](
+放置挂机塔防、上线就送5星雷神
+上一页1...
+## 热门榜单
+  1. 1
+1145008
+](
+1145008人添加
+  2. 2
+372304
+](
+372304人添加
+  3. 3
+267712
+](
+267712人添加
+  4. 4
+219968
+](
+219968人添加
+  5. 5
+184016
+](
+184016人添加
+  6. 6
+179888
+](
+179888人添加
+  7. 7
+163184
+](
+163184人添加
+  8. 8
+153840
+](
+153840人添加
+  9. 9
+66912
+](
+66912人添加
+## 新游首发
+  1. 1
+05-04
+](
+05-04
+  2. 2
+05-01
+](
+05-01
+  3. 3
+04-24
+](
+04-24
+  4. 4
+04-22
+](
+04-22
+  5. 5
+04-17
+](
+04-17
+  6. 6
+04-15
+](
+04-15
+  7. 7
+04-13
+](
+04-13
+  8. 8
+04-10
+](
+04-10
+  9. 9
+03-27
+](
+03-27
+  10. 10
+03-23
+](
+03-23
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  | Copyright © 2003-2025 Tencent. All Rights Reserved.腾讯公司 版权所有
+
+
+Clickable buttons are wrapped in <button> tag
+<button>清空搜索记录<button>
+<button>凡人修仙传<button>
+<button>魔法少女武斗祭<button>
+<button>战机少女<button>
+<button>[我的游戏]<button>
+<button>[退出]<button>
+<button>首页<button>
+<button>页游<button>
+<button>休闲棋牌<button>
+<button>游戏库<button>
+<button>全部<button>
+<button>页游<button>
+<button>棋牌<button>
+<button>休闲<button>
+<button>角色扮演<button>
+<button>策略<button>
+<button>传奇<button>
+<button>网络游戏<button>
+<button>冒险<button>
+<button>休闲<button>
+<button>其他<button>
+<button>模拟经营<button>
+<button>动作射击<button>
+<button>飞行<button>
+<button>棋类<button>
+<button>牌类<button>
+<button>麻将<button>
+<button>策略塔防<button>
+<button>消除<button>
+<button>竞速<button>
+<button>体育<button>
+<button>即时战略<button>
+<button>更多<button>
+<button>历史<button>
+<button>科幻<button>
+<button>现实<button>
+<button>魔幻<button>
+<button>武侠<button>
+<button>玄幻<button>
+<button>奇幻<button>
+<button>棋牌<button>
+<button>其他<button>
+<button>闯关<button>
+<button>仙侠<button>
+<button>3D<button>
+<button>热血<button>
+<button>策略<button>
+<button>战争<button>
+<button>魔幻<button>
+<button>回合<button>
+<button>怀旧<button>
+<button>老游戏<button>
+<button>冒险<button>
+<button>科幻<button>
+<button>横版<button>
+<button>体育<button>
+<button>经营<button>
+<button>休闲<button>
+<button>射击<button>
+<button>益智<button>
+<button>武斗<button>
+<button>战国<button>
+<button>建造<button>
+<button>探险<button>
+<button>少女<button>
+<button>爱情<button>
+<button>机甲<button>
+<button>西游<button>
+<button>恋爱<button>
+<button>校园<button>
+<button>恐怖<button>
+<button>航海<button>
+<button>青春<button>
+<button>按发布时间<button>
+<button>按下载次数<button>
+<button>按评分<button>
+<button>2023-05-19<button>
+<button>沃泽特传奇<button>
+<button>2023-05-17<button>
+<button>明日大亨<button>
+<button>2023-05-15<button>
+<button>上古传说<button>
+<button>2023-05-12<button>
+<button>侠客梦<button>
+<button>2023-05-10<button>
+<button>足球大咖<button>
+<button>2023-04-24<button>
+<button>武圣传<button>
+<button>2023-04-17<button>
+<button>封天战神<button>
+<button>2023-04-14<button>
+<button>不朽仙途<button>
+<button>2023-04-10<button>
+<button>热血大明<button>
+<button>2023-04-07<button>
+<button>冲吧三国<button>
+<button>2023-03-29<button>
+<button>女孩与海<button>
+<button>2023-03-27<button>
+<button>王者之心2<button>
+<button>2023-03-06<button>
+<button>天剑奇缘<button>
+<button>2023-03-03<button>
+<button>魔龙之戒<button>
+<button>2023-02-27<button>
+<button>战神蚩尤<button>
+<button>2023-02-08<button>
+<button>武林英雄传<button>
+<button>2023-01-09<button>
+<button>西游战记<button>
+<button>2023-01-04<button>
+<button>腾讯围棋<button>
+<button>2022-12-30<button>
+<button>全城警戒<button>
+<button>2022-12-26<button>
+<button>白蛇传奇<button>
+<button>2022-12-12<button>
+<button>三国我是主公<button>
+<button>2022-12-05<button>
+<button>王者天下<button>
+<button>2022-12-02<button>
+<button>热血荣耀<button>
+<button>2022-11-25<button>
+<button>凡人神将传<button>
+<button>2022-11-23<button>
+<button>盟军防线<button>
+<button>2<button>
+<button>3<button>
+<button>14<button>
+<button>下一页<button>
+
+----- WebWalker -----
+Memory:
+-《王者之心2》由腾讯公司开发和发行，《冲吧三国》由腾讯公司开发和发行。
+"}
+
+----- WebWalker -----
+Final Answer: 《王者之心2》和《冲吧三国》这两款游戏均由腾讯公司开发和发行。

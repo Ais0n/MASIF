@@ -1,0 +1,47 @@
+{
+  "task_id": "webwalkerqa_0194_1a12826de0f0",
+  "source_index": 194,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "晏静之在西北师范大学期间获得了哪些学位？",
+  "prompt": "晏静之在西北师范大学期间获得了哪些学位？",
+  "expected_answer": "学士、硕士",
+  "root_url": "https://xxxy.lzu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132750.html"
+    ],
+    "golden_path": [
+      "root->教师队伍->晏静之"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "晏静之在西北师范大学期间获得了本科和硕士学位。",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\n  \"verdict\": \"match\",",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 5,
+  "duration_seconds": 39.37,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0194_1a12826de0f0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0194_1a12826de0f0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "{\n  \"verdict\": \"match\",",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

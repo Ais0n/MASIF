@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0594_42cf604e0bc9",
+  "source_index": 594,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who were the specific individuals recognized for pioneering technological advancements in GNSS integrity and high-accuracy navigation solutions through the Early Achievement Awards between 2014 and 2019?",
+  "prompt": "Who were the specific individuals recognized for pioneering technological advancements in GNSS integrity and high-accuracy navigation solutions through the Early Achievement Awards between 2014 and 2019?",
+  "expected_answer": "Dr. Mathieu Joerger (2014) and Dr. Ramsey Faragher (2019)",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/awards/2014-Early-Achievement.cfm",
+      "https://www.ion.org/awards/2019-Early-Achievement.cfm"
+    ],
+    "golden_path": [
+      "root->Awards and ION Fellows->Per Enge Early Achievement->Dr. Mathieu Joerger",
+      "root->Awards and ION Fellows->Per Enge Early Achievement->Dr. Ramsey Faragher"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 4,
+  "duration_seconds": 39.776,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0594_42cf604e0bc9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0594_42cf604e0bc9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

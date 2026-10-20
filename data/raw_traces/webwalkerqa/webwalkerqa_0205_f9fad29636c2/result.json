@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0205_f9fad29636c2",
+  "source_index": 205,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北汽集团早在2015年就与互联网公司滴滴快的签订了战略合作协议，该协议是在北京奔驰的国际化探讨解读之前的几天签署的，之间间隔多少天？",
+  "prompt": "北汽集团早在2015年就与互联网公司滴滴快的签订了战略合作协议，该协议是在北京奔驰的国际化探讨解读之前的几天签署的，之间间隔多少天？",
+  "expected_answer": "53天",
+  "root_url": "https://www.baicgroup.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.baicgroup.com.cn/news.html?page=32"
+    ],
+    "golden_path": [
+      "root->新闻简讯->32"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 39.328,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0205_f9fad29636c2/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0205_f9fad29636c2/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

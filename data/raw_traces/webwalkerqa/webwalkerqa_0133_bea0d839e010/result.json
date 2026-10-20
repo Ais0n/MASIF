@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0133_bea0d839e010",
+  "source_index": 133,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "华南理工大学计算机科学与工程学院网页中参与于“党建引领促发展，校企共建开新局”活动的数字广东公司外部顾问教授名字是什么？",
+  "prompt": "华南理工大学计算机科学与工程学院网页中参与于“党建引领促发展，校企共建开新局”活动的数字广东公司外部顾问教授名字是什么？",
+  "expected_answer": "钟竞辉",
+  "root_url": "http://www2.scut.edu.cn/cs/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www2.scut.edu.cn/cs/2024/1108/c22279a566983/page.htm"
+    ],
+    "golden_path": [
+      "root->党建引领促发展，校企共建开新局——计算机科学与工程学院与数字广东公司开展支部共建活动"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 153.91,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0133_bea0d839e010/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0133_bea0d839e010/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

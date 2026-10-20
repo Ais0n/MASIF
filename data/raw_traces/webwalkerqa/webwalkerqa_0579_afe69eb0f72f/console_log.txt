@@ -1,0 +1,967 @@
+----- user -----
+query:
+南京航空航天大学在2019年国家自然科学基金的申报中，校内联系人是谁，并需在何时提交建议书？
+official website:
+http://cs.nuaa.edu.cn/
+Observation:website information:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+热点新闻
+                  
+  * _04-30_
+  * _04-22_
+  * _04-21_
+  * _04-20_
+  * _04-19_
+  * _04-17_
+  * _04-03_
+公示
+  * _04-30_
+  *  _01-08_
+  *  _12-15_
+  *  _12-12_
+  * _12-12_
+  * _12-12_
+  * _12-11_
+  * _12-02_
+通知公告
+党委行政
+  * 12.15
+  * 11.26
+  * 06.17
+  * 06.15
+  * 06.04
+人事
+  * 05.12
+  * 03.06
+  * 12.25
+  * 12.11
+  * 12.11
+学科科研
+  * 04.20
+  * 04.12
+  * 04.10
+  * 01.02
+  * 12.27
+本科生培养
+  * 04.20
+  * 04.20
+  * 04.16
+  * 04.16
+  * 03.13
+研究生培养
+  * 04.28
+  * 03.26
+  * 03.24
+  * 03.23
+  * 03.09
+学生工作
+  * 11.28
+  * 11.26
+  * 11.04
+  * 06.27
+  * 06.27
+学术信息
+### Jan
+14
+题目：LLaDA：大语言模型新范式
+报告人：李崇轩
+时间： 1月14日 15:30
+地点：计算机学院505会议室
+### Dec
+15
+题目：面向 6G 网络的内生智能技术
+报告人：吴稳
+时间： 12月15日 9:00
+地点：1号楼9楼会议室
+### Dec
+10
+题目：具身概念对齐中的理论挑战
+报告人：于剑
+时间： 12月10日 15:00
+地点：计算机学院楼113会议室
+### Nov
+26
+题目：面向边缘的去中心化学习：迈向下一代智能系统
+报告人：苏宁馨
+时间： 11月26日 10:00-12:00
+地点：计算机学院楼505会议室
+### Oct
+28
+题目：人工智能大模型落地的六大要素
+报告人：潘毅
+时间： 10月28日 下午2:00-4:00
+地点：计算机学院楼507会议室
+### Oct
+24
+题目：Paraconsistency for the Working Software Engineer
+报告人：Luís Soares Barbosa
+时间： 10月24日 15:00
+地点：计算机学院楼505会议室
+ 新闻网 ](
+ 智慧校园 ](
+ 图书馆 ](
+ 电邮系统 ](
+ 班车时刻 ](
+ OA办公网 ](
+](
+](
+](
+](javascript:void\(0\))
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+clickable button:
+
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>校友与基金工作<button>
+<button>人才引进<button>
+<button>更多>><button>
+<button>工作动态 | 转发：第二届“信息杯”趣味羽毛球赛成功举办<button>
+<button>工作动态 | 学院召开2026年上半年全体教职工大会<button>
+<button>工作动态 | 学院举办“春风和煦润人心，携手奋进向新行”春分节...<button>
+<button>要闻丨抢抓新机遇 实干启新程 中共南京航空航天大学计算机科学...<button>
+<button>工作动态 | 守护 “睛” 彩视界，情暖教职工身心——学院“石榴微...<button>
+<button>工作动态 | 学院召开2026年高质量发展研讨会<button>
+<button>要闻 | 中国科学院院士周志华做客我校“问天科学讲坛”<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 2026全国高校软件工程教育大会...<button>
+<button>工作动态 | 学院召开2026年上半年全体教职...<button>
+<button>工作动态 | 系统谋划，精准发力：学院召开2...<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 学院举办“春风和煦润人心，携...<button>
+<button>更多>><button>
+<button>2025级“卓越工程师教育培养计划”专业 “...<button>
+<button>2025年度教职工考核结果公示<button>
+<button>预备党员转正公示<button>
+<button>院级第四季度教材编写人员政治审查公示<button>
+<button>计算机科学与技术学院2025-2026-2学期研究...<button>
+<button>计算机科学与技术学院/软件学院 2025-2026-...<button>
+<button>学院关于2025年准聘长聘体系教师岗位晋升拟...<button>
+<button>【评选公示】2024-2025学年教学优秀奖拟推...<button>
+<button>更多>><button>
+<button>MORE<button>
+<button>>预备党员转正公示<button>
+<button>>发展党员公示<button>
+<button>>预备党员转正公示<button>
+<button>>预备党员转正公示<button>
+<button>>发展党员公示<button>
+<button>MORE<button>
+<button>>学院诚聘海内外优秀人才<button>
+<button>>学院机关工作人员招聘启事<button>
+<button>>2025年度教职工考核工作安排<button>
+<button>>学院关于2025年准聘长聘体系教师岗位晋升拟...<button>
+<button>>2024年度教职工考核工作安排<button>
+<button>MORE<button>
+<button>>关于组织模式分析与机器智能工业和信息化部...<button>
+<button>>关于组织高安全系统的软件开发与验证技术工...<button>
+<button>>关于组织脑机智能技术教育部重点实验室2024...<button>
+<button>>关于开展第十八届中国青年科技奖候选人提名...<button>
+<button>>关于开展第二十届中国青年女科学家奖和第九...<button>
+<button>MORE<button>
+<button>>【毕业设计】2026届本科生毕业设计（论文）...<button>
+<button>>【毕业设计】关于做好2026届本科生毕业设计...<button>
+<button>>【创新班管理】2025级计算机科学与技术（拔...<button>
+<button>>【卓越计划】2025级“卓越工程师教育培养计...<button>
+<button>>【项目申报】2026年第一季度院级教材项目申...<button>
+<button>MORE<button>
+<button>>【导师】计算机科学与技术学院/软件学院202...<button>
+<button>>【博士答辩】李舒阳 博士答辩公告<button>
+<button>>【优博优硕】拟推荐申报2026年校优秀博士、...<button>
+<button>>【导师】2026年研究生导师招生资格补充公示<button>
+<button>>【博士答辩】滕美艳 博士答辩公告<button>
+<button>MORE<button>
+<button>>工作动态 | 六WEI空间：一场手绘明信片上的...<button>
+<button>>2025年秋季学期发展对象答辩会顺利举行<button>
+<button>>工作动态 | 学院举办“大事小情身边事，法...<button>
+<button>>工作动态 | 学院举办2025届本科毕业生最后...<button>
+<button>>工作动态 | 学院举办第二十期“山湖号”榜...<button>
+<button>【石榴大讲堂】LLaDA：大语言模型新范式<button>
+<button>【石榴大讲堂】面向 6G 网络的内生智能技术<button>
+<button>【石榴大讲堂】具身概念对齐中的理论挑战<button>
+<button>【石榴大讲堂】面向边缘的去中心化学习：迈...<button>
+<button>【石榴大讲堂】人工智能大模型落地的六大要...<button>
+<button>【石榴大讲堂】Paraconsistency for the Wo...<button>
+<button>更多>><button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about the contact person for the 2019 National Natural Science Foundation application and the submission deadline. Since the official website is provided, I will start by visiting the homepage and exploring relevant sections like "科学研究" (Scientific Research) or "通知公告" (Notifications and Announcements).
+
+Action: visit_page
+Action Input: {"button": "首页"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+热点新闻
+                  
+  * _04-30_
+  * _04-22_
+  * _04-21_
+  * _04-20_
+  * _04-19_
+  * _04-17_
+  * _04-03_
+公示
+  * _04-30_
+  *  _01-08_
+  *  _12-15_
+  *  _12-12_
+  * _12-12_
+  * _12-12_
+  * _12-11_
+  * _12-02_
+通知公告
+党委行政
+  * 12.15
+  * 11.26
+  * 06.17
+  * 06.15
+  * 06.04
+人事
+  * 05.12
+  * 03.06
+  * 12.25
+  * 12.11
+  * 12.11
+学科科研
+  * 04.20
+  * 04.12
+  * 04.10
+  * 01.02
+  * 12.27
+本科生培养
+  * 04.20
+  * 04.20
+  * 04.16
+  * 04.16
+  * 03.13
+研究生培养
+  * 04.28
+  * 03.26
+  * 03.24
+  * 03.23
+  * 03.09
+学生工作
+  * 11.28
+  * 11.26
+  * 11.04
+  * 06.27
+  * 06.27
+学术信息
+### Jan
+14
+题目：LLaDA：大语言模型新范式
+报告人：李崇轩
+时间： 1月14日 15:30
+地点：计算机学院505会议室
+### Dec
+15
+题目：面向 6G 网络的内生智能技术
+报告人：吴稳
+时间： 12月15日 9:00
+地点：1号楼9楼会议室
+### Dec
+10
+题目：具身概念对齐中的理论挑战
+报告人：于剑
+时间： 12月10日 15:00
+地点：计算机学院楼113会议室
+### Nov
+26
+题目：面向边缘的去中心化学习：迈向下一代智能系统
+报告人：苏宁馨
+时间： 11月26日 10:00-12:00
+地点：计算机学院楼505会议室
+### Oct
+28
+题目：人工智能大模型落地的六大要素
+报告人：潘毅
+时间： 10月28日 下午2:00-4:00
+地点：计算机学院楼507会议室
+### Oct
+24
+题目：Paraconsistency for the Working Software Engineer
+报告人：Luís Soares Barbosa
+时间： 10月24日 15:00
+地点：计算机学院楼505会议室
+ 新闻网 ](
+ 智慧校园 ](
+ 图书馆 ](
+ 电邮系统 ](
+ 班车时刻 ](
+ OA办公网 ](
+](
+](
+](
+](javascript:void\(0\))
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>校友与基金工作<button>
+<button>人才引进<button>
+<button>更多>><button>
+<button>工作动态 | 转发：第二届“信息杯”趣味羽毛球赛成功举办<button>
+<button>工作动态 | 学院召开2026年上半年全体教职工大会<button>
+<button>工作动态 | 学院举办“春风和煦润人心，携手奋进向新行”春分节...<button>
+<button>要闻丨抢抓新机遇 实干启新程 中共南京航空航天大学计算机科学...<button>
+<button>工作动态 | 守护 “睛” 彩视界，情暖教职工身心——学院“石榴微...<button>
+<button>工作动态 | 学院召开2026年高质量发展研讨会<button>
+<button>要闻 | 中国科学院院士周志华做客我校“问天科学讲坛”<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 2026全国高校软件工程教育大会...<button>
+<button>工作动态 | 学院召开2026年上半年全体教职...<button>
+<button>工作动态 | 系统谋划，精准发力：学院召开2...<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 学院举办“春风和煦润人心，携...<button>
+<button>更多>><button>
+<button>2025级“卓越工程师教育培养计划”专业 “...<button>
+<button>2025年度教职工考核结果公示<button>
+<button>预备党员转正公示<button>
+<button>院级第四季度教材编写人员政治审查公示<button>
+<button>计算机科学与技术学院2025-2026-2学期研究...<button>
+<button>计算机科学与技术学院/软件学院 2025-2026-...<button>
+<button>学院关于2025年准聘长聘体系教师岗位晋升拟...<button>
+<button>【评选公示】2024-2025学年教学优秀奖拟推...<button>
+<button>更多>><button>
+<button>MORE<button>
+<button>>预备党员转正公示<button>
+<button>>发展党员公示<button>
+<button>>预备党员转正公示<button>
+<button>>预备党员转正公示<button>
+<button>>发展党员公示<button>
+<button>MORE<button>
+<button>>学院诚聘海内外优秀人才<button>
+<button>>学院机关工作人员招聘启事<button>
+<button>>2025年度教职工考核工作安排<button>
+<button>>学院关于2025年准聘长聘体系教师岗位晋升拟...<button>
+<button>>2024年度教职工考核工作安排<button>
+<button>MORE<button>
+<button>>关于组织模式分析与机器智能工业和信息化部...<button>
+<button>>关于组织高安全系统的软件开发与验证技术工...<button>
+<button>>关于组织脑机智能技术教育部重点实验室2024...<button>
+<button>>关于开展第十八届中国青年科技奖候选人提名...<button>
+<button>>关于开展第二十届中国青年女科学家奖和第九...<button>
+<button>MORE<button>
+<button>>【毕业设计】2026届本科生毕业设计（论文）...<button>
+<button>>【毕业设计】关于做好2026届本科生毕业设计...<button>
+<button>>【创新班管理】2025级计算机科学与技术（拔...<button>
+<button>>【卓越计划】2025级“卓越工程师教育培养计...<button>
+<button>>【项目申报】2026年第一季度院级教材项目申...<button>
+<button>MORE<button>
+<button>>【导师】计算机科学与技术学院/软件学院202...<button>
+<button>>【博士答辩】李舒阳 博士答辩公告<button>
+<button>>【优博优硕】拟推荐申报2026年校优秀博士、...<button>
+<button>>【导师】2026年研究生导师招生资格补充公示<button>
+<button>>【博士答辩】滕美艳 博士答辩公告<button>
+<button>MORE<button>
+<button>>工作动态 | 六WEI空间：一场手绘明信片上的...<button>
+<button>>2025年秋季学期发展对象答辩会顺利举行<button>
+<button>>工作动态 | 学院举办“大事小情身边事，法...<button>
+<button>>工作动态 | 学院举办2025届本科毕业生最后...<button>
+<button>>工作动态 | 学院举办第二十期“山湖号”榜...<button>
+<button>【石榴大讲堂】LLaDA：大语言模型新范式<button>
+<button>【石榴大讲堂】面向 6G 网络的内生智能技术<button>
+<button>【石榴大讲堂】具身概念对齐中的理论挑战<button>
+<button>【石榴大讲堂】面向边缘的去中心化学习：迈...<button>
+<button>【石榴大讲堂】人工智能大模型落地的六大要...<button>
+<button>【石榴大讲堂】Paraconsistency for the Wo...<button>
+<button>更多>><button>
+
+----- WebWalker -----
+Thought: The homepage does not contain the required information. I should explore the "通知公告" (Notifications and Announcements) section to find any relevant information about the 2019 National Natural Science Foundation application. 
+
+Action: visit_page
+Action Input: {"button": "通知公告"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+### 学生工作
+            
+通知公告
+当前位置：
+  * 2024-03-20
+  * 2023-06-02
+  * 2023-04-30
+  * 2011-06-13
+  * 2011-05-12
+  * 2011-05-10
+  * 2011-04-11
+  * 2010-09-06
+  * 2010-03-03
+  * 2010-03-02
+  * 2010-03-01
+  * 每页  _14_ 记录  总共  _11_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>|-学生活动<button>
+<button>|-研究生会<button>
+<button>|-共青团<button>
+<button>|-学生党建<button>
+<button>|-获奖情况<button>
+<button>|-通知公告<button>
+<button>访企拓岗促就业 | 计算机学院赴华为技术有限公司开展访企拓岗促就业专项行动<button>
+<button>计算机学院举办第十期“六WEI空间”石榴午餐会<button>
+<button>计算机学院成立先进网络与通信技术纵向党支部<button>
+<button>计算机科学与技术学院第八期科创基金申报通知<button>
+<button>Ubuntu Natty Release Party 古都站（南京）——ubuntu推广及经验交流活动<button>
+<button>我院将与阿里巴巴集团合作举办程序设计竞赛<button>
+<button>校第六届程序设计大赛的通知<button>
+<button>2010年下半年三助岗位招聘通知<button>
+<button>关于举办“江苏软件杯”首届全国大学生软件设计大赛的通知<button>
+<button>三助岗位的申请通知<button>
+<button>关于信息科学与技术学院三助岗位需求的通知<button>
+
+----- WebWalker -----
+Thought: The "通知公告" section does not contain information about the 2019 National Natural Science Foundation application. I should explore the "科学研究" (Scientific Research) section, as it is likely to have relevant information about research projects and funding.
+
+Action: visit_page
+Action Input: {"button": "科学研究"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+### 常用下载
+                  
+科学研究
+当前位置：
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>|-安全工作<button>
+<button>|-人事工作<button>
+<button>|-本科生培养<button>
+<button>|-研究生培养<button>
+<button>|-科学研究<button>
+<button>|-学生工作<button>
+<button>|-党建群团<button>
+<button>|-校友工作<button>
+<button>|-学院Logo<button>
+
+----- WebWalker -----
+Thought: The "科学研究" section does not have direct information about the 2019 National Natural Science Foundation application. I should check the "科研动态" (Research Dynamics) section, as it may contain updates or announcements related to research projects and funding.
+
+Action: visit_page
+Action Input: {"button": "科研动态"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+### 科学研究
+    
+科研动态
+当前位置：
+  * 2024-04-10
+  * 2019-12-06
+  * 2019-12-04
+  * 2019-09-27
+  * 2019-09-27
+  * 2019-09-06
+  * 2019-09-06
+  * 2019-09-01
+  * 2019-09-01
+  * 2019-07-06
+  * 2019-07-05
+  * 2019-07-05
+  * 2019-07-01
+  * 2019-05-24
+  * 每页  _14_ 记录  总共  _174_ 记录 
+  * ;) ;)  
+  * 页码  _1_ /_13_ ;)
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>|-科研动态<button>
+<button>|-表格下载<button>
+<button>脑机智能技术教育部重点实验室2024年度开放课题申报通知<button>
+<button>【学术报告】Malicious Meter Detection in Smart Grids<button>
+<button>【学术报告】Web and Data Engineering Research at Swinburne<button>
+<button>【国基金申请通知】关于组织2020年度国家自然科学基金项目申请的通知<button>
+<button>【申报通知】关于组织申报2019年度国家自然科学基金委员会与欧洲核子研究中心合作研究项目的通知<button>
+<button>【申报通知】关于征集2020年国家科技计划项目牵头申报意向的通知<button>
+<button>【申报通知】国家自然科学基金委员会-中国国家铁路集团有限公司基础研究联合基金2019年度项目指南<button>
+<button>【申报通知】关于发布国家重点研发计划“战略性国际科技创新合作”重点专项2019年度联合研发与示范项目申报...<button>
+<button>【申报通知】2020年度国家自然科学基金委员会与英国皇家学会合作交流项目指南<button>
+<button>【参赛通知】中国（绵阳）科技城协同创新大赛组委会关于举办2019中国创新创业大赛技术融合专业赛（绵阳协同...<button>
+<button>【研讨会申请通知】2019年度国家自然科学基金委员会与英国文化协会双边研讨会项目指南<button>
+<button>【项目申报通知】关于组织申报国家重点研发计划2019年“制造基础技术与关键部件”等10个专项的通知<button>
+<button>【培育基金申报通知】关于申报2019年度杰出人才和重大成果培育基金项目的通知<button>
+<button>【申报通知】关于组织申报国家自然科学基金委“面向发动机的湍流燃烧基础研究”重大研究计划2019年度项目的...<button>
+<button>下一页>><button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: I found a relevant entry related to the 2019 National Natural Science Foundation application. The entry mentions "关于组织申报2019年度国家自然科学基金委员会与欧洲核子研究中心合作研究项目的通知" (Notice on Organizing the Application for the 2019 National Natural Science Foundation Committee and European Organization for Nuclear Research Joint Research Project). I need to visit this page to find the contact person and submission deadline.
+
+Action: visit_page
+Action Input: {"button": "【申报通知】关于组织申报2019年度国家自然科学基金委员会与欧洲核子研究中心合作研究项目的通知"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+### 科学研究
+    
+科研动态
+当前位置：
+### 【申报通知】关于组织申报2019年度国家自然科学基金委员会与欧洲核子研究中心合作研究项目的通知
+时间:2019-09-27作者:来源:计算机科学与技术学院点击:1136 次
+  
+各相关单位：
+国家自然科学基金委员会发布了《2019年度国家自然科学基金委员会与欧洲核子研究中心合作研究项目征集指南》（指南详见附件），请申请人按照项目指南要求申报，现将相关事项通知如下：
+**一、项目说明**
+1、资助领域：
+（1）CMS探测器升级研发；
+（2）ATLAS探测器升级研发；
+（3）LHCb探测器升级研发。
+以上合作领域的申请代码为 A050506，未按要求填写指定申请代码的申请书将不予受理。
+2、资助强度：拟资助3项以内，拟资助经费总计不超过4500万元。
+3、资助年限：实施周期为5年，执行期为2020年1月1日-2024年12月31日。
+4、限项规定：
+该合作研究项目属于组织间合作研究项目，申请人申请时须遵循以下限项规定：
+（1）申请人同年只能申请1项国际（地区）合作研究项目。
+（2）正在承担国际（地区）合作研究项目的负责人，不得作为申请人申请本项目。
+（3）作为项目申请人申请和作为负责人承担本项目，计入具有高级专业技术职务（职称）人员申请和正在承担项目总数限3项的范围（参与申请或者参与承担组织间合作研究项目除外）。
+**二、注意事项**
+1、申请人在填报申请书前，应当认真阅读本项目指南和《2019年度国家自然科学基金项目指南》中的相关内容，不符合项目指南和相关要求的项目申请不予受理。
+2、申请人须登录ISIS科学基金网络系统（），按照撰写提纲及相关要求填报《国家自然科学基金国际（地区）合作研究项目申请书》及上传相关附件。
+3、申请人须打印ISIS科学基金网络系统生成的申请书及附件PDF文件，经申请人签字后提交至科研院基础研究与国际科技合作办公室。
+附件：2019年度国家自然科学基金委员会与欧洲核子研究中心合作研究项目征集指南
+校内截止时间：2019年10月14日
+联系人：张小兰 
+联系电话：84892758
+!
+  
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>|-科研动态<button>
+<button>|-表格下载<button>
+<button>附件：2019年度国家自然科学基金委员会与欧洲核子研究中心合作研究项目征集指南.rar<button>
+
+----- WebWalker -----
+Memory:
+-南京航空航天大学在2019年国家自然科学基金申报中的校内联系人是张小兰，提交建议书的截止时间为2019年10月14日。
+"}
+
+----- WebWalker -----
+Final Answer: 南京航空航天大学在2019年国家自然科学基金申报中的校内联系人是张小兰，提交建议书的截止时间为2019年10月14日。

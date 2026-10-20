@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0616_027ec6797475",
+  "source_index": 616,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "虚幻引擎助力制作的独立冒险游戏《Omno》和奥斯卡获奖动画短片《战争结束了！》分别由哪位开发者和哪位导演制作?",
+  "prompt": "虚幻引擎助力制作的独立冒险游戏《Omno》和奥斯卡获奖动画短片《战争结束了！》分别由哪位开发者和哪位导演制作?",
+  "expected_answer": "Jonas Manke和戴夫?穆林斯",
+  "root_url": "https://www.unrealengine.com/zh-CN",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.unrealengine.com/zh-CN/feed?tags=omno",
+      "https://www.unrealengine.com/zh-CN/spotlights/academy-award-winning-animated-short-war-is-over-makes-unreal-engine-history"
+    ],
+    "golden_path": [
+      "root->独立游戏->独立开发者如何制作《Omno》->Omno",
+      "root->游戏->新闻->奥斯卡获奖动画短片《战争结束了！》创造了虚幻引擎历史"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 12.209,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0616_027ec6797475/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0616_027ec6797475/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

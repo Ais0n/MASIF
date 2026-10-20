@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0019_9bfee8973dcb",
+  "source_index": 19,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the target for international tourist arrivals in Peru for 2024?",
+  "prompt": "What is the target for international tourist arrivals in Peru for 2024?",
+  "expected_answer": "4.4 million",
+  "root_url": "https://www.apec.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.apec.org/press/news-releases/2024/ministers-safeguard-tourism-sector-s-role-as-driver-of-economic-growth"
+    ],
+    "golden_path": [
+      "root->APEC Tourism Ministers Issue Joint StatementUrubamba, Cusco, Peru, 09 June 2024->Ministers Safeguard Tourism Sector’s Role as Driver of Economic GrowthUrubamba, Cusco, Peru|09 June 2024Issued by the 12th APEC Tourism Ministerial Meeting"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 79.567,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0019_9bfee8973dcb/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0019_9bfee8973dcb/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

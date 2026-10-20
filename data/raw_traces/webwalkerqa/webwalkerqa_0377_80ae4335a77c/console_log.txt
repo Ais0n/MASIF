@@ -1,0 +1,795 @@
+----- user -----
+query:
+在2023年3月6日上午9:30至10:00之间，四川大学计算机学院哪些党支部书记在望江校区基础教学楼B307进行述职评议考核？
+official website:
+https://cs.scu.edu.cn/
+Observation:website information:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+  * !
+  * !
+  * ](
+  * !
+  * !
+  * !
+](
+  2026年4月30日，计算机学院（软件学院）2025年度新晋副高教师聘任仪式在四川大学望江校区基础教学楼B314隆重举行。校党委副书记、纪委书记...
+  2026年4月28日上午，IEEE Chengdu Section博士生与青年学者论坛系列首次活动——“AI智能体及其在科研中的应用”学术沙龙在四川大学望江校...
+## 
+  * 04-29
+  * 04-27
+  * 04-01
+  * 03-31
+  * 03-30
+  * 03-19
+  * 09-30
+  * 04-22
+## 
+  * 30 2026-04
+  * 24 2026-04
+  * 17 2026-04
+  * 17 2026-04
+  * 17 2026-04
+  * 11 2026-04
+## 
+  * 28 2025-05
+  * 26 2025-05
+  * 20 2024-11
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+clickable button:
+
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>初心如磐担使命，勇攀高峰启新程——我院举行新晋副...<button>
+<button>IEEE Chengdu Section学术沙龙“AI智能体及其在科研...<button>
+<button>计算机学院（软件学院）2026年上半年硕士研究生毕业论文答辩...<button>
+<button>四川大学计算机学院（软件学院）2026年 博士研究生招生拟录取...<button>
+<button>四川大学计算机学院（软件学院）诚邀全球英才依托申报2026年...<button>
+<button>四川大学计算机学院（软件学院）2026年硕士研究生拟录取名单...<button>
+<button>四川大学计算机学院（软件学院）2026年硕士研究生复试成绩公...<button>
+<button>计算机学院（软件学院） 2026年度硕士研究生招生复试通知<button>
+<button>四川大学计算机学院（软件学院、智能科学与技术学院）诚邀全...<button>
+<button>我院成功举办“砺思·智行”学术大讲堂活动<button>
+<button>四川大学2026年5月4日-5月10日学术讲座论坛及校园文化活动预告<button>
+<button>四川大学2026年4月27日-5月5日学术讲座论坛及校园文化活动预告<button>
+<button>第九届计算机信息科学与应用技术国际学术会议（CISAT 2026）会...<button>
+<button>四川大学2026年4月20日-4月26日学术讲座论坛及校园文化活动预告<button>
+<button>【“智汇川流”学术论坛第11期】人的行为分析和运动建模<button>
+<button>四川大学2026年4月13日-4月19日学术讲座论坛及校园文化活动预告<button>
+<button>计科之星雷宇——博学笃志，格物明德<button>
+<button>计科之星刘杰瑞——为者常成，行者常至<button>
+<button>计科之星郭可欣——逐梦字节，扬帆起航<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到与“述职评议考核”相关的页面，因此我应该首先访问“党建动态”按钮，因为该页面可能包含相关的信息。
+
+Action: visit_page
+Action Input: {"button": "党建动态"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+##  党建工作
+        
+ /  / 
+  * 2026-04-27
+  * 2026-04-27
+  * 2026-04-19
+  * 2026-03-31
+  * 2026-03-25
+  * 2026-03-21
+  * 2026-02-12
+  * 2026-01-29
+  * 2025-12-24
+  * 2025-12-10
+  * 2025-11-15
+  * 2025-11-10
+  * 2025-10-29
+  * 2025-10-14
+  * 2025-09-19
+  * 2025-09-15
+  * 2025-09-10
+  * 2025-09-03
+  * 2025-07-15
+  * 2025-07-15
+共231条 首页上页1... 1/12
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>学院举行党校第160期研究生积极分子集中培训班专题讲座<button>
+<button>学院举行党校第160期发展对象集中培训班开班典礼及专题讲座<button>
+<button>人事处张洪松处长一行到我院调研并开展学习教育督导<button>
+<button>学院党委理论学习中心组开展树立和践行正确政绩观学习教育专题读书班<button>
+<button>计算机学院（软件学院）召开党委理论中心组（扩大）学习会议<button>
+<button>计算机学院（软件学院）召开2026年春季新学期工作布置会<button>
+<button>学院开展2026年新春走访慰问活动<button>
+<button>学院召开党支部书记工作例会暨年终总结交流会<button>
+<button>学院召开党委理论中心组（扩大）学习会议<button>
+<button>学院召开中心组（扩大）学习会 暨学习贯彻党的二十届四中全会精神主题报告会<button>
+<button>学院党支部开展“砥砺初心、感悟时代、吸取力量”联合主题党日活动暨参观纪念邓小平同...<button>
+<button>学院召开党委理论中心组（扩大）学习会议 学习贯彻党的二十届四中全会精神<button>
+<button>学院组织离退休教职工开展重阳节欢聚活动<button>
+<button>学院开展党委理论学习中心组学习<button>
+<button>学院召开党委（扩大）会暨深入贯彻中央八项规定精神学习教育总结会<button>
+<button>学院召开2025年秋季新学期工作布置会暨师德师风专题教育会<button>
+<button>计算机学院（软件学院、智能科学与技术学院）第41个教师节获奖教师风采展<button>
+<button>我院组织收看纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会<button>
+<button>学院召开2025年春季学期工作总结会<button>
+<button>学院召开党委理论中心组（扩大）学习会议<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>12<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 在“党建动态”页面中，我注意到有一条关于“党支部书记工作例会暨年终总结交流会”的信息，这可能与述职评议考核相关。我需要进一步查看该条目的详细内容。
+
+Action: visit_page
+Action Input: {"button": "学院召开党支部书记工作例会暨年终总结交流会"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+ /  /  / 正文 
+## 学院召开党支部书记工作例会暨年终总结交流会
+日期：2026-01-29 来源：  作者： 浏览：
+2026年1月28日，学院党支部书记工作例会暨年终总结交流会在基础教学楼B314召开。学院党员领导干部、全体党支部书记参加会议，会议由学院党委副书记黎红友主持。
+!
+为进一步提升党支部书记的业务能力和履职水平，会议第一阶段邀请经济学院经济系党支部书记余澳作经验交流。余澳同志结合经济系党支部建设的特色做法和实际案例，分享了在强化政治引领、促进党建与业务深度融合、激发支部活力等方面的宝贵经验和创新举措，为与会人员提供了有益借鉴。随后，邀请校党委组织部副部长苏德强作指导。苏德强围绕新时代党的建设总要求，结合学校党建工作实际，对学院基层党支部如何更好发挥战斗堡垒作用、提升组织力、规范党员发展与管理等工作进行了深入细致的指导。
+!
+交流发言环节，学院党建组织员、支部书记郝清华作交流发言。郝清华同志结合自身工作经历和支部建设实践，分享了作为支部书记的体会与思考。
+最后，学院党委书记卢莉作总结发言。卢莉对过去一年各党支部的工作给予了充分肯定，强调了党支部在学院事业发展中的重要作用。她要求全体党支部书记要进一步提高政治站位，强化责任担当，将培训交流的收获转化为推动工作的实际成效，不断提升党支部标准化规范化建设水平，特别是党支部要加强品牌活动建设和党支部工作方法凝练，以高质量党建引领学院高质量发展。
+会议第二阶段，党委书记卢莉向与会人员介绍学院“十五五”规划。卢莉从发展基础、形势分析、总体思路、重点任务和重点措施等方面，对学院“十五五”时期事业发展的初步规划进行了详细解读，并强调了党建工作在规划实施中的引领保障作用，引导各支部围绕中心工作谋划未来发展。
+会议最后，党委副书记黎红友就近期需要关注的重点工作进行了工作提醒，对寒假期间及下学期初的相关工作安排作了部署。
+  
+计算机学院（软件学院）
+2026年1月29日
+  
+上一条：
+下一条：
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>学院开展2026年新春走访慰问活动<button>
+<button>学院召开党委理论中心组（扩大）学习会议<button>
+
+----- WebWalker -----
+Thought: 该页面详细描述了党支部书记工作例会的情况，但并未提及2023年3月6日的述职评议考核信息。我需要继续查找其他可能相关的页面。
+
+Action: visit_page
+Action Input: {"button": "动态与公告"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+##  学生工作
+            
+ /  / 
+  * 2026-04-22
+  * 2026-04-16
+  * 2026-03-16
+  * 2025-12-31
+  * 2025-12-22
+  * 2025-11-13
+  * 2025-11-10
+  * 2025-10-27
+  * 2025-09-30
+  * 2025-09-15
+  * 2025-09-05
+  * 2025-09-01
+  * 2025-08-13
+  * 2025-06-23
+  * 2025-06-17
+  * 2025-05-06
+  * 2025-04-14
+  * 2025-03-24
+  * 2025-03-13
+  * 2025-03-11
+共259条 首页上页1... 1/13
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>我院成功举办“砺思·智行”学术大讲堂活动<button>
+<button>计算机学院（软件学院）多形式开展国家安全教育日主题活动<button>
+<button>研途聚力,复试攻坚:学院本科2022级考研复试经验分享会圆满举行<button>
+<button>四川大学计算机学院积极开展“迎新年·齐劳动·展新颜”校园卫生集中清扫活动<button>
+<button>厚植专业根基，勇担时代先锋 ——学院院长思政课顺利开展<button>
+<button>声动江安，风采绽放 计算机学院代表队在合唱比赛中荣获三等奖<button>
+<button>计算机学院“青锋学长寝室行” ——朋辈引航助力新生成长活动顺利开展<button>
+<button>四川大学学子在四川省大学生围棋比赛荣获团体冠军<button>
+<button>青山埋忠骨 鲜花寄哀思 ——计算机学院举行祭英烈活动<button>
+<button>计算机学院（软件学院、智能科学与技术学院）2025级本科生开学典礼隆重举行<button>
+<button>编译青春，链接未来——计算机学院2025级迎新工作顺利开展<button>
+<button>2025年全国大学生物联网设计竞赛折桂 计算机学院学子斩获两项国家级一等奖<button>
+<button>我校学子在第6届 CCF算法精英大赛决赛中斩获佳绩<button>
+<button>四川大学计算机学院（软件学院、智能科学与技术学院）隆重举行2025届本科生毕业典礼暨...<button>
+<button>学院召开2025年就业工作专题会<button>
+<button>我院本科生雷宇荣登《人民日报》国家奖学金代表名录<button>
+<button>“漆彩流风”漆扇体验活动成功举办<button>
+<button>人工智能的哲学起源及研究进展——计算机学院学术大讲堂成功举办<button>
+<button>计算机学院2025年第一期实验室Open day活动圆满举行<button>
+<button>整序架间经纬，守护册页春秋——四川大学计算机学院志愿者开展图书馆志愿服务<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>13<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 在“动态与公告”页面中，我注意到有一条关于“计算机学院（软件学院）多形式开展国家安全教育日主题活动”的信息，但该信息的日期是2026年4月16日，与问题中的时间不符。我需要继续查找其他可能相关的页面。
+
+Action: visit_page
+Action Input: {"button": "党建动态"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+##  党建工作
+        
+ /  / 
+  * 2026-04-27
+  * 2026-04-27
+  * 2026-04-19
+  * 2026-03-31
+  * 2026-03-25
+  * 2026-03-21
+  * 2026-02-12
+  * 2026-01-29
+  * 2025-12-24
+  * 2025-12-10
+  * 2025-11-15
+  * 2025-11-10
+  * 2025-10-29
+  * 2025-10-14
+  * 2025-09-19
+  * 2025-09-15
+  * 2025-09-10
+  * 2025-09-03
+  * 2025-07-15
+  * 2025-07-15
+共231条 首页上页1... 1/12
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>学院举行党校第160期研究生积极分子集中培训班专题讲座<button>
+<button>学院举行党校第160期发展对象集中培训班开班典礼及专题讲座<button>
+<button>人事处张洪松处长一行到我院调研并开展学习教育督导<button>
+<button>学院党委理论学习中心组开展树立和践行正确政绩观学习教育专题读书班<button>
+<button>计算机学院（软件学院）召开党委理论中心组（扩大）学习会议<button>
+<button>计算机学院（软件学院）召开2026年春季新学期工作布置会<button>
+<button>学院开展2026年新春走访慰问活动<button>
+<button>学院召开党支部书记工作例会暨年终总结交流会<button>
+<button>学院召开党委理论中心组（扩大）学习会议<button>
+<button>学院召开中心组（扩大）学习会 暨学习贯彻党的二十届四中全会精神主题报告会<button>
+<button>学院党支部开展“砥砺初心、感悟时代、吸取力量”联合主题党日活动暨参观纪念邓小平同...<button>
+<button>学院召开党委理论中心组（扩大）学习会议 学习贯彻党的二十届四中全会精神<button>
+<button>学院组织离退休教职工开展重阳节欢聚活动<button>
+<button>学院开展党委理论学习中心组学习<button>
+<button>学院召开党委（扩大）会暨深入贯彻中央八项规定精神学习教育总结会<button>
+<button>学院召开2025年秋季新学期工作布置会暨师德师风专题教育会<button>
+<button>计算机学院（软件学院、智能科学与技术学院）第41个教师节获奖教师风采展<button>
+<button>我院组织收看纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会<button>
+<button>学院召开2025年春季学期工作总结会<button>
+<button>学院召开党委理论中心组（扩大）学习会议<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>12<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 在“党建动态”页面中，我注意到有一条关于“学院召开党支部书记工作例会暨年终总结交流会”的信息，该会议日期为2026年1月29日，与问题中的时间不符。我需要继续查找其他可能相关的页面。
+
+Action: visit_page
+Action Input: {"button": "理论学习"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 访问“理论学习”按钮导致页面未找到，我需要返回上一页并尝试其他可能的按钮。
+
+Action: visit_page
+Action Input: {"button": "党建动态"}
+
+----- VisitPage -----
+The web information is:
+
+|   |  
+| --- |  
+|  **系统提示** 您访问的页面未找到， 5秒后自动跳转到首页  |
+
+
+Clickable buttons are wrapped in <button> tag
+
+----- WebWalker -----
+Thought: 访问“党建动态”页面时出现错误，可能是由于页面路径或链接问题。我需要尝试其他相关按钮，如“党建工作”或“纪检工作”，以寻找与述职评议考核相关的详细信息。
+
+Action: visit_page
+Action Input: {"button": "党建工作"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+##  党建工作
+        
+ / 
+  * 2026-04-27
+  * 2026-04-27
+  * 2026-04-19
+  * 2026-03-31
+  * 2026-03-25
+  * 2026-03-21
+  * 2026-03-21
+  * 2026-02-12
+  * 2026-02-12
+  * 2026-01-29
+  * 2026-01-28
+  * 2025-12-24
+  * 2025-12-10
+  * 2025-11-15
+  * 2025-11-10
+  * 2025-11-01
+  * 2025-10-29
+  * 2025-10-14
+  * 2025-09-19
+  * 2025-09-15
+共450条 首页上页1... 1/23
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>学院举行党校第160期研究生积极分子集中培训班专题讲座<button>
+<button>学院举行党校第160期发展对象集中培训班开班典礼及专题讲座<button>
+<button>人事处张洪松处长一行到我院调研并开展学习教育督导<button>
+<button>学院党委理论学习中心组开展树立和践行正确政绩观学习教育专题读书班<button>
+<button>计算机学院（软件学院）召开党委理论中心组（扩大）学习会议<button>
+<button>计算机学院（软件学院）召开2026年春季新学期工作布置会<button>
+<button>计算机学院（软件学院）组织全院教职工开展2026年春游活动<button>
+<button>学院开展2026年新春走访慰问活动<button>
+<button>学院开展2026年新春走访慰问活动<button>
+<button>学院召开党支部书记工作例会暨年终总结交流会<button>
+<button>我院举办“马跃新程，同心致远”2026年新春喜乐会系列活动<button>
+<button>学院召开党委理论中心组（扩大）学习会议<button>
+<button>学院召开中心组（扩大）学习会 暨学习贯彻党的二十届四中全会精神主题报告会<button>
+<button>学院党支部开展“砥砺初心、感悟时代、吸取力量”联合主题党日活动暨参观纪念邓小平同...<button>
+<button>学院召开党委理论中心组（扩大）学习会议 学习贯彻党的二十届四中全会精神<button>
+<button>我院在2025年度教职工运动会上再获佳绩<button>
+<button>学院组织离退休教职工开展重阳节欢聚活动<button>
+<button>学院开展党委理论学习中心组学习<button>
+<button>学院召开党委（扩大）会暨深入贯彻中央八项规定精神学习教育总结会<button>
+<button>学院召开2025年秋季新学期工作布置会暨师德师风专题教育会<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>23<button>
+<button>下页<button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 在“党建工作”页面中，我注意到有一条关于“学院召开党支部书记工作例会暨年终总结交流会”的信息，该会议日期为2026年1月29日，与问题中的时间不符。我需要继续查找其他可能相关的页面。
+
+Action: visit_page
+Action Input: {"button": "纪检工作"}
+
+----- VisitPage -----
+The web information is:
+
+ 
+欢迎访问四川大学计算机学院官方网站！
+]( "计算机学院")
+                                                                                                                                                    
+!
+##  党建工作
+        
+ /  / 
+  * 2024-11-26
+  * 2023-04-25
+  * 2022-06-09
+  * 2022-06-04
+  * 2022-05-31
+  * 2022-05-13
+  * 2022-04-13
+  * 2022-04-12
+  * 2022-04-02
+  * 2022-02-10
+  * 2022-01-31
+  * 2022-01-28
+  * 2021-12-30
+  * 2021-12-16
+  * 2021-11-18
+  * 2021-11-15
+  * 2021-10-15
+  * 2021-10-15
+  * 2021-09-24
+  * 2021-08-13
+共176条 首页上页1... 1/9
+!
+（望江校区）成都市一环路南一段24号基础教学楼B座三楼 邮编：610065 电话：86-028-85469688
+（江安校区）成都市双流县川大路第二基础教学楼B座五楼 邮编：610207 电话：86-028-85990972
+四川大学计算机学院版权所有 © 2020
+
+
+Clickable buttons are wrapped in <button> tag
+<button>学院首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>学院领导<button>
+<button>组织机构<button>
+<button>学科建设<button>
+<button>党建工作<button>
+<button>党建动态<button>
+<button>理论学习<button>
+<button>纪检工作<button>
+<button>教代会、工会<button>
+<button>师资队伍<button>
+<button>名师风采<button>
+<button>计算机科学系<button>
+<button>计算机工程系<button>
+<button>人工智能系<button>
+<button>软件工程系<button>
+<button>图象图形与软件工程所<button>
+<button>高性能计算中心<button>
+<button>基教中心<button>
+<button>创新中心<button>
+<button>人事工作<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>成果展示<button>
+<button>相关政策<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>学术交流与合作<button>
+<button>学术看板<button>
+<button>对外交流<button>
+<button>来华留学<button>
+<button>学生工作<button>
+<button>动态与公告<button>
+<button>学生风采<button>
+<button>管理制度<button>
+<button>思政教育<button>
+<button>资料下载<button>
+<button>联系我们<button>
+<button>中共四川大学第九届委员会第三轮巡视第二巡视组向计算机学院（软件学院、智能科学与技...<button>
+<button>教育部公开曝光第十二批7起违反教师职业行为十项准则典型案例<button>
+<button>中国海关出版社有限公司原党委委员、副经理张静涛被开除党籍和公职<button>
+<button>中国工商银行湖南省分行原党委书记、行长张恪理被开除党籍<button>
+<button>宁夏回族自治区政协原党组成员、副主席李泽峰严重违纪违法受到留党察看一年、政务撤职处分<button>
+<button>江西省人大常委会原党组成员、副主任，省总工会原主席龚建华严重违纪违法被开除党籍和公职<button>
+<button>学院召开党委理论学习中心组学习<button>
+<button>教育部公开曝光第九批7起违反教师职业行为十项准则典型案例<button>
+<button>学党史 树新风 勤鉴省 立清廉 从珍贵党史材料领悟“自我革命”精神要义<button>
+<button>云南通报4起违规配备使用公务用车问题<button>
+<button>广西通报4起党员干部参赌涉赌典型案例<button>
+<button>辽宁通报5起违反中央八项规定精神典型案例<button>
+<button>广西通报5起违反中央八项规定精神典型问题<button>
+<button>成都通报5起损害营商环境问题<button>
+<button>四川省宜宾市人大常委会党组成员、副主任刘岗接受纪律审查和监察调查<button>
+<button>四川省雅安市委原常委、组织部部长卿刚接受纪律审查和监察调查<button>
+<button>中国疾控中心地方病控制中心原副主任、哈医大附属第一医院原院长周晋接受审查调查<button>
+<button>西藏自治区阿里地委原书记朱中奎接受纪律审查和监察调查<button>
+<button>西藏自治区教育厅原党组成员、副厅长陆世成接受纪律审查和监察调查<button>
+<button>交通运输部长江口航道管理局原党委副书记、局长冯俊接受审查调查<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>9<button>
+<button>下页<button>
+<button>尾页<button>

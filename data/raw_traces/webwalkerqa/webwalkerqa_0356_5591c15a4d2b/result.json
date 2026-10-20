@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0356_5591c15a4d2b",
+  "source_index": 356,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024饥荒双版豪华包包含哪些DLC，并且这些DLC的个别推荐率是多少？",
+  "prompt": "2024饥荒双版豪华包包含哪些DLC，并且这些DLC的个别推荐率是多少？",
+  "expected_answer": "暂无推荐率(正式阶段的有效评测数量少于50条，不足以生成客观的推荐率)",
+  "root_url": "https://www.wegame.com.cn/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.wegame.com.cn/store/2002099"
+    ],
+    "golden_path": [
+      "root->商店->1饥荒：联机版¥24->2024饥荒双版豪华包"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 45.635,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0356_5591c15a4d2b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0356_5591c15a4d2b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

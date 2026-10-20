@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0180_a3d9d8df4730",
+  "source_index": 180,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在甘肃省首届核工业机器人大赛中，一共有哪些单位或者机构的参赛队伍参与了比赛，并行使评委职责的两院院士有哪些？",
+  "prompt": "在甘肃省首届核工业机器人大赛中，一共有哪些单位或者机构的参赛队伍参与了比赛，并行使评委职责的两院院士有哪些？",
+  "expected_answer": "参赛单位包括来自上海交通大学、哈尔滨工业大学、兰州大学、中国科学院光电技术研究所等高校、科研院所以及企业，共有64支队伍参赛。评委由谭建荣、陈学东、刘胜等多位两院院士组成。",
+  "root_url": "https://xxxy.lzu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://xxxy.lzu.edu.cn/xueyuanxinwen/xuesheng/2024/1111/288254.html"
+    ],
+    "golden_path": [
+      "root->信息科学与工程学院在甘肃省首届核工业机器人大赛中获得佳绩"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 35.338,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0180_a3d9d8df4730/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0180_a3d9d8df4730/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

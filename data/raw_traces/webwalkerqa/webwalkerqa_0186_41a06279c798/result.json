@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0186_41a06279c798",
+  "source_index": 186,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "空间信息与数字技术本科专业从哪一年开始正式纳入高考招生计划？",
+  "prompt": "空间信息与数字技术本科专业从哪一年开始正式纳入高考招生计划？",
+  "expected_answer": "2013年",
+  "root_url": "https://cs.cug.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.cug.edu.cn/bkspy/kjxxyszjs.htm"
+    ],
+    "golden_path": [
+      "root->空间信息与数字技术"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 72.792,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0186_41a06279c798/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0186_41a06279c798/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

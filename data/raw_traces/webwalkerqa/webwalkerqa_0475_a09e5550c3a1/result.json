@@ -1,0 +1,50 @@
+{
+  "task_id": "webwalkerqa_0475_a09e5550c3a1",
+  "source_index": 475,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What is the deadline for applying for the subsidies offered for travel and accommodation for financially constrained individuals intending to attend workshops at ACL 2023, and when are these workshops scheduled?",
+  "prompt": "What is the deadline for applying for the subsidies offered for travel and accommodation for financially constrained individuals intending to attend workshops at ACL 2023, and when are these workshops scheduled?",
+  "expected_answer": "The deadline to apply for subsidies is May 31, 2023. The workshops are scheduled for July 13-14, 2023.",
+  "root_url": "https://2023.aclweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://2023.aclweb.org/calls/subsidies/",
+      "https://2023.aclweb.org/program/workshops/"
+    ],
+    "golden_path": [
+      "root->Call for Diversity and Inclusion Subsidies",
+      "root->List of Workshops"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The deadline for applying for the subsidies is May 31, 2023. The workshops are scheduled for July 13-14, 2023.",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer provides the exact same factual information as the expected answer with slightly different wording.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer provides the exact same factual information as the expected answer with slightly different wording.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 77.271,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0475_a09e5550c3a1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0475_a09e5550c3a1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

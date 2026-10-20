@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0657_507d3feda8af",
+  "source_index": 657,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "是哪位在2009年12月3日下午指导了西华大学数学与计算机学院的新生座谈会，并介绍了学院学生工作的机制？",
+  "prompt": "是哪位在2009年12月3日下午指导了西华大学数学与计算机学院的新生座谈会，并介绍了学院学生工作的机制？",
+  "expected_answer": "毛正强",
+  "root_url": "https://cs.xhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xhu.edu.cn/46/fc/c10303a214780/page.htm"
+    ],
+    "golden_path": [
+      "root->招生就业资讯->尾页->数学与计算机学院举行新生座谈会"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "2009年12月3日下午指导西华大学数学与计算机学院新生座谈会并介绍学院学生工作机制的领导是伊良忠，当时他担任院长。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 5,
+  "duration_seconds": 43.377,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0657_507d3feda8af/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0657_507d3feda8af/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

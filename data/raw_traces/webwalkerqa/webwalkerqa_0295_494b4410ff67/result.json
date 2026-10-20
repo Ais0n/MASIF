@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0295_494b4410ff67",
+  "source_index": 295,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年4月25日前， 兰州理工大学计算机与通信学院曹明华教授作为第1发明人的授权国家发明专利数是多少？",
+  "prompt": "在2024年4月25日前， 兰州理工大学计算机与通信学院曹明华教授作为第1发明人的授权国家发明专利数是多少？",
+  "expected_answer": "4项",
+  "root_url": "https://jitong.lut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jitong.lut.edu.cn/info/1308/8588.htm"
+    ],
+    "golden_path": [
+      "root->博士生导师->曹明华"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 7.357,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0295_494b4410ff67/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0295_494b4410ff67/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

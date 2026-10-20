@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0434_e41ace7f8c3d",
+  "source_index": 434,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In ACL 2023, who are the Tutorial Chairs and Main Conference Chairs?",
+  "prompt": "In ACL 2023, who are the Tutorial Chairs and Main Conference Chairs?",
+  "expected_answer": "Tutorial Chairs: Yun-Nung (Vivian) Chen, Margot Mieskes, Siva Reddy; Main Conference Chairs: Jordan Lee Boyd-Graber, Naoaki Okazaki, Anna Rogers",
+  "root_url": "https://2023.aclweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://2023.aclweb.org/calls/tutorials/",
+      "https://2023.aclweb.org/calls/main_conference/"
+    ],
+    "golden_path": [
+      "root->Call for Tutorial Proposals",
+      "root->Call for Main Conference Papers"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The Tutorial Chairs for ACL 2023 are from National Taiwan University (Taiwan) - yvchen@csie.ntu.edu.tw, University of Applied Sciences, Darmstadt (Germany) - margot.mieskes@h-da.de, and McGill University and Mila (Canada) - siva.reddy@mila.quebec. The Main Conference Chairs are from University of Maryland (USA) - jbg@umiacs.umd.edu, Tokyo Institute of Technology (Japan) - okazaki@c.titech.ac.jp, and IT University of Copenhagen (Denmark) - arog@itu.dk.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 20.938,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0434_e41ace7f8c3d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0434_e41ace7f8c3d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

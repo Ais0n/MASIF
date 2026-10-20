@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0077_d53244292a83",
+  "source_index": 77,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年1月27日，哪些Steam实验是活跃的？",
+  "prompt": "在2024年1月27日，哪些Steam实验是活跃的？",
+  "expected_answer": "015 DLC For You",
+  "root_url": "https://store.steampowered.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://store.steampowered.com/labs/?snr=1_4_4__12"
+    ],
+    "golden_path": [
+      "root->Labs"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 124.232,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0077_d53244292a83/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0077_d53244292a83/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

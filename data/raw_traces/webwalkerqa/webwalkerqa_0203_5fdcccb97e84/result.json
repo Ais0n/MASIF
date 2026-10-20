@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0203_5fdcccb97e84",
+  "source_index": 203,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In which month of 2019 did Riot Games hold the General Manager Summit as part of its diversity and inclusion strategy, and how many managers participated?",
+  "prompt": "In which month of 2019 did Riot Games hold the General Manager Summit as part of its diversity and inclusion strategy, and how many managers participated?",
+  "expected_answer": "Over 600 managers participated in the summit in January 2019.",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/news/Feb2019-DIRC-Update"
+    ],
+    "golden_path": [
+      "root->Diversity & Inclusion->Update on Diversity, Inclusion, & Riot Culture"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 53.429,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0203_5fdcccb97e84/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0203_5fdcccb97e84/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

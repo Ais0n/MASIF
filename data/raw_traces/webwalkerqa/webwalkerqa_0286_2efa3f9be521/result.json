@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0286_2efa3f9be521",
+  "source_index": 286,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Under what condition did Riot Games commit to allowing new Rioters to opt out of arbitration for individual sexual harassment claims in May 2019?",
+  "prompt": "Under what condition did Riot Games commit to allowing new Rioters to opt out of arbitration for individual sexual harassment claims in May 2019?",
+  "expected_answer": "When the active litigation concludes.",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/news/announcing-new-forums-for-d-i-collaboration"
+    ],
+    "golden_path": [
+      "root->Diversity & Inclusion->Announcing New Forums for D&I Collaboration"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "Riot Games committed to allowing new Rioters to opt out of arbitration for individual sexual harassment claims in May 2019 if they sent a written notice to Riot Games, Inc.'s Legal Department within 30 days of accepting the Terms of Service.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 7,
+  "duration_seconds": 62.275,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0286_2efa3f9be521/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0286_2efa3f9be521/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

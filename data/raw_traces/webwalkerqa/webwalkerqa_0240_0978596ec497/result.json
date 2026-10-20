@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0240_0978596ec497",
+  "source_index": 240,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年上海大学计算机工程与科学学院硕士研究生招生进入复试阶段的名单中，总分最高的考生的准考证号是多少？",
+  "prompt": "在2024年上海大学计算机工程与科学学院硕士研究生招生进入复试阶段的名单中，总分最高的考生的准考证号是多少？",
+  "expected_answer": "102804240006026",
+  "root_url": "https://cs.shu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.shu.edu.cn/info/1202/21584.htm"
+    ],
+    "golden_path": [
+      "root->招生工作->2024年上海大学计算机工程与科学学院硕士研究生统一招生进入复试阶段名单"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 16.872,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0240_0978596ec497/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0240_0978596ec497/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

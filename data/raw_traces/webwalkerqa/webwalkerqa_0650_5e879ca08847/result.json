@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0650_5e879ca08847",
+  "source_index": 650,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "哈尔滨工程大学计算机学院赴西安多所高校调研，哪一位教授在研讨交流中强调了以“大学科”建设思路推动学科整体发展？",
+  "prompt": "哈尔滨工程大学计算机学院赴西安多所高校调研，哪一位教授在研讨交流中强调了以“大学科”建设思路推动学科整体发展？",
+  "expected_answer": "彭进业",
+  "root_url": "http://cstc.hrbeu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cstc.hrbeu.edu.cn/2023/0311/c12613a304695/page.htm"
+    ],
+    "golden_path": [
+      "root->教学研讨->计算机学院赴西安多所高校调研2023-03-11"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 40.754,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0650_5e879ca08847/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0650_5e879ca08847/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

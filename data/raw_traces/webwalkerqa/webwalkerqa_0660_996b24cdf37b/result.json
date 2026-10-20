@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0660_996b24cdf37b",
+  "source_index": 660,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "湖南工业大学计算机学院的党委副书记和在第19届杭州亚运会桥牌项目中担任技术官员的分别是谁？",
+  "prompt": "湖南工业大学计算机学院的党委副书记和在第19届杭州亚运会桥牌项目中担任技术官员的分别是谁？",
+  "expected_answer": "李燕林和曾志浩",
+  "root_url": "https://computer.hut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hut.edu.cn/info/1004/1004.htm",
+      "https://computer.hut.edu.cn/info/1127/7099.htm"
+    ],
+    "golden_path": [
+      "root->领导成员->副书记：李燕林",
+      "root->师德师风->我院教师助力亚运"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 42.384,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0660_996b24cdf37b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0660_996b24cdf37b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

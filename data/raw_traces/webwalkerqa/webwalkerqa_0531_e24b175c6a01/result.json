@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0531_e24b175c6a01",
+  "source_index": 531,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "请问2022年安徽大学计算机科学与技术学院信息技术英才班的面试是在选拔考试后几天进行的？",
+  "prompt": "请问2022年安徽大学计算机科学与技术学院信息技术英才班的面试是在选拔考试后几天进行的？",
+  "expected_answer": "2天",
+  "root_url": "https://cs.ahu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.ahu.edu.cn/2022/0829/c10982a291719/page.htm",
+      "https://cs.ahu.edu.cn/2022/0823/c10982a291314/page.htm"
+    ],
+    "golden_path": [
+      "root->教学通知-><<上一页->2022年计算机科学与技术学院“信息技术英才班”面试通知",
+      "root->教学通知-><<上一页->2022年计算机科学与技术学院“信息技术英才班”选拔考试安排"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 21,
+  "tool_calls": 8,
+  "duration_seconds": 52.185,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0531_e24b175c6a01/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0531_e24b175c6a01/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0655_adb7d1ab7695",
+  "source_index": 655,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "浙江大学计算机学院举办Raj Reddy教授的圆桌座谈会具体日期是什么？该座谈中，哪位教授围绕AI2.0的新概念进行了概述？",
+  "prompt": "浙江大学计算机学院举办Raj Reddy教授的圆桌座谈会具体日期是什么？该座谈中，哪位教授围绕AI2.0的新概念进行了概述？",
+  "expected_answer": "座谈会日期是2017年6月16日，AI2.0发展内容是由吴飞教授分享的。",
+  "root_url": "http://www.cs.zju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2017/0619/c27029a1296307/page.htm"
+    ],
+    "golden_path": [
+      "root->首页->学术讲座->图领奖得主Raj Reddy教授与我院师生座谈"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 50.204,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0655_adb7d1ab7695/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0655_adb7d1ab7695/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

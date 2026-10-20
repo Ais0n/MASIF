@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0424_4421a3756023",
+  "source_index": 424,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023年计算机与信息工程学院（人工智能学院）更名的动因和学院首次成立的时间分别是什么？",
+  "prompt": "2023年计算机与信息工程学院（人工智能学院）更名的动因和学院首次成立的时间分别是什么？",
+  "expected_answer": "学院更名动因是高质量发展，首次成立于1994年。",
+  "root_url": "https://cise.njtech.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cise.njtech.edu.cn/info/1056/7271.htm",
+      "https://cise.njtech.edu.cn/xygk/xyjj.htm"
+    ],
+    "golden_path": [
+      "root->热烈祝贺我院更名为计算机与信息工程学院（人工智能学院）",
+      "root->学院简介"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "2023年计算机与信息工程学院（人工智能学院）更名的动因是学校学部制改革以及学科发展的需要。学院首次成立的时间是1994年，当时名为南京化工学院的自动化与计算机系。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 21.347,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0424_4421a3756023/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0424_4421a3756023/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0525_951a1eb5f4a0",
+  "source_index": 525,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "湖南科技大学计算机科学与工程学院有哪些举措在2024年帮助学生应对考研和就业的挑战？",
+  "prompt": "湖南科技大学计算机科学与工程学院有哪些举措在2024年帮助学生应对考研和就业的挑战？",
+  "expected_answer": "考研慰问活动和2024届毕业生就业工作推进会。",
+  "root_url": "https://computer.hnust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hnust.edu.cn/xyxw/bc5b729cdff841cfbbe7895463a7de6a.htm",
+      "https://computer.hnust.edu.cn/xyxw/5838e90a69814da09ea1f0a6e1c52892.htm"
+    ],
+    "golden_path": [
+      "root->本科生培养->隆冬送暖，笑逐“研”开——我院开展考研慰问活动",
+      "root->本科生培养->我院成功召开2024届毕业生就业工作推进会"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "湖南科技大学计算机科学与工程学院在2024年为帮助学生应对考研和就业的挑战采取了以下举措：1. 举办第二期简历问诊面对面问诊咨询，帮助学生提升求职技能；2. 组织“密码技术”专题交流会，拓展学生专业知识；3. 联合其他学院举办毕业生秋季联合专场招聘会，为学生提供更多就业机会；4. 开展国家级奖学金优秀典型经验分享会，激励学生积极备考和提升自我。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 18.592,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0525_951a1eb5f4a0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0525_951a1eb5f4a0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0056_7ffda9d6be8c",
+  "source_index": 56,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在安徽师范大学的2024年，2021级计算机科学与技术专业班级参赛优秀成果和郑孝遥教授的科研论文之间，两者各自取得的国家级成果是什么？",
+  "prompt": "在安徽师范大学的2024年，2021级计算机科学与技术专业班级参赛优秀成果和郑孝遥教授的科研论文之间，两者各自取得的国家级成果是什么？",
+  "expected_answer": "全国计算机设计大赛一等奖和IEEE Transactions on Services Computing论文录用",
+  "root_url": "https://ci.ahnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://ci.ahnu.edu.cn/info/1138/12976.htm",
+      "https://ci.ahnu.edu.cn/info/1141/12816.htm"
+    ],
+    "golden_path": [
+      "root->学院首页->【校“十佳班集体”护航风采展】计算机科学与技术专业2021级1班：领航·助航·伴...[2024-11-14]",
+      "root->学院首页->【学科振兴计划】计信学院郑孝遥教授等人“Lighter Sequential Recommendation Algorithm with Time Interval Awareness Augmentation”论文被计算机软件工程/系统软件领域权威期刊IEEE Transactions on Services Computing录用[2024-11-07]"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 102.106,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0056_7ffda9d6be8c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0056_7ffda9d6be8c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

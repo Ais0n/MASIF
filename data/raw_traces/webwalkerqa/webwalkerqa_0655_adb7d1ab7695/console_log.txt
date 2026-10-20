@@ -1,0 +1,648 @@
+----- user -----
+query:
+浙江大学计算机学院举办Raj Reddy教授的圆桌座谈会具体日期是什么？该座谈中，哪位教授围绕AI2.0的新概念进行了概述？
+official website:
+http://www.cs.zju.edu.cn/
+Observation:website information:
+
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+](
+  
+杭州 · 浙江大学玉泉校区曹光彪大楼
+电话：+86-571-87953025
+传真：+86-571-87951250
+Copyright@ 2025 浙江大学计算机科学与技术学院
+!
+
+
+clickable button:
+
+<button>中文网<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the specific date of the roundtable discussion with Professor Raj Reddy and identify which professor gave an overview of the AI2.0 concept. The first step is to visit the Chinese version of the official website.
+
+Action: visit_page
+Action Input: {"button": "中文网"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                              
+    
+### 导航
+                                                                                              
+### 快速通道
+    
+<
+  * ](
+第二届中国计算机学会大学校长论坛在浙江大学举行
+  * ](
+祝贺！我院唐华锦、杨易教授新当选IEEE Fellow！
+  * ](
+浙江大学超算队荣获 SC25-IndySCC 国际大学生超级计算机竞赛冠军
+  * ](
+全球首台！浙大“悟空”出世！
+  * ](
+第二届中国计算机学会大学校长论坛在浙江大学举行
+  * ](
+祝贺！我院唐华锦、杨易教授新当选IEEE Fellow！
+>
+    * 01
+    * 02
+    * 03
+    * 04
+ 
+     
+  
+ 
+     
+ 
+](
+地址：浙江大学玉泉校区曹光彪大楼
+电话：0571-87953025
+传真：0571-87951250
+!
+学院微信
+Copyright © 2025 浙江大学计算机学院 版权所有 新版网站试运行中，如您发现问题可反馈至hgzly@zju.edu.cn，谢谢您的关注！
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院情总览<button>
+<button>学院概况<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>学院大事记<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>研究生导师<button>
+<button>教师名录<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>招生信息<button>
+<button>就业工作<button>
+<button>校园生活<button>
+<button>国际合作<button>
+<button>交流动态<button>
+<button>学术讲座<button>
+<button>学生交流<button>
+<button>发展联络<button>
+<button>中心概况<button>
+<button>校友工作<button>
+<button>捐赠<button>
+<button>继续教育<button>
+<button>学科竞赛<button>
+<button>学院工会<button>
+<button>联系我们<button>
+<button>中文网<button>
+<button>新闻动态<button>
+<button>查看更多+<button>
+<button>2026-04-09计算机学院2026年度科研经费使用规范暨求是导师学校培训会顺利召开4月8日，计算机科学与技术学院2026年度科研经费使用规范暨求是导师学校培训会在玉泉校区邵逸夫科学馆顺利召开。学院教师、科研秘书、财务助理及本科生班主任、研究生德育导师等159余人参加会议。学院党委书记胡昱东主持会议。胡昱东传达了学校有关会议精神，对学院落实《关于加强学生集体关怀工作的若干意见》的实施方案作了详细解读，并对网络安全、学生关心关爱工作作出进一步强调和部署。董玮副院长系统汇报了本科教学工作，对...<button>
+<button>2026-04-27香港科技大学代表团访问浙江大学计算机学院2026年4月25日，香港科技大学计算机科学与工程系系主任周晓方教授率代表团一行访问浙江大学计算机科学与技术学院。双方围绕本科课程体系改革、生成式人工智能时代的教育创新以及本博贯通联合培养等议题展开深度交流，并就全面深化合作达成多项共识。浙江大学计算机学院副院长董玮教授主持接待与座谈，信息学部副主任陈文智教授、学院多位教师代表及相关科室负责人等共同参会。课程互鉴与教学创新碰撞。在课程改革方面...<button>
+<button>2026-04-24相约则通 Lunch for Thought 2026首期——杜跃进教授剖析“跃变”视角下的网络安全演进2026年4月22日，计算机学院“相约则通Lunch for Thought”2026年首期交流活动在曹主228轻松愉快的氛围中举行。活动邀请浙江大学求是特聘教授、区块链与数据安全全国重点实验室首席研究员杜跃进教授作了题为《跃变：多职业视角看到的网络安全演变趋势》的主题分享。学院党委副书记陈卫主持活动，各系所教职工、学院机关教师30余人参与活动。杜跃进教授的职业生涯横跨国家网络安全应急中心副总工、中央网信办技术局负责人、阿里巴巴...<button>
+<button>2026-04-20春日贺寿 情暖桑榆——计算机学院举办退休教师集体庆生贺岁活动四月的杭州绿意葱茏，春和景明，植物园内笑语盈盈，暖意融融。2026年4月16日上午，计算机学院退休教师集体庆生贺岁活动在这里温情举行。学院党委书记胡昱东主持活动，与老教师们共话情谊。本次聚会邀请了学院退休教师共33位。其中90岁以上的寿星有五位：张德馨老师、潘寿喜老师、吴良占老师、陶欣老师及陈增武老师。张德馨老师是到场最年长的老前辈。活动伊始，胡昱东书记代表学院向各位老教师送上了真诚的生日祝福。他动情地说，...<button>
+<button>2026-04-03花漾柯桥，烟火安昌——计算机学院工会组织绍兴瓜渚湖、安昌古镇春游为丰富教职工精神文化生活，增进团队凝聚力，营造和谐奋进的学院氛围，近日，计算机学院工会组织教职工赴绍兴瓜渚湖、安昌古镇开展春游活动。学院40余名教职工在融融春意中放松身心、交流情谊，共赴一场春日之约。活动当天清晨，教职工们集合出发，首站抵达素有“小西湖”美誉的瓜渚湖。在学院工会的精心组织下，大家有序乘画舫游湖。微风拂面，碧波荡漾，湖面澄澈如镜，远处现代楼宇与湖畔花海相映成趣。平日里深耕教学科研一线的...<button>
+<button>2026-03-13喜报 | 我院李玺教授荣获2025年度华为公司优秀技术合作项目奖2026年1月30日，由浙江大学计算机科学与技术学院李玺教授牵头负责的《场景感知的自动运镜和转场》技术合作项目荣获2025年度华为公司优秀技术合作项目奖！该项目有效地解决了相机轨迹引导的视频可控生成难题，通过相对尺度的相机参数与真实世界的度量尺度的精准对齐，并能在推理阶段即时渲染出预览视频作为视觉反馈，摆脱了传统方法基于多轮生成调整循环的昂贵计算流程，实现了场景深度知识引导的高效视频单轮可控生成，运镜可控性...<button>
+<button>2026-03-13喜报 | 我院王文冠老师荣获信息学部“个推”青年创新奖近日，信息学部公布了2025年度“个推”青年创新奖评选结果。我院“百人计划”研究员王文冠老师，凭借其突出贡献，成功荣获2025年信息学部“个推”青年创新奖。王文冠，浙江大学计算机学院“百人计划”研究员，国家海外优青，浙江省杰青。主要研究方向为知识-数据驱动的人工智能、具身智能、AI for Science。在TPAMI、Nat. Comm.、Cell Innovation、ICLR等国际顶级期刊和会议上发表学术论文100余篇，谷歌学术引用超过27000次，H指数...<button>
+<button>重点提示<button>
+<button>查看更多+<button>
+<button>202604-072026年计算机学院普通招考博士生招生综合考核工作通知<button>
+<button>202603-30关于浙江大学计算机学院2026年拟录取研究生政审、调档、党团关系组织转接和户口等工作的通知<button>
+<button>202603-18计算机学院2026年硕士研究生招生复试公告（3号通知）<button>
+<button>202603-18计算机学院2026年硕士研究生招生复试上机考试说明（2号通知）<button>
+<button>202603-18计算机科学与技术学院2026年硕士研究生招生考试复试录取方案（1号通知）<button>
+<button>202601-06计算机学院关于公布2026年全日制普博申请材料审核结果的通知<button>
+<button>学术讲座<button>
+<button>查看更多+<button>
+<button>202510-09马毅：Pursuing the Nature of Intelligence时间：2025-10-15 10:00:00地点：玉泉校区曹光彪西楼107报告人：Yi Ma PhD<button>
+<button>202505-21Frank Neumann：Evolutionary computation for chance-constrained optimisation problems时间：2025-06-06 15:00:00地点：紫金港校区蒙民伟楼 402 会议室报告人：Frank Neumann<button>
+<button>202505-19Mark Grimshaw-Aagaard：智能传播背景下如何理解存在时间：2025-05-21 14:00:00地点：紫金港校区西区成均苑1幢传媒学院大楼105报告厅报告人：Mark Grimshaw-Aagaard<button>
+<button>202505-09滕尚华：Understanding and Characterizing Regularization in Multiclass Learning时间：2025-05-13 09:30:00地点：玉泉校区曹光彪东楼502报告厅报告人：滕尚华<button>
+<button>202601-08脑机学术报告 | Lexin Li: Statistical Neuroimaging Analysis: An Overview时间：2026-01-08 14:20:00地点：脑机全重6楼东侧海马体报告厅报告人：Lexin Li<button>
+<button>202512-11刘东瑞博士：AI内生安全能力建设：从安全评测到内生安全时间：2025-12-16 16:00:00地点：玉泉校区逸夫工商楼101会议室报告人：刘东瑞<button>
+<button>202511-13图灵讲坛No.3 | C.Mohan : AI: Past, Present and Future时间：2025-11-17 10:00:00地点：玉泉校区邵科馆117报告厅报告人：西.莫汉（C.Mohan）<button>
+<button>202511-07Jiaheng Zhang：Efficient Zero-Knowledge Proofs and Applications in Large Language Models 高效零知识证明以及在大模型中的应用时间：2025-11-11 16:00:00地点：玉泉校区逸夫工商楼101会议室报告人：Jiaheng Zhang<button>
+
+----- WebWalker -----
+Thought: I need to find the specific date of the roundtable discussion with Professor Raj Reddy and identify which professor gave an overview of the AI2.0 concept. The next step is to check the "新闻动态" (News Dynamic) section for any relevant information about the event.
+
+Action: visit_page
+Action Input: {"button": "新闻动态"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                              
+    
+### 导航
+                                                                                              
+### 快速通道
+    
+###  新闻动态
+  
+  * 当前位置：
+  * ## 新闻动态
+2026-04-27
+2026-04-24
+2026-04-20
+2026-04-09
+2026-04-03
+2026-03-13
+2026-03-13
+2026-03-13
+2026-03-09
+2026-01-27
+2026-01-19
+2026-01-09
+2026-01-06
+2026-01-05
+  * 每页  _14_ 记录  总共  _152_ 记录 
+  * ;) ;)  
+  * 页码  _1_ /_11_ ;)
+](
+地址：浙江大学玉泉校区曹光彪大楼
+电话：0571-87953025
+传真：0571-87951250
+!
+学院微信
+Copyright © 2025 浙江大学计算机学院 版权所有 新版网站试运行中，如您发现问题可反馈至hgzly@zju.edu.cn，谢谢您的关注！
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院情总览<button>
+<button>学院概况<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>学院大事记<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>研究生导师<button>
+<button>教师名录<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>招生信息<button>
+<button>就业工作<button>
+<button>校园生活<button>
+<button>国际合作<button>
+<button>交流动态<button>
+<button>学术讲座<button>
+<button>学生交流<button>
+<button>发展联络<button>
+<button>中心概况<button>
+<button>校友工作<button>
+<button>捐赠<button>
+<button>继续教育<button>
+<button>学科竞赛<button>
+<button>学院工会<button>
+<button>联系我们<button>
+<button>中文网<button>
+<button>新闻动态<button>
+<button>首页<button>
+<button>新闻动态<button>
+<button>香港科技大学代表团访问浙江大学计算机学院<button>
+<button>相约则通 Lunch for Thought 2026首期——杜跃进教授剖析“跃变”视角下的网络安全演进<button>
+<button>春日贺寿 情暖桑榆——计算机学院举办退休教师集体庆生贺岁活动<button>
+<button>计算机学院2026年度科研经费使用规范暨求是导师学校培训会顺利召开<button>
+<button>花漾柯桥，烟火安昌——计算机学院工会组织绍兴瓜渚湖、安昌古镇春游<button>
+<button>喜报 | 我院李玺教授荣获2025年度华为公司优秀技术合作项目奖<button>
+<button>喜报 | 我院王文冠老师荣获信息学部“个推”青年创新奖<button>
+<button>计算机学院“机关有约”系列活动（第12期）顺利举行<button>
+<button>致敬巾帼力量，共赏历代绘画——记计算机学院女教工“三八”妇女节参观大系典藏馆<button>
+<button>学院举行科研经费诚信教育警示大会<button>
+<button>浙江大学计算机学院与埃及Blue Shift公司签约合作 探索学科特色科教输出新模式<button>
+<button>学院2026年退休教师新春团拜会顺利举行<button>
+<button>我院两项成果荣获教育部科学研究优秀成果奖一等奖<button>
+<button>深化前沿技术研发布局 浙江大学与康迪科技共建智能机器人联合研发中心<button>
+<button>下一页>><button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: The "新闻动态" section contains a list of recent news articles. I need to click on the specific article related to Raj Reddy's roundtable discussion to find the date and details about the AI2.0 overview.
+
+Action: visit_page
+Action Input: {"button": "香港科技大学代表团访问浙江大学计算机学院"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                              
+    
+### 导航
+                                                                                              
+### 快速通道
+    
+# 香港科技大学代表团访问浙江大学计算机学院
+发布者：叶伊涵发布时间：2026-04-27浏览次数：126 
+2026年4月25日，香港科技大学计算机科学与工程系系主任周晓方教授率代表团一行访问浙江大学计算机科学与技术学院。双方围绕本科课程体系改革、生成式人工智能时代的教育创新以及本博贯通联合培养等议题展开深度交流，并就全面深化合作达成多项共识。浙江大学计算机学院副院长董玮教授主持接待与座谈，信息学部副主任陈文智教授、学院多位教师代表及相关科室负责人等共同参会。
+!
+**课程互鉴与教学创新碰撞****。** 在课程改革方面，双方首先进行了计算机课程结构与教学方法的双边介绍。港科大计算机系主任周晓方教授及团队系统介绍了从基础编程、人工智能到系统课程的核心课程群，并重点分享了课程持续更新机制。董玮副院长代表浙大计算机学院介绍了本科课程架构、教学管理模式以及近年来在人工智能赋能教学改革中的探索与挑战。
+**聚焦“生成式****AI+****教育”的头脑风暴****。** 随后进行的“生成式AI时代课程演进”研讨中，港科大介绍了新设AI共同核心课程及未来创新计划，强调教学内容动态优化。双方围绕教学压力、课程实效性评估与教师发展深入交流，一致认为应将AI素养融入人才培养全流程。
+**擘画本博贯通联合培养新路径****。** 在人才培养机制方面，董玮副院长介绍了浙大正在推进的本博贯通培养改革，获港科大积极回应。双方拟建立联合培养路径，即学生可在第四年赴对方院校完成毕业设计、课程学习与科研实习，本科毕业后可选择申请攻读对方学校博士学位。
+**展望未来****，****双方一致认为****以本科教育为抓手，系统推进两校协作****。** 周晓方教授表示，浙大是港科大重要生源基地，博士生源曾居前列，期待以此次访问为新起点，将深厚学术联系转化为制度化人才共育行动。董玮副院长亦强调，将持续加强沟通，用好既有的深厚人脉，推动两校在计算机领域形成更高水平的战略协作，共同应对智能时代对计算机教育的全新要求。此次访问标志着双方合作迈入系统谋划、深度融合的新阶段，为联合课程开发、师生互访及人才联合培养打开了崭新空间。
+!合作背景
+两校计算机学科素有密切交流与学术渊源。目前，浙江大学计算机学院有十余位教师毕业于或曾任职于港科大，覆盖CAD/CG国家重点实验室、网络安全、人工智能等方向。自2014年起，学院每年选派优秀本科生赴香港科技大学进行为期一学期的科研训练。此外，博士生双向培养与学术互访也持续活跃，奠定了坚实的合作基础。
+  
+  
+](
+地址：浙江大学玉泉校区曹光彪大楼
+电话：0571-87953025
+传真：0571-87951250
+!
+学院微信
+Copyright © 2025 浙江大学计算机学院 版权所有 新版网站试运行中，如您发现问题可反馈至hgzly@zju.edu.cn，谢谢您的关注！
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院情总览<button>
+<button>学院概况<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>学院大事记<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>研究生导师<button>
+<button>教师名录<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>招生信息<button>
+<button>就业工作<button>
+<button>校园生活<button>
+<button>国际合作<button>
+<button>交流动态<button>
+<button>学术讲座<button>
+<button>学生交流<button>
+<button>发展联络<button>
+<button>中心概况<button>
+<button>校友工作<button>
+<button>捐赠<button>
+<button>继续教育<button>
+<button>学科竞赛<button>
+<button>学院工会<button>
+<button>联系我们<button>
+<button>中文网<button>
+
+----- WebWalker -----
+Thought: The article about the visit from the Hong Kong University of Science and Technology does not mention Raj Reddy or the AI2.0 concept. I need to continue exploring other articles in the "新闻动态" section for relevant information.
+
+Action: visit_page
+Action Input: {"button": "计算机学院2026年度科研经费使用规范暨求是导师学校培训会顺利召开"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                              
+    
+### 导航
+                                                                                              
+### 快速通道
+    
+# 计算机学院2026年度科研经费使用规范暨求是导师学校培训会顺利召开
+发布者：胡舸发布时间：2026-04-09浏览次数：264 
+4月8日，计算机科学与技术学院2026年度科研经费使用规范暨求是导师学校培训会在玉泉校区邵逸夫科学馆顺利召开。学院教师、科研秘书、财务助理及本科生班主任、研究生德育导师等159余人参加会议。学院党委书记胡昱东主持会议。
+胡昱东传达了学校有关会议精神，对学院落实《关于加强学生集体关怀工作的若干意见》的实施方案作了详细解读，并对网络安全、学生关心关爱工作作出进一步强调和部署。董玮副院长系统汇报了本科教学工作，对专业布局与学生规模、学生毕业深造情况、图灵班学生培养等作了梳理和分析，并对标校部要求，对核心教学要素建设、拔尖创新人才培养等后续重点工作作了规划部署。
+!
+院科研经费监管专员曹文旭从操作层面对科研经费报销基础规范、各类目报销流程、注意事项等进行了重点介绍，并剖析违规案例并强调常态化自查自纠要求。
+随后，与会人员共同观看了“同心护航”心理助人能力培训系列视频，系统学习了心理健康教育有关工作技巧和经验。
+!
+通过本次会议，学院进一步强化了导师队伍建设，有效提升了本科生班主任、研究生德育导师的专业素养与履职能力，为高质量培养拔尖创新人才夯实了育人根基；同时，与会人员对科研经费监管政策、使用规范与报销流程有了更加全面深刻的把握。会议有力推动学院科研经费管理体系更加健全完善，为学院各项工作协同高效、规范有序、稳步推进提供了坚强保障。
+  
+](
+地址：浙江大学玉泉校区曹光彪大楼
+电话：0571-87953025
+传真：0571-87951250
+!
+学院微信
+Copyright © 2025 浙江大学计算机学院 版权所有 新版网站试运行中，如您发现问题可反馈至hgzly@zju.edu.cn，谢谢您的关注！
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院情总览<button>
+<button>学院概况<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>学院大事记<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>研究生导师<button>
+<button>教师名录<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>招生信息<button>
+<button>就业工作<button>
+<button>校园生活<button>
+<button>国际合作<button>
+<button>交流动态<button>
+<button>学术讲座<button>
+<button>学生交流<button>
+<button>发展联络<button>
+<button>中心概况<button>
+<button>校友工作<button>
+<button>捐赠<button>
+<button>继续教育<button>
+<button>学科竞赛<button>
+<button>学院工会<button>
+<button>联系我们<button>
+<button>中文网<button>
+
+----- WebWalker -----
+Thought: The article about the research funding and mentor training meeting does not mention Raj Reddy or the AI2.0 concept. I need to continue exploring other articles in the "新闻动态" section for relevant information.
+
+Action: visit_page
+Action Input: {"button": "相约则通 Lunch for Thought 2026首期——杜跃进教授剖析“跃变”视角下的网络安全演进"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                              
+    
+### 导航
+                                                                                              
+### 快速通道
+    
+# 相约则通 Lunch for Thought 2026首期——杜跃进教授剖析“跃变”视角下的网络安全演进
+发布者：胡舸发布时间：2026-04-24浏览次数：96 
+2026年4月22日，计算机学院“相约则通Lunch for Thought”2026年首期交流活动在曹主228轻松愉快的氛围中举行。活动邀请浙江大学求是特聘教授、区块链与数据安全全国重点实验室首席研究员杜跃进教授作了题为《跃变：多职业视角看到的网络安全演变趋势》的主题分享。学院党委副书记陈卫主持活动，各系所教职工、学院机关教师30余人参与活动。
+杜跃进教授的职业生涯横跨国家网络安全应急中心副总工、中央网信办技术局负责人、阿里巴巴技术副总裁及360集团首席安全官等多个关键岗位，兼具国家级工程、产业实战与前沿研究经验。他以非线性的“跃变”为主线，从四个篇章勾勒了网络安全演变全景。
+!
+在报告后的交流环节，参会老师们围绕AI时代高校科研定位、产教融合机制等议题进行了深入互动。
+**  
+**
+**背景介绍**
+相约则通Lunch for Thought系列活动旨在为学院教师搭建一个轻松的跨学科交流平台，拓宽学术视野，激发不同领域间的思想碰撞。后续学院将持续举办该活动，更好服务全院师生。
+  
+](
+地址：浙江大学玉泉校区曹光彪大楼
+电话：0571-87953025
+传真：0571-87951250
+!
+学院微信
+Copyright © 2025 浙江大学计算机学院 版权所有 新版网站试运行中，如您发现问题可反馈至hgzly@zju.edu.cn，谢谢您的关注！
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院情总览<button>
+<button>学院概况<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>学院大事记<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>研究生导师<button>
+<button>教师名录<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>招生信息<button>
+<button>就业工作<button>
+<button>校园生活<button>
+<button>国际合作<button>
+<button>交流动态<button>
+<button>学术讲座<button>
+<button>学生交流<button>
+<button>发展联络<button>
+<button>中心概况<button>
+<button>校友工作<button>
+<button>捐赠<button>
+<button>继续教育<button>
+<button>学科竞赛<button>
+<button>学院工会<button>
+<button>联系我们<button>
+<button>中文网<button>
+
+----- WebWalker -----
+Thought: The article about the "相约则通 Lunch for Thought" event does not mention Raj Reddy or the AI2.0 concept. I need to continue exploring other articles in the "新闻动态" section for relevant information.
+
+Action: visit_page
+Action Input: {"button": "春日贺寿 情暖桑榆——计算机学院举办退休教师集体庆生贺岁活动"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                              
+    
+### 导航
+                                                                                              
+### 快速通道
+    
+# 春日贺寿 情暖桑榆——计算机学院举办退休教师集体庆生贺岁活动
+发布者：胡舸发布时间：2026-04-20浏览次数：130 
+四月的杭州绿意葱茏，春和景明，植物园内笑语盈盈，暖意融融。2026年4月16日上午，计算机学院退休教师集体庆生贺岁活动在这里温情举行。学院党委书记胡昱东主持活动，与老教师们共话情谊。
+!
+本次聚会邀请了学院退休教师共33位。其中90岁以上的寿星有五位：张德馨老师、潘寿喜老师、吴良占老师、陶欣老师及陈增武老师。张德馨老师是到场最年长的老前辈。
+活动伊始，胡昱东书记代表学院向各位老教师送上了真诚的生日祝福。他动情地说，看到各位老前辈精神矍铄、神采奕奕，学院上下倍感欣慰。退休老师是计算机学院发展的开拓者和见证人，从建院初期的筚路蓝缕到如今的学科高峰，每一步都离不开退休教师们的智慧和汗水。在温馨的氛围中，老师们纷纷回忆早年在学院工作的难忘岁月，对学院近年来的发展成就表示由衷高兴，并勉励年轻一代继续努力。
+简短的仪式后，大家围坐餐叙。老同事们久别重逢，忆青春、唠家常，欢声笑语不断。从当年的机房故事到如今桃李满天下，每一段回忆都闪闪发光集体聚会让大家倍感亲切，仿佛回到了并肩奋斗的年代。
+莫道桑榆晚，为霞尚满天。这场精心策划的春日庆生贺岁聚会，传递着真挚温情。学院将继续用心用情做好离退休工作，让尊师重道、敬老爱老的传统在计算机学院代代相传。衷心祝愿各位老教师福寿安康，笑口常开，岁岁年年，同享春光。
+  
+!!!!!
+  
+](
+地址：浙江大学玉泉校区曹光彪大楼
+电话：0571-87953025
+传真：0571-87951250
+!
+学院微信
+Copyright © 2025 浙江大学计算机学院 版权所有 新版网站试运行中，如您发现问题可反馈至hgzly@zju.edu.cn，谢谢您的关注！
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院情总览<button>
+<button>学院概况<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>学院大事记<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>研究生导师<button>
+<button>教师名录<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>招生信息<button>
+<button>就业工作<button>
+<button>校园生活<button>
+<button>国际合作<button>
+<button>交流动态<button>
+<button>学术讲座<button>
+<button>学生交流<button>
+<button>发展联络<button>
+<button>中心概况<button>
+<button>校友工作<button>
+<button>捐赠<button>
+<button>继续教育<button>
+<button>学科竞赛<button>
+<button>学院工会<button>
+<button>联系我们<button>
+<button>中文网<button>
+
+----- WebWalker -----
+Thought: The article about the retirement celebration does not mention Raj Reddy or the AI2.0 concept. I need to continue exploring other articles in the "新闻动态" section for relevant information.
+
+Action: visit_page
+Action Input: {"button": "花漾柯桥，烟火安昌——计算机学院工会组织绍兴瓜渚湖、安昌古镇春游"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                              
+    
+### 导航
+                                                                                              
+### 快速通道
+    
+# 花漾柯桥，烟火安昌——计算机学院工会组织绍兴瓜渚湖、安昌古镇春游
+发布者：胡舸发布时间：2026-04-03浏览次数：206 
+  
+!
+为丰富教职工精神文化生活，增进团队凝聚力，营造和谐奋进的学院氛围，近日，计算机学院工会组织教职工赴绍兴瓜渚湖、安昌古镇开展春游活动。学院40余名教职工在融融春意中放松身心、交流情谊，共赴一场春日之约。
+活动当天清晨，教职工们集合出发，首站抵达素有“小西湖”美誉的瓜渚湖。在学院工会的精心组织下，大家有序乘画舫游湖。微风拂面，碧波荡漾，湖面澄澈如镜，远处现代楼宇与湖畔花海相映成趣。平日里深耕教学科研一线的老师们在湖光山色中暂别忙碌，或凭栏远眺，或亲切交谈，现场氛围轻松融洽。
+随后，大家来到东岸公园。园内郁金香层层叠叠，色彩斑斓；染井吉野樱正值盛放，缀满枝头，构成一幅生机盎然的春日画卷。教职工们三五成群，徜徉花海，或驻足欣赏，或合影留念，在亲近自然的过程中增进了彼此的了解与情谊，充分展现了计算机学院教职工积极向上、热爱生活的精神风貌。
+午后，队伍一行前往安昌古镇。古镇沿河廊棚绵延，腊肠、酱鸭悬挂檐下，烟火气息浓厚。在绍兴师爷博物馆，大家通过泛黄的手稿与古朴的陈设，深入了解当地深厚的人文底蕴，感受历史文化的浸润。古镇水巷中，看乌篷船穿行如梭，两岸白墙黛瓦倒映水中，老师们纷纷用镜头记录人文与自然交融的和谐画面，在体验中华优秀传统文化中进一步增强文化自信。
+此次春游活动不仅让教职工在繁忙工作之余亲近自然、舒缓压力，更在轻松愉悦的氛围中加深了同事间的情谊，提升了工会组织的凝聚力与向心力。大家纷纷表示，将以更加饱满的热情和昂扬的姿态投入到今后的教学科研与管理服务工作中，为学院各项事业高质量发展贡献智慧与力量。
+!!!!!!!!!
+  
+](
+地址：浙江大学玉泉校区曹光彪大楼
+电话：0571-87953025
+传真：0571-87951250
+!
+学院微信
+Copyright © 2025 浙江大学计算机学院 版权所有 新版网站试运行中，如您发现问题可反馈至hgzly@zju.edu.cn，谢谢您的关注！
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院情总览<button>
+<button>学院概况<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>学院大事记<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>研究生导师<button>
+<button>教师名录<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>招生信息<button>
+<button>就业工作<button>
+<button>校园生活<button>
+<button>国际合作<button>
+<button>交流动态<button>
+<button>学术讲座<button>
+<button>学生交流<button>
+<button>发展联络<button>
+<button>中心概况<button>
+<button>校友工作<button>
+<button>捐赠<button>
+<button>继续教育<button>
+<button>学科竞赛<button>
+<button>学院工会<button>
+<button>联系我们<button>
+<button>中文网<button>
+
+----- WebWalker -----
+Thought: The article about the spring outing does not mention Raj Reddy or the AI2.0 concept. I need to continue exploring other articles in the "新闻动态" section for relevant information.
+
+Action: visit_page
+Action Input: {"button": "喜报 | 我院李玺教授荣获2025年度华为公司优秀技术合作项目奖"}
+
+----- VisitPage -----
+The web information is:
+
+](
+ 
+                                                                                              
+    
+### 导航
+                                                                                              
+### 快速通道
+    
+# 喜报 | 我院李玺教授荣获2025年度华为公司优秀技术合作项目奖
+发布者：胡舸发布时间：2026-03-13浏览次数：1066 
+2026年1月30日，由浙江大学计算机科学与技术学院李玺教授牵头负责的《场景感知的自动运镜和转场》技术合作项目荣获2025年度华为公司优秀技术合作项目奖！
+该项目有效地解决了相机轨迹引导的视频可控生成难题，通过相对尺度的相机参数与真实世界的度量尺度的精准对齐，并能在推理阶段即时渲染出预览视频作为视觉反馈，摆脱了传统方法基于多轮生成调整循环的昂贵计算流程，实现了场景深度知识引导的高效视频单轮可控生成，运镜可控性和视频质量相较基线方法均取得了显著提升。相关研究成果发表于人工智能领域CCF A类顶级学术会议ICCV 2025，题为：Realcam-i2v: Real-world image-to-video generation with interactive complex camera control。相关核心关键技术成功应用于华为旗舰级手机终端设备上。
+该奖项每年全球仅被授予10多项，浙江大学是首次斩获该奖项。
+据悉，李玺教授是浙江大学第一位四次获得“华为火花价值奖”的教师，同时也是华为难题揭榜活动在人工智能和数据科学领域获奖次数最高的教师！
+向李玺老师表示热烈祝贺！
+!
+  
+内容来源：浙江大学信息学部
+](
+地址：浙江大学玉泉校区曹光彪大楼
+电话：0571-87953025
+传真：0571-87951250
+!
+学院微信
+Copyright © 2025 浙江大学计算机学院 版权所有 新版网站试运行中，如您发现问题可反馈至hgzly@zju.edu.cn，谢谢您的关注！
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院情总览<button>
+<button>学院概况<button>
+<button>学院领导<button>
+<button>机构设置<button>
+<button>学院大事记<button>
+<button>师资队伍<button>
+<button>师资概况<button>
+<button>研究生导师<button>
+<button>教师名录<button>
+<button>人才培养<button>
+<button>本科生教育<button>
+<button>研究生教育<button>
+<button>招生就业<button>
+<button>招生信息<button>
+<button>就业工作<button>
+<button>校园生活<button>
+<button>国际合作<button>
+<button>交流动态<button>
+<button>学术讲座<button>
+<button>学生交流<button>
+<button>发展联络<button>
+<button>中心概况<button>
+<button>校友工作<button>
+<button>捐赠<button>
+<button>继续教育<button>
+<button>学科竞赛<button>
+<button>学院工会<button>
+<button>联系我们<button>
+<button>中文网<button>

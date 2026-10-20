@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0414_dfbe8608f6de",
+  "source_index": 414,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年11月，武汉大学计算机学院发布的2025年人工智能学院专业技术岗位招聘结束时间与其研究生专项奖学金自主申报结束时间相隔多少天？",
+  "prompt": "在2024年11月，武汉大学计算机学院发布的2025年人工智能学院专业技术岗位招聘结束时间与其研究生专项奖学金自主申报结束时间相隔多少天？",
+  "expected_answer": "5天",
+  "root_url": "https://cs.whu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.whu.edu.cn/info/1073/47801.htm",
+      "https://cs.whu.edu.cn/info/1071/48321.htm"
+    ],
+    "golden_path": [
+      "root->人工智能学院2025年专业技术支撑岗位招聘（2024年11月8日24时截止）2024.10.28",
+      "root->计算机学院2023—2024学年度研究生专项奖学金评选的通知2024.11.07"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 50.188,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0414_dfbe8608f6de/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0414_dfbe8608f6de/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

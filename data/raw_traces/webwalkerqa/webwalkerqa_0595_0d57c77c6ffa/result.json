@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0595_0d57c77c6ffa",
+  "source_index": 595,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2022年的淘乐节中，预约过《赛尔计划》的玩家可以获得什么福利，并且这款游戏在哪一天开启了限量安卓删档不计费测试的预下载通道？",
+  "prompt": "在2022年的淘乐节中，预约过《赛尔计划》的玩家可以获得什么福利，并且这款游戏在哪一天开启了限量安卓删档不计费测试的预下载通道？",
+  "expected_answer": "淘乐券和转盘次数赠送；2023年2月15日",
+  "root_url": "https://game.61.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://game.61.com/m/news/content.shtml?pagenum=2019-21385",
+      "https://game.61.com/m/news/content.shtml?pagenum=2019-21509"
+    ],
+    "golden_path": [
+      "root->首页->新闻动态->2022淘乐节即将上线！预约领游戏专属彩蛋福利2022年淘米游戏年度盛典淘乐节将于11月25日上午10点正式上线，淘乐节预约倒计时今日正式开启！现在参与预约可立即领取一款游戏的淘乐...【11/18】",
+      "root->首页->新闻动态->《赛尔计划》联结测试招募火热进行中！本次「联结测试」的测试类型为限量安卓删档不计费测试。\n\n\t \n\n\t本次测试无须报名，预下载通道将在2023年2月15...【02/15】"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "在2022年的淘乐节中，预约过《赛尔计划》的玩家可以获得游戏专属彩蛋福利。这款游戏在2023年2月15日开启了限量安卓删档不计费测试的预下载通道。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 148.454,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0595_0d57c77c6ffa/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0595_0d57c77c6ffa/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

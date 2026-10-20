@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0248_17bc235a0389",
+  "source_index": 248,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How many days are there between the dates of the Joint Navigation Conference in 2025 and 2027?",
+  "prompt": "How many days are there between the dates of the Joint Navigation Conference in 2025 and 2027?",
+  "expected_answer": "735 days",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/jnc/future-meetings.cfm"
+    ],
+    "golden_path": [
+      "root->Joint Navigation Conference->Future Meetings"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "There are 378 days between the dates of the Joint Navigation Conference in 2026 (June 1-4, 2026) and the Joint Navigation Conference in 2027 (June 7-10, 2027).",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 4,
+  "duration_seconds": 68.997,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0248_17bc235a0389/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0248_17bc235a0389/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer calculates the days between the 2026 and 202",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

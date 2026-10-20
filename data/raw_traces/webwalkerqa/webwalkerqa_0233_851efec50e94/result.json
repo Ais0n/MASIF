@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0233_851efec50e94",
+  "source_index": 233,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What type of session details were publicly released in November 2024 for the ASH 66th Annual Meeting?",
+  "prompt": "What type of session details were publicly released in November 2024 for the ASH 66th Annual Meeting?",
+  "expected_answer": "Details about abstract sessions will be available.",
+  "root_url": "https://www.hematology.org/meetings/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.hematology.org/meetings/annual-meeting/schedule-and-program/programs"
+    ],
+    "golden_path": [
+      "root->Schedule and Program->Browse by Session Type"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 51.699,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0233_851efec50e94/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0233_851efec50e94/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

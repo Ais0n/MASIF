@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0127_994f0149bf70",
+  "source_index": 127,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2022年6月16日中南大学举办的华为合作活动中，谁在活动开始时致辞？",
+  "prompt": "在2022年6月16日中南大学举办的华为合作活动中，谁在活动开始时致辞？",
+  "expected_answer": "王春生教授",
+  "root_url": "https://cse.csu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.csu.edu.cn/info/1043/6450.htm"
+    ],
+    "golden_path": [
+      "root->聚焦鲲鹏计算生态，“华为伙伴暨开发者大会2022”走进中南大学"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "在2022年6月16日中南大学举办的华为合作活动中，活动开始时致辞的是中南大学计算机学院党委书记赵晓霞。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 6,
+  "duration_seconds": 45.752,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0127_994f0149bf70/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0127_994f0149bf70/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: ",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

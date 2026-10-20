@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0023_2d4fdca72ab4",
+  "source_index": 23,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "By when should an international attendee applying for a B1 visa in May 2024 receive their visa to attend ACR Convergence 2024?",
+  "prompt": "By when should an international attendee applying for a B1 visa in May 2024 receive their visa to attend ACR Convergence 2024?",
+  "expected_answer": "By early November 2024.",
+  "root_url": "https://rheumatology.org/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://rheumatology.org/annual-meeting-travel"
+    ],
+    "golden_path": [
+      "root->Attendees->online"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 48.121,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0023_2d4fdca72ab4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0023_2d4fdca72ab4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

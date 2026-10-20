@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0230_b4bed78da3fd",
+  "source_index": 230,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "长春工业大学的吴量成为副教授的年份是什么？",
+  "prompt": "长春工业大学的吴量成为副教授的年份是什么？",
+  "expected_answer": "2022年",
+  "root_url": "https://jsjxy.ccut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.ccut.edu.cn/info/1050/2278.htm"
+    ],
+    "golden_path": [
+      "root->副教授->吴  量"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 45.375,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0230_b4bed78da3fd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0230_b4bed78da3fd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

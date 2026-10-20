@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0578_95e32136f921",
+  "source_index": 578,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在国家会议中心二期和雄安商务服务中心的数字化建设中，新华三解决方案分别采用了哪种主要网络技术？",
+  "prompt": "在国家会议中心二期和雄安商务服务中心的数字化建设中，新华三解决方案分别采用了哪种主要网络技术？",
+  "expected_answer": "AD-Campus应用驱动园区解决方案",
+  "root_url": "https://www.h3c.com/cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.h3c.com/cn/d_202106/1428416_473305_0.htm",
+      "https://www.h3c.com/cn/d_202106/1428553_473305_0.htm"
+    ],
+    "golden_path": [
+      "root->登录->制造->新华三X国家会议中心二期 | 以实力打造智慧场馆，为北京冬奥会献礼在首都北京中轴线北端的奥林匹克中心区，即将建成投入使用的国家会议中心二期（以下简称“国会二期”）将承担起2022年北京冬奥会主新闻中心（MPC）和国际广播中心（IBC）的功能，为全球媒体提供全方位的服务保障，让全球观众在冬奥会期间悦享精彩的体育赛事，遇见一个全然不同的精彩北京。了解详情",
+      "root->登录->制造->新华三 X 雄安商务服务中心 | 以数字创新成就千年大计，打造雄安新区智慧建筑新样板雄安新区建设是千年大计、国家大事，将为中国城市的建设和布局打造一座值得参照的“未来之城”。了解详情"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "在国家会议中心二期的数字化建设中，新华三解决方案采用了智算网络解决方案；而在雄安商务服务中心的数字化建设中，新华三解决方案采用了全光网络5.0解决方案。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 4,
+  "duration_seconds": 200.841,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0578_95e32136f921/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0578_95e32136f921/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

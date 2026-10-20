@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0349_5735bd6a80f9",
+  "source_index": 349,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西南科技大学计算机科学与技术学院第26个教师节表彰大会上哪些教师被授予园丁奖？",
+  "prompt": "西南科技大学计算机科学与技术学院第26个教师节表彰大会上哪些教师被授予园丁奖？",
+  "expected_answer": "刘自伟、黄建华",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0720/c10922a199763/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->127->计算机学院举行教师节表彰大会“教师节是感念师恩的日子，请允许我代表全体同学向为我们的成长成才付出大量心血与汗水的各位老师说一声：谢谢您，您辛苦了！”在学生对全体教师的感恩之情和节日祝福中，9月9日下午，计算机学院第26...[2010-09-08]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 74.749,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0349_5735bd6a80f9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0349_5735bd6a80f9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

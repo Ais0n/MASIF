@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0586_ed6e9ccc4bbc",
+  "source_index": 586,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What strategic partner teamed up with Rovio to develop and publish mobile games based on the Moomin IP, and on which major platform did Angry Birds Reloaded launch in 2021?",
+  "prompt": "What strategic partner teamed up with Rovio to develop and publish mobile games based on the Moomin IP, and on which major platform did Angry Birds Reloaded launch in 2021?",
+  "expected_answer": "Moomin Characters and Gutsy Animations; Apple Arcade",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/rovio-entertainment-moomin-characters-and-gutsy-animations-enter-into-a-long-term-partnership/",
+      "https://www.rovio.com/articles/angry-birds-reloaded-now-available-on-apple-arcade/"
+    ],
+    "golden_path": [
+      "root->Angry Birds->Company announcement->Rovio Entertainment, Moomin Characters and Gutsy Animations  enter into a long-term partnership",
+      "root->Angry Birds->Angry Birds Reloaded – now available on Apple Arcade!"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The strategic partner teamed up with Rovio to develop and publish mobile games based on the Moomin IP is Kingsoft Shiyou, a subsidiary of Kingsoft Corporation Limited. Angry Birds Reloaded launched on the major platform of Chinese app stores through this partnership.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 5,
+  "duration_seconds": 42.323,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0586_ed6e9ccc4bbc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0586_ed6e9ccc4bbc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer provides completely different and incorrect entities for both the strategic partner and the launch platform compared to the expected answer.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

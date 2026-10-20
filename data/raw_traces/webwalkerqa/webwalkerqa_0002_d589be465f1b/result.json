@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0002_d589be465f1b",
+  "source_index": 2,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In February 2024, how was the land revenue share decision made in the Illuvium game, and how many council members voted in favor of this proposal?",
+  "prompt": "In February 2024, how was the land revenue share decision made in the Illuvium game, and how many council members voted in favor of this proposal?",
+  "expected_answer": "Five votes in favor.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-february-2024"
+    ],
+    "golden_path": [
+      "root->News->Illuvium DAO Governance Newsletter - February 2024"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 14.493,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0002_d589be465f1b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0002_d589be465f1b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

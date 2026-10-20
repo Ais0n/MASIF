@@ -1,0 +1,43 @@
+{
+  "task_id": "webwalkerqa_0614_fcd221395e15",
+  "source_index": 614,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年西南科技大学计算机科学与技术学院的高质量发展专题研讨会和硕士学位授权点评估中，哪位中国科学技术大学的教授参与其中并对双方活动提出指导意见？",
+  "prompt": "在2024年西南科技大学计算机科学与技术学院的高质量发展专题研讨会和硕士学位授权点评估中，哪位中国科学技术大学的教授参与其中并对双方活动提出指导意见？",
+  "expected_answer": "陈恩红",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0414/c10922a193015/page.htm,https://cs.swust.edu.cn/2024/1202/c10922a209355/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->6->计算机科学与技术学院召开高质量发展专题研讨暨专家咨询会为推动学院新聘期加速发展，力争高质量完成各项目标任务，2024年4月9日，计算机科学与技术学院成功举办了以“谋划新思路，探索新举措”为主题的高质量发展专题研讨会暨专家咨询会。此次会议特别邀请...[2024-04-12]",
+      "root->学院动态->2->我校计算机科学与技术一级学科硕士学位授权点周期性合格评估专家评议会顺利举行2024年9月25日，我校计算机科学与技术一级学科硕士学位授权点周期性合格评估专家评议会在计算机科学与技术学院顺利举行。评估专家组由5人组成，包括国务院学位委员会学科评议组成员、东南大学耿新...[2024-09-27]"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 57.153,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0614_fcd221395e15/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0614_fcd221395e15/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

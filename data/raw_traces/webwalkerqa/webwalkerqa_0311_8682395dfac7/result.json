@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0311_8682395dfac7",
+  "source_index": 311,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What are the key points related to future planning discussed regarding site selection at the SIGCHI open session on October 12, 2023?",
+  "prompt": "What are the key points related to future planning discussed regarding site selection at the SIGCHI open session on October 12, 2023?",
+  "expected_answer": "Key future-oriented points discussed were sustainability issues (ecological, economic), understanding regional land use, establishing a timeline for future site selection, re-evaluating the conference bidding process, and creating a roadmap for net-zero emissions.",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/events/open-session-site-selection-october-12-2023/"
+    ],
+    "golden_path": [
+      "root->Meetings->Past Meetings->Open Session: Site Selection, October 12, 2023Oct 12, 2023 - Oct 12, 2023The October 2023 SIGCHI EC open session focused on site selection."
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 71.589,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0311_8682395dfac7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0311_8682395dfac7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0266_ed0df6dbf121",
+  "source_index": 266,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北京工业大学计算机学院徐晓斌副教授，2021年在IEEE Internet of Things Journal重要学术会议上发表了哪篇论文？",
+  "prompt": "北京工业大学计算机学院徐晓斌副教授，2021年在IEEE Internet of Things Journal重要学术会议上发表了哪篇论文？",
+  "expected_answer": "A Blockchain-Enabled Energy-Efficient Data Collection System for UAV-Assisted IoT",
+  "root_url": "https://cs.bjut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.bjut.edu.cn/info/1408/1184.htm"
+    ],
+    "golden_path": [
+      "root->教师介绍->徐晓斌"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 46.01,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0266_ed0df6dbf121/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0266_ed0df6dbf121/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

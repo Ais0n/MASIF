@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0306_2d7bfb764990",
+  "source_index": 306,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2023年4月24日在四川大学计算机学院召开的学习贯彻习近平新时代中国特色社会主义思想主题教育动员大会上，蒋斌同志和邱梅同志各自分别担任什么角色？",
+  "prompt": "2023年4月24日在四川大学计算机学院召开的学习贯彻习近平新时代中国特色社会主义思想主题教育动员大会上，蒋斌同志和邱梅同志各自分别担任什么角色？",
+  "expected_answer": "蒋斌同志担任会议主持，邱梅同志作指导讲话。",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1212/17627.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->3->【工作动员】学院召开学习贯彻习近平新时代中国特色社会主义思想主题教育动员大会"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 48.986,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0306_2d7bfb764990/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0306_2d7bfb764990/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

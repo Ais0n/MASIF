@@ -1,0 +1,1016 @@
+----- user -----
+query:
+2019年重阳节期间和随后的11月，浙江师范大学计算机科学与技术学院分别通过哪些活动形式向退休教职工传达敬意？
+official website:
+http://cs.zjnu.edu.cn/
+Observation:website information:
+
+|  ]( "计算机科学与技术学院2026年专任教师招聘公告")  |  
+| --- |  
+×关闭
+)
+)
+                                                                                                                                                                                                                        
+]( "浙江师范大学")
+]( "浙江师范大学")
+]( "浙江师范大学")
+学院动态
+news
+2026-04-21
+2026-04-21
+2026-04-19
+2026-04-15
+2026-04-11
+          
+通知公告
+notice
+          
+学术动态
+Scientific Research
+          
+其他信息
+Other
+本科教学 研究生教学 科学研究 学工在线 交流合作
+            ]( "显示更多")
+            ]( "显示更多")
+            ]( "显示更多")
+            ]( "显示更多")
+            ]( "显示更多")
+                                                                                                    
+## 联系我们
+地 址：浙江省金华市迎宾大道688号 电 话：0579-82291988（院办） 电 话：82291995（教务办） 电 话：82291987（学工办） 电 话：82280197（学科建设与研究生办）Email：jsjxy@zjnu.edu.cn 邮编：321004 院长书记信箱：jsj12345@zjnu.edu.cn
+## 学院公众号
+!
+## 扫一扫关注我们
+©   
+                                                                                                                                                                                                                        
+!
+
+
+clickable button:
+
+<button>网站首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学院标识<button>
+<button>党建思政<button>
+<button>党建工作<button>
+<button>标杆院系<button>
+<button>工会动态<button>
+<button>青年之声<button>
+<button>学习园地<button>
+<button>师资队伍<button>
+<button>人才梯队<button>
+<button>专任教师<button>
+<button>博士后<button>
+<button>人才引进<button>
+<button>本科教学<button>
+<button>通知公告<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>教学研究与建设<button>
+<button>实验室管理<button>
+<button>研究生教学<button>
+<button>通知公告<button>
+<button>学位点介绍<button>
+<button>博士学位点<button>
+<button>硕士学位点<button>
+<button>学位点建设年度报告<button>
+<button>导师简介<button>
+<button>招生工作<button>
+<button>培养工作<button>
+<button>培养方案<button>
+<button>培养资料<button>
+<button>学位工作<button>
+<button>常用下载<button>
+<button>科学研究<button>
+<button>通知公告<button>
+<button>学科平台<button>
+<button>学术交流<button>
+<button>研究动态<button>
+<button>科研成果<button>
+<button>科研项目<button>
+<button>常用下载<button>
+<button>学工在线<button>
+<button>公示公告<button>
+<button>学工动态<button>
+<button>交流合作<button>
+<button>国际交流<button>
+<button>社会服务<button>
+<button>信息服务<button>
+<button>学院文件<button>
+<button>规章制度<button>
+<button>常用下载<button>
+<button>校友力量<button>
+<button>校友之窗<button>
+<button>微光基金<button>
+<button>更多信息<button>
+<button>十佳 + 1、入围奖 + 1，计科学子再创佳绩<button>
+<button>计算机学院ACM集训队校友捐赠签约仪式圆满举行<button>
+<button>计算机学院举行兼职教授聘任仪式<button>
+<button>浙师大计算机学院与金华市第四中学实践基地项目签约授...<button>
+<button>浙江广厦建设职业技术大学信息学院党总支一行赴我院调...<button>
+<button>2026-04-24金华城发集团、达索系统与中国电信金华分公司来院交流...4月23日，金华市城市发展集团有限公司党委委员、纪委书记、监察专员李勇强，达索系统大中华区创新业务发展总监陈曦，中国电信金华分公司党委委员、副总经理陈灏一行来我院...<button>
+<button>2026-04-242026第二届CCF浙里院长论坛成功举办4月18日，2026第二届CCF浙里院长论坛在浙江金华成功举办。本次论坛以“智启未来——AI时代计算机学科建设与人才适配协同创新”为主题，汇聚省内外高校计算机学院院长和行业权...<button>
+<button>2026-04-21计算机学院ACM集训队校友捐赠签约仪式圆满举行值此浙江师范大学70周年校庆之际，为助力计算机学院ACM集训队高质量发展，持续夯实学科竞赛人才培养根基，我院于4月19日隆重举行ACM集训队校友捐赠签约仪式。本次捐赠由201...<button>
+<button>2026-04-19计算机学院举行兼职教授聘任仪式4月18日下午，浙江师范大学计算机科学与技术学院兼职教授聘任仪式在17幢401室顺利举行。学院院友、浙江省桐乡凤鸣高中书记、校长唐世强，学院院友、嘉善县陶庄中学书记、校...<button>
+<button>2026-04-18计算机学院举办青年博士座谈会4月17日，计算机学院在17幢401会议室召开青年博士座谈会，学院党委书记郦炬、副院长贾日恒、全体青年博士参加。<button>
+<button>更多信息<button>
+<button>2023-04-062026年浙江师范大学计算机科学与技术博士后科研流动站简介<button>
+<button>2026-04-032026年清明假期值班安排<button>
+<button>2026-01-152025-2026学年寒假值班表<button>
+<button>2026-01-152025-2026学年寒假值班表<button>
+<button>更多信息<button>
+<button>2026-04-29明智讲堂系列学术报告（张大庆 欧洲科学院院士，北京大学讲席教授）<button>
+<button>2026-04-23CCF走进高校系列学术报告（尹一通 南京大学 教授；陈翌佳 上海交通大学 教授；唐志皓 上海财经大学 长聘副...<button>
+<button>2026-03-12明智讲堂系列学术报告（滕尚华 南加州大学 教授）<button>
+<button>2025-12-25国家自然科学基金申请书撰写经验交流<button>
+<button>292026-04转：关于开展2026年度校级教学改革研究项目申报工作的通知<button>
+<button>232026-04转：关于组织开展2026年度省级大中小学课程教材研究项目立项及国家级项目推荐工作的通知<button>
+<button>232026-04关于2026届本科毕业设计（论文）答辩（第一次）相关事项的通知<button>
+<button>202026-04计算机科学与技术学院2026年春季学期新教师公开课安排<button>
+<button>162026-042026年浙江师范大学第六届网络与信息安全竞赛通知<button>
+<button>032026-04转：浙江师范大学关于2026年度高校课程思政教学案例征集的通知<button>
+<button>062026-052026年上半年研究生学位论文答辩前需注意事项<button>
+<button>142026-04关于开展2026年硕士研究生导师招生资格认定工作的通知<button>
+<button>142026-04关于开展2027年博士研究生导师招生资格认定工作的通知<button>
+<button>222025-12关于做好2026年上半年研究生学位论文答辩和学位授予工作的通知（转）<button>
+<button>292026-04计算机科学与技术学院2026年“申请-考核”方式招收博士学位研究生材料评分公示<button>
+<button>112026-04计算机科学与技术学院2026年硕士研究生调剂复试拟录取名单<button>
+<button>212026-04十佳 + 1、入围奖 + 1，计科学子再创佳绩<button>
+<button>212026-04丽泽故事汇 | 聚智计科，共话征程——ACM集训队建队22周年庆祝活动<button>
+<button>132026-04计算机科学与技术学院关于第二十届浙江师范大学 “十佳学子”推荐名单公示<button>
+<button>182026-03关于评选第六届研究生“十佳学术之星”拟推荐名单的公示<button>
+<button>122026-03计算机科学与技术学院2026届省级优秀毕业研究生（第二批）拟推荐名单公示<button>
+<button>172025-12计算机学院举办跨学科场景下的项目化创新实践育人沙龙<button>
+<button>212025-06青海省中小学人工智能种子教师提升培训开班仪式顺利举行<button>
+<button>192025-06柬埔寨教育数字化研修班在浙师大结业<button>
+<button>062025-06柬埔寨教育数字化研修班在浙师大开班<button>
+<button>272025-05斯里兰卡普通级教育数字化转型研修班在浙师大结业<button>
+<button>152025-05斯里兰卡普通级教育数字化转型研修班在浙师大开班<button>
+<button>282024-05牙买加教育信息化研修班在浙师大顺利结业<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到2019年重阳节期间和随后的11月，浙江师范大学计算机科学与技术学院向退休教职工传达敬意的活动形式。首先，我应该访问学院的主页，并查看是否有相关的通知公告或新闻动态。
+
+Action: visit_page
+Action Input: {"button": "网站首页"}
+
+----- VisitPage -----
+The web information is:
+
+|  ]( "计算机科学与技术学院2026年专任教师招聘公告")  |  
+| --- |  
+×关闭
+)
+)
+                                                                                                                                                                                                                        
+]( "浙江师范大学")
+]( "浙江师范大学")
+]( "浙江师范大学")
+学院动态
+news
+2026-04-21
+2026-04-21
+2026-04-19
+2026-04-15
+2026-04-11
+          
+通知公告
+notice
+          
+学术动态
+Scientific Research
+          
+其他信息
+Other
+本科教学 研究生教学 科学研究 学工在线 交流合作
+            ]( "显示更多")
+            ]( "显示更多")
+            ]( "显示更多")
+            ]( "显示更多")
+            ]( "显示更多")
+                                                                                                    
+## 联系我们
+地 址：浙江省金华市迎宾大道688号 电 话：0579-82291988（院办） 电 话：82291995（教务办） 电 话：82291987（学工办） 电 话：82280197（学科建设与研究生办）Email：jsjxy@zjnu.edu.cn 邮编：321004 院长书记信箱：jsj12345@zjnu.edu.cn
+## 学院公众号
+!
+## 扫一扫关注我们
+©   
+                                                                                                                                                                                                                        
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>网站首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学院标识<button>
+<button>党建思政<button>
+<button>党建工作<button>
+<button>标杆院系<button>
+<button>工会动态<button>
+<button>青年之声<button>
+<button>学习园地<button>
+<button>师资队伍<button>
+<button>人才梯队<button>
+<button>专任教师<button>
+<button>博士后<button>
+<button>人才引进<button>
+<button>本科教学<button>
+<button>通知公告<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>教学研究与建设<button>
+<button>实验室管理<button>
+<button>研究生教学<button>
+<button>通知公告<button>
+<button>学位点介绍<button>
+<button>博士学位点<button>
+<button>硕士学位点<button>
+<button>学位点建设年度报告<button>
+<button>导师简介<button>
+<button>招生工作<button>
+<button>培养工作<button>
+<button>培养方案<button>
+<button>培养资料<button>
+<button>学位工作<button>
+<button>常用下载<button>
+<button>科学研究<button>
+<button>通知公告<button>
+<button>学科平台<button>
+<button>学术交流<button>
+<button>研究动态<button>
+<button>科研成果<button>
+<button>科研项目<button>
+<button>常用下载<button>
+<button>学工在线<button>
+<button>公示公告<button>
+<button>学工动态<button>
+<button>交流合作<button>
+<button>国际交流<button>
+<button>社会服务<button>
+<button>信息服务<button>
+<button>学院文件<button>
+<button>规章制度<button>
+<button>常用下载<button>
+<button>校友力量<button>
+<button>校友之窗<button>
+<button>微光基金<button>
+<button>更多信息<button>
+<button>十佳 + 1、入围奖 + 1，计科学子再创佳绩<button>
+<button>计算机学院ACM集训队校友捐赠签约仪式圆满举行<button>
+<button>计算机学院举行兼职教授聘任仪式<button>
+<button>浙师大计算机学院与金华市第四中学实践基地项目签约授...<button>
+<button>浙江广厦建设职业技术大学信息学院党总支一行赴我院调...<button>
+<button>2026-04-24金华城发集团、达索系统与中国电信金华分公司来院交流...4月23日，金华市城市发展集团有限公司党委委员、纪委书记、监察专员李勇强，达索系统大中华区创新业务发展总监陈曦，中国电信金华分公司党委委员、副总经理陈灏一行来我院...<button>
+<button>2026-04-242026第二届CCF浙里院长论坛成功举办4月18日，2026第二届CCF浙里院长论坛在浙江金华成功举办。本次论坛以“智启未来——AI时代计算机学科建设与人才适配协同创新”为主题，汇聚省内外高校计算机学院院长和行业权...<button>
+<button>2026-04-21计算机学院ACM集训队校友捐赠签约仪式圆满举行值此浙江师范大学70周年校庆之际，为助力计算机学院ACM集训队高质量发展，持续夯实学科竞赛人才培养根基，我院于4月19日隆重举行ACM集训队校友捐赠签约仪式。本次捐赠由201...<button>
+<button>2026-04-19计算机学院举行兼职教授聘任仪式4月18日下午，浙江师范大学计算机科学与技术学院兼职教授聘任仪式在17幢401室顺利举行。学院院友、浙江省桐乡凤鸣高中书记、校长唐世强，学院院友、嘉善县陶庄中学书记、校...<button>
+<button>2026-04-18计算机学院举办青年博士座谈会4月17日，计算机学院在17幢401会议室召开青年博士座谈会，学院党委书记郦炬、副院长贾日恒、全体青年博士参加。<button>
+<button>更多信息<button>
+<button>2023-04-062026年浙江师范大学计算机科学与技术博士后科研流动站简介<button>
+<button>2026-04-032026年清明假期值班安排<button>
+<button>2026-01-152025-2026学年寒假值班表<button>
+<button>2026-01-152025-2026学年寒假值班表<button>
+<button>更多信息<button>
+<button>2026-04-29明智讲堂系列学术报告（张大庆 欧洲科学院院士，北京大学讲席教授）<button>
+<button>2026-04-23CCF走进高校系列学术报告（尹一通 南京大学 教授；陈翌佳 上海交通大学 教授；唐志皓 上海财经大学 长聘副...<button>
+<button>2026-03-12明智讲堂系列学术报告（滕尚华 南加州大学 教授）<button>
+<button>2025-12-25国家自然科学基金申请书撰写经验交流<button>
+<button>292026-04转：关于开展2026年度校级教学改革研究项目申报工作的通知<button>
+<button>232026-04转：关于组织开展2026年度省级大中小学课程教材研究项目立项及国家级项目推荐工作的通知<button>
+<button>232026-04关于2026届本科毕业设计（论文）答辩（第一次）相关事项的通知<button>
+<button>202026-04计算机科学与技术学院2026年春季学期新教师公开课安排<button>
+<button>162026-042026年浙江师范大学第六届网络与信息安全竞赛通知<button>
+<button>032026-04转：浙江师范大学关于2026年度高校课程思政教学案例征集的通知<button>
+<button>062026-052026年上半年研究生学位论文答辩前需注意事项<button>
+<button>142026-04关于开展2026年硕士研究生导师招生资格认定工作的通知<button>
+<button>142026-04关于开展2027年博士研究生导师招生资格认定工作的通知<button>
+<button>222025-12关于做好2026年上半年研究生学位论文答辩和学位授予工作的通知（转）<button>
+<button>292026-04计算机科学与技术学院2026年“申请-考核”方式招收博士学位研究生材料评分公示<button>
+<button>112026-04计算机科学与技术学院2026年硕士研究生调剂复试拟录取名单<button>
+<button>212026-04十佳 + 1、入围奖 + 1，计科学子再创佳绩<button>
+<button>212026-04丽泽故事汇 | 聚智计科，共话征程——ACM集训队建队22周年庆祝活动<button>
+<button>132026-04计算机科学与技术学院关于第二十届浙江师范大学 “十佳学子”推荐名单公示<button>
+<button>182026-03关于评选第六届研究生“十佳学术之星”拟推荐名单的公示<button>
+<button>122026-03计算机科学与技术学院2026届省级优秀毕业研究生（第二批）拟推荐名单公示<button>
+<button>172025-12计算机学院举办跨学科场景下的项目化创新实践育人沙龙<button>
+<button>212025-06青海省中小学人工智能种子教师提升培训开班仪式顺利举行<button>
+<button>192025-06柬埔寨教育数字化研修班在浙师大结业<button>
+<button>062025-06柬埔寨教育数字化研修班在浙师大开班<button>
+<button>272025-05斯里兰卡普通级教育数字化转型研修班在浙师大结业<button>
+<button>152025-05斯里兰卡普通级教育数字化转型研修班在浙师大开班<button>
+<button>282024-05牙买加教育信息化研修班在浙师大顺利结业<button>
+
+----- WebWalker -----
+Thought: 网站首页没有直接提到2019年重阳节期间和随后的11月的相关活动。我需要访问“通知公告”页面，查看是否有相关的活动信息。
+
+Action: visit_page
+Action Input: {"button": "通知公告"}
+
+----- VisitPage -----
+The web information is:
+
+
+)
+)
+                                                                                                                                                                                                                        
+通知公告
+  * 07
+九月
+ 2025-12-16
+  * 07
+九月
+ 2025-12-15
+  * 07
+九月
+ 2025-12-05
+  * 07
+九月
+ 2025-12-05
+  * 07
+九月
+ 2025-11-18
+  * 07
+九月
+ 2025-11-17
+  * 07
+九月
+ 2025-11-11
+  * 07
+九月
+ 2025-11-10
+  * 07
+九月
+ 2025-11-07
+  * 07
+九月
+ 2025-10-30
+  * 每页  _10_ 记录  总共  _217_ 记录 
+  * ;) ;)  
+  * 页码  _1_ /_22_ ;)
+科学研究
+              
+                                                                                                    
+## 联系我们
+地 址：浙江省金华市迎宾大道688号 电 话：0579-82291988（院办） 电 话：82291995（教务办） 电 话：82291987（学工办） 电 话：82280197（学科建设与研究生办）Email：jsjxy@zjnu.edu.cn 邮编：321004院长书记信箱：jsj12345@zjnu.edu.cn
+## 学院公众号
+!
+## 扫一扫关注我们
+©   
+                                                                                                                                                                                                                        
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>网站首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学院标识<button>
+<button>党建思政<button>
+<button>党建工作<button>
+<button>标杆院系<button>
+<button>工会动态<button>
+<button>青年之声<button>
+<button>学习园地<button>
+<button>师资队伍<button>
+<button>人才梯队<button>
+<button>专任教师<button>
+<button>博士后<button>
+<button>人才引进<button>
+<button>本科教学<button>
+<button>通知公告<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>教学研究与建设<button>
+<button>实验室管理<button>
+<button>研究生教学<button>
+<button>通知公告<button>
+<button>学位点介绍<button>
+<button>博士学位点<button>
+<button>硕士学位点<button>
+<button>学位点建设年度报告<button>
+<button>导师简介<button>
+<button>招生工作<button>
+<button>培养工作<button>
+<button>培养方案<button>
+<button>培养资料<button>
+<button>学位工作<button>
+<button>常用下载<button>
+<button>科学研究<button>
+<button>通知公告<button>
+<button>学科平台<button>
+<button>学术交流<button>
+<button>研究动态<button>
+<button>科研成果<button>
+<button>科研项目<button>
+<button>常用下载<button>
+<button>学工在线<button>
+<button>公示公告<button>
+<button>学工动态<button>
+<button>交流合作<button>
+<button>国际交流<button>
+<button>社会服务<button>
+<button>信息服务<button>
+<button>学院文件<button>
+<button>规章制度<button>
+<button>常用下载<button>
+<button>校友力量<button>
+<button>校友之窗<button>
+<button>微光基金<button>
+<button>首页<button>
+<button>下一页>><button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: 通知公告页面也没有直接提到2019年重阳节期间和随后的11月的相关活动。我需要访问“学院动态”页面，查看是否有相关的新闻报道。
+
+Action: visit_page
+Action Input: {"button": "学院动态"}
+
+----- VisitPage -----
+Button not found: 学院动态
+
+----- WebWalker -----
+Thought: "学院动态"按钮无法点击，可能是页面结构问题。我将尝试访问其他相关页面，如“党建思政”或“工会动态”，以寻找与退休教职工相关的活动信息。
+
+Action: visit_page
+Action Input: {"button": "党建思政"}
+
+----- VisitPage -----
+The web information is:
+
+
+)
+)
+                                                                                                                                                                                                                        
+党建思政
+  * 07
+九月
+ 2024-12-13
+  * 07
+九月
+ 2023-10-19
+  * 07
+九月
+ 2023-10-12
+  * 07
+九月
+ 2023-05-03
+  * 每页  _10_ 记录  总共  _4_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+党建思政
+          
+                                                                                                    
+## 联系我们
+地 址：浙江省金华市迎宾大道688号 电 话：0579-82291988（院办） 电 话：82291995（教务办） 电 话：82291987（学工办） 电 话：82280197（学科建设与研究生办）Email：jsjxy@zjnu.edu.cn 邮编：321004院长书记信箱：jsj12345@zjnu.edu.cn
+## 学院公众号
+!
+## 扫一扫关注我们
+©   
+                                                                                                                                                                                                                        
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>网站首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学院标识<button>
+<button>党建思政<button>
+<button>党建工作<button>
+<button>标杆院系<button>
+<button>工会动态<button>
+<button>青年之声<button>
+<button>学习园地<button>
+<button>师资队伍<button>
+<button>人才梯队<button>
+<button>专任教师<button>
+<button>博士后<button>
+<button>人才引进<button>
+<button>本科教学<button>
+<button>通知公告<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>教学研究与建设<button>
+<button>实验室管理<button>
+<button>研究生教学<button>
+<button>通知公告<button>
+<button>学位点介绍<button>
+<button>博士学位点<button>
+<button>硕士学位点<button>
+<button>学位点建设年度报告<button>
+<button>导师简介<button>
+<button>招生工作<button>
+<button>培养工作<button>
+<button>培养方案<button>
+<button>培养资料<button>
+<button>学位工作<button>
+<button>常用下载<button>
+<button>科学研究<button>
+<button>通知公告<button>
+<button>学科平台<button>
+<button>学术交流<button>
+<button>研究动态<button>
+<button>科研成果<button>
+<button>科研项目<button>
+<button>常用下载<button>
+<button>学工在线<button>
+<button>公示公告<button>
+<button>学工动态<button>
+<button>交流合作<button>
+<button>国际交流<button>
+<button>社会服务<button>
+<button>信息服务<button>
+<button>学院文件<button>
+<button>规章制度<button>
+<button>常用下载<button>
+<button>校友力量<button>
+<button>校友之窗<button>
+<button>微光基金<button>
+<button>首页<button>
+<button>计算机学院党委理论学习中心组召开专题学习会<button>
+<button>学院党委理论学习中心组召开学习贯彻习近平总书记考察浙江重要讲话精神专题学习会<button>
+<button>我院召开教职工会议传达学习习近平总书记考察浙江重要讲话精神<button>
+<button>主题教育·学 | 联学共建强信念 人才培养创一流——我院与地环学院党委理论中心组开展联学<button>
+
+----- WebWalker -----
+Thought: "党建思政"页面也没有提到2019年重阳节期间和随后的11月的相关活动。我将尝试访问“工会动态”页面，以寻找与退休教职工相关的活动信息。
+
+Action: visit_page
+Action Input: {"button": "工会动态"}
+
+----- VisitPage -----
+The web information is:
+
+
+)
+)
+                                                                                                                                                                                                                        
+工会动态
+  * 07
+九月
+ 2026-03-16
+  * 07
+九月
+ 2026-03-09
+  * 07
+九月
+ 2025-10-27
+  * 07
+九月
+ 2025-10-25
+  * 07
+九月
+ 2025-06-02
+  * 07
+九月
+ 2025-03-24
+  * 07
+九月
+ 2025-03-09
+  * 07
+九月
+ 2024-12-16
+  * 07
+九月
+ 2024-12-16
+  * 07
+九月
+ 2024-11-25
+  * 每页  _10_ 记录  总共  _32_ 记录 
+  * ;) ;)  
+  * 页码  _1_ /_4_ ;)
+党建思政
+          
+                                                                                                    
+## 联系我们
+地 址：浙江省金华市迎宾大道688号 电 话：0579-82291988（院办） 电 话：82291995（教务办） 电 话：82291987（学工办） 电 话：82280197（学科建设与研究生办）Email：jsjxy@zjnu.edu.cn 邮编：321004院长书记信箱：jsj12345@zjnu.edu.cn
+## 学院公众号
+!
+## 扫一扫关注我们
+©   
+                                                                                                                                                                                                                        
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>网站首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学院标识<button>
+<button>党建思政<button>
+<button>党建工作<button>
+<button>标杆院系<button>
+<button>工会动态<button>
+<button>青年之声<button>
+<button>学习园地<button>
+<button>师资队伍<button>
+<button>人才梯队<button>
+<button>专任教师<button>
+<button>博士后<button>
+<button>人才引进<button>
+<button>本科教学<button>
+<button>通知公告<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>教学研究与建设<button>
+<button>实验室管理<button>
+<button>研究生教学<button>
+<button>通知公告<button>
+<button>学位点介绍<button>
+<button>博士学位点<button>
+<button>硕士学位点<button>
+<button>学位点建设年度报告<button>
+<button>导师简介<button>
+<button>招生工作<button>
+<button>培养工作<button>
+<button>培养方案<button>
+<button>培养资料<button>
+<button>学位工作<button>
+<button>常用下载<button>
+<button>科学研究<button>
+<button>通知公告<button>
+<button>学科平台<button>
+<button>学术交流<button>
+<button>研究动态<button>
+<button>科研成果<button>
+<button>科研项目<button>
+<button>常用下载<button>
+<button>学工在线<button>
+<button>公示公告<button>
+<button>学工动态<button>
+<button>交流合作<button>
+<button>国际交流<button>
+<button>社会服务<button>
+<button>信息服务<button>
+<button>学院文件<button>
+<button>规章制度<button>
+<button>常用下载<button>
+<button>校友力量<button>
+<button>校友之窗<button>
+<button>微光基金<button>
+<button>首页<button>
+<button>绳彩飞扬展英姿——我院女教工获三八节跳绳比赛二等奖<button>
+<button>踏春寻花影，笑靥映春容 ——计算机学院开展“三八”节赏花踏青活动<button>
+<button>细品松瀑秋韵，寻访名人故居 ——记计算机学院、马克思学院与中心医院外科工会联谊活动<button>
+<button>2025年校运动会<button>
+<button>趣玩儿童节，亲子嘉年华 | 计算机学院庆 “六一” 趣味活动圆满落幕！<button>
+<button>踏春寻“莓”趣，共绘山水情——计算机学院教职工春游记<button>
+<button>巧手擀出星辰大海，巾帼包住时代芬芳 ——记计算机学院“三八”节包饺子活动<button>
+<button>浙师大-华数信创应用实验室（浙江省信创适配实验室）揭牌仪式暨信创发展高峰论坛成功举办<button>
+<button>在运动中收获快乐 ——计算机学院首届教职工羽毛球友谊赛顺利举行<button>
+<button>暖日寻芳，踏冬而行——记计算机学院工会活动<button>
+<button>下一页>><button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: "工会动态"页面中也没有直接提到2019年重阳节期间和随后的11月的相关活动。我需要访问“学工在线”或“社会服务”等页面，以寻找与退休教职工相关的活动信息。
+
+Action: visit_page
+Action Input: {"button": "学工在线"}
+
+----- VisitPage -----
+The web information is:
+
+
+)
+)
+                                                                                                                                                                                                                        
+公示公告
+  * 07
+九月
+ 2026-04-13
+  * 07
+九月
+ 2026-03-18
+  * 07
+九月
+ 2026-03-12
+  * 每页  _10_ 记录  总共  _3_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+学工在线
+    
+                                                                                                    
+## 联系我们
+地 址：浙江省金华市迎宾大道688号 电 话：0579-82291988（院办） 电 话：82291995（教务办） 电 话：82291987（学工办） 电 话：82280197（学科建设与研究生办）Email：jsjxy@zjnu.edu.cn 邮编：321004院长书记信箱：jsj12345@zjnu.edu.cn
+## 学院公众号
+!
+## 扫一扫关注我们
+©   
+                                                                                                                                                                                                                        
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>网站首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学院标识<button>
+<button>党建思政<button>
+<button>党建工作<button>
+<button>标杆院系<button>
+<button>工会动态<button>
+<button>青年之声<button>
+<button>学习园地<button>
+<button>师资队伍<button>
+<button>人才梯队<button>
+<button>专任教师<button>
+<button>博士后<button>
+<button>人才引进<button>
+<button>本科教学<button>
+<button>通知公告<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>教学研究与建设<button>
+<button>实验室管理<button>
+<button>研究生教学<button>
+<button>通知公告<button>
+<button>学位点介绍<button>
+<button>博士学位点<button>
+<button>硕士学位点<button>
+<button>学位点建设年度报告<button>
+<button>导师简介<button>
+<button>招生工作<button>
+<button>培养工作<button>
+<button>培养方案<button>
+<button>培养资料<button>
+<button>学位工作<button>
+<button>常用下载<button>
+<button>科学研究<button>
+<button>通知公告<button>
+<button>学科平台<button>
+<button>学术交流<button>
+<button>研究动态<button>
+<button>科研成果<button>
+<button>科研项目<button>
+<button>常用下载<button>
+<button>学工在线<button>
+<button>公示公告<button>
+<button>学工动态<button>
+<button>交流合作<button>
+<button>国际交流<button>
+<button>社会服务<button>
+<button>信息服务<button>
+<button>学院文件<button>
+<button>规章制度<button>
+<button>常用下载<button>
+<button>校友力量<button>
+<button>校友之窗<button>
+<button>微光基金<button>
+<button>首页<button>
+<button>计算机科学与技术学院关于第二十届浙江师范大学 “十佳学子”推荐名单公示<button>
+<button>关于评选第六届研究生“十佳学术之星”拟推荐名单的公示<button>
+<button>计算机科学与技术学院2026届省级优秀毕业研究生（第二批）拟推荐名单公示<button>
+
+----- WebWalker -----
+Thought: "学工在线"页面也没有提到2019年重阳节期间和随后的11月的相关活动。我需要访问“社会服务”页面，以寻找与退休教职工相关的活动信息。
+
+Action: visit_page
+Action Input: {"button": "社会服务"}
+
+----- VisitPage -----
+The web information is:
+
+
+)
+)
+                                                                                                                                                                                                                        
+社会服务
+  * 07
+九月
+ 2025-06-21
+  * 07
+九月
+ 2025-06-19
+  * 07
+九月
+ 2025-06-19
+  * 07
+九月
+ 2025-05-27
+  * 07
+九月
+ 2025-05-15
+  * 07
+九月
+ 2024-05-28
+  * 07
+九月
+ 2024-05-19
+  * 07
+九月
+ 2023-07-27
+  * 07
+九月
+ 2023-07-28
+  * 07
+九月
+ 2023-07-28
+  * 每页  _10_ 记录  总共  _23_ 记录 
+  * ;) ;)  
+  * 页码  _1_ /_3_ ;)
+交流合作
+    
+                                                                                                    
+## 联系我们
+地 址：浙江省金华市迎宾大道688号 电 话：0579-82291988（院办） 电 话：82291995（教务办） 电 话：82291987（学工办） 电 话：82280197（学科建设与研究生办）Email：jsjxy@zjnu.edu.cn 邮编：321004院长书记信箱：jsj12345@zjnu.edu.cn
+## 学院公众号
+!
+## 扫一扫关注我们
+©   
+                                                                                                                                                                                                                        
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>网站首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学院标识<button>
+<button>党建思政<button>
+<button>党建工作<button>
+<button>标杆院系<button>
+<button>工会动态<button>
+<button>青年之声<button>
+<button>学习园地<button>
+<button>师资队伍<button>
+<button>人才梯队<button>
+<button>专任教师<button>
+<button>博士后<button>
+<button>人才引进<button>
+<button>本科教学<button>
+<button>通知公告<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>教学研究与建设<button>
+<button>实验室管理<button>
+<button>研究生教学<button>
+<button>通知公告<button>
+<button>学位点介绍<button>
+<button>博士学位点<button>
+<button>硕士学位点<button>
+<button>学位点建设年度报告<button>
+<button>导师简介<button>
+<button>招生工作<button>
+<button>培养工作<button>
+<button>培养方案<button>
+<button>培养资料<button>
+<button>学位工作<button>
+<button>常用下载<button>
+<button>科学研究<button>
+<button>通知公告<button>
+<button>学科平台<button>
+<button>学术交流<button>
+<button>研究动态<button>
+<button>科研成果<button>
+<button>科研项目<button>
+<button>常用下载<button>
+<button>学工在线<button>
+<button>公示公告<button>
+<button>学工动态<button>
+<button>交流合作<button>
+<button>国际交流<button>
+<button>社会服务<button>
+<button>信息服务<button>
+<button>学院文件<button>
+<button>规章制度<button>
+<button>常用下载<button>
+<button>校友力量<button>
+<button>校友之窗<button>
+<button>微光基金<button>
+<button>首页<button>
+<button>青海省中小学人工智能种子教师提升培训开班仪式顺利举行<button>
+<button>柬埔寨教育数字化研修班在浙师大结业<button>
+<button>柬埔寨教育数字化研修班在浙师大开班<button>
+<button>斯里兰卡普通级教育数字化转型研修班在浙师大结业<button>
+<button>斯里兰卡普通级教育数字化转型研修班在浙师大开班<button>
+<button>牙买加教育信息化研修班在浙师大顺利结业<button>
+<button>牙买加教育信息化研修班在浙师大开班<button>
+<button>我院商务部来华援外项目“软件教师研修班”举行结业典礼<button>
+<button>我院商务部来华援外项目“软件教师研修班”顺利开班<button>
+<button>我院商务部来华援外项目2023年“发展中国家教育信息化研修班”举行结业典礼<button>
+<button>下一页>><button>
+<button>尾页<button>
+
+----- WebWalker -----
+Thought: "社会服务"页面也没有提到2019年重阳节期间和随后的11月的相关活动。我需要访问“国际交流”或“交流合作”等页面，以寻找与退休教职工相关的活动信息。
+
+Action: visit_page
+Action Input: {"button": "国际交流"}
+
+----- VisitPage -----
+The web information is:
+
+
+)
+)
+                                                                                                                                                                                                                        
+国际交流
+  * 07
+九月
+ 2022-06-01
+  * 07
+九月
+ 2021-07-08
+  * 07
+九月
+ 2019-03-11
+  * 每页  _10_ 记录  总共  _3_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+交流合作
+    
+                                                                                                    
+## 联系我们
+地 址：浙江省金华市迎宾大道688号 电 话：0579-82291988（院办） 电 话：82291995（教务办） 电 话：82291987（学工办） 电 话：82280197（学科建设与研究生办）Email：jsjxy@zjnu.edu.cn 邮编：321004院长书记信箱：jsj12345@zjnu.edu.cn
+## 学院公众号
+!
+## 扫一扫关注我们
+©   
+                                                                                                                                                                                                                        
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>网站首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>现任领导<button>
+<button>机构设置<button>
+<button>学院标识<button>
+<button>党建思政<button>
+<button>党建工作<button>
+<button>标杆院系<button>
+<button>工会动态<button>
+<button>青年之声<button>
+<button>学习园地<button>
+<button>师资队伍<button>
+<button>人才梯队<button>
+<button>专任教师<button>
+<button>博士后<button>
+<button>人才引进<button>
+<button>本科教学<button>
+<button>通知公告<button>
+<button>专业设置<button>
+<button>培养方案<button>
+<button>教学研究与建设<button>
+<button>实验室管理<button>
+<button>研究生教学<button>
+<button>通知公告<button>
+<button>学位点介绍<button>
+<button>博士学位点<button>
+<button>硕士学位点<button>
+<button>学位点建设年度报告<button>
+<button>导师简介<button>
+<button>招生工作<button>
+<button>培养工作<button>
+<button>培养方案<button>
+<button>培养资料<button>
+<button>学位工作<button>
+<button>常用下载<button>
+<button>科学研究<button>
+<button>通知公告<button>
+<button>学科平台<button>
+<button>学术交流<button>
+<button>研究动态<button>
+<button>科研成果<button>
+<button>科研项目<button>
+<button>常用下载<button>
+<button>学工在线<button>
+<button>公示公告<button>
+<button>学工动态<button>
+<button>交流合作<button>
+<button>国际交流<button>
+<button>社会服务<button>
+<button>信息服务<button>
+<button>学院文件<button>
+<button>规章制度<button>
+<button>常用下载<button>
+<button>校友力量<button>
+<button>校友之窗<button>
+<button>微光基金<button>
+<button>首页<button>
+<button>美国德州大学奥斯汀分校（世界排名40）在线暑期项目通知<button>
+<button>美国德州大学奥斯汀分校（世界排名40）在线暑期项目通知<button>
+<button>研途精彩，去看远方的世界 ——记我院2017届软件工程专业出国读研概况<button>

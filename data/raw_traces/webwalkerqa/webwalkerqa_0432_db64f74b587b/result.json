@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0432_db64f74b587b",
+  "source_index": 432,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年，安徽大学计算机科学与技术学院在NCCA竞赛和小米技术峰会中分别取得哪些奖项和荣誉？",
+  "prompt": "在2024年，安徽大学计算机科学与技术学院在NCCA竞赛和小米技术峰会中分别取得哪些奖项和荣誉？",
+  "expected_answer": "在NCCA竞赛中获得全国一等奖；在小米技术峰会中获得校企协同创新奖。",
+  "root_url": "https://cs.ahu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.ahu.edu.cn/2024/1021/c11156a349782/page.htm",
+      "https://cs.ahu.edu.cn/2024/1024/c11156a350052/page.htm"
+    ],
+    "golden_path": [
+      "root->我院研究生在大模型相关比赛中取得佳绩",
+      "root->我院荣获小米集团校企协同创新奖"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 4,
+  "tool_calls": 1,
+  "duration_seconds": 5.738,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0432_db64f74b587b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0432_db64f74b587b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

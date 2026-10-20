@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0235_5297291a0055",
+  "source_index": 235,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北汽集团党委书记和董事长在2024年7月19日强调了什么重要会议的精神，这次会议对北汽高质量发展有什么样的指导作用？",
+  "prompt": "北汽集团党委书记和董事长在2024年7月19日强调了什么重要会议的精神，这次会议对北汽高质量发展有什么样的指导作用？",
+  "expected_answer": "张建勇在2024年7月19日强调了党的二十届三中全会的精神，指引北汽进一步做好深化改革、促进发展的各项举措。",
+  "root_url": "https://www.baicgroup.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.baicgroup.com.cn/dynamics-of-the-party/23.2334.html"
+    ],
+    "golden_path": [
+      "root->党建动态->北汽集团党委理论学习中心组第一时间集体学习党的二十届三中全会精神2024/07/19"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 53.829,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0235_5297291a0055/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0235_5297291a0055/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,868 @@
+----- user -----
+query:
+《多多自走棋》发布的【棋士证书】中，，哪一个新赛季开始的时间与S16赛季棋士证书同时开启，并且新赛季持续多少周？
+official website:
+http://ac.dragonest.com/
+Observation:website information:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+# !
+游戏下载
+!
+2022-08-31
+拍卖行新手指南
+!
+2025-05-27
+5月29日停服更新公告
+](
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+clickable button:
+
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>查看更多<button>
+<button>查看详情<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the information about the release of the "棋士证书" and determine which new season starts at the same time as the S16 season's certificate and how long the new season lasts. The best way is to start by visiting the "公告" (Announcements) page, as it likely contains relevant information.
+
+Action: visit_page
+Action Input: {"button": "公告"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+更新公告
+ANNOUNCEMENT
+ 5月29日停服更新公告 多多自走棋 2025-05-28 ]( 5月8日在线更新公告 多多自走棋 2025-05-08 ]( 4月24日在线更新公告 多多自走棋 2025-04-23 ](
+ 4月17日在线更新公告 多多自走棋 2025-04-16 ]( 4月10日在线更新公告 多多自走棋 2025-04-09 ]( 3月27日停服更新公告 多多自走棋 2025-04-01 ](
+ 11月28日停服更新公告 多多自走棋 2025-04-01 ]( 1月23日停服更新公告 多多自走棋 2025-04-01 ]( 2月13日停服更新公告 多多自走棋 2025-04-01 ](
+点击加载更多 
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>5月29日停服更新公告多多自走棋2025-05-28<button>
+<button>5月8日在线更新公告多多自走棋2025-05-08<button>
+<button>4月24日在线更新公告多多自走棋2025-04-23<button>
+<button>4月17日在线更新公告多多自走棋2025-04-16<button>
+<button>4月10日在线更新公告多多自走棋2025-04-09<button>
+<button>3月27日停服更新公告多多自走棋2025-04-01<button>
+<button>11月28日停服更新公告多多自走棋2025-04-01<button>
+<button>1月23日停服更新公告多多自走棋2025-04-01<button>
+<button>2月13日停服更新公告多多自走棋2025-04-01<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+The "公告" (Announcements) page contains several update announcements. To find the information about the release of the "棋士证书" and determine which new season starts at the same time as the S16 season's certificate and how long the new season lasts, I should click on the specific announcement related to the "棋士证书." The most relevant button is likely the one mentioning the release of the "棋士证书."
+
+Action: visit_page
+Action Input: {"button": "棋士证书"}
+
+----- VisitPage -----
+Button not found: 棋士证书
+
+----- WebWalker -----
+The "棋士证书" button is not clickable, so I need to look for other buttons that might provide information about the release of the "棋士证书." The most relevant option is likely the "公告" (Announcements) page, which contains detailed updates. I will revisit the "公告" page and search for any announcements related to the "棋士证书."
+
+Action: visit_page
+Action Input: {"button": "公告"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+更新公告
+ANNOUNCEMENT
+ 5月29日停服更新公告 多多自走棋 2025-05-28 ]( 5月8日在线更新公告 多多自走棋 2025-05-08 ]( 4月24日在线更新公告 多多自走棋 2025-04-23 ](
+ 4月17日在线更新公告 多多自走棋 2025-04-16 ]( 4月10日在线更新公告 多多自走棋 2025-04-09 ]( 3月27日停服更新公告 多多自走棋 2025-04-01 ](
+ 11月28日停服更新公告 多多自走棋 2025-04-01 ]( 1月23日停服更新公告 多多自走棋 2025-04-01 ]( 2月13日停服更新公告 多多自走棋 2025-04-01 ](
+点击加载更多 
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>5月29日停服更新公告多多自走棋2025-05-28<button>
+<button>5月8日在线更新公告多多自走棋2025-05-08<button>
+<button>4月24日在线更新公告多多自走棋2025-04-23<button>
+<button>4月17日在线更新公告多多自走棋2025-04-16<button>
+<button>4月10日在线更新公告多多自走棋2025-04-09<button>
+<button>3月27日停服更新公告多多自走棋2025-04-01<button>
+<button>11月28日停服更新公告多多自走棋2025-04-01<button>
+<button>1月23日停服更新公告多多自走棋2025-04-01<button>
+<button>2月13日停服更新公告多多自走棋2025-04-01<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+The "公告" (Announcements) page contains several update announcements, but none of the buttons directly mention the release of the "棋士证书." I need to look for an announcement that might be related to the "棋士证书" or the S16 season. The most relevant button is likely the one mentioning the latest updates, such as the "5月29日停服更新公告 多多自走棋 2025-05-28" (May 29th Server Maintenance Update Announcement for "多多自走棋" 2025-05-28). I will click on this button to check if it contains information about the "棋士证书" and the new season.
+
+Action: visit_page
+Action Input: {"button": "5月29日停服更新公告多多自走棋2025-05-28"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+### 5月29日停服更新公告
+多多自走棋 2025-05-28
+亲爱的各位棋友：
+  
+《多多自走棋》正式服将于5月29日 05:00（UTC+8）关闭匹配，06:00（UTC+8）开始进行停服更新维护，预计维护时间5个小时，维护期间暂时无法登录游戏，开服时间会因实际维护情况提前或推迟，请提前安排好您的游戏时间。本次更新内容如下：
+  
+  
+【新增棋子】
+女武神-瓦尔基里
+种族：先民
+职业：骑士
+品质：稀有
+生命值：700 / 1400 / 2800
+攻击力：70-110 / 140-220 / 280-440
+攻击间隔：1.6
+攻击距离：160
+护甲：7
+魔法抗性：0%
+技能：[闪耀连击]
+快速挥舞战锤，对周围的敌人造成普通攻击物理伤害。最后一次打击时，将战锤击向地面，还会对敌人造成眩晕。
+挥击/砸地额外伤害：15 / 30 / 45
+眩晕时间：0.5 / 0.5 / 1
+挥击范围：160
+砸地范围：160 / 160 / 234
+冷却时间：10 / 8 / 6
+  
+  
+【新增种族羁绊】
+先民[2]：所有先民棋子每5秒从最近的敌方棋子偷取(50+2%最大生命值)点生命值治疗自己。
+先民[4]：所有友方棋子获得效果:每当累计受到超过100点治疗会对周围敌人造成等于(累计治疗量)的纯粹伤害。
+单次伤害上限300，冷却时间5秒。
+  
+  
+【新增装备】
+1.恶魔手套
+品质：史诗
+攻击力+25
+[远古恶魔]：唯一被动，携带该装备的棋子造成的所有伤害都会转化为纯粹伤害。
+  
+2.双生獠牙
+品质：稀有
+攻击力+50
+[牙通牙]：唯一被动，携带该装备的棋子造成伤害时会同时伤害最多2个该目标的同名棋子。
+  
+  
+【棋库机制调整】
+1.取消扩展棋库，新增种族/职业屏蔽功能，现在可以消耗金币来屏蔽某一个种族或职业，每次仅可屏蔽一个。
+2.每局游戏开始时随机抽取8个 → 10个传说棋子为本局可抽取传说棋子，其中5个传说棋子开局将被隐藏，该场对局中首次刷出隐藏棋子并购买的玩家将获得5金币奖励。
+  
+  
+【装备屏蔽机制调整】
+1.开启完整的装备宝箱并选择随机获得装备时，若可供随机的装备数量不足3件，则会屏蔽本次放弃的3件装备并将该宝箱最开始屏蔽的3件装备加入装备宝箱。
+  
+  
+【新增圣物】
+1.禁止钓鱼
+该圣物生效期间，你可以免费屏蔽任意种族/职业。
+  
+  
+【棋子调整】
+1.灵魂收割者
+品质：史诗 → 传说
+生命值：800 / 1600 / 3200 → 1000 / 2000 / 4000
+攻击力：50-60 / 100-120 / 200-240 → 50-100 / 100-200 / 200-400
+护甲：4 → 6
+魔法抗性：15% → 30%
+移除技能[竭心脉冲]，新增技能[死神之镰]。
+[死神之镰]：使用死神镰刀斩击敌人，对一个敌方棋子造成眩晕和(基础伤害+最大生命值百分比)的纯粹伤害。如果敌人被斩杀(因为该技能死亡)，对周围释放治愈新星，治愈新星会对范围内的友方单位回复一定血量。
+技能类型：主动
+基础伤害：300 / 400 / 500
+最大生命值百分比伤害：15% / 25% / 35%
+治愈新星治疗量：200 / 300 / 400
+治愈新星影响范围：160 / 234 / 313
+冷却时间：8 / 7 / 6
+  
+2.盘羊骑士
+品质：稀有 → 传说
+生命值：750 / 1500 / 3000 → 1100 / 2200 / 4400
+攻击力：50-60 / 100-120 / 200-240 → 90-120 / 180-240 / 360-480
+护甲：8 → 10
+魔法抗性：10% → 20%
+移除技能[圣光洗礼]，新增技能[王者祝福]。
+[王者祝福]：使周围的友方棋子受到的物理伤害和魔法伤害大幅度降低，并驱散不良状态。
+技能类型：主动
+物理伤害减免：40% / 60% / 80%
+魔法伤害减免：40% / 60% / 80%
+持续时间：3 / 4 / 5
+作用范围：234 / 313 / 391
+冷却时间：12 / 10 / 8
+  
+3.剑客
+[旋风刃]：
+现在剑客将依据自身的攻击间隔调整技能伤害间隔，剑客的攻击速度越高，旋风刃的伤害间隔越短。
+  
+4.梦魇
+品质：稀有 → 史诗
+生命值：750 / 1500 / 3000 → 900 / 1800 / 3600
+魔法抗性：20% → 30%
+  
+5.刺魂者
+额外增加种族羁绊：先民
+  
+  
+【羁绊调整】
+1.神族
+神族[6]：消耗法力值释放的技能会使自身主动技能和主动装备技能的当前剩余冷却时间减少50%。
+  
+  
+【装备调整】
+1.战争号角
+[鼓舞]：唯一被动，携带者召唤的召唤物获得攻击速度+100%，持续时间+100%的效果。
+  
+  
+【圣物调整】
+1.莫莫菈之巢
+绑定棋库棋子数量，若放入巢穴中的棋子对应棋库棋子数量不足以用于升星，则不会提升巢穴等级。
+  
+2.独眼养猪场
+圣物持续时间结束后，猪将不再增加出售价值。
+  
+  
+【其他调整】
+1.野怪被击败后将会掉落金币。
+2.调整了部分棋手等级提升时所需的经验值，具体调整情况如下：
+当前棋手等级：升到下一级所需经验值变化
+6：24 → 32
+7：36 → 48
+8：48 → 56
+9：60 → 64
+  
+  
+【优化】
+1.对大厅界面、开箱界面、模式选择界面、战斗界面的整体布局进行了优化。
+2.对棋子的初始皮肤模型进行了优化。
+  
+  
+以上便是我们此次更新的主要内容。如有问题，请联系客服，感谢您的支持。 
+  
+《多多自走棋》运营团队
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+The "5月29日停服更新公告" (May 29th Server Maintenance Update Announcement) does not mention the release of the "棋士证书" or any information about the new season starting at the same time as the S16 season's certificate. I need to look for other announcements that might contain this information. The next step is to check the "5月8日在线更新公告" (May 8th Online Update Announcement), which is another recent update announcement.
+
+Action: visit_page
+Action Input: {"button": "5月8日在线更新公告多多自走棋2025-05-08"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+### 5月8日在线更新公告
+多多自走棋 2025-05-08
+亲爱的各位棋友：
+  
+《多多自走棋》将于2025年5月8日10:00（UTC+8）进行在线更新，本次更新时间预计1小时，在更新过程中可能会出现网络波动、掉线无法重连，为您带来不便十分抱歉，如有问题请联系客服，感谢您的支持。以下是本次的更新内容：
+  
+  
+【棋子调整】
+1.山魁
+[山崩地裂]：
+伤害：60 / 90 / 150 → 100 / 150 / 250
+溅射范围：313 → 313 / 352 / 430
+冷却时间：14 / 12 / 10 → 12 / 9 / 6
+  
+2.毁灭者
+[定时炸弹]：
+伤害：600 / 1000 / 1500 → 800 / 1200 / 2000
+冷却时间：12 → 12 / 10 / 8
+  
+3.沉沦守卫
+[群魔乱舞]：
+溅射伤害百分比：50% / 60% / 70% → 50% / 50% / 50%
+  
+4.魅影女王
+[魔音]：
+最小宽度：312 → 160
+最大宽度：546 → 274
+伤害：300 / 400 / 600 → 250 / 350 / 550
+  
+5.雷神
+[落雷]：
+额外伤害：15% / 25% / 35% → 15% / 25% / 45%
+  
+6.烈日可汗
+[裂土为王]：
+昏迷时间：2 / 2.5 / 3 → 1.5 / 1.5 / 1.5
+伤害：100 / 150 / 200 → 20 / 25 / 30
+额外伤害：10% / 15% / 20% → 8% / 12% / 20%
+  
+7.海盗船长
+[幽灵船]：
+作用范围：273 → 313 / 352 / 391
+伤害：200 / 300 / 500 → 250 / 350 / 600
+冷却时间：13 / 11 / 9 → 15 / 12 / 9
+  
+8.赤狐剑士
+[狐里剑]：
+出剑次数：3 / 4 / 5 → 4 / 5 / 6
+狐里剑宽度：200 → 160
+狐里剑长度：500 → 429 / 469 / 508
+  
+9.龙骑士
+攻击力：65-75 / 130-150 / 260-300 → 80-90 / 160-180 / 320-360
+[共鸣]：
+攻速降低：0% / 40% / 40% → 0% / 25% / 25%
+  
+10.萃毒者
+生命值：1000 / 2000 / 4000 → 1050 / 2100 / 4200
+攻击力：50-80 / 100-160 / 200-320 → 50-110 / 100-220 / 200-440
+[化学狂暴]：
+攻击间隔降低至：0.7 / 0.6 / 0.5 → 0.6 / 0.55 / 0.5
+护甲降低：4 / 7 / 10 → 4 / 8 / 12
+BUFF延迟生效时间：0.3
+  
+11.噬魂巫师
+[湮灭]：
+冷却时间：8 / 6 / 4 → 9 / 7 / 5
+基础伤害：400 / 600 / 1000 → 500 / 750 / 1000
+  
+12.狼人
+[解放兽性]：
+移除生命加成，新增攻击加成：50 / 75 / 100
+召唤物数量：2 / 2 / 3
+变身过程中增加不可被选中的状态
+  
+13.末日审判官
+攻击力：100-110 / 200-220 / 400-440 → 110-120 / 220-240 / 440-480
+护甲：8 → 10
+[诅咒]：
+持续时间：10 / 15 / 20 → 7 / 10 / 20
+  
+14.逐日祭司
+攻击力：45-90 / 90-180 / 180-360 → 80-120 / 160-240 / 320-480
+攻击间隔：1.3 → 1.4
+[大地鼓动]：
+眩晕时间：2 / 3 / 5 → 3 / 4 / 5
+伤害：300 / 400 / 600 → 250 / 400 / 700
+  
+15.永夜守望者
+护甲：4 → 7
+魔抗：15% → 5%
+[永夜之握]：
+作用范围：300 / 350 / 400 → 273 / 313 / 391
+每格距离额外眩晕时间：0.5 / 0.5 / 1 → 0.5 / 0.5 / 0.5
+冷却时间：25 / 20 / 15 → 15 / 12 / 9
+  
+16.黯焰之刃
+攻击力：50-100 / 100-200 / 200-400 → 50-80 / 100-160 / 200-320
+[星火燎原]：
+伤害范围：220 / 278 / 389 → 234 / 273 / 313
+额外伤害：100 / 200 / 400 → 100 / 200 / 300
+  
+17.幽影夜行者
+[幽影之击]：
+概率：12% / 18% / 25% → 10% / 10% / 10%
+  
+18.玉石之军
+攻击力：40-90 / 80-180 / 160-360 → 40-70 / 80-140 / 160-280
+[石破天惊]：
+巨石数量：2 / 2 / 3 → 1 / 2 / 3
+眩晕时间：1.5 / 2 / 2.5 → 3 / 3 / 4
+伤害：250 / 350 / 450 → 250 / 350 / 500
+冷却时间：8 / 6 / 4 → 6 / 5 / 4
+  
+19.火器大师
+攻击间隔：1.3 → 1.2
+  
+20.沼泽蛛后
+生命值：900 / 1800 / 3600 → 950 / 1900 / 3800
+攻击间隔：1.2 → 1.1
+  
+  
+【装备调整】
+1.神使魔晶
+装备品质：稀有 → 罕见
+  
+  
+【修复】
+1.修复历战等级2级及以上的历战皮肤在局内无法触发炫彩皮肤专属烙印效果的问题。
+  
+  
+以上便是我们此次更新的主要内容。如有问题，请联系客服，感谢您的支持。
+  
+《多多自走棋》运营团队 
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+The "5月8日在线更新公告" (May 8th Online Update Announcement) also does not mention the release of the "棋士证书" or any information about the new season starting at the same time as the S16 season's certificate. I need to look for other announcements that might contain this information. The next step is to check the "4月24日在线更新公告" (April 24th Online Update Announcement), which is another recent update announcement.
+
+Action: visit_page
+Action Input: {"button": "4月24日在线更新公告多多自走棋2025-04-23"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+### 4月24日在线更新公告
+多多自走棋 2025-04-23
+亲爱的各位棋友：
+  
+《多多自走棋》将于2025年4月24日10:00（UTC+8）进行在线更新，本次更新时间预计1小时，在更新过程中可能会出现网络波动、掉线无法重连，为您带来不便十分抱歉，如有问题请联系客服，感谢您的支持。以下是本次的更新内容：
+  
+  
+【棋士证书】
+S30上半赛季的棋士证书将于2025年4月30日结束，各位棋友可在赛季结束前达成证书等级目标，赢取丰厚奖励。
+S30下半赛季的棋士证书将于2025年5月1日开启，全新棋子皮肤「画中仙」即将上线！
+  
+  
+以上便是我们此次更新的主要内容。如有问题，请联系客服，感谢您的支持。
+  
+《多多自走棋》运营团队 
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+Memory:
+-S30下半赛季的棋士证书将于2025年5月1日开启，新赛季持续时间为从2025年5月1日开始，但具体持续周数未明确提及。
+"}
+
+----- WebWalker -----
+The "4月24日在线更新公告" (April 24th Online Update Announcement) mentions the release of the "棋士证书" and provides information about the S30 season. It states that the S30 upper half season's certificate will end on April 30, 2025, and the S30 lower half season's certificate will start on May 1, 2025. This is relevant to the question about the new season starting at the same time as the S16 season's certificate.
+
+To determine if the S30 lower half season's certificate starts at the same time as the S16 season's certificate, I need to find information about the S16 season's certificate. The next step is to check the "4月17日在线更新公告" (April 17th Online Update Announcement), which might contain information about the S16 season's certificate.
+
+Action: visit_page
+Action Input: {"button": "4月17日在线更新公告多多自走棋2025-04-16"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+### 4月17日在线更新公告
+多多自走棋 2025-04-16
+亲爱的各位棋友：
+  
+《多多自走棋》将于2025年4月17日10:00（UTC+8）进行在线更新，本次更新时间预计1小时，在更新过程中可能会出现网络波动、掉线无法重连，为您带来不便十分抱歉，如有问题请联系客服，感谢您的支持。以下是本次的更新内容：
+  
+  
+【棋子调整】
+1.光鳞龙
+[光鳞法球]
+远程伤害宽度：100 → 160
+  
+2.光之女神
+[祝福神言]
+生命值回复：100 / 125 / 150 → 100 / 100 / 100
+  
+3.墨客
+[泼墨]
+墨印最多可施加的敌方棋子数量：2 / 4 / 8 → 2 / 3 / 4
+  
+  
+【装备调整】
+1.守护之盾
+[守护]
+新增效果：开启后周围300码的友军获得5点护甲。
+  
+  
+【优化】
+1.优化神使魔晶装备描述。
+  
+  
+以上便是我们此次更新的主要内容。如有问题，请联系客服，感谢您的支持。
+  
+《多多自走棋》运营团队
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>
+
+----- WebWalker -----
+The "4月17日在线更新公告" (April 17th Online Update Announcement) does not mention the S16 season's certificate. I need to look for other announcements that might contain this information. The next step is to check the "4月10日在线更新公告" (April 10th Online Update Announcement), which is another recent update announcement.
+
+Action: visit_page
+Action Input: {"button": "4月10日在线更新公告多多自走棋2025-04-09"}
+
+----- VisitPage -----
+The web information is:
+
+
+新闻中心
+游戏资料
+社区互动
+开放合作
+活动中心
+游戏下载
+  * 简体中文
+  * English
+  * 繁体中文
+  * Pусский
+  
+  赛季证书
+卢恩之门
+  * 官方微博
+Taptap
+掌上龙渊
+  * 商务合作
+  先锋服申请
+赛事报名
+### 4月10日在线更新公告
+多多自走棋 2025-04-09
+亲爱的各位棋友：
+  
+《多多自走棋》正式服将于2025年4月10日10:00（UTC+8）关闭匹配，10:30（UTC+8）开始进行在线更新维护，本次更新时间预计2小时，在更新过程中可能会出现网络波动、掉线无法重连，为您带来不便十分抱歉，如有问题请联系客服，感谢您的支持。以下是本次的更新内容：
+  
+  
+【装备调整】
+1.秘银甲
+法力获取+50% → +100%
+  
+【优化】
+1.优化主动装备的技能启动时间。
+2.优化暗之灵技能[黑洞]的释放逻辑，现在会优先向敌人较多的区域释放。
+3.优化雷电之锤、雷鸣重锤的闪电特效，现在可以看到所有伤害目标的闪电效果。
+  
+【修复】
+1.修复快捷站位功能不生效的问题。
+2.修复黯焰之刃、乾坤行者技能伤害可以被不朽抵挡的问题。
+  
+  
+以上便是我们此次更新的主要内容。如有问题，请联系客服，感谢您的支持。
+  
+《多多自走棋》运营团队
+打开微信扫一扫关注
+赛事中心
+!
+©2020-2022 All Rights Reserved.版权所有.成都龙渊网络科技有限公司
+028-86734773
+   川公网安备 51019002000972号](
+!!!
+!!!!
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新闻<button>
+<button>公告<button>
+<button>赛事<button>
+<button>开发者基地<button>
+<button>拍卖行介绍<button>
+<button>玩法介绍<button>
+<button>棋子库<button>
+<button>装备<button>
+<button>视频图片<button>
+<button>术语解释<button>
+<button>SUPPORT-A-CREATOR<button>
+<button>活动<button>
+<button>主播招募计划<button>
+<button>体验专区<button>
+<button>隐私权政策<button>
+<button>用户服务协议<button>

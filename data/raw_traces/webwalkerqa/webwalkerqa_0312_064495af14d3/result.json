@@ -1,0 +1,47 @@
+{
+  "task_id": "webwalkerqa_0312_064495af14d3",
+  "source_index": 312,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西南科技大学计算机科学与技术学院在2024年4月29日召开的党委扩大会议中，会议主持人的名字是什么？",
+  "prompt": "西南科技大学计算机科学与技术学院在2024年4月29日召开的党委扩大会议中，会议主持人的名字是什么？",
+  "expected_answer": "陈玉芳",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/newsdetail/news-9009"
+    ],
+    "golden_path": [
+      "root->学院动态->5->计算机科学与技术学院召开党委（扩大）会议贯彻落实学校安全稳定工作会议精神4月29日上午，计算机科学与技术学院在东六E座209会议室召开党委（扩大）会议，传达学校安全稳定会议精神，分析研判学院安全稳定突出问题，部署当前和今后一段时期学院安全稳定工作。学院全体党委委...[2024-04-30]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "西南科技大学计算机科学与技术学院在2024年4月29日召开的党委扩大会议中，会议主持人是陈玉芳。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer provides the correct name in a full sentence rather than just the name itself.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 20.186,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0312_064495af14d3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0312_064495af14d3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "The predicted answer provides the correct name in a full sentence rather than just the name itself.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

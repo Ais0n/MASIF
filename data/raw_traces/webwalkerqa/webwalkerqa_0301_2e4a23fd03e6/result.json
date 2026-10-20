@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0301_2e4a23fd03e6",
+  "source_index": 301,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How many CCF-B level conference papers did Associate Professor Chen Chen from the Nankai University School of Computer Science publish between 2021 and 2023?",
+  "prompt": "How many CCF-B level conference papers did Associate Professor Chen Chen from the Nankai University School of Computer Science publish between 2021 and 2023?",
+  "expected_answer": "2",
+  "root_url": "https://cc.nankai.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cc.nankai.edu.cn/2021/0323/c13620a549996/page.htm"
+    ],
+    "golden_path": [
+      "root->副教授/副研究员->陈晨      副教授"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 51.511,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0301_2e4a23fd03e6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0301_2e4a23fd03e6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

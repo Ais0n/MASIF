@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0317_6e3c81f030a8",
+  "source_index": 317,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "苏州大学计算机科学与技术学院周国栋教授在2017年获得的科技进步奖是由哪个省颁发的？",
+  "prompt": "苏州大学计算机科学与技术学院周国栋教授在2017年获得的科技进步奖是由哪个省颁发的？",
+  "expected_answer": "江苏省",
+  "root_url": "https://scst.suda.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scst.suda.edu.cn/11/27/c30767a528679/page.htm"
+    ],
+    "golden_path": [
+      "root->导师简介->教授->周国栋苏州大学特聘教授"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "苏州大学计算机科学与技术学院周国栋教授在2017年获得的科技进步奖是由江苏省颁发的。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer contains the exact expected answer within a complete sentence.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer contains the exact expected answer within a complete sentence.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 15.056,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0317_6e3c81f030a8/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0317_6e3c81f030a8/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

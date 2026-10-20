@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0494_192add9e19c4",
+  "source_index": 494,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When does the embargo on ACR Convergence 2024 abstracts lift for public release, and who manages the official hotel reservations for attendees?",
+  "prompt": "When does the embargo on ACR Convergence 2024 abstracts lift for public release, and who manages the official hotel reservations for attendees?",
+  "expected_answer": "The embargo lifts at 10:00 AM ET on November 14, 2024, and Convention Management Resources (CMR) manages official hotel reservations.",
+  "root_url": "https://rheumatology.org/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://rheumatology.org/annual-meeting-abstract-embargo-policies",
+      "https://rheumatology.org/annual-meeting-hotels"
+    ],
+    "golden_path": [
+      "root->Abstracts->Abstract Embargo Policies",
+      "root->Attendees->housing"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The embargo on ACR Convergence 2024 abstracts lifts at 10:00 AM ET on November 7. The official hotel reservations for attendees are managed by the American College of Rheumatology (ACR).",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 8,
+  "tool_calls": 2,
+  "duration_seconds": 24.094,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0494_192add9e19c4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0494_192add9e19c4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

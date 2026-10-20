@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0613_5cdb112cd308",
+  "source_index": 613,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What were the key reasons for updating Illuvium Beyond's leaderboard and reward structure by shifting from IIP-67 to IIP-69 between September and October 2024?",
+  "prompt": "What were the key reasons for updating Illuvium Beyond's leaderboard and reward structure by shifting from IIP-67 to IIP-69 between September and October 2024?",
+  "expected_answer": "IIP-69 replaced IIP-67 to create a sustainable rewards structure with expanded leaderboards and incentives linked to Wave 3 sales, encouraging long-term ecosystem health.",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-september-2024",
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-october-2024"
+    ],
+    "golden_path": [
+      "root->News->Illuvium Beyond - Your Next D1SK->Illuvium DAO Governance Newsletter - September 2024",
+      "root->News->Illuvium Beyond - Your Next D1SK->Illuvium DAO Governance Newsletter - October 2024"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 11.228,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0613_5cdb112cd308/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0613_5cdb112cd308/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

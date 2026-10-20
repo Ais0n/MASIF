@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0238_38e5a8180b0d",
+  "source_index": 238,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京工业大学计算机与信息工程学院（人工智能学院）孟凡旭在东南大学进行博士后研究期间（2021年至2023年），他以第一作者发表了多少篇SCI论文，其中包括了哪些量子计算领域顶级和重要期刊？",
+  "prompt": "南京工业大学计算机与信息工程学院（人工智能学院）孟凡旭在东南大学进行博士后研究期间（2021年至2023年），他以第一作者发表了多少篇SCI论文，其中包括了哪些量子计算领域顶级和重要期刊？",
+  "expected_answer": "7篇；Quantum Science and Technology、Physical Review A、IEEE Transactions on Quantum Engineering、Advanced Quantum Technologies",
+  "root_url": "https://cise.njtech.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cise.njtech.edu.cn/info/1015/7473.htm"
+    ],
+    "golden_path": [
+      "root->高级职称->孟凡旭"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 46.695,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0238_38e5a8180b0d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0238_38e5a8180b0d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

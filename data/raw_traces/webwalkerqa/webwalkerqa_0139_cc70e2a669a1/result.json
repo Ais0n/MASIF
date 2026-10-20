@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0139_cc70e2a669a1",
+  "source_index": 139,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京航空航天大学计算机科学与技术学院2020级本科生第二支部委员会中提到的预备党员转正名单中，唯一一个学号起始数字不是 '162' 的学生的学号是什么？",
+  "prompt": "南京航空航天大学计算机科学与技术学院2020级本科生第二支部委员会中提到的预备党员转正名单中，唯一一个学号起始数字不是 '162' 的学生的学号是什么？",
+  "expected_answer": "092001106",
+  "root_url": "http://cs.nuaa.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.nuaa.edu.cn/2024/0621/c10853a347604/page.htm"
+    ],
+    "golden_path": [
+      "root->>预备党员转正公示"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "学号起始数字不是 '162' 的学生的学号是052210619。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 4,
+  "duration_seconds": 37.033,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0139_cc70e2a669a1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0139_cc70e2a669a1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0357_e99d595981c9",
+  "source_index": 357,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "多多自走棋未来开发规划中新棋子的设定及登场顺序，排在第四位的是什么？",
+  "prompt": "多多自走棋未来开发规划中新棋子的设定及登场顺序，排在第四位的是什么？",
+  "expected_answer": "光羽+巫师",
+  "root_url": "http://ac.dragonest.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "http://ac.dragonest.com/zh-cn/developerbase/detail/e8532035d42"
+    ],
+    "golden_path": [
+      "root->开发者基地->开发者DEV->开发者日志未来版本的新棋子开发规划多多自走棋 ——\n                  53 月前"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "排在第四位的新棋子是火之灵4灵族萨满。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 5,
+  "duration_seconds": 53.946,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0357_e99d595981c9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0357_e99d595981c9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer identifies a completely different chess piece (Fire Spirit/Shaman) than the expected answer (Lightfeather + Wizard).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

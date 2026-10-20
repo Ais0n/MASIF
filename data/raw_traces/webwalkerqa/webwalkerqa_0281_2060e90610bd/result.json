@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0281_2060e90610bd",
+  "source_index": 281,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How many ILV will be distributed during the rewards process of Pre-season 2?",
+  "prompt": "How many ILV will be distributed during the rewards process of Pre-season 2?",
+  "expected_answer": "10,000 ILV",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/transitioning-from-pre-season-1-to-pre-season-2-testnet"
+    ],
+    "golden_path": [
+      "root->News->Transitioning from Pre-Season 1 to Pre-Season 2 Testnet"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 10.436,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0281_2060e90610bd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0281_2060e90610bd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

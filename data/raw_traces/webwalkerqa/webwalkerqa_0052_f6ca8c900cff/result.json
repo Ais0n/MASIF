@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0052_f6ca8c900cff",
+  "source_index": 52,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在申请2024年秋季学期的信息学院同等学力人员硕士学位过程中，提交资格申请材料的截止日期和北京考点题库课程考试的具体时间是？",
+  "prompt": "在申请2024年秋季学期的信息学院同等学力人员硕士学位过程中，提交资格申请材料的截止日期和北京考点题库课程考试的具体时间是？",
+  "expected_answer": "资格申请截止日期为2024年10月27日，北京考点题库考试时间为2024年11月2-3日。",
+  "root_url": "http://info.ruc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://info.ruc.edu.cn/rcpy/tdxl/zsxx5/f40fb7bdcff64c269ed936cc4158d443.htm",
+      "http://info.ruc.edu.cn/rcpy/tdxl/zsxx5/43add5b690c14b3e852ae3fd5828e81d.htm"
+    ],
+    "golden_path": [
+      "root->学院公告->信息学院2024年秋季学期同等学力人员申请硕士学位课程考试资格证办理通知2024-09-30",
+      "root->学院公告->2024年秋季学期同等学力申硕题库课程考试考点公告及考试通知单下载通知2024-10-21"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 54.403,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0052_f6ca8c900cff/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0052_f6ca8c900cff/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

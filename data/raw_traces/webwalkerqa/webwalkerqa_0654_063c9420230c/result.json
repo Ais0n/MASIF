@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0654_063c9420230c",
+  "source_index": 654,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2024年4月9日，哪位教授在西南科技大学计算机科学与技术学院的高质量发展专题研讨会暨专家咨询会上提供了指导，并指出学院应当充分发挥地域优势？",
+  "prompt": "2024年4月9日，哪位教授在西南科技大学计算机科学与技术学院的高质量发展专题研讨会暨专家咨询会上提供了指导，并指出学院应当充分发挥地域优势？",
+  "expected_answer": "陈恩红教授",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0414/c10922a193015/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->6->计算机科学与技术学院召开高质量发展专题研讨暨专家咨询会为推动学院新聘期加速发展，力争高质量完成各项目标任务，2024年4月9日，计算机科学与技术学院成功举办了以“谋划新思路，探索新举措”为主题的高质量发展专题研讨会暨专家咨询会。此次会议特别邀请...[2024-04-12]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 6,
+  "duration_seconds": 50.912,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0654_063c9420230c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0654_063c9420230c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

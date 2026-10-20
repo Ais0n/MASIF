@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0173_62b1d9726592",
+  "source_index": 173,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北京大学计算机学院2024年10月18日的学院新闻中，有哪个学者受邀在10月23日讲座中担任主讲人，并提及其学术成就？",
+  "prompt": "北京大学计算机学院2024年10月18日的学院新闻中，有哪个学者受邀在10月23日讲座中担任主讲人，并提及其学术成就？",
+  "expected_answer": "易珂",
+  "root_url": "https://cs.pku.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.pku.edu.cn/info/1019/3384.htm"
+    ],
+    "golden_path": [
+      "root->—— 2024.10.18 ——计算机学院系列讲座名家讲坛第20期——Instance Optimality i...时　间：2024.10.23 ; 10:00-12:00am主办方：计算机学院地　点：理科二号楼2129(燕园校区)Room 2129,Science Building #2 (Yanyuan)"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 152.19,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0173_62b1d9726592/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0173_62b1d9726592/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

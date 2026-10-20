@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0326_e9f023658927",
+  "source_index": 326,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "浙江大学计算机学院“图形与创意”课程上传于哪一年，并且课程内容包括研究哪个关键环节？",
+  "prompt": "浙江大学计算机学院“图形与创意”课程上传于哪一年，并且课程内容包括研究哪个关键环节？",
+  "expected_answer": "2003年，视觉修辞",
+  "root_url": "http://www.cs.zju.edu.cn/csen/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2003/0701/c26995a1202853/page.htm"
+    ],
+    "golden_path": [
+      "root->研究生教育->课程简介->“图形与创意”课程教学大纲"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.445,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0326_e9f023658927/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0326_e9f023658927/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

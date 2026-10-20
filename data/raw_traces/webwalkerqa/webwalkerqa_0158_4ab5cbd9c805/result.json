@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0158_4ab5cbd9c805",
+  "source_index": 158,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北京钢铁学院计通学院在2018年11月1日召开的教育部高等学校教学指导委员会成立会议上，共有多少人列席，并且有哪位部长出席？",
+  "prompt": "北京钢铁学院计通学院在2018年11月1日召开的教育部高等学校教学指导委员会成立会议上，共有多少人列席，并且有哪位部长出席？",
+  "expected_answer": "1600余人列席，教育部部长陈宝生出席。",
+  "root_url": "https://scce.ustb.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scce.ustb.edu.cn/xinwentongzhi/jitongshipin/2018-12-14/1148.html"
+    ],
+    "golden_path": [
+      "root->教指委代表谈如何全面发展教指委作用"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 41.949,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0158_4ab5cbd9c805/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0158_4ab5cbd9c805/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

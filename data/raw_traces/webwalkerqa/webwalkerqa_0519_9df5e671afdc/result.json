@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0519_9df5e671afdc",
+  "source_index": 519,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "On which two days will Rovio participate in the One Special Day charity event and the crossover gaming event with SEGA in 2024?",
+  "prompt": "On which two days will Rovio participate in the One Special Day charity event and the crossover gaming event with SEGA in 2024?",
+  "expected_answer": "The One Special Day event is on October 4, 2024, and the crossover gaming event with SEGA is from March 14 to March 21, 2024.",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/angry-birds-2-supporting-one-special-day-2024/",
+      "https://www.rovio.com/articles/sega-and-rovio-join-forces-in-mobile-gaming-crossover-event/"
+    ],
+    "golden_path": [
+      "root->Support->Angry Birds 2 – Supporting One Special Day 2024",
+      "root->Company Announcements->Sega® And Rovio Join Forces In Mobile Gaming Crossover Event"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 56.138,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0519_9df5e671afdc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0519_9df5e671afdc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

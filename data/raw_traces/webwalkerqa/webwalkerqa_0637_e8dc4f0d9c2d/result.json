@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0637_e8dc4f0d9c2d",
+  "source_index": 637,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在华南师范大学计算机学院提供的研究生教育相关文件中，哪些文件与学籍变动有关？",
+  "prompt": "在华南师范大学计算机学院提供的研究生教育相关文件中，哪些文件与学籍变动有关？",
+  "expected_answer": "研究生退学申请表",
+  "root_url": "http://cs.scnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.scnu.edu.cn/a/20160712/2656.html"
+    ],
+    "golden_path": [
+      "root->更多->【培养教务】研究生退学申请表"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在华南师范大学计算机学院提供的研究生教育相关文件中，与学籍变动有关的文件包括：【培养教务】研究生休学申请表、【培养教务】研究生退学申请表、【培养教务】研究生退学离校手续表。",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\"verdict\":\"match\",\"reason\":\"The predicted answer",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 19.12,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0637_e8dc4f0d9c2d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0637_e8dc4f0d9c2d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

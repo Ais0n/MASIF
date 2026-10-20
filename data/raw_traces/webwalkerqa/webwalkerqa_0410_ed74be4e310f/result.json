@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0410_ed74be4e310f",
+  "source_index": 410,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "海南大学计算机科学与技术学院在2024年台风“摩羯”灾后重建工作和完全学分制改革政策宣讲会中均担任重要组织角色的领导人是谁？",
+  "prompt": "海南大学计算机科学与技术学院在2024年台风“摩羯”灾后重建工作和完全学分制改革政策宣讲会中均担任重要组织角色的领导人是谁？",
+  "expected_answer": "王红英和张清辰",
+  "root_url": "https://cs.hainanu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.hainanu.edu.cn/info/1181/7440.htm",
+      "https://cs.hainanu.edu.cn/info/1062/7970.htm"
+    ],
+    "golden_path": [
+      "root->“众志成城、全力以‘复’”我院积极开展校园灾后重建工作",
+      "root->1610月计算机科学与技术学院全体教职工深化完全学分制改革政策宣讲会顺利召开"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "海南大学计算机科学与技术学院在2024年台风‘摩羯’灾后重建工作和完全学分制改革政策宣讲会中均担任重要组织角色的领导人是院长朱晓峰。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 15.357,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0410_ed74be4e310f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0410_ed74be4e310f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer identifies a completely different person (Zhu Xiaofeng) than the expected answer (Wang Hongying and Zhang Qingchen).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

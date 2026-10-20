@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0404_100f0a72cece",
+  "source_index": 404,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在西南科技大学计算机科学与技术学院2024届毕业典礼上，被表彰为优秀的毕业生人数是多少，哪些学院官员参与了颁奖仪式？",
+  "prompt": "在西南科技大学计算机科学与技术学院2024届毕业典礼上，被表彰为优秀的毕业生人数是多少，哪些学院官员参与了颁奖仪式？",
+  "expected_answer": "优秀毕业生共计110人，陈玉芳、范勇、赵旭剑、贾小林、黄晓芳参与了颁奖仪式。",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/newsdetail/news-9100"
+    ],
+    "golden_path": [
+      "root->学院动态->4->“计·忆”——计算机科学与技术学院2024届毕业典礼暨毕业晚会顺利举行四年奋斗，不负青春，前程似锦，未来可期。6月11日晚，西南科技大学计算机科学与技术学院在东八演播大厅举办了“计·忆”——2024届毕业生毕业典礼暨毕业晚会。学院党委书记陈玉芳，院长范勇，副院...[2024-06-16]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 69.136,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0404_100f0a72cece/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0404_100f0a72cece/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

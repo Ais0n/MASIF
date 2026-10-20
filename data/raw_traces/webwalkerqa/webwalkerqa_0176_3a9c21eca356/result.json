@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0176_3a9c21eca356",
+  "source_index": 176,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "哪款冰工厂产品含有茉莉花茶葡萄味冰壳以及芝士风味奶料？",
+  "prompt": "哪款冰工厂产品含有茉莉花茶葡萄味冰壳以及芝士风味奶料？",
+  "expected_answer": "萄气十足",
+  "root_url": "https://www.yili.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.yili.com/product/1823"
+    ],
+    "golden_path": [
+      "root->冰工厂"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "萄气十足棒冰含有茉莉花茶葡萄味冰壳以及芝士风味奶料。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer contains the expected product name along with extra context from the question.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer contains the expected product name along with extra context from the question.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 15.296,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0176_3a9c21eca356/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0176_3a9c21eca356/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

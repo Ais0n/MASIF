@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0226_2c924f929eca",
+  "source_index": 226,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北京工业大学计算机学院的张文博在哪一年获得了博士学位，并且在该年之后的首次学术论文发表是哪一年？",
+  "prompt": "北京工业大学计算机学院的张文博在哪一年获得了博士学位，并且在该年之后的首次学术论文发表是哪一年？",
+  "expected_answer": "2015年和2019年",
+  "root_url": "https://cs.bjut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.bjut.edu.cn/info/1408/1186.htm"
+    ],
+    "golden_path": [
+      "root->教师介绍->张文博"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.627,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0226_2c924f929eca/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0226_2c924f929eca/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

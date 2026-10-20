@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0181_70c20ab9b03d",
+  "source_index": 181,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "If Gavriilaki is currently a member of the SWG Committee and can be reappointed once, until what year can she serve if she starts her new term in 2024?",
+  "prompt": "If Gavriilaki is currently a member of the SWG Committee and can be reappointed once, until what year can she serve if she starts her new term in 2024?",
+  "expected_answer": "2030",
+  "root_url": "https://ehaweb.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://ehaweb.org/organization/committees/swg-unit/"
+    ],
+    "golden_path": [
+      "root->SWG Committee"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 88.279,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0181_70c20ab9b03d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0181_70c20ab9b03d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,1414 @@
+----- user -----
+query:
+新华三全光网络解决方案中，哪些技术方案通过以太光+EPON/GPON融合技术路线实现？
+official website:
+https://www.h3c.com/cn/
+Observation:website information:
+
+登录
+欢迎user
+  *     1. 已有账号
+    2. 还没有账号？
+简体中文
+          
+](
+  * 产品与解决方案
+  * 行业解决方案
+  * 服务
+  * 支持
+  * 合作伙伴
+  * 关于我们
+ ;)
+  * 产品与解决方案 < 返回
+    * 云与智能
+## 
+                                                      ### 热门推荐
+    * 智能联接
+## 
+                        * * *
+                              ### 热门推荐 
+ 智算网络解决方案 ]( 
+    新华三智算网络解决方案通过灵活多样的组网方式与全场景网络调优技术，满足不同规模与场景下日益严苛的智算中心算力互联需求，兼具创新的DDC架构与经典以太架构，全面提升对多元异构算力的网络承载能力。 
+ 新华三全光网络5.0解决方案 ]( 
+    坚持“以太光+PON”融合发展路线，创新引入多通道技术，率先实现以太光与PON在无源架构层的一体化融合。
+    * 智慧计算
+## 
+#### H3C服务器
+                                    * * *
+#### HPE服务器
+                                    ### 热门推荐
+    * 智慧存储
+## 
+#### H3C存储
+                                                * * *
+#### HPE存储
+                                          ### 热门推荐
+    * 商用PC
+## 
+#### 商用台式机
+                                                                                                            #### 商用笔记本
+                                          #### 商用显示器
+                                    #### 配件
+                                  * 主动安全
+## 
+                                                      * * *
+                                                      ### 热门推荐 
+ 智算安全解决方案 ]( 
+    瞄准智算时代全新安全威胁，构建覆盖算力防护、模型安全、数据安全的全栈式安全防护体系，为用户业务变革与产业结构升级提供强劲智能。 
+ 可信数据空间安全解决方案 ]( 
+    严格依据国家标准，聚焦数据场景化流通与应用，打造坚实的数据流通基础设施与运营体系，确保可信数据空间平稳落地及运行。
+    * Aolynk产品
+## 
+    * 统一运维
+## 
+                                    ### 热门推荐
+                              *  
+ AIO一站式运维管理服务 ]( 
+    面向异构ICT基础架构提供一站式运维管理服务，为客户承担对应的IT服务质量和管理绩效，带动客户全面提升IT的整体服务管理水平。
+    * 智能终端
+## 智能终端
+                            * 灵犀智算
+## 
+                                  * 技术解决方案
+## 技术解决方案
+                        * 行业解决方案 < 返回
+    * 行业解决方案
+## 
+                                                                        ### 热门推荐 
+ 如何快速有效提升县域医疗水平? ]( 
+    从县域医院数字化转型需求出发，新华三推出与实际应用场景紧密结合的智慧医院解决方案，提升县医院综合能力，助力县域内医疗资源整合共享。 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+  * 服务 < 返回
+    * **技术服务解决方案**
+## 
+### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 架构咨询
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * H3C TaaS服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 统一运维
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 数据中心
+## 
+            * /)
+                        ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云与智能服务
+## 
+                              ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 安全服务与运营
+## 
+#### 专业安全服务
+                              * * *
+#### 安全运营服务
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * **产品支持服务**
+    * 技术维护服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云软件技术支持服务
+## 
+            ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 智能终端服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 商用终端服务  
+（台式机 笔记本 显示器）
+## [商用终端服务  
+（台式机 笔记本 显示器）](
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+      * 支持 < 返回
+    * 服务支持中心
+## 
+#### 技术支持
+            * [在线技术支持  
+(服务器及存储)](
+      * [商用终端在线客服  
+（台式机及笔记本）](
+                        #### 自助服务
+                                                    ## 
+###  
+ 第15届新华三杯 ]( 
+    ## 
+                  *                                                                                                                                                                                                             ## 
+    ## 
+                                        * 政策动态
+## 
+                                  * 技术博客
+## 
+  * 合作伙伴 < 返回
+    * 成为合作伙伴
+## 
+                        ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 已成为合作伙伴
+## 
+                              ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴资源中心
+## 
+                                    ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴培训与认证
+## 合作伙伴培训与认证
+                  ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 解决方案联盟
+## 
+            ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+      * 关于我们 < 返回
+    * 公司概况
+## 
+                                                    * 公司动态
+## 
+                            * 公司刊物
+## 公司刊物
+          * 联系我们
+## 
+                                              * 加入我们
+## 加入我们
+                                  欢迎user
+  *                 
+# 数字领航智绘未来
+基于DDC架构的  
+新一代无损网络方案
+开放解耦、极致性能、超大规模、极简运维  
+直面万卡级算力互联场景需求，构建100%无阻塞智算网络 
+](
+ ](
+虚拟化替代  
+就选H3C CAS
+H3C CAS一体化算力平台
+](
+LinSeer MegaCube  
+× OpenClaw
+免费预装 | 122B本地大模型 | 数据安全
+](
+H3C UniPoD超节点
+算力×联接全新典范 突破8卡互联桎梏
+](
+基于DDC架构的  
+新一代无损网络方案
+开放解耦、极致性能、超大规模、极简运维  
+直面万卡级算力互联场景需求，构建100%无阻塞智算网络 
+](
+  *  智慧计算 ](
+  *  智能联接 ](
+  *  案例中心 ](
+  *  文档中心 ](
+  *  软件下载 ](
+  * ###  ](
+  * ###  ](
+  * ###  ](
+  
+### 
+  
+### 
+  
+### 
+!
+## 《数字化领航》“智·跃迁”专刊
+解构最前沿的智能体工程核心技术，驱动百行百业价值跃迁与场景进化
+!
+!
+## 《数字化领航》“算力×联接”专刊
+揭秘支持Token高效生产的“智原生”基础设施，深度解析全栈协同的关键技术革新
+!
+!
+## 城市数字化发展指数2025  
+重磅发布
+用数据记录城市数字化变革
+!_1739517_30002_0.jpg)
+  * “智·跃迁”专刊
+  * “算力×联接”专刊
+  * 城市发展指数
+! !
+## 聚合 · 智跃迁
+新华三充分发挥“算力×联接”的乘数效应，以开放创新聚合算力、数据、大模型、生态，全面释放AI效能，让产品和解决方案更智能（AI in ALL），让客户应用更智慧（AI for ALL），加速百行百业智跃迁。
+##### 如何购买
+    
+##### 关于新华三
+          
+  
+##### 联系新华三
+    
+##### 常用链接
+          
+##### 友情链接
+      
+##### 关注新华三
+  * ](
+! 官方微信
+  * ](
+! 视频号
+  * ](
+! 官方头条
+  * ](
+! 官方抖音号：新华三
+  * ](
+! 官方微博
+版权所有 2003-2026 新华三技术有限公司.保留一切权利.  ! 
+        
+!
+;)
+  * ## 联系我们
+  * 售前咨询 
+ 提交项目需求 ](
+ 售前在线咨询 ](
+售后咨询 
+    
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。 ](javascript:void\(0\))
+
+
+clickable button:
+
+<button>新华三<button>
+<button>退出<button>
+<button>登录<button>
+<button>注册<button>
+<button>简体中文<button>
+<button>云与智能<button>
+<button>云操作系统<button>
+<button>虚拟化<button>
+<button>超融合<button>
+<button>桌面云<button>
+<button>大数据<button>
+<button>数据库<button>
+<button>人工智能<button>
+<button>智慧城市<button>
+<button>工业互联网<button>
+<button>智能联接<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>园区网络<button>
+<button>Cloudnet云管网络<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线局域网<button>
+<button>网络管控析软件<button>
+<button>操作系统<button>
+<button>智算网络解决方案<button>
+<button>新华三全光网络5.0解决方案<button>
+<button>智慧计算<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>弹性塑合计算<button>
+<button>关键业务计算<button>
+<button>服务器智能管理平台<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>关键业务计算<button>
+<button>弹性塑合计算<button>
+<button>服务器智能管理平台<button>
+<button>智慧存储<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>分布式存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>存储网络设备<button>
+<button>AI数据平台<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>高密度存储型服务器<button>
+<button>存储网络设备<button>
+<button>商用PC<button>
+<button>H3CDesk X700s G2<button>
+<button>H3CDesk X700t G2<button>
+<button>H3CDesk X500s G2<button>
+<button>H3CDesk X500t G2<button>
+<button>H3CDesk D500s G2<button>
+<button>H3CDesk D500t G2<button>
+<button>H3CDesk X700s<button>
+<button>H3CDesk X700t<button>
+<button>H3CDesk X500s<button>
+<button>H3CDesk X500t<button>
+<button>H3CDesk D500s<button>
+<button>H3CDesk D500t<button>
+<button>H3C D5-030s<button>
+<button>H3C D5-030t<button>
+<button>H3C X5-030s<button>
+<button>H3C X5-030t<button>
+<button>H3C X5-020t<button>
+<button>H3C X7-030s<button>
+<button>H3CBook Ultra 14T G3<button>
+<button>H3CBook Pro 14<button>
+<button>H3CBook Pro 14 G2<button>
+<button>H3CBook Ultra 14<button>
+<button>H3CBook Ultra 14T<button>
+<button>H3CBook 14<button>
+<button>H3C Z6-410<button>
+<button>H3C M8-271U<button>
+<button>H3C M4-271Q<button>
+<button>H3C M4-271F<button>
+<button>H3C M4-221F<button>
+<button>H3C M4-245F<button>
+<button>H3C M4-242FD<button>
+<button>H3CSound D732多功能会议终端<button>
+<button>H71P USB-C多功能扩展坞<button>
+<button>H3C M521W无线双模鼠标<button>
+<button>H3C M721W轻音无线双模鼠标<button>
+<button>H3C 100W快速充电器<button>
+<button>主动安全<button>
+<button>智算安全解决方案<button>
+<button>可信数据空间安全解决方案<button>
+<button>新华三国产化安全<button>
+<button>AD-WAN安全解决方案<button>
+<button>零信任安全解决方案<button>
+<button>云安全解决方案<button>
+<button>商用密码应用安全性评估解决方案<button>
+<button>数据安全解决方案<button>
+<button>安全大脑解决方案<button>
+<button>边界安全<button>
+<button>应用安全<button>
+<button>数据安全<button>
+<button>密码安全<button>
+<button>工控安全<button>
+<button>终端安全<button>
+<button>安全管理<button>
+<button>安全检测与审计<button>
+<button>云安全<button>
+<button>Aolynk产品<button>
+<button>统一运维<button>
+<button>IT服务管理咨询<button>
+<button>AIO一站式运维管理服务<button>
+<button>SDService-NSD网络自服务解决方案<button>
+<button>U-Center统一运维平台<button>
+<button>业务运维服务<button>
+<button>数据中心绿色节能<button>
+<button>TMMi咨询认证服务<button>
+<button>维保服务<button>
+<button>业务连续性和容灾<button>
+<button>数据中心迁移服务<button>
+<button>MegaCube<button>
+<button>MegaBook<button>
+<button>Magic家用网络<button>
+<button>MagicHub云屏<button>
+<button>灵犀智算<button>
+<button>LinSeer Cube一体机<button>
+<button>百业灵犀私域大模型<button>
+<button>灵犀使能平台<button>
+<button>LinSeer ICT智能体<button>
+<button>灵犀AI助手<button>
+<button>SeerFabric智能无损数据中心解决方案<button>
+<button>场站边缘解决方案<button>
+<button>计算存储企业级解决方案<button>
+<button>查看所有<button>
+<button>行业解决方案<button>
+<button>运营商<button>
+<button>零碳智慧园区<button>
+<button>企业<button>
+<button>政府<button>
+<button>金融<button>
+<button>医疗<button>
+<button>交通<button>
+<button>互联网<button>
+<button>教育<button>
+<button>电力能源<button>
+<button>广电<button>
+<button>中小企业<button>
+<button>合作伙伴营销资料平台上线<button>
+<button>技术服务解决方案<button>
+<button>云与智能服务<button>
+<button>微模块解决方案<button>
+<button>架构咨询<button>
+<button>IT基础架构咨询<button>
+<button>网络架构咨询<button>
+<button>数据中心迁移<button>
+<button>业务连续性/容灾咨询<button>
+<button>容灾管理系统<button>
+<button>轻量化服务<button>
+<button>H3C TaaS服务<button>
+<button>测试体系咨询<button>
+<button>测试平台建设<button>
+<button>专业测试服务<button>
+<button>数据中心<button>
+<button>数字化数据中心（BIM）<button>
+<button>咨询<button>
+<button>设计<button>
+<button>实施<button>
+<button>验证及运维<button>
+<button>云集成服务<button>
+<button>云迁移服务<button>
+<button>云运维服务<button>
+<button>云运营服务<button>
+<button>大数据服务<button>
+<button>安全服务与运营<button>
+<button>教育培训<button>
+<button>攻防对抗<button>
+<button>工程实施<button>
+<button>咨询规划<button>
+<button>风险评估<button>
+<button>威胁检测与响应服务MDR<button>
+<button>安全托管服务MSS<button>
+<button>安全SaaS服务<button>
+<button>技术维护服务<button>
+<button>基础技术维护服务<button>
+<button>主动式技术维护服务<button>
+<button>ICT专业技术运维服务<button>
+<button>云软件技术支持服务<button>
+<button>大数据软件技术支持服务<button>
+<button>云计算软件技术支持服务<button>
+<button>智能终端服务<button>
+<button>MegaBook等计算机平板服务<button>
+<button>全屋网络、家庭路由器等网络类产品服务<button>
+<button>云屏产品服务<button>
+<button>商用终端服务（台式机 笔记本 显示器）<button>
+<button>更多服务支持<button>
+<button>产品资料下载<button>
+<button>驱动程序下载<button>
+<button>服务政策查询<button>
+<button>服务产品查询<button>
+<button>服务网点查询<button>
+<button>服务商认证<button>
+<button>服务支持中心<button>
+<button>iService<button>
+<button>在线技术支持(服务器及存储)<button>
+<button>智能终端在线客服<button>
+<button>新华三服务APP<button>
+<button>产品生命周期<button>
+<button>安全通告<button>
+<button>已知问题查询<button>
+<button>软件授权有效期文件<button>
+<button>设备升级码查询<button>
+<button>第15届新华三杯<button>
+<button>文档中心<button>
+<button>高级搜索<button>
+<button>云计算<button>
+<button>大数据<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线<button>
+<button>物联网<button>
+<button>安全<button>
+<button>光模块<button>
+<button>网络管控析软件<button>
+<button>智能运维产品<button>
+<button>服务器<button>
+<button>存储<button>
+<button>PON<button>
+<button>ICG信息通信<button>
+<button>EPCN网关<button>
+<button>License Server<button>
+<button>其它产品<button>
+<button>智能终端<button>
+<button>传输产品<button>
+<button>云简网络<button>
+<button>商用终端<button>
+<button>AIGC<button>
+<button>Aolynk产品<button>
+<button>磐宁NingOS<button>
+<button>移动通信<button>
+<button>软件下载<button>
+<button>工具专区<button>
+<button>H3C个人资料库<button>
+<button>规划设计工具<button>
+<button>安装工具<button>
+<button>配置工具<button>
+<button>维护工具<button>
+<button>政策动态<button>
+<button>服务公告<button>
+<button>服务政策<button>
+<button>服务新闻<button>
+<button>维保服务说明<button>
+<button>合作伙伴服务标准<button>
+<button>技术博客<button>
+<button>成为合作伙伴<button>
+<button>加盟新华三<button>
+<button>星级服务资质认证标准<button>
+<button>售前资质认证标准<button>
+<button>合作伙伴手册<button>
+<button>2026新华三合作伙伴技术大比武正式启幕<button>
+<button>已成为合作伙伴<button>
+<button>合作伙伴查询<button>
+<button>政策与公告<button>
+<button>快易通<button>
+<button>稽核反馈<button>
+<button>合作伙伴资源中心<button>
+<button>产品与方案中心<button>
+<button>营销资料下载中心<button>
+<button>技术服务BOM产品说明书<button>
+<button>技术资料查询<button>
+<button>售前能力认证<button>
+<button>解决方案联盟<button>
+<button>解决方案合作伙伴认证申请<button>
+<button>技术方案联盟<button>
+<button>合作伙伴官网<button>
+<button>公司概况<button>
+<button>公司简介<button>
+<button>总裁寄语<button>
+<button>管理团队<button>
+<button>发展历史<button>
+<button>焦点时刻<button>
+<button>ESG可持续发展<button>
+<button>领航者文化<button>
+<button>公司视频<button>
+<button>公司动态<button>
+<button>公司新闻<button>
+<button>案例中心<button>
+<button>品牌活动<button>
+<button>数字化领航直播间<button>
+<button>《数字化领航》<button>
+<button>联系我们<button>
+<button>公司总部<button>
+<button>集团代表处<button>
+<button>媒体联络<button>
+<button>意见反馈<button>
+<button>采购公告<button>
+<button>如何购买<button>
+<button>在线举报<button>
+<button>查看所有<button>
+<button>案例中心New<button>
+<button>数字化领航直播间<button>
+<button>云上展厅<button>
+<button>登录<button>
+<button>China - 简体中文<button>
+<button>了解详情<button>
+<button>获取免费试用<button>
+<button>了解详情<button>
+<button>了解详情<button>
+<button>灵犀智算解决方案以全栈领先的灵犀智算解决方案，充分发挥算力×联接（算力乘联接）的倍增效应，锚定“1+N”大模型策略，即百业灵犀私域大模型+N个优选生态大模型。<button>
+<button>Aolynk产品新华三Aolynk产品面向中小企业用户，以高效、可靠、简约的产品及网络解决方案，提供用户丝滑极‘简’体验，畅享非‘凡’品质<button>
+<button>灵犀使能平台依托全栈AI能力，通过AI基础服务、数据工程服务、模型训练、模型推理、模型评估、应用服务和数字资产管理构建起覆盖大模型全生命周期的一站式AI业务平台。<button>
+<button>LinSeer Cube大模型一体机“智算-算法-治理”深度耦合的DeepSeek大模型一体机解决方案<button>
+<button>了解更多<button>
+<button>以质立信 智创未来《新华三质量管理方法白皮书》正式发布<button>
+<button>了解更多<button>
+<button>了解更多<button>
+<button>提交项目需求<button>
+<button>隐私政策<button>
+<button>版权声明<button>
+<button>网站地图<button>
+<button>售前在线咨询<button>
+<button>获取更多支持与服务<button>
+<button>网站意见与建议<button>
+<button>Cookies和隐私政策><button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the page that discusses the "新华三全光网络5.0解决方案" as it is mentioned in the context of "以太光+PON" technology. I will click on the corresponding button.
+
+Action: visit_page
+Action Input: {"button": "新华三全光网络5.0解决方案"}
+
+----- VisitPage -----
+The web information is:
+
+# 新华三全光解决方案
+登录
+欢迎user
+  *     1. 已有账号
+    2. 还没有账号？
+简体中文
+          
+](
+  * 产品与解决方案
+  * 行业解决方案
+  * 服务
+  * 支持
+  * 合作伙伴
+  * 关于我们
+ ;)
+  * 产品与解决方案 < 返回
+    * 云与智能
+## 
+                                                      ### 热门推荐
+    * 智能联接
+## 
+                        * * *
+                              ### 热门推荐 
+ 智算网络解决方案 ]( 
+    新华三智算网络解决方案通过灵活多样的组网方式与全场景网络调优技术，满足不同规模与场景下日益严苛的智算中心算力互联需求，兼具创新的DDC架构与经典以太架构，全面提升对多元异构算力的网络承载能力。 
+ 新华三全光网络5.0解决方案 ]( 
+    坚持“以太光+PON”融合发展路线，创新引入多通道技术，率先实现以太光与PON在无源架构层的一体化融合。
+    * 智慧计算
+## 
+#### H3C服务器
+                                    * * *
+#### HPE服务器
+                                    ### 热门推荐
+    * 智慧存储
+## 
+#### H3C存储
+                                                * * *
+#### HPE存储
+                                          ### 热门推荐
+    * 商用PC
+## 
+#### 商用台式机
+                                                                                                            #### 商用笔记本
+                                          #### 商用显示器
+                                    #### 配件
+                                  * 主动安全
+## 
+                                                      * * *
+                                                      ### 热门推荐 
+ 智算安全解决方案 ]( 
+    瞄准智算时代全新安全威胁，构建覆盖算力防护、模型安全、数据安全的全栈式安全防护体系，为用户业务变革与产业结构升级提供强劲智能。 
+ 可信数据空间安全解决方案 ]( 
+    严格依据国家标准，聚焦数据场景化流通与应用，打造坚实的数据流通基础设施与运营体系，确保可信数据空间平稳落地及运行。
+    * Aolynk产品
+## 
+    * 统一运维
+## 
+                                    ### 热门推荐
+                              *  
+ AIO一站式运维管理服务 ]( 
+    面向异构ICT基础架构提供一站式运维管理服务，为客户承担对应的IT服务质量和管理绩效，带动客户全面提升IT的整体服务管理水平。
+    * 智能终端
+## 智能终端
+                            * 灵犀智算
+## 
+                                  * 技术解决方案
+## 技术解决方案
+                        * 行业解决方案 < 返回
+    * 行业解决方案
+## 
+                                                                        ### 热门推荐 
+ 如何快速有效提升县域医疗水平? ]( 
+    从县域医院数字化转型需求出发，新华三推出与实际应用场景紧密结合的智慧医院解决方案，提升县医院综合能力，助力县域内医疗资源整合共享。 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+  * 服务 < 返回
+    * **技术服务解决方案**
+## 
+### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 架构咨询
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * H3C TaaS服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 统一运维
+## 
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 数据中心
+## 
+            * /)
+                        ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云与智能服务
+## 
+                              ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 安全服务与运营
+## 
+#### 专业安全服务
+                              * * *
+#### 安全运营服务
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * **产品支持服务**
+    * 技术维护服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 云软件技术支持服务
+## 
+            ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 智能终端服务
+## 
+                  ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+    * 商用终端服务  
+（台式机 笔记本 显示器）
+## [商用终端服务  
+（台式机 笔记本 显示器）](
+                                    ### 热门推荐
+                        *  
+ 微模块解决方案 ]( 
+    面向ICT基础设施提供的一款采用通道封闭，包含工程预制的机柜、配电、制冷、监控等功能单元的独立的小型数据中心，为客户提供数据中心整体产品及交付，全面提升客户IT服务管理水平。
+      * 支持 < 返回
+    * 服务支持中心
+## 
+#### 技术支持
+            * [在线技术支持  
+(服务器及存储)](
+      * [商用终端在线客服  
+（台式机及笔记本）](
+                        #### 自助服务
+                                                    ## 
+###  
+ 第15届新华三杯 ]( 
+    ## 
+                  *                                                                                                                                                                                                             ## 
+    ## 
+                                        * 政策动态
+## 
+                                  * 技术博客
+## 
+  * 合作伙伴 < 返回
+    * 成为合作伙伴
+## 
+                        ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 已成为合作伙伴
+## 
+                              ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴资源中心
+## 
+                                    ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 合作伙伴培训与认证
+## 合作伙伴培训与认证
+                  ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+    * 解决方案联盟
+## 
+            ### 热门推荐 
+ 2026新华三合作伙伴技术大比武正式启幕 ]( 
+    全面焕新升级体验，实力角逐年度王者！ 
+ 合作伙伴营销资料平台上线 ]( 
+    最新最全的营销资料，千份营销资料，快速获取！
+      * 关于我们 < 返回
+    * 公司概况
+## 
+                                                    * 公司动态
+## 
+                            * 公司刊物
+## 公司刊物
+          * 联系我们
+## 
+                                              * 加入我们
+## 加入我们
+                                  欢迎user
+  *                 
+! !
+## 新华三全光网络5.0解决方案
+坚持“以太光+PON”融合发展路线，创新引入多通道技术，率先实现以太光与PON在无源架构层的一体化融合。
+;)
+! !
+## 多通道以太光方案
+采用标准以太协议及硬件接口，创新以太光与PON融合的统一无源架构技术方案，实现超高密大带宽接入，满足网络灵活升级需求。
+ 
+! !
+## 新华三发布《全光园区网络技术专刊》
+!!!全光园区网络解决方案
+    * 概述
+    * 场景化解决方案
+    * 核心产品
+    * 成功案例
+    * 最新动态
+    * 相关资源
+!
+## 场景化解决方案
+  *  **高职教园区** 基于“以太光+PON”融合架构，面向教室、宿舍、办公、体育场馆等多场景的不同业务需求，打造新一代高职校园网络。通过光纤/光电混合缆，实现高带宽接入的同时，适配不同场景供电需求。采用多通道技术，实现无源透明汇聚部署，进一步简化弱电间运维。 了解详情 ](
+  *  **普教园区** 光纤入室，为中小学校园提供高带宽，高可靠的教学和办公网络。一根光纤承载多种业务，同时满足无线、有线、物联网多种接入需求，设备即插即用，为智慧校园建设提供一张高质量、易运维的实用网络。 了解详情 ](
+  *  **医院园区** 融合多通道技术，一楼一盒超高密万兆接入，满足医院日益增长的医疗设备接入数量和带宽的需求。一机三网、FTTD光面板及端到端光切片等可以满足诊室、病房、医学影像等不同场景的业务需求，支撑智慧医疗业务快速发展，加速医院数字化转型，提升医疗服务质量。 了解详情 ](
+  *  **企业园区** 基于办公、生产等不同场景业务需求提供针对性网络方案，融合IT、OT，实现光纤入室及光纤到机器的全覆盖，具备架构简洁、业务兼容性好、扩容方便及运维体验良好等优势，满足企业园区及工业生产高可靠、大带宽、低时延、易扩展的网络诉求。 了解详情 ](
+! !
+!
+光影系列积木交换机 
+一机双网/一机三网，多网融合部署，物理隔离 
+  
+;)
+! !
+!
+多通道以太光方案 
+采用标准以太协议及硬件接口，创新以太光与PON融合的统一无源架构技术方案，实现超高密大带宽接入，满足网络灵活升级需求。 
+  
+! !
+!
+光影系列积木交换机 
+一机双网/一机三网，多网融合部署，物理隔离 
+  
+;)
+! !
+!
+多通道以太光方案 
+采用标准以太协议及硬件接口，创新以太光与PON融合的统一无源架构技术方案，实现超高密大带宽接入，满足网络灵活升级需求。 
+  
+! !
+! !
+## 核心产品
+  * ### 接入
+  * ### 光AP
+  * ### 汇聚
+  * ### 核心
+  * ### SDN管控平台
+  * ### 安全
+  *  以太光  ES4200 系列极简交换机 提供类型丰富的网络接口，向上可通过光纤或光电混合缆连接汇聚设备，尺寸小、发热量低，即插即用，支持壁挂/桌面/信息箱等多种安装方式。其中底座与扩展模块可搭配组成一机多网交换机，适用于医疗、政企等多套物理网络隔离场景。 了解详情 ](
+  *  以太光  FS5100-EI 系列交换机 提供类型丰富的网络接口，向上可通过光纤或光电混合缆连接汇聚设备。具有尺寸小、发热量低、安装方式灵活以及静音等特点，适用于办公桌面、多媒体中控箱、室内弱电箱等环境。 了解详情 ](
+  *  以太光  E500C-F系列全光交换机 全光解决方案设计的接入产品，基于新一代高性能硬件架构和H3C公司先进的Comware V7软件平台开发，可为教育、医疗及企业办公网络等提供便利的网络接入和高速带宽。 了解详情 ](
+  *  以太光  IEF4520-G系列机架式工业光主机 专为工业环境中的全光网络设计，该产品通过集中供电方式，为前端设备供电，简化布线结构，降低运维成本，提升可靠性。适用于智能制造、智慧能源等高要求工业场景，确保网络持续稳定运行。 了解详情 ](
+  *  以太光  IEF4320系列导轨式工业影终端 具备宽温（-40℃~75℃）、防尘防水（IP40）、抗电磁干扰等特性，支持光纤/光电混合缆接入，提供稳定、低延时的数据传输。适用于智能制造、轨道交通、能源等工业场景，确保网络高可靠性和实时性。 了解详情 ](
+  *  PON  EGT300系列 ONU 高性能千兆光网络单元，支持GPON/EPON双模接入，提供1Gbps高速传输，具备稳定可靠、低时延特性。即插即用，部署简便，助力打造高效光纤接入网络。 了解详情 ](
+  *  PON  EGT900系列 ONU 高性能10G PON光网络终端，支持XGSPON/10G EPON双模接入，提供万兆超宽带接入能力。内置高性能千兆以太网交换芯片，具有高性能、低功耗、稳定可靠等特点。 了解详情 ](
+  *  Wi-Fi 7高密  WA7636 整机采用三频八流设计，整机最大接入速率9.794Gbps。整机采用渐变水波纹设计，一体化外壳内置理线槽，完美隐藏连接线缆及USB插卡、物联网插卡等多种外扩设备，呈现入室产品简洁之美。 了解详情 ](
+  *  Wi-Fi 7高密  WA7338-HI 整机采用三频八流设计，整机最大接入速率17.293Gbps，上行支持10G PSFP、万兆电口、千兆电口，支持对外物联扩展，满足各种高接入、高带宽场景。 了解详情 ](
+  *  Wi-Fi 7高密  WA7330i 整机最大接入速率9.335Gbps，支持10G光电口切换，支持2.5G POEOUT口，支持对外物联扩展，满足室内无线覆盖需求。 了解详情 ](
+  *  Wi-Fi 7高密  WA7232 整机采用三频六流设计，最大接入速率9.335Gbps，,高带宽接入，可广泛应用在会议、场馆、教学等高密接入，高带宽场景。 了解详情 ](
+  *  Wi-Fi 7放装  WA7320i 整机采用双频四流设计，最大接入速率8.647Gbps, 支持对外物联网扩展，可广泛应用在会议室、办公室、医疗大厅等室内无线接入场景。 了解详情 ](
+  *  Wi-Fi 7放装  WA7320 整机采用双频四流设计，最大接入速率3.57Gbps，上行支持5G PSFP，支持2.5G电口，满足多种业务接入需求。 了解详情 ](
+  *  Wi-Fi 7面板  WA7220H 整机采用双频四流设计，最大接入速率3.57Gbps，支持4个1G电口下行，可广泛应用在宿舍、小型会议室、病房等室内无线接入场景。 了解详情 ](
+  *  Wi-Fi 7室外  WA7630X 支持IP68防护等级，适应户外雨水、灰尘、极端温度等极端环境，内置高增益智能全向天线，覆盖范围更广，适合大面积和户外场景。 了解详情 ](
+  *  Wi-Fi 7室外  WA7320XE 外置天线款型，具备IP68防水防尘等级和大范围宽温工作能力，可广泛的应用于包括无线城市、无线小区、景区、工厂等各类恶劣环境场景的WLAN覆盖。 了解详情 ](
+  *  融合（以太+PON）  S7500X-G 汇聚交换机 全光解决方案OLT融合设备，灵活组合各种业务板卡，支撑各类园区场景。 了解详情 ](
+  *  以太光  S6550X-HI系列多通道以太光交换机 通过创新设计，在标准QSFP+接口封装下实现1纤4路双向传输技术，大幅提升传输效率，降低光纤布线复杂度，同时支持40G/100G高速率传输，满足教育、医疗、企业中高密高速接入场景。 了解详情 ](
+  *  以太光  多通道以太光透明汇聚 无源分光器，无需供电，部署位置更灵活，支持16个万兆下行端口，并配备双上行备份链路，在确保网络可靠性的同时，显著减少光纤布线复杂度，降低施工和维护成本。 了解详情 ](
+  *  以太光  FS6300V2-EI系列全光以太网交换机 采用创新性组合式端口，支持1G、2.5G、10G、25G、40G、100G接口，可通过光电混合缆对AP和受电交换机提供数据连接和供电，满足教育、医疗、企业等场景对远距离供电、极简网络架构、一体化运维管理的需求。 了解详情 ](
+  *  以太光  FS5500V2-EI系列全光以太网交换机 支持1G、2.5G、10G、25G、40G、100G接口，支持PoE++，可通过光电混合缆对AP和受电交换机提供数据连接和供电，满足教育、医疗、企业等场景对远距离供电、极简网络架构、一体化运维管理的需求。 了解详情 ](
+  *  以太光  FS5300-EI 系列交换机 支持 1G、2.5G、10G、40G 接口，支持 PoE++，可通过光电混合缆对 AP 和受电交换机提供数据连接和供电，满足教育、医疗、企业等场景对远距离供电、极简网络架构、一体化运维管理的需求。 了解详情 ](
+  *  S12500G-AF智能融合核心交换机 新一代数据中心及园区核心交换机，内置100T+算力GPU，采用CLOS+正交架构实现无损数据传输，支持AI流量分析与安全检测。能够满足不同规模需求，集成INT可视化技术，是核心网络建设的理想选择。 了解详情 ](
+  *  S10500X-G核心交换机 全光解决方案的核心层设备，能够适应不同网络规模的端口密度和性能要求。 了解详情 ](
+  *  H3C CR16000-F 核心路由器 为全光解决方案提供强大的BRAS功能，满足园区网络发展需求。 了解详情 ](
+  *  AD-Campus控制组件 强大的园区自动部署功能，实现端到端自动化部署，是园区网络部署、管理和运维的有力助手。 了解详情 ](
+  *  AD-Campus分析组件 采用Telemetry等技术，基于专家知识和场景AI算法，洞察全网健康状态，进行故障根因定位及AI预测。 了解详情 ](
+  *  EIA终端智能接入组件 H3C EIA（EIA，Endpoint Intelligent Access）是一款网络接入策略管理产品。实现企业有线、无线和VPN网络的一体化接入管理。 了解详情 ](
+  *  H3C SecPath F5000-AI防火墙 面向行业市场的高性能超百G防火墙VPN集成网关产品，硬件上基于多核多线程X86处理器架构，该系列防火墙产品提供丰富的接口能力。 了解详情 ](
+  *  SecPath F1000-AI防火墙 支持安全控制、VPN、NAT、DOS/DDOS防御等防火墙安全功能，还一体化地集成了IPS、AV、应用控制、DLP、URL分类及自定义过滤等深度安全防御的功能，实现了基于用户、应用、时间、地理位置、安全状态等多维度的策略控制功能。 了解详情 ](
+  *  SecPath ACG1000系列应用控制网关 新华三最新一代应用控制网关，可以路由模式、透明桥接模式、旁路模式以及混合模式部署在网络的关键节点。其融合了应用控制、行为审计、网络优化等全面功能，为用户提供一个综合、完整的全业务应用场景解决方案。 了解详情 ](
+## 成功案例
+  *  教育  湖南师范大学：130万平米超大型校园如何保障上网体验？ 了解详情 ]( ;)
+  * _2473233_473262_0.jpg) 医疗  北京大学第一医院：携手新华三打造融合全光新基座，树立智慧医疗全新典范 了解详情 ](
+  *  教育  中南大学：“100G骨干 万兆入室”，新华三PON方案点亮超13500间全光宿舍 了解详情 ]( ;)
+##  最新动态 
+  *  2025-05-26 引领园区网效率革命：新华三正式发布全光网络5.0解决方案 了解详情 ](
+  *  2025-03-17 更快、更省、更灵活！新华三发布多通道以太光方案 了解详情 ](
+  *  2024-01-12 新华三发布全光网络速熔技术，专治光纤布放“强迫症” 了解详情 ](
+## 相关资源
+###  视频 
+ 全光5.0解决方案宣传片 ](
+ 多通道以太光方案宣传片 ](
+ 新华三高职教全光网络方案宣传片 ](
+ 新华三医院全光网络方案宣传片 ](
+ 光影系列交换机宣传片 ](
+ 新华三一机多网积木交换机宣传片 ](
+###  白皮书 
+ 新华三多通道以太光方案技术白皮书 ](
+ 融合全光园区网络技术专刊 ](
+ 融合全光网络白皮书（IDC） ](
+ 新华三全光校园网专刊 ](
+###  主打胶片/彩页 
+ 新华三光电混合缆彩页 ](
+ 新华三全光校园网解决方案彩页 ](
+ 新华三全光医院网络解决方案彩页 ](
+ 新华三全光中小学网络解决方案彩页 ](
+ 新华三企业园区全光网络解决方案彩页 ](
+ 新华三光影系列交换机彩页 ](
+ 新华三光电混合模块彩页 ](
+##### 如何购买
+    
+##### 关于新华三
+          
+  
+##### 联系新华三
+    
+##### 常用链接
+          
+##### 友情链接
+      
+##### 关注新华三
+  * ](
+! 官方微信
+  * ](
+! 视频号
+  * ](
+! 官方头条
+  * ](
+! 官方抖音号：新华三
+  * ](
+! 官方微博
+版权所有 2003-2026 新华三技术有限公司.保留一切权利.  ! 
+        
+!
+;)
+  * ## 联系我们
+  * 售前咨询 
+ 提交项目需求 ](
+ 售前在线咨询 ](
+售后咨询 
+    
+本站点使用Cookies，继续浏览表示您同意我们使用Cookies。 ](javascript:void\(0\))
+
+
+Clickable buttons are wrapped in <button> tag
+<button>新华三<button>
+<button>退出<button>
+<button>登录<button>
+<button>注册<button>
+<button>简体中文<button>
+<button>云与智能<button>
+<button>云操作系统<button>
+<button>虚拟化<button>
+<button>超融合<button>
+<button>桌面云<button>
+<button>大数据<button>
+<button>数据库<button>
+<button>人工智能<button>
+<button>智慧城市<button>
+<button>工业互联网<button>
+<button>智能联接<button>
+<button>数据中心网络<button>
+<button>广域网络<button>
+<button>园区网络<button>
+<button>Cloudnet云管网络<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线局域网<button>
+<button>网络管控析软件<button>
+<button>操作系统<button>
+<button>智算网络解决方案<button>
+<button>新华三全光网络5.0解决方案<button>
+<button>智慧计算<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>弹性塑合计算<button>
+<button>关键业务计算<button>
+<button>服务器智能管理平台<button>
+<button>通用计算<button>
+<button>人工智能计算<button>
+<button>边缘计算<button>
+<button>关键业务计算<button>
+<button>弹性塑合计算<button>
+<button>服务器智能管理平台<button>
+<button>智慧存储<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>分布式存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>存储网络设备<button>
+<button>AI数据平台<button>
+<button>企业级智能全闪存存储<button>
+<button>企业级智能混合闪存存储<button>
+<button>超融合系统<button>
+<button>入门级智能存储<button>
+<button>数据备份与保护<button>
+<button>高密度存储型服务器<button>
+<button>存储网络设备<button>
+<button>商用PC<button>
+<button>H3CDesk X700s G2<button>
+<button>H3CDesk X700t G2<button>
+<button>H3CDesk X500s G2<button>
+<button>H3CDesk X500t G2<button>
+<button>H3CDesk D500s G2<button>
+<button>H3CDesk D500t G2<button>
+<button>H3CDesk X700s<button>
+<button>H3CDesk X700t<button>
+<button>H3CDesk X500s<button>
+<button>H3CDesk X500t<button>
+<button>H3CDesk D500s<button>
+<button>H3CDesk D500t<button>
+<button>H3C D5-030s<button>
+<button>H3C D5-030t<button>
+<button>H3C X5-030s<button>
+<button>H3C X5-030t<button>
+<button>H3C X5-020t<button>
+<button>H3C X7-030s<button>
+<button>H3CBook Ultra 14T G3<button>
+<button>H3CBook Pro 14<button>
+<button>H3CBook Pro 14 G2<button>
+<button>H3CBook Ultra 14<button>
+<button>H3CBook Ultra 14T<button>
+<button>H3CBook 14<button>
+<button>H3C Z6-410<button>
+<button>H3C M8-271U<button>
+<button>H3C M4-271Q<button>
+<button>H3C M4-271F<button>
+<button>H3C M4-221F<button>
+<button>H3C M4-245F<button>
+<button>H3C M4-242FD<button>
+<button>H3CSound D732多功能会议终端<button>
+<button>H71P USB-C多功能扩展坞<button>
+<button>H3C M521W无线双模鼠标<button>
+<button>H3C M721W轻音无线双模鼠标<button>
+<button>H3C 100W快速充电器<button>
+<button>主动安全<button>
+<button>智算安全解决方案<button>
+<button>可信数据空间安全解决方案<button>
+<button>新华三国产化安全<button>
+<button>AD-WAN安全解决方案<button>
+<button>零信任安全解决方案<button>
+<button>云安全解决方案<button>
+<button>商用密码应用安全性评估解决方案<button>
+<button>数据安全解决方案<button>
+<button>安全大脑解决方案<button>
+<button>边界安全<button>
+<button>应用安全<button>
+<button>数据安全<button>
+<button>密码安全<button>
+<button>工控安全<button>
+<button>终端安全<button>
+<button>安全管理<button>
+<button>安全检测与审计<button>
+<button>云安全<button>
+<button>Aolynk产品<button>
+<button>统一运维<button>
+<button>IT服务管理咨询<button>
+<button>AIO一站式运维管理服务<button>
+<button>SDService-NSD网络自服务解决方案<button>
+<button>U-Center统一运维平台<button>
+<button>业务运维服务<button>
+<button>数据中心绿色节能<button>
+<button>TMMi咨询认证服务<button>
+<button>维保服务<button>
+<button>业务连续性和容灾<button>
+<button>数据中心迁移服务<button>
+<button>MegaCube<button>
+<button>MegaBook<button>
+<button>Magic家用网络<button>
+<button>MagicHub云屏<button>
+<button>灵犀智算<button>
+<button>LinSeer Cube一体机<button>
+<button>百业灵犀私域大模型<button>
+<button>灵犀使能平台<button>
+<button>LinSeer ICT智能体<button>
+<button>灵犀AI助手<button>
+<button>SeerFabric智能无损数据中心解决方案<button>
+<button>场站边缘解决方案<button>
+<button>计算存储企业级解决方案<button>
+<button>查看所有<button>
+<button>行业解决方案<button>
+<button>运营商<button>
+<button>零碳智慧园区<button>
+<button>企业<button>
+<button>政府<button>
+<button>金融<button>
+<button>医疗<button>
+<button>交通<button>
+<button>互联网<button>
+<button>教育<button>
+<button>电力能源<button>
+<button>广电<button>
+<button>中小企业<button>
+<button>合作伙伴营销资料平台上线<button>
+<button>技术服务解决方案<button>
+<button>云与智能服务<button>
+<button>微模块解决方案<button>
+<button>架构咨询<button>
+<button>IT基础架构咨询<button>
+<button>网络架构咨询<button>
+<button>数据中心迁移<button>
+<button>业务连续性/容灾咨询<button>
+<button>容灾管理系统<button>
+<button>轻量化服务<button>
+<button>H3C TaaS服务<button>
+<button>测试体系咨询<button>
+<button>测试平台建设<button>
+<button>专业测试服务<button>
+<button>数据中心<button>
+<button>数字化数据中心（BIM）<button>
+<button>咨询<button>
+<button>设计<button>
+<button>实施<button>
+<button>验证及运维<button>
+<button>云集成服务<button>
+<button>云迁移服务<button>
+<button>云运维服务<button>
+<button>云运营服务<button>
+<button>大数据服务<button>
+<button>安全服务与运营<button>
+<button>教育培训<button>
+<button>攻防对抗<button>
+<button>工程实施<button>
+<button>咨询规划<button>
+<button>风险评估<button>
+<button>威胁检测与响应服务MDR<button>
+<button>安全托管服务MSS<button>
+<button>安全SaaS服务<button>
+<button>技术维护服务<button>
+<button>基础技术维护服务<button>
+<button>主动式技术维护服务<button>
+<button>ICT专业技术运维服务<button>
+<button>云软件技术支持服务<button>
+<button>大数据软件技术支持服务<button>
+<button>云计算软件技术支持服务<button>
+<button>智能终端服务<button>
+<button>MegaBook等计算机平板服务<button>
+<button>全屋网络、家庭路由器等网络类产品服务<button>
+<button>云屏产品服务<button>
+<button>商用终端服务（台式机 笔记本 显示器）<button>
+<button>更多服务支持<button>
+<button>产品资料下载<button>
+<button>驱动程序下载<button>
+<button>服务政策查询<button>
+<button>服务产品查询<button>
+<button>服务网点查询<button>
+<button>服务商认证<button>
+<button>服务支持中心<button>
+<button>iService<button>
+<button>在线技术支持(服务器及存储)<button>
+<button>智能终端在线客服<button>
+<button>新华三服务APP<button>
+<button>产品生命周期<button>
+<button>安全通告<button>
+<button>已知问题查询<button>
+<button>软件授权有效期文件<button>
+<button>设备升级码查询<button>
+<button>第15届新华三杯<button>
+<button>文档中心<button>
+<button>高级搜索<button>
+<button>云计算<button>
+<button>大数据<button>
+<button>路由器<button>
+<button>交换机<button>
+<button>无线<button>
+<button>物联网<button>
+<button>安全<button>
+<button>光模块<button>
+<button>网络管控析软件<button>
+<button>智能运维产品<button>
+<button>服务器<button>
+<button>存储<button>
+<button>PON<button>
+<button>ICG信息通信<button>
+<button>EPCN网关<button>
+<button>License Server<button>
+<button>其它产品<button>
+<button>智能终端<button>
+<button>传输产品<button>
+<button>云简网络<button>
+<button>商用终端<button>
+<button>AIGC<button>
+<button>Aolynk产品<button>
+<button>磐宁NingOS<button>
+<button>移动通信<button>
+<button>软件下载<button>
+<button>工具专区<button>
+<button>H3C个人资料库<button>
+<button>规划设计工具<button>
+<button>安装工具<button>
+<button>配置工具<button>
+<button>维护工具<button>
+<button>政策动态<button>
+<button>服务公告<button>
+<button>服务政策<button>
+<button>服务新闻<button>
+<button>维保服务说明<button>
+<button>合作伙伴服务标准<button>
+<button>技术博客<button>
+<button>成为合作伙伴<button>
+<button>加盟新华三<button>
+<button>星级服务资质认证标准<button>
+<button>售前资质认证标准<button>
+<button>合作伙伴手册<button>
+<button>2026新华三合作伙伴技术大比武正式启幕<button>
+<button>已成为合作伙伴<button>
+<button>合作伙伴查询<button>
+<button>政策与公告<button>
+<button>快易通<button>
+<button>稽核反馈<button>
+<button>合作伙伴资源中心<button>
+<button>产品与方案中心<button>
+<button>营销资料下载中心<button>
+<button>技术服务BOM产品说明书<button>
+<button>技术资料查询<button>
+<button>售前能力认证<button>
+<button>解决方案联盟<button>
+<button>解决方案合作伙伴认证申请<button>
+<button>技术方案联盟<button>
+<button>合作伙伴官网<button>
+<button>公司概况<button>
+<button>公司简介<button>
+<button>总裁寄语<button>
+<button>管理团队<button>
+<button>发展历史<button>
+<button>焦点时刻<button>
+<button>ESG可持续发展<button>
+<button>领航者文化<button>
+<button>公司视频<button>
+<button>公司动态<button>
+<button>公司新闻<button>
+<button>案例中心<button>
+<button>品牌活动<button>
+<button>数字化领航直播间<button>
+<button>《数字化领航》<button>
+<button>联系我们<button>
+<button>公司总部<button>
+<button>集团代表处<button>
+<button>媒体联络<button>
+<button>意见反馈<button>
+<button>采购公告<button>
+<button>如何购买<button>
+<button>在线举报<button>
+<button>查看所有<button>
+<button>案例中心New<button>
+<button>数字化领航直播间<button>
+<button>云上展厅<button>
+<button>登录<button>
+<button>China - 简体中文<button>
+<button>了解详情<button>
+<button>首页<button>
+<button>产品与解决方案<button>
+<button>智能联接<button>
+<button>高职教园区基于“以太光+PON”融合架构，面向教室、宿舍、办公、体育场馆等多场景的不同业务需求，打造新一代高职校园网络。通过光纤/光电混合缆，实现高带宽接入的同时，适配不同场景供电需求。采用多通道技术，实现无源透明汇聚部署，进一步简化弱电间运维。了解详情<button>
+<button>医院园区融合多通道技术，一楼一盒超高密万兆接入，满足医院日益增长的医疗设备接入数量和带宽的需求。一机三网、FTTD光面板及端到端光切片等可以满足诊室、病房、医学影像等不同场景的业务需求，支撑智慧医疗业务快速发展，加速医院数字化转型，提升医疗服务质量。了解详情<button>
+<button>企业园区基于办公、生产等不同场景业务需求提供针对性网络方案，融合IT、OT，实现光纤入室及光纤到机器的全覆盖，具备架构简洁、业务兼容性好、扩容方便及运维体验良好等优势，满足企业园区及工业生产高可靠、大带宽、低时延、易扩展的网络诉求。了解详情<button>
+<button>了解详情<button>
+<button>以太光ES4200 系列极简交换机提供类型丰富的网络接口，向上可通过光纤或光电混合缆连接汇聚设备，尺寸小、发热量低，即插即用，支持壁挂/桌面/信息箱等多种安装方式。其中底座与扩展模块可搭配组成一机多网交换机，适用于医疗、政企等多套物理网络隔离场景。了解详情<button>
+<button>以太光FS5100-EI 系列交换机提供类型丰富的网络接口，向上可通过光纤或光电混合缆连接汇聚设备。具有尺寸小、发热量低、安装方式灵活以及静音等特点，适用于办公桌面、多媒体中控箱、室内弱电箱等环境。了解详情<button>
+<button>以太光E500C-F系列全光交换机全光解决方案设计的接入产品，基于新一代高性能硬件架构和H3C公司先进的Comware V7软件平台开发，可为教育、医疗及企业办公网络等提供便利的网络接入和高速带宽。了解详情<button>
+<button>以太光IEF4520-G系列机架式工业光主机专为工业环境中的全光网络设计，该产品通过集中供电方式，为前端设备供电，简化布线结构，降低运维成本，提升可靠性。适用于智能制造、智慧能源等高要求工业场景，确保网络持续稳定运行。了解详情<button>
+<button>以太光IEF4320系列导轨式工业影终端具备宽温（-40℃~75℃）、防尘防水（IP40）、抗电磁干扰等特性，支持光纤/光电混合缆接入，提供稳定、低延时的数据传输。适用于智能制造、轨道交通、能源等工业场景，确保网络高可靠性和实时性。了解详情<button>
+<button>PONEGT300系列 ONU高性能千兆光网络单元，支持GPON/EPON双模接入，提供1Gbps高速传输，具备稳定可靠、低时延特性。即插即用，部署简便，助力打造高效光纤接入网络。了解详情<button>
+<button>PONEGT900系列 ONU高性能10G PON光网络终端，支持XGSPON/10G EPON双模接入，提供万兆超宽带接入能力。内置高性能千兆以太网交换芯片，具有高性能、低功耗、稳定可靠等特点。了解详情<button>
+<button>Wi-Fi 7高密WA7636整机采用三频八流设计，整机最大接入速率9.794Gbps。整机采用渐变水波纹设计，一体化外壳内置理线槽，完美隐藏连接线缆及USB插卡、物联网插卡等多种外扩设备，呈现入室产品简洁之美。了解详情<button>
+<button>Wi-Fi 7高密WA7338-HI整机采用三频八流设计，整机最大接入速率17.293Gbps，上行支持10G PSFP、万兆电口、千兆电口，支持对外物联扩展，满足各种高接入、高带宽场景。了解详情<button>
+<button>Wi-Fi 7高密WA7330i整机最大接入速率9.335Gbps，支持10G光电口切换，支持2.5G POEOUT口，支持对外物联扩展，满足室内无线覆盖需求。了解详情<button>
+<button>Wi-Fi 7高密WA7232整机采用三频六流设计，最大接入速率9.335Gbps，,高带宽接入，可广泛应用在会议、场馆、教学等高密接入，高带宽场景。了解详情<button>
+<button>Wi-Fi 7放装WA7320i整机采用双频四流设计，最大接入速率8.647Gbps, 支持对外物联网扩展，可广泛应用在会议室、办公室、医疗大厅等室内无线接入场景。了解详情<button>
+<button>Wi-Fi 7放装WA7320整机采用双频四流设计，最大接入速率3.57Gbps，上行支持5G PSFP，支持2.5G电口，满足多种业务接入需求。了解详情<button>
+<button>Wi-Fi 7面板WA7220H整机采用双频四流设计，最大接入速率3.57Gbps，支持4个1G电口下行，可广泛应用在宿舍、小型会议室、病房等室内无线接入场景。了解详情<button>
+<button>Wi-Fi 7室外WA7630X支持IP68防护等级，适应户外雨水、灰尘、极端温度等极端环境，内置高增益智能全向天线，覆盖范围更广，适合大面积和户外场景。了解详情<button>
+<button>Wi-Fi 7室外WA7320XE外置天线款型，具备IP68防水防尘等级和大范围宽温工作能力，可广泛的应用于包括无线城市、无线小区、景区、工厂等各类恶劣环境场景的WLAN覆盖。了解详情<button>
+<button>融合（以太+PON）S7500X-G 汇聚交换机全光解决方案OLT融合设备，灵活组合各种业务板卡，支撑各类园区场景。了解详情<button>
+<button>以太光S6550X-HI系列多通道以太光交换机通过创新设计，在标准QSFP+接口封装下实现1纤4路双向传输技术，大幅提升传输效率，降低光纤布线复杂度，同时支持40G/100G高速率传输，满足教育、医疗、企业中高密高速接入场景。了解详情<button>
+<button>以太光多通道以太光透明汇聚无源分光器，无需供电，部署位置更灵活，支持16个万兆下行端口，并配备双上行备份链路，在确保网络可靠性的同时，显著减少光纤布线复杂度，降低施工和维护成本。了解详情<button>
+<button>以太光FS6300V2-EI系列全光以太网交换机采用创新性组合式端口，支持1G、2.5G、10G、25G、40G、100G接口，可通过光电混合缆对AP和受电交换机提供数据连接和供电，满足教育、医疗、企业等场景对远距离供电、极简网络架构、一体化运维管理的需求。了解详情<button>
+<button>以太光FS5500V2-EI系列全光以太网交换机支持1G、2.5G、10G、25G、40G、100G接口，支持PoE++，可通过光电混合缆对AP和受电交换机提供数据连接和供电，满足教育、医疗、企业等场景对远距离供电、极简网络架构、一体化运维管理的需求。了解详情<button>
+<button>以太光FS5300-EI 系列交换机支持 1G、2.5G、10G、40G 接口，支持 PoE++，可通过光电混合缆对 AP 和受电交换机提供数据连接和供电，满足教育、医疗、企业等场景对远距离供电、极简网络架构、一体化运维管理的需求。了解详情<button>
+<button>S12500G-AF智能融合核心交换机新一代数据中心及园区核心交换机，内置100T+算力GPU，采用CLOS+正交架构实现无损数据传输，支持AI流量分析与安全检测。能够满足不同规模需求，集成INT可视化技术，是核心网络建设的理想选择。了解详情<button>
+<button>S10500X-G核心交换机全光解决方案的核心层设备，能够适应不同网络规模的端口密度和性能要求。了解详情<button>
+<button>H3C CR16000-F 核心路由器为全光解决方案提供强大的BRAS功能，满足园区网络发展需求。了解详情<button>
+<button>AD-Campus控制组件强大的园区自动部署功能，实现端到端自动化部署，是园区网络部署、管理和运维的有力助手。了解详情<button>
+<button>AD-Campus分析组件采用Telemetry等技术，基于专家知识和场景AI算法，洞察全网健康状态，进行故障根因定位及AI预测。了解详情<button>
+<button>EIA终端智能接入组件H3C EIA（EIA，Endpoint Intelligent Access）是一款网络接入策略管理产品。实现企业有线、无线和VPN网络的一体化接入管理。了解详情<button>
+<button>H3C SecPath F5000-AI防火墙面向行业市场的高性能超百G防火墙VPN集成网关产品，硬件上基于多核多线程X86处理器架构，该系列防火墙产品提供丰富的接口能力。了解详情<button>
+<button>SecPath F1000-AI防火墙支持安全控制、VPN、NAT、DOS/DDOS防御等防火墙安全功能，还一体化地集成了IPS、AV、应用控制、DLP、URL分类及自定义过滤等深度安全防御的功能，实现了基于用户、应用、时间、地理位置、安全状态等多维度的策略控制功能。了解详情<button>
+<button>SecPath ACG1000系列应用控制网关新华三最新一代应用控制网关，可以路由模式、透明桥接模式、旁路模式以及混合模式部署在网络的关键节点。其融合了应用控制、行为审计、网络优化等全面功能，为用户提供一个综合、完整的全业务应用场景解决方案。了解详情<button>
+<button>查看全部<button>
+<button>教育湖南师范大学：130万平米超大型校园如何保障上网体验？了解详情<button>
+<button>医疗北京大学第一医院：携手新华三打造融合全光新基座，树立智慧医疗全新典范了解详情<button>
+<button>教育中南大学：“100G骨干 万兆入室”，新华三PON方案点亮超13500间全光宿舍了解详情<button>
+<button>查看全部<button>
+<button>2025-05-26引领园区网效率革命：新华三正式发布全光网络5.0解决方案了解详情<button>
+<button>2025-03-17更快、更省、更灵活！新华三发布多通道以太光方案了解详情<button>
+<button>2024-01-12新华三发布全光网络速熔技术，专治光纤布放“强迫症”了解详情<button>
+<button>全光5.0解决方案宣传片<button>
+<button>多通道以太光方案宣传片<button>
+<button>新华三高职教全光网络方案宣传片<button>
+<button>新华三医院全光网络方案宣传片<button>
+<button>光影系列交换机宣传片<button>
+<button>新华三一机多网积木交换机宣传片<button>
+<button>新华三多通道以太光方案技术白皮书<button>
+<button>融合全光园区网络技术专刊<button>
+<button>融合全光网络白皮书（IDC）<button>
+<button>新华三全光校园网专刊<button>
+<button>新华三光电混合缆彩页<button>
+<button>新华三全光校园网解决方案彩页<button>
+<button>新华三全光医院网络解决方案彩页<button>
+<button>新华三全光中小学网络解决方案彩页<button>
+<button>新华三企业园区全光网络解决方案彩页<button>
+<button>新华三光影系列交换机彩页<button>
+<button>新华三光电混合模块彩页<button>
+<button>提交项目需求<button>
+<button>隐私政策<button>
+<button>版权声明<button>
+<button>网站地图<button>
+<button>售前在线咨询<button>
+<button>获取更多支持与服务<button>
+<button>网站意见与建议<button>
+<button>Cookies和隐私政策><button>
+<button>观看视频<button>
+<button>观看视频<button>
+<button>观看视频<button>
+<button>观看视频<button>
+
+----- WebWalker -----
+Memory:
+-新华三全光网络5.0解决方案中，通过以太光+EPON/GPON融合技术路线实现的技术方案包括：多通道以太光方案、融合（以太+PON）S7500X-G汇聚交换机、以太光S6550X-HI系列多通道以太光交换机、以太光多通道以太光透明汇聚无源分光器等。这些方案通过创新引入多通道技术，实现了以太光与PON在无源架构层的一体化融合，满足了不同场景下的高带宽接入需求。
+"}
+
+----- WebWalker -----
+Final Answer: 新华三全光网络5.0解决方案中，通过以太光+EPON/GPON融合技术路线实现的技术方案包括：多通道以太光方案、融合（以太+PON）S7500X-G汇聚交换机、以太光S6550X-HI系列多通道以太光交换机、以太光多通道以太光透明汇聚无源分光器等。

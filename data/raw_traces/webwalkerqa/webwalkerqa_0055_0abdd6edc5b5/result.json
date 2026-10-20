@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0055_0abdd6edc5b5",
+  "source_index": 55,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2019年中南大学计算机学院的学生在湖南省网络安全应急演练比赛和中国机器人大赛中分别获得了什么奖项？",
+  "prompt": "2019年中南大学计算机学院的学生在湖南省网络安全应急演练比赛和中国机器人大赛中分别获得了什么奖项？",
+  "expected_answer": "湖南省网络安全应急演练比赛获得高校组第一名；中国机器人大赛中型组技术挑战赛获得冠军和中型仿真组获得季军。",
+  "root_url": "https://cse.csu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.csu.edu.cn/info/1018/1974.htm",
+      "https://cse.csu.edu.cn/info/1018/1955.htm"
+    ],
+    "golden_path": [
+      "root->人才培养->计算机学院在“2019年湖南省关键信息基础设施网络安全应急演练比赛”荣获佳绩",
+      "root->人才培养->计算机学院CSU_云麓队在2019中国机器人大赛夺冠"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 49.065,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0055_0abdd6edc5b5/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0055_0abdd6edc5b5/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

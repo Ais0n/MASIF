@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0300_2b49327e5478",
+  "source_index": 300,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "When did Candace Thomas join Riot Games and how long did it take her to overcome her imposter syndrome in the gaming industry?",
+  "prompt": "When did Candace Thomas join Riot Games and how long did it take her to overcome her imposter syndrome in the gaming industry?",
+  "expected_answer": "Candace Thomas joined Riot in 2021, and it took her about five or six years to overcome imposter syndrome.",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/news/changing-the-face-of-gaming-at-2021-virtual-san-diego-comic-con"
+    ],
+    "golden_path": [
+      "root->Diversity & Inclusion->Changing the Face of Gaming at 2021 Virtual San Diego Comic-Con"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 70.47,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0300_2b49327e5478/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0300_2b49327e5478/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

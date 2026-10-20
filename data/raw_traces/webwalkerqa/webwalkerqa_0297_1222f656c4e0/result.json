@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0297_1222f656c4e0",
+  "source_index": 297,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which bank did Patrick Ryan work for 12 years before joining Riot, and what financial services inclusion network did he help create and lead?",
+  "prompt": "Which bank did Patrick Ryan work for 12 years before joining Riot, and what financial services inclusion network did he help create and lead?",
+  "expected_answer": "Patrick Ryan worked at State Street for 12 years and was involved in co-founding FuSIoN, a financial services inclusion network.",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/news/rainbow-rioters-find-their-lane-patrick-ryan"
+    ],
+    "golden_path": [
+      "root->Diversity & Inclusion->Rainbow Rioters Find Their Lane: Patrick Ryan"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 59.064,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0297_1222f656c4e0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0297_1222f656c4e0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

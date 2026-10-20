@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0037_0519672008ab",
+  "source_index": 37,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What specific reasons did the Rovio report cite for the decline in revenue in Q1 2023 compared to the same period the previous year, and by what percentage did the revenue decline?",
+  "prompt": "What specific reasons did the Rovio report cite for the decline in revenue in Q1 2023 compared to the same period the previous year, and by what percentage did the revenue decline?",
+  "expected_answer": "Rovio's revenue in Q1 2023 decreased by 13.2% compared to the same period in 2022, largely due to the impact of the Angry Birds Journey launch in early 2022 affecting the comparison figures.",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/rovios-half-year-2022-financial-report-published/",
+      "https://www.rovio.com/articles/rovios-q1-2023-interim-report-published/"
+    ],
+    "golden_path": [
+      "root->Support->Financial Update->Rovio’s Half-Year 2022 financial report published.",
+      "root->Support->Financial Update->Rovio’s Q1 2023 Interim report published"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The Rovio report cited the decline in revenue in Q1 2023 compared to the same period the previous year as being mainly driven by Angry Birds 2 and Angry Birds Journey. The revenue declined by 5.6%.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 5,
+  "duration_seconds": 42.023,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0037_0519672008ab/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0037_0519672008ab/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

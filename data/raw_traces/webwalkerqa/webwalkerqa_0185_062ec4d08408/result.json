@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0185_062ec4d08408",
+  "source_index": 185,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "谁负责广州大学计算机科学与网络工程学院的本科生思想政治教育与管理工作，且同时负责校友会和招生与就业等工作的全面统筹？",
+  "prompt": "谁负责广州大学计算机科学与网络工程学院的本科生思想政治教育与管理工作，且同时负责校友会和招生与就业等工作的全面统筹？",
+  "expected_answer": "吕延明",
+  "root_url": "https://jsj.gzhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsj.gzhu.edu.cn/xygk1/xyld.htm"
+    ],
+    "golden_path": [
+      "root->学院领导"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 25.553,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0185_062ec4d08408/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0185_062ec4d08408/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

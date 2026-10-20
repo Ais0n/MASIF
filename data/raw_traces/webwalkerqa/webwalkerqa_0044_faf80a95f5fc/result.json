@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0044_faf80a95f5fc",
+  "source_index": 44,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What time will James Landay share his experiences in the 2024 ACM SIGCHI Awards series in Shanghai local time?",
+  "prompt": "What time will James Landay share his experiences in the 2024 ACM SIGCHI Awards series in Shanghai local time?",
+  "expected_answer": "June 15, 2024, 4:30 AM to 5:30 AM Shanghai local time.",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/events/sigchi-lifetime-research-award-james-landay/"
+    ],
+    "golden_path": [
+      "root->Meetings->Past Meetings->SIGCHI Lifetime Research Award: James LandayJun 15, 2024 - Jun 15, 2024James Landay presents \"A Funny Thing Happened on the Way to the Farm\"."
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 60.261,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0044_faf80a95f5fc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0044_faf80a95f5fc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

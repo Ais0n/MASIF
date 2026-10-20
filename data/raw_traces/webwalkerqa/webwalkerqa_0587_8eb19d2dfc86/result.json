@@ -1,0 +1,50 @@
+{
+  "task_id": "webwalkerqa_0587_8eb19d2dfc86",
+  "source_index": 587,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "统一企业在2015年积极参与的爱心活动与其在2021年驰援西安疫情中的捐助行动分别是什么？",
+  "prompt": "统一企业在2015年积极参与的爱心活动与其在2021年驰援西安疫情中的捐助行动分别是什么？",
+  "expected_answer": "“12.5”国际志愿者日宣传骑行活动；2021年西安疫情的物资驰援行动",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/responsibility-9_2d.asp",
+      "https://www.uni-president.com.cn/news_detail.asp?news_id=664&corp_id=376"
+    ],
+    "golden_path": [
+      "root->企业社会责任->社会活动->2015",
+      "root->新闻专区->下页->统一企业献爱心  满汉大餐送真情"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "2015年统一企业积极参与的爱心活动包括：12月25日参与‘圆孩子一个梦 圣诞老人到我家’爱心活动；12月10日投入‘爱心档案’公益活动；12月5日参与‘12.5’国际志愿者日宣传骑行活动；11月10日向昆山市慈善总会奉献爱心；10月20日参加‘南昌慈善日’暨慈善一日捐活动；10月15日参加无偿献血活动；9月19日参与北京怀柔雁栖湖国际徒步大会；8月20日参加昆山市慈善基金会发起的‘慈善一日捐’活动、广州统一参加大学生暑假三下乡社会实践活动；8月13日参与天津‘8.12’爆炸事故后的物资支援及献血活动；7月25日慰问治安、交警、派出所、街道办事处及社区，参与关爱湘西山区学生活动；7月1日参与知识再分享活动，募集书籍捐给贫困学校；6月25日参加济阳县慈善一日捐活动；4月24日响应政府号召组织参加植树活动；3月26日举办深圳地铁1号线争做绿超人，倡导环保活动；1月20日慰问交警队、治安大队、派出所、街道办事处及社区。2021年统一企业在西安疫情中的捐助行动是：2021-12-30（大陆-统一中投）第一时间响应西安抗疫物资捐助。",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\"verdict\":\"match\",\"reason\":\"The predicted",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 3,
+  "duration_seconds": 52.328,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0587_8eb19d2dfc86/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0587_8eb19d2dfc86/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

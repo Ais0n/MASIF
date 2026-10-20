@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0344_a436afabdcef",
+  "source_index": 344,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who was the individual that successfully implemented the patented core technology of Xona Space Systems in 2022 and received the 2023 Per Enge Early Achievement Award?",
+  "prompt": "Who was the individual that successfully implemented the patented core technology of Xona Space Systems in 2022 and received the 2023 Per Enge Early Achievement Award?",
+  "expected_answer": "Dr. Tyler Gerald René Reid",
+  "root_url": "https://www.ion.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ion.org/awards/2023-Early-Achievement.cfm"
+    ],
+    "golden_path": [
+      "root->Awards and ION Fellows->Per Enge Early Achievement->View full award information"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The individual who successfully implemented the patented core technology of Xona Space Systems in 2022 and received the 2023 Per Enge Early Achievement Award is Dr. Rong Yang.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 104.353,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0344_a436afabdcef/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0344_a436afabdcef/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer names a completely different individual (Dr. Rong Yang) than the expected answer (Dr. Tyler Gerald René Reid).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

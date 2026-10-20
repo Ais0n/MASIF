@@ -1,0 +1,841 @@
+----- user -----
+query:
+在2024年东南大学研究生国家奖学金评审中，由学院分配的博士生和硕士生名额分别是多少？
+official website:
+https://cse.seu.edu.cn/
+Observation:website information:
+
+]( "返回计算机科学与工程学院首页")
+      
+### 导航
+                                                                                                                                                                                                                                                                                            
+### 导航
+                                                                                                                                                                                                                                                                                            
+](
+!
+## 新时代高校教师职业行为十项准则1
+<>
+12
+###  News center
+学院新闻
+Previous
+  *  ]( "第三届东南大学-华为ICT菁英班顺利开班")
+  *  ]( "虹软科技来访我院 共商校企深度合作")
+  *  ]( "国网数字科技控股有限公司、远光软件股份有限公司一行莅临我院交流座谈")
+  *  ]( "【校友讲堂】我院知名校友解凯访问母校")
+  *  ]( "计软智学院赴沪走访校友及校友企业")
+  *  ]( "我院赴中国能建江苏院开展校企合作交流")
+  *  ]( "第三届东南大学-华为ICT菁英班顺利开班")
+  *  ]( "虹软科技来访我院 共商校企深度合作")
+  *  ]( "国网数字科技控股有限公司、远光软件股份有限公司一行莅临我院交流座谈")
+  *  ]( "【校友讲堂】我院知名校友解凯访问母校")
+  *  ]( "计软智学院赴沪走访校友及校友企业")
+  *  ]( "我院赴中国能建江苏院开展校企合作交流")
+  *  ]( "第三届东南大学-华为ICT菁英班顺利开班")
+  *  ]( "虹软科技来访我院 共商校企深度合作")
+Next 
+###  通知公告
+最新
+学生
+教师
+公示
+              
+              
+          
+              
+###  academic activities
+学术活动
+Previous
+  * The Impact of Artificial Intelligence on Intelligent Decision Support")
+                  * The Impact of Artificial Intelligence on Intelligent Decision Support")
+                  * The Impact of Artificial Intelligence on Intelligent Decision Support")
+  Next 
+  * 相关链接
+            
+  * 联系方式
+  * 通信地址：南京市江宁区东南大学路2号东南大学九龙湖校区计算机学院
+  * 邮政编码：211189
+  * ​办公地点：东南大学九龙湖校区计算机楼
+  * !
+学院微信公众号
+Copyright © 东南大学计算机科学与工程学院、软件学院、人工智能学院
+!
+
+
+clickable button:
+
+<button>院长书记信箱<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>组织机构<button>
+<button>联系我们<button>
+<button>师资队伍<button>
+<button>知名专家<button>
+<button>研究生导师<button>
+<button>教师按职称<button>
+<button>教师按研究方向<button>
+<button>教师按系别<button>
+<button>院机关与实验人员<button>
+<button>计算中心<button>
+<button>人才培养<button>
+<button>本科生<button>
+<button>专业简介<button>
+<button>培养方案<button>
+<button>教学管理<button>
+<button>教学动态<button>
+<button>通知公告<button>
+<button>下载专区<button>
+<button>研究生<button>
+<button>博士招生<button>
+<button>硕士招生<button>
+<button>培养管理<button>
+<button>文件规定<button>
+<button>下载专区<button>
+<button>拔尖基地<button>
+<button>基地简介<button>
+<button>培养方案<button>
+<button>招生选拔<button>
+<button>创新实践<button>
+<button>风采展示<button>
+<button>学生工作<button>
+<button>学工概况<button>
+<button>通知公告<button>
+<button>学生活动<button>
+<button>就业信息<button>
+<button>下载专区<button>
+<button>EFREI国际班<button>
+<button>项目介绍<button>
+<button>课程概览<button>
+<button>精彩掠影<button>
+<button>媒体聚焦<button>
+<button>科学研究<button>
+<button>研究方向<button>
+<button>科研平台<button>
+<button>科研动态<button>
+<button>学术活动<button>
+<button>科研指南<button>
+<button>人才引进<button>
+<button>人才招聘<button>
+<button>博士后招募<button>
+<button>党群工作<button>
+<button>学习专区<button>
+<button>党建工作<button>
+<button>关工委工作<button>
+<button>工会工作<button>
+<button>下载专区<button>
+<button>校友天地<button>
+<button>校友风采<button>
+<button>校友动态<button>
+<button>更多+<button>
+<button>102026-04第三届东南大学-华为ICT菁英班顺利开班<button>
+<button>032026-04虹软科技来访我院 共商校企深度合作<button>
+<button>272026-04国网数字科技控股有限公司、远光软件股份有限公司一行莅临我院交流座谈<button>
+<button>242026-04【校友讲堂】我院知名校友解凯访问母校<button>
+<button>222026-04计软智学院赴沪走访校友及校友企业<button>
+<button>更多+<button>
+<button>【本科生】2025-2026学年计算机科学与工程学院、软件学院、人工...04-27<button>
+<button>【本科生】2025-2026 学年计算机科学与工程学院、软件学院、人工...04-20<button>
+<button>【本科生】2025-2026学年计算机科学与工程学院、软件学院、人工...04-14<button>
+<button>【本科生】关于评选东南大学2024-2025学年校级先进班集体的通知03-19<button>
+<button>【研究生】计算机科学与工程学院2025级博士新生奖获奖名单公示10-21<button>
+<button>【研究生】2025级博士新生奖学金评奖工作的通知10-14<button>
+<button>【本科生】2024-2025学年学院本科生国家奖学金、校长奖学金评审...09-28<button>
+<button>【本科生】2025-2026学年计算机科学与工程学院、软件学院、人工...04-27<button>
+<button>【本科生】2025-2026 学年计算机科学与工程学院、软件学院、人工...04-20<button>
+<button>【本科生】2025-2026学年计算机科学与工程学院、软件学院、人工...04-14<button>
+<button>【本科生】关于评选东南大学2024-2025学年校级先进班集体的通知03-19<button>
+<button>【本科生】计算机科学与工程学院、软件学院、人工智能学院2025年...12-16<button>
+<button>【本科生】关于开展东南大学2025-2026学年有温度的资助：“暖归...12-04<button>
+<button>【本科生】关于开展东南大学2025年本科生单项奖评选工作的通知12-03<button>
+<button>【研究生导师】计算机科学与工程学院、软件学院导师招收2026级研...08-18<button>
+<button>【研究生导师】计算机科学与工程学院、软件学院研究生导师2025年...08-31<button>
+<button>【研究生】计算机科学与工程学院2025级博士新生奖获奖名单...2025-10-21<button>
+<button>【研究生】计算机科学与工程学院、软件学院2025年校长奖学...2025-07-03<button>
+<button>【研究生】2024年研究生国家奖学金和至善奖学金拟推荐名单...2024-11-15<button>
+<button>【研究生】2024-2025学年秋季学期研究生学业奖学金拟获奖...2024-11-12<button>
+<button>【研究生】2024年研究生小米奖助学金（教育基金会）拟推荐...2024-11-11<button>
+<button>【研究生】2024年研究生浦芯精英奖学金（教育基金会）拟推...2024-11-06<button>
+<button>【研究生】2023-2024学年评优拟推荐名单公示2024-09-19<button>
+<button>更多+<button>
+<button>Policy and Facts about the European Journal of Operational Research (EJOR)The Im...时 间：12月03日（周三）下午15:30-17:00地 点：九龙湖校区计算机楼513室报告人：Roman Słowiński 教授 波兹南理工大学<button>
+<button>从CNNs到CapsNets：部件-整体关系驱动的视觉范式时 间：11月06日（周四）下午14:00-16:00地 点：九龙湖校区计算机楼513报告厅报告人：刘毅 教授 常州大学<button>
+<button>面向复杂智能系统的智能测评方法与关键技术时 间：4月3日（周五）上午9:30-11:30地 点：九龙湖校区计算机楼513报告厅报告人：赵睿卓 高级工程师 航天科工集团第二研究院七〇六所<button>
+<button>Leveraging Machine Learning Techniques to Enable and Accelerate Data-driven Biom...时 间：3月26日（周四）上午10:00-11:00地 点：九龙湖校区计算机楼513报告厅报告人：Jiangning Song 教授 澳大利亚蒙纳士大学<button>
+<button>面向可穿戴成像应用的压电MEMS超声器件研究时 间：1月30日（周五）下午15:00-16:30地 点：九龙湖校区计算机楼513报告厅报告人：牛鹏飞 副教授 天津大学<button>
+<button>基于近似数据结构的持续性流量检测时 间：1月16日（周五）下午14:00-15:00地 点：九龙湖校区计算机楼313室报告人：李威赫 研究助理 爱丁堡大学<button>
+<button>Measuring Low-Earth Orbit Satellite Networks时 间：12月18日（周四）下午14:30-16:00地 点：九龙湖校区计算机楼513室报告人：Jianping Pan 教授 加拿大维多利亚大学<button>
+<button>Managing the KV Cache Bottleneck in Large Language Model Inference时 间：12月16日（周二）下午15:30-16:30地 点：九龙湖校区计算机楼513室报告人：陈雷 教授 香港科技大学（广州）<button>
+<button>基于大语言模型的编译器工程优化时 间：12月16日（周二）上午10:00-11:00地 点：九龙湖校区计算机楼413室报告人：田永强 助理教授 澳大利亚蒙纳士大学<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到与2024年东南大学研究生国家奖学金评审相关的页面，特别是关于博士生和硕士生名额分配的信息。首先，我应该点击“研究生”按钮进入相关页面。
+
+Action: visit_page
+Action Input: {"button": "研究生"}
+
+----- VisitPage -----
+The web information is:
+
+]( "返回计算机科学与工程学院首页")
+      
+### 导航
+                                                                                                                                      
+### 导航
+                                                                                                                                      
+!
+###  人才培养
+                              
+  * 当前位置：
+  * ## 博士招生
+  *  2026-01-20
+  *  2025-11-11
+  *  2025-10-21
+  *  2025-06-13
+  *  2025-06-08
+  *  2025-01-09
+  *  2024-06-14
+  *  2023-11-15
+  *  2023-10-18
+  * 每页  _14_ 记录  总共  _9_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+  * 相关链接
+            
+  * 联系方式
+  * 通信地址：南京市江宁区东南大学路2号东南大学九龙湖校区计算机学院
+  * 邮政编码：211189
+  * ​办公地点：东南大学九龙湖校区计算机楼
+  * !
+学院微信公众号
+Copyright © 东南大学计算机科学与工程学院、软件学院、人工智能学院
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院长书记信箱<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>组织机构<button>
+<button>联系我们<button>
+<button>师资队伍<button>
+<button>知名专家<button>
+<button>研究生导师<button>
+<button>教师按职称<button>
+<button>教师按研究方向<button>
+<button>教师按系别<button>
+<button>院机关与实验人员<button>
+<button>计算中心<button>
+<button>人才培养<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>拔尖基地<button>
+<button>学生工作<button>
+<button>EFREI国际班<button>
+<button>科学研究<button>
+<button>研究方向<button>
+<button>科研平台<button>
+<button>科研动态<button>
+<button>学术活动<button>
+<button>科研指南<button>
+<button>人才引进<button>
+<button>人才招聘<button>
+<button>博士后招募<button>
+<button>党群工作<button>
+<button>学习专区<button>
+<button>党建工作<button>
+<button>关工委工作<button>
+<button>工会工作<button>
+<button>下载专区<button>
+<button>校友天地<button>
+<button>校友风采<button>
+<button>校友动态<button>
+<button>博士招生<button>
+<button>硕士招生<button>
+<button>培养管理<button>
+<button>文件规定<button>
+<button>下载专区<button>
+<button>首页<button>
+<button>2026年计算机科学与工程学院全日制博士生考核成绩公示<button>
+<button>2026年全日制博士招生计算机科学与工程学院审核材料<button>
+<button>计算机科学与工程学院、软件学院 2024级硕士研究生硕博贯通培养博士资格考核细则<button>
+<button>【研究生】2025年计算机科学与工程学院全日制博士生考核成绩公示（补充选拔批次）<button>
+<button>2025年计算机科学与工程学院全日制博士生考核资格名单（补充选拔批次）<button>
+<button>【研究生】2025年计算机科学与工程学院全日制博士生考核成绩公示<button>
+<button>【研究生】2024年计算机科学与工程学院全日制博士生考核结果（补充选拔批次）<button>
+<button>计算机科学与工程学院2024年全日制博士研究生招生工作细则<button>
+<button>计算机科学与工程学院2023级博士新生奖获奖名单公示<button>
+
+----- WebWalker -----
+Thought: 我需要找到与2024年研究生国家奖学金评审相关的页面，因此我应该点击“文件规定”按钮进入相关页面。
+
+Action: visit_page
+Action Input: {"button": "文件规定"}
+
+----- VisitPage -----
+The web information is:
+
+]( "返回计算机科学与工程学院首页")
+      
+### 导航
+                                                                                                                                      
+### 导航
+                                                                                                                                      
+!
+###  人才培养
+                              
+  * 当前位置：
+  * ## 文件规定
+  *  2026-04-08
+  *  2026-03-23
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2023-03-21
+  *  2024-04-13
+  *  2024-04-13
+  * ") 2024-04-13
+  *  2024-04-13
+  *  2018-12-18
+  * 每页  _14_ 记录  总共  _14_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+  * 相关链接
+            
+  * 联系方式
+  * 通信地址：南京市江宁区东南大学路2号东南大学九龙湖校区计算机学院
+  * 邮政编码：211189
+  * ​办公地点：东南大学九龙湖校区计算机楼
+  * !
+学院微信公众号
+Copyright © 东南大学计算机科学与工程学院、软件学院、人工智能学院
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院长书记信箱<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>组织机构<button>
+<button>联系我们<button>
+<button>师资队伍<button>
+<button>知名专家<button>
+<button>研究生导师<button>
+<button>教师按职称<button>
+<button>教师按研究方向<button>
+<button>教师按系别<button>
+<button>院机关与实验人员<button>
+<button>计算中心<button>
+<button>人才培养<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>拔尖基地<button>
+<button>学生工作<button>
+<button>EFREI国际班<button>
+<button>科学研究<button>
+<button>研究方向<button>
+<button>科研平台<button>
+<button>科研动态<button>
+<button>学术活动<button>
+<button>科研指南<button>
+<button>人才引进<button>
+<button>人才招聘<button>
+<button>博士后招募<button>
+<button>党群工作<button>
+<button>学习专区<button>
+<button>党建工作<button>
+<button>关工委工作<button>
+<button>工会工作<button>
+<button>下载专区<button>
+<button>校友天地<button>
+<button>校友风采<button>
+<button>校友动态<button>
+<button>博士招生<button>
+<button>硕士招生<button>
+<button>培养管理<button>
+<button>文件规定<button>
+<button>下载专区<button>
+<button>首页<button>
+<button>中国计算机学会推荐国际学术会议和期刊目录（2026年）<button>
+<button>关于印发《计算机学位评定分委员会所辖学科博士研究生申请学位时科研成果考核标准》的通知<button>
+<button>关于《东南大学研究生申请学位时科研成果署名与认定要求》的补充规定<button>
+<button>关于印发《东南大学关于研究生申请学位论文提前答辩的规定（暂行）》的通知<button>
+<button>江苏省硕士学位论文抽检及优秀博士硕士学位论文评选实施办法（苏教评院【2021】6号）<button>
+<button>关于印发《东南大学研究生学位论文盲审条例》的通知<button>
+<button>关于印发《东南大学研究生申请学位时科研成果署名和认定要求》的通知<button>
+<button>关于印发《东南大学工程类博士专业学位研究生申请学位时科研成果基本要求》的通知<button>
+<button>中国计算机学会推荐国际学术会议和期刊目录（2022年）<button>
+<button>关于印发《东南大学对国家、省级研究生学位论文抽检“存在问题论文”暂行处理办法》的通知<button>
+<button>计算机学院研究生培养意见调查表<button>
+<button>东南大学博士研究生申请学位时科研成果考核标准(修订)<button>
+<button>东南大学对抽检评议有不合格意见的研究生学位论文的处理办法（20060511校通知[2006]64号）<button>
+<button>东南大学博士研究生申请博士学位的成果考核标准（2018版）<button>
+
+----- WebWalker -----
+Thought: 我需要找到与2024年研究生国家奖学金评审相关的具体文件，因此我应该点击“关于印发《东南大学研究生申请学位时科研成果署名和认定要求》的通知”按钮进入相关页面。
+
+Action: visit_page
+Action Input: {"button": "关于印发《东南大学研究生申请学位时科研成果署名和认定要求》的通知"}
+
+----- VisitPage -----
+The web information is:
+
+]( "返回计算机科学与工程学院首页")
+      
+### 导航
+                                                                                                                                      
+### 导航
+                                                                                                                                      
+!
+# 关于印发《东南大学研究生申请学位时科研成果署名和认定要求》的通知
+发布者：邢婉秋发布时间：2024-04-13浏览次数：4923 
+  * 相关链接
+            
+  * 联系方式
+  * 通信地址：南京市江宁区东南大学路2号东南大学九龙湖校区计算机学院
+  * 邮政编码：211189
+  * ​办公地点：东南大学九龙湖校区计算机楼
+  * !
+学院微信公众号
+Copyright © 东南大学计算机科学与工程学院、软件学院、人工智能学院
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院长书记信箱<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>组织机构<button>
+<button>联系我们<button>
+<button>师资队伍<button>
+<button>知名专家<button>
+<button>研究生导师<button>
+<button>教师按职称<button>
+<button>教师按研究方向<button>
+<button>教师按系别<button>
+<button>院机关与实验人员<button>
+<button>计算中心<button>
+<button>人才培养<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>拔尖基地<button>
+<button>学生工作<button>
+<button>EFREI国际班<button>
+<button>科学研究<button>
+<button>研究方向<button>
+<button>科研平台<button>
+<button>科研动态<button>
+<button>学术活动<button>
+<button>科研指南<button>
+<button>人才引进<button>
+<button>人才招聘<button>
+<button>博士后招募<button>
+<button>党群工作<button>
+<button>学习专区<button>
+<button>党建工作<button>
+<button>关工委工作<button>
+<button>工会工作<button>
+<button>下载专区<button>
+<button>校友天地<button>
+<button>校友风采<button>
+<button>校友动态<button>
+
+----- WebWalker -----
+Thought: 该页面并未提供关于2024年研究生国家奖学金评审中博士生和硕士生名额分配的具体信息。我需要继续寻找其他相关文件或通知，因此我应该返回上一页并尝试点击其他相关按钮。
+
+Action: visit_page
+Action Input: {"button": "文件规定"}
+
+----- VisitPage -----
+The web information is:
+
+]( "返回计算机科学与工程学院首页")
+      
+### 导航
+                                                                                                                                      
+### 导航
+                                                                                                                                      
+!
+###  人才培养
+                              
+  * 当前位置：
+  * ## 文件规定
+  *  2026-04-08
+  *  2026-03-23
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2023-03-21
+  *  2024-04-13
+  *  2024-04-13
+  * ") 2024-04-13
+  *  2024-04-13
+  *  2018-12-18
+  * 每页  _14_ 记录  总共  _14_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+  * 相关链接
+            
+  * 联系方式
+  * 通信地址：南京市江宁区东南大学路2号东南大学九龙湖校区计算机学院
+  * 邮政编码：211189
+  * ​办公地点：东南大学九龙湖校区计算机楼
+  * !
+学院微信公众号
+Copyright © 东南大学计算机科学与工程学院、软件学院、人工智能学院
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院长书记信箱<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>组织机构<button>
+<button>联系我们<button>
+<button>师资队伍<button>
+<button>知名专家<button>
+<button>研究生导师<button>
+<button>教师按职称<button>
+<button>教师按研究方向<button>
+<button>教师按系别<button>
+<button>院机关与实验人员<button>
+<button>计算中心<button>
+<button>人才培养<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>拔尖基地<button>
+<button>学生工作<button>
+<button>EFREI国际班<button>
+<button>科学研究<button>
+<button>研究方向<button>
+<button>科研平台<button>
+<button>科研动态<button>
+<button>学术活动<button>
+<button>科研指南<button>
+<button>人才引进<button>
+<button>人才招聘<button>
+<button>博士后招募<button>
+<button>党群工作<button>
+<button>学习专区<button>
+<button>党建工作<button>
+<button>关工委工作<button>
+<button>工会工作<button>
+<button>下载专区<button>
+<button>校友天地<button>
+<button>校友风采<button>
+<button>校友动态<button>
+<button>博士招生<button>
+<button>硕士招生<button>
+<button>培养管理<button>
+<button>文件规定<button>
+<button>下载专区<button>
+<button>首页<button>
+<button>中国计算机学会推荐国际学术会议和期刊目录（2026年）<button>
+<button>关于印发《计算机学位评定分委员会所辖学科博士研究生申请学位时科研成果考核标准》的通知<button>
+<button>关于《东南大学研究生申请学位时科研成果署名与认定要求》的补充规定<button>
+<button>关于印发《东南大学关于研究生申请学位论文提前答辩的规定（暂行）》的通知<button>
+<button>江苏省硕士学位论文抽检及优秀博士硕士学位论文评选实施办法（苏教评院【2021】6号）<button>
+<button>关于印发《东南大学研究生学位论文盲审条例》的通知<button>
+<button>关于印发《东南大学研究生申请学位时科研成果署名和认定要求》的通知<button>
+<button>关于印发《东南大学工程类博士专业学位研究生申请学位时科研成果基本要求》的通知<button>
+<button>中国计算机学会推荐国际学术会议和期刊目录（2022年）<button>
+<button>关于印发《东南大学对国家、省级研究生学位论文抽检“存在问题论文”暂行处理办法》的通知<button>
+<button>计算机学院研究生培养意见调查表<button>
+<button>东南大学博士研究生申请学位时科研成果考核标准(修订)<button>
+<button>东南大学对抽检评议有不合格意见的研究生学位论文的处理办法（20060511校通知[2006]64号）<button>
+<button>东南大学博士研究生申请博士学位的成果考核标准（2018版）<button>
+
+----- WebWalker -----
+Thought: 我需要继续寻找与2024年研究生国家奖学金评审相关的文件，因此我应该点击“关于印发《计算机学位评定分委员会所辖学科博士研究生申请学位时科研成果考核标准》的通知”按钮进入相关页面。
+
+Action: visit_page
+Action Input: {"button": "关于印发《计算机学位评定分委员会所辖学科博士研究生申请学位时科研成果考核标准》的通知"}
+
+----- VisitPage -----
+The web information is:
+
+!
+提示：您当前ip并非校内地址，该信息仅允许校内地址访问
+ 
+提示
+)
+))
+New Dialog
+)
+))
+New Dialog
+)
+请稍等  
+|  |  
+| --- |  
+| 程序处理中... |  
+|  |  
+|  |
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>关闭此页<button>
+
+----- WebWalker -----
+Thought: 该页面无法访问，可能是由于IP限制或页面未公开。我需要返回上一页并尝试其他相关文件。
+
+Action: visit_page
+Action Input: {"button": "文件规定"}
+
+----- VisitPage -----
+The web information is:
+
+]( "返回计算机科学与工程学院首页")
+      
+### 导航
+                                                                                                                                      
+### 导航
+                                                                                                                                      
+!
+###  人才培养
+                              
+  * 当前位置：
+  * ## 文件规定
+  *  2026-04-08
+  *  2026-03-23
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2023-03-21
+  *  2024-04-13
+  *  2024-04-13
+  * ") 2024-04-13
+  *  2024-04-13
+  *  2018-12-18
+  * 每页  _14_ 记录  总共  _14_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+  * 相关链接
+            
+  * 联系方式
+  * 通信地址：南京市江宁区东南大学路2号东南大学九龙湖校区计算机学院
+  * 邮政编码：211189
+  * ​办公地点：东南大学九龙湖校区计算机楼
+  * !
+学院微信公众号
+Copyright © 东南大学计算机科学与工程学院、软件学院、人工智能学院
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院长书记信箱<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>组织机构<button>
+<button>联系我们<button>
+<button>师资队伍<button>
+<button>知名专家<button>
+<button>研究生导师<button>
+<button>教师按职称<button>
+<button>教师按研究方向<button>
+<button>教师按系别<button>
+<button>院机关与实验人员<button>
+<button>计算中心<button>
+<button>人才培养<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>拔尖基地<button>
+<button>学生工作<button>
+<button>EFREI国际班<button>
+<button>科学研究<button>
+<button>研究方向<button>
+<button>科研平台<button>
+<button>科研动态<button>
+<button>学术活动<button>
+<button>科研指南<button>
+<button>人才引进<button>
+<button>人才招聘<button>
+<button>博士后招募<button>
+<button>党群工作<button>
+<button>学习专区<button>
+<button>党建工作<button>
+<button>关工委工作<button>
+<button>工会工作<button>
+<button>下载专区<button>
+<button>校友天地<button>
+<button>校友风采<button>
+<button>校友动态<button>
+<button>博士招生<button>
+<button>硕士招生<button>
+<button>培养管理<button>
+<button>文件规定<button>
+<button>下载专区<button>
+<button>首页<button>
+<button>中国计算机学会推荐国际学术会议和期刊目录（2026年）<button>
+<button>关于印发《计算机学位评定分委员会所辖学科博士研究生申请学位时科研成果考核标准》的通知<button>
+<button>关于《东南大学研究生申请学位时科研成果署名与认定要求》的补充规定<button>
+<button>关于印发《东南大学关于研究生申请学位论文提前答辩的规定（暂行）》的通知<button>
+<button>江苏省硕士学位论文抽检及优秀博士硕士学位论文评选实施办法（苏教评院【2021】6号）<button>
+<button>关于印发《东南大学研究生学位论文盲审条例》的通知<button>
+<button>关于印发《东南大学研究生申请学位时科研成果署名和认定要求》的通知<button>
+<button>关于印发《东南大学工程类博士专业学位研究生申请学位时科研成果基本要求》的通知<button>
+<button>中国计算机学会推荐国际学术会议和期刊目录（2022年）<button>
+<button>关于印发《东南大学对国家、省级研究生学位论文抽检“存在问题论文”暂行处理办法》的通知<button>
+<button>计算机学院研究生培养意见调查表<button>
+<button>东南大学博士研究生申请学位时科研成果考核标准(修订)<button>
+<button>东南大学对抽检评议有不合格意见的研究生学位论文的处理办法（20060511校通知[2006]64号）<button>
+<button>东南大学博士研究生申请博士学位的成果考核标准（2018版）<button>
+
+----- WebWalker -----
+Thought: 我需要继续寻找与2024年研究生国家奖学金评审相关的文件，因此我应该点击“关于《东南大学研究生申请学位时科研成果署名与认定要求》的补充规定”按钮进入相关页面。
+
+Action: visit_page
+Action Input: {"button": "关于《东南大学研究生申请学位时科研成果署名与认定要求》的补充规定"}
+
+----- VisitPage -----
+The web information is:
+
+!
+提示：您当前ip并非校内地址，该信息仅允许校内地址访问
+ 
+提示
+)
+))
+New Dialog
+)
+))
+New Dialog
+)
+请稍等  
+|  |  
+| --- |  
+| 程序处理中... |  
+|  |  
+|  |
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>关闭此页<button>
+
+----- WebWalker -----
+Thought: 该页面无法访问，可能是由于IP限制或页面未公开。我需要返回上一页并尝试其他相关文件。
+
+Action: visit_page
+Action Input: {"button": "文件规定"}
+
+----- VisitPage -----
+The web information is:
+
+]( "返回计算机科学与工程学院首页")
+      
+### 导航
+                                                                                                                                      
+### 导航
+                                                                                                                                      
+!
+###  人才培养
+                              
+  * 当前位置：
+  * ## 文件规定
+  *  2026-04-08
+  *  2026-03-23
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2024-04-13
+  *  2023-03-21
+  *  2024-04-13
+  *  2024-04-13
+  * ") 2024-04-13
+  *  2024-04-13
+  *  2018-12-18
+  * 每页  _14_ 记录  总共  _14_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+  * 相关链接
+            
+  * 联系方式
+  * 通信地址：南京市江宁区东南大学路2号东南大学九龙湖校区计算机学院
+  * 邮政编码：211189
+  * ​办公地点：东南大学九龙湖校区计算机楼
+  * !
+学院微信公众号
+Copyright © 东南大学计算机科学与工程学院、软件学院、人工智能学院
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>院长书记信箱<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>历史沿革<button>
+<button>组织机构<button>
+<button>联系我们<button>
+<button>师资队伍<button>
+<button>知名专家<button>
+<button>研究生导师<button>
+<button>教师按职称<button>
+<button>教师按研究方向<button>
+<button>教师按系别<button>
+<button>院机关与实验人员<button>
+<button>计算中心<button>
+<button>人才培养<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>拔尖基地<button>
+<button>学生工作<button>
+<button>EFREI国际班<button>
+<button>科学研究<button>
+<button>研究方向<button>
+<button>科研平台<button>
+<button>科研动态<button>
+<button>学术活动<button>
+<button>科研指南<button>
+<button>人才引进<button>
+<button>人才招聘<button>
+<button>博士后招募<button>
+<button>党群工作<button>
+<button>学习专区<button>
+<button>党建工作<button>
+<button>关工委工作<button>
+<button>工会工作<button>
+<button>下载专区<button>
+<button>校友天地<button>
+<button>校友风采<button>
+<button>校友动态<button>
+<button>博士招生<button>
+<button>硕士招生<button>
+<button>培养管理<button>
+<button>文件规定<button>
+<button>下载专区<button>
+<button>首页<button>
+<button>中国计算机学会推荐国际学术会议和期刊目录（2026年）<button>
+<button>关于印发《计算机学位评定分委员会所辖学科博士研究生申请学位时科研成果考核标准》的通知<button>
+<button>关于《东南大学研究生申请学位时科研成果署名与认定要求》的补充规定<button>
+<button>关于印发《东南大学关于研究生申请学位论文提前答辩的规定（暂行）》的通知<button>
+<button>江苏省硕士学位论文抽检及优秀博士硕士学位论文评选实施办法（苏教评院【2021】6号）<button>
+<button>关于印发《东南大学研究生学位论文盲审条例》的通知<button>
+<button>关于印发《东南大学研究生申请学位时科研成果署名和认定要求》的通知<button>
+<button>关于印发《东南大学工程类博士专业学位研究生申请学位时科研成果基本要求》的通知<button>
+<button>中国计算机学会推荐国际学术会议和期刊目录（2022年）<button>
+<button>关于印发《东南大学对国家、省级研究生学位论文抽检“存在问题论文”暂行处理办法》的通知<button>
+<button>计算机学院研究生培养意见调查表<button>
+<button>东南大学博士研究生申请学位时科研成果考核标准(修订)<button>
+<button>东南大学对抽检评议有不合格意见的研究生学位论文的处理办法（20060511校通知[2006]64号）<button>
+<button>东南大学博士研究生申请博士学位的成果考核标准（2018版）<button>

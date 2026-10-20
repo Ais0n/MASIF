@@ -1,0 +1,716 @@
+----- user -----
+query:
+What unconventional resource acquisition methods are introduced in Myth of Empires Season 2 and the upcoming Persia DLC?
+official website:
+https://www.mythofempires.com/
+Observation:website information:
+
+](       
+- en
+English
+             
+     
+     
+! ! 
+!
+  1. LATEST
+  2. News
+  3. Announcement
+  4. Updates
+ 
+  *  04/30/26 news Myth of Empires IP Collaboration Update: Myth of Empires: Throne S2–S4 Development Roadmap Revealed At present, Season 1 of Myth of Empires: Throne is in full swing. Regarding the future development of its seasonal model, the operations team has released a phased development roadmap along with selected event details. The following information is summarized for your reference. ](
+  *  04/15/26 news Myth of Empires × Myth of Empires: Throne Contribution Linkage System Preview we are pleased to confirm that Myth of Empires will be functionally linked with Contribution Points generated during the seasonal gameplay of Myth of Empires: Throne. ](
+  *  04/03/26 news Myth of Empires Veteran Return Rewards | Collaboration with Myth of Empires: Throne Now Live As part of this collaboration, cosmetic skins previously obtained in Myth of Empires can be matched and duplicated for use in the seasonal servers of Myth of Empires: Throne, allowing you to carry your collection forward into the new battlefield. ](
+  *  03/20/25 NEWS Myth of Empires: Xizhou Civilization DLC is Now Live – S4 Season Begins! ](
+  *  03/19/25 NEWS March 21 2025 – Myth of Empires New Server Launch Announcement ](
+  *  03/14/25 NEWS Compete for a Share of $10,000! Myth of Empires S4 Season Rules Revealed! ](
+  *  10/26/23 ANNOUNCEMENT Regarding Myth of Empires’ Recent Developments and Enhanced Anti-cheat Measures we will be deploying and upgrading our anti-cheat system in the near future. Take note, accounts caught using cheats will be permanently banned! ](
+  *  06/13/22 ANNOUNCEMENT County Announcement Last Friday, we announced that we are going to take down some county servers. Based on everyone’s feedback and suggestions, we’ve decided to add some counties to the list and take them down all at once, so that we will not need to take them anymore down in the future. At the same time, we will continue to improve and optimize the season server experience as needed, and add more servers if needed. We apologize for any inconvenience players may encounter during this period and thank you for your patience and understanding, as well as your continued support of Myth of Empires ](
+  *  06/10/22 ANNOUNCEMENT County Announcement In order to improve efficiency, optimize the allocation of resources, and provide an overall better experience for the players, we deemed it necessary to merge and remove some Counties. We apologize for the inconvenience this may cause. ](
+  *  11/02/23 UPDATES 【2023.11.2】Update and maintenance notice Myth of Empires will undergo a temporary maintenance on November 2 from 06:00 to 09:00 UTC (three hours).  ](
+### Embark Upon a Thrilling Journey
+Explore a land with diverse landscapes, ecologies, and weather, as well as a realistic day/night cycle. The v1.0 release of Myth of Empires also features a new map – Dongzhou Island, offering new adventures and challenges.
+### Build Your Own Empire From the Ground Up
+Myth of Empires features sandbox gameplay with a high degree of freedom; the game has 1300+ different crafting recipe, allowing you to build your own empire. The v1.0 release adds new recipes, including mechanical tools and base defenses, as well as a new planting system. The possibilities are endless.
+### Recruit NPCs, Tame Wildlife
+In-depth taming and training systems allow players to recruit or subdue additional forces to aid them in combat and production. The v1.0 release adds new boss NPCs and powerful beasts. In addition, smaller types of animals can be used to help power your base’s defenses.
+### Wage Epic Wars on Ancient Battlefields
+Myth of Empires features hundreds of different weapons, armor, and large-scale engineering equipment. Pick the weapons that best suit your playstyle, or utilize your strategic capabilities to build an army. The v1.0 release introduces powerful mechanical base defenses, wooden oxen, and other new combat equipment to further enrich the game’s deep war experience.
+### Engage in Cross-server Battles
+Establish administrative regions, fight for the position of county magistrate, and compete to expand your territory through Fortress Battles. Craft the perfect guild and utilize your diplomatic prowess to ensure its long-term stability.
+### Write Your Own Legend
+With 25 different development paths, a 16-level title system, and more than 100 achievements, you have complete freedom in growing your character. Become a legendary military commander, or content yourself with the life of a simple farmer – the choice is yours.
+! !
+#### Explore
+! !
+#### Build
+! !
+#### Recruit
+! !
+#### War of Cold Steel
+! !
+#### Cross-serverBattles
+! !
+#### Personal Growth
+  1. video
+  2. screenshots
+  3. POSTER
+  *  Xizhou Civilization DLC Trailer ! ](
+  *  Myth of Empires V1.0 Release Trailer ! ](
+  *  Full Release on Feb 2024 ! ](
+  *  Official Early Access Launch Trailer ! ](
+  *  Behind the Scenes - Animations ! ](
+  *  Behind the Scenes - Horses ! ](
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+## Follow us to get the latest news
+     
+BUSINESS CONTACT   © 2023 Imperium Interactive Entertainment Limited. All Rights Reserved
+### Plains
+The open flatlands are rich in plant resources, low level animals and NPCs. The terrain here is easy to navigate, it is the perfect training place for beginners, but it can be difficult to hide your base here.
+### Swamp
+Plagued with Miasma and venomous bugs, this kind of wetland is one of the most dangerous habitats in the world. However, the availability of bugs and high level plant resources here makes this place a popular destination for explorers. Bring a censer, at least then you can breathe.
+### Rainforest
+Extremely rich in fauna and flora. The thick vegetation makes riding and vehicle travel difficult, but it does make hiding easy, which is why this can be an ideal location for beginners.
+### Alpine
+In the snow covered land of the extreme cold, where only Fir Trees can survive the blizzards. The mines here contain the most precious mineral resources in the world. Pay attention to keeping warm when you exploring here.
+### Gobi
+An extremely hot arid region, only Poplar Trees and a few shrubs grow here. The False Daisy is a precious plant that is unique to this habitat. Remember to bring an Ice Container to cool down and beware of dust storms.
+### Mountains
+Although the mountains make transportation difficult, they can become a natural barrier of defense. With relatively rich resources, they can meet the daily needs of novice players and can become a very popular area.
+
+
+clickable button:
+
+<button>HOME<button>
+<button>news<button>
+<button>Gallery<button>
+<button>English<button>
+<button>繁體中文<button>
+<button>Deutsch<button>
+<button>Español<button>
+<button>Français<button>
+<button>Pусский<button>
+<button>日本語<button>
+<button>Polski<button>
+<button>čeština<button>
+<button>Português<button>
+<button>한국어<button>
+<button>ไทย<button>
+<button>Italiano<button>
+<button>Nederlands<button>
+<button>More<button>
+<button>04/30/26newsMyth of Empires IP Collaboration Update: Myth of Empires: Throne S2–S4 Development Roadmap RevealedAt present, Season 1 of Myth of Empires: Throne is in full swing. Regarding the future development of its seasonal model, the operations team has released a phased development roadmap along with selected event details. The following information is summarized for your reference.<button>
+<button>04/15/26newsMyth of Empires × Myth of Empires: Throne Contribution Linkage System Previewwe are pleased to confirm that Myth of Empires will be functionally linked with Contribution Points generated during the seasonal gameplay of Myth of Empires: Throne.<button>
+<button>04/03/26newsMyth of Empires Veteran Return Rewards | Collaboration with Myth of Empires: Throne Now LiveAs part of this collaboration, cosmetic skins previously obtained in Myth of Empires can be matched and duplicated for use in the seasonal servers of Myth of Empires: Throne, allowing you to carry your collection forward into the new battlefield.<button>
+<button>03/20/25NEWSMyth of Empires: Xizhou Civilization DLC is Now Live – S4 Season Begins!<button>
+<button>03/19/25NEWSMarch 21 2025 – Myth of Empires New Server Launch Announcement<button>
+<button>03/14/25NEWSCompete for a Share of $10,000! Myth of Empires S4 Season Rules Revealed!<button>
+<button>10/26/23ANNOUNCEMENTRegarding Myth of Empires’ Recent Developments and Enhanced Anti-cheat Measureswe will be deploying and upgrading our anti-cheat system in the near future. Take note, accounts caught using cheats will be permanently banned!<button>
+<button>06/13/22ANNOUNCEMENTCounty AnnouncementLast Friday, we announced that we are going to take down some county servers. Based on everyone’s feedback and suggestions, we’ve decided to add some counties to the list and take them down all at once, so that we will not need to take them anymore down in the future. At the same time, we will continue to improve and optimize the season server experience as needed, and add more servers if needed. We apologize for any inconvenience players may encounter during this period and thank you for your patience and understanding, as well as your continued support of Myth of Empires<button>
+<button>06/10/22ANNOUNCEMENTCounty AnnouncementIn order to improve efficiency, optimize the allocation of resources, and provide an overall better experience for the players, we deemed it necessary to merge and remove some Counties. We apologize for the inconvenience this may cause.<button>
+<button>11/02/23UPDATES【2023.11.2】Update and maintenance noticeMyth of Empires will undergo a temporary maintenance on November 2 from 06:00 to 09:00 UTC (three hours).<button>
+<button>More<button>
+<button>Myth of Empires<button>
+<button>USER LICENSE AGREEMENT<button>
+<button>Privacy Policy<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find information about unconventional resource acquisition methods introduced in Myth of Empires Season 2 and the upcoming Persia DLC. The official website is the primary source, so I will start by visiting the "news" section to look for relevant updates or announcements.
+
+Action: visit_page
+Action Input: {"button": "news"}
+
+----- VisitPage -----
+The web information is:
+
+](       
+newsall - newsall
+             
+     
+     
+## news
+  1. 
+  2. 
+  3. 
+  4. 
+;) 
+  *  04/30/26 news Myth of Empires IP Collaboration Update: Myth of Empires: Throne S2–S4 Development Roadmap Revealed At present, Season 1 of Myth of Empires: Throne is in full swing. Regarding the future development of its seasonal model, the operations team has released a phased development roadmap along with selected event details. The following information is summarized for your reference. ](
+  *  04/15/26 news Myth of Empires × Myth of Empires: Throne Contribution Linkage System Preview we are pleased to confirm that Myth of Empires will be functionally linked with Contribution Points generated during the seasonal gameplay of Myth of Empires: Throne. ](
+  *  04/03/26 news Myth of Empires Veteran Return Rewards | Collaboration with Myth of Empires: Throne Now Live As part of this collaboration, cosmetic skins previously obtained in Myth of Empires can be matched and duplicated for use in the seasonal servers of Myth of Empires: Throne, allowing you to carry your collection forward into the new battlefield. ](
+  *  03/31/26 news Myth of Empires: Throne - Global Publishing Partnership Officially Announced, Launch Expected in Mid-April We are excited to announce that a global publishing partnership (excluding the CIS region) has been officially established for Myth of Empires: Throne, the brand-new standalone seasonal version of the Myth of Empires IP, with Singapore-based publisher Celestial Star Studios Pte. Ltd. Myth of Empires: Throne is expected to launch in mid-April. ](
+  *  02/12/26 news Myth of Empires Limited-Time Discount Now Live on Steam! A new limited-time promotion for Myth of Empires is now available on Steam. The base game, DLCs, and in-game store items are all discounted for a limited time. We invite all players to check out the offers and expand their arsenal. ](
+  *  03/20/25 NEWS Myth of Empires: Xizhou Civilization DLC is Now Live – S4 Season Begins! ](
+  *  03/19/25 NEWS March 21 2025 – Myth of Empires New Server Launch Announcement ](
+  *  03/14/25 NEWS Compete for a Share of $10,000! Myth of Empires S4 Season Rules Revealed! ](
+  *  03/12/25 NEWS Myth of Empires Xizhou Civilization DLC introduces the Aerial Fortress, the airborne dominator that reshapes the battlefield. ](
+     ;)  
+## Follow us to get the latest news
+     
+BUSINESS CONTACT   © 2023 Imperium Interactive Entertainment Limited. All Rights Reserved
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>news<button>
+<button>Gallery<button>
+<button>English<button>
+<button>繁體中文<button>
+<button>Deutsch<button>
+<button>Español<button>
+<button>Français<button>
+<button>Pусский<button>
+<button>日本語<button>
+<button>Polski<button>
+<button>čeština<button>
+<button>Português<button>
+<button>한국어<button>
+<button>ไทย<button>
+<button>Italiano<button>
+<button>Nederlands<button>
+<button>All<button>
+<button>News<button>
+<button>Announcement<button>
+<button>Updates<button>
+<button>04/30/26newsMyth of Empires IP Collaboration Update: Myth of Empires: Throne S2–S4 Development Roadmap RevealedAt present, Season 1 of Myth of Empires: Throne is in full swing. Regarding the future development of its seasonal model, the operations team has released a phased development roadmap along with selected event details. The following information is summarized for your reference.<button>
+<button>04/15/26newsMyth of Empires × Myth of Empires: Throne Contribution Linkage System Previewwe are pleased to confirm that Myth of Empires will be functionally linked with Contribution Points generated during the seasonal gameplay of Myth of Empires: Throne.<button>
+<button>04/03/26newsMyth of Empires Veteran Return Rewards | Collaboration with Myth of Empires: Throne Now LiveAs part of this collaboration, cosmetic skins previously obtained in Myth of Empires can be matched and duplicated for use in the seasonal servers of Myth of Empires: Throne, allowing you to carry your collection forward into the new battlefield.<button>
+<button>03/31/26newsMyth of Empires: Throne - Global Publishing Partnership Officially Announced, Launch Expected in Mid-AprilWe are excited to announce that a global publishing partnership (excluding the CIS region) has been officially established for Myth of Empires: Throne, the brand-new standalone seasonal version of the Myth of Empires IP, with Singapore-based publisher Celestial Star Studios Pte. Ltd. Myth of Empires: Throne is expected to launch in mid-April.<button>
+<button>02/12/26newsMyth of Empires Limited-Time Discount Now Live on Steam!A new limited-time promotion for Myth of Empires is now available on Steam. The base game, DLCs, and in-game store items are all discounted for a limited time. We invite all players to check out the offers and expand their arsenal.<button>
+<button>03/20/25NEWSMyth of Empires: Xizhou Civilization DLC is Now Live – S4 Season Begins!<button>
+<button>03/19/25NEWSMarch 21 2025 – Myth of Empires New Server Launch Announcement<button>
+<button>03/14/25NEWSCompete for a Share of $10,000! Myth of Empires S4 Season Rules Revealed!<button>
+<button>03/12/25NEWSMyth of Empires Xizhou Civilization DLC introduces the Aerial Fortress, the airborne dominator that reshapes the battlefield.<button>
+<button>1<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>34<button>
+<button>><button>
+<button>USER LICENSE AGREEMENT<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+I need to find information about unconventional resource acquisition methods introduced in Myth of Empires Season 2 and the upcoming Persia DLC. The news section has several updates, but I haven't found any specific details about resource acquisition methods yet. I will click on the "04/30/26newsMyth of Empires IP Collaboration Update: Myth of Empires: Throne S2–S4 Development Roadmap Revealed" button to see if it contains relevant information.
+
+Action: visit_page
+Action Input: {"button": "04/30/26newsMyth of Empires IP Collaboration Update: Myth of Empires: Throne S2–S4 Development Roadmap RevealedAt present, Season 1 of Myth of Empires: Throne is in full swing. Regarding the future development of its seasonal model, the operations team has released a phased development roadmap along with selected event details. The following information is summarized for your reference."}
+
+----- VisitPage -----
+The web information is:
+
+](       
+newsall - news
+             
+     
+     
+## news
+;)
+date: 04/30/26
+## Myth of Empires IP Collaboration Update: Myth of Empires: Throne S2–S4 Development Roadmap Revealed
+Generals,
+As a seasonal-mode title within the Myth of Empires IP ecosystem, Myth of Empires: Throne is independently operated by its authorized publishing partner. Both parties maintain ongoing communication and collaboration on content and version development, jointly advancing the expansion and enrichment of the IP ecosystem.
+At present, Season 1 of Myth of Empires: Throne is in full swing. Regarding the future development of its seasonal model, the operations team has released a phased development roadmap along with selected event details. The following information is summarized for your reference.
+**Special Rewards**
+Generals who venture into the world of Throne can benefit from the accelerated growth mechanics available on seasonal servers. In addition, during Season 1, players may use the exclusive gift code MOETS1 to claim supply rewards and quickly strengthen their forces on the new battlefield.
+(The gift code is valid until the end of Season 1.)
+**Throne S2–S4 Season Development Roadmap**
+Below is an overview of key gameplay features and content planned for upcoming seasons (specific details will continue to be adjusted during development):
+!
+Detailed roadmap: 
+**Season Competition Incentives: Honor and Rewards**
+To recognize the dedication and efforts of all generals, the Myth of Empires: Throne operations team has announced the Season 1 settlement incentive plan. Key details include:
+**[S1 Standard Rewards]**
+■ Individual: Players who reach Season Points milestones will receive exclusive Season 1 cosmetic rewards.
+■ Guild: At the end of the season, the top 10 Guilds across the server will share a total reward pool of 8.88 million Gold Tokens.
+**[Additional Honor Rewards]**
+■ Top Rank Honor: At the end of the season, the Guild Leader of the #1 Guild will receive an exclusive “Throne” set component (to be distributed in the following season).
+■ Merit Rewards: Guild Leaders of other top-ranking Guilds will receive rare orb rewards.
+_(Please refer to future official announcements from Myth of Empires: Throne for detailed rules.)_
+**Throne Limited-Time Global Buff Event**
+Event Period: April 30, 12:00 UTC – May 8, 12:00 UTC
+All proficiency gain +100%
+Civilization EXP gain +100%
+Xizhou Boss item drop quantity +100%
+Chance to gain +100% extra Metal Pellets from crafting.
+The multi-version ecosystem of the Myth of Empires IP continues to expand. Generals are welcome to choose their preferred battlefield and embark on their own journey.
+Myth of Empires: Throne is independently operated by its authorized publishing partner. All related events and services are provided and managed by its operations team. For more information or to participate, please visit the official channels of Myth of Empires: Throne.
+We wish all generals success in battle!
+_Myth of Empires Operations Team_
+April 30, 2026
+BUSINESS CONTACT   © 2023 Imperium Interactive Entertainment Limited. All Rights Reserved
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>news<button>
+<button>Gallery<button>
+<button>English<button>
+<button>繁體中文<button>
+<button>Deutsch<button>
+<button>Español<button>
+<button>Français<button>
+<button>Pусский<button>
+<button>日本語<button>
+<button>Polski<button>
+<button>čeština<button>
+<button>Português<button>
+<button>한국어<button>
+<button>ไทย<button>
+<button>Italiano<button>
+<button>Nederlands<button>
+<button>USER LICENSE AGREEMENT<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+The web information is:
+
+](       
+newsall - news
+             
+     
+     
+## news
+;)
+date: 04/30/26
+## Myth of Empires IP Collaboration Update: Myth of Empires: Throne S2–S4 Development Roadmap Revealed
+Generals,
+As a seasonal-mode title within the Myth of Empires IP ecosystem, Myth of Empires: Throne is independently operated by its authorized publishing partner. Both parties maintain ongoing communication and collaboration on content and version development, jointly advancing the expansion and enrichment of the IP ecosystem.
+At present, Season 1 of Myth of Empires: Throne is in full swing. Regarding the future development of its seasonal model, the operations team has released a phased development roadmap along with selected event details. The following information is summarized for your reference.
+**Special Rewards**
+Generals who venture into the world of Throne can benefit from the accelerated growth mechanics available on seasonal servers. In addition, during Season 1, players may use the exclusive gift code MOETS1 to claim supply rewards and quickly strengthen their forces on the new battlefield.
+(The gift code is valid until the end of Season 1.)
+**Throne S2–S4 Season Development Roadmap**
+Below is an overview of key gameplay features and content planned for upcoming seasons (specific details will continue to be adjusted during development):
+!
+Detailed roadmap: 
+**Season Competition Incentives: Honor and Rewards**
+To recognize the dedication and efforts of all generals, the Myth of Empires: Throne operations team has announced the Season 1 settlement incentive plan. Key details include:
+**[S1 Standard Rewards]**
+■ Individual: Players who reach Season Points milestones will receive exclusive Season 1 cosmetic rewards.
+■ Guild: At the end of the season, the top 10 Guilds across the server will share a total reward pool of 8.88 million Gold Tokens.
+**[Additional Honor Rewards]**
+■ Top Rank Honor: At the end of the season, the Guild Leader of the #1 Guild will receive an exclusive “Throne” set component (to be distributed in the following season).
+■ Merit Rewards: Guild Leaders of other top-ranking Guilds will receive rare orb rewards.
+_(Please refer to future official announcements from Myth of Empires: Throne for detailed rules.)_
+**Throne Limited-Time Global Buff Event**
+Event Period: April 30, 12:00 UTC – May 8, 12:00 UTC
+All proficiency gain +100%
+Civilization EXP gain +100%
+Xizhou Boss item drop quantity +100%
+Chance to gain +100% extra Metal Pellets from crafting.
+The multi-version ecosystem of the Myth of Empires IP continues to expand. Generals are welcome to choose their preferred battlefield and embark on their own journey.
+Myth of Empires: Throne is independently operated by its authorized publishing partner. All related events and services are provided and managed by its operations team. For more information or to participate, please visit the official channels of Myth of Empires: Throne.
+We wish all generals success in battle!
+_Myth of Empires Operations Team_
+April 30, 2026
+BUSINESS CONTACT   © 2023 Imperium Interactive Entertainment Limited. All Rights Reserved
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>news<button>
+<button>Gallery<button>
+<button>English<button>
+<button>繁體中文<button>
+<button>Deutsch<button>
+<button>Español<button>
+<button>Français<button>
+<button>Pусский<button>
+<button>日本語<button>
+<button>Polski<button>
+<button>čeština<button>
+<button>Português<button>
+<button>한국어<button>
+<button>ไทย<button>
+<button>Italiano<button>
+<button>Nederlands<button>
+<button>USER LICENSE AGREEMENT<button>
+<button>Privacy Policy<button>
+
+Thought: I need to find information about unconventional resource acquisition methods introduced in Myth of Empires Season 2 and the upcoming Persia DLC. The current page provides general updates but not specific details about resource acquisition methods. I will click on the "04/15/26newsMyth of Empires × Myth of Empires: Throne Contribution Linkage System Preview" button to see if it contains relevant information.
+
+Action: visit_page
+Action Input: {"button": "04/15/26newsMyth of Empires × Myth of Empires: Throne Contribution Linkage System Previewwe are pleased to confirm that Myth of Empires will be functionally linked with Contribution Points generated during the seasonal gameplay of Myth of Empires: Throne."}
+
+----- VisitPage -----
+The web information is:
+
+](       
+newsall - news
+             
+     
+     
+## news
+;)
+date: 04/15/26
+## Myth of Empires × Myth of Empires: Throne Contribution Linkage System Preview
+Generals,
+Myth of Empires: Throne is scheduled to officially launch on April 16 at 13:00 UTC, with the Steam version opening for download and character creation at 8:00 UTC on the same day.
+In response to player feedback and suggestions collected by Celestial Star Publishing, we have developed a Contribution Linkage system. After careful consideration, we are pleased to confirm that Myth of Empires will be functionally linked with Contribution Points generated during the seasonal gameplay of Myth of Empires: Throne.
+This announcement serves as an initial preview. Detailed rules and the exact release schedule will be shared in future official updates.
+**I. Linkage Rules Overview**
+During Season 1 of Myth of Empires: Throne, players will earn Season Contribution based on their Season Points, calculated at a set ratio. These Season Contribution will be granted to the player’s linked Myth of Empires official server account.
+Important:
+This linkage system provides additional rewards only and will not consume any Season Points earned in Myth of Empires: Throne.
+**II. Season Contribution Usage**
+Season Contribution can be used in the Seasonal Contribution Shop in Myth of Empires to redeem various in-game items.
+The Shop will be continuously expanded with additional rewards to enhance the cross-game experience.
+Season Contribution will be calculated and distributed in real time throughout the season.
+**III. Claiming & Account Binding**
+A dedicated Contribution Claim & Binding page will be launched soon, allowing players to link their Myth of Empires: Throne account with their Myth of Empires account.
+All players, whether using the official client or Steam, must complete this binding process to receive Contribution Points.
+Each Myth of Empires account can be linked to only one Myth of Empires: Throne account. Once confirmed, the binding cannot be changed, so please proceed carefully.
+**IV. Availability**
+The Contribution Claim & Binding feature page is currently under development and will be released in the near future. Further details, including access and full rules, will be announced soon.
+Thank you for your continued support of both Myth of Empires and Myth of Empires: Throne. We look forward to delivering a more connected and rewarding dual-version gameplay experience.
+Myth of Empires Operations Team
+April 15, 2026
+BUSINESS CONTACT   © 2023 Imperium Interactive Entertainment Limited. All Rights Reserved
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>news<button>
+<button>Gallery<button>
+<button>English<button>
+<button>繁體中文<button>
+<button>Deutsch<button>
+<button>Español<button>
+<button>Français<button>
+<button>Pусский<button>
+<button>日本語<button>
+<button>Polski<button>
+<button>čeština<button>
+<button>Português<button>
+<button>한국어<button>
+<button>ไทย<button>
+<button>Italiano<button>
+<button>Nederlands<button>
+<button>USER LICENSE AGREEMENT<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+Thought: The current page discusses the Contribution Linkage System between Myth of Empires and Myth of Empires: Throne, but it does not mention unconventional resource acquisition methods. I will now check the "04/03/26newsMyth of Empires Veteran Return Rewards | Collaboration with Myth of Empires: Throne Now Live" button to see if there are any additional details about resource acquisition.
+
+Action: visit_page
+Action Input: {"button": "04/03/26newsMyth of Empires Veteran Return Rewards | Collaboration with Myth of Empires: Throne Now LiveAs part of this collaboration, cosmetic skins previously obtained in Myth of Empires can be matched and duplicated for use in the seasonal servers of Myth of Empires: Throne, allowing you to carry your collection forward into the new battlefield."}
+
+----- VisitPage -----
+The web information is:
+
+](       
+newsall - news
+             
+     
+     
+## news
+;)
+date: 04/03/26
+## Myth of Empires Veteran Return Rewards | Collaboration with Myth of Empires: Throne Now Live
+Greetings, Generals,
+To thank all _Myth of Empires_ players for your continued support, Imperium Interactive Entertainment has officially launched a collaboration with the _Myth of Empires: Throne_ operations team, introducing exclusive return rewards for veteran players.
+As part of this collaboration, **cosmetic skins previously obtained in**** _Myth of Empires_****can be matched and duplicated for use in the seasonal servers of**** _Myth of Empires: Throne_** , allowing you to carry your collection forward into the new battlefield.
+At the same time, the S1 season launch events in _Myth of Empires: Throne_ will go live, featuring **boosted progression events, daily login rewards, and a variety of seasonal benefits** designed to help players get back into action quickly.
+**Learn More**  
+■ **Collaboration reward rules & S1 event preview**:   
+■ **Go to**** _Myth of Empires: Throne_** : ****
+We look forward to seeing you reunite on the new seasonal battlefield in _Myth of Empires: Throne_ and compete once again for supremacy.
+**Imperium Interactive Entertainment**  
+**_Myth of Empires_****Operations Team**
+BUSINESS CONTACT   © 2023 Imperium Interactive Entertainment Limited. All Rights Reserved
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>news<button>
+<button>Gallery<button>
+<button>English<button>
+<button>繁體中文<button>
+<button>Deutsch<button>
+<button>Español<button>
+<button>Français<button>
+<button>Pусский<button>
+<button>日本語<button>
+<button>Polski<button>
+<button>čeština<button>
+<button>Português<button>
+<button>한국어<button>
+<button>ไทย<button>
+<button>Italiano<button>
+<button>Nederlands<button>
+<button>USER LICENSE AGREEMENT<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+Thought: The current page discusses collaboration rewards and events but does not provide information about unconventional resource acquisition methods. I will now check the "03/20/25NEWSMyth of Empires: Xizhou Civilization DLC is Now Live – S4 Season Begins!" button to see if there are any details about resource acquisition in the Xizhou DLC.
+
+Action: visit_page
+Action Input: {"button": "03/20/25NEWSMyth of Empires: Xizhou Civilization DLC is Now Live – S4 Season Begins!"}
+
+----- VisitPage -----
+The web information is:
+
+](       
+newsall - news
+             
+     
+     
+## news
+;)
+date: 03/20/25
+## Myth of Empires: Xizhou Civilization DLC is Now Live – S4 Season Begins!
+Developed by Angela Game and published by Imperium Interactive Entertainment, the cold weapon warfare sandbox MMO Myth of Empires has officially launched the Xizhou Civilization DLC on March 21 at 02:00 UTC.
+On the same day at 14:00 UTC, multiple new County Servers will open under New Era and Jade Era, including the highly anticipated S4 Global Season Server. Powerful factions will once again clash in intense battles, vying for the $10,000 cash prize!
+Within two weeks of the Xizhou Civilization DLC launch, players can enjoy a 10% discount on the Xizhou Civilization Pack. Additionally, from March 20 at 17:00 UTC to April 3 at 17:00 UTC, there will be discounts on several items: the Myth of Empires base game and Dongzhou Map will be 65% off, the Hellenic Civilization Pack will be 40% off, and both the Musical Instruments Pack and the Royal Carriages Pack will be 50% off.
+Myth of Empires – Xizhou Civilization Pack：<
+!
+**Xizhou Civilization DLC Highlights**
+In the new Xizhou map, the desert and oasis coexist, creating a unique ecological environment that nurtures creatures such as camels and ostriches. Players can tame and breed these animals, making them valuable allies in their adventures. Hidden within the map are secrets to immortality and rare resources, which will help players craft unique armor and weapons. These treasures have attracted the attention of various factions, leading to a land filled with undercurrents, danger, and intrigue.
+!
+The Xizhou Civilization Pack includes a set of distinctive buildings that reflect the unique architectural style of the Xizhou civilization, allowing players to create homes full of exotic charm. Additionally, it unlocks the Imperial Fall device, which integrates functions such as power generation, mining, teleportation, storage, and manufacturing, enabling seamless automation in production. Furthermore, five powerful vehicles and devices—Aerial Fortress, Desert Ship, Navigator, Mechanized Woodcutter, and Mechanized Horse—will each serve their purpose, offering new options for combat, resource gathering, and more.
+!
+The Xizhou map is home to numerous hidden cave dungeons, where strange and deadly bosses such as the Mongolian Sandworm, Moss Giant, and XiXi Spider King lie in wait for daring adventurers. In the faction camps, powerful monsters are also imprisoned, offering a unique opportunity for brave explorers. Their presence serves as both a challenge and a perfect chance to prove one's strength!
+!
+**Base Game Major Update!**
+The excitement goes beyond the Xizhou Civilization DLC, as the base game also receives a major update. New features such as the Profession System, Martial Scroll, Crop Expertise, and Horse Grooming, along with the addition of Construction Bureau buildings and Zipline structures, will provide players with even more diverse and enriching gameplay experiences.
+!
+For the March 21 update, please refer to the official announcement for all the details：<
+**The S4 Season has begun, with a grand prize of 10,000 USD waiting for you to claim!**
+The S4 Season will officially begin on March 21 at 14:00 UTC and run until June 23 at 00:00 UTC. Unlike previous seasons, the S4 Season introduces a $10,000 USD cash prize for the top guilds. At the end of the season, the top 10 guild leaders will share this generous prize. We look forward to seeing all heroes join this intense competition for the ultimate top 10 glory!
+!
+**The official shop has launched new items, coming with celebration events!**
+To celebrate the release of the Xizhou Civilization DLC, the official shop is offering a limited-time 30% off sale across all items. Additionally, brand-new skins for Lu Bu and Zhang Fei have been unveiled, adding unique charm to your characters. In-game events like Kongming Lantern drops, County Blessings, and Seven-Day Login Rewards will also be available, so don’t miss out!
+With the launch of the Xizhou Civilization DLC, Myth of Empires expands its vibrant multi-civilization game world. Players will experience a fresh new map, unique functional buildings, powerful vehicles and devices, thrilling cave dungeons, and a variety of gameplay features. There’s so much more to explore—join this adventure full of challenges and surprises today!
+BUSINESS CONTACT   © 2023 Imperium Interactive Entertainment Limited. All Rights Reserved
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>news<button>
+<button>Gallery<button>
+<button>English<button>
+<button>繁體中文<button>
+<button>Deutsch<button>
+<button>Español<button>
+<button>Français<button>
+<button>Pусский<button>
+<button>日本語<button>
+<button>Polski<button>
+<button>čeština<button>
+<button>Português<button>
+<button>한국어<button>
+<button>ไทย<button>
+<button>Italiano<button>
+<button>Nederlands<button>
+<button>USER LICENSE AGREEMENT<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+Thought: The Xizhou Civilization DLC introduces several new features, including the Imperial Fall device and powerful vehicles like the Aerial Fortress, which may relate to resource acquisition. However, I need to check if there are specific unconventional methods mentioned. I will now visit the "03/12/25NEWSMyth of Empires Xizhou Civilization DLC introduces the Aerial Fortress, the airborne dominator that reshapes the battlefield." button to see if it provides more details.
+
+Action: visit_page
+Action Input: {"button": "03/12/25NEWSMyth of Empires Xizhou Civilization DLC introduces the Aerial Fortress, the airborne dominator that reshapes the battlefield."}
+
+----- VisitPage -----
+The web information is:
+
+](       
+newsall - news
+             
+     
+     
+## news
+;)
+date: 03/12/25
+## Myth of Empires Xizhou Civilization DLC introduces the Aerial Fortress, the airborne dominator that reshapes the battlefield.
+Myth of Empires Xizhou Civilization DLC is now in the final countdown and will officially launch on March 21 at 02:00 UTC, with servers going live at 14:00 UTC the same day. This DLC is packed with content, including previously revealed exciting features and a game-changing surprise—the Aerial Fortress. This colossal airborne behemoth will reshape the battlefield, becoming a decisive force in the hands of players to turn the tide of war.
+!
+This is a costly airborne mobile platform and a meticulously crafted strategic weapon. Flying higher than a giant Kongming lantern, it provides a commanding aerial view of the battlefield. With a fortress defense level of 75 and enhanced durability, it truly lives up to the name Aerial Fortress. However, its massive size comes with drawbacks—relatively slow movement speed and limited maneuverability, making quick turns difficult. In the ever-changing tides of battle, this could be a significant weakness.
+In terms of functionality, the Aerial Fortress is not only capable of supporting structures but also allows players to equip it with various siege weapons, including Heavy Ballista, Mechanical Crossbow, Repeating Crossbow, and Counterweight Trebuchet. While airborne, it can launch attacks on targets below. However, for balance reasons, the number of weapons that can be mounted is strictly limited.
+In the upcoming Xizhou map, the striking Yadan landforms will draw countless adventurers to explore. These towering wind-eroded pillars, with broad tops and narrow bases, are prime locations for many guilds to establish their strongholds. Their natural terrain advantages make them nearly inaccessible by land, leaving enemy forces with no choice but to watch from afar. In this scenario, the Aerial Fortress becomes the ultimate siege weapon. In PVP mode, its arrival will disrupt the traditional ground-based warfare, enabling high-altitude assaults that strike deep into enemy territory, delivering devastating blows and completely reshaping the battlefield dynamics.
+Of course, the Aerial Fortress is not invincible. In the game's battlefield ecosystem, watchtowers and ballista serve as effective counters, especially when attacks precisely hit the balloon on top of the Aerial Fortress, dealing triple damage and inflicting significant damage.
+With the upcoming update to the Xizhou Civilization DLC, the powerful addition of the Aerial Fortress will undoubtedly inject new vitality into the game, offering players an unprecedented fresh experience. On March 21, we look forward to stepping into the new world of Myth of Empires together, embarking on an unforgettable journey of exploration and conquest!
+BUSINESS CONTACT   © 2023 Imperium Interactive Entertainment Limited. All Rights Reserved
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>news<button>
+<button>Gallery<button>
+<button>English<button>
+<button>繁體中文<button>
+<button>Deutsch<button>
+<button>Español<button>
+<button>Français<button>
+<button>Pусский<button>
+<button>日本語<button>
+<button>Polski<button>
+<button>čeština<button>
+<button>Português<button>
+<button>한국어<button>
+<button>ไทย<button>
+<button>Italiano<button>
+<button>Nederlands<button>
+<button>USER LICENSE AGREEMENT<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+Thought: The Aerial Fortress is a significant new feature in the Xizhou DLC, but it primarily focuses on combat and battlefield dynamics rather than resource acquisition. I will now check the "03/14/25NEWSCompete for a Share of $10,000! Myth of Empires S4 Season Rules Revealed!" button to see if there are any details about resource acquisition methods in the S4 season.
+
+Action: visit_page
+Action Input: {"button": "03/14/25NEWSCompete for a Share of $10,000! Myth of Empires S4 Season Rules Revealed!"}
+
+----- VisitPage -----
+The web information is:
+
+](       
+newsall - news
+             
+     
+     
+## news
+;)
+date: 03/14/25
+## Compete for a Share of $10,000! Myth of Empires S4 Season Rules Revealed!
+When the Xizhou Civilization DLC launches on March 21, the flames of battle in Myth of Empires S4 Season will reignite!  
+All players across the servers can join this ultimate showdown. Be sure to carefully review the detailed S4 Season rules and prepare for war!
+This season, we’ve prepared an unprecedented surprise for the victors—**a massive $10,000 prize pool!** Who will rise above the fierce competition and claim a spot in the top 10? Let’s find out!
+At the same time, the Myth of Empires Celebration Event will kick off, bringing an array of exciting content! Enjoy a limited-time 30% discount across the official shop, and check out the stunning new Lu Bu and Zhang Fei skins, adding a unique flair to your characters. Don’t miss out!
+**S4 Season Basic Information**
+**1. Season Duration**
+March 21, 2025, 14:00 UTC — June 23, 2025, 00:00 UTC
+**2. Explanation for S4 Season Cash Rewards**
+  1. After the season ends, the top 10 guilds will be determined based on the rankings calculated by the system.
+  2. Rewards will be distributed to the top 10 guild leaders, who will allocate the prizes at their discretion. (After the season ends, if a change in the guild leader occurs, the rewards will still be given to the leader as of the season’s conclusion.)
+  3. After the season ends, the official announcement will be made, and guild leaders of the top 10 will be notified via in-game mail. They will also be informed of how to claim the cash rewards. Guild leaders are advised to keep an eye on the system mail in the game at that time.
+**3. Prize Distribution**
+!
+**4. S4 Season Rules**
+Compared to S3 Season, the duration of the S4 season will be extended to 3 months. The adjustments and differences from the previous season are as follows：
+  1. Higher copper coin drop rates
+  2. A significant increase in honor acquisition multiplier
+  3. The Beast Lord’s health has been appropriately reduced
+  4. Increased damage of the Heavy Ballista to buildings and vehicles
+  5. Increased respawn time for the Beast Lord and large mounts on the battlefield
+  6. A significant increase in the drop rate for DLC-related bosses
+  7. New advanced rewards added to the Tally Order: Bag of Divine Strength (Increases carry weight by 50% for 30 days)
+Below are the detailed settings：
+!
+**Xizhou Civilization DLC Launch Celebration Event**
+Event Duration: March 21, 2025, 14:00 UTC — March 28, 2025, 00:00 UTC
+**Kongming Lantern Event**
+This event is only available on non-seasonal servers.
+  1. During the event, Kongming Lanterns will randomly drop from the sky across the entire map. Players can predict where the lanterns will fall and head to those locations in advance. The lanterns will contain various in-game items.
+  2. There is a chance to obtain a Cloud-piercing Arrow from the Kongming Lantern. When using a bow and arrow to shoot the Cloud-piercing Arrow into the sky, an additional Kongming Lantern will be summoned in the current area.
+**County Blessing Event**
+  1. **Non-seasonal servers:** Gathering output +100% (Stone, Plants, Animals), Taming multiplier +100% (Warriors and Mounts)
+  1. **Seasonal servers:** When crafting Wotou and arrows, there is a 33% chance to receive an additional 100% single-item yield.
+**7-Day Login Rewards**
+Each day, rewards will be sent to each player via in-game mail.
+**Official Shop Celebration Event**
+Event Duration: March 20, 2025, 17:00 UTC — April 3, 2025, 17:00 UTC
+  1. All items in shop are available at a limited-time 30% discount.
+  2. Newly launched Three Kingdoms Mighty Generals mystery box (including new skins for Lu Bu and Zhang Fei).
+  3. Newly launched Xizhou Civilization DLC building skin mystery box.
+  4. Limited-time Jade Ring Exchange: Exchange for popular skins such as the Dragon Falchion, Crimson Sheen Blade, Gentian Silver Spear, and Golden Lion Spear.
+BUSINESS CONTACT   © 2023 Imperium Interactive Entertainment Limited. All Rights Reserved
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>news<button>
+<button>Gallery<button>
+<button>English<button>
+<button>繁體中文<button>
+<button>Deutsch<button>
+<button>Español<button>
+<button>Français<button>
+<button>Pусский<button>
+<button>日本語<button>
+<button>Polski<button>
+<button>čeština<button>
+<button>Português<button>
+<button>한국어<button>
+<button>ไทย<button>
+<button>Italiano<button>
+<button>Nederlands<button>
+<button>USER LICENSE AGREEMENT<button>
+<button>Privacy Policy<button>
+
+----- WebWalker -----
+Thought: The S4 Season rules and events mention several gameplay features, including the Kongming Lantern event and County Blessing Event. These might indirectly relate to resource acquisition, but I need to check if there are specific unconventional methods mentioned. I will now visit the "03/19/25NEWSMarch 21 2025 – Myth of Empires New Server Launch Announcement" button to see if it provides any additional details.
+
+Action: visit_page
+Action Input: {"button": "03/19/25NEWSMarch 21 2025 – Myth of Empires New Server Launch Announcement"}
+
+----- VisitPage -----
+The web information is:
+
+](       
+newsall - news
+             
+     
+     
+## news
+;)
+date: 03/19/25
+## March 21 2025 – Myth of Empires New Server Launch Announcement
+Dear Players,
+We plan to launch new Prefectures and Counties following the version update on March 21, 2025 for Myth of Empires. The existing territory under the New Era world will be designated as [Territory 1], while a brand-new parallel [Territory 2] will be introduced.
+Server Launch Plan – March 21, 2025, at 14:00 (UTC)  
+Territory 1: A new county for the Xizhou Map will be opened, accessible to players who own the Xizhou Civilization DLC.  
+Territory 2: Additional new counties will be introduced across Zhongzhou, Dongzhou, and the Xizhou Maps. For the first 180 days, Territory 1 and Territory 2 will remain independent, with separate guilds, alliances, and trading post. After 180 days, cross-server access will be enabled.
+New Era – Territory 1  
+At 14:00 (UTC) on March 21, new Xizhou Map counties will be opened in:  
+Prefecture 70, Prefecture 10, Prefecture 55, Prefecture 47, Prefecture 20, and Prefecture 28.  
+Additionally, based on server load after launch, more counties may be opened in:  
+Prefecture 8, Prefecture 12, Prefecture 64, and Prefecture 27.
+Jade Era   
+At 14:00 (UTC) on March 21, new Xizhou Map counties will be opened in:  
+Prefecture 19 and Prefecture 20.  
+Additional counties may be opened in:  
+Prefecture 19 and Prefecture 20, depending on server load.
+New Era – Territory 2  
+At 14:00 (UTC) on March 21, new counties will be opened in:  
+Prefecture 19, Prefecture 45, Prefecture 43, Prefecture 70, Prefecture 20, Prefecture 28, Prefecture 55, Prefecture 47, and Prefecture 62 across the Zhongzhou, Dongzhou, and Xizhou Maps.  
+Additional counties may be opened in:  
+Prefecture 18, Prefecture 10, Prefecture 8, Prefecture 12, Prefecture 29, Prefecture 27, Prefecture 21, and Prefecture 61, based on server load.
+Additionally, the S4 Season Server will launch simultaneously. Players, please prepare for battle!
+BUSINESS CONTACT   © 2023 Imperium Interactive Entertainment Limited. All Rights Reserved
+
+
+Clickable buttons are wrapped in <button> tag
+<button>HOME<button>
+<button>news<button>
+<button>Gallery<button>
+<button>English<button>
+<button>繁體中文<button>
+<button>Deutsch<button>
+<button>Español<button>
+<button>Français<button>
+<button>Pусский<button>
+<button>日本語<button>
+<button>Polski<button>
+<button>čeština<button>
+<button>Português<button>
+<button>한국어<button>
+<button>ไทย<button>
+<button>Italiano<button>
+<button>Nederlands<button>
+<button>USER LICENSE AGREEMENT<button>
+<button>Privacy Policy<button>

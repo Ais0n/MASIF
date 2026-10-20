@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0580_767ef81550e6",
+  "source_index": 580,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "请问香港中文大学的Benjamin W. Wah教授与UIUC的Naresh R. Shanbhag教授，在访问浙江大学时分别作了什么主题的学术报告？",
+  "prompt": "请问香港中文大学的Benjamin W. Wah教授与UIUC的Naresh R. Shanbhag教授，在访问浙江大学时分别作了什么主题的学术报告？",
+  "expected_answer": "Benjamin W. Wah教授的报告主题是“Learning the Design of VoIP Systems With High Perceptual Quality”，Naresh R. Shanbhag教授的报告主题是“Machine Learning in Nanoscale Fabrics C A Shannon-inspired Perspective”。",
+  "root_url": "http://www.cs.zju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2010/0709/c27028a1297058/page.htm",
+      "http://www.cs.zju.edu.cn/csen/2017/0809/c27029a1296308/page.htm"
+    ],
+    "golden_path": [
+      "root->首页->国际合作->香港中文大学常务副校长Benjamin W. Wah教授来访",
+      "root->首页->学术讲座->UIUC Naresh R. Shanbhag教授学术报告会"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 47.571,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0580_767ef81550e6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0580_767ef81550e6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

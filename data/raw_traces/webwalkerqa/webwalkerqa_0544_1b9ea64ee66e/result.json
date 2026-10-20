@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0544_1b9ea64ee66e",
+  "source_index": 544,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2023年中国汽车T10峰会上提出三点倡议的北汽集团领导人是谁，并由谁签署了北汽集团与北京援藏指挥部的战略合作协议？",
+  "prompt": "在2023年中国汽车T10峰会上提出三点倡议的北汽集团领导人是谁，并由谁签署了北汽集团与北京援藏指挥部的战略合作协议？",
+  "expected_answer": "姜德义（提出三点倡议）和张建勇（签署战略合作协议）",
+  "root_url": "https://www.baicgroup.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.baicgroup.com.cn/news/22.1045.html",
+      "https://www.baicgroup.com.cn/news/22.2330.html"
+    ],
+    "golden_path": [
+      "root->新闻简讯->7->中国汽车T10峰会在京召开2023/02/18",
+      "root->新闻简讯->2->北汽集团与北京援藏指挥部签署战略合作协议2024/07/10"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 48.536,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0544_1b9ea64ee66e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0544_1b9ea64ee66e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

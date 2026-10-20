@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0636_7d953b2bb8c9",
+  "source_index": 636,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "上海交通大学郑文立副教授在担任特别副研究员期间，主要在哪个部门工作及何时他开始担任长聘教轨副教授？",
+  "prompt": "上海交通大学郑文立副教授在担任特别副研究员期间，主要在哪个部门工作及何时他开始担任长聘教轨副教授？",
+  "expected_answer": "上海交通大学计算机科学与工程系，2021年",
+  "root_url": "https://www.cs.sjtu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=371"
+    ],
+    "golden_path": [
+      "root->教师名录->郑 文立"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 12,
+  "tool_calls": 3,
+  "duration_seconds": 26.519,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0636_7d953b2bb8c9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0636_7d953b2bb8c9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

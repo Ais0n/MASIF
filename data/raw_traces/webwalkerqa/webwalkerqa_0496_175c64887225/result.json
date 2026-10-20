@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0496_175c64887225",
+  "source_index": 496,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西安电子科技大学的产教协同基地本硕博师第二联合党支部成立于哪一年，与该校“西电最美教师”第二届推荐人选的公示时间相隔多少个月？",
+  "prompt": "西安电子科技大学的产教协同基地本硕博师第二联合党支部成立于哪一年，与该校“西电最美教师”第二届推荐人选的公示时间相隔多少个月？",
+  "expected_answer": "相隔26个月。",
+  "root_url": "https://cs.xidian.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xidian.edu.cn/info/1314/8240.htm",
+      "https://cs.xidian.edu.cn/info/1316/15172.htm"
+    ],
+    "golden_path": [
+      "root->组织机构->产教协同基地本硕博师第二联合党支部",
+      "root->通知公告->关于第二届“西电最美教师”候选人推荐人选公示的通知"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 48.091,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0496_175c64887225/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0496_175c64887225/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0110_1559ebfd48a4",
+  "source_index": 110,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "摩尔庄园与淄博文旅的异业联动活动与赛尔号珍藏卡牌的首次开售分别是哪一天同步上线的？",
+  "prompt": "摩尔庄园与淄博文旅的异业联动活动与赛尔号珍藏卡牌的首次开售分别是哪一天同步上线的？",
+  "expected_answer": "2023年7月6日和2023年12月5日",
+  "root_url": "https://game.61.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://game.61.com/m/news/content.shtml?pagenum=2019-21979",
+      "https://game.61.com/m/news/content.shtml?pagenum=2019-21764"
+    ],
+    "golden_path": [
+      "root->手机版->人气精灵收录 《赛尔号》珍藏卡牌今日开售",
+      "root->手机版->有淄有味有朋友 摩尔庄园X淄博文旅联动开启"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 65.829,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0110_1559ebfd48a4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0110_1559ebfd48a4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0275_8715ba59bc1a",
+  "source_index": 275,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2020年度“多元化、平等性与包容度（DEI）进展”报告中，拳头游戏管理层中女性和弱势少数族群分别占据了多少百分比？",
+  "prompt": "在2020年度“多元化、平等性与包容度（DEI）进展”报告中，拳头游戏管理层中女性和弱势少数族群分别占据了多少百分比？",
+  "expected_answer": "29%是女性，22%是弱势少数族群。",
+  "root_url": "https://www.riotgames.com/zh-cn",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/zh-cn/news/annual-diversity-and-inclusion-di-progress-report-august-2021-zh-cn"
+    ],
+    "golden_path": [
+      "root->多元与包容->年度多元化、平等性与包容度（DEI）进展报告 - 2020"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 26.754,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0275_8715ba59bc1a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0275_8715ba59bc1a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

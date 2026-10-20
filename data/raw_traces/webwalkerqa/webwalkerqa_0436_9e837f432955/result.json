@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0436_9e837f432955",
+  "source_index": 436,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年网易游戏万圣节期间，国民原创乐园游戏《蛋仔派对》的“南瓜入侵”玩法更新上线的具体日期是什么，而魔兽系列三十周年直面会的直播时间则是什么时候？",
+  "prompt": "在2024年网易游戏万圣节期间，国民原创乐园游戏《蛋仔派对》的“南瓜入侵”玩法更新上线的具体日期是什么，而魔兽系列三十周年直面会的直播时间则是什么时候？",
+  "expected_answer": "10月25日；11月14日凌晨1点",
+  "root_url": "https://game.163.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://game.163.com/news/2024/10/24/18455_1188980.html",
+      "https://game.163.com/news/2024/10/24/18455_1188982.html"
+    ],
+    "golden_path": [
+      "root->追逃升级，万圣狂欢！《蛋仔派对》“南瓜入侵”玩法更新，重磅来袭！",
+      "root->敬请关注——魔兽系列三十周年直面会将于11月14日举行！"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 4,
+  "tool_calls": 1,
+  "duration_seconds": 10.812,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0436_9e837f432955/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0436_9e837f432955/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

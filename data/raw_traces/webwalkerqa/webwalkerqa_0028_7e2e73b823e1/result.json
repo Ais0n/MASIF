@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0028_7e2e73b823e1",
+  "source_index": 28,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which committee addresses the transition from relief to development at the NMUN Washington D.C. conference, and what is the payment deadline?",
+  "prompt": "Which committee addresses the transition from relief to development at the NMUN Washington D.C. conference, and what is the payment deadline?",
+  "expected_answer": "The committee is the Economic and Social Council (ECOSOC), and the payment deadline is October 1.",
+  "root_url": "https://www.nmun.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.nmun.org/conferences/washington-dc/register-and-plan-your-trip/academic-tools/committees-and-topics.html#main",
+      "https://www.nmun.org/conferences/washington-dc/register-and-plan-your-trip/plan-your-trip/cost-information.html#main"
+    ],
+    "golden_path": [
+      "root->Committees & Topics->Close",
+      "root->Cost Information->Close"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 21,
+  "tool_calls": 8,
+  "duration_seconds": 171.998,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0028_7e2e73b823e1/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0028_7e2e73b823e1/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

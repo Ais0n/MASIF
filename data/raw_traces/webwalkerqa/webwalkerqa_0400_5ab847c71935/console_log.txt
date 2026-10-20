@@ -1,0 +1,90 @@
+----- user -----
+query:
+在2018年度浙江省“互联网+”大学生创新创业大赛中，杭州电子科技大学计算机学院获得省级金奖的软件工程和计算机科学与技术专业总共有几位学生？
+official website:
+https://computer.hdu.edu.cn/
+Observation:website information:
+
+## WebVPN 浏览器兼容性提示
+您当前使用的浏览器版本过旧,可能无法正常使用 WebVPN 系统的某些功能。
+为了获得最佳的 WebVPN 使用体验,我们建议您升级到以下浏览器的最新版本:
+        
+
+
+clickable button:
+
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要访问杭州电子科技大学计算机学院的官方网站，寻找与2018年度浙江省“互联网+”大学生创新创业大赛相关的信息。首先，我应该点击首页上的按钮进入相关页面。
+
+Action: visit_page
+Action Input: {"button": "学院概况"}
+
+----- VisitPage -----
+Button not found: 学院概况
+
+----- WebWalker -----
+The button "学院概况" cannot be clicked. I will try another button. 
+
+Action: visit_page
+Action Input: {"button": "学院新闻"}
+
+----- VisitPage -----
+Button not found: 学院新闻
+
+----- WebWalker -----
+The button "学院新闻" cannot be clicked. I will try another button. 
+
+Action: visit_page
+Action Input: {"button": "通知公告"}
+
+----- VisitPage -----
+Button not found: 通知公告
+
+----- WebWalker -----
+The button "通知公告" cannot be clicked. I will try another button. 
+
+Action: visit_page
+Action Input: {"button": "教学科研"}
+
+----- VisitPage -----
+Button not found: 教学科研
+
+----- WebWalker -----
+The button "教学科研" cannot be clicked. I will try another button. 
+
+Action: visit_page
+Action Input: {"button": "人才培养"}
+
+----- VisitPage -----
+Button not found: 人才培养
+
+----- WebWalker -----
+The button "人才培养" cannot be clicked. I will try another button. 
+
+Action: visit_page
+Action Input: {"button": "师资队伍"}
+
+----- VisitPage -----
+Button not found: 师资队伍
+
+----- WebWalker -----
+The button "师资队伍" cannot be clicked. I will try another button. 
+
+Action: visit_page
+Action Input: {"button": "学生工作"}
+
+----- VisitPage -----
+Button not found: 学生工作
+
+----- WebWalker -----
+The button "学生工作" cannot be clicked. I will try another button. 
+
+Action: visit_page
+Action Input: {"button": "联系我们"}
+
+----- VisitPage -----
+Button not found: 联系我们

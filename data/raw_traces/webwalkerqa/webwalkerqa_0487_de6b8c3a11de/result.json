@@ -1,0 +1,50 @@
+{
+  "task_id": "webwalkerqa_0487_de6b8c3a11de",
+  "source_index": 487,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在山东大学计算机科学与技术学院，哪些国际知名教授在2019年和2020年间访问学院，并进行了关于大数据与并行计算的学术交流？",
+  "prompt": "在山东大学计算机科学与技术学院，哪些国际知名教授在2019年和2020年间访问学院，并进行了关于大数据与并行计算的学术交流？",
+  "expected_answer": "Bill McColl教授和Calton Pu教授",
+  "root_url": "https://www.cs.sdu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://www.cs.sdu.edu.cn/info/1082/2986.htm",
+      "https://www.cs.sdu.edu.cn/info/1082/2984.htm"
+    ],
+    "golden_path": [
+      "root->国际学术交流->华为法国研究所并行计算杰出科学家Bill McColl教授访问软件园校区",
+      "root->国际学术交流->佐治亚理工学院Calton Pu教授访问我院"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "在2019年和2020年间，访问山东大学计算机科学与技术学院并进行关于大数据与并行计算学术交流的国际知名教授包括：佐治亚理工学院Calton Pu教授、华为法国研究所并行计算杰出科学家Bill McColl教授、纽约大学Claudio T. Silva教授、加拿大西蒙弗雷泽大学裴健教授、圣路易斯华盛顿大学Chenyang Lu教授、新加坡国立大学计算机学院Abhik Roychoudhury教授及Zhenkai Liang副教授、宾夕法尼亚大学李纯明研究员、加拿大西蒙弗雷泽大学张皓教授。",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\"verdict\":\"match\",\"reason\":\"The",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 20.058,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0487_de6b8c3a11de/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0487_de6b8c3a11de/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

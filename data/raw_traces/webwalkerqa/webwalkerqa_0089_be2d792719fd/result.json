@@ -1,0 +1,47 @@
+{
+  "task_id": "webwalkerqa_0089_be2d792719fd",
+  "source_index": 89,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "浙江大学计算机学院设计管理课程的教学大纲首次上传是在哪个年份的几月份？",
+  "prompt": "浙江大学计算机学院设计管理课程的教学大纲首次上传是在哪个年份的几月份？",
+  "expected_answer": "2003年7月",
+  "root_url": "http://www.cs.zju.edu.cn/csen/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2003/0701/c26995a1202838/page.htm"
+    ],
+    "golden_path": [
+      "root->研究生教育->课程简介->“设计管理”课程教学大纲"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "浙江大学计算机学院设计管理课程的教学大纲首次上传是在2003年7月。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer provides the exact same factual information (2003年7月) as the expected answer, but is formatted as a complete sentence.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 4,
+  "duration_seconds": 30.461,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0089_be2d792719fd/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0089_be2d792719fd/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "The predicted answer provides the exact same factual information (2003年7月) as the expected answer, but is formatted as a complete sentence.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

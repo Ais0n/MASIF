@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0510_e8c0a08fc94a",
+  "source_index": 510,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在南华大学计算机学院65周年校庆活动以及与深圳校友的交流活动中，分别有多少校友参与？",
+  "prompt": "在南华大学计算机学院65周年校庆活动以及与深圳校友的交流活动中，分别有多少校友参与？",
+  "expected_answer": "65周年校庆活动约有10余位校友参与，深圳交流活动有50余位校友参与。",
+  "root_url": "https://jsjxy.usc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.usc.edu.cn/info/2046/11012.htm",
+      "https://jsjxy.usc.edu.cn/info/2046/10263.htm"
+    ],
+    "golden_path": [
+      "root->校友工作->我院优秀企业家校友返校参加65周年校庆活动",
+      "root->校友工作->连师生情谊，架校友与学院金桥——计算机学院与深圳校友举行亲切友好的交流活动"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 27.047,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0510_e8c0a08fc94a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0510_e8c0a08fc94a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

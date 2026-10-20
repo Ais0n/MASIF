@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0569_565f5b9f7711",
+  "source_index": 569,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2023年四川大学计算机学院组织的“沿着总书记足迹”主题党日活动和2024年党支部书记工作例会上，谁担任党委书记？",
+  "prompt": "在2023年四川大学计算机学院组织的“沿着总书记足迹”主题党日活动和2024年党支部书记工作例会上，谁担任党委书记？",
+  "expected_answer": "蒋斌",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1212/18126.htm",
+      "https://cs.scu.edu.cn/info/1212/18236.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->下页->学院党支部开展“沿着总书记足迹 汲取思想伟力 增强文化自信”实践研学联合主题党日活动",
+      "root->党建工作->下页->学院召开党支部书记工作例会"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "在2024年党支部书记工作例会上，党委书记是张洪松。但关于2023年四川大学计算机学院组织的“沿着总书记足迹”主题党日活动的党委书记信息，目前没有提供。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 16.164,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0569_565f5b9f7711/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0569_565f5b9f7711/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0314_edf516544b5e",
+  "source_index": 314,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In which year was the Angry Birds Minecraft adventure world DLC released, and how does that relate to the 15th anniversary of Angry Birds?",
+  "prompt": "In which year was the Angry Birds Minecraft adventure world DLC released, and how does that relate to the 15th anniversary of Angry Birds?",
+  "expected_answer": "2022",
+  "root_url": "https://www.rovio.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.rovio.com/articles/the-angry-birds-come-to-minecraft-in-a-new-adventure-world-dlc/"
+    ],
+    "golden_path": [
+      "root->Support->Games News->The Angry Birds come to Minecraft in a new adventure world DLC!"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "The Angry Birds Minecraft adventure world DLC related to the 15th anniversary was released on 14.05.2025. This release coincided with the celebration of the 15th anniversary of Angry Birds, which was marked in 2024.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 16.946,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0314_edf516544b5e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0314_edf516544b5e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer provides the incorrect release year (2025 instead of 2022).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

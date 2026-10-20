@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0313_bccc2285fd4c",
+  "source_index": 313,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在西南科技大学计算机科学与技术学院范勇院长为2024级新生进行的入学教育讲座中，他引用了哪几位名人以激励学生？",
+  "prompt": "在西南科技大学计算机科学与技术学院范勇院长为2024级新生进行的入学教育讲座中，他引用了哪几位名人以激励学生？",
+  "expected_answer": "俞洪敏、埃隆马斯克、樊锦诗和李子柒",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/1202/c10922a209358/page.htm"
+    ],
+    "golden_path": [
+      "root->学院动态->2->我该成为什么样的人——计算机学院院长范勇为2024级新生开展入学教育讲座9月6日下午，计算机科学与技术学院院长范勇于东五行政楼学术报告厅开展了2024级新生入学教育讲座，讲座以《我该成为什么样的人》为题，652名本科新生和155名研究生新生参与本次讲座。范勇院长...[2024-09-16]"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 49.804,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0313_bccc2285fd4c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0313_bccc2285fd4c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

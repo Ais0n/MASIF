@@ -1,0 +1,476 @@
+----- user -----
+query:
+南京航空航天大学计算机科学与技术学院举办的就业嘉年华活动中，包含哪些体验活动，这些活动是在何时举办的？
+official website:
+http://cs.nuaa.edu.cn/
+Observation:website information:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+  * !
+热点新闻
+                  
+  * _04-30_
+  * _04-22_
+  * _04-21_
+  * _04-20_
+  * _04-19_
+  * _04-17_
+  * _04-03_
+公示
+  * _04-30_
+  *  _01-08_
+  *  _12-15_
+  *  _12-12_
+  * _12-12_
+  * _12-12_
+  * _12-11_
+  * _12-02_
+通知公告
+党委行政
+  * 12.15
+  * 11.26
+  * 06.17
+  * 06.15
+  * 06.04
+人事
+  * 05.12
+  * 03.06
+  * 12.25
+  * 12.11
+  * 12.11
+学科科研
+  * 04.20
+  * 04.12
+  * 04.10
+  * 01.02
+  * 12.27
+本科生培养
+  * 04.20
+  * 04.20
+  * 04.16
+  * 04.16
+  * 03.13
+研究生培养
+  * 04.28
+  * 03.26
+  * 03.24
+  * 03.23
+  * 03.09
+学生工作
+  * 11.28
+  * 11.26
+  * 11.04
+  * 06.27
+  * 06.27
+学术信息
+### Jan
+14
+题目：LLaDA：大语言模型新范式
+报告人：李崇轩
+时间： 1月14日 15:30
+地点：计算机学院505会议室
+### Dec
+15
+题目：面向 6G 网络的内生智能技术
+报告人：吴稳
+时间： 12月15日 9:00
+地点：1号楼9楼会议室
+### Dec
+10
+题目：具身概念对齐中的理论挑战
+报告人：于剑
+时间： 12月10日 15:00
+地点：计算机学院楼113会议室
+### Nov
+26
+题目：面向边缘的去中心化学习：迈向下一代智能系统
+报告人：苏宁馨
+时间： 11月26日 10:00-12:00
+地点：计算机学院楼505会议室
+### Oct
+28
+题目：人工智能大模型落地的六大要素
+报告人：潘毅
+时间： 10月28日 下午2:00-4:00
+地点：计算机学院楼507会议室
+### Oct
+24
+题目：Paraconsistency for the Working Software Engineer
+报告人：Luís Soares Barbosa
+时间： 10月24日 15:00
+地点：计算机学院楼505会议室
+ 新闻网 ](
+ 智慧校园 ](
+ 图书馆 ](
+ 电邮系统 ](
+ 班车时刻 ](
+ OA办公网 ](
+](
+](
+](
+](javascript:void\(0\))
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+clickable button:
+
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>本科生<button>
+<button>研究生<button>
+<button>校友与基金工作<button>
+<button>人才引进<button>
+<button>更多>><button>
+<button>工作动态 | 转发：第二届“信息杯”趣味羽毛球赛成功举办<button>
+<button>工作动态 | 学院召开2026年上半年全体教职工大会<button>
+<button>工作动态 | 学院举办“春风和煦润人心，携手奋进向新行”春分节...<button>
+<button>要闻丨抢抓新机遇 实干启新程 中共南京航空航天大学计算机科学...<button>
+<button>工作动态 | 守护 “睛” 彩视界，情暖教职工身心——学院“石榴微...<button>
+<button>工作动态 | 学院召开2026年高质量发展研讨会<button>
+<button>要闻 | 中国科学院院士周志华做客我校“问天科学讲坛”<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 2026全国高校软件工程教育大会...<button>
+<button>工作动态 | 学院召开2026年上半年全体教职...<button>
+<button>工作动态 | 系统谋划，精准发力：学院召开2...<button>
+<button>工作动态 | 教育思想大讨论系列——计算机学...<button>
+<button>工作动态 | 学院举办“春风和煦润人心，携...<button>
+<button>更多>><button>
+<button>2025级“卓越工程师教育培养计划”专业 “...<button>
+<button>2025年度教职工考核结果公示<button>
+<button>预备党员转正公示<button>
+<button>院级第四季度教材编写人员政治审查公示<button>
+<button>计算机科学与技术学院2025-2026-2学期研究...<button>
+<button>计算机科学与技术学院/软件学院 2025-2026-...<button>
+<button>学院关于2025年准聘长聘体系教师岗位晋升拟...<button>
+<button>【评选公示】2024-2025学年教学优秀奖拟推...<button>
+<button>更多>><button>
+<button>MORE<button>
+<button>>预备党员转正公示<button>
+<button>>发展党员公示<button>
+<button>>预备党员转正公示<button>
+<button>>预备党员转正公示<button>
+<button>>发展党员公示<button>
+<button>MORE<button>
+<button>>学院诚聘海内外优秀人才<button>
+<button>>学院机关工作人员招聘启事<button>
+<button>>2025年度教职工考核工作安排<button>
+<button>>学院关于2025年准聘长聘体系教师岗位晋升拟...<button>
+<button>>2024年度教职工考核工作安排<button>
+<button>MORE<button>
+<button>>关于组织模式分析与机器智能工业和信息化部...<button>
+<button>>关于组织高安全系统的软件开发与验证技术工...<button>
+<button>>关于组织脑机智能技术教育部重点实验室2024...<button>
+<button>>关于开展第十八届中国青年科技奖候选人提名...<button>
+<button>>关于开展第二十届中国青年女科学家奖和第九...<button>
+<button>MORE<button>
+<button>>【毕业设计】2026届本科生毕业设计（论文）...<button>
+<button>>【毕业设计】关于做好2026届本科生毕业设计...<button>
+<button>>【创新班管理】2025级计算机科学与技术（拔...<button>
+<button>>【卓越计划】2025级“卓越工程师教育培养计...<button>
+<button>>【项目申报】2026年第一季度院级教材项目申...<button>
+<button>MORE<button>
+<button>>【导师】计算机科学与技术学院/软件学院202...<button>
+<button>>【博士答辩】李舒阳 博士答辩公告<button>
+<button>>【优博优硕】拟推荐申报2026年校优秀博士、...<button>
+<button>>【导师】2026年研究生导师招生资格补充公示<button>
+<button>>【博士答辩】滕美艳 博士答辩公告<button>
+<button>MORE<button>
+<button>>工作动态 | 六WEI空间：一场手绘明信片上的...<button>
+<button>>2025年秋季学期发展对象答辩会顺利举行<button>
+<button>>工作动态 | 学院举办“大事小情身边事，法...<button>
+<button>>工作动态 | 学院举办2025届本科毕业生最后...<button>
+<button>>工作动态 | 学院举办第二十期“山湖号”榜...<button>
+<button>【石榴大讲堂】LLaDA：大语言模型新范式<button>
+<button>【石榴大讲堂】面向 6G 网络的内生智能技术<button>
+<button>【石榴大讲堂】具身概念对齐中的理论挑战<button>
+<button>【石榴大讲堂】面向边缘的去中心化学习：迈...<button>
+<button>【石榴大讲堂】人工智能大模型落地的六大要...<button>
+<button>【石榴大讲堂】Paraconsistency for the Wo...<button>
+<button>更多>><button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到南京航空航天大学计算机科学与技术学院举办的就业嘉年华活动的相关信息，包括体验活动和举办时间。首先，我应该访问“学生工作”页面，因为这通常与就业活动相关。
+
+Action: visit_page
+Action Input: {"button": "学生工作"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+### 常用下载
+                  
+学生工作
+当前位置：
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>|-安全工作<button>
+<button>|-人事工作<button>
+<button>|-本科生培养<button>
+<button>|-研究生培养<button>
+<button>|-科学研究<button>
+<button>|-学生工作<button>
+<button>|-党建群团<button>
+<button>|-校友工作<button>
+<button>|-学院Logo<button>
+
+----- WebWalker -----
+在“学生工作”页面中，我需要进一步查找与就业嘉年华活动相关的具体信息。由于“就业信息”可能包含相关活动，我将访问该页面。
+
+Action: visit_page
+Action Input: {"button": "就业信息"}
+
+----- VisitPage -----
+The web information is:
+
+
+](
+)
+                                                                                                                                                                                              
+                                                                                                                                                                                            
+### 党群工作
+                
+就业信息
+当前位置：
+  * 2017-05-24
+  * 2017-05-22
+  * 2015-03-24
+  * 每页  _14_ 记录  总共  _3_ 记录 
+  * ;) ;) ;) ;)
+  * 页码  _1_ /_1_ ;)
+地址：江苏省南京市江宁区将军大道29号
+邮政编码: 211106 
+版权所有：南京航空航天大学计算机科学与技术学院/人工智能学院 ALL RIGHTS RESERVED 苏ICP备05070685号  ! 书记信箱 ! 院长信箱
+### 友情链接
+校外导航链接
+  *  "友情链接")
+ ](javascript:;) )
+!
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>学院概况<button>
+<button>学院简介<button>
+<button>Introduction of the College<button>
+<button>领导班子<button>
+<button>学院机构<button>
+<button>历史沿革<button>
+<button>师资队伍<button>
+<button>学院教师<button>
+<button>办公室人员<button>
+<button>科学研究<button>
+<button>科研动态<button>
+<button>表格下载<button>
+<button>教学工作<button>
+<button>专业介绍<button>
+<button>教学制度<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>招生工作<button>
+<button>学生工作<button>
+<button>学生活动<button>
+<button>研究生会<button>
+<button>共青团<button>
+<button>学生党建<button>
+<button>获奖情况<button>
+<button>通知公告<button>
+<button>党群工作<button>
+<button>全国党建工作样板支部<button>
+<button>党员管理<button>
+<button>招生信息<button>
+<button>主题活动<button>
+<button>就业信息<button>
+<button>组织建设<button>
+<button>党员发展<button>
+<button>党校工作<button>
+<button>工会与校友工作<button>
+<button>教师工作指南<button>
+<button>天目湖校区工作生活指南<button>
+<button>教职工之家<button>
+<button>校友返校指南<button>
+<button>基金工作指南<button>
+<button>常用下载<button>
+<button>安全工作<button>
+<button>人事工作<button>
+<button>本科生培养<button>
+<button>研究生培养<button>
+<button>科学研究<button>
+<button>学生工作<button>
+<button>党建群团<button>
+<button>校友工作<button>
+<button>学院Logo<button>
+<button>|-全国党建工作样板支部<button>
+<button>|-党员管理<button>
+<button>|-招生信息<button>
+<button>|-主题活动<button>
+<button>|-就业信息<button>
+<button>|-组织建设<button>
+<button>|-党员发展<button>
+<button>|-党校工作<button>
+<button>计算机学院举办“凤回巢”校友职场说讲座之洞悉IT就业形势<button>
+<button>计算机科学与技术学院举办2017“计网开来”IT专场实习双选会<button>
+<button>中科院电子学研究所来我院举行实习生招聘宣讲<button>
+
+----- WebWalker -----
+Thought: 在“就业信息”页面中，我发现了与就业相关的活动，例如“计算机学院举办‘凤回巢’校友职场说讲座之洞悉IT就业形势”和“计算机科学与技术学院举办2017‘计网开来’IT专场实习双选会”。这些活动可能与就业嘉年华有关。为了确认这些活动是否属于就业嘉年华的一部分，我需要进一步查看是否有相关公告或详细信息。
+
+Action: visit_page
+Action Input: {"button": "计算机学院举办‘凤回巢’校友职场说讲座之洞悉IT就业形势"}
+
+----- VisitPage -----
+Button not found: 计算机学院举办‘凤回巢’校友职场说讲座之洞悉IT就业形势
+
+----- WebWalker -----
+The button can not be clicked, please retry a new button.
+
+----- WebWalker -----
+The button can not be clicked, please retry a new button.
+
+----- WebWalker -----
+The button can not be clicked, please retry a new button.
+
+----- WebWalker -----
+The button can not be clicked, please retry a new button.
+
+----- WebWalker -----
+The button can not be clicked, please retry a new button.

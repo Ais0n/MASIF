@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0667_15a588888ee9",
+  "source_index": 667,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在暨南大学2018级信息管理与信息系统与信息与计算科学两个专业的必修课学分总数各是多少？",
+  "prompt": "在暨南大学2018级信息管理与信息系统与信息与计算科学两个专业的必修课学分总数各是多少？",
+  "expected_answer": "信息管理与信息系统专业92学分，信息与计算科学专业96学分。",
+  "root_url": "https://xxxy.jnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://xxxy.jnu.edu.cn/2018/0720/c33971a575015/page.htm",
+      "https://xxxy.jnu.edu.cn/2018/0720/c33971a575031/page.htm"
+    ],
+    "golden_path": [
+      "root->本科教学->2018级信息与计算科学专业主修本科人才培养方案（外招生）2018-07-20",
+      "root->本科教学->2018级信息管理与信息系统专业主修本科人才培养方案（外招生）2018-07-20"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 19,
+  "tool_calls": 8,
+  "duration_seconds": 54.109,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0667_15a588888ee9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0667_15a588888ee9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

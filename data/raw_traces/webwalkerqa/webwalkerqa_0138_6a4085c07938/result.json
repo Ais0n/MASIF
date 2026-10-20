@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0138_6a4085c07938",
+  "source_index": 138,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "计算机学院的2024年中海油助学金评审结果的公示期何时结束，如果开始于公示发布日所述？",
+  "prompt": "计算机学院的2024年中海油助学金评审结果的公示期何时结束，如果开始于公示发布日所述？",
+  "expected_answer": "10月11日",
+  "root_url": "https://cs.cug.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.cug.edu.cn/info/1019/6721.htm"
+    ],
+    "golden_path": [
+      "root->计算机学院关于2024年中海油助学金评审结果的公示"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 72.306,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0138_6a4085c07938/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0138_6a4085c07938/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

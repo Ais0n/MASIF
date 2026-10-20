@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0004_7f6624270bed",
+  "source_index": 4,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which African countries participated in the 7th China International Import Expo with the theme of the 60th anniversary of diplomatic relations with China?",
+  "prompt": "Which African countries participated in the 7th China International Import Expo with the theme of the 60th anniversary of diplomatic relations with China?",
+  "expected_answer": "Tanzania, Tunisia, and Zambia",
+  "root_url": "https://www.ciie.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.ciie.org/zbh/en/news/exhibition/focus/20241024/46202.html"
+    ],
+    "golden_path": [
+      "root->Home->Intl Focus->African nations to actively participate in 7th CIIE"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 129.769,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0004_7f6624270bed/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0004_7f6624270bed/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

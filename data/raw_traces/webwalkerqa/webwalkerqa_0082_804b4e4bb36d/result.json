@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0082_804b4e4bb36d",
+  "source_index": 82,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "In the update of Illuvium Zero version 1.0.3, if converting 20 units of Hyperion into Solon at 150% efficiency, how many units of Solon can be obtained?",
+  "prompt": "In the update of Illuvium Zero version 1.0.3, if converting 20 units of Hyperion into Solon at 150% efficiency, how many units of Solon can be obtained?",
+  "expected_answer": "21 Solon",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-zero-patch-notes-1-0-3"
+    ],
+    "golden_path": [
+      "root->News->Illuvium: Zero Patch Notes 1.0.3"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 19.803,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0082_804b4e4bb36d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0082_804b4e4bb36d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

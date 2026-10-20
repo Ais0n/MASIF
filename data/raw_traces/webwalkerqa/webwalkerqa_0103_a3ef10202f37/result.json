@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0103_a3ef10202f37",
+  "source_index": 103,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "华侨大学的哪位副院长在2023年强调了“没有网络安全就没有国家安全”，而在2024年学校举办的活动中哪些企业参与协办？",
+  "prompt": "华侨大学的哪位副院长在2023年强调了“没有网络安全就没有国家安全”，而在2024年学校举办的活动中哪些企业参与协办？",
+  "expected_answer": "田晖；国投智能（厦门）信息股份有限公司、厦门安胜网络科技有限公司、福建国科信息科技有限公司及安徽西普阳光科技股份有限公司",
+  "root_url": "https://cst.hqu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cst.hqu.edu.cn/info/1060/4681.htm",
+      "https://cst.hqu.edu.cn/info/1634/11821.htm"
+    ],
+    "golden_path": [
+      "root->· 没有网络安全就没有国家安全——副院长田晖为学生...",
+      "root->首页->华侨大学第二届网络安全夺旗赛成功举办"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 68.054,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0103_a3ef10202f37/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0103_a3ef10202f37/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

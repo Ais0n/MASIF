@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0579_afe69eb0f72f",
+  "source_index": 579,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南京航空航天大学在2019年国家自然科学基金的申报中，校内联系人是谁，并需在何时提交建议书？",
+  "prompt": "南京航空航天大学在2019年国家自然科学基金的申报中，校内联系人是谁，并需在何时提交建议书？",
+  "expected_answer": "韩薇，于5月19日前提交建议书。",
+  "root_url": "http://cs.nuaa.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.nuaa.edu.cn/2019/0418/c1975a155062/page.htm",
+      "http://cs.nuaa.edu.cn/2019/0505/c1975a156173/page.htm"
+    ],
+    "golden_path": [
+      "root->科学研究->下一页>>->【通知】关于征集自然基金委-广东省联合基金指南建议的通知",
+      "root->科学研究->下一页>>->【申报通知】国家自然科学基金委员会管理科学部2019年第3期应急管理项目"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "南京航空航天大学在2019年国家自然科学基金申报中的校内联系人是张小兰，提交建议书的截止时间为2019年10月14日。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 5,
+  "duration_seconds": 62.482,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0579_afe69eb0f72f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0579_afe69eb0f72f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

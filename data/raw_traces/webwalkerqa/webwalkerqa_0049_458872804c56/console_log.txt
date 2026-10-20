@@ -1,0 +1,249 @@
+----- user -----
+query:
+Which specific theme day does the tutorial schedule overlap with at The Web Conference 2024?
+official website:
+https://www2024.thewebconf.org/
+Observation:website information:
+
+](
+                                                                                                                                                                                                                                                                        
+# THE WEB  
+CONFERENCE 2024   
+IN SINGAPORE
+## MAY 13 - 17, 2024 
+Since the invention of the World Wide Web in 1989, The Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) is a yearly international academic conference on the topic of the future direction of the World Wide Web. This conference has been the premier venue to present and discuss progress in research, development, standards, and applications of the topics related to the Web. Over the past three decades, The Web Conference has been the forum where some of the most fundamental Web technologies have been introduced, such as the Anatomy of a Large Scale Web Search Engine in 1998 prefiguring Google, the EigenTrust algorithm in 2003 and the YAGO knowledge base in 2007 (see also the Test of Time Award past recipients). The conference assembles scholars, researchers, policymakers, practitioners, and end-users with one unifying goal: to envision and create the future of the Web. 
+The 2024 ACM Web Conference will offer a high quality program made of research sessions, posters and demonstrations, a PhD symposium for the junior scholars, workshops, tutorials, a resource track for the practitioners as well as thought provoking keynote speakers, panels, special tracks, and colocated special days. 
+The 2024 ACM Web Conference is an in-person conference with rich virtual components including live streaming of keynotes, oral presentations, workshops and tutorials, as well as access to pre-recorded videos of talks, and the Whova platform for interaction with all conference attendees. 
+We thank you for your participation and look forward to seeing you in Singapore!
+|  |  |  | 
+The Web Conference 2024 is organized by the School of Computing and Information Systems at Singapore Management University. 
+**_Server maintenance is scheduled, from 30-May-2023, Tuesday, 09:00 AM to 06:00 PM, GMT+8. Connections to this website will be intermittent._**
+
+
+clickable button:
+
+<button>About<button>
+<button>The Web Conference<button>
+<button>Logo<button>
+<button>Code of Conduct<button>
+<button>Newsletters<button>
+<button>Calls<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Emerging World Symposium<button>
+<button>Seoul Test of Time Award<button>
+<button>Artifact Badging<button>
+<button>Accepted<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Program<button>
+<button>Overview<button>
+<button>Full Schedule<button>
+<button>Keynotes<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Awards<button>
+<button>Special Days<button>
+<button>Social Events<button>
+<button>Attending<button>
+<button>Registration<button>
+<button>Venue<button>
+<button>Accommodation<button>
+<button>Checking In<button>
+<button>Participation<button>
+<button>Presentation<button>
+<button>Visa Information<button>
+<button>NSF Student Travel Awards<button>
+<button>Organization<button>
+<button>Organizing Committee<button>
+<button>Senior Area Chairs<button>
+<button>Area Chairs<button>
+<button>Reviewers of Research Tracks<button>
+<button>Reviewers of Various Tracks<button>
+<button>Sponsors<button>
+<button>Become a Sponsor<button>
+<button>Sponsors and Supporters<button>
+<button>Media<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the specific theme day that overlaps with the tutorial schedule. The "Tutorials" button seems relevant, so I will click it to get more information.
+Action: visit_page
+Action Input: {"button": "Tutorials"}
+
+----- VisitPage -----
+The web information is:
+
+](
+                                                                                                                                                                                                                                                                        
+# Tutorials
+#### 
+Large Language Model Powered Agents in the Web 
+**Schedule:** Monday, May 13, 2024, Half-Day (AM)
+**Presenters:** Yang Deng, An Zhang, Yankai Lin, Xu Chen, Ji-Rong Wen and Tat-Seng Chua
+#### 
+Neural Contextual Bandits for Personalized Recommendation 
+**Schedule:** Monday, May 13, 2024, Half-Day (AM)
+**Presenters:** Yikun Ban, Yunzhe Qi and Jingrui He
+#### 
+Data Augmentation for Conversational AI 
+**Schedule:** Monday, May 13, 2024, Half-Day (AM)
+**Presenters:** Heydar Soudani, Roxana Petcu, Evangelos Kanoulas and Faegheh Hasibi
+#### 
+Social Psychology Meets Social Computing: State of the Art and Future Directions 
+**Schedule:** Monday, May 13, 2024, Half-Day (AM)
+**Presenters:** Sourav S Bhowmick, Hui Li, S H Annabel Chen and Yining Zhao
+#### 
+New Frontiers of Knowledge Graph Reasoning: Recent Advances and Future Trends 
+**Schedule:** Monday, May 13, 2024, Half-Day (AM)
+**Presenters:** Lihui Liu, Zihao Wang, Jiaxin Bai, Yangqiu Song and Hanghang Tong
+#### 
+Large Language Models for Graphs: Progresses and Directions 
+**Schedule:** Monday, May 13, 2024, Half-Day (PM)
+**Presenters:** Chao Huang, Xubin Ren, Jiabin Tang, Dawei Yin and Nitesh Chawla
+#### 
+Multimodal Pre-training and Generation for Recommendation: A Tutorial 
+**Schedule:** Monday, May 13, 2024, Half-Day (PM)
+**Presenters:** Jieming Zhu, Xin Zhou, Chuhan Wu, Rui Zhang and Zhenhua Dong
+#### 
+Privacy in Web Advertising: Analytics and Modeling 
+**Schedule:** Monday, May 13, 2024, Half-Day (PM)
+**Presenters:** Badih Ghazi, Ravi Kumar and Pasin Manurangsi
+#### 
+Mining Temporal Networks 
+**Schedule:** Monday, May 13, 2024, Half-Day (PM)
+**Presenters:** Aristides Gionis, Lutz Oettershagen and Ilie Sarpe
+#### 
+Simulating Human Society with LLM-Driven Agents: City, Social Media, and Economic System 
+**Schedule:** Monday, May 13, 2024, Half-Day (PM)
+**Presenters:** Chen Gao, Fengli Xu, Xu Chen, Xiang Wang, Yong Li and Xiangnan He
+#### 
+Large Language Models for Recommendation: Progresses and Future Directions 
+**Schedule:** Tuesday, May 14, 2024, Half-Day (AM)
+**Presenters:** Jizhi Zhang, Keqin Bao, Yang Zhang, Wenjie Wang, Fuli Feng and Xiangnan He
+#### 
+Text-Attributed Graph Representation Learning: Methods, Applications, and Challenges 
+**Schedule:** Tuesday, May 14, 2024, Half-Day (AM)
+**Presenters:** Delvin Zhang, Menglin Yang, Rex Ying and Hady W. Lauw
+#### 
+Tutorial on User Simulation for Evaluating Information Access Systems on the Web 
+**Schedule:** Tuesday, May 14, 2024, Half-Day (AM)
+**Presenters:** Krisztian Balog and Chengxiang Zhai
+#### 
+Lecture-style Tutorial: Towards Graph Foundation Models 
+**Schedule:** Tuesday, May 14, 2024, Half-Day (AM)
+**Presenters:** Chuan Shi, Cheng Yang, Yuan Fang, Lichao Sun and Philip Yu
+#### 
+Toward Mitigating Misinformation and Social Media Manipulation in LLM Era 
+**Schedule:** Tuesday, May 14, 2024, Half-Day (AM)
+**Presenters:** Yizhou Zhang, Lun Du, Yan Liu and Karishma Sharma
+#### 
+Curriculum Learning: Theories, Approaches, Applications, Tools, and Future Directions in the Era of Large Language Models 
+**Schedule:** Tuesday, May 14, 2024, Half-Day (PM)
+**Presenters:** Xin Wang, Yuwei Zhou, Hong Chen and Wenwu Zhu
+#### 
+On-Device Recommender Systems: A Tutorial on The New-Generation Recommendation Paradigm 
+**Schedule:** Tuesday, May 14, 2024, Half-Day (PM)
+**Presenters:** Hongzhi Yin, Tong Chen, Liang Qu and Bin Cui
+#### 
+Recent Advances in Generative Information Retrieval 
+**Schedule:** Tuesday, May 14, 2024, Half-Day (PM)
+**Presenters:** Yubao Tang, Ruqing Zhang, Weiwei Sun, Jiafeng Guo and Maarten de Rijke
+#### 
+Discrete Choice and Applications 
+**Schedule:** Tuesday, May 14, 2024, Half-Day (PM)
+**Presenters:** Flavio Chierichetti, Ravi Kumar and Andrew Tomkins
+#### 
+Understanding (Dark) Humour with Internet Meme Analysis 
+**Schedule:** Tuesday, May 14, 2024, Half-Day (PM)
+**Presenters:** Roy Ka-Wei Lee, Ming Shan Hee, Rui Cao and Tanmoy Chakraborty
+|  |  |  | 
+The Web Conference 2024 is organized by the School of Computing and Information Systems at Singapore Management University. 
+**_Server maintenance is scheduled, from 30-May-2023, Tuesday, 09:00 AM to 06:00 PM, GMT+8. Connections to this website will be intermittent._**
+
+
+Clickable buttons are wrapped in <button> tag
+<button>About<button>
+<button>The Web Conference<button>
+<button>Logo<button>
+<button>Code of Conduct<button>
+<button>Newsletters<button>
+<button>Calls<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Emerging World Symposium<button>
+<button>Seoul Test of Time Award<button>
+<button>Artifact Badging<button>
+<button>Accepted<button>
+<button>Research Tracks<button>
+<button>Industry<button>
+<button>Web4Good<button>
+<button>Short Papers<button>
+<button>Demo<button>
+<button>Resource<button>
+<button>Health Day<button>
+<button>History of the Web<button>
+<button>PhD Symposium<button>
+<button>Program<button>
+<button>Overview<button>
+<button>Full Schedule<button>
+<button>Keynotes<button>
+<button>Workshops<button>
+<button>Tutorials<button>
+<button>Awards<button>
+<button>Special Days<button>
+<button>Social Events<button>
+<button>Attending<button>
+<button>Registration<button>
+<button>Venue<button>
+<button>Accommodation<button>
+<button>Checking In<button>
+<button>Participation<button>
+<button>Presentation<button>
+<button>Visa Information<button>
+<button>NSF Student Travel Awards<button>
+<button>Organization<button>
+<button>Organizing Committee<button>
+<button>Senior Area Chairs<button>
+<button>Area Chairs<button>
+<button>Reviewers of Research Tracks<button>
+<button>Reviewers of Various Tracks<button>
+<button>Sponsors<button>
+<button>Become a Sponsor<button>
+<button>Sponsors and Supporters<button>
+<button>Media<button>
+
+----- WebWalker -----
+Memory:
+-The tutorial schedule for The Web Conference 2024 overlaps with the following theme days: Monday, May 13, 2024 (AM and PM sessions) and Tuesday, May 14, 2024 (AM and PM sessions).
+"}
+
+----- WebWalker -----
+Final Answer: The tutorial schedule for The Web Conference 2024 overlaps with the theme days on Monday, May 13, 2024 (AM and PM sessions) and Tuesday, May 14, 2024 (AM and PM sessions).

@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0214_8c86a543a0d3",
+  "source_index": 214,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在ME60系列中，哪款型号具有最高的交换容量以及相对应的转发性能是多少？",
+  "prompt": "在ME60系列中，哪款型号具有最高的交换容量以及相对应的转发性能是多少？",
+  "expected_answer": "ME60-X16/X16A，转发性能是38400 Mpps",
+  "root_url": "https://e.huawei.com/cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://e.huawei.com/cn/products/routers/me60"
+    ],
+    "golden_path": [
+      "root->路由器->ME60系列"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 46.684,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0214_8c86a543a0d3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0214_8c86a543a0d3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

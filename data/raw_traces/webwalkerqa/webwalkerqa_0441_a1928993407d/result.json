@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0441_a1928993407d",
+  "source_index": 441,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "统一企业在2023-2024年度，分别在哪些食品和饮料领域获得了行业大奖？",
+  "prompt": "统一企业在2023-2024年度，分别在哪些食品和饮料领域获得了行业大奖？",
+  "expected_answer": "方便食品行业创新产品奖和饮料行业高质量发展领军企业奖",
+  "root_url": "https://www.uni-president.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.uni-president.com.cn/news_detail.asp?corp_id=376&news_id=1148",
+      "https://www.uni-president.com.cn/news_detail.asp?corp_id=376&news_id=969"
+    ],
+    "golden_path": [
+      "root->统一企业三款产品荣获“2023-2024年度...",
+      "root->统一企业荣膺中国饮料行业多项荣誉"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "统一企业在2023-2024年度分别在方便食品领域获得了行业大奖，具体包括：三款产品荣获“2023-2024年度方便食品行业创新产品”奖。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 18.218,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0441_a1928993407d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0441_a1928993407d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"ver",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

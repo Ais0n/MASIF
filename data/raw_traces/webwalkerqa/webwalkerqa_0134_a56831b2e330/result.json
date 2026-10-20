@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0134_a56831b2e330",
+  "source_index": 134,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年10月26日晚举行的共青团华南理工大学计算机科学与工程学院第十一次代表大会中，谁主持了委员选举，及哪位同学作第十届委员会工作报告？",
+  "prompt": "在2024年10月26日晚举行的共青团华南理工大学计算机科学与工程学院第十一次代表大会中，谁主持了委员选举，及哪位同学作第十届委员会工作报告？",
+  "expected_answer": "邓凯主持了委员选举，张航铭作了第十届委员会工作报告。",
+  "root_url": "http://www2.scut.edu.cn/cs/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www2.scut.edu.cn/cs/2024/1030/c22279a566085/page.htm"
+    ],
+    "golden_path": [
+      "root->踔厉奋发，踵事增华——共青团华南理工大学计算机科学与工程学院第十一次代表大会顺利举行"
+    ],
+    "type": "single_source",
+    "difficulty_level": "easy",
+    "lang": ""
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 58.831,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0134_a56831b2e330/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0134_a56831b2e330/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

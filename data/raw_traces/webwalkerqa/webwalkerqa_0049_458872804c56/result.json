@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0049_458872804c56",
+  "source_index": 49,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which specific theme day does the tutorial schedule overlap with at The Web Conference 2024?",
+  "prompt": "Which specific theme day does the tutorial schedule overlap with at The Web Conference 2024?",
+  "expected_answer": "Online Trust & Safety Day",
+  "root_url": "https://www2024.thewebconf.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www2024.thewebconf.org/calls/tutorials",
+      "https://www2024.thewebconf.org/program/special-days"
+    ],
+    "golden_path": [
+      "root->Tutorials",
+      "root->Special Days"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The tutorial schedule for The Web Conference 2024 overlaps with the theme days on Monday, May 13, 2024 (AM and PM sessions) and Tuesday, May 14, 2024 (AM and PM sessions).",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 24.709,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0049_458872804c56/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0049_458872804c56/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

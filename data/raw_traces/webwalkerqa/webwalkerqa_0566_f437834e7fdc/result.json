@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0566_f437834e7fdc",
+  "source_index": 566,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "东华大学2024年计算机科学与技术学院“智汇医疗”党支部成立仪式与本科教育教学审核评估准备会议分别发生在哪两个月？",
+  "prompt": "东华大学2024年计算机科学与技术学院“智汇医疗”党支部成立仪式与本科教育教学审核评估准备会议分别发生在哪两个月？",
+  "expected_answer": "11月和3月",
+  "root_url": "https://cst.dhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cst.dhu.edu.cn/2024/1114/c3120a353180/page.htm",
+      "https://cst.dhu.edu.cn/2024/0327/c23321a344274/page.htm"
+    ],
+    "golden_path": [
+      "root->学院概况->首页->11月13日上午，东华大学计算机科学与技术学院在松江校区图文信息中心第三报告厅举行“智汇医疗”党支部成立仪式暨“人工智能在阿尔兹海默症治疗中的应用”主题研讨会。上海大学计算机科学与...",
+      "root->教学活动->尾页->2024年3月26日下午一点，计算机科学与技术学院召开了一场关于本科教育教学审核评估自评报告准备的重要会议。此次会议在学院一号楼204会议室举行，由石秀金副院长担任主持人，各系主任以及各专业负责人参加，共同为学院的教育教学审核评估自评报告进行细致而全面的准备。会议伊始，石秀金副院长对本科教育教学审核评估自评报告的重要性进行了深入阐述。 接着，石秀金副院长对自评报告中的各个部分进行了详细的解读，明..."
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "东华大学2024年计算机科学与技术学院“智汇医疗”党支部成立仪式发生在4月，本科教育教学审核评估准备会议发生在5月。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 15.924,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0566_f437834e7fdc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0566_f437834e7fdc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted months (April and May) do not match the expected months (November and March).\"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0440_7c6962ec435d",
+  "source_index": 440,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "During which dates and with what festive seasonal costumes did the Winter Blunderland Fame Pass appear in Fall Guys?",
+  "prompt": "During which dates and with what festive seasonal costumes did the Winter Blunderland Fame Pass appear in Fall Guys?",
+  "expected_answer": "The Winter Blunderland Fame Pass appeared from 10AM GMT on December 12, 2023 to 10AM GMT on January 15, 2024 in Fall Guys, featuring costumes like Winter Red Panda, Gingerbread, Llama Charmer, Koala Knitwear, and Santa Samurai.",
+  "root_url": "https://www.fallguys.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.fallguys.com/en-US/news/fall-guys-power-party-update",
+      "https://www.fallguys.com/en-US/news/2023-the-yeet-in-review"
+    ],
+    "golden_path": [
+      "root->THE FALL GUYS ‘POWER PARTY’ UPDATETeam Fall Guys / December 6, 2023",
+      "root->2023: THE YEET IN REVIEWTeam Fall Guys / December 12, 2023"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "en"
+  },
+  "final_answer": "The Winter Blunderland Fame Pass appeared during the 2024 Sugar Rush Halloween event, which took place from October 8th at 7 PM Beijing Time to November 5th at 7 PM Beijing Time. The festive seasonal costumes associated with this event include the '恐怖追逐套装', '骚灵鬼套装', '狼人巨齿套装', and '暗影之王套装'.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 7,
+  "duration_seconds": 68.778,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0440_7c6962ec435d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0440_7c6962ec435d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer provides incorrect dates and",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

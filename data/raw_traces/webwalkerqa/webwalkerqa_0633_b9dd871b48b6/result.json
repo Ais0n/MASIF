@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0633_b9dd871b48b6",
+  "source_index": 633,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "长安大学信息工程学院于2022年在国际期刊上发表论文的两位教师分别是谁，他们发表论文的期刊是什么？",
+  "prompt": "长安大学信息工程学院于2022年在国际期刊上发表论文的两位教师分别是谁，他们发表论文的期刊是什么？",
+  "expected_answer": "郝雪丽 - Multimedia Tools and Applications；单博炜 - Complex & Intelligent Systems",
+  "root_url": "https://it.chd.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://it.chd.edu.cn/2022/1118/c7371a225364/page.htm",
+      "https://it.chd.edu.cn/2022/1019/c7371a224395/page.htm"
+    ],
+    "golden_path": [
+      "root->学术交流-><<上一页->我院教师郝雪丽在计算机ESI期刊《Multimedia Tools and Applications》上发表论文",
+      "root->学术交流->尾页->我院教师单博炜在国际期刊《Complex & Intelligent Systems》上发表论文"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 14,
+  "tool_calls": 5,
+  "duration_seconds": 571.224,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0633_b9dd871b48b6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0633_b9dd871b48b6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

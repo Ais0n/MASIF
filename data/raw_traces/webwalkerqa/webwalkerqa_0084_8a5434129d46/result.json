@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0084_8a5434129d46",
+  "source_index": 84,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How many players participated in the 2023 charity voting campaign, and what percentage of the regional charity pool did the winning organization receive?",
+  "prompt": "How many players participated in the 2023 charity voting campaign, and what percentage of the regional charity pool did the winning organization receive?",
+  "expected_answer": "589,000 players voted, and the winning organization in each region receives 50% of the charity pool.",
+  "root_url": "https://www.riotgames.com/en",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/en/who-we-are/social-impact/in-game-fundraisers"
+    ],
+    "golden_path": [
+      "root->Social Impact->In-Game Fundraisers"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 63.056,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0084_8a5434129d46/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0084_8a5434129d46/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

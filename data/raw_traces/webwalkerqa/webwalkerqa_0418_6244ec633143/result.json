@@ -1,0 +1,50 @@
+{
+  "task_id": "webwalkerqa_0418_6244ec633143",
+  "source_index": 418,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2024年央视中秋晚会中，雅马哈的哪款会议系统产品被用于音频协作，该产品的主要特征是什么?",
+  "prompt": "在2024年央视中秋晚会中，雅马哈的哪款会议系统产品被用于音频协作，该产品的主要特征是什么?",
+  "expected_answer": "ADECIA吸顶式解决方案；该产品包含吸顶阵列麦克风、远程会议处理器、PoE网络交换机及Dante PoE供电扬声器。",
+  "root_url": "https://www.yamaha.com.cn/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.yamaha.com.cn/news_events.html",
+      "https://www.yamaha.com.cn/products/it/Router_PJP/index.html"
+    ],
+    "golden_path": [
+      "root->新闻活动首页",
+      "root->会议系统"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "在2024年央视中秋晚会中，雅马哈的ADECIA吸顶式解决方案被用于音频协作。该产品的主要特征包括吸顶阵列麦克风、远程会议处理器、可靠的PoE网络交换机以及Dante PoE供电扬声器。",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer contains the exact same factual information as the expected answer, with only minor additional wording.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview",
+    "rejudge_raw_response": "{\"verdict\":\"match\",\"reason\":\"The predicted answer contains the exact same factual information as the expected answer, with only minor additional wording.\"}"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 24.141,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0418_6244ec633143/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0418_6244ec633143/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: 该产品包含吸顶阵列麦",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

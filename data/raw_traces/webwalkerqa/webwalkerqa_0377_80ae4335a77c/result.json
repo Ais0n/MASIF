@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0377_80ae4335a77c",
+  "source_index": 377,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2023年3月6日上午9:30至10:00之间，四川大学计算机学院哪些党支部书记在望江校区基础教学楼B307进行述职评议考核？",
+  "prompt": "在2023年3月6日上午9:30至10:00之间，四川大学计算机学院哪些党支部书记在望江校区基础教学楼B307进行述职评议考核？",
+  "expected_answer": "本科生党支部书记和教职工党支部书记",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1212/17517.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->4->学院开展2022年度党支部书记述职考评工作"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 50.809,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0377_80ae4335a77c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0377_80ae4335a77c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

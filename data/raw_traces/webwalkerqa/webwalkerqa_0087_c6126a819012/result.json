@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0087_c6126a819012",
+  "source_index": 87,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2015年3月3日，南京航空航天大学的研究生课程调整涉及哪些具体的课程清单和课表文档？",
+  "prompt": "2015年3月3日，南京航空航天大学的研究生课程调整涉及哪些具体的课程清单和课表文档？",
+  "expected_answer": "包括《2014-2015学年第2学期研究生课程清单》、《2014-2015第2学期博士英语课表(明故宫校区)》、《2014-2015学年第2学期研究生课程表》及其国际学生版。",
+  "root_url": "http://cs.nuaa.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.nuaa.edu.cn/2015/0303/c1977a134424/page.htm"
+    ],
+    "golden_path": [
+      "root->教学动态->尾页->2014-2015学年 第二学期研究生课表(2015.3.3日调整)"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 4,
+  "duration_seconds": 26.521,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0087_c6126a819012/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0087_c6126a819012/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

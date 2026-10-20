@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0303_fb56e251ac79",
+  "source_index": 303,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "What virtual rewards can participants collect from the immersive experience project created in Fortnite through the collaboration of Nike and Epic Games via UEFN, and what is the completion deadline for this project?",
+  "prompt": "What virtual rewards can participants collect from the immersive experience project created in Fortnite through the collaboration of Nike and Epic Games via UEFN, and what is the completion deadline for this project?",
+  "expected_answer": "Participants can collect the virtual reward Air Max 1 '86 Back Bling. The project completion deadline is June 27, 2023, at 8 PM ET.",
+  "root_url": "https://www.unrealengine.com/zh-CN",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.unrealengine.com/zh-CN/spotlights/step-into-nike-s-virtual-sneaker-hunt-airphoria-built-using-uefn"
+    ],
+    "golden_path": [
+      "root->深入了解->Nike Debuts Airphoria in Fortnite"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 18.569,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0303_fb56e251ac79/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0303_fb56e251ac79/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

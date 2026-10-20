@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0386_d0d62d043a19",
+  "source_index": 386,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在四川大学计算机学院于2024年4月18日召开的全面从严治党工作部署会中，谁担任党委副书记兼纪委书记并主持了会议？",
+  "prompt": "在四川大学计算机学院于2024年4月18日召开的全面从严治党工作部署会中，谁担任党委副书记兼纪委书记并主持了会议？",
+  "expected_answer": "董柯平",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1212/18359.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->下页->学院召开全面从严治党工作部署会暨党纪学习教育动员部署会"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 10,
+  "tool_calls": 4,
+  "duration_seconds": 24.303,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0386_d0d62d043a19/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0386_d0d62d043a19/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "task_id": "webwalkerqa_0113_03b6c6e39f37",
+  "source_index": 113,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西安电子科技大学计算机科学与技术学院的77级校友和91级校友中，分别有谁获得了ACM Fellow和IEEE Fellow的荣誉？",
+  "prompt": "西安电子科技大学计算机科学与技术学院的77级校友和91级校友中，分别有谁获得了ACM Fellow和IEEE Fellow的荣誉？",
+  "expected_answer": "翟树民和施巍松",
+  "root_url": "https://cs.xidian.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xidian.edu.cn/info/1058/7475.htm",
+      "https://cs.xidian.edu.cn/info/1058/7485.htm"
+    ],
+    "golden_path": [
+      "root->杰出校友->77级翟树民  ACM Fellow  谷歌首席科学家",
+      "root->杰出校友->91级施巍松  美国韦恩州立大学终身教授"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "西安电子科技大学计算机科学与技术学院的77级校友翟树民获得了ACM Fellow的荣誉，91级校友施巍松获得了IEEE Fellow的荣誉。",
+  "judge": {
+    "verdict": "match",
+    "reason": "{\n  \"verdict\": \"match\",\n  \"",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 14.695,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0113_03b6c6e39f37/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0113_03b6c6e39f37/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "{\n  \"verdict\": \"match\",\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

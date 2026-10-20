@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0331_61a9135dc06d",
+  "source_index": 331,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在四川大学计算机学院于2023年6月29日开展的实践研学活动中，党员同志们首先参观了哪个村，主题是重温总书记关于什么的指示精神？",
+  "prompt": "在四川大学计算机学院于2023年6月29日开展的实践研学活动中，党员同志们首先参观了哪个村，主题是重温总书记关于什么的指示精神？",
+  "expected_answer": "永丰村，总书记重要指示精神",
+  "root_url": "https://cs.scu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.scu.edu.cn/info/1212/17815.htm"
+    ],
+    "golden_path": [
+      "root->党建工作->3->【理论学习】学院开展“沿着总书记调研足迹 汲取新时代思想伟力”实践研学活动"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 4,
+  "duration_seconds": 24.087,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0331_61a9135dc06d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0331_61a9135dc06d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

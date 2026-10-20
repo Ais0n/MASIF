@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0213_2aaba49732d9",
+  "source_index": 213,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Sony Pictures Imageworks团队在制作《爱、死亡和机器人》第三季第八集《隧道墓穴》时，在几个月内完成主要制作的团队规模是多少人？",
+  "prompt": "Sony Pictures Imageworks团队在制作《爱、死亡和机器人》第三季第八集《隧道墓穴》时，在几个月内完成主要制作的团队规模是多少人？",
+  "expected_answer": "45人",
+  "root_url": "https://www.unrealengine.com/zh-CN",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.unrealengine.com/zh-CN/spotlights/how-sony-pictures-imageworks-created-a-real-time-thriller-for-netflix-s-love-death-robots"
+    ],
+    "golden_path": [
+      "root->影视->Sony Pictures Imageworks如何为Netflix的《爱、死亡和机器人》创作实时惊悚片"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 18.938,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0213_2aaba49732d9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0213_2aaba49732d9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

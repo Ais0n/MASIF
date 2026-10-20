@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0330_5a926a2a523f",
+  "source_index": 330,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "How many SIGCHI Executive Committee open meetings were held on September 5, 2023, in Hawaii?",
+  "prompt": "How many SIGCHI Executive Committee open meetings were held on September 5, 2023, in Hawaii?",
+  "expected_answer": "2",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/events/open-session-chi-in-hawaii-september-5-2023/"
+    ],
+    "golden_path": [
+      "root->Meetings->Past Meetings->Open Sessions: CHI in Hawaii, September 5, 2023Sep 05, 2023 - Sep 05, 2023The September 2023 SIGCHI Executive Committee open sessions were focused on the CHI conference in Hawaii."
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 16,
+  "tool_calls": 6,
+  "duration_seconds": 38.685,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0330_5a926a2a523f/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0330_5a926a2a523f/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

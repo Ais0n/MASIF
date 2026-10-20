@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0450_99f33f643695",
+  "source_index": 450,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "广州光达创新科技有限公司和深圳美众联科技有限公司的官网分别在哪天上线？",
+  "prompt": "广州光达创新科技有限公司和深圳美众联科技有限公司的官网分别在哪天上线？",
+  "expected_answer": "2024年11月9日和2024年8月10日",
+  "root_url": "https://www.niegoweb.com/",
+  "info": {
+    "domain": "organization",
+    "source_website": [
+      "https://www.niegoweb.com/casedetail-4-41-652-1.html",
+      "https://www.niegoweb.com/newsdetail-5-51-2600-1.html"
+    ],
+    "golden_path": [
+      "root->光达创新半导体行业网站建设,广州网站设计公司,专业网站开发",
+      "root->电子烟网站设计-美众联官网上线"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "easy",
+    "lang": "zh"
+  },
+  "final_answer": "广州光达创新科技有限公司和深圳美众联科技有限公司的官网分别在2025年上线。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 27.897,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0450_99f33f643695/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0450_99f33f643695/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "{\n  \"verdict\": \"wrong\",\n  \"reason\": \"The predicted answer provides an incorrect year (2025) instead of the expected specific dates",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "task_id": "webwalkerqa_0200_0e2bae8cc826",
+  "source_index": 200,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which SIGCHI policy documents were updated in 2014?",
+  "prompt": "Which SIGCHI policy documents were updated in 2014?",
+  "expected_answer": "The policy regarding the Doctoral Consortium at the CHI conference was updated on June 1, 2014.",
+  "root_url": "https://sigchi.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://sigchi.org/about/policies/conference-policies/"
+    ],
+    "golden_path": [
+      "root->Policies->SIGCHI Conference Policies page"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The SIGCHI policy document that was updated in 2014 is the 'Doctoral Consortium for the CHI Conference' policy, which was last updated on June 1, 2014.",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer provides the exact same factual information as the expected answer, just with slightly different wording.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 6,
+  "duration_seconds": 80.229,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0200_0e2bae8cc826/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0200_0e2bae8cc826/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "The predicted answer provides the exact same factual information as the expected answer, just with slightly different wording.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

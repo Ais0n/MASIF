@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0210_219879a17a5e",
+  "source_index": 210,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which version of Sid Meier's Civilization VII should a user purchase to start playing on February 6, 2025, and access a civilization with the 'Nepekifaki' ability?",
+  "prompt": "Which version of Sid Meier's Civilization VII should a user purchase to start playing on February 6, 2025, and access a civilization with the 'Nepekifaki' ability?",
+  "expected_answer": "Founders Edition",
+  "root_url": "https://civilization.2k.com/civ-vii/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://civilization.2k.com/civ-vii/en-GB/buy/"
+    ],
+    "golden_path": [
+      "root->PRE-ORDER->ENGLISH (GB)"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 23.079,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0210_219879a17a5e/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0210_219879a17a5e/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

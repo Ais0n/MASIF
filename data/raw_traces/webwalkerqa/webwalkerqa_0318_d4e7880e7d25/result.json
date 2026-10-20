@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0318_d4e7880e7d25",
+  "source_index": 318,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "浙江大学计算机学院什么时候发布的研究生读书报告？",
+  "prompt": "浙江大学计算机学院什么时候发布的研究生读书报告？",
+  "expected_answer": "2017-03-01",
+  "root_url": "http://www.cs.zju.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://www.cs.zju.edu.cn/csen/2017/0301/c27029a1296299/page.htm"
+    ],
+    "golden_path": [
+      "root->首页->学术讲座->【研究生读书报告】香港大学系列学术报告"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "浙江大学计算机学院发布的研究生读书报告相关通知公告的时间为2010年10月26日。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 13,
+  "tool_calls": 4,
+  "duration_seconds": 34.158,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0318_d4e7880e7d25/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0318_d4e7880e7d25/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

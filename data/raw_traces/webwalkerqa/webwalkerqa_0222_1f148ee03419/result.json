@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0222_1f148ee03419",
+  "source_index": 222,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Who won the Wickham Skinner Teaching Innovation Award in 2022 but is not recorded as the current year's award recipient?",
+  "prompt": "Who won the Wickham Skinner Teaching Innovation Award in 2022 but is not recorded as the current year's award recipient?",
+  "expected_answer": "Wiljeana Jackson Glover",
+  "root_url": "https://www.poms.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.poms.org/node/976"
+    ],
+    "golden_path": [
+      "root->Wickham Skinner Awards->view"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "Wiljeana Jackson Glover and Gregory R. Heim won the Wickham Skinner Teaching Innovation Award in 2022 but are not recorded as the current year's award recipient.",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 26.319,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0222_1f148ee03419/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0222_1f148ee03419/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: {\n  \"",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

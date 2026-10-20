@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0339_11ad6565daa6",
+  "source_index": 339,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在西华大学计算机与软件工程学院2024年1月10日举办的审核评估与教学规范培训活动中，具体讲解教学规范的人是谁？",
+  "prompt": "在西华大学计算机与软件工程学院2024年1月10日举办的审核评估与教学规范培训活动中，具体讲解教学规范的人是谁？",
+  "expected_answer": "王萍主任",
+  "root_url": "https://cs.xhu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.xhu.edu.cn/19/be/c10302a203198/page.htm"
+    ],
+    "golden_path": [
+      "root->教学科研工作->下一页>>->计算机与软件工程学院举行审核评估与教学规范培训主题教研活动"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 57.302,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0339_11ad6565daa6/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0339_11ad6565daa6/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

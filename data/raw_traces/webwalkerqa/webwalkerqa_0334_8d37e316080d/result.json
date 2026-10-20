@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0334_8d37e316080d",
+  "source_index": 334,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which editor from Cleveland Clinic will host a rapid session in the Blood Journals Studio on December 7, 2024?",
+  "prompt": "Which editor from Cleveland Clinic will host a rapid session in the Blood Journals Studio on December 7, 2024?",
+  "expected_answer": "Keith R. McCrae, MD",
+  "root_url": "https://www.hematology.org/meetings/annual-meeting",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://www.hematology.org/meetings/annual-meeting/schedule-and-program/programs/blood-journals-studio"
+    ],
+    "golden_path": [
+      "root->Schedule and Program->Programs->ViewBloodJournals Studio Activities"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 15,
+  "tool_calls": 6,
+  "duration_seconds": 68.301,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0334_8d37e316080d/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0334_8d37e316080d/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

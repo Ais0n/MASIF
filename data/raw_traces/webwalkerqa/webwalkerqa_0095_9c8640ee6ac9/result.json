@@ -1,0 +1,48 @@
+{
+  "task_id": "webwalkerqa_0095_9c8640ee6ac9",
+  "source_index": 95,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which technology standard was used for the accelerator project 'Design Your Weapon Against Fake News' to verify content sources at the IBC2024 conference?",
+  "prompt": "Which technology standard was used for the accelerator project 'Design Your Weapon Against Fake News' to verify content sources at the IBC2024 conference?",
+  "expected_answer": "C2PA",
+  "root_url": "https://show.ibc.org/",
+  "info": {
+    "domain": "conference",
+    "source_website": [
+      "https://show.ibc.org/press-releases-1/ibc-announces-8-accelerator-media-innovation-challenges-plus-special-incubator-project-2024；https://show.ibc.org/accelerator-project-design-weapons-fight-against-disinformation"
+    ],
+    "golden_path": [
+      "root->PRESS AREA->Read More",
+      "root->IBC ACCELERATOR MEDIA INNOVATION PROGRAMME->Design Your Weapons in the Fight Against Disinformation"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "en"
+  },
+  "final_answer": "The technology standard used for the accelerator project 'Design Your Weapon Against Fake News' to verify content sources at the IBC2024 conference was Content Credentials (C2PA).",
+  "judge": {
+    "verdict": "match",
+    "reason": "The predicted answer correctly identifies C2PA as the technology standard, matching the expected answer despite being embedded in a full sentence.",
+    "exact_norm_match": false,
+    "model": "gemini-3.1-pro-preview"
+  },
+  "semantic_success": true,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 7,
+  "tool_calls": 2,
+  "duration_seconds": 36.528,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0095_9c8640ee6ac9/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0095_9c8640ee6ac9/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": true,
+    "judge": {
+      "verdict": "match",
+      "reason": "The predicted answer correctly identifies C2PA as the technology standard, matching the expected answer despite being embedded in a full sentence.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

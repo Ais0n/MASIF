@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0669_012ea0f1a3aa",
+  "source_index": 669,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "光鳞龙在《多多自走棋》中技能“风之索”在2022年和2023年的更新中分别有什么变化？",
+  "prompt": "光鳞龙在《多多自走棋》中技能“风之索”在2022年和2023年的更新中分别有什么变化？",
+  "expected_answer": "2022年技能为每秒40/50/60点魔法伤害，致减伤45%，而2023年改为每秒30点魔法伤害，致减伤70%/80%/90%。",
+  "root_url": "http://ac.dragonest.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "http://ac.dragonest.com/zh-cn/news/detail/f386d5dfc03",
+      "http://ac.dragonest.com/zh-cn/announcement/detail/f16714b2140"
+    ],
+    "golden_path": [
+      "root->新闻->1月12日开服公告多多自走棋2023-01-12",
+      "root->公告->7月28日停服更新公告多多自走棋2022-07-27"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 60.686,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0669_012ea0f1a3aa/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0669_012ea0f1a3aa/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

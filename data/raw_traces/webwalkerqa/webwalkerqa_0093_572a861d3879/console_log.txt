@@ -1,0 +1,569 @@
+----- user -----
+query:
+Which conference did Gunter Schlageter contribute to in 2000, and who maintains the bibliography database including his work?
+official website:
+https://www.vldb.org/
+Observation:website information:
+
+]( "www.vldb.org") !
+Home          
+VLDB Conferences               
+VLDB Journal                    
+PVLDB                    
+CIDR         
+Endowment Awards     
+External Links      
+# Very Large Data Base Endowment Inc. (VLDB Endowment)
+is a non-profit organisation incorporated in the United States for the sole purpose of **promoting and exchanging scholarly work in databases and related fields throughout the world**.
+The Endowment serves as the steering committee for the  series. The review process for these conferences is implemented in collaboration with  and the conference review process is entirely through .
+Since 1992, the Endowment has published  for disseminating archival research results. By now, the journal is one of the most successful journals across all of computer science. The VLDB Journal is published in collaboration with Springer-Verlag.
+On various activities, the Endowment closely cooperates with .
+The Endowment also sponsors various scholarly activities. It has established a program that supports summer schools, and other training activities of this kind, in countries that could otherwise not afford the expenses for such events.
+The  since 1995 contains web sites of past conferences, conference statistics (e.g., number of papers submitted, acceptance rates), and other useful information.
+The VLDB Endowment is governed by a  consisting of 21 members.
+# VLDB's Position on Racism
+The VLDB Endowment is committed to ensuring that all VLDB activities are carried out in an inclusive and diverse environment with zero tolerance for discrimination, harassment, or any other form of misconduct. The database systems community wide DBCares initiative, co-started with ACM SIGMOD, is a realization of this principle.
+We cannot be satisfied with continuing the status quo. We will continue to actively stand against discrimination. We will find new ways to address the inequities that exist in our field. We will help to create an environment that is more welcoming, just, and equitable to all.
+We join ACM and CRA in stating that we will continue to listen, to learn, to engage and to explore new ways to fight against and reject racism. Silence perpetuates, doubt reinforces, and rationalization of incident after incident only compounds the pain so many in our society continue to endure.
+We know that racism:
+  * Is systemic and institutionalized.
+  * Continues to oppress people of color around the world – denying basic human rights, denying opportunity, and even more tragically denying many of their very lives.
+  * Is learned behavior that may be unlearned through education, compassion, empathy, and action.
+  * Drives a wedge between communities, and in doing so limits the enviable quest for a society steeped in respect.
+  * Benefits the privileged from its existence, who must be willing to sacrifice to overcome it.
+To stand against it, we:
+  * Acknowledge the existence of racism within our communities and commit to defeating it.
+  * Call out and reject rationalization of incidents and distortion of information.
+  * Educate ourselves and those around us to address racism in its many forms.
+  * Stand up against the status quo by using our voice and agency.
+  * Invite the community to discuss concrete steps to take to create lasting change.
+ is hosted by .
+Last modified: May 28, 2021 06:00 AM.
+
+
+clickable button:
+
+<button>Latest News<button>
+<button>Board of Trustees<button>
+<button>VLDB Ambassadors<button>
+<button>Useful Documents<button>
+<button>VLDB Archives<button>
+<button>VLDBCares<button>
+<button>VLDB Committees<button>
+<button>Privacy Policy<button>
+<button>Contact Us<button>
+<button>List of Conferences<button>
+<button>2019 Los Angeles<button>
+<button>2018 Rio de Janeiro<button>
+<button>2017 Munich<button>
+<button>2016 New Delhi<button>
+<button>2015 Hawai'i<button>
+<button>2014 Hangzhou<button>
+<button>2013 Trento<button>
+<button>Home<button>
+<button>Volume 19, 2025/2026<button>
+<button>Volume 18, 2024/2025<button>
+<button>Volume 17, 2023/2024<button>
+<button>Volume 16, 2022/2023<button>
+<button>Volume 15, 2021/2022<button>
+<button>Volume 14, 2020/2021<button>
+<button>Volume 13, 2019/2020<button>
+<button>Volume 12, 2018/2019<button>
+<button>Volume 11, 2017/2018<button>
+<button>Volume 10, 2016/2017<button>
+<button>Volume 9, 2015/2016<button>
+<button>Volume 8, 2014/2015<button>
+<button>Volume 7, 2013/2014<button>
+<button>Volume 6, 2012/2013<button>
+<button>Volume 5, 2011/2012<button>
+<button>Volume 4, 2010/2011<button>
+<button>Volume 3, 2010<button>
+<button>Volume 2, 2009<button>
+<button>Volume 1, 2008<button>
+<button>Home<button>
+<button>CIDR 2026<button>
+<button>CIDR 2025<button>
+<button>CIDR 2024<button>
+<button>CIDR 2023<button>
+<button>CIDR 2022<button>
+<button>CIDR 2021<button>
+<button>CIDR 2020<button>
+<button>CIDR 2019<button>
+<button>Call for Nominations<button>
+<button>Committee<button>
+<button>Test of Time Award<button>
+<button>Early Career Award<button>
+<button>Women in Database Research Award<button>
+<button>VLDB conference<button>
+<button>PVLDB<button>
+<button>VLDB historical archives<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: I need to find the conference that Gunter Schlageter contributed to in 2000 and identify who maintains the bibliography database including his work. Since the official website of VLDB is provided, I will start by exploring the conferences listed on the site.
+
+Action: visit_page
+Action Input: {"button": "List of Conferences"}
+
+----- VisitPage -----
+The web information is:
+
+]( "www.vldb.org") !
+Home          
+VLDB Conferences               
+VLDB Journal                    
+PVLDB                    
+CIDR         
+Endowment Awards     
+External Links      
+# Very Large Data Bases (VLDB) Conference
+Shortcut:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  /  |  |  | 
+* * *
+The VLDB Conferences constitute one of the most eminent venues for the timely dissemination of research and development results in the field of database management. This series is perhaps the most international (in terms of participation, technical content, organization, and location) among all comparable events.
+VLDB proceedings until 2004 were distributed by Morgan Kaufmann Publishers. The 2005 proceedings are published by ACM. The Proceedings of the first 23 conferences (1975-1998) are included (as soft copy) in the . The Endowment is committed to the inclusion of the future Proceedings (1998-...) in the .
+The full text of all VLDB Conference papers from 1982-2004 is available online from  These can be reached by clicking the appropriate conference and then the appropriate "_Electronic Edition_ " link of the paper.
+* * *
+## 53. VLDB 2027: Athens, Greece
+## 52. VLDB 2026: Boston, MA, USA
+## 51. VLDB 2025: London, United Kingdom
+## 50. VLDB 2024: Guangzhou, China
+## 49. VLDB 2023: Vancouver, Canada
+## 48. VLDB 2022: Sydney, Australia
+## 47. VLDB 2021: Copenhagen, Denmark
+## 46. VLDB 2020: Tokyo, Japan
+## 45. VLDB 2019: Los Angeles, California
+## 44. VLDB 2018: Rio de Janeiro, Brazil 
+## 43. VLDB 2017: Munich, Germany 
+## 42. VLDB 2016: New Delhi, India 
+## 41. VLDB 2015: Kohala Coast, Hawai'i 
+## 40. VLDB 2014: Hangzhou, China 
+## 39. VLDB 2013: Trento, Italy 
+## 38. VLDB 2012: Istanbul, Turkey
+## 37. VLDB 2011: Seattle, Washington
+## 36. VLDB 2010: Singapore
+## 35. VLDB 2009: Lyon, France
+Proceedings:   
+ (Ed.): Resource Discovery, Second International Workshop, RED 2009, Lyon, France, August 28, 2009. Revised Papers.  6162 Springer 2010, ISBN 978-3-642-14414-1  
+]( ]( ]( ]( ](
+## 34. VLDB 2008: Auckland, New Zealand
+Proceedings:   
+ -  -  -  -  -  - 
+## 33. VLDB 2007: Vienna, Austria
+, , , , , , , , , , ,  (Eds.): Proceedings of the 33rd International Conference on Very Large Data Bases, University of Vienna, Austria, September 23-27, 2007. ACM 2007, ISBN 978-1-59593-649-3  
+ ]( ]( ]( ]( ]( - 
+ -  -  -  - 
+## 32. VLDB 2006: Seoul, Korea
+, , , , , , ,  (Eds.): Proceedings of the 32nd International Conference on Very Large Data Bases, Seoul, Korea, September 12-15, 2006. ACM 2006, ISBN 1-59593-385-9  
+ ]( ]( ]( ]( ](
+ -  -  -  -  -  -  - 
+## 31. VLDB 2005: Trondheim, Norway
+, , , , ,  (Eds.): Proceedings of the 31st International Conference on Very Large Data Bases, Trondheim, Norway, August 30 - September 2, 2005. ACM 2005, ISBN 1-59593-154-6,1-59593-177-5  
+ ]( ]( ]( ]( ]( - 
+ -  -  -  -  -  - 
+## 30. VLDB 2004: Toronto, Ontario, Canada
+, , , , ,  (Eds.): (e)Proceedings of the Thirtieth International Conference on Very Large Data Bases, Toronto, Canada, August 31 - September 3 2004.  2004, ISBN 0-12-088469-0  
+ ]( ]( ]( ]( ]( - 
+ -  -  -  -  -  -  - 
+## 29. VLDB 2003: Berlin, Germany
+, , , , ,  (Eds.): VLDB 2003, Proceedings of 29th International Conference on Very Large Data Bases, September 9-12, 2003, Berlin, Germany.  2003, ISBN 0-12-722442-4  
+ ]( ]( ]( ]( ]( -  - 
+,  (Eds.): Proceedings of the VLDB 2003 PhD Workshop. Co-located with the 29th International Conference on Very Large Data Bases (VLDB 2003). Berlin, September 12-13, 2003.  76 CEUR-WS.org 2003  
+ ]( ]( ]( ]( ](
+, ,  (Eds.): Databases, Information Systems, and Peer-to-Peer Computing, First International Workshop, DBISP2P, Berlin Germany, September 7-8, 2003, Revised Papers.  2944 Springer 2004, ISBN 3-540-20968-9  
+ ]( ]( ]( ]( ]( - 
+  
+  
+  
+## 28. VLDB 2002: Hong Kong, China
+VLDB 2002, Proceedings of 28th International Conference on Very Large Data Bases, August 20-23, 2002, Hong Kong, China.  2002  
+ ]( ]( ]( ]( ]( - 
+1st International Conference on Web-based Learning  
+  
+, , , ,  (Eds.): Efficiency and Effectiveness of XML Tools and Techniques and Data Integration over the Web, VLDB 2002 Workshop EEXTT and CAiSE 2002 Workshop DTWeb. Revised Papers.  2590 Springer 2003, ISBN 3-540-00736-9  
+ ]( ]( ]( ]( ](
+## 27. VLDB 2001: Roma, Italy
+, , , , ,  (Eds.): VLDB 2001, Proceedings of 27th International Conference on Very Large Data Bases, September 11-14, 2001, Roma, Italy.  2001, ISBN 1-55860-804-4  
+ ]( ]( ]( ]( ](
+ ()  
+, ,  (Eds.): Technologies for E-Services, Second International Workshop, TES 2001, Rome, Italy, September 14-15, 2001, Proceedings.  2193 Springer 2001, ISBN 3-540-42565-9  
+ ]( ]( ]( ]( ]( - 
+ (Ed.): Databases in Telecommunications II, VLDB 2001 International Workshop, DBTel 2001 Rome, Italy, September 10, 2001, Proceedings.  2209 Springer 2001, ISBN 3-540-42623-X  
+ ]( ]( ]( ]( ]( - 
+## 26. VLDB 2000: Cairo, Egypt
+, , , , , ,  (Eds.): VLDB 2000, Proceedings of 26th International Conference on Very Large Data Bases, September 10-14, 2000, Cairo, Egypt.  2000, ISBN 1-55860-715-3  
+ ]( ]( ]( ]( ](   
+## 25. VLDB 1999: Edinburgh, Scotland
+, , , ,  (Eds.): VLDB'99, Proceedings of 25th International Conference on Very Large Data Bases, September 7-10, 1999, Edinburgh, Scotland, UK.  1999, ISBN 1-55860-615-7  
+ ]( ]( ]( ]( ](
+ (Ed.): Databases in Telecommunications, International Workshop Co-located with VLDB-99, Edinburgh, Scotland, UK, September 6, 1999, Proceedings.  1819 Springer 2000, ISBN 3-540-67667-8  
+ ]( ]( ]( ]( ](
+## 24. VLDB 1998: New York City, USA
+, ,  (Eds.): VLDB'98, Proceedings of 24rd International Conference on Very Large Data Bases, August 24-27, 1998, New York City, New York, USA.  1998, ISBN 1-55860-566-5  
+ ]( ]( ]( ]( ](
+## 23. VLDB 1997: Athens, Greece
+, , , , ,  (Eds.): VLDB'97, Proceedings of 23rd International Conference on Very Large Data Bases, August 25-29, 1997, Athens, Greece.  1997, ISBN 1-55860-470-7 ]( ]( ]( ]( ](  
+ -  - 
+## 22. VLDB 1996: Bombay, India
+, , ,  (Eds.): VLDB'96, Proceedings of 22th International Conference on Very Large Data Bases, September 3-6, 1996, Mumbai (Bombay), India.  1996, ISBN 1-55860-382-4 ]( ]( ]( ]( ](  
+## 21. VLDB 1995: Zurich, Switzerland
+, , : VLDB'95, Proceedings of 21th International Conference on Very Large Data Bases, September 11-15, 1995, Zurich, Switzerland. Morgan Kaufmann, ISBN 1-55860-379-4   
+  
+  
+## 20. VLDB 1994: Santiago de Chile, Chile
+, ,  (Eds.): Proceedings of the 20th International Conference on Very Large Data Bases, (VLDB'94), September 12-15, 1994, Santiago de Chile, Chile. Morgan Kaufmann, ISBN 1-55860-153-8  
+ - 
+## 19. VLDB 1993: Dublin, Ireland
+, ,  (Eds.): 19th International Conference on Very Large Data Bases, August 24-27, 1993, Dublin, Ireland, Proceedings. Morgan Kaufmann, ISBN 1-55860-152-X  
+ - 
+## 18. VLDB 1992: Vancouver, British Columbia, Canada
+Le-Yan Yuan (Ed.): 18th International Conference on Very Large Data Bases, August 23-27, 1992, Vancouver, Canada, Proceedings. Morgan Kaufmann, ISBN 1-55860-151-1  
+## 17. VLDB 1991: Barcelona, Catalonia, Spain
+, ,  (Eds.): 17th International Conference on Very Large Data Bases, September 3-6, 1991, Barcelona, Catalonia, Spain, Proceedings. Morgan Kaufmann, ISBN 1-55860-150-3  
+## 16. VLDB 1990: Brisbane, Queensland, Australia
+, ,  (Eds.): 16th International Conference on Very Large Data Bases, August 13-16, 1990, Brisbane, Queensland, Australia, Proceedings. Morgan Kaufmann, ISBN 0-55860-149-X  
+## 15. VLDB 1989: Amsterdam, The Netherlands
+,  (Eds.): Proceedings of the Fifteenth International Conference on Very Large Data Bases, August 22-25, 1989, Amsterdam, The Netherlands. Morgan Kaufmann, ISBN 1-55860-101-5  
+## 14. VLDB 1988: Los Angeles, California, USA
+,  (Eds.): Fourteenth International Conference on Very Large Data Bases, August 29 - September 1, 1988, Los Angeles, California, USA, Proceedings. Morgan Kaufmann, ISBN 0-934613-75-3  
+: 1988 VLDB Panel on "Future Directions in DBMS Research": A Brief, Informal Summary. (1): 27-30 (March 1989)
+## 13. VLDB 1987: Brighton, England
+, ,  (Eds.): 13th International Conference on Very Large Data Bases, September 1-4, 1987, Brighton, England, Proceedings. Morgan Kaufmann, ISBN 0-934613-46-3  
+## 12. VLDB 1986: Kyoto, Japan
+, , ,  (Eds.): Twelfth International Conference on Very Large Data Bases, August 25-28, 1986, Kyoto, Japan, Proceedings. Morgan Kaufmann, ISBN 0-934613-18-4  
+## 11. VLDB 1985: Stockholm, Sweden
+,  (Eds.): 11th International Conference on Very Large Data Bases, August 21-23, 1985, Stockholm, Sweden, Proceedings. Morgan Kaufmann  
+## 10. VLDB 1984: Singapore
+, ,  (Eds.): Tenth International Conference on Very Large Data Bases, August 27-31, 1984, Singapore, Proceedings. Morgan Kaufmann, ISBN 0-934613-16-8  
+## 9. VLDB 1983: Florence, Italy
+,  (Eds.): 9th International Conference on Very Large Data Bases, October 31 - November 2, 1983, Florence, Italy, Proceedings. VLDB Endowment / Morgan Kaufmann  
+## 8. VLDB 1982: Mexico City, Mexico
+Eigth International Conference on Very Large Data Bases, September 8-10, 1982, Mexico City, Mexico, Proceedings. VLDB Endowment / Morgan Kaufmann  
+## 7. VLDB 1981: Cannes, France
+Very Large Data Bases, 7th International Conference, September 9-11, 1981, Cannes, France, Proceedings. IEEE Press  
+## 6. VLDB 1980: Montreal, Canada
+Sixth International Conference on Very Large Data Bases, October 1-3, 1980, Montreal, Quebec, Canada, Proceedings. IEEE-CS, 1980, IEEE Catalog Number 80CH1534-7C, Library of Congress Number 79-93333  
+## 5. VLDB 1979: Rio de Janeiro, Brazil
+,  (Eds): Fifth International Conference on Very Large Data Bases, October 3-5, 1979, Rio de Janeiro, Brazil, Proceedings. IEEE-CS, 1979, IEEE Catalog Number 79CH1406-8C, Library of Congress Number 7987908  
+## 4. VLDB 1978: West Berlin, Germany
+ (Ed.): Fourth International Conference on Very Large Data Bases, September 13-15, 1978, West Berlin, Germany, Proceedings. IEEE-CS, 1978, IEEE Catalog Number 78CH1389-6C, Library of Congress Number 78-67197  
+,  (Eds.): Issues in Data Base Management, Proceedings of the 4th VLDB, September 13-15, 1978, West Berlin, Germany. North-Holland 1979, ISBN 0-444-85316-2 (_This volume contains material from the survey sessions._)  
+## 3. VLDB 1977: Tokyo, Japan
+Proceedings of the Third International Conference on Very Large Data Bases, October 6-8, 1977, Tokyo, Japan. IEEE-CS and ACM, October 1977  
+## 2. VLDB 1976: Brussels, Belgium
+,  (Eds.): Systems for Large Data Bases, September 8-10, 1976, Brussels, Belgium. North Holland & IFIP, 1976, ISBN 0-7204-0546-7  
+## 1. VLDB 1975: Framingham, Massachusetts
+ (Ed.): Proceedings of the International Conference on Very Large Data Bases, September 22-24, 1975, Framingham, Massachusetts, USA. ACM  
+The long versions of some VLDB'75 papers appeared in (1 and 2)
+ is hosted by .
+Last modified: April 28, 2026 02:59 AM.
+
+
+Clickable buttons are wrapped in <button> tag
+<button>Latest News<button>
+<button>Board of Trustees<button>
+<button>VLDB Ambassadors<button>
+<button>Useful Documents<button>
+<button>VLDB Archives<button>
+<button>VLDBCares<button>
+<button>VLDB Committees<button>
+<button>Privacy Policy<button>
+<button>Contact Us<button>
+<button>List of Conferences<button>
+<button>2019 Los Angeles<button>
+<button>2018 Rio de Janeiro<button>
+<button>2017 Munich<button>
+<button>2016 New Delhi<button>
+<button>2015 Hawai'i<button>
+<button>2014 Hangzhou<button>
+<button>2013 Trento<button>
+<button>Home<button>
+<button>Volume 19, 2025/2026<button>
+<button>Volume 18, 2024/2025<button>
+<button>Volume 17, 2023/2024<button>
+<button>Volume 16, 2022/2023<button>
+<button>Volume 15, 2021/2022<button>
+<button>Volume 14, 2020/2021<button>
+<button>Volume 13, 2019/2020<button>
+<button>Volume 12, 2018/2019<button>
+<button>Volume 11, 2017/2018<button>
+<button>Volume 10, 2016/2017<button>
+<button>Volume 9, 2015/2016<button>
+<button>Volume 8, 2014/2015<button>
+<button>Volume 7, 2013/2014<button>
+<button>Volume 6, 2012/2013<button>
+<button>Volume 5, 2011/2012<button>
+<button>Volume 4, 2010/2011<button>
+<button>Volume 3, 2010<button>
+<button>Volume 2, 2009<button>
+<button>Volume 1, 2008<button>
+<button>Home<button>
+<button>CIDR 2026<button>
+<button>CIDR 2025<button>
+<button>CIDR 2024<button>
+<button>CIDR 2023<button>
+<button>CIDR 2022<button>
+<button>CIDR 2021<button>
+<button>CIDR 2020<button>
+<button>CIDR 2019<button>
+<button>Call for Nominations<button>
+<button>Committee<button>
+<button>Test of Time Award<button>
+<button>Early Career Award<button>
+<button>Women in Database Research Award<button>
+<button>27<button>
+<button>26<button>
+<button>25<button>
+<button>24<button>
+<button>23<button>
+<button>22<button>
+<button>21<button>
+<button>20<button>
+<button>19<button>
+<button>18<button>
+<button>17<button>
+<button>16<button>
+<button>15<button>
+<button>14<button>
+<button>13<button>
+<button>12<button>
+<button>11<button>
+<button>10<button>
+<button>09<button>
+<button>08<button>
+<button>07<button>
+<button>06<button>
+<button>05<button>
+<button>04<button>
+<button>03<button>
+<button>02<button>
+<button>01<button>
+<button>00<button>
+<button>99<button>
+<button>98<button>
+<button>97<button>
+<button>96<button>
+<button>95<button>
+<button>94<button>
+<button>93<button>
+<button>92<button>
+<button>91<button>
+<button>90<button>
+<button>89<button>
+<button>88<button>
+<button>87<button>
+<button>86<button>
+<button>85<button>
+<button>84<button>
+<button>83<button>
+<button>82<button>
+<button>81<button>
+<button>80<button>
+<button>79<button>
+<button>78<button>
+<button>s<button>
+<button>77<button>
+<button>76<button>
+<button>75<button>
+<button>ACM SIGMOD Anthology<button>
+<button>VLDB 2019 Home Page<button>
+<button>VLDB 2018 Home Page<button>
+<button>VLDB 2017 Home Page<button>
+<button>VLDB 2016 Home Page<button>
+<button>VLDB 2015 Home Page<button>
+<button>VLDB 2014 Home Page<button>
+<button>VLDB 2013 Home Page<button>
+<button>Volume 2 of the Journal "Proceedings of the VLDB Endowment"<button>
+<button>Zo� Lacroix<button>
+<button>Lecture Notes in Computer Science<button>
+<button>Volume 1 of the Journal "Proceedings of the VLDB Endowment"<button>
+<button>BIRTE<button>
+<button>DBISP2P<button>
+<button>DMSN<button>
+<button>NTII<button>
+<button>ODBIS<button>
+<button>PersDB<button>
+<button>QDB/MUD<button>
+<button>Christoph Koch<button>
+<button>Johannes Gehrke<button>
+<button>Minos N. Garofalakis<button>
+<button>Divesh Srivastava<button>
+<button>Karl Aberer<button>
+<button>Anand Deshpande<button>
+<button>Daniela Florescu<button>
+<button>Chee Yong Chan<button>
+<button>Venkatesh Ganti<button>
+<button>Carl-Christian Kanne<button>
+<button>Wolfgang Klas<button>
+<button>Erich J. Neuhold<button>
+<button>Contents<button>
+<button>Secure Data Management<button>
+<button>SWDB-ODBIS<button>
+<button>QDB<button>
+<button>XSym<button>
+<button>Umeshwar Dayal<button>
+<button>Kyu-Young Whang<button>
+<button>David B. Lomet<button>
+<button>Gustavo Alonso<button>
+<button>Guy M. Lohman<button>
+<button>Martin L. Kersten<button>
+<button>Sang Kyun Cha<button>
+<button>Young-Kuk Kim<button>
+<button>Contents<button>
+<button>Clean Databases<button>
+<button>VDMB<button>
+<button>Klemens B�hm<button>
+<button>Christian S. Jensen<button>
+<button>Laura M. Haas<button>
+<button>Per-�ke Larson<button>
+<button>Beng Chin Ooi<button>
+<button>Contents<button>
+<button>DMG<button>
+<button>TEAA<button>
+<button>Mario A. Nascimento<button>
+<button>M. Tamer �zsu<button>
+<button>Donald Kossmann<button>
+<button>Ren�e J. Miller<button>
+<button>Jos� A. Blakeley<button>
+<button>K. Bernhard Schiefer<button>
+<button>Morgan Kaufmann<button>
+<button>Contents<button>
+<button>DBISP2P 2004<button>
+<button>STDBM 2004<button>
+<button>SWDB 2004<button>
+<button>TES 2004<button>
+<button>XSym 2004<button>
+<button>Johann Christoph Freytag<button>
+<button>Peter C. Lockemann<button>
+<button>Serge Abiteboul<button>
+<button>Michael J. Carey<button>
+<button>Patricia G. Selinger<button>
+<button>Andreas Heuer<button>
+<button>Contents<button>
+<button>Marc H. Scholl<button>
+<button>Torsten Grust<button>
+<button>CEUR Workshop Proceedings<button>
+<button>Contents<button>
+<button>Vana Kalogeraki<button>
+<button>Manolis Koubarakis<button>
+<button>Contents<button>
+<button>XML Database Symposium (XSym 2003)<button>
+<button>SWDB 2003<button>
+<button>Contents<button>
+<button>St�phane Bressan<button>
+<button>Akmal B. Chaudhri<button>
+<button>Mong-Li Lee<button>
+<button>Jeffrey Xu Yu<button>
+<button>Zo� Lacroix<button>
+<button>Contents<button>
+<button>Peter M. G. Apers<button>
+<button>Paolo Atzeni<button>
+<button>Stefano Ceri<button>
+<button>Stefano Paraboschi<button>
+<button>Kotagiri Ramamohanarao<button>
+<button>Richard T. Snodgrass<button>
+<button>Contents<button>
+<button>KRDB on DBLP<button>
+<button>Fabio Casati<button>
+<button>Dimitrios Georgakopoulos<button>
+<button>Ming-Chien Shan<button>
+<button>Contents<button>
+<button>Willem Jonker<button>
+<button>Contents<button>
+<button>Amr El Abbadi<button>
+<button>Michael L. Brodie<button>
+<button>Sharma Chakravarthy<button>
+<button>Nabil Kamel<button>
+<button>Gunter Schlageter<button>
+<button>Contents<button>
+<button>10-Year Award<button>
+<button>Malcolm P. Atkinson<button>
+<button>Maria E. Orlowska<button>
+<button>Patrick Valduriez<button>
+<button>Stanley B. Zdonik<button>
+<button>Contents<button>
+<button>Contents<button>
+<button>Ashish Gupta<button>
+<button>Oded Shmueli<button>
+<button>Jennifer Widom<button>
+<button>Contents<button>
+<button>Matthias Jarke<button>
+<button>Klaus R. Dittrich<button>
+<button>Frederick H. Lochovsky<button>
+<button>Pericles Loucopoulos<button>
+<button>Manfred A. Jeusfeld<button>
+<button>Contents and Online Proceedings<button>
+<button>T. M. Vijayaraman<button>
+<button>Alejandro P. Buchmann<button>
+<button>C. Mohan<button>
+<button>Nandlal L. Sarda<button>
+<button>Contents and Online Proceedings<button>
+<button>Peter M. D. Gray<button>
+<button>Shojiro Nishio<button>
+<button>Contents<button>
+<button>International Workshop on Temporal Databases<button>
+<button>Jorge B. Bocca<button>
+<button>Carlo Zaniolo<button>
+<button>Contents<button>
+<button>Tutorials<button>
+<button>Rakesh Agrawal<button>
+<button>Se�n Baker<button>
+<button>David A. Bell<button>
+<button>Contents<button>
+<button>Tutorials<button>
+<button>Contents<button>
+<button>Am�lcar Sernadas<button>
+<button>Rafael Camps<button>
+<button>Contents<button>
+<button>Dennis McLeod<button>
+<button>Ron Sacks-Davis<button>
+<button>Hans-J�rg Schek<button>
+<button>Contents<button>
+<button>Gio Wiederhold<button>
+<button>Contents<button>
+<button>Fran�ois Bancilhon<button>
+<button>David J. DeWitt<button>
+<button>Contents<button>
+<button>SIGMOD Record 18<button>
+<button>Peter M. Stocker<button>
+<button>William Kent<button>
+<button>Peter Hammersley<button>
+<button>Contents<button>
+<button>Wesley W. Chu<button>
+<button>Georges Gardarin<button>
+<button>Setsuo Ohsuga<button>
+<button>Yahiko Kambayashi<button>
+<button>Contents<button>
+<button>Alain Pirotte<button>
+<button>Yannis Vassiliou<button>
+<button>Contents<button>
+<button>Lim Huat Seng<button>
+<button>Contents<button>
+<button>Mario Schkolnick<button>
+<button>Costantino Thanos<button>
+<button>Contents<button>
+<button>Contents<button>
+<button>Contents<button>
+<button>Contents<button>
+<button>Antonio L. Furtado<button>
+<button>Howard L. Morgan<button>
+<button>Contents<button>
+<button>S. Bing Yao<button>
+<button>Contents<button>
+<button>Herbert Weber<button>
+<button>Anthony I. Wasserman<button>
+<button>Contents<button>
+<button>Contents<button>
+<button>Contents<button>
+<button>Douglas S. Kerr<button>
+<button>Contents<button>
+<button>TODS 1<button>
+
+----- WebWalker -----
+Memory:
+-Gunter Schlageter contributed to the VLDB 2000 conference held in Cairo, Egypt. The bibliography database including his work is maintained by the VLDB Endowment.
+"}
+
+----- WebWalker -----
+Final Answer: Gunter Schlageter contributed to the VLDB 2000 conference held in Cairo, Egypt. The bibliography database including his work is maintained by the VLDB Endowment.

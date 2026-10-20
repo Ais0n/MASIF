@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0606_8c433bc62563",
+  "source_index": 606,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2021 CiGA Game Jam成功举办的具体日期是什么？同年有哪些Game Jam作品入围了indiePlay中国独立游戏大赛的‘最佳Game Jam’奖项？",
+  "prompt": "2021 CiGA Game Jam成功举办的具体日期是什么？同年有哪些Game Jam作品入围了indiePlay中国独立游戏大赛的‘最佳Game Jam’奖项？",
+  "expected_answer": "2021年7月9日-11日；入围作品包括Rerail、Reversion逆转等。",
+  "root_url": "https://www.ciga.me/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.ciga.me/blog/2021-ciga-game-jam",
+      "https://www.ciga.me/blog/2021-indieplay-12-12-weplay"
+    ],
+    "golden_path": [
+      "root->CiGA Connects->中国独立游戏线上出展排期新增巴西、韩国，CiGA独立游戏联盟开拓更多海外合作->2021 CiGA Game Jam线下站点招募开始，期待更多站点加入",
+      "root->CiGA Connects->欧洲必参加的开发者大会devcom 2021将于8月23日至27日举行->2021 indiePlay中国独立游戏大赛入围名单公布！12月12日WePlay现场颁奖典礼！"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "2021 CiGA Game Jam成功举办的具体日期未在提供的信息中明确提及。同年入围indiePlay中国独立游戏大赛的‘最佳Game Jam’奖项的作品包括：捕梦网（第一名）、小镇火车（第二名）、火车收费站（第三名）。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 9,
+  "tool_calls": 3,
+  "duration_seconds": 32.262,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0606_8c433bc62563/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0606_8c433bc62563/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict\":",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0565_cb58bd758faf",
+  "source_index": 565,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西南交通大学计算机与人工智能学院在2024年迎新活动中参与并鼓励新生的领导中，哪位也曾在同年参与珠三角地区校友走访活动？",
+  "prompt": "西南交通大学计算机与人工智能学院在2024年迎新活动中参与并鼓励新生的领导中，哪位也曾在同年参与珠三角地区校友走访活动？",
+  "expected_answer": "龚勋",
+  "root_url": "https://scai.swjtu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=080f80ac-6e6f-4740-bb97-769ebfdb6cc9",
+      "https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=2a8c5d5d-7cbf-4288-b7ea-c345e0a190c4"
+    ],
+    "golden_path": [
+      "root->首页->学院新闻->齐“新”合力，“计”梦山海：学院完成2024级学生迎新工作",
+      "root->首页->学院新闻->学院领导赴珠三角地区开展“访企拓岗”暨校友走访活动"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "西南交通大学计算机与人工智能学院在2024年迎新活动中参与并鼓励新生的领导中，肖静也曾在同年参与珠三角地区校友走访活动。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 17.507,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0565_cb58bd758faf/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0565_cb58bd758faf/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer identifies a different person (肖静) than the expected answer (龚勋).",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

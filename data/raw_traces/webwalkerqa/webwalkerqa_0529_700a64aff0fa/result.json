@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0529_700a64aff0fa",
+  "source_index": 529,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在第29届全国信息存储技术学术会议上作开幕报告的中科院院士是哪位，他主持研发的国家高性能计算环境被称为什么？",
+  "prompt": "在第29届全国信息存储技术学术会议上作开幕报告的中科院院士是哪位，他主持研发的国家高性能计算环境被称为什么？",
+  "expected_answer": "钱德沛教授，CNGrid",
+  "root_url": "https://cse.sysu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.sysu.edu.cn/content/6925",
+      "https://cse.sysu.edu.cn/content/2488"
+    ],
+    "golden_path": [
+      "root->创新大存储，智引新生态——第29届全...",
+      "root->教师名单->钱德沛(教授)"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 51.345,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0529_700a64aff0fa/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0529_700a64aff0fa/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

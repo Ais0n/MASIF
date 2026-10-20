@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0676_a91676824fc0",
+  "source_index": 676,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在《多多自走棋》中，2022年2月14日和2022年10月27日更新公告中，各新增的棋盘和角色分别是什么？",
+  "prompt": "在《多多自走棋》中，2022年2月14日和2022年10月27日更新公告中，各新增的棋盘和角色分别是什么？",
+  "expected_answer": "棋盘：【美味年夜】（2022年2月14日）；角色：光之灵-利希特（2022年10月27日）",
+  "root_url": "http://ac.dragonest.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "http://ac.dragonest.com/zh-cn/announcement/detail/ef54495b6af",
+      "http://ac.dragonest.com/zh-cn/announcement/detail/f30d27f2bc9"
+    ],
+    "golden_path": [
+      "root->公告->2月14日在线更新公告多多自走棋2022-02-12",
+      "root->公告->10月27日停服更新公告多多自走棋2022-10-27"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 58.354,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0676_a91676824fc0/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0676_a91676824fc0/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

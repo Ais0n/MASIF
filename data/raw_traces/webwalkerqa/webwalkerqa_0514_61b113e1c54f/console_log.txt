@@ -1,0 +1,436 @@
+----- user -----
+query:
+Mobile Legends: Bang Bang在哪一年首次入选电竞世界杯，并于前一年获得了哪一项重大电竞奖项？
+official website:
+https://cn.moonton.com/
+Observation:website information:
+
+#  ! ]( 
+            
+          
+地址：上海市闵行区万源路2138号泓茂中心11层(工作日10点-19点） 
+邮箱：HR@MOONTON.COM 
+_**为全球玩家创造**_
+_**激动人心的体验**_
+  
+关于沐瞳
+上海沐瞳科技有限公司成立于2014年。公司总部位于上海，在新加坡、秘鲁、马来西亚、印度尼西亚、菲律宾等地设有分支机构。沐瞳以“建立与玩家的深度共鸣，持续打造全球流行的游戏IP”为愿景，致力于为全球玩家创造激动人心的体验。
+!
+ 沐瞳与葡萄牙电竞协会深化战略合作 共同推进《决胜巅峰》电竞生态发展 More ](
+ 568万人见证Aurora PH夺冠，决胜巅峰M7世界总决赛2天3度刷新世界记录 More ](
+ 沐瞳科技全球电竞规划发布：美洲赛区亮相，世界总决赛首登欧洲 More ](
+ 听见创作力，沐瞳获两项NYX游戏大奖 More ](
+ 沐瞳Golden Month重磅回归！万部手机与多款限定皮肤重磅上线 More ](
+ MCGG第五赛季登场，全新模式与主题活动同步开启 More ](
+ 沐瞳与葡萄牙电竞协会深化战略合作 共同推进《决胜巅峰》电竞生态发展 More ](
+ 568万人见证Aurora PH夺冠，决胜巅峰M7世界总决赛2天3度刷新世界记录 More ](
+ 沐瞳科技全球电竞规划发布：美洲赛区亮相，世界总决赛首登欧洲 More ](
+ 听见创作力，沐瞳获两项NYX游戏大奖 More ](
+ 沐瞳Golden Month重磅回归！万部手机与多款限定皮肤重磅上线 More ](
+ MCGG第五赛季登场，全新模式与主题活动同步开启 More ](
+游戏产品
+!
+!
+!
+!
+!
+!
+!
+  * !
+决胜巅峰
+多人在线战术竞技游戏
+  * !
+潮汐守望者
+次世代魔幻RPG
+  * !
+银与绯
+暗黑哥特幻想RPG
+  * !
+发条总动员
+弹幕射击游戏
+  * !
+魔法战棋
+MLBB多人策略游戏
+  * !
+幻世与冒险
+放置类卡牌RPG
+  * !
+魔法英雄
+塔防、⻆⾊扮演、策略
+! !
+电竞赛事
+自2017年起，基于《Mobile Legends: Bang Bang》，沐瞳在全球打造了专业化、国际化、生态丰富的电竞赛事体系，是率先建立海外职业电竞赛事体系的中国游戏厂商。
+! !
+加入沐瞳
+期待极具才华的你加入
+为全世界用户带去更多的游戏快乐！
+!
+廉政举报邮箱：myjsgwh@moonton.com 
+ ](javascript:;)  
+                                        
+                                   
+                         
+                    
+                   
+积极健康的游戏心态是健康游戏的开端，请您合理控制游戏时间，避免沉溺游戏影响生活，注意自我保护，防范网络陷阱。
+. All rights reserved.  ](#/Integrated/index)   增值电信业务经营许可证编号：沪B2-20170181
+ |  | 
+
+
+clickable button:
+
+<button>首页<button>
+<button>新闻<button>
+<button>游戏<button>
+<button>赛事<button>
+<button>关于我们<button>
+<button>加入我们<button>
+<button>查看更多<button>
+<button>沐瞳与葡萄牙电竞协会深化战略合作 共同推进《决胜巅峰》电竞生态发展More<button>
+<button>568万人见证Aurora PH夺冠，决胜巅峰M7世界总决赛2天3度刷新世界记录More<button>
+<button>沐瞳科技全球电竞规划发布：美洲赛区亮相，世界总决赛首登欧洲More<button>
+<button>听见创作力，沐瞳获两项NYX游戏大奖More<button>
+<button>沐瞳Golden Month重磅回归！万部手机与多款限定皮肤重磅上线More<button>
+<button>MCGG第五赛季登场，全新模式与主题活动同步开启More<button>
+<button>查看更多<button>
+<button>查看更多<button>
+<button>查看更多<button>
+<button>媒体资料库<button>
+<button>沐瞳科技<button>
+<button>银与绯<button>
+<button>魔法战棋<button>
+<button>幻世与冒险<button>
+<button>魔法英雄<button>
+<button>MLBB世界总决赛<button>
+<button>MLBB区域杯赛<button>
+<button>MLBB职业电竞联赛<button>
+<button>三方赛事<button>
+<button>合作伙伴<button>
+<button>公司介绍<button>
+<button>发展历程<button>
+<button>公司荣誉<button>
+<button>社会责任<button>
+<button>招聘入口<button>
+<button>热招职位<button>
+<button>我们的价值观<button>
+<button>我们的使命<button>
+<button>行业防沉迷自律公约<button>
+<button>未成年保护政策<button>
+<button>隐私保护政策<button>
+
+
+Each button is wrapped in a <button> tag
+
+----- WebWalker -----
+Thought: 我需要找到关于《Mobile Legends: Bang Bang》首次入选电竞世界杯以及前一年获得的重大电竞奖项的信息。首先，我应该访问“新闻”页面以获取相关资讯。
+
+Action: visit_page
+Action Input: {"button": "新闻"}
+
+----- VisitPage -----
+The web information is:
+
+#  ! ]( 
+            
+          
+地址：上海市闵行区万源路2138号泓茂中心11层(工作日10点-19点） 
+邮箱：HR@MOONTON.COM 
+新闻动态
+  *  ](
+  *  ](
+  *  ](
+  *  ](
+  *  ](
+  *  ](
+_1_ _..._ 
+!
+廉政举报邮箱：myjsgwh@moonton.com 
+ ](javascript:;)  
+                                        
+                                   
+                         
+                    
+                   
+积极健康的游戏心态是健康游戏的开端，请您合理控制游戏时间，避免沉溺游戏影响生活，注意自我保护，防范网络陷阱。
+. All rights reserved.  ](#/Integrated/index)   增值电信业务经营许可证编号：沪B2-20170181
+ |  | 
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>新闻<button>
+<button>游戏<button>
+<button>赛事<button>
+<button>关于我们<button>
+<button>加入我们<button>
+<button>2026/04/30听见创作力，沐瞳获两项NYX游戏大奖查看详情<button>
+<button>2026/02/17沐瞳Golden Month重磅回归！万部手机与多款限定皮肤重磅上线查看详情<button>
+<button>2026/02/12MCGG第五赛季登场，全新模式与主题活动同步开启查看详情<button>
+<button>2026/02/12沐瞳与葡萄牙电竞协会深化战略合作 共同推进《决胜巅峰》电竞生态发展查看详情<button>
+<button>2026/01/26568万人见证Aurora PH夺冠，决胜巅峰M7世界总决赛2天3度刷新世界记录查看详情<button>
+<button>2026/01/26沐瞳科技全球电竞规划发布：美洲赛区亮相，世界总决赛首登欧洲查看详情<button>
+<button>2<button>
+<button>3<button>
+<button>4<button>
+<button>5<button>
+<button>6<button>
+<button>7<button>
+<button>8<button>
+<button>12<button>
+<button>13<button>
+<button>媒体资料库<button>
+<button>沐瞳科技<button>
+<button>银与绯<button>
+<button>魔法战棋<button>
+<button>幻世与冒险<button>
+<button>魔法英雄<button>
+<button>MLBB世界总决赛<button>
+<button>MLBB区域杯赛<button>
+<button>MLBB职业电竞联赛<button>
+<button>三方赛事<button>
+<button>合作伙伴<button>
+<button>公司介绍<button>
+<button>发展历程<button>
+<button>公司荣誉<button>
+<button>社会责任<button>
+<button>招聘入口<button>
+<button>热招职位<button>
+<button>我们的价值观<button>
+<button>我们的使命<button>
+<button>行业防沉迷自律公约<button>
+<button>未成年保护政策<button>
+<button>隐私保护政策<button>
+
+----- WebWalker -----
+在新闻页面中，我需要查找与《Mobile Legends: Bang Bang》首次入选电竞世界杯以及前一年获得的重大电竞奖项相关的信息。目前的新闻内容似乎没有直接提及这些信息。因此，我应该访问“赛事”页面以获取更多关于电竞赛事的信息。
+
+Action: visit_page
+Action Input: {"button": "赛事"}
+
+----- VisitPage -----
+The web information is:
+
+#  ! ]( 
+            
+          
+地址：上海市闵行区万源路2138号泓茂中心11层(工作日10点-19点） 
+邮箱：HR@MOONTON.COM 
+          
+决胜巅峰世界总决赛
+! !
+!
+第七届MLBB世界总决赛
+2026年1月25日，第七届决胜巅峰世界总决赛（M7）在印尼雅加达 Tennis Indoor 场馆落幕。本届赛事共有来自全球 14 个核心赛区及外卡赛区的 22 支职业战队参加，争夺世界总冠军及百万美元奖金。最终，Aurora PH战队获得 M7 世界总冠军。据权威电竞数据网站Esports Charts统计，M7世界总决赛收视峰值突破568万，在2天内3度刷新了由自己保持的全球移动电竞纪录。
+Aurora PH
+PCU：5,680,511
+! !
+!
+第六届MLBB世界总决赛
+2024年12月15日，第六届决胜巅峰世界总决赛（M6）在马来西亚吉隆坡亚通体育馆圆满收官，菲律宾**Fnatic Onic** 战队以4:1的比分战胜印度尼西亚**Team Liquid** 战队，将M6世界总决赛冠军荣誉收入囊中，同时创下了全球移动电竞领域新的收视纪录。据权威电竞数据网站Esports Charts统计，M6以8560万小时总观看时长创下决胜巅峰（MLBB）世界总决赛系列赛事最高记录。马来西亚副首相兼乡村及区域发展部长Yang Amat Berhormat Dato Seri Dr. Ahmad Zahid Bin Hamidi莅临总决赛现场做开幕致辞。
+冠军：Fnatic Onic
+PCU：4129026
+! !
+!
+第五届MLBB世界总决赛
+2023年12月18日，第五届决胜巅峰世界总决赛（M5）在菲律宾马尼拉黎刹纪念体育馆圆满收官，占据主场优势的菲律宾战队AP.BREN以大比分4:3力克劲旅Onic Esports（印尼），将M5冠军奖杯收入囊中。M5峰值观看人数达到506万，再次刷新2023年全球移动电竞观赛纪录，成为年度全球热度最高的移动电竞赛事。
+  
+冠军：AP.BREN
+PCU：5,067,208
+! !
+!
+第四届MLBB世界总决赛
+2023年1月15日，第四届决胜巅峰世界总决赛（M4）在印尼雅加达落幕，本届赛事收视数据再创新巅峰，总观看时长超过7968万小时，峰值观看用户（PCU）突破426万，较之M3增加33.5%，这一数据刷新了MLBB电竞赛事的PCU纪录，同时**进入全球电竞赛事TOP3。**
+  
+冠军：ECHO
+PCU：4,268,018
+! !
+!
+第三届MLBB世界总决赛
+2021年12月，第三届决胜巅峰世界总决赛（M3）在新加坡举办，赛事共吸引全球16支队伍参赛，用超过10种语言面向全球直播。本次赛事总观看时长超过6000万小时，PCU最高达到319万，在全球移动电竞赛事中收视排名第3位。
+  
+冠军：BLACKLIST INTERNATIONAL
+PCU：3,191,404
+! !
+!
+第二届MLBB世界总决赛
+2021年1月，第二届决胜巅峰世界总决赛（M2）在新加坡举办。赛事累计观看量超过1.3亿人次，总观看时长达到4200万小时，最高同时在线人数达到308万，成为全球最具影响力的电竞比赛之一。
+  
+冠军：BREN ESPORTS 
+PCU：3,083,245
+! !
+!
+第一届MLBB世界总决赛
+2019年11月，第一届决胜巅峰世界总决赛（M1）在马来西亚吉隆坡成功举办，来自14个国家的16支战队参加，累计观看量超4000万人次，总观看时长近1000万小时。
+  
+冠军：EVOS LEGENDS
+PCU：648,069
+!
+!
+!
+!
+!
+!
+!
+决胜巅峰全球季中杯
+! !
+!
+2025决胜巅峰全球季中杯
+2025年8月2日，2025电竞世界杯・决胜巅峰全球季中杯（MSC）在沙特阿拉伯利雅得STC Esports Arena圆满收官。据Esports Charts统计，本届MSC赛事峰值观看用户突破306万，强势登顶电竞世界杯历史收视TOP1；观看时长高达5031万小时，平均观看用户突破59万，再次巩固了MSC作为电竞世界杯头部赛事的地位。
+! !
+!
+2024决胜巅峰全球季中杯
+2024年7月14日，电竞世界杯决胜巅峰（MLBB）暨决胜巅峰全球季中杯（MSC）总决赛在沙特利雅得圆满结束，马来西亚战队Selangor Red Giants（SRG）以4:3的比分，战胜菲律宾战队Falcons AP.Bren (FCAP)，摘得冠军赢得100万美元奖金。赛后，马来西亚首相安华·易卜拉欣（Anwar Ibrahim）在社媒平台上祝贺SRG夺冠。据权威电竞数据网站Esports Charts统计，MLBB项目总观赛时长超过2914万小时，总决赛峰值观看人数超238万，在电竞世界杯所有比赛项目中，两项数据均排名榜单TOP1。
+!
+!
+MSC
+MLBB职业电竞联赛
+! !
+!
+MPL 印尼
+MPL印尼成立于2017年，是东南亚地区目前最大的国家级电竞联赛。自创立以来，通过创新式的联盟化建设，实现了飞速发展。目前MPL印尼已经成功举办16个赛季，在2025年6月结束的第15赛季，创造了413.2万最高同时在线观看人数（PCU）的纪录，排名2025全球移动电竞赛事TOP1。
+  
+! !
+!
+MPL 菲律宾
+MPL菲律宾成立于2018年，并于第8赛季转变为永久席位制联盟。经过16个赛季的发展，已经成为菲律宾电竞产业的标杆职业联赛，目前共有TLPH、TNC、Aurora、ONIC.PH、FLPH、TWIS、OMG、APBR八支联盟化战队。在2025年6月结束的第15赛季赛事最高同时在线观看人数（PCU）达到180.2万，观看时长达3111万小时，双双创下MPL菲律宾电竞史上最高收视纪录。
+  
+! !
+!
+MPL 新加坡
+MPL新加坡成立于2017年，是该国唯一的专业电子竞技联赛。2023年结束的MPL新加坡第6赛季中，Team Flash在一场激烈的总决赛中击败了三届冠军RSG Singapore，首次夺得冠军。该场比赛创造了MPL新加坡历史最佳观赛数据，峰值观看人数超过67,000，观赛时长超过487,000小时。
+  
+! !
+!
+MPL 马来西亚
+MPL马来西亚始于2017年，并在2022年9月获得马来西亚纪录大全（Malaysia Book of Records）颁发的 “马来西亚最长寿的电竞锦标赛” 称号。在2025年11月结束的MPL马来西亚第16赛季中，最高峰值观看数突破60万，较之上赛季提升22.4%。
+  
+! !
+!
+MPL 拉丁美洲
+MPL拉美成立于2021年，其前身包含MPL巴西和MLBB拉美超级联赛（MLSL），这是沐瞳在东南亚以外举办的第一个MPL赛事。2024年，MPL巴西和其他拉美赛区进行了合并升级，统一为MPL拉美，它聚集了最好的MPL拉美职业战队，成为整个拉美顶级的移动电子竞技职业联赛。在2025年11月刚结束的MPL拉美第4赛季中，最高峰值观看人数较之上一赛季提升21.7%。
+  
+! !
+!
+MPL中东北非
+MPL中东&北非自2022年启动，截至2025年底，已成功举办8个赛季。联赛面向中东北非地区21个国家及地区开放战队注册，在2025年刚结束的第8赛季中，8支战队分别来自摩洛哥、沙特、埃及、伊拉克等国家，最高峰值观看人数较之上一赛季提升66.7%，总观看时长突破45万小时，较之上赛季提升11.7%。
+  
+! !
+!
+MPL 柬埔寨
+MPL柬埔寨成立于2021年8月，目前已经成功举办3届。在刚刚结束的2022年MPL柬埔寨秋季赛中，赛事总奖池为40000美元，这也是柬埔寨电竞历史上最大的奖金池。最终，BurnxTeam Flash战队摘得冠军，也成为第一支拿到第四届MLBB世界赛门票的战队。
+  
+!
+MPL印尼
+!
+MPL菲律宾
+!
+MPL新加坡
+!
+MPL马来西亚
+!
+MPL拉丁美洲
+!
+MPL中东北非
+!
+MPL 柬埔寨
+三方赛事
+! !
+!
+E-Project
+E-project是沐瞳推出的电竞合作项目项目，旨在让所有MLBB玩家实现他们的电子竞技梦想。我们欢迎所有公共机构、商业组织自己的MLBB锦标赛。Mobile Legends：Bang Bang将提供一定数量的奖励支持、技术支持以及一些宣传支持。
+  
+! !
+!
+MLBB世界女子邀请赛
+2022年1月，第一届《Mobile Legends: Bang Bang》世界女子邀请赛成功举办，邀请了来自东南亚的9支女子战队参赛，赛事最高同时在线人数（PCU）达到392,000，成为史上观看量最高的女子电竞赛事之一。  
+  
+! !
+!
+IESF世界电竞锦标赛
+2023年IESF 2023年世界锦标赛罗马尼亚成功举办，赛事吸引超60国战队参赛。在印尼对阵菲律宾的MLBB总决赛中，最高同时在线观看人数突破70万，创下本届IESF电竞赛事最高收视纪录。
+! !
+!
+Snapdragon Pro Series
+Snapdragon Pro Series MLBB项目始于2023年，由ESL FACEIT Group举办。ESL通过与沐瞳紧密合作，呈现了多个精彩的赛季。
+Snapdragon Pro Series不仅为草根选手和职业战队提供了舞台，也让所有热爱MLBB电竞的的玩家可以同台竞技，并有机会获得丰厚奖金，在国际舞台大显身手。
+  
+!
+!
+!
+!
+合作伙伴 *排名不分先后
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+_联系我们_ _：esports_partnerships@moonton.com_
+!
+廉政举报邮箱：myjsgwh@moonton.com 
+ ](javascript:;)  
+                                        
+                                   
+                         
+                    
+                   
+积极健康的游戏心态是健康游戏的开端，请您合理控制游戏时间，避免沉溺游戏影响生活，注意自我保护，防范网络陷阱。
+. All rights reserved.  ](#/Integrated/index)   增值电信业务经营许可证编号：沪B2-20170181
+ |  | 
+            
+
+
+Clickable buttons are wrapped in <button> tag
+<button>首页<button>
+<button>新闻<button>
+<button>游戏<button>
+<button>赛事<button>
+<button>关于我们<button>
+<button>加入我们<button>
+<button>媒体资料库<button>
+<button>沐瞳科技<button>
+<button>银与绯<button>
+<button>魔法战棋<button>
+<button>幻世与冒险<button>
+<button>魔法英雄<button>
+<button>MLBB世界总决赛<button>
+<button>MLBB区域杯赛<button>
+<button>MLBB职业电竞联赛<button>
+<button>三方赛事<button>
+<button>合作伙伴<button>
+<button>公司介绍<button>
+<button>发展历程<button>
+<button>公司荣誉<button>
+<button>社会责任<button>
+<button>招聘入口<button>
+<button>热招职位<button>
+<button>我们的价值观<button>
+<button>我们的使命<button>
+<button>行业防沉迷自律公约<button>
+<button>未成年保护政策<button>
+<button>隐私保护政策<button>
+
+----- WebWalker -----
+Memory:
+-Mobile Legends: Bang Bang首次入选电竞世界杯是在2025年，而前一年（2024年）获得的重大电竞奖项是2024决胜巅峰全球季中杯（MSC）冠军，由马来西亚战队Selangor Red Giants（SRG）获得。
+"}
+
+----- WebWalker -----
+Final Answer: Mobile Legends: Bang Bang首次入选电竞世界杯是在2025年，而前一年（2024年）获得的重大电竞奖项是2024决胜巅峰全球季中杯（MSC）冠军，由马来西亚战队Selangor Red Giants（SRG）获得。

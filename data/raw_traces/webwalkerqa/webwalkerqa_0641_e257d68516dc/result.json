@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0641_e257d68516dc",
+  "source_index": 641,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在中南大学计算机学院中负责转换专业工作和参与校际交流的副院长是谁？",
+  "prompt": "在中南大学计算机学院中负责转换专业工作和参与校际交流的副院长是谁？",
+  "expected_answer": "奎晓燕",
+  "root_url": "https://cse.csu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cse.csu.edu.cn/info/1054/1636.htm",
+      "https://cse.csu.edu.cn/info/1054/1650.htm"
+    ],
+    "golden_path": [
+      "root->本科生教育->计算机学院2018级本科生转换专业工作通知",
+      "root->本科生教育->大连理工大学软件学院来我院调研"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": "list index out of range",
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 4,
+  "duration_seconds": 23.16,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0641_e257d68516dc/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0641_e257d68516dc/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

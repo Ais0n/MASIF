@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0659_779778545a1c",
+  "source_index": 659,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在湖南工业大学计算机学院中，谁主持了2023年6月7日的学院治理体系建设研讨座谈会，并且在庆祝2024年“三八”妇女节活动中给女职工送上祝福和鲜花？",
+  "prompt": "在湖南工业大学计算机学院中，谁主持了2023年6月7日的学院治理体系建设研讨座谈会，并且在庆祝2024年“三八”妇女节活动中给女职工送上祝福和鲜花？",
+  "expected_answer": "黄贤明",
+  "root_url": "https://computer.hut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://computer.hut.edu.cn/info/1117/6619.htm",
+      "https://computer.hut.edu.cn/info/1037/8839.htm"
+    ],
+    "golden_path": [
+      "root->党建动态->计算机学院党委召开第二次主题教育专题研讨座谈会",
+      "root->工会工作->计算机学院开展庆“三八”妇女节活动"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "曹步清主持了2023年6月7日的学院治理体系建设研讨座谈会，并且在庆祝2024年‘三八’妇女节活动中给女职工送上祝福和鲜花。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 7,
+  "duration_seconds": 68.9,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0659_779778545a1c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0659_779778545a1c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "The predicted answer identifies Cao Buqing instead of the expected Huang Xianming.",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}

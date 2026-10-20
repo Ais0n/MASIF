@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0381_8c4a35e5b2d4",
+  "source_index": 381,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2020年6月16日，南京理工大学计算机学院党委在2010会议室召开党委理论学习中心组专题学习中，谁是主持人？",
+  "prompt": "2020年6月16日，南京理工大学计算机学院党委在2010会议室召开党委理论学习中心组专题学习中，谁是主持人？",
+  "expected_answer": "张世刚",
+  "root_url": "https://cs.njust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.njust.edu.cn/74/e5/c1769a226533/page.htm"
+    ],
+    "golden_path": [
+      "root->党建活动-><<上一页->计算机学院党委理论学习中心组学习贯彻习近平总书记致哈尔滨工业...2020-06-22"
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 52.213,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0381_8c4a35e5b2d4/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0381_8c4a35e5b2d4/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

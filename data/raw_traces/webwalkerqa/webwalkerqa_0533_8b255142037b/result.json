@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0533_8b255142037b",
+  "source_index": 533,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "2019年重阳节期间和随后的11月，浙江师范大学计算机科学与技术学院分别通过哪些活动形式向退休教职工传达敬意？",
+  "prompt": "2019年重阳节期间和随后的11月，浙江师范大学计算机科学与技术学院分别通过哪些活动形式向退休教职工传达敬意？",
+  "expected_answer": "走访慰问和赏秋景话院情活动",
+  "root_url": "http://cs.zjnu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "http://cs.zjnu.edu.cn/2019/1001/c16764a418050/page.htm",
+      "http://cs.zjnu.edu.cn/2019/1107/c16764a418052/page.htm"
+    ],
+    "golden_path": [
+      "root->工会动态->尾页->我院党政领导重阳节走访慰问退休老教师",
+      "root->工会动态-><<上一页->我院组织退休教师开展“赏秋景，话院情”主题活动"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 49.302,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0533_8b255142037b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0533_8b255142037b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

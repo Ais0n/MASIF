@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0216_b42c0fbec510",
+  "source_index": 216,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "北京工业大学计算机学院的高明霞教师，哪一年开始参与在研的北京市自然科学基金委员会项目？",
+  "prompt": "北京工业大学计算机学院的高明霞教师，哪一年开始参与在研的北京市自然科学基金委员会项目？",
+  "expected_answer": "2018",
+  "root_url": "https://cs.bjut.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.bjut.edu.cn/info/1408/1172.htm"
+    ],
+    "golden_path": [
+      "root->教师介绍->高明霞"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 45.01,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0216_b42c0fbec510/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0216_b42c0fbec510/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

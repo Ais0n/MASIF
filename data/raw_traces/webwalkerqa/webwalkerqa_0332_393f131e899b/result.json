@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0332_393f131e899b",
+  "source_index": 332,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在安徽大学2023年硕士研究生调剂的流程中，调剂申请的开放时间和面试报到的时间相隔多少小时？",
+  "prompt": "在安徽大学2023年硕士研究生调剂的流程中，调剂申请的开放时间和面试报到的时间相隔多少小时？",
+  "expected_answer": "32小时",
+  "root_url": "https://cs.ahu.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.ahu.edu.cn/2023/0405/c10986a304424/page.htm"
+    ],
+    "golden_path": [
+      "root->研究生通知-><<上一页->联合培养（滁州学院）计算机技术专业2023年硕士研究生招生调剂公..."
+    ],
+    "type": "single_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 35.732,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0332_393f131e899b/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0332_393f131e899b/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0646_c9da86889e3a",
+  "source_index": 646,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "南华大学计算机学院2024年6月举办的会议中，哪位导师的分享涉及推免至厦门大学的经验，而在2023年7月通过学术报告交流中，谁是受邀进行人机系统计算行为分析讲解的国际教授？",
+  "prompt": "南华大学计算机学院2024年6月举办的会议中，哪位导师的分享涉及推免至厦门大学的经验，而在2023年7月通过学术报告交流中，谁是受邀进行人机系统计算行为分析讲解的国际教授？",
+  "expected_answer": "段人骄和陈立明",
+  "root_url": "https://jsjxy.usc.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://jsjxy.usc.edu.cn/info/2037/11266.htm",
+      "https://jsjxy.usc.edu.cn/info/1993/10840.htm"
+    ],
+    "golden_path": [
+      "root->更多+->3->计算机学院物联网工程、网络工程专业举行保研、考研、就业分享会",
+      "root->更多+->4->英国奥斯特大学陈立明教授莅临南华大学作学术报告交流会"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 18,
+  "tool_calls": 8,
+  "duration_seconds": 43.112,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0646_c9da86889e3a/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0646_c9da86889e3a/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

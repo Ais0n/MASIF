@@ -1,0 +1,43 @@
+{
+  "task_id": "webwalkerqa_0536_1abe253116fb",
+  "source_index": 536,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "西南科技大学计算机科学与技术学院在2023年和2024年分别在哪一天举行了本科毕业答辩和与中国工程物理研究院的项目交流座谈会？",
+  "prompt": "西南科技大学计算机科学与技术学院在2023年和2024年分别在哪一天举行了本科毕业答辩和与中国工程物理研究院的项目交流座谈会？",
+  "expected_answer": "2023年12月11日和2024年4月12日",
+  "root_url": "https://cs.swust.edu.cn/",
+  "info": {
+    "domain": "education",
+    "source_website": [
+      "https://cs.swust.edu.cn/2024/0722/c10923a203440/page.htm；https://cs.swust.edu.cn/2024/0420/c10922a193636/page.htm"
+    ],
+    "golden_path": [
+      "root->学术动态->2->计算机科学与技术学院顺利进行2023年留学生本科毕业答辩和研究生开题答辩。2023年12月11日下午，学院2019级本科留学生和2023级研究生在东6E-206学术报告厅举行毕业论文答辩和开题答辩，此次共有7名本科生和2名研究生参与。此次答辩由学院学科...[2023-12-13]",
+      "root->学院动态->6->计算机科学与技术学院与中物院成都科学技术发展中心研究室举行项目交流座谈会2024年4月12日上午在在东六E209会议室，计算机科学与技术学院与中国工程物理研究院成都科学技术发展中心相关研究室举行项目合作交流座谈会。此次会议旨在加强双方的交流合作，共同推动相关技术...[2024-04-14]"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 11,
+  "tool_calls": 2,
+  "duration_seconds": 68.214,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0536_1abe253116fb/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0536_1abe253116fb/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

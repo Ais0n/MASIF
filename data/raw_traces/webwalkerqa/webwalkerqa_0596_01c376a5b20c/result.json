@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0596_01c376a5b20c",
+  "source_index": 596,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "Which proposal between IIP-67 and IIP-69 was ultimately adopted and improved the reward structure for Illuvium Beyond in September and October 2024?",
+  "prompt": "Which proposal between IIP-67 and IIP-69 was ultimately adopted and improved the reward structure for Illuvium Beyond in September and October 2024?",
+  "expected_answer": "IIP-69",
+  "root_url": "https://illuvium.io/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-september-2024",
+      "https://illuvium.io/news/illuvium-dao-governance-newsletter-october-2024"
+    ],
+    "golden_path": [
+      "root->News->Illuvium Beyond - Your Next D1SK->Illuvium DAO Governance Newsletter - September 2024",
+      "root->News->Illuvium Beyond - Your Next D1SK->Illuvium DAO Governance Newsletter - October 2024"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "hard",
+    "lang": "en"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 16.417,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0596_01c376a5b20c/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0596_01c376a5b20c/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

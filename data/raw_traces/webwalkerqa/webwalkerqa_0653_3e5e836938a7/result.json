@@ -1,0 +1,42 @@
+{
+  "task_id": "webwalkerqa_0653_3e5e836938a7",
+  "source_index": 653,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "在2021年度多元化与包容度进展报告中，拳头游戏的女性高层比例和内部包容指数哪个更高，分别是多少？",
+  "prompt": "在2021年度多元化与包容度进展报告中，拳头游戏的女性高层比例和内部包容指数哪个更高，分别是多少？",
+  "expected_answer": "内部包容指数更高，为85%；女性高层比例为25%。",
+  "root_url": "https://www.riotgames.com/zh-cn",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.riotgames.com/zh-cn/news/annual-diversity-and-inclusion-d-i-progress-report-2021-zh-cn"
+    ],
+    "golden_path": [
+      "root->多元与包容->年度多元化与包容度进展报告 - 2021"
+    ],
+    "type": "single_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 17,
+  "tool_calls": 8,
+  "duration_seconds": 28.12,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0653_3e5e836938a7/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0653_3e5e836938a7/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "no predicted answer",
+      "exact_norm_match": false,
+      "model": "rule"
+    }
+  }
+}

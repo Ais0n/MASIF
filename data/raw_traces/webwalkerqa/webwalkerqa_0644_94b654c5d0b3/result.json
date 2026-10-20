@@ -1,0 +1,44 @@
+{
+  "task_id": "webwalkerqa_0644_94b654c5d0b3",
+  "source_index": 644,
+  "benchmark": "WebWalkerQA",
+  "mas_config": "WebAgent/WebWalker",
+  "question": "多益网络旗下的游戏《梦想世界3》在2024年获得了哪个奖项，同时在同一年推出了哪款新战略手游？",
+  "prompt": "多益网络旗下的游戏《梦想世界3》在2024年获得了哪个奖项，同时在同一年推出了哪款新战略手游？",
+  "expected_answer": "2024年获得了“优秀手机游戏”奖项，同时推出了新的战略手游《万仙逐鹿》。",
+  "root_url": "https://www.duoyi.com/",
+  "info": {
+    "domain": "game",
+    "source_website": [
+      "https://www.duoyi.com/news/news_30902.shtm",
+      "https://www.duoyi.com/news/news_27230.shtm#sub-content"
+    ],
+    "golden_path": [
+      "root->更多->多益网络旗下产品荣获2024金手指奖两大奖项",
+      "root->多益网络旗下产品荣获2024金手指奖两大奖项->东方神话战略手游《万仙逐鹿》测试火热开启"
+    ],
+    "type": "multi_source",
+    "difficulty_level": "medium",
+    "lang": "zh"
+  },
+  "final_answer": "多益网络旗下的游戏《梦想世界3》在2024年获得了奖项，同时推出了新战略手游《王于兴师》。",
+  "judge": null,
+  "semantic_success": false,
+  "run_error": null,
+  "drift_status": null,
+  "drift_reason": null,
+  "num_steps": 5,
+  "tool_calls": 1,
+  "duration_seconds": 80.496,
+  "console_path": "data/raw_traces/webwalkerqa/webwalkerqa_0644_94b654c5d0b3/console_log.txt",
+  "trace_path": "data/raw_traces/webwalkerqa/webwalkerqa_0644_94b654c5d0b3/trace.json",
+  "original_outcome_before_rejudge": {
+    "semantic_success": false,
+    "judge": {
+      "verdict": "wrong",
+      "reason": "malformed judge response: { \"verdict",
+      "exact_norm_match": false,
+      "model": "gemini-3.1-pro-preview"
+    }
+  }
+}
